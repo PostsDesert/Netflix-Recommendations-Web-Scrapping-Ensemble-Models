@@ -1,0 +1,69 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Billie Joe Armstrong",
+            "url": "/name/nm0035626/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tré Cool",
+            "url": "/name/nm0177566/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mike Dirnt",
+            "url": "/name/nm0228238/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 291,
+        "ratingValue": 8.2,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0014905/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0073465/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0127944/"
+        }
+    ],
+    "datePublished": "2001-11-13",
+    "description": "Collection of Green Day music videos from Dookie (1994) to Warning (2000)",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Lance Bangs",
+            "url": "/name/nm0051972/"
+        },
+        {
+            "@type": "Person",
+            "name": "Evan Bernard",
+            "url": "/name/nm0076215/"
+        },
+        {
+            "@type": "Person",
+            "name": "Roman Coppola",
+            "url": "/name/nm0178910/"
+        }
+    ],
+    "duration": "PT1H",
+    "genre": [
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI2NjIwNTg2MF5BMl5BanBnXkFtZTcwMTM2MDQyMQ@@._V1_.jpg",
+    "keywords": "music video collection,punctuation in title,exclamation point in title,color in title",
+    "name": "Green Day: International Supervideos!",
+    "url": "/title/tt0476242/"
+}

@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mel Gibson",
+            "url": "/name/nm0000154/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jamie Lee Curtis",
+            "url": "/name/nm0000130/"
+        },
+        {
+            "@type": "Person",
+            "name": "Elijah Wood",
+            "url": "/name/nm0000704/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 48496,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0000700/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0073417/"
+        },
+        {
+            "@type": "Person",
+            "name": "J.J. Abrams",
+            "url": "/name/nm0009190/"
+        }
+    ],
+    "datePublished": "1992-12-16",
+    "description": "During a cryogenics test, a pilot frozen in 1939 awakes in 1992 but time is running out, as his body starts to age rapidly.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Steve Miner",
+            "url": "/name/nm0591171/"
+        }
+    ],
+    "duration": "PT1H42M",
+    "genre": [
+        "Drama",
+        "Romance",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYjIzMzYyNzYtMzVjYi00Njg0LThmOTItOGFjMjAyM2IwM2RhXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+    "keywords": "1930s,love,pilot,boy,single mother",
+    "name": "Forever Young",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "spteos"
+        },
+        "dateCreated": "1999-12-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0104291/"
+        },
+        "name": "A gentle, thoughtful, family-style offering",
+        "reviewBody": "Forever Young goes in a lot of familiar directions -- time travel, a cuddly child and a single mom, a mix of drama, comedy, sci-fi, mystery and romance. But mostly, it manages to be entertaining without offending anyone or forcing the issue.\n\nThe early portion of the show -- set in 1939 -- offers a soft, dreamy, realistic look at what that time was like. The characters seem to have been drawn from the audience, from the masses, instead of being picture-perfect in look and dress. The acting is low-key, relaxing and believable. And, while the plot covers a lot of ground, it ties together well and has enough mystery that the viewer won't be able to guess the outcome and is sure to be satisfied with both the journey and the destination.\n\nForever Young reminded me of Always, starring Holly Hunter and Richard Dreyfuss. Both shows are loaded with characters that are easy to like because of who they are and how they respond. Mel Gibson in Forever Young is particularly effective when dealing with the son of Jamie Lee Curtis; you know she's already committed and he cannot hang around, but you find yourself wishing the boy could have Mel for his new dad.\n\nNot offering more shows like this is why theaters have so few under-12 and over-35 movie goers.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0104291/"
+}

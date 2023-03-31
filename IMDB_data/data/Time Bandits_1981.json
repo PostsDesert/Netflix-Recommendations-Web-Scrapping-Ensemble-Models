@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sean Connery",
+            "url": "/name/nm0000125/"
+        },
+        {
+            "@type": "Person",
+            "name": "Shelley Duvall",
+            "url": "/name/nm0001167/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Cleese",
+            "url": "/name/nm0000092/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 65391,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103514/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Palin",
+            "url": "/name/nm0001589/"
+        },
+        {
+            "@type": "Person",
+            "name": "Terry Gilliam",
+            "url": "/name/nm0000416/"
+        }
+    ],
+    "datePublished": "1981-11-06",
+    "description": "A young boy accidentally joins a band of time travelling dwarves, as they jump from era to era looking for treasure to steal.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Terry Gilliam",
+            "url": "/name/nm0000416/"
+        }
+    ],
+    "duration": "PT1H50M",
+    "genre": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODg1NGYwN2MtNWI0OC00N2RiLWE4YzMtOTlhZTgxNmI3NTM0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "time travel,alternate dimension,napoleon,time traveler,time portal",
+    "name": "Time Bandits",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "65535"
+        },
+        "dateCreated": "2000-04-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0081633/"
+        },
+        "name": "It's a wavelength thing",
+        "reviewBody": "It IS a wavelength thing. Terry Gilliam's films are ALL Terry Gilliam films. They all have that certain something, some kind of feeling about them that makes them instantly recognizable. The same can be said of the Coen brothers. Unfortunately, movies that are that personal and unique do not work for everybody. For the people that just can't get into Gilliam films, I hope there's another filmmaker that inspires childlike wonderment in you. Because it's a great feeling. Time Bandits is magic. I've seen it many times (over 10) and each time, I find something new about it. It's a fine example of a movie that works for children and adults alike. When I saw it for the first time at age 8, I enjoyed the fantasy, adventure, and basic good vs. evil story. As I got older I started appreciating the social commentary on consumerism, the Python-esque humor, and just how imaginative and skillfully done the movie is. After watching it again yesterday, I'm having trouble deciding which is the better movie; Brazil or Time Bandits."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer For Time Bandits",
+        "duration": "PT3M9S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1883637529",
+        "name": "Time Bandits",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTllNTViZDEtYjIwMS00MzBiLWE5NDMtYWI2ODhhN2NlYmUyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTllNTViZDEtYjIwMS00MzBiLWE5NDMtYWI2ODhhN2NlYmUyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-06-10T03:36:40Z",
+        "url": "https://www.imdb.com/video/vi1883637529/"
+    },
+    "url": "/title/tt0081633/"
+}

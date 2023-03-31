@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Danny Kaye",
+            "url": "/name/nm0001414/"
+        },
+        {
+            "@type": "Person",
+            "name": "Walter Slezak",
+            "url": "/name/nm0805790/"
+        },
+        {
+            "@type": "Person",
+            "name": "Barbara Bates",
+            "url": "/name/nm0060845/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3429,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Person",
+            "name": "Philip Rapp",
+            "url": "/name/nm0710865/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harry Kurnitz",
+            "url": "/name/nm0475823/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nikolay Gogol",
+            "url": "/name/nm0324690/"
+        }
+    ],
+    "datePublished": "1949-12-31",
+    "description": "A town's corrupt officials think a fool is actually an investigator in disguise.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Henry Koster",
+            "url": "/name/nm0467396/"
+        }
+    ],
+    "duration": "PT1H42M",
+    "genre": [
+        "Comedy",
+        "Musical",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTg0MjdhZDktMGQzNy00MTg0LWFiZTAtMjNkNTFlZTQ0NGM0XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg",
+    "keywords": "screwball comedy,horseback riding,shooting into the air,shooting a bird in flight,kiss on both cheeks",
+    "name": "The Inspector General",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "haildevilman"
+        },
+        "dateCreated": "2006-01-05",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0041509/"
+        },
+        "name": "How can we have Gypsy song without Gypsy chorus?",
+        "reviewBody": "Hysterical. Danny Kaye is a comedy genius.\n\nThe Gypsy song was the best part of the film. (Zummm-shtok-shtok-hahaha) This is worth a look for this scene alone. It was fun watching the crowd get into it. I'd guess that scene was mostly ad-libbed. He clearly was in control. I bought the DVD (public domain) just for that scene.\n\nThe supporting cast did a great job too. Slezak nearly stole all of his scenes and Hale Sr. was perfect in support. And the costume designer deserved at least a nomination for the Oscar. \n\nYou can't take this one seriously. But then Danny Kaye lived to entertain. And few did it better.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT53S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1918943513",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZmY5OTVkZTctYWFiYy00NDQyLTg1YjktZjNlNmEyN2YzYzQxXkEyXkFqcGdeQW1haXdlbm4@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZmY5OTVkZTctYWFiYy00NDQyLTg1YjktZjNlNmEyN2YzYzQxXkEyXkFqcGdeQW1haXdlbm4@._V1_.jpg",
+        "uploadDate": "2021-01-22T11:19:26.562Z",
+        "url": "https://www.imdb.com/video/vi1918943513/"
+    },
+    "url": "/title/tt0041509/"
+}

@@ -91,7 +91,7 @@ def read_movies_from_csv(file_path):
     return movies
 
 def write_IMDB_data_to_file(movie, IMDB_data):
-    with open(f'IMDB_data/data/{movie["name"]}_{movie["year"]}.json', 'w') as outfile:
+    with open(f'IMDB_data/data/{movie["name"].replace("/", "|")}_{movie["year"]}.json', 'w') as outfile:
         outfile.write(IMDB_data)
 
 def write_movie_to_file(file, movie):

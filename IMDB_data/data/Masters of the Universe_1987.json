@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dolph Lundgren",
+            "url": "/name/nm0000185/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frank Langella",
+            "url": "/name/nm0001449/"
+        },
+        {
+            "@type": "Person",
+            "name": "Meg Foster",
+            "url": "/name/nm0001236/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 42136,
+        "ratingValue": 5.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0206391/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0006728/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0080240/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Odell",
+            "url": "/name/nm0643973/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen Tolkin",
+            "url": "/name/nm0006809/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gary Goddard",
+            "url": "/name/nm0323787/"
+        }
+    ],
+    "datePublished": "1987-08-07",
+    "description": "The heroic warrior He-Man battles against the evil lord Skeletor and his armies of darkness for control of Castle Grayskull.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Gary Goddard",
+            "url": "/name/nm0323787/"
+        }
+    ],
+    "duration": "PT1H46M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYzRlMzQzNDEtYTg5My00NTFjLWFiYzYtMjJkMzUyYzJjMzgyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "masters of the universe,magical sword,superhero,good versus evil,warrior",
+    "name": "Masters of the Universe",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dcarrano"
+        },
+        "dateCreated": "2000-07-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0093507/"
+        },
+        "name": "are you all nuts??",
+        "reviewBody": "I can't believe how many positive comments there are for this movie!! This movie may have single-handedly ruined my childhood. Okay, exaggeration, but come on, the plot, script, and acting are nowhere near the level of a decent, \"real\" movie. It makes \"Batman and Robin\" look good!!\n\nThe comparison to \"Beastmaster 2\" in the sarcastic comment below is accurate. It's just as bad in terms of plot/acting/script, and it actually makes the same mistake: setting most of the action on Earth rather than in the fantasy atmosphere of the original. By this one action, they take everything that made the cartoon exciting to kids and flush it down the toilet.\n\nA real stinker!!"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Masters of the Universe",
+        "duration": "PT1M39S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1094320921",
+        "name": "Masters of the Universe",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTdiN2E0NjAtODgzMi00ZjJkLWI5MzUtZTBkYzg4YTFhNzA4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTdiN2E0NjAtODgzMi00ZjJkLWI5MzUtZTBkYzg4YTFhNzA4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-02-04T06:55:38Z",
+        "url": "https://www.imdb.com/video/vi1094320921/"
+    },
+    "url": "/title/tt0093507/"
+}

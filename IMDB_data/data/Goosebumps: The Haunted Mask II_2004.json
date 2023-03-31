@@ -1,0 +1,45 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "J.D. Daniels",
+            "url": "/name/nm0199961/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ted Kryczko",
+            "url": "/name/nm11619923/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anndi McAfee",
+            "url": "/name/nm0563884/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Person",
+            "name": "R.L. Stine",
+            "url": "/name/nm0830419/"
+        }
+    ],
+    "description": "An audio book of 'Goosebumps: The Haunted Mask II'.",
+    "duration": "PT1H",
+    "genre": [
+        "Fantasy",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNmFhYTAxY2UtNjE2ZS00OWY2LWEzMzMtNTgzZTA5ODQwY2EzXkEyXkFqcGdeQXVyMTEwNDU1MzEy._V1_.jpg",
+    "keywords": "audiobook,audio only",
+    "name": "Goosebumps Audiobook - The Haunted Mask II",
+    "url": "/title/tt12411882/"
+}

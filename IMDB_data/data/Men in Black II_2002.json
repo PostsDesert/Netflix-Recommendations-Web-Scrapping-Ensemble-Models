@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tommy Lee Jones",
+            "url": "/name/nm0000169/"
+        },
+        {
+            "@type": "Person",
+            "name": "Will Smith",
+            "url": "/name/nm0000226/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rip Torn",
+            "url": "/name/nm0001800/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 383580,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0009119/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0108321/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lowell Cunningham",
+            "url": "/name/nm0192384/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Gordon",
+            "url": "/name/nm0330565/"
+        },
+        {
+            "@type": "Person",
+            "name": "Barry Fanaro",
+            "url": "/name/nm0266673/"
+        }
+    ],
+    "datePublished": "2002-07-03",
+    "description": "Agent Jay is sent to find Agent Kay and restore his memory after the re-appearance of a case from Kay's past.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Barry Sonnenfeld",
+            "url": "/name/nm0001756/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMxNDA0NTMxMV5BMl5BanBnXkFtZTYwMDE2NzY2._V1_.jpg",
+    "keywords": "lingerie,michael jackson character,calzone,video conference,leather outfit",
+    "name": "Men in Black II",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "tabuno"
+        },
+        "dateCreated": "2019-01-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120912/"
+        },
+        "name": "Better and Worse Than the First",
+        "reviewBody": "3 July 2002. Men In Black II is one of the truly unique films in that it is both better and worse than the original. I admire the risks taken to make this movie more interesting but at the same time it bombs in some of its overly cute lines and plot-ploys. I laughed heartedly in spots, more than I have in a while, but that other times, I could only shake my head at how dumb and flat some of the one-line moments were. One fascinating directing, script technique that is rarely seen in a comedy is the use of silence, the prolonged pause and the use of facial expressions, and the moment to carry the scene. This approach usually worked in this movie, which I think is saying a lot because it is extremely difficult to pull off successfully most of the time and it takes good acting and directing to do it. There was more tender moments in this movie than the original - better serious, moments. Both actors were great in their acting, acting in the difficult parts where body and facial expression counted more than dialogue. There were times that Wil Smith never completed his lines, but with great success. I would have to say overall, Men In Black II wasn't a great movie, but it was entertaining, interesting, took risks, and broke new comedic ground in bringing back real comedy and one-liners that sometimes died, but just as well, were brilliant. A great worthwhile attempt. A must for home video or should I say DVD now.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Agent J needs help so he is sent to find Agent K and restore his memory",
+        "duration": "PT2M10S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1097638425",
+        "name": "Theatrical Version",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTU2NDUzMDg5Ml5BMl5BanBnXkFtZTgwMTE0OTIyMzE@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTU2NDUzMDg5Ml5BMl5BanBnXkFtZTgwMTE0OTIyMzE@._V1_.jpg",
+        "uploadDate": "2012-06-15T17:33:30Z",
+        "url": "https://www.imdb.com/video/vi1097638425/"
+    },
+    "url": "/title/tt0120912/"
+}

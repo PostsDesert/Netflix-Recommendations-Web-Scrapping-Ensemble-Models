@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mel Gibson",
+            "url": "/name/nm0000154/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nick Stahl",
+            "url": "/name/nm0001763/"
+        },
+        {
+            "@type": "Person",
+            "name": "Margaret Whitton",
+            "url": "/name/nm0926592/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 30100,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000700/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0073417/"
+        },
+        {
+            "@type": "Person",
+            "name": "Isabelle Holland",
+            "url": "/name/nm0390708/"
+        },
+        {
+            "@type": "Person",
+            "name": "Malcolm MacRury",
+            "url": "/name/nm0534352/"
+        }
+    ],
+    "datePublished": "1993-08-25",
+    "description": "Chuck wants to leave home but can't make the grade for boarding school. Then he finds out the disfigured recluse living nearby is an ex-teacher.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mel Gibson",
+            "url": "/name/nm0000154/"
+        }
+    ],
+    "duration": "PT1H55M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMGYyNzA0MTctNWQ4My00YTA5LTkxZmItYWQwYzcwNzU1YTdiXkEyXkFqcGdeQXVyNDQzMDg4Nzk@._V1_.jpg",
+    "keywords": "directorial debut,disfigured face,directed by star,coming of age,disfigurement",
+    "name": "The Man Without a Face",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bwian"
+        },
+        "dateCreated": "2006-03-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0107501/"
+        },
+        "name": "one of Gibson's best",
+        "reviewBody": "Mel Gibson gives one of his best performances as the disfigured ex-teacher who takes a troubled young boy (Nick Stahl) under his wing as tutor, mentor, and friend. while the idea of two outcasts, one an adult teacher and the other a young teen boy, forming a bond is not new, the story is still compelling. the suspicions surrounding Mcleod (gibson) and his past lead to new allegations. the allegations are answered when Mcleod asks Charles what he thinks about McLeod's past based on their relationship. McLeod forces Charles to think and judge based on his knowledge not on suspicion or hearsay. the final scene speaks volumes about what their relationship was and what it meant to each of them. this film ranks up there with \"a separate peace\" and \"dead poet's society\" as a teen awakening film.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2499150105",
+        "name": "Man Without A Face",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZWNlMjZmZTEtZjE0OS00MmExLTgzZjAtMWJhNWMzNWRhMjExXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZWNlMjZmZTEtZjE0OS00MmExLTgzZjAtMWJhNWMzNWRhMjExXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:56:25Z",
+        "url": "https://www.imdb.com/video/vi2499150105/"
+    },
+    "url": "/title/tt0107501/"
+}

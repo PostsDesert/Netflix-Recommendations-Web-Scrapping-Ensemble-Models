@@ -1,0 +1,91 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Wesley Snipes",
+            "url": "/name/nm0000648/"
+        },
+        {
+            "@type": "Person",
+            "name": "Annabella Sciorra",
+            "url": "/name/nm0001711/"
+        },
+        {
+            "@type": "Person",
+            "name": "Spike Lee",
+            "url": "/name/nm0000490/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 18958,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0029134/"
+        },
+        {
+            "@type": "Person",
+            "name": "Spike Lee",
+            "url": "/name/nm0000490/"
+        }
+    ],
+    "datePublished": "1991-06-07",
+    "description": "Friends and family of a married black architect react in different ways to his affair with an Italian secretary.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Spike Lee",
+            "url": "/name/nm0000490/"
+        }
+    ],
+    "duration": "PT2H12M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjM5MTQxMDk2Ml5BMl5BanBnXkFtZTgwODQ2MDc3NjE@._V1_.jpg",
+    "keywords": "architect,interracial affair,harlem manhattan new york city,family relationships,religious fanatic",
+    "name": "Jungle Fever",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "arthurpewty"
+        },
+        "dateCreated": "2001-02-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0102175/"
+        },
+        "name": "Judging it again years later",
+        "reviewBody": "I saw Jungle Fever for the first time years ago, when it first came out on video. By the movie's end, I was lost. Part of it may have been maturity - I was in junior high - and part of it was that the movie I was sold was not the movie I got. Part of this selling is Stevie Wonder's title song, which frequently finds its way into my tapedeck. And the kind of color-blind love Wonder sings about is not the relationship in this movie. Something I feel now as I felt then was that the film does not let us get close to these people, let us see them in love. Only now do I realize that this is because the film is not about two people in love. When I first saw it, I thought the film was advocating segregation from the \"other side.\" Now I realize that it just showing the complexity of issues which come to play when a black person and white person from separatist neighborhoods come together, and mostly how those environments are changed. There are things to overcome, but this relationship will not overcome them. I am still puzzled by the rather large subplot involving Samuel L. Jackson as Wesley Snipes's crackhead brother and by the final shot where Wesley Snipes clutches a crack-whore to himself and screams \"NO!\" while the camera rushes from halfway across Harlem to end in a close-up on him. It's indelible - most of what has stuck with me about this movie over time involves this subplot and that shot - but I am still puzzled by its intention in the overall scheme of what the film is trying to say. Something about the endless problems facing black people?"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT2M31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2828206361",
+        "name": "Jungle Fever",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNWQzNjRmMDAtMWRjNC00NjRiLTkxZGMtODY0ZmVkODBmNjY1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNWQzNjRmMDAtMWRjNC00NjRiLTkxZGMtODY0ZmVkODBmNjY1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:52:40Z",
+        "url": "https://www.imdb.com/video/vi2828206361/"
+    },
+    "url": "/title/tt0102175/"
+}

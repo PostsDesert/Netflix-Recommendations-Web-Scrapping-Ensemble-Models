@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "David Carradine",
+            "url": "/name/nm0001016/"
+        },
+        {
+            "@type": "Person",
+            "name": "Claudia Jennings",
+            "url": "/name/nm0421128/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Lynch",
+            "url": "/name/nm0528433/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2145,
+        "ratingValue": 4.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0064409/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nicholas Niciphor",
+            "url": "/name/nm0629947/"
+        },
+        {
+            "@type": "Person",
+            "name": "Donald E. Stewart",
+            "url": "/name/nm0829329/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frances Doel",
+            "url": "/name/nm0230357/"
+        }
+    ],
+    "description": "Futuristic Science Fiction about a sport to the death, using \"destructocycles\".",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Allan Arkush",
+            "url": "/name/nm0035106/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nicholas Niciphor",
+            "url": "/name/nm0629947/"
+        },
+        {
+            "@type": "Person",
+            "name": "Roger Corman",
+            "url": "/name/nm0000339/"
+        }
+    ],
+    "duration": "PT1H22M",
+    "genre": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjVhMzg0NTctOWM4My00YTkxLWFiMzItMzg3NDRkOWQ2NWVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "person on fire,tortured to death,sadist,female gladiator,overlord",
+    "name": "Deathsport",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "gridoon"
+        },
+        "dateCreated": "2002-06-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0077414/"
+        },
+        "name": "Incredibly inept.",
+        "reviewBody": "The previous comments hit the mark perfectly. This is one of the clunkiest, most inept, most plotless post-apocalyptic \"sci-fi\" flicks you're ever likely to see. Claudia Jennings has a showstopping nude scene, but that's not a strong enough reason to sit through \"Deathsport\"'s awful sound effects, insufferably bad dialogue and lame action scenes. (*1/2)",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 3,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M13S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2088157465",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYTZhNjlmMDctMWViOS00MWI4LTliMGItOGZmYTk2MDlkMWJiXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTZhNjlmMDctMWViOS00MWI4LTliMGItOGZmYTk2MDlkMWJiXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-01-15T20:02:41.678Z",
+        "url": "https://www.imdb.com/video/vi2088157465/"
+    },
+    "url": "/title/tt0077414/"
+}

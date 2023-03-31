@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mel Gibson",
+            "url": "/name/nm0000154/"
+        },
+        {
+            "@type": "Person",
+            "name": "Linda Hunt",
+            "url": "/name/nm0001373/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christian Bale",
+            "url": "/name/nm0000288/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 192429,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0008970/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0017902/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0074039/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carl Binder",
+            "url": "/name/nm0082772/"
+        },
+        {
+            "@type": "Person",
+            "name": "Susannah Grant",
+            "url": "/name/nm0335666/"
+        },
+        {
+            "@type": "Person",
+            "name": "Philip LaZebnik",
+            "url": "/name/nm0493857/"
+        }
+    ],
+    "datePublished": "1995-06-23",
+    "description": "An English soldier and the daughter of an Algonquin chief share a romance when English colonists invade seventeenth century Virginia.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mike Gabriel",
+            "url": "/name/nm0300265/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eric Goldberg",
+            "url": "/name/nm0325196/"
+        }
+    ],
+    "duration": "PT1H21M",
+    "genre": [
+        "Animation",
+        "Adventure",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzc4YzhiN2ItY2Y4NC00YTA0LWEyMjEtNzllNTcxZDdjODhiXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_.jpg",
+    "keywords": "native american protagonist,female protagonist,disobedience,noble savage,pocahontas character",
+    "name": "Pocahontas",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Chrysanthepop"
+        },
+        "dateCreated": "2007-10-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0114148/"
+        },
+        "name": "OK, I think the low rating is very unfair!.",
+        "reviewBody": "'Pocahontas' is certainly not among the best films to come out of Disney but in my humble opinion it deserves more than 5.7. I found it to be very charming, with wonderful characters, fantastic animation, stunning visuals, sweet chemistry between the lovers, lovely songs (Colours of the Wind is breathtaking), and simple Disney entertainment. I liked the way it ended, somewhat differently from other Disney films.\n\nMy only complaint is that I didn't like it when one of the Indians got killed and how Pocahontas was more concerned about never seeing John. Also the father forgiving John immediately was unrealistic. More character development was required for us to at least understand the father's character. The dialogues were a little clichéd. It was also strange to see Pocahontas communicating with John in English.\n\nHaving read about 'Pocahontas' I found it very unfair that it was labelled a racist film. Where was the racism? If anything, it's about bringing people together. It's about unconditional love that can exist both within and between races. I also think it was very unfair that the film was trashed for not being historically accurate. Come on, it's a Disney film for kids not some kind of epic film. Perhaps the unconventional ending (quite non-Disney) was too much to take for some people.\n\nHowever, except for the flaws I mentioned, I think it's a great film and one can really enjoy it especially because of the visual beauty and the beautiful songs and I loved the characters Percy, Meeko and Flit. They provided some memorable comic relief."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Build Reel A - Multi Language Reel",
+        "duration": "PT41S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi549454105",
+        "name": "Pocahontas: 10th Anniversary Edition",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZGIzOWIwN2MtY2VmNi00MzQ5LWIzZjktZDdlYjM2ZjU4NTEyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZGIzOWIwN2MtY2VmNi00MzQ5LWIzZjktZDdlYjM2ZjU4NTEyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-08-04T03:38:38Z",
+        "url": "https://www.imdb.com/video/vi549454105/"
+    },
+    "url": "/title/tt0114148/"
+}
