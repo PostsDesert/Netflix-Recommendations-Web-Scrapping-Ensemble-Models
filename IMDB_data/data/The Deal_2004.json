@@ -1,0 +1,51 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bernard Hill",
+            "url": "/name/nm0384060/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sean Gallagher",
+            "url": "/name/nm0302491/"
+        },
+        {
+            "@type": "Person",
+            "name": "Miranda Raison",
+            "url": "/name/nm0707214/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9,
+        "ratingValue": 5.4,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Person",
+            "name": "Jimmy Weedon",
+            "url": "/name/nm0917266/"
+        }
+    ],
+    "datePublished": "2004-10-15",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jimmy Weedon",
+            "url": "/name/nm0917266/"
+        }
+    ],
+    "duration": "PT10M",
+    "genre": [
+        "Drama",
+        "Short"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzM3ODQzOTI2OV5BMl5BanBnXkFtZTgwNjgxMTQ3NDE@._V1_.jpg",
+    "name": "The Deal",
+    "url": "/title/tt0432269/"
+}

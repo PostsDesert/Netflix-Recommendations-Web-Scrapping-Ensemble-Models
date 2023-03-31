@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kirk Douglas",
+            "url": "/name/nm0000018/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kim Novak",
+            "url": "/name/nm0001571/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ernie Kovacs",
+            "url": "/name/nm0468237/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2467,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0068126/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0136682/"
+        },
+        {
+            "@type": "Person",
+            "name": "Evan Hunter",
+            "url": "/name/nm0402805/"
+        }
+    ],
+    "datePublished": "1960-06-30",
+    "description": "A suburban architect loves his wife but is bored with his marriage and with his work, so he takes up with the neglected, married beauty who lives down the street.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Richard Quine",
+            "url": "/name/nm0703689/"
+        }
+    ],
+    "duration": "PT1H57M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYjllMTYxZjUtNTZkNi00MmNhLWFmZmItNWNmMTc0MGEyOGYwXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_.jpg",
+    "keywords": "architect,loveless marriage,house construction,mother son relationship,housewife",
+    "name": "Strangers When We Meet",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bdplaid"
+        },
+        "dateCreated": "2004-01-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0054345/"
+        },
+        "name": "A fine post-50's suburban potboiler",
+        "reviewBody": "If viewed from the morality of the period, this is actually quite a good movie. It attempted to tell a story about and comment on American family life, particularly on repressed desires and wedded relationships in the suburbs just before the \"swinging 60's\" exploded. Hearing Walter Matthau sum up his marital role as merely being considered \"furniture in his own home\" speaks volumes about what this film is about. Kim Novak is the sexy wife and mother to one family. Living down the manicured street is Kirk Douglas, the virile husband and dad in another - both living their lives against the backdrop of 1950's-60's morality. You do the math...\n\nIs it worthy of awards? No. Is the conflict entertaining? You bet! Definitely worth a look to those who like films from this era.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT2M39S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi742440729",
+        "name": "Strangers When We Meet",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjUzMWM3ZWMtMTg3Zi00MDUzLWExMGYtOTVkM2E2OGRlMTQ2XkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjUzMWM3ZWMtMTg3Zi00MDUzLWExMGYtOTVkM2E2OGRlMTQ2XkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-02-08T17:02:41.129Z",
+        "url": "https://www.imdb.com/video/vi742440729/"
+    },
+    "url": "/title/tt0054345/"
+}

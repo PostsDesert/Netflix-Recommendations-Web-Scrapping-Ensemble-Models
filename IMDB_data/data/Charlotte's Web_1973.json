@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Debbie Reynolds",
+            "url": "/name/nm0001666/"
+        },
+        {
+            "@type": "Person",
+            "name": "Henry Gibson",
+            "url": "/name/nm0002099/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Lynde",
+            "url": "/name/nm0001489/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 21607,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0024579/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0028869/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Person",
+            "name": "E.B. White",
+            "url": "/name/nm0924754/"
+        },
+        {
+            "@type": "Person",
+            "name": "Earl Hamner Jr.",
+            "url": "/name/nm0358839/"
+        }
+    ],
+    "datePublished": "1973-03-01",
+    "description": "Wilbur is a farm pig who's terrified that he'll end up on the dinner table. His friend Charlotte, a charming spider, comes to his rescue. She weaves words into her web, convincing the farmer that Wilbur is too special a pig to kill.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Charles Nichols",
+            "url": "/name/nm0629363/"
+        },
+        {
+            "@type": "Person",
+            "name": "Iwao Takamoto",
+            "url": "/name/nm0847314/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Animation",
+        "Adventure",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYWVmZjNkOWQtZmI1MC00NDA4LWJjN2ItZTFmMGI0NGFkNmNhXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+    "keywords": "boy,pig,spider,runt,children",
+    "name": "Charlotte's Web",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "smaugy"
+        },
+        "dateCreated": "2004-06-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0070016/"
+        },
+        "name": "great kids' movie; not obnoxious for adults",
+        "reviewBody": "I just rented this for my kids (ages 4 & 6) and had completely forgotten that adults can enjoy it, too. I'm quite weary of the obnoxious Disney-fication of most kids movies these days. (Spare me any more simpering princess stories.) The story of the clever spider who tries to save a pig from becoming breakfast meat is a familiar one and can be appreciated by many. The voice talent here is so superb that the movie doesn't make you rue the day they decided to animate the book. The songs aren't overly saccharine and are actually quite catchy. The movie is worth it alone for Templeton's trip to the fair and \"a fair is a veritable smorgasbord-orgasbord-orgasbord\" song. Debbie Reynolds' Charlotte is warm and wise, Wilber is naive and friendly, and Templeton provides the perfect foil as a spoiled rat who's just in it for himself. Agnes Moorehead as the goose became a sort of comedic extra to make the little ones laugh in the face of the rather adult plot about life and death. Overall, it's a movie for the whole family."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for this classic animated tale",
+        "duration": "PT3M42S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3138062105",
+        "name": "Charlotte's Web (1973)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZWIzNDAwY2UtYmJmMS00YTk3LTg2YTMtYWFkN2Y5MGY3NWZmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZWIzNDAwY2UtYmJmMS00YTk3LTg2YTMtYWFkN2Y5MGY3NWZmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-05-18T15:00:08Z",
+        "url": "https://www.imdb.com/video/vi3138062105/"
+    },
+    "url": "/title/tt0070016/"
+}

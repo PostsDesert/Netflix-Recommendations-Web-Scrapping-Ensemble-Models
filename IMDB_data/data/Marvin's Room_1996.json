@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Meryl Streep",
+            "url": "/name/nm0000658/"
+        },
+        {
+            "@type": "Person",
+            "name": "Leonardo DiCaprio",
+            "url": "/name/nm0000138/"
+        },
+        {
+            "@type": "Person",
+            "name": "Diane Keaton",
+            "url": "/name/nm0000473/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 28776,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0093765/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0063961/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0100455/"
+        },
+        {
+            "@type": "Person",
+            "name": "Scott McPherson",
+            "url": "/name/nm0574259/"
+        }
+    ],
+    "datePublished": "1997-02-28",
+    "description": "After seventeen years, a fiercely independent woman and her rebellious son return home and together they turn the family she left behind upside down.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jerry Zaks",
+            "url": "/name/nm0952360/"
+        }
+    ],
+    "duration": "PT1H38M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTk0ZDk3YWItZDZlOC00Y2FiLTgxNzYtODZmYzdkYWVmNmRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "bone marrow transplant,friendship,leukemia,nursing home,doctor",
+    "name": "Marvin's Room",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "moonspinner55"
+        },
+        "dateCreated": "2006-08-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0116999/"
+        },
+        "name": "Sloppily-constructed sentiment...",
+        "reviewBody": "Neurotic, selfish, chain-smoking Meryl Streep goes to visit estranged sister Diane Keaton--currently the caretaker of their dying father--and all their old grudges come to the fore. Comedy-drama about sad sacks leans heavily on its sentimental trappings, with each character learning a thing or two about \"the bonds of family\". Despite the fact she obviously isn't a smoker, Meryl Streep is very amusing; Diane Keaton is convincing as a fussy smudge who stops fidgeting every now and then to beam with life; Robert De Niro has an incredibly benign role as a befuddled doctor; Leonardo DiCaprio is good as a sullen teenager (who also gets an education); but Hume Cronyn has a rather insulting role as a stroke-victim (a gratuitously-injected character who seems an after-thought of screenwriter Scott McPherson, adapting his play). This is the kind of tearjerker that aims for your gut but gets you in the teeth. This genre never seems to go out of vogue, and I for one resent it when heartstrings are not just tugged but yanked. However, since it's preconceived how we're supposed to feel about Keaton's character, I would say she still comes through with an interesting performance, garnering the film's sole Oscar nomination as Best Actress. The film certainly has its strengths, yet it's a routine soap opera, not a transcendent one. **1/2 from ****",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT2M23S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3572473369",
+        "name": "Marvin's Room",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZWFiYzU3MWYtOWU0Ny00ODI2LTg1NWEtYmQ2NzMxODA2YjlmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZWFiYzU3MWYtOWU0Ny00ODI2LTg1NWEtYmQ2NzMxODA2YjlmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-10-26T03:35:47Z",
+        "url": "https://www.imdb.com/video/vi3572473369/"
+    },
+    "url": "/title/tt0116999/"
+}

@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Elijah Wood",
+            "url": "/name/nm0000704/"
+        },
+        {
+            "@type": "Person",
+            "name": "Viggo Mortensen",
+            "url": "/name/nm0001557/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ian McKellen",
+            "url": "/name/nm0005212/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1872346,
+        "ratingValue": 9,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0046718/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0046203/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0061706/"
+        },
+        {
+            "@type": "Person",
+            "name": "J.R.R. Tolkien",
+            "url": "/name/nm0866058/"
+        },
+        {
+            "@type": "Person",
+            "name": "Fran Walsh",
+            "url": "/name/nm0909638/"
+        },
+        {
+            "@type": "Person",
+            "name": "Philippa Boyens",
+            "url": "/name/nm0101991/"
+        }
+    ],
+    "datePublished": "2003-12-17",
+    "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Peter Jackson",
+            "url": "/name/nm0001392/"
+        }
+    ],
+    "duration": "PT3H21M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "keywords": "journey,orc,middle earth,hobbit,ring",
+    "name": "The Lord of the Rings: The Return of the King",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "TheLittleSongbird"
+        },
+        "dateCreated": "2011-03-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0167260/"
+        },
+        "name": "Pretty much outstanding",
+        "reviewBody": "I admit it, I love all three Lord of the Rings films. People may say Return of the King is the best of the trilogy, some may say it is the worst. I personally think Two Towers is the best for its scope and better exploration of some of the characters, but while it is still great Return of the King is better than Fellowship of the Ring.\n\nMy only slight disappointment is the ending, it does feel overlong and bloated for me, almost as if there was more than one ending filmed. That said, what does make the ending at least watchable for me is the way it is shot, the marvellous score and the performance of Gollum.\n\nDespite this minor discrepancy, Return of the King is extremely good and in my view one of the better Best Picture winners last decade. Peter Jackson's direction is very impressive here, and the scope is massive and just dazzling to watch. All three films of the trilogy are very well made, but Return of the King defines the term epic. The cinematography is mind-blowing, the scenery is superb, the costumes and make-up are well tailored, the effects are superb and don't distract too much and the lighting is authentic.\n\nThe score is phenomenal. Fellowship of the Ring had some ethereal, rousing, haunting and charming themes, whereas Two Towers was somewhat darker and more complex. Return of the King merges these together and the result is a perfect mixture of charm, darkness, etherality and complexity. The story is compelling with themes of friendship, strength and loyalty, the screenplay is well-written and literate and while the film is very long the three hours or so fly by seamlessly. The characters are engaging, Aragorn is even more interesting here than he is in the previous films while Gollum continues to steal every scene he appears in.\n\nThe acting is very good. Orlando Bloom(who I can find dashing yet uncharismatic and bland) and John Rhys-Davies are given less to do but do carry their parts very well, and Elijah Wood is likable enough. Sean Astin captures Sam perfectly and provides the heart of the picture, and Viggo Mortenssen is at his charismatic best here. Ian McKellen is perfectly cast, while the design of Gollum is still superb and Andy Serkis is equally phenomenal. I was slightly disappointed by the lack of any Sarauman, but I was more than I was satisfied with the final result.\n\nAll in all, an outstanding entry to a great trilogy. 10/10 Bethany Cox",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+        "duration": "PT1M41S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi718127897",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDRmNjQxOWItNTY3MS00M2ExLWJiYWYtNGQ2OTI5MWRkYWFlXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDRmNjQxOWItNTY3MS00M2ExLWJiYWYtNGQ2OTI5MWRkYWFlXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-12-20T13:30:40.728Z",
+        "url": "https://www.imdb.com/video/vi718127897/"
+    },
+    "url": "/title/tt0167260/"
+}

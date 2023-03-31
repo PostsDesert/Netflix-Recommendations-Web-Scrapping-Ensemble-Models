@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tim Young",
+            "url": "/name/nm0950114/"
+        },
+        {
+            "@type": "Person",
+            "name": "Todd Rex",
+            "url": "/name/nm0721005/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tiffany Shepis",
+            "url": "/name/nm0791898/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1228,
+        "ratingValue": 3.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0042909/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0032789/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0087490/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jason White",
+            "url": "/name/nm1281688/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Cunningham",
+            "url": "/name/nm0192244/"
+        },
+        {
+            "@type": "Person",
+            "name": "Emmanuel Itier",
+            "url": "/name/nm0411654/"
+        }
+    ],
+    "datePublished": "2003-03-25",
+    "description": "When high school loner Lester is betrayed then viciously murdered, the bodies start stacking up as the scarecrow seeks vengeance from beyond the grave.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Emmanuel Itier",
+            "url": "/name/nm0411654/"
+        }
+    ],
+    "duration": "PT1H26M",
+    "genre": [
+        "Comedy",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNGEzMDk1ZjctMzQ5My00YzlmLTkxNWEtZWZiZDc3NTEwMzljXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+    "keywords": "slasher,part of trilogy,first part,killed with pin,teen slasher",
+    "name": "Scarecrow",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "grinch_4"
+        },
+        "dateCreated": "2006-06-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0341564/"
+        },
+        "name": "Less than average",
+        "reviewBody": "I'm watching this on the Sci-Fi channel right now. It's so horrible I can't stop watching it! I'm a Videographer and this movie makes me sad. I feel bad for anyone associated with this movie. Some of the camera work is good. Most is very questionable. There are a few decent actors in the flick. Too bad they're surrounded by what must have been the director's relatives. That's the only way they could have been qualified to be in a movie! Music was a little better than the acting. If you get around to watching this I hope it's because there was absolutely NO other option! The sequel (yes sequel) is coming on now....I think I'll skip it! Jason",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 2,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Scarecrow",
+        "duration": "PT1M44S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4001693977",
+        "name": "Scarecrow (2002)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjIyZGZhZDItNzc3NC00ZTk0LWIyNmQtYmU2MzliZTczMTE4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjIyZGZhZDItNzc3NC00ZTk0LWIyNmQtYmU2MzliZTczMTE4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:58:59Z",
+        "url": "https://www.imdb.com/video/vi4001693977/"
+    },
+    "url": "/title/tt0341564/"
+}

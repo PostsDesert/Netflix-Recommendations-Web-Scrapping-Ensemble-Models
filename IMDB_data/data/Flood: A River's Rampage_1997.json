@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Richard Thomas",
+            "url": "/name/nm0001796/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kate Vernon",
+            "url": "/name/nm0894690/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nigel Bennett",
+            "url": "/name/nm0000911/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 357,
+        "ratingValue": 4.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0069955/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0012412/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0029143/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jonathan Rintels",
+            "url": "/name/nm0727776/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edward Hume",
+            "url": "/name/nm0401742/"
+        }
+    ],
+    "datePublished": "1998-08-01",
+    "description": "Starring Scott Wickware (the hard hat worker from Welcome to Dead House), this film tells the story of a flood wreaking havoc on a small Mississippi town, and features a family struggling with the ordeal surrounding them.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bruce Pittman",
+            "url": "/name/nm0685923/"
+        }
+    ],
+    "duration": "PT1H36M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUzMTg2NzMwNF5BMl5BanBnXkFtZTcwMDYxNTYxMQ@@._V1_.jpg",
+    "keywords": "flood",
+    "name": "Flood: A River's Rampage",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "meyvin"
+        },
+        "dateCreated": "1998-08-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0132965/"
+        },
+        "name": "During the 1993 floods along the Mississippi, a wo...",
+        "reviewBody": "During the 1993 floods along the Mississippi, a woman engineer returns to her home town and inspires its inhabitants to fight to save it from being engulfed by the river. This involves her in working closely with a former boyfriend. A conventional but well-produced drama, with nice performances from Thomas and Vernon."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Paramount",
+        "duration": "PT49S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2812739865",
+        "name": "Flood: A River's Rampage",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjlkYjM2ZjUtM2MzOC00NDM0LWJmNDktMzA4NTViN2Q1NmY4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjlkYjM2ZjUtM2MzOC00NDM0LWJmNDktMzA4NTViN2Q1NmY4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:09:37Z",
+        "url": "https://www.imdb.com/video/vi2812739865/"
+    },
+    "url": "/title/tt0132965/"
+}

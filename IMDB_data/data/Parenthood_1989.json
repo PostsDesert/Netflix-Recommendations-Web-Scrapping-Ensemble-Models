@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Steve Martin",
+            "url": "/name/nm0000188/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mary Steenburgen",
+            "url": "/name/nm0005460/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dianne Wiest",
+            "url": "/name/nm0001848/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 52092,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0003687/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lowell Ganz",
+            "url": "/name/nm0304665/"
+        },
+        {
+            "@type": "Person",
+            "name": "Babaloo Mandel",
+            "url": "/name/nm0541632/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ron Howard",
+            "url": "/name/nm0000165/"
+        }
+    ],
+    "datePublished": "1989-08-02",
+    "description": "Three Buckman siblings attempt to raise their children - each in their own different style - and deal with the joys and sorrows that the process brings.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ron Howard",
+            "url": "/name/nm0000165/"
+        }
+    ],
+    "duration": "PT2H4M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ3OTIwNzI2OV5BMl5BanBnXkFtZTgwNjgwNTcxMTE@._V1_.jpg",
+    "keywords": "single mother,father son relationship,sexual awakening,husband wife relationship,little girl",
+    "name": "Parenthood",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "d858thompson"
+        },
+        "dateCreated": "2005-02-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0098067/"
+        },
+        "name": "Good performances from a lot of good actors",
+        "reviewBody": "This is a classic ensemble film. It has an amazing cast of very talented people. I wonder how they got so lucky to get so many really good actors together with such varied films behind them. Steve Martin does a really good job and never has a bad moment in the film but the rest of the cast is great. Easily, one of Keanu Reeves' best early films. Joaquin Phoenix is great in his role. Dianne Wiest is priceless and has some really good scenes, including those with her daughter Martha Plimpton. Whatever happened to Martha Plimpton by the way? She was great in this and in \"Running on Empty.\" Who plays that grandmother? She's great! Mary Steenburgen, Rick Moranis... Goes on and on. And the great Jason Robards. One of the finest actors this world has ever known. This is really a good movie about families - the good and bad side of them and some great moments about fatherhood. This is really, really a good movie and one that can be appreciated by so many people. A good rental - a good family movie. Go for it!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Parenthood",
+        "duration": "PT1M27S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi126786329",
+        "name": "Parenthood",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZGQ0MTY1MmUtMjZhZS00OWEzLTg3N2EtMGYzZjhhMDEwYWUxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZGQ0MTY1MmUtMjZhZS00OWEzLTg3N2EtMGYzZjhhMDEwYWUxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-01-14T06:22:53Z",
+        "url": "https://www.imdb.com/video/vi126786329/"
+    },
+    "url": "/title/tt0098067/"
+}

@@ -1,0 +1,84 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Chad Lowe",
+            "url": "/name/nm0005165/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kristin Davis",
+            "url": "/name/nm0004862/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gerald McRaney",
+            "url": "/name/nm0574468/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 599,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "TV-G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0058425/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Denver",
+            "url": "/name/nm0000135/"
+        },
+        {
+            "@type": "Person",
+            "name": "Arthur Tobier",
+            "url": "/name/nm0864910/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen Harrigan",
+            "url": "/name/nm0364201/"
+        }
+    ],
+    "datePublished": "2000-04-30",
+    "description": "John Denver achieved fame, fortune, and acclaim for his iconic country-pop music, but his sunny personality masked private pain and dark secrets that his celebrity could never heal.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jerry London",
+            "url": "/name/nm0518719/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Biography",
+        "Drama",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZmYwM2M3OTYtNmU2OS00ZDdjLWE3MzYtMDYwMGRiOGFhYTQ5XkEyXkFqcGdeQXVyMTIzNTI5NTM1._V1_.jpg",
+    "keywords": "singer,husband wife relationship,singing,wife asking husband for divorce,plane",
+    "name": "Take Me Home: The John Denver Story",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jerifredell"
+        },
+        "dateCreated": "2000-05-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0224214/"
+        },
+        "name": "John Denver's personality was not correctly portrayed in movie.",
+        "reviewBody": "While the movie touched on some very basic parts of John Denver's life as listed in his autobiography, it seemed to be more about Annie Denver than about John. The actor portraying John Denver made him look simple-minded and shallow - NOT the personality I've observed for two decades at concerts and at televised interviews!"
+    },
+    "url": "/title/tt0224214/"
+}

@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Samuel L. Jackson",
+            "url": "/name/nm0000168/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rick Gonzalez",
+            "url": "/name/nm0327779/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Ri'chard",
+            "url": "/name/nm0722647/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 157184,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0119394/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0034438/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0035058/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Schwahn",
+            "url": "/name/nm0777043/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Gatins",
+            "url": "/name/nm0309691/"
+        }
+    ],
+    "datePublished": "2005-01-14",
+    "description": "Controversy surrounds high school basketball coach Ken Carter after he benches his entire team for breaking their academic contract with him.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Thomas Carter",
+            "url": "/name/nm0141961/"
+        }
+    ],
+    "duration": "PT2H16M",
+    "genre": [
+        "Biography",
+        "Drama",
+        "Sport"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNWYxZWFiNTItN2FkNS00ZDJmLWE1MWItYjMyMTgyOTI4MmQ4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "underage drinking,teenager,single mother,gang violence,drug dealing",
+    "name": "Coach Carter",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "cstu11"
+        },
+        "dateCreated": "2005-01-15",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0393162/"
+        },
+        "name": "Not your average basketball movie",
+        "reviewBody": "While basketball is used as the backdrop for the movie, Coach Carter really isn't about basketball. The real heart of the movie is in the way Coach Carter begins to turn the lives around of the players on his basketball team by showing them that someone actually cares about what happens to them after high school.\n\nAt one point in the movie Carter (played perfectly by Samuel L. Jackson) asks a player why he plays basketball and he responds with \"to win the state title\" - which of course gets him high fives from the rest of the team. Carter then asks the team who won the state title last year and nobody knows the answer. Carter tries to show his players that high school basketball is not about winning but about discipline, respect and the confidence to accomplish any goal.\n\nIf you are thinking about going to see Coach Carter as a basketball movie, I suggest seeing another movie, but if you want to see a truly inspiring story go see Coach Carter."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Paramount Home Entertainment",
+        "duration": "PT2M33S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4257087769",
+        "name": "Coach Carter",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZmFiYjc4MTYtODM5MC00NmQ4LTlhNzAtZjBmMDFjOWQ2ZjkzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZmFiYjc4MTYtODM5MC00NmQ4LTlhNzAtZjBmMDFjOWQ2ZjkzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:28:08Z",
+        "url": "https://www.imdb.com/video/vi4257087769/"
+    },
+    "url": "/title/tt0393162/"
+}

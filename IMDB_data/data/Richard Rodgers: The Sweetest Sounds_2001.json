@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVEpisode",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Julie Andrews",
+            "url": "/name/nm0000267/"
+        },
+        {
+            "@type": "Person",
+            "name": "Diahann Carroll",
+            "url": "/name/nm0140792/"
+        },
+        {
+            "@type": "Person",
+            "name": "Barbara Cook",
+            "url": "/name/nm0176904/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 98,
+        "ratingValue": 8.1,
+        "worstRating": 1
+    },
+    "contentRating": "TV-14",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0627878/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0664753/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0071395/"
+        },
+        {
+            "@type": "Person",
+            "name": "Laurence Maslon",
+            "url": "/name/nm1480070/"
+        }
+    ],
+    "datePublished": "2001-10-21",
+    "description": "Richard Rodgers' contributions to the musical theatre were extraordinary, and his influence on the musical theatre of today and tomorrow is legendary He was the recipient of countless awards, including Pulitzers, Tonys, Oscars, an...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Roger Sherman",
+            "url": "/name/nm0792571/"
+        }
+    ],
+    "duration": "PT2H",
+    "genre": [
+        "Documentary",
+        "Biography",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTQ2NzQxMjg1Ml5BMl5BanBnXkFtZTcwNTc2MTIyMQ@@._V1_.jpg",
+    "keywords": "songwriter,character name in title",
+    "name": "Richard Rodgers: The Sweetest Sounds",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "davesf"
+        },
+        "dateCreated": "2007-07-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0384468/"
+        },
+        "name": "An historic tribute to stirring musical history",
+        "reviewBody": "This is a wonderful documentary. And much more.\n\nThere are some films that could be made any time, any place. This isn't one of them. It contains extraordinary archival footage and priceless interviews. The whole is very well put together and really gives you a sense of the personal struggles and monumental achievements of Rodgers and his colleagues Hart and Hammerstein. It is both beautiful and heartbreaking. It's also a tribute to persistence, hard work, and the nature and importance of \"good luck\". (I think my favorite part of the movie is the vignette of Rodgers and Hart bemoaning their lack of traction early in their career.)\n\nThis is a love story to Rodgers, to America, and to the American musical theater as an art form. If you have any interest in musical theater, it is a \"must-see\".",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "timeRequired": "PT2H",
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "American Masters: Richard Rogers: The Sweetest Sounds",
+        "duration": "PT1M9S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi574405657",
+        "name": "American Masters: Richard Rogers: The Sweetest Sounds",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzhkNDRiMDctMDNkNS00MTgyLTk0ZjYtZTcwYTZhMjEyZTU2XkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzhkNDRiMDctMDNkNS00MTgyLTk0ZjYtZTcwYTZhMjEyZTU2XkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg",
+        "uploadDate": "2019-06-15T13:01:51.887Z",
+        "url": "https://www.imdb.com/video/vi574405657/"
+    },
+    "url": "/title/tt0384468/"
+}

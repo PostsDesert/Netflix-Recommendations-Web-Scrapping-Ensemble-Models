@@ -1,0 +1,85 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Barbara Hershey",
+            "url": "/name/nm0001347/"
+        },
+        {
+            "@type": "Person",
+            "name": "Naveen Andrews",
+            "url": "/name/nm0004710/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Doe",
+            "url": "/name/nm0230335/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 231,
+        "ratingValue": 5.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0063993/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0000341/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0002927/"
+        },
+        {
+            "@type": "Person",
+            "name": "Julie Jacobs",
+            "url": "/name/nm0414492/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sheila Nayar",
+            "url": "/name/nm0623237/"
+        }
+    ],
+    "description": "A taxi driver (Naveen Andrews) picks up a fare (Barbara Hershey) in Manhattan. She offers the driver a large sum to drive her to the desert. While the pair drive across the country, the woman tries various strategies to lure the d...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Carl Colpaert",
+            "url": "/name/nm0173207/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTY3ZWVlM2EtOTEyZC00MTEwLWEzM2UtOTJkMzNjNjZjZjhiXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+    "keywords": "kiss,four word title,car,sex scene,driving a car",
+    "name": "Drowning on Dry Land",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "chandra99"
+        },
+        "dateCreated": "2003-06-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0187820/"
+        },
+        "name": "Unbelievable and dull, Andrews is the only highlight.",
+        "reviewBody": "Bad writing, aimless direction, and the constant interruption by inexplicable Indian music make this movie basically unwatchable. \n\nBarbara Hershey and Naveen Andrews have no chemistry whatsoever. Also the idea that this beautiful young man would be attracted to the much older Hershey's lifeless and weird character is just too far to stretch suspension of disbelief. Starts nowhere, and never engages any interest, or sympathy, beyond the unsatisfied hope that something might happen soon. The only bright spot is Naveen Andrews, cranky and withholding as his character is, at least he's interesting to watch and has an inner life and energy even when hampered by senseless dialogue."
+    },
+    "url": "/title/tt0187820/"
+}

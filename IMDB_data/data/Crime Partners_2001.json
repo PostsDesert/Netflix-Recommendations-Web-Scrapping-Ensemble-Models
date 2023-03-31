@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tyrin Turner",
+            "url": "/name/nm0877928/"
+        },
+        {
+            "@type": "Person",
+            "name": "John 'B.J.' Bryant",
+            "url": "/name/nm0117135/"
+        },
+        {
+            "@type": "Person",
+            "name": "Clifton Powell",
+            "url": "/name/nm0694066/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 294,
+        "ratingValue": 3.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0069698/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0066697/"
+        },
+        {
+            "@type": "Person",
+            "name": "Donald Goines",
+            "url": "/name/nm0324786/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kenneth McGriff",
+            "url": "/name/nm0570048/"
+        }
+    ],
+    "datePublished": "2003-03-25",
+    "description": "Billy Goode, a street-smart crook and his partner Jackie Williams are two small time gangsters with dream of seeing their names in the headlines.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "J. Jesses Smith",
+            "url": "/name/nm0808527/"
+        }
+    ],
+    "duration": "PT1H42M",
+    "genre": [
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY2ODcyMTk5OF5BMl5BanBnXkFtZTcwNzM0NzUxMQ@@._V1_.jpg",
+    "keywords": "racial slur,police detective,murder,gangster,drug addict",
+    "name": "Crime Partners",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "phatprettykitty"
+        },
+        "dateCreated": "2005-09-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0265133/"
+        },
+        "name": "Crime Partners",
+        "reviewBody": "I as I weeped not because I was glad to see a movie made from a book written by my favorite authors, but at the tragedy that took place. This movie was horrible. I was hurt because I paid for it before previewing it first If i can help anyone out there, this is my effort do NOT waste your time or money. I am sure Donald Goines thought this would be a proud moment in his literary career. But, unfortunately, this was turned into a injustice to his literary work. The acting was so bad that I could not stand to watch this movie without closing my eyes praying the next scene would be better. How can you put seasoned actors in a movie where the director must have been a new graduate.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 1,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Ventura Distribution",
+        "duration": "PT1M42S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2517611545",
+        "name": "Crime Partners 2000",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BN2E4YzBiYjAtMzVlZC00NjUyLWI4MDAtYTE2OWI2OGE1NDlmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BN2E4YzBiYjAtMzVlZC00NjUyLWI4MDAtYTE2OWI2OGE1NDlmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2016-06-03T21:14:09Z",
+        "url": "https://www.imdb.com/video/vi2517611545/"
+    },
+    "url": "/title/tt0265133/"
+}

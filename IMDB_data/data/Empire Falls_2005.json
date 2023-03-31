@@ -1,0 +1,82 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ed Harris",
+            "url": "/name/nm0000438/"
+        },
+        {
+            "@type": "Person",
+            "name": "Philip Seymour Hoffman",
+            "url": "/name/nm0000450/"
+        },
+        {
+            "@type": "Person",
+            "name": "Helen Hunt",
+            "url": "/name/nm0000166/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6024,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "TV-14",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005861/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0093810/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0267015/"
+        }
+    ],
+    "datePublished": "2005-05-28",
+    "description": "A decaying New England town is the backdrop for its unique citizens, led by unassuming restaurant manager Miles Roby.",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYzM3Yjg5MGEtMTM0MC00MDg0LWI5NzgtODI4ZDI5ZmI5ZDI0XkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_.jpg",
+    "keywords": "blue collar,restaurant,maine,restaurant manager,death",
+    "name": "Empire Falls",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "drednm"
+        },
+        "dateCreated": "2005-05-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0376591/"
+        },
+        "name": "I Am from Maine...",
+        "reviewBody": "and this Richard Russo novel is realistic in its depiction of the state. Very nice little film (or mini-series) that boasts some terrific performances from Ed Harris (too old though), Paul Newman, Joanne Woodward, Kate Burton, William Fichtner, Aidan Quinn, Theresa Russell, Jeffrey DeMunn, Estelle Parsons, Robin Wright, Philip Seymour Hoffman, and Dennis Farina. Howvever, I did NOT like Helen Hunt and her fake accent. And the kids were all faky. I recognized shots from Camden and Brunswick. I even met Russo at a Camden breakfast place on the harbor. But a nice effort and production here. A very sad story about lost hope and lost chances, but very realistic in the long run. Harris, Newman, and Woodward will win Emmys. And as a graduate of University of Maine in Orono (BA and MA) I recognized a lot of the logging pictures they showed at the beginning. A very classy HBO effort all around. I look forward to Russo's future novels."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from HBO Home Video",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi664994073",
+        "name": "Empire Falls",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzhiMDA5NTMtNTZiZS00OWJlLTk3ZWYtODA4MGM3MzU0MDA1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzhiMDA5NTMtNTZiZS00OWJlLTk3ZWYtODA4MGM3MzU0MDA1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:54:55Z",
+        "url": "https://www.imdb.com/video/vi664994073/"
+    },
+    "url": "/title/tt0376591/"
+}

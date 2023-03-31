@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jack Scalia",
+            "url": "/name/nm0768815/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stepfanie Kramer",
+            "url": "/name/nm0469671/"
+        },
+        {
+            "@type": "Person",
+            "name": "Howard Dell",
+            "url": "/name/nm0217320/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 114,
+        "ratingValue": 5.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0074385/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0012388/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0009286/"
+        },
+        {
+            "@type": "Person",
+            "name": "Simon Abbott",
+            "url": "/name/nm0008056/"
+        }
+    ],
+    "datePublished": "1994-07-27",
+    "description": "A photojournalist gets a tip from an undercover cop about a major raid, then finds herself in danger after witnessing the cop's murder from a hiding place. However, her view of the killer was restricted. She then gets involved wit...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Paul Ziller",
+            "url": "/name/nm0956484/"
+        }
+    ],
+    "duration": "PT1H38M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA3NDA4NDg5MV5BMl5BanBnXkFtZTcwNjAwMzEzMQ@@._V1_.jpg",
+    "keywords": "female reporter,photo journalist,undercover cop,police raid gone wrong,witness to a murder",
+    "name": "Beyond Suspicion",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "SnoopyStyle"
+        },
+        "dateCreated": "2016-04-15",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0109259/"
+        },
+        "name": "TV police drama",
+        "reviewBody": "Photo journalist Karen Rikehardt (Stepfanie Kramer) stakes out a warehouse where the police is about to raid a criminal gang after a tip from police detective Jerry Moon. Karen is in the room when Jerry is murdered. While she doesn't see the killer, she may have photographed him. Police Serg. Morgan (Jack Scalia) confiscates her film. Internal affairs Capt. Townsend suspects Morgan as a dirty cop and gets him suspended. Morgan is told in a mysterious phone call to get close to Karen. She is divorced with a daughter named Sara. He rescues her from two escaped prisoners and they begin a sexual relationship.\n\nThis is a TV police drama that isn't that compelling. The writing is stiff. The dialog has no color. The story is flat and has no tension. It's a late night TV movie with some B-level action and a little cheesy soft-rock nudity. The acting from the two leads is functional. I would suggest skipping this.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 4,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0109259/"
+}

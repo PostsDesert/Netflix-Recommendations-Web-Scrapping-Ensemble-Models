@@ -1,0 +1,94 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "James Donald",
+            "url": "/name/nm0232019/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrew Keir",
+            "url": "/name/nm0445139/"
+        },
+        {
+            "@type": "Person",
+            "name": "Barbara Shelley",
+            "url": "/name/nm0791176/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 10762,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0060069/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nigel Kneale",
+            "url": "/name/nm0460600/"
+        }
+    ],
+    "datePublished": "1968-02-07",
+    "description": "A mysterious artifact is unearthed in London, and famous scientist Bernard Quatermass is called in to divine its origins and explain its strange effects on people.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Roy Ward Baker",
+            "url": "/name/nm0001928/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Horror",
+        "Mystery",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzdiMGEyZjItOWE3ZS00NmY3LWI3MDctZmVhOTljZWNkNzBmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTYxNjkxOQ@@._V1_.jpg",
+    "keywords": "lovecraftian,dream recorder,dream recording,psychotronic film,kaiju",
+    "name": "Quatermass and the Pit",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "AaronCapenBanner"
+        },
+        "dateCreated": "2013-11-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0062168/"
+        },
+        "name": "A British Quatermass!",
+        "reviewBody": "Roy Ward Baker directed this belated(10 years later) third entry in the Quatermass saga, this time casting a proper British actor to play British rocket group scientist Bernard Quatermass, called in to investigate a skeleton found near a presumed undetonated German bomb in the London underground being excavated for a new subway line, that turns out to be an alien spacecraft with Martian insect-humanoids aboard. James Donald plays Professor Roney, in charge of the dig, and one of the few unaffected by the Martian attempt to use their human descendants to purge all those not part of the hive... Intelligent, ambitious, and audacious science fiction story may have some off-putting elements, and primitive model F/X, but remains a prime example of how to do this kind of story right. Based on the Nigel Kneale miniseries, this is by far the best of the trilogy.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Home Video Trailer",
+        "duration": "PT2M38S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4196319001",
+        "name": "Quatermass and the Pit",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzlkNWY3NzgtMDlhZi00ZTllLTgzMWEtZTAyYjBkOGY0YjZmXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzlkNWY3NzgtMDlhZi00ZTllLTgzMWEtZTAyYjBkOGY0YjZmXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2019-12-18T17:06:20.699Z",
+        "url": "https://www.imdb.com/video/vi4196319001/"
+    },
+    "url": "/title/tt0062168/"
+}

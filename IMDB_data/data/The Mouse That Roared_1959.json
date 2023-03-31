@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Peter Sellers",
+            "url": "/name/nm0000634/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jean Seberg",
+            "url": "/name/nm0781029/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Hartnell",
+            "url": "/name/nm0367156/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9093,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0012828/"
+        },
+        {
+            "@type": "Person",
+            "name": "Roger MacDougall",
+            "url": "/name/nm0532032/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stanley Mann",
+            "url": "/name/nm0542970/"
+        },
+        {
+            "@type": "Person",
+            "name": "Leonard Wibberley",
+            "url": "/name/nm0926728/"
+        }
+    ],
+    "description": "An impoverished backward nation declares a war on the United States of America, hoping to lose, but things don't go according to plan.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jack Arnold",
+            "url": "/name/nm0000791/"
+        }
+    ],
+    "duration": "PT1H23M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZWUzZWNiMmEtMzlkZi00NTI0LTkwN2MtMDIzYTk0OTAyYWVhXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
+    "keywords": "satire,actor playing multiple roles,new york city,black comedy,cold war",
+    "name": "The Mouse That Roared",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "moonspinner55"
+        },
+        "dateCreated": "2006-01-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0053084/"
+        },
+        "name": "Predictably nutty comedic triumph for Peter Sellers, who shines",
+        "reviewBody": "Very cute, very funny farce has fictional European country, the Duchy of Grand Fenwick (billed as \"the smallest country in the world\") facing a financial crisis after the United States drops their main export (wine) for a lower-priced imitation. Hoping to derive sympathy bonds for their efforts, the powers that be declare war on the U.S., but things don't go as planned. Wonderful British film put Peter Sellers on the map stateside, and deservedly so (he's terrific in three different roles, one in drag as Grand Fenwick's bosomy Duchess). Love-interest Jean Seberg also good as the daughter of the famous scientist responsible for creating the new Q-Bomb. Clever, amusing picture runs a little long but is nevertheless a high time. *** from ****",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for this comedy starring Peter Sellers",
+        "duration": "PT2M30S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2118518553",
+        "name": "The Mouse That Roared",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzM5ZWE2NDctM2EwMS00ZWZkLTlhOGYtOWQzMDAzY2M4OGJkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzM5ZWE2NDctM2EwMS00ZWZkLTlhOGYtOWQzMDAzY2M4OGJkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-06-10T03:34:33Z",
+        "url": "https://www.imdb.com/video/vi2118518553/"
+    },
+    "url": "/title/tt0053084/"
+}

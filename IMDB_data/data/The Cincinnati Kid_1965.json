@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Steve McQueen",
+            "url": "/name/nm0000537/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ann-Margret",
+            "url": "/name/nm0000268/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edward G. Robinson",
+            "url": "/name/nm0000064/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 17274,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "TV-14",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0065715/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0119024/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Jessup",
+            "url": "/name/nm0422270/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ring Lardner Jr.",
+            "url": "/name/nm0488057/"
+        },
+        {
+            "@type": "Person",
+            "name": "Terry Southern",
+            "url": "/name/nm0816143/"
+        }
+    ],
+    "datePublished": "1965-10-30",
+    "description": "An up-and-coming poker player tries to prove himself in a high-stakes match against a long-time master of the game.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Norman Jewison",
+            "url": "/name/nm0422484/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sam Peckinpah",
+            "url": "/name/nm0001603/"
+        }
+    ],
+    "duration": "PT1H42M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTEzZmJjOTgtNWZlNC00MGQzLTgyOGUtNTRiZDY5NmUzYmQzXkEyXkFqcGdeQXVyMzk3NTUwOQ@@._V1_.jpg",
+    "keywords": "high stakes,poker player,based on novel,bet,bluff",
+    "name": "The Cincinnati Kid",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "The_Void"
+        },
+        "dateCreated": "2005-04-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0059037/"
+        },
+        "name": "A classic film about a great game",
+        "reviewBody": "Steve McQueen's answer to Paul Newman's huge success with The Hustler isn't quite as good as the earlier classic; but it's still a damn fine movie. Poker is a fascinating game, and it therefore makes a great base for a film. The Cincinnati Kid capitalises on that fact and it draws all of it's excitement from the game at it's centre. The type of poker played in this movie is 5 card stud; and as a Texas Hold'Em fan, I was a little disappointed by this as stud simply isn't as good; but poker is poker, and 5 card stud is still an admirable base for a film. As implied, the film is at it's best when we're watching the action on the table; and it's easy to liken the structure of this movie to that of a disaster movie, in that it's central theme is the focus and the plot is then bulked out by human drama. The drama side of the story follows Eric Stoner (McQueen), a gambling man who's been honing his skills and working his way up to a game with 'The Man' (Edward G. Robinson). However, things are never that simple as when there's money involved; there's always someone willing to force it to go their way.\n\nSteve McQueen makes a great leading man. His cocky swagger and charisma are always a delight to watch, but this combines with his off-screen personality, and when watching him I cant help but think about his big headedness when it comes to film billing and the like. However; he's not the star of this movie in my eyes, as it's Edward G. Robinson that takes that honour. Robinson is a fantastic actor, and one that rarely gets his dues when it comes to deciding the greatest actors of all time. Here, he adds great believability to his role as the top poker player and he ensures that the atmosphere around his player is one of confidence and authority. And that's how it should be - he is the man. The Cincinnati Kid is exciting throughout; but never more so than on the build up to it's conclusion. The ending is one of my favourite of all time, and Robinson's line shortly after the end stands up with the greatest lines ever written for cinema. While this film is no Hustler; it's still a damn good movie, and one that I hugely recommend. Especially if you're a poker player!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer: #2",
+        "duration": "PT6M13S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi140705817",
+        "name": "The Cincinnati Kid",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjBjMGY5M2QtOTMyMS00NWQ2LTg3NTEtOWYzZmIyYWM1YWU1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjBjMGY5M2QtOTMyMS00NWQ2LTg3NTEtOWYzZmIyYWM1YWU1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-10-18T03:47:01Z",
+        "url": "https://www.imdb.com/video/vi140705817/"
+    },
+    "url": "/title/tt0059037/"
+}

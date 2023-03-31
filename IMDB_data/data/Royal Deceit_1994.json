@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Gabriel Byrne",
+            "url": "/name/nm0000321/"
+        },
+        {
+            "@type": "Person",
+            "name": "Helen Mirren",
+            "url": "/name/nm0000545/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christian Bale",
+            "url": "/name/nm0000288/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2342,
+        "ratingValue": 5.5,
+        "worstRating": 1
+    },
+    "alternateName": "Royal Deceit",
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0042444/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0120940/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0120939/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gabriel Axel",
+            "url": "/name/nm0002196/"
+        },
+        {
+            "@type": "Person",
+            "name": "Erik Kjersgaard",
+            "url": "/name/nm0458069/"
+        },
+        {
+            "@type": "Person",
+            "name": "Saxo Grammaticus",
+            "url": "/name/nm0334550/"
+        }
+    ],
+    "datePublished": "1994-02-23",
+    "description": "An old Norse legend of revenge, power and human spirit, that subsequently inspired William Shakespeare on his tragedy - Hamlet.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Gabriel Axel",
+            "url": "/name/nm0002196/"
+        }
+    ],
+    "duration": "PT1H47M",
+    "genre": [
+        "Adventure",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTcxYTZkMGQtOWY4OS00NjkzLWJlNjAtZWNhMzg0NTc4Y2M1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "keywords": "6th century,revenge,regicide,voice over narration,vengeance",
+    "name": "Prince of Jutland",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "noah-11"
+        },
+        "dateCreated": "1999-02-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0110891/"
+        },
+        "name": "A terrible waste of some very talented people",
+        "reviewBody": "Call this Prince of Jutland, call it Royal Deceit, the only thing tragic about this film is the terrible waste of some very talented people. Christian Bale-heads in particular will be sad to see him in this retelling of the Hamlet legend from material presumably closer to the source, but stuck with a screenplay that hasn't an ounce of poetry and cinematography that wouldn't do for a TV movie of the week. Bale applies himself manfully, as does Gabriel Byrne, but one is embarrassed for them speaking thudding dialogue. Greatest embarrassment of all perhaps is rendered the great Helen Mirren who, like her co-stars, gives it her U.K. all, but is undermined by a tackiness of production and a cast of extras who mill around like location gawkers in medieval drag. Please. Spare us.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 4,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "An old Norse legend of revenge, power and human spirit, that subsequently inspired William Shakespeare on his tragedy - Hamlet.",
+        "duration": "PT1M46S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1076740889",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYTVmODdmOWYtZGZlMC00MmYzLThmYmItZjJlZDQ1YTI3YmJmXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTVmODdmOWYtZGZlMC00MmYzLThmYmItZjJlZDQ1YTI3YmJmXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2022-01-18T21:30:42.943Z",
+        "url": "https://www.imdb.com/video/vi1076740889/"
+    },
+    "url": "/title/tt0110891/"
+}

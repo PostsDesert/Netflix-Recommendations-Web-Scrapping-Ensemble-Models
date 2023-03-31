@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Greta Garbo",
+            "url": "/name/nm0001256/"
+        },
+        {
+            "@type": "Person",
+            "name": "Melvyn Douglas",
+            "url": "/name/nm0002048/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ina Claire",
+            "url": "/name/nm0163257/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 21713,
+        "ratingValue": 7.8,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007143/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Brackett",
+            "url": "/name/nm0102818/"
+        },
+        {
+            "@type": "Person",
+            "name": "Billy Wilder",
+            "url": "/name/nm0000697/"
+        },
+        {
+            "@type": "Person",
+            "name": "Walter Reisch",
+            "url": "/name/nm0281556/"
+        }
+    ],
+    "datePublished": "1939-11-23",
+    "description": "A stern Soviet woman sent to Paris to supervise the sale of jewels seized from Russian nobles finds herself attracted to a man who represents everything she is supposed to detest.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ernst Lubitsch",
+            "url": "/name/nm0523932/"
+        }
+    ],
+    "duration": "PT1H50M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTg0OTEyNjg2NV5BMl5BanBnXkFtZTgwODkyODE0MjE@._V1_.jpg",
+    "keywords": "screwball comedy,drunk on champagne,falling in love,laughing fit,reference to karl marx",
+    "name": "Ninotchka",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "whpratt1"
+        },
+        "dateCreated": "2003-01-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0031725/"
+        },
+        "name": "A GREAT FILM CLASSIC!",
+        "reviewBody": "Ninotchka is a great film classic with great acting by Melvyn Douglas, who really supports Greta Garbo. Garbo is an actress with class and great abilities not found in movie stars today, she was ahead of her times, deep and spiritual. Her supporting actors, Sig Ruman used every expression he could to portray a fumbling Russian and Bela Lugosi showed the movie industry that he had great acting abilities he was never given a chance show to his many fans.\n\nThis film shows aspiring actors just how to perform to the highest level of their art.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for this classic comedy",
+        "duration": "PT2M17S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi860227353",
+        "name": "Ninotchka",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjc5ZGMwODMtMjZkYS00NjI5LWJmMzUtMTVjYTY5YTU1YmEzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjc5ZGMwODMtMjZkYS00NjI5LWJmMzUtMTVjYTY5YTU1YmEzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-06-10T03:23:14Z",
+        "url": "https://www.imdb.com/video/vi860227353/"
+    },
+    "url": "/title/tt0031725/"
+}

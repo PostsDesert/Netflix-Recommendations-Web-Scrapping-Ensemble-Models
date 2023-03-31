@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Rowan Atkinson",
+            "url": "/name/nm0000100/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter MacNicol",
+            "url": "/name/nm0001493/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Mills",
+            "url": "/name/nm0590055/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 107349,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0030612/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0057311/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0103644/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rowan Atkinson",
+            "url": "/name/nm0000100/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Curtis",
+            "url": "/name/nm0193485/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robin Driscoll",
+            "url": "/name/nm0003741/"
+        }
+    ],
+    "datePublished": "1997-11-07",
+    "description": "The bumbling Mr. Bean travels to America when he is given the responsibility of bringing a highly valuable painting to a Los Angeles museum.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mel Smith",
+            "url": "/name/nm0809321/"
+        }
+    ],
+    "duration": "PT1H29M",
+    "genre": [
+        "Adventure",
+        "Comedy",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYjU2YzY5NDEtM2M3NC00NGM0LTg3MmItNWQ1OWY2ZmNkZTU0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+    "keywords": "california,los angeles california,1990s,surname as title,dysfunctional family",
+    "name": "Bean",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "sadisticcynic"
+        },
+        "dateCreated": "2004-11-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0118689/"
+        },
+        "name": "British farce at its finest!",
+        "reviewBody": "This is one of the funniest movies I've ever seen, and in my opinion it is among the ranks of the legendary Monty Python.\n\n\"Bean\" is about the infamous Mr.Bean, a lazy buffoon who manages to cause problems in even the simplest of tasks. In this movie, he works at an Art Gallery and the management desperately want to get rid of him. Rather than fire him, they send him to Los Angeles to unveil the painting, \"Whistler's Mother\". An American named David Langley allows Mr.Bean to stay in his house during his visit against the will of his family. This turns out to be a huge mistake.\n\nThis movie is roll-out-of-your-chair-laughing funny. Rowan Atkinson's acting is beyond excellent, and all of the other characters are good as well.\n\nThe only thing I can find to nitpick about this movie is that there is not a very strong plot. The movie is basically a line of connected humor skits. I personally do not mind this too much, but if you are looking for a movie with a story that can be made into a book, look elsewhere.\n\nIf you enjoyed the Mr.Bean series and like \"disaster\" movies, this is the perfect movie for you!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Gramercy Pictures",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1186529561",
+        "name": "Bean",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzllZjYzNGEtZTM3YS00YTBmLTgyM2UtODZhMzQ0OWZhMjMwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzllZjYzNGEtZTM3YS00YTBmLTgyM2UtODZhMzQ0OWZhMjMwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:25:58Z",
+        "url": "https://www.imdb.com/video/vi1186529561/"
+    },
+    "url": "/title/tt0118689/"
+}

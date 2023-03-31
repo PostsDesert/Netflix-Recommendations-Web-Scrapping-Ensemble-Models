@@ -1,0 +1,84 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Savage",
+            "url": "/name/nm0001698/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Woods",
+            "url": "/name/nm0000249/"
+        },
+        {
+            "@type": "Person",
+            "name": "Franklyn Seales",
+            "url": "/name/nm0780546/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5445,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0016724/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joseph Wambaugh",
+            "url": "/name/nm0910663/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eric Roth",
+            "url": "/name/nm0744839/"
+        }
+    ],
+    "datePublished": "1980-02-28",
+    "description": "An LA police officer is murdered in the onion fields outside of Bakersfield. However, legal loopholes could keep his kidnappers from receiving justice, and his partner is haunted by overwhelming survivor's guilt.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Harold Becker",
+            "url": "/name/nm0000887/"
+        }
+    ],
+    "duration": "PT2H6M",
+    "genre": [
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU0MDI0MDMyMF5BMl5BanBnXkFtZTgwMjgyMjEyMDE@._V1_.jpg",
+    "keywords": "trial,true crime,neo noir,based on true story,police",
+    "name": "The Onion Field",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "SnoopyStyle"
+        },
+        "dateCreated": "2014-07-05",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0079668/"
+        },
+        "name": "Compelling 1st half but not so much 2nd half",
+        "reviewBody": "Greg Powell (James Woods) recruits recently released ex-con Jimmy Youngblood (Franklyn Seales). They're going to rob a liquor store for the money to get to San Francisco. Det. Karl Hettinger (John Savage) is the new partner for Det. Ian Campbell (Ted Danson). They pull Powell over with broken tail lights. Powell pulls a gun on Campbell and take them both hostage. Powell promises to release them in Bakersfield. They drive to an onion field. Powell shoots Campbell and Youngblood screams in disbelieve. Hettinger escapes. Youngblood takes off with the car. Powell end up stealing a car and gets caught. Powell gives up Youngblood right away. The following investigation and trial take a toll on Hettinger's mental state.\n\nThis is based on a 1973 book about a 1963 incident. It definitely has the dated feel especially with the dialog. The first half is quite tense and compelling. James Woods give an interesting performance as the weirdly controlling crook. The second half isn't quite as compelling. It's very detailed and it suffers for it. It rambles on with complicated fragmented details. Wambaugh's script may be trying to follow the true story too closely and fails to follow the emotional story more truly.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0079668/"
+}

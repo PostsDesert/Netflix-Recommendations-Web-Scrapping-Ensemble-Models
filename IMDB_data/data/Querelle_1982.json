@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Brad Davis",
+            "url": "/name/nm0001113/"
+        },
+        {
+            "@type": "Person",
+            "name": "Franco Nero",
+            "url": "/name/nm0626259/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeanne Moreau",
+            "url": "/name/nm0603402/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6907,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0136690/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0089865/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0172053/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jean Genet",
+            "url": "/name/nm0312792/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rainer Werner Fassbinder",
+            "url": "/name/nm0001202/"
+        },
+        {
+            "@type": "Person",
+            "name": "Burkhard Driest",
+            "url": "/name/nm0237897/"
+        }
+    ],
+    "datePublished": "1982-09-08",
+    "description": "A handsome sailor is drawn into a vortex of sibling rivalry, murder, and explosive sexuality.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Rainer Werner Fassbinder",
+            "url": "/name/nm0001202/"
+        }
+    ],
+    "duration": "PT1H48M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTI0ZmQ2ZGUtZTc0NS00MDI5LTljNDAtMzNlMzE2ZTcxMjM2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "seaman,anal sex,male nudity,new german cinema,male male relationship",
+    "name": "Querelle",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Kirpianuscus"
+        },
+        "dateCreated": "2021-04-05",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0084565/"
+        },
+        "name": "like a mist",
+        "reviewBody": "I saw it for Brad Davis and Jean Genet. For the gossips about its poetic air, for the way to use brutality and for atmosphere. And, after decades, it remains unique more than special. For a sort of grace, for the virtues of a kind of mist, for the certitude than only Brad Davis can be Querelle. Short, unique.."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A handsome sailor is drawn into a vortex of sibling rivalry, murder, and explosive sexuality.",
+        "duration": "PT1M46S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3778790169",
+        "name": "Trailer [OV]",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOWIzNjA5ZDMtNjg0Yi00MzkzLThiNjQtZDVhZWM2NjU5MmM0XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOWIzNjA5ZDMtNjg0Yi00MzkzLThiNjQtZDVhZWM2NjU5MmM0XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2022-01-06T15:50:47.135Z",
+        "url": "https://www.imdb.com/video/vi3778790169/"
+    },
+    "url": "/title/tt0084565/"
+}

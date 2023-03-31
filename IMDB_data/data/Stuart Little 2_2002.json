@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Michael J. Fox",
+            "url": "/name/nm0000150/"
+        },
+        {
+            "@type": "Person",
+            "name": "Geena Davis",
+            "url": "/name/nm0000133/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hugh Laurie",
+            "url": "/name/nm0491402/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 55937,
+        "ratingValue": 5.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0086519/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0093794/"
+        },
+        {
+            "@type": "Person",
+            "name": "E.B. White",
+            "url": "/name/nm0924754/"
+        },
+        {
+            "@type": "Person",
+            "name": "Douglas Wick",
+            "url": "/name/nm0926824/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bruce Joel Rubin",
+            "url": "/name/nm0748022/"
+        }
+    ],
+    "datePublished": "2002-07-19",
+    "description": "Stuart and Snowbell set out across town to rescue a friend.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Rob Minkoff",
+            "url": "/name/nm0591450/"
+        }
+    ],
+    "duration": "PT1H17M",
+    "genre": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTYyNDg0Njc2Nl5BMl5BanBnXkFtZTYwMDc3NzQ3._V1_.jpg",
+    "keywords": "live action cgi hybrid,animal character name as title,stuart little character,lifting someone into the air,baseball",
+    "name": "Stuart Little 2",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "birkland"
+        },
+        "dateCreated": "2005-08-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0243585/"
+        },
+        "name": "A movie you can watch with your kids",
+        "reviewBody": "Sure, this is a kid's movie, but it's sufficiently engaging to hold mom and dad's attention, even through repeated viewings. Little touches like having tiny Stuart wear a NY (football) Giants t-shirt and clever, and the highly stylized look of the film is just fun. The costume designer should get an award for making the costumes look sort of contemporary and \"Miracle on 34th Street\" at the same time. And while the plot is predictable and telegraphs its punches, it's also gentle and doesn't drag out the scary stuff too long, which makes this a good movie for kids. A lot better than a lot of the kids movies you will run across at Blockbuster.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Stuart and Snowbell set out across town to rescue a friend.",
+        "duration": "PT2M27S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi522699289",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOGJkYTUyMzYtYzZiMy00Nzc1LTllM2ItNjQ5OTBiNWJkMGRiXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGJkYTUyMzYtYzZiMy00Nzc1LTllM2ItNjQ5OTBiNWJkMGRiXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2022-07-20T01:17:08.682Z",
+        "url": "https://www.imdb.com/video/vi522699289/"
+    },
+    "url": "/title/tt0243585/"
+}

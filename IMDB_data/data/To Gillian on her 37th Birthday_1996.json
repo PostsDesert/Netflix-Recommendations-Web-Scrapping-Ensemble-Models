@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Peter Gallagher",
+            "url": "/name/nm0001251/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michelle Pfeiffer",
+            "url": "/name/nm0000201/"
+        },
+        {
+            "@type": "Person",
+            "name": "Claire Danes",
+            "url": "/name/nm0000132/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4962,
+        "ratingValue": 5.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0047780/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0053086/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Brady",
+            "url": "/name/nm0103684/"
+        },
+        {
+            "@type": "Person",
+            "name": "David E. Kelley",
+            "url": "/name/nm0005082/"
+        }
+    ],
+    "datePublished": "1996-10-25",
+    "description": "David's wife died 2 years ago. He, his teen daughter Rachel, her cute friend and 2 in-laws trying to fix him up with a friend, are all spending the weekend at his beach house. David still \"talks to his wife\" and neglects Rachel.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Pressman",
+            "url": "/name/nm0696309/"
+        }
+    ],
+    "duration": "PT1H33M",
+    "genre": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzQ4ZmU0ODEtNWVlMS00NzkwLThjNzAtMmMyNDBjMDhiZTIwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "grief,widower,obsessive love,based on play,legs",
+    "name": "To Gillian on Her 37th Birthday",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "WonderBroad"
+        },
+        "dateCreated": "2002-12-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0117924/"
+        },
+        "name": "Read the play.",
+        "reviewBody": "This is one of the worst play-to-film adaptations I've ever seen. Of course, that's because it's a terrible hack job of one of my favorite stage plays, so I'm biased.\n\nIt does my heart good to see David E. Kelley completely bombing out every time he tries to make a feature film. The guy is so overrated (in my opinion.) And he really, REALLY blew it with this movie, considering how excellent, how genuinely moving the source material is.\n\nWhen I went to see the film (with well-founded trepidation), I noticed that the only laughs generated out of the dialogue were for jokes that are found in the original play. Unfortunately, Kelley has done great violence to the original story in his filmic massacre...I mean \"adaptation\"...and the movie falls flat, flat, flat. It utterly misses the deeper points of the stage drama.\n\nIn fact, except for the basics of plot, it barely resembles the award-winning play at all. Esther, instead of being a professional psychologist, becomes in the movie version a busybody nag who has taken a couple of psychology classes, which somehow qualifies her to analyze the main character David. Pretty lame.\n\nDavid E. Kelley (not the main character, thank God), in his infinite wisdom, turns Cindy into a horny little slut who tries to seduce Paul, instead of keeping her the teenage girl next door who has the sweet, and somehow sad, schoolgirl crush on David. Gillian's depth and complexity of character completely disappears. In the film she's merely an ethereal beauty who hangs around to inanely chat with David. The point of the play is that she's both saint and sinner -- something Esther wants David to remember, before he idealizes her into a fantasy that drives him literally crazy.\n\nUgh! I could go on, but it will simply make me angrier and angrier. This movie stinks. Read the play. It's only a hundred thousand times better than the movie, that's all."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "David's wife died 2 years ago. He, his teen daughter Rachel, her cute friend and 2 in-laws trying to fix him up with a friend, are all spending the weekend at his beach house. David still \"talks to his wife\" and neglects Rachel.",
+        "duration": "PT1M46S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi890356505",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjBhNmJmZTktNTJjZi00YzhjLTg1MDEtYjlmMjYzZWM0NTZlXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjBhNmJmZTktNTJjZi00YzhjLTg1MDEtYjlmMjYzZWM0NTZlXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2022-01-20T17:31:57.650Z",
+        "url": "https://www.imdb.com/video/vi890356505/"
+    },
+    "url": "/title/tt0117924/"
+}

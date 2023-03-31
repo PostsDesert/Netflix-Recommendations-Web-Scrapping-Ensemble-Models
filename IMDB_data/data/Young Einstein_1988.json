@@ -1,0 +1,91 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Yahoo Serious",
+            "url": "/name/nm0000635/"
+        },
+        {
+            "@type": "Person",
+            "name": "Odile Le Clezio",
+            "url": "/name/nm0494189/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Howard",
+            "url": "/name/nm0397398/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 8990,
+        "ratingValue": 5.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Person",
+            "name": "Yahoo Serious",
+            "url": "/name/nm0000635/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Roach",
+            "url": "/name/nm0730000/"
+        }
+    ],
+    "datePublished": "1989-08-04",
+    "description": "Albert Einstein turns the science community upside down with his discoveries including a formula to put bubbles back in beer and rock n' roll.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Yahoo Serious",
+            "url": "/name/nm0000635/"
+        }
+    ],
+    "duration": "PT1H31M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjhmZWM3MzEtYzViMy00MDEwLWE5YTAtMTlmMzQxYjIxOTE1XkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+    "keywords": "close up of ear,close up of eye,close up of lips,close up of mouth,charles darwin character",
+    "name": "Young Einstein",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "eowyn_in_gondor"
+        },
+        "dateCreated": "2003-08-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0096486/"
+        },
+        "name": "90 minutes of Silliness",
+        "reviewBody": "Others have condemned this film as codswallop. If you're one for historical fact, you shouldn't watch it. That doesn't make it a bad film, however. It's one of those films that just to be silly. Albert Einstein is a Tasmanian apple farmer who surfs, E=mc2 is pronounced \"Emck\" and is used to put the bubbles in beer, and the chef at the mental assylum puts live kittens in a pie (Don't worry, Albert saves them). It's a good movie for watching during a pajama party. The director may be Yahoo Serious, but this movie is anything but."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT30S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi115540249",
+        "name": "Young Einstein",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BM2MwYzYxNDYtZjk1OC00YmEzLTkzMTMtYTBlYzBkNGJhZDFiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BM2MwYzYxNDYtZjk1OC00YmEzLTkzMTMtYTBlYzBkNGJhZDFiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-18T12:17:38Z",
+        "url": "https://www.imdb.com/video/vi115540249/"
+    },
+    "url": "/title/tt0096486/"
+}

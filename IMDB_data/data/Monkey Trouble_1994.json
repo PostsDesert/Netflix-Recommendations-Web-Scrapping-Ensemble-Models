@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Thora Birch",
+            "url": "/name/nm0000301/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harvey Keitel",
+            "url": "/name/nm0000172/"
+        },
+        {
+            "@type": "Person",
+            "name": "Finster",
+            "url": "/name/nm1767060/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6978,
+        "ratingValue": 5.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0046718/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0052233/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0036382/"
+        },
+        {
+            "@type": "Person",
+            "name": "Franco Amurri",
+            "url": "/name/nm0002171/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stu Krieger",
+            "url": "/name/nm0471217/"
+        }
+    ],
+    "datePublished": "1994-03-18",
+    "description": "A young girl's life turns hairy when her new pet monkey turns out to be a trained pickpocket on the run from a scheming gypsy.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Franco Amurri",
+            "url": "/name/nm0002171/"
+        }
+    ],
+    "duration": "PT1H36M",
+    "genre": [
+        "Adventure",
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNWYyMmUzMjEtNjk1Ni00MWY5LTgyODUtNmFjZTEyYzU5ZmE2XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "1990s,female protagonist,boy,girl,overalls",
+    "name": "Monkey Trouble",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Monika-5"
+        },
+        "dateCreated": "2000-10-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0110557/"
+        },
+        "name": "Cute!",
+        "reviewBody": "I saw this at the dollar theater several years ago on a rainy day with my friend Andrea, who was pregnant and we wanted to see a good family movie. I'm not a big supporter of seeing monkeys as the star of films, but this was a good one. All the little girl (Thora Birch, who several years later became famous for playing the daughter in American Beauty) wanted was a pet, and the writers crafted a cute, touching story. Good performances all around."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from New Line Cinema",
+        "duration": "PT2M1S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi748093721",
+        "name": "Monkey Trouble",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOGI4YmY0MTYtOWJjNi00OGNlLTk3OTMtM2Y2ZGE0YjE4MTViXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGI4YmY0MTYtOWJjNi00OGNlLTk3OTMtM2Y2ZGE0YjE4MTViXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:05:06Z",
+        "url": "https://www.imdb.com/video/vi748093721/"
+    },
+    "url": "/title/tt0110557/"
+}

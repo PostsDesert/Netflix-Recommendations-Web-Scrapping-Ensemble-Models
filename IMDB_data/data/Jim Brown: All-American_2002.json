@@ -1,0 +1,78 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Art Modell",
+            "url": "/name/nm1150086/"
+        },
+        {
+            "@type": "Person",
+            "name": "Walter Beach",
+            "url": "/name/nm1147789/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ed Walsh",
+            "url": "/name/nm1152021/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 362,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0033562/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0029134/"
+        }
+    ],
+    "datePublished": "2002-03-22",
+    "description": "An in-depth portrait of football legend and action movie star Jim Brown, including discussions about his childhood, his unequaled football career, his success in Hollywood, and his brushes with the law in his later years.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Spike Lee",
+            "url": "/name/nm0000490/"
+        }
+    ],
+    "duration": "PT2H20M",
+    "genre": [
+        "Documentary",
+        "Biography",
+        "Sport"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc3ODExODI5N15BMl5BanBnXkFtZTcwMTc2ODUyMQ@@._V1_.jpg",
+    "keywords": "american football",
+    "name": "Jim Brown: All American",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Jasik"
+        },
+        "dateCreated": "2002-03-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0309735/"
+        },
+        "name": "usual Spike Lee, good start but a mess of a finish",
+        "reviewBody": "Spike Lee needs to ease back and take his time. He is not Woody Allen and cannot make a decent film every year.\n\n The same problems that plague Jungle Fever, Get on the Bus and Bamboozled torpedo Jim Brown: All American.\n\nWhat starts out as a completely engaging portrait of one of the most amazing and awe-inspiring athletes to ever walk on a field quickly loses steam halfway through when Spike looks into Brown's domestic abuse problems and family relations. Looking to investigate them only to vindicate Brown, Spike shows he's only interested in showing how fantastic Brown is and deflecting any criticism.\n\nIn one segment, Brown explains an incident in which he reportedly threw a woman over a balcony, which he denies. The woman involved, found 30 years later, explains what happened, saying she was trying to get away from Brown, who was beating her. Instead of asking Brown, oh I don't know, what's up with that, Spike just lets Brown get away with being portrayed as another black man hassled by the White establishment.\n\nWhile Brown faced tremendous challenges because of white America's intransigence and racism, he wasn't perfect but Spike doesn't seem interested in allowing for a balanced take.\n\nIf it wasn't for the loads of great anecdotes about Brown, provided by teammates, coaches, friends and Brown himself, and the insane footage of Brown mauling defenses as a running back, the documentary would find itself in deep trouble, weighed down by too much extraneous footage and too many long-winded explanations by Brown of his lack of parenting.\n\nA 6/10.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0309735/"
+}

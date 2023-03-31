@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Wesley Snipes",
+            "url": "/name/nm0000648/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tamzin Outhwaite",
+            "url": "/name/nm0653666/"
+        },
+        {
+            "@type": "Person",
+            "name": "Deobia Oparei",
+            "url": "/name/nm0649046/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7424,
+        "ratingValue": 4.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0142424/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0224162/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0131063/"
+        },
+        {
+            "@type": "Person",
+            "name": "Martin Wheeler",
+            "url": "/name/nm1243854/"
+        }
+    ],
+    "datePublished": "2005-08-16",
+    "description": "When an experienced thief accidentally makes off with a Van Gogh, his partner is kidnapped by gangsters in pursuit of the painting, forcing the criminal to hatch a rescue plan.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Simon Fellows",
+            "url": "/name/nm1415540/"
+        }
+    ],
+    "duration": "PT1H36M",
+    "genre": [
+        "Action",
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjQyNTc4MzQ0MV5BMl5BanBnXkFtZTgwMzMxNjAwNzE@._V1_.jpg",
+    "keywords": "van,russian mafia,widow,stun gun,swat team",
+    "name": "7 Seconds",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "claudio_carvalho"
+        },
+        "dateCreated": "2006-01-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0417395/"
+        },
+        "name": "Awful and Deceptive Screenplay",
+        "reviewBody": "The awful screenplay of \"7 Seconds\", which looks like a Steven Seagal movie, is so absurd and full of clichés, and has many huge holes, beginning with the selection of Wesley Snipes for the lead role. I have never been in Romania, but I believe that there are not much Afro-Americans living and circulating in Bucharest. Therefore, it would not be difficult to find Jack Tuliver in the middle of the locals. Another interesting point is the attraction of beautiful white women for his character, probably with the intention to show that Romanian and British women are not racist. In the bus station, he fights with two guys and there is no policeman in the area. There are lots of characters coming and going without any previous development or later appearance. The stupid character of the dyed Kelly Anders is ridiculous, as well as most of the dialogs along the story. The predictable plot point is very weak. Last but not the least, when an action movie does not have much story to show, usually there are lots of cars chase in the script, for the pride and joy of the stunts (there are exceptions, of course, like \"Ronin\", \"The Blues Brothers\", \"The Transporter \" and others). My vote is four.\n\nTitle (Brazil): \"7 Segundos\" (\"7 Seconds\")",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 4,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0417395/"
+}

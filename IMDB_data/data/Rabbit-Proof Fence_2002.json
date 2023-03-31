@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Everlyn Sampi",
+            "url": "/name/nm1082266/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tianna Sansbury",
+            "url": "/name/nm1082270/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kenneth Branagh",
+            "url": "/name/nm0000110/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 29388,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0128467/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0002712/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0023514/"
+        },
+        {
+            "@type": "Person",
+            "name": "Doris Pilkington",
+            "url": "/name/nm0969922/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christine Olsen",
+            "url": "/name/nm0647608/"
+        }
+    ],
+    "datePublished": "2003-01-31",
+    "description": "In 1931, three half-white, half-Aboriginal girls escape after being plucked from their houses to be trained as domestic staff, and set off on a journey across the Outback.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Phillip Noyce",
+            "url": "/name/nm0637518/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Biography",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZGZkY2QzOGItZDFiYy00MWI1LWFmMTctNzNjZDMzMDk5M2Y2XkEyXkFqcGdeQXVyNjU1MTEwMjI@._V1_.jpg",
+    "keywords": "stolen generation,australian aborigine,australia,half caste,escape",
+    "name": "Rabbit-Proof Fence",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "=G="
+        },
+        "dateCreated": "2003-04-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0252444/"
+        },
+        "name": "So much with so little.",
+        "reviewBody": "Few films have garnered so much applause (from critics and public alike) with so little. The plot of \"Rabbit Proof Fence\" can be found elsewhere on this website. Suffice it to say it's about three girls walking and walking and walking and walking and....across some of the most visually austere country on the planet; the Aussie outback. There's little story behind the film, zilch for Hollywood tinsel, and a minimal cast of relative unknowns (except for Branagh's small role). It would be easy to make the case that this film is one long boring flick. However, it would also be easy to make the case it is a beautifully filmed story of courage, determination, and the triumph of the human spirit. I would argue the latter. (B+)",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT1M25S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi181444121",
+        "name": "Rabbit-Proof Fence",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzNlM2Q1ZjUtOTI3Ny00YWI2LWJkNGItY2VkMjE1ZWI4M2VlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzNlM2Q1ZjUtOTI3Ny00YWI2LWJkNGItY2VkMjE1ZWI4M2VlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-10-26T03:42:09Z",
+        "url": "https://www.imdb.com/video/vi181444121/"
+    },
+    "url": "/title/tt0252444/"
+}

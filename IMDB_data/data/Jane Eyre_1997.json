@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Deborah Findlay",
+            "url": "/name/nm0277525/"
+        },
+        {
+            "@type": "Person",
+            "name": "Laura Harling",
+            "url": "/name/nm0363322/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joanna Scanlan",
+            "url": "/name/nm0768936/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3123,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0329556/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0056790/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0329556/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charlotte Brontë",
+            "url": "/name/nm0111576/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kay Mellor",
+            "url": "/name/nm0578117/"
+        }
+    ],
+    "datePublished": "1997-10-19",
+    "description": "After placing an ad for employment as a governess, Jane Eyre (Samantha Morton) journeys to Thornfield Hall to inquire about a possible position. She is hired by the housekeeper, Mrs. Fairfax (Gemma Jones), to care for young Adele ...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Young",
+            "url": "/name/nm0950000/"
+        }
+    ],
+    "duration": "PT1H48M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAxMTU4ODA5NF5BMl5BanBnXkFtZTcwNzE4OTUyMQ@@._V1_.jpg",
+    "keywords": "character name as title,orphan,governess,french,dark heroine",
+    "name": "Jane Eyre",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "MissRosa"
+        },
+        "dateCreated": "2000-03-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0119404/"
+        },
+        "name": "A superb adaptation of the novel",
+        "reviewBody": "This is a superb adaptation of the novel -- the leads couldn't be better cast, or better acted. Jane, who is intelligent, introspective and highly-principled, yet shy and insecure, and Mr. Rochester, who is emotionally-distant, secretive, and conflicted. Both are lonely, but they do serendipitously meet and fall in love.\n\n Samantha Morton is the first Jane who looks, acts and speaks like the Jane I know from the novel. And Ciaran Hinds, with his awkward, gruff demeanor and off-putting behavior is perfect. The excellent production values enhance the emotion and direction of the plot. If you are as passionate about British literature as I am, this film will thrill you. Even as I write this, I am re-experiencing the very intense emotion of the scene when Jane is about to leave Rochester's estate. It is a very moving scene and I have never forgotten it.\n\nThis is the real thing.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Charlotte Bronte's Jane Eyre",
+        "duration": "PT1M38S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2802298137",
+        "name": "Charlotte Bronte's Jane Eyre",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BN2ZmMjUzNTItZTU0NC00MGQ5LTg0MjAtMTgxYTNjNzU5YjI1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BN2ZmMjUzNTItZTU0NC00MGQ5LTg0MjAtMTgxYTNjNzU5YjI1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2014-05-23T04:12:25Z",
+        "url": "https://www.imdb.com/video/vi2802298137/"
+    },
+    "url": "/title/tt0119404/"
+}

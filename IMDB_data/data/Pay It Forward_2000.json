@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kevin Spacey",
+            "url": "/name/nm0000228/"
+        },
+        {
+            "@type": "Person",
+            "name": "Haley Joel Osment",
+            "url": "/name/nm0005286/"
+        },
+        {
+            "@type": "Person",
+            "name": "Helen Hunt",
+            "url": "/name/nm0000166/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 120867,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0090310/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0018522/"
+        },
+        {
+            "@type": "Person",
+            "name": "Catherine Ryan Hyde",
+            "url": "/name/nm0404954/"
+        },
+        {
+            "@type": "Person",
+            "name": "Leslie Dixon",
+            "url": "/name/nm0228908/"
+        }
+    ],
+    "datePublished": "2000-10-20",
+    "description": "A young boy attempts to make the world a better place after his teacher gives him that chance.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mimi Leder",
+            "url": "/name/nm0001460/"
+        }
+    ],
+    "duration": "PT2H3M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjI3ODI5NDEwMl5BMl5BanBnXkFtZTYwNDYyMjU3._V1_.jpg",
+    "keywords": "boy,single mother,schoolteacher,kindness,teacher student relationship",
+    "name": "Pay It Forward",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "thinker1691"
+        },
+        "dateCreated": "2010-01-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0223897/"
+        },
+        "name": "\" Knowing the right thing is easy, doing the right thing is a bit harder \"",
+        "reviewBody": "The world is a pretty awful place if one sees only the bad which is usually all around us. Occasionally when there is a disaster, people from all walks of life, suddenly forget who they are and step forward to help out and for a moment, the world becomes a place where all mankind can share in that one brief pause, called Humanity. This is one such film. It's called \" Pay it Forward. \" The name strikes an immediate note of confusion at first, until one thinks about it. Too often when someone does a good deed, most of us feel we should try and Pay it back. This is the original concept, except in the film a young student named Trevor McKinney (Haley Joel Osment) designed it so a person who receives a favor, is then told to pay it forwards to three other people. The idea first began as a school assignment given by his teacher Eugene Simonet (Kevin Spacey) and encouraged by the boy's mother Arlene. (Helen Hunt) It is not that often when such a simple idea can have such a profound effect and reminds the rest of us, that simplicity is the key to our basic nature. With two academy award winners in the forefront of this film, I fail to see how it was not nominated for an award of some magnitude. ****",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3617259801",
+        "name": "Pay It Forward",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODliZWE1YzAtYmVhZS00ZjdjLTk2ZTMtMWM1N2Y1MmFlZmRhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODliZWE1YzAtYmVhZS00ZjdjLTk2ZTMtMWM1N2Y1MmFlZmRhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:22:34Z",
+        "url": "https://www.imdb.com/video/vi3617259801/"
+    },
+    "url": "/title/tt0223897/"
+}

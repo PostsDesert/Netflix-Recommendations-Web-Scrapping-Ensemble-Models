@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Nathan Lane",
+            "url": "/name/nm0001447/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jean Smart",
+            "url": "/name/nm0005443/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harriet Sansom Harris",
+            "url": "/name/nm0364748/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 342,
+        "ratingValue": 7.8,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0039462/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0045473/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0005630/"
+        },
+        {
+            "@type": "Person",
+            "name": "Moss Hart",
+            "url": "/name/nm0366454/"
+        },
+        {
+            "@type": "Person",
+            "name": "George S. Kaufman",
+            "url": "/name/nm0442151/"
+        },
+        {
+            "@type": "Person",
+            "name": "Adam Green",
+            "url": "/name/nm0337580/"
+        }
+    ],
+    "datePublished": "2000-10-07",
+    "description": "An eccentric, cantankerous theatre critic gets stranded at the home of a Midwestern factory owner and turns the lives of everyone in the vicinity upside-down.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jay Sandrich",
+            "url": "/name/nm0004105/"
+        },
+        {
+            "@type": "Person",
+            "name": "Judy Kinberg",
+            "url": "/name/nm0454169/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jerry Zaks",
+            "url": "/name/nm0952360/"
+        }
+    ],
+    "duration": "PT2H56M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjU2NTM1MjE4OV5BMl5BanBnXkFtZTcwNTgyMDEzMQ@@._V1_.jpg",
+    "keywords": "screwball comedy,live performance,new york city,manhattan new york city,1930s",
+    "name": "The Man Who Came to Dinner",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Jimmy-128"
+        },
+        "dateCreated": "2000-11-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0259419/"
+        },
+        "name": "Utterly and completely fantabulous",
+        "reviewBody": "If you're in a mood to laugh yourself silly, this is the play for you. Nathan Lane is at his scenery-chewing best as Sheridan Whiteside (modeled on Alexander Woolcott), a critic, commentator, and friend of the great and near-great who is forced to spend several weeks in the home of a Middle America family for whom \"Goodbye Mister Chips\" is as high on the cultural scale as they go. Lewis Stadlen is equally hilarious as the manic, irrepressible Banjo (a takeoff of one of the Marx Brothers, but I'm not sure which). Jean Smart is wonderful as the haughty and man-eating Lorraine Sheldon, and Harriet Harris is superb as Maggie Cutler, Whiteside's devoted secretary and Lorraine's nemesis.\n\nTo get all the references, you'll need a copy of Who Was Who in Theater, Film, and Opera, but I'm glad they didn't try to update them. It just wouldn't have worked.\n\nFinally, kudos to Ryan Shively (as Sandy, union organizer and June's fiancee)! A talented actor and an all-around great guy (okay, he's my roommate, so I'm a little biased)!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0259419/"
+}

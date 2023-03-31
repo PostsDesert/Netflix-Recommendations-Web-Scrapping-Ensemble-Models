@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Archer",
+            "url": "/name/nm0001893/"
+        },
+        {
+            "@type": "Person",
+            "name": "Warner Anderson",
+            "url": "/name/nm0027566/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tom Powers",
+            "url": "/name/nm0694631/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4369,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0012307/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alford Van Ronkel",
+            "url": "/name/nm0887875/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert A. Heinlein",
+            "url": "/name/nm0374423/"
+        },
+        {
+            "@type": "Person",
+            "name": "James O'Hanlon",
+            "url": "/name/nm0641199/"
+        }
+    ],
+    "description": "After their latest rocket fails, Dr. Charles Cargraves and retired General Thayer have to start over again. This time, Gen. Thayer approaches Jim Barnes, the head of his own aviation construction firms to help build a rocket that ...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Irving Pichel",
+            "url": "/name/nm0681635/"
+        }
+    ],
+    "duration": "PT1H32M",
+    "genre": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDkxNDczYWUtMTgyNS00MTkxLThmZjMtZmJmMDQwZGQwMDc3XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
+    "keywords": "space walk,moon,outer space,moon landing,u.s. government",
+    "name": "Destination Moon",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "roarshock"
+        },
+        "dateCreated": "2000-06-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0042393/"
+        },
+        "name": "A rare bit of 1950s science-fiction.",
+        "reviewBody": "Most science-fiction films are actually raw fantasy, with a disregard for reality that commonly borders on pure contempt. This isn't always a bad thing, since I really like fantasy. But techno-babble and flashy gadgets are too often only gimmicks favored by dumb producers, ignorant directors, and lazy writers who get themselves into of a jam. \"Destination Moon\" is rare and different. An enormous amount of time and effort were expended to make it as technically accurate as was possible in 1950. Even Kubrick wasn't this consistent in \"2001\"; he often let gravity appear where it shouldn't be. They never made that mistake in \"Destination Moon\". So it's unfortunate they didn't spend as much effort on the story and the acting, but both cast and crew were so wrapped up in creating a real moon trip they skimped on these aspects of story telling. The result was surprisingly impressive visuals for the time, but characters who are shallow, trite, and dull, and crises that arise and are solved while leaving us indifferent.\n\n But there is real drama here, the drama of people trying to imagine what was virtually unimaginable back then -- how to actually get people to the Moon and back -- using real physics and engineering. And if it doesn't measure up to the story of \"Apollo 13\", another technically accurate film about a REAL trip to the Moon, it still stands out as unique among 1950s films and remains almost as unique among all science-FICTION movies ever made."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Destination Moon",
+        "duration": "PT2M6S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3181445401",
+        "name": "Destination Moon",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjMzNGE0NDAtMDhiZS00YmIzLWE3OTctYzI4YzVjNzM5NTRlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjMzNGE0NDAtMDhiZS00YmIzLWE3OTctYzI4YzVjNzM5NTRlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:49:54Z",
+        "url": "https://www.imdb.com/video/vi3181445401/"
+    },
+    "url": "/title/tt0042393/"
+}

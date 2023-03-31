@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Steve Guttenberg",
+            "url": "/name/nm0000430/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kathleen Quinlan",
+            "url": "/name/nm0000599/"
+        },
+        {
+            "@type": "Person",
+            "name": "Arnold Vosloo",
+            "url": "/name/nm0903677/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3147,
+        "ratingValue": 5.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007143/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0030480/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tom Benedek",
+            "url": "/name/nm0070676/"
+        }
+    ],
+    "datePublished": "1997-01-24",
+    "description": "A touching friendship story between a dog and a dolphin.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "George Miller",
+            "url": "/name/nm0004305/"
+        }
+    ],
+    "duration": "PT1H38M",
+    "genre": [
+        "Adventure",
+        "Comedy",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjU4MmNhNWMtOGZjZi00NDU1LTg5M2UtYWY5YmY3MjQwNzk5XkEyXkFqcGdeQXVyNjgzMjI4ODE@._V1_.jpg",
+    "keywords": "animal character names as title,slimehouse,animals family,asking someone out on a date,woman asks a man out for a date",
+    "name": "Zeus and Roxanne",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "aromatic-2"
+        },
+        "dateCreated": "1999-09-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120550/"
+        },
+        "name": "Delightful fun for the kid in all of us",
+        "reviewBody": "I was depressed when I saw it, and it cheered me up. Silly - in the best possible sense of the word. Guttenbuurg and Arquette are ideal as the parents; the kids are perfect; the villain is fun; and the dolphin is beautiful - but Zeus, the dog, really steals the film. Watch and enjoy with any kid you know - especially your boyfriend (tee-hee).",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A touching friendship story between a dog and a dolphin.",
+        "duration": "PT2M9S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3256533785",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODJkMTYzYmYtZjIwYy00MjFjLWE5YWMtMmI3YTI0Y2I3MmE2XkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODJkMTYzYmYtZjIwYy00MjFjLWE5YWMtMmI3YTI0Y2I3MmE2XkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+        "uploadDate": "2022-01-26T19:38:01.772Z",
+        "url": "https://www.imdb.com/video/vi3256533785/"
+    },
+    "url": "/title/tt0120550/"
+}

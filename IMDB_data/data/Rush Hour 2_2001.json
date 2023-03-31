@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jackie Chan",
+            "url": "/name/nm0000329/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chris Tucker",
+            "url": "/name/nm0000676/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Lone",
+            "url": "/name/nm0518821/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 226291,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0046718/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0152165/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0013961/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ross LaManna",
+            "url": "/name/nm0482780/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeff Nathanson",
+            "url": "/name/nm0622288/"
+        }
+    ],
+    "datePublished": "2001-08-03",
+    "description": "Carter and Lee head to Hong Kong for a vacation, but become embroiled in a counterfeit money scam.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Brett Ratner",
+            "url": "/name/nm0711840/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Action",
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODhlNGJjMWQtZGMyYS00MzJhLWJhZGMtY2NlNDI5Nzg5NTU2XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "keywords": "buddy movie,crime boss,criminal investigation,east asia,hong kong",
+    "name": "Rush Hour 2",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "snow0r"
+        },
+        "dateCreated": "2006-04-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0266915/"
+        },
+        "name": "fantastic fun",
+        "reviewBody": "I've seen this film a few times now and it always makes me laugh. It's a great blend of action and comedy, and Jackie Chan and Chris Tucker seem to work really well together because they act total opposites and play really well off each other.\n\nThe plot's fairly basic with the standard sort of Hong Kong police story about drugs and revenge, but the two fish out of water characters (Chan in LA and Tucker in HK) just make it really enjoyable. The fight scenes are pretty cool (I really liked the one with the locker doors in the casino) and Tucker's jokes with that high pitched voice are just really funny.\n\nIt's just a really fun action-comedy movie that is really enjoyable. Can't ask for more than that.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from New Line Cinema",
+        "duration": "PT1M11S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi921043225",
+        "name": "Rush Hour 2",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjA3MzQ1YzYtODc2My00ZWIyLWI3M2YtNjJmYTQ2NjllMjBmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjA3MzQ1YzYtODc2My00ZWIyLWI3M2YtNjJmYTQ2NjllMjBmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-05-30T01:24:59Z",
+        "url": "https://www.imdb.com/video/vi921043225/"
+    },
+    "url": "/title/tt0266915/"
+}

@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Danny Glover",
+            "url": "/name/nm0000418/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gary Busey",
+            "url": "/name/nm0000997/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kevin Peter Hall",
+            "url": "/name/nm0001310/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 173149,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0022730/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0041635/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0019968/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Thomas",
+            "url": "/name/nm0859029/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Thomas",
+            "url": "/name/nm0859049/"
+        }
+    ],
+    "datePublished": "1990-11-21",
+    "description": "The Predator returns to Earth, this time to stake a claim on the war-torn streets of a dystopian Los Angeles.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Stephen Hopkins",
+            "url": "/name/nm0394280/"
+        }
+    ],
+    "duration": "PT1H48M",
+    "genre": [
+        "Action",
+        "Horror",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNThjZjI4NTgtZDk4Mi00ZjI1LWExZGUtNTRkOWY1ZTY3M2FlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "alien,city,gang,chase,blood",
+    "name": "Predator 2",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "questl-18592"
+        },
+        "dateCreated": "2020-09-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0100403/"
+        },
+        "name": "Predator 2: Concrete Jungle",
+        "reviewBody": "Sequels are tough, but I think Predator 2 actually does a pretty solid job. We take the alien super hunter out of the jungle and throw him into the city, replace the commando Arnold and sub in seasoned veteran cop Glover. It's not perfect but I think it mostly works, people are solid here and the predator is always a fun character to watch. Can't say anyone needs to go out of their way for this, but there are worse things to toss on if you need some background noise.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer three",
+        "duration": "PT30S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3245344537",
+        "name": "Predator 2",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BY2ViMTJjOGYtOWI4OC00NDFlLWE4N2EtNzQ4MzYwMTMwODE3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BY2ViMTJjOGYtOWI4OC00NDFlLWE4N2EtNzQ4MzYwMTMwODE3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-05-18T15:43:38Z",
+        "url": "https://www.imdb.com/video/vi3245344537/"
+    },
+    "url": "/title/tt0100403/"
+}

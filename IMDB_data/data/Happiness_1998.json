@@ -1,0 +1,91 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jane Adams",
+            "url": "/name/nm0011038/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jon Lovitz",
+            "url": "/name/nm0001484/"
+        },
+        {
+            "@type": "Person",
+            "name": "Philip Seymour Hoffman",
+            "url": "/name/nm0000450/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 71711,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "NC-17",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007554/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0030755/"
+        },
+        {
+            "@type": "Person",
+            "name": "Todd Solondz",
+            "url": "/name/nm0001754/"
+        }
+    ],
+    "datePublished": "1998-10-16",
+    "description": "The lives of several individuals intertwine as they go about their lives in their own unique ways, engaging in acts which society as a whole might find disturbing in a desperate search for human connection.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Todd Solondz",
+            "url": "/name/nm0001754/"
+        }
+    ],
+    "duration": "PT2H14M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BM2FlNzE0ZmUtMmVkZS00MWQ3LWE4OWQtYjQwZjdhNzRmNWE2XkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_.jpg",
+    "keywords": "dysfunctional family,serial rapist,unhappiness,ejaculation,suburb",
+    "name": "Happiness",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bob the moo"
+        },
+        "dateCreated": "2003-11-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0147612/"
+        },
+        "name": "Well drawn and depressing  a difficult watch but a worthwhile one",
+        "reviewBody": "Centred around a New Jersey based family of three sisters, their parents and their partners and acquaintances, this film looks at their lives. Involving a lonely sister, a sister with a good family life, a paedophile, a telephone sex pest and an elderly couple breaking up, the film follows their short stories through whatever it takes them.\n\nI remember hearing this film reviewed as being pretty good, but it was pointed out by the critic that it was far from a movie to take a first date to! Seeing it now for the first time he was very right, in fact I would say it is the type of film that could make a partner worry about you if you suggest you watch it together. What type of audience this was made for is questionable but it is not without merit even if it is very, very bleak. The actual `plot' is no more than a collection of stories that roughly overlap due to the character's relationships to one another. Most of these work well enough and are interesting, but the odd one falls slightly flat  Allen's overweight flatmate goes a little too far and the Russian thief subplot is not really engaging.\n\nHowever for most of the film the stories are very engrossing despite being very sad. The plot assumes unhappiness of one form or another to be a given as part of life, and I think that that is a pretty fair assumption. Some of the characters bring it on themselves, some of them are simply alone however all the scope of human misery is here even if it takes the form of events that not everyone will be able to relate to. No matter whether or not you like the characters you will feel for them  they are very well written and the dialogue feels natural. While the paedophile character will turn many stomachs, I did respect the film for not monsterising him.\n\nBaker plays him very well, and mixes it with all the hallmarks of a `normal' guy. His chats with his son form a strand that runs through the film well and is ultimately quite moving and hard to watch. Hoffman and Boyle don't really have a great deal to do and their characters were harder for me to buy into, as their relationship was not clear. All the cast do a good job regardless mainly because the characters are very well written and fit together in a great ensemble presentation. Special mention should go to Lovitz for a great little cameo that opens the film  in 4 minutes he gives a better performance than I have seen him give anywhere else.\n\nOverall this film is not an easy, fun film to watch but it is very well written even if some of the threads do not engage as much as the others. The conclusion of the film offers no respite and only sees a collection of characters hurt by themselves or others who have little hope for the future other than to just keep plodding on. Like it or not the message of the film is powerful even if the presentation doesn't do anything to make it accessible. When REM close the credits singing `happiness where are you? I've searched so long for you' it is difficult not to feel something."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Trimark",
+        "duration": "PT2M30S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi632029465",
+        "name": "Happiness",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTE4OTBlZmItYzczZC00MTllLWJmNjQtNDFlMGM2ODMxMjg5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTE4OTBlZmItYzczZC00MTllLWJmNjQtNDFlMGM2ODMxMjg5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:23:11Z",
+        "url": "https://www.imdb.com/video/vi632029465/"
+    },
+    "url": "/title/tt0147612/"
+}

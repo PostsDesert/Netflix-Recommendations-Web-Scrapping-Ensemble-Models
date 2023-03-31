@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Daniel Johnston",
+            "url": "/name/nm1895845/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mabel Johnston",
+            "url": "/name/nm2017520/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Johnston",
+            "url": "/name/nm2020708/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 10263,
+        "ratingValue": 7.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0268574/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0017713/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeff Feuerzeig",
+            "url": "/name/nm0275418/"
+        }
+    ],
+    "datePublished": "2006-05-05",
+    "description": "Daniel Johnston, manic-depressive genius singer/songwriter/artist is revealed in this portrait of madness, creativity and love.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jeff Feuerzeig",
+            "url": "/name/nm0275418/"
+        }
+    ],
+    "duration": "PT1H50M",
+    "genre": [
+        "Documentary",
+        "Biography",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE0NTk1NzUyN15BMl5BanBnXkFtZTcwMDUyMzIzMQ@@._V1_.jpg",
+    "keywords": "independent music,indie music,biographical documentary,music documentary,austin texas",
+    "name": "The Devil and Daniel Johnston",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "chrissyresides"
+        },
+        "dateCreated": "2007-01-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0436231/"
+        },
+        "name": "fantastic study of mental illness, and our desire to romanticise",
+        "reviewBody": "I watched this knowing that I am not a big fan of the music of Daniel Johnston, but found it ceaselessly moving and fascinating. No just because of Daniel's unstoppable creativity and heartbreaking slump into ever increasing circles of mental illness, but because of the honesty of people around him. Saying that they were scared, that they just wanted him to go to hospital and get better, the truth... I really thought this film would be a bog standard \"worship the romantic tortured genius\" thing, but it actually gave you a really authentic feeling of how terrifying and uncontrollable mental illness truly is. Also, let's see more Daniel Johnston cartoons, the bit with the eye ball flying out of the head on the stack of comic books was absolute genius.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Sony Pictures Home Entertainment",
+        "duration": "PT2M23S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3716874521",
+        "name": "The Devil and Daniel Johnston",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzM3YTdmNjItYjk5NS00ZDRkLWExNGQtZDk3MjIzNjQxYmZjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzM3YTdmNjItYjk5NS00ZDRkLWExNGQtZDk3MjIzNjQxYmZjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:18:40Z",
+        "url": "https://www.imdb.com/video/vi3716874521/"
+    },
+    "url": "/title/tt0436231/"
+}

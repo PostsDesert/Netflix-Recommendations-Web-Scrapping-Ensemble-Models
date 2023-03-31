@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tyrone Power",
+            "url": "/name/nm0000061/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anne Baxter",
+            "url": "/name/nm0000879/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dana Andrews",
+            "url": "/name/nm0000763/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1629,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jo Swerling",
+            "url": "/name/nm0842485/"
+        },
+        {
+            "@type": "Person",
+            "name": "W.R. Burnett",
+            "url": "/name/nm0122446/"
+        }
+    ],
+    "datePublished": "1943-11-25",
+    "description": "A submarine lieutenant and his commander fall in love with the same girl.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Archie Mayo",
+            "url": "/name/nm0562845/"
+        }
+    ],
+    "duration": "PT1H46M",
+    "genre": [
+        "Drama",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYWZkZWQ1NzItYjRkNS00MmU4LWE3OGEtZmExMDMyZjA5NDk0XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "keywords": "submarine,naval uniform,navy ship,washington monument washington d.c.,redemption",
+    "name": "Crash Dive",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "gitrich"
+        },
+        "dateCreated": "1999-01-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0035763/"
+        },
+        "name": "Great acting and award winning special effects makes up for average story.",
+        "reviewBody": "Crash Dive was one of many films to be released during WWII. Its pluses are good acting, supplied by Tyrone Power, Anne Baxter and Dana Andrews and award winning special effects. The story takes place in and around our then American sub base in New London Ct. In between battles with the German navy, a love story evolves with Tyrone Power and Dana Andrews after the same woman played by Anne Baxter.James Gleason is a bonus as one of the sub's seasoned crew memebers.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A submarine lieutenant and his commander fall in love with the same girl.",
+        "duration": "PT2M14S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1660207641",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzgwMTcxNTktOTM0Zi00NzAwLTlmZGMtMjkwNDU3ZjQ0ZmNlXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzgwMTcxNTktOTM0Zi00NzAwLTlmZGMtMjkwNDU3ZjQ0ZmNlXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+        "uploadDate": "2022-05-20T22:01:11.691Z",
+        "url": "https://www.imdb.com/video/vi1660207641/"
+    },
+    "url": "/title/tt0035763/"
+}

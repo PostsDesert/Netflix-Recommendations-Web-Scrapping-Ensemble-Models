@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Whoopi Goldberg",
+            "url": "/name/nm0000155/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sam Elliott",
+            "url": "/name/nm0000385/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rubén Blades",
+            "url": "/name/nm0001952/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3839,
+        "ratingValue": 5.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007143/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0075397/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Svanoe",
+            "url": "/name/nm0840908/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hilary Henkin",
+            "url": "/name/nm0377088/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dean Riesner",
+            "url": "/name/nm0718466/"
+        }
+    ],
+    "datePublished": "1987-10-30",
+    "description": "Rita is a tough narc cop with a wig for every occasion. Outside a drug heist scene with several bodies and a hardly cut fatal drug, Fatal Beauty, she finds a Kroll Construction van with a dead Kroll employee in it. Who is Kroll?",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Tom Holland",
+            "url": "/name/nm0276169/"
+        }
+    ],
+    "duration": "PT1H44M",
+    "genre": [
+        "Action",
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMmFhNjgyNjYtMjY4NC00ZTJmLTk5M2YtN2EzNjZiMzYzYzFjXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_.jpg",
+    "keywords": "woman punches a woman,wound,falling into a pool,bankroll,female topless nudity",
+    "name": "Fatal Beauty",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "tdavidson-60822"
+        },
+        "dateCreated": "2022-08-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0093011/"
+        },
+        "name": "If you enjoyed Beverly Hills Cop, this is for you!",
+        "reviewBody": "I didn't know what to expect on this one but while channel surfing it caught me eye a bit so I gave it a shot and glad I did. With an underrated cast and a vibe that just screams 80s buddy cop action flick, I immediately was hooked. Whoopi was entertaining in the lead role. Sam Elliot and Ruben Blades were witty. Brad Dourif...The man I grew up watching terrorizing people as a killer doll. He was one year shy here before he went on that multi film rampage which would earn him millions no doubt was great in his antagonist role. I'll def be watching this one again.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from MGM",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4194763545",
+        "name": "Fatal Beauty",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTBhMmU4NTktMDc5OC00MTE4LWI4MzEtNjU4NDJiYjRmMTIzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTBhMmU4NTktMDc5OC00MTE4LWI4MzEtNjU4NDJiYjRmMTIzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-03-13T03:35:02Z",
+        "url": "https://www.imdb.com/video/vi4194763545/"
+    },
+    "url": "/title/tt0093011/"
+}

@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Irene Dunne",
+            "url": "/name/nm0002050/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cary Grant",
+            "url": "/name/nm0000026/"
+        },
+        {
+            "@type": "Person",
+            "name": "Randolph Scott",
+            "url": "/name/nm0000068/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 10990,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "Passed",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0041421/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bella Spewack",
+            "url": "/name/nm0818415/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sam Spewack",
+            "url": "/name/nm0818416/"
+        },
+        {
+            "@type": "Person",
+            "name": "Leo McCarey",
+            "url": "/name/nm0564970/"
+        }
+    ],
+    "datePublished": "1940-05-17",
+    "description": "Missing for seven years and presumed dead, a woman returns home on the day of her husband's second marriage.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Garson Kanin",
+            "url": "/name/nm0437717/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjNmYzI2MTgtODg1YS00YTI0LTlhNjYtYTIyOTFiZTkyMzFiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
+    "keywords": "f rated,screwball comedy,stress,sexual tension,heterosexual love interest",
+    "name": "My Favorite Wife",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Snow Leopard"
+        },
+        "dateCreated": "2005-08-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0029284/"
+        },
+        "name": "An Entertaining Use of the Idea",
+        "reviewBody": "This gets pretty good comic mileage out of the often-used 'Enoch Arden' (or, as here, 'Ellen Arden') idea of the long-lost spouse who returns to find his/her spouse now involved with someone else. Numerous movies have used it both for drama and for comedy, and in this case, the premise is adapted to the screwball comedy formula that was so popular for a time in the 1930s and 1940s.\n\nThe story starts by slightly revising the usual setup, with Irene Dunne as the formerly shipwrecked spouse, Cary Grant as the husband who has since become involved with another woman (Gail Patrick), plus Randolph Scott as a wild card in the relationships. Practically every stage of the story is highly implausible (probably deliberately so) but amusing, and it is generally left to the cast to make things work, which they usually do.\n\nGrant usually seems quite at home in this kind of comedy, and he and Dunne work well together, depicting their characters' relationship with the kinds of intangibles that help make the whole scenario more believable. Patrick is always quite good as an elegantly icy rival to the heroine, and Scott also works well here in his role. Amongst the supporting cast, Granville Bates gets some very good moments as the grouchy judge.\n\nFor as far-fetched as the scenario seems at times, it works pretty well. The cast is strong enough to carry the weight, and it would have been hard to improve upon their combination of talents. It doesn't have quite the depth of comic variety or the subtlety of implied commentary that the best screwball comedies have, but it's an entertaining movie worth seeing."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT2M40S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2487598873",
+        "name": "My Favorite Wife",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODQ4NDMxOWUtMTIyMi00YzJiLTlhMGEtMThjZjg1NWYzMDFhXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODQ4NDMxOWUtMTIyMi00YzJiLTlhMGEtMThjZjg1NWYzMDFhXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-02-12T17:02:25.082Z",
+        "url": "https://www.imdb.com/video/vi2487598873/"
+    },
+    "url": "/title/tt0029284/"
+}

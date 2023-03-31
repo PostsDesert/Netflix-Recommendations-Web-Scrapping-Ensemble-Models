@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Peter Cushing",
+            "url": "/name/nm0001088/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Chiang",
+            "url": "/name/nm0156955/"
+        },
+        {
+            "@type": "Person",
+            "name": "Julie Ege",
+            "url": "/name/nm0250774/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4475,
+        "ratingValue": 5.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0060069/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0062139/"
+        },
+        {
+            "@type": "Person",
+            "name": "Don Houghton",
+            "url": "/name/nm0396449/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bram Stoker",
+            "url": "/name/nm0831290/"
+        }
+    ],
+    "description": "While lecturing in China, Van Helsing agrees to help seven kung fu trained siblings reclaim their ancestral mountain village, now the domain of seven powerful vampires and their army of undead slaves.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Roy Ward Baker",
+            "url": "/name/nm0001928/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cheh Chang",
+            "url": "/name/nm0151653/"
+        }
+    ],
+    "duration": "PT1H29M",
+    "genre": [
+        "Action",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BM2M5M2VjNzYtYzAxMy00NjAxLTlkYTctZGFiNjBmYjAzNDdmXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_.jpg",
+    "keywords": "captive,professor,monster,disbelief,vampire",
+    "name": "The Legend of the 7 Golden Vampires",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "BaronBl00d"
+        },
+        "dateCreated": "1999-09-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0070297/"
+        },
+        "name": "Excellent Hammer Entertainment!",
+        "reviewBody": "Well as you have been reading the reviews of this film, two definite trends seem to emerge. One is that this film has been critically panned for a couple of decades, and, two, this film seems to be genuinely liked by those that take actual effort to watch it. The film surely has its faults, but the overall effect it creates diminishes its shortcomings. The film is about a small town in China that has been ravaged for many years by a band of seven vampires. Professor Van Helsing, giving a lecture in China, is approached by someone from that village that requests Van Helsing's assistance. The rest of the story concerns Van Helsing, his son, a lady benefactor, and seven Chinese brothers and their talented sister trekking across China to get to the village and face the seven deadly vampires in the charge of the one and only European Count Dracula. Along the way, we the audience are treated to some first-rate martial arts, scary atmospheric settings which include zombie servants rising from fog-filled cemetaries, and the ultimate climax of good fighting evil. All in all it is one exciting piece of entertainment. The story at the end is a bit weak, as is the character of Van Helsing's son, who seems to manage to stay alive despite being a weakling.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Anchor Bay Entertainment",
+        "duration": "PT2M36S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi678627097",
+        "name": "The Legend of the 7 Golden Vampires",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMWZiZmNlMzItN2E5ZC00MDE2LTgwN2EtYTNjMzhiODJiYmI5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMWZiZmNlMzItN2E5ZC00MDE2LTgwN2EtYTNjMzhiODJiYmI5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-05-18T16:04:31Z",
+        "url": "https://www.imdb.com/video/vi678627097/"
+    },
+    "url": "/title/tt0070297/"
+}

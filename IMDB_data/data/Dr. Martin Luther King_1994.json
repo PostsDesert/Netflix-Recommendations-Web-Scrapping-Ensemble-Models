@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Arthur Burghardt",
+            "url": "/name/nm0121386/"
+        },
+        {
+            "@type": "Person",
+            "name": "Martin Luther King",
+            "url": "/name/nm0455052/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 67,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0109042/"
+        },
+        {
+            "@type": "Person",
+            "name": "Thomas Friedman",
+            "url": "/name/nm0295385/"
+        }
+    ],
+    "description": "This documentary brings out the life of Dr. Martin Luther King Jr. and his importance to the conquest of rights for the Black People in the US in the 50s and 60s.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Thomas Friedman",
+            "url": "/name/nm0295385/"
+        }
+    ],
+    "duration": "PT52M",
+    "genre": [
+        "Documentary",
+        "Biography",
+        "History"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTE1MTQ1NTMzN15BMl5BanBnXkFtZTcwNjE4NzUyMQ@@._V1_.jpg",
+    "keywords": "politics,black american,african american,independent film,character name in title",
+    "name": "Dr. Martin Luther King, Jr.: A Historical Perspective",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "maurice1970"
+        },
+        "dateCreated": "2002-08-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0138407/"
+        },
+        "name": "Not impressive at all",
+        "reviewBody": "Well I've seen much better doc's on Dr. King. Well for starters, the video is transferred via LP speed, so the quality is diminshed, even though the video is only 1 hour. How can sum up Dr. King's life in an hour? Anyhow, don't purchase this video. Is seems that many of these so called doc's on Dr. King seem to erase his last 3 years on Earth. At that time-Dr. King's focus shifted from civil rights to more equal rights in 1966. Overtly concerned about the escalatting war in SE Asia, worried about crtiticism from young people, disturbed by the growing gap betwen rich/poor. His last years in his journey grew increasingly aggresive. Such as his campaign for open housing(de fact segregation) in Chicago-1966. Operation Breadbasket in 1966. Dr. King was accused of being a \"communist sympathizer\" from the FBI. That of course was never proven and simply was a plan to neutralize him as an effective leader. Truth is King was the \"only\" man that he could not control, and that embattled Hoover. King was way too powerful. As a young whit kid growing in those turbulent times, I sill vivdly remember his images and powerful eloquent voice in old black/white footage almost every night. King was always on TV. Kings voice could could suck you in. One thing is for sure, when I was watching tv that fateful evening on 4 Apr 1968 and watching the breakthru of his shooting then announcement of his untimely death. My parents, like most white parents in that age, were frightened by King and his insurgent views. But watching and listening to his last speech given in Memphis, he kew that the good lord was going to bring him home.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 4,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Xenon",
+        "duration": "PT1M1S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1839399193",
+        "name": "Dr. Martin Luther King Jr: A Historical Perspective",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTZkYzg3MTEtZDRhMy00MmUwLWFlOTgtMDViOWY3ZWEzODEwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTZkYzg3MTEtZDRhMy00MmUwLWFlOTgtMDViOWY3ZWEzODEwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:55:31Z",
+        "url": "https://www.imdb.com/video/vi1839399193/"
+    },
+    "url": "/title/tt0138407/"
+}

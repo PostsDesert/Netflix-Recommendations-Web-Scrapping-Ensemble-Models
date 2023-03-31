@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Arnold Schwarzenegger",
+            "url": "/name/nm0000216/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sinbad",
+            "url": "/name/nm0005435/"
+        },
+        {
+            "@type": "Person",
+            "name": "Phil Hartman",
+            "url": "/name/nm0367005/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 108786,
+        "ratingValue": 5.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0046151/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Person",
+            "name": "Randy Kornfield",
+            "url": "/name/nm0466473/"
+        }
+    ],
+    "datePublished": "1996-11-22",
+    "description": "A father vows to get his son a Turbo Man action figure for Christmas. However, every store is sold out, and he must travel all over town and compete with everybody else in order to find one.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Brian Levant",
+            "url": "/name/nm0505152/"
+        }
+    ],
+    "duration": "PT1H29M",
+    "genre": [
+        "Adventure",
+        "Comedy",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMmJlYzViNzctMjQ1Ni00ZWQ4LThkN2YtMzI2ZGU5Nzk0NTAyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "christmas,action figure,postman,christmas movie,watching tv",
+    "name": "Jingle All the Way",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ses-4"
+        },
+        "dateCreated": "1999-04-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0116705/"
+        },
+        "name": "Great fun",
+        "reviewBody": "Everything about this movie is great. It has a great cast (With a wonderfully sleazy Phil Hartman). A great script with loads of laughter.\n\nIt's obviously created as a spoof for the Christmas buying crazes that go on in the world, where everybody must have that one very special toy.\n\nIt has the look and feel of a children's movie - but I'm not sure it is, or was ever designed to be.\n\nDon't expect a Schwarzie action movie. It's more a live-action cartoon.\n\nJingle all the way is a movie I've seen a couple of times now - and I'll watch it again and again. Good fun. 8/10.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from 20th Century Fox Home Entertainment",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3794076441",
+        "name": "Jingle All the Way",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODExMjgzYjEtMWYxZi00NzMzLThmYWQtZTc3ZjM1ZjQ1MjE4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODExMjgzYjEtMWYxZi00NzMzLThmYWQtZTc3ZjM1ZjQ1MjE4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-02-14T06:51:49Z",
+        "url": "https://www.imdb.com/video/vi3794076441/"
+    },
+    "url": "/title/tt0116705/"
+}

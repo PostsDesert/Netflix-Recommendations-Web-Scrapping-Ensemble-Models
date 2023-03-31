@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Michael Douglas",
+            "url": "/name/nm0000140/"
+        },
+        {
+            "@type": "Person",
+            "name": "Deborah Kara Unger",
+            "url": "/name/nm0000679/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sean Penn",
+            "url": "/name/nm0000576/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 405711,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0030612/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0058765/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0045460/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Brancato",
+            "url": "/name/nm0104335/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Ferris",
+            "url": "/name/nm0274905/"
+        }
+    ],
+    "datePublished": "1997-09-12",
+    "description": "After a wealthy San Francisco banker is given an opportunity to participate in a mysterious game, his life is turned upside down as he begins to question if it might really be a concealed conspiracy to destroy him.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David Fincher",
+            "url": "/name/nm0000399/"
+        }
+    ],
+    "duration": "PT2H9M",
+    "genre": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNWQ2ODFhNWItNTA4NS00MzkyLTgyYzUtZjlhYWE5MmEzY2Q1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "surprise ending,game,suicide,puzzlement,falling from height",
+    "name": "The Game",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Criticalstaff"
+        },
+        "dateCreated": "2020-12-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0119174/"
+        },
+        "name": "A brilliantly executed mind-trick",
+        "reviewBody": "I have always loved the Game. It sits right between The Truman Show and The Matrix as these 90's weird deconstructions of reality and sci-fi with a hint of social commentary on media. It was really the decade where TV and movies discovered the awesome power these new images had, and trying to reconcile their own moral hazard (spoiler alert: they did not). In The Game, Michael Douglas' character has basically a feature film inserted in his life. With a rewatch there are some little details that stand out and you realize easily none of this would work for real. But it works for the audience and as such it works as a movie.\n\nI love this movie because it is a great mind-bending trick. The movie keeps the tension up throughout by jumping around whether the Game is real or not. Even in the third act, where there is maybe one switcheroo too many; you get that escalating tension that keeps you engaged.\n\nStructurally the movie may not be the most elegant. This tension escalates not really by anyone's actions but by design. But it is competent enough to let the talent shine. Michael Douglas gives an excellent performance and it's just a joy to watch. He basically plays Gordon Gekko again, with the self-important attitude but also the effortless charm. There is something to 90s Douglas that is frankly mesmerizing, because he offer such a large palette of characters. He can play the everyman gumshoe or the stonyhearted investment banker. And in the Game you can see that kind of transformation on-screen. You can see the veneer of civilization peel off and you're left with the unkempt hair Douglas: the most dangerous variant.\n\nReturning to the escalation of tension, it works that way also because the plot destroys Nicholas Van Orton's life in an escalating fashion. First he loses on his business deal, then his money/fortune, then his brother. Which culminates at the end of the movie: he is a broken man, which leads him to suicide. On the surface, the movie is very \"nineties ennui\" where it throws a business exec in suit and a briefcase in an action movie. The movie's internal logic is built around the fact that his life is very lame and predictable and he gets propelled into these action-movie set piece tropes. But underneath there is a more subtle message critical of the greed and the excess of the 80s. It is a repudiation of Gordon Gekko. It metaphorically kills Gordon Gekko, it throws him off the roof. And I believe the film's morals want to state that life's meaning lies elsewhere than monetary accumulation and wealth.\n\nThat is not to say that the movie is leading the masses to the barricades. It is first and foremost an action film, and as such a corporate product, yet it enjoys having a faceless corporation as \"the villain\". But it is similar to Fight Club in that regard; it enjoys the subversive sub-text, without giving it too much credence. Nonetheless, it focuses way more on the mechanics of the plot: who is going where and why, rather than on the thematic elements. And for the most part it holds up as an action movie. And even if makes (forgettable) mistakes, you'll still want to rewatch it to see how well The Game was set-up, and what worked and what did not.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Three Reasons Criterion Trailer for The Game",
+        "duration": "PT1M35S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3301942297",
+        "name": "The Game: The Criterion Collection [Blu-Ray]",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMDlkMTNkMWYtOWQ2OS00OTEzLWJkOGYtMGYzNDgyYjg1MWVkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDlkMTNkMWYtOWQ2OS00OTEzLWJkOGYtMGYzNDgyYjg1MWVkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2012-09-23T03:37:19Z",
+        "url": "https://www.imdb.com/video/vi3301942297/"
+    },
+    "url": "/title/tt0119174/"
+}

@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Carl Lumbly",
+            "url": "/name/nm0525855/"
+        },
+        {
+            "@type": "Person",
+            "name": "Phil LaMarr",
+            "url": "/name/nm0482851/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Rosenbaum",
+            "url": "/name/nm0742146/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 48024,
+        "ratingValue": 8.6,
+        "worstRating": 1
+    },
+    "contentRating": "TV-PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0072876/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0038332/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bob Kane",
+            "url": "/name/nm0004170/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Moulton Marston",
+            "url": "/name/nm0551376/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joe Shuster",
+            "url": "/name/nm0795975/"
+        }
+    ],
+    "datePublished": "2001-11-17",
+    "description": "Seven of the most formidable heroes form arguably the most powerful team ever.",
+    "genre": [
+        "Animation",
+        "Action",
+        "Adventure"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZGQxYzExOGEtYjE2Ni00YzNlLTkyMGEtZTM0NDE3ZTIzODU1XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg",
+    "keywords": "shared universe,dc animated universe,cartoon network,supernatural power,superhuman strength",
+    "name": "Justice League",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Karolynnkt"
+        },
+        "dateCreated": "2006-06-22",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0275137/"
+        },
+        "name": "A Series with a Marvelous Script",
+        "reviewBody": "I have been a Justice League fan since its premier on Cartoon Network. I considered it vastly superior to \"Superfriends\" and the episode plots are well written.\n\nOne of my favorites is the episode with King Aquaman wherein all the Justice League members cannot do anything to persuade the would be assassin to confess and then Batman who possesses no super powers somehow gets the perpetrator to spill the beans. I thought that was simply awesome.\n\nMy other favorite episode was when the League faced somewhat counterparts from a comic book world. Once again well written and thought provoking. The episode with the android who (no matter what the Justice League did) was no match for them really was great. I commend all the writers of the show for their creative style and talent and I want this show to go on forever.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "National Reel - Shared",
+        "duration": "PT5M28S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4220715289",
+        "name": "Justice League of America: Season 2",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNGI2MmIxYzMtNDgxYS00NWMyLTk5MzItMDE3ZWJlZGY5N2M3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNGI2MmIxYzMtNDgxYS00NWMyLTk5MzItMDE3ZWJlZGY5N2M3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:53:14Z",
+        "url": "https://www.imdb.com/video/vi4220715289/"
+    },
+    "url": "/title/tt0275137/"
+}

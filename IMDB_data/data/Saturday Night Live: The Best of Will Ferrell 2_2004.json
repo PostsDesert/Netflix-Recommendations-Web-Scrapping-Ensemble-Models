@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Will Ferrell",
+            "url": "/name/nm0002071/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alec Baldwin",
+            "url": "/name/nm0000285/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Breuer",
+            "url": "/name/nm0108028/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1353,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "TV-14",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0086772/"
+        },
+        {
+            "@type": "Person",
+            "name": "Matt Piedmont",
+            "url": "/name/nm0682126/"
+        }
+    ],
+    "datePublished": "2004-09-07",
+    "description": "In all of Saturday Night Live history, one of the greatest of the greats is Will Ferrell, and this is the ultimate collection for the Ferrell fan. You'll get Janet Reno's Dance Party, The Lovers, James Lipton's \"Inside the Actor's...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Beth McCarthy-Miller",
+            "url": "/name/nm0565063/"
+        }
+    ],
+    "duration": "PT1H22M",
+    "genre": [
+        "Documentary",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM5MTcyMDMxM15BMl5BanBnXkFtZTgwNzk2MDA2MDE@._V1_.jpg",
+    "keywords": "satire comedy,parody comedy,saturday night live,retrospective,clip show",
+    "name": "Saturday Night Live: The Best of Will Ferrell - Volume 2",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "moogle_muff"
+        },
+        "dateCreated": "2005-12-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0477851/"
+        },
+        "name": "What the crap?",
+        "reviewBody": "I'm sorry,I love Will Ferrell,I truly do,the man has some fine comedic moments,none of which were displayed in this video.I think it's truly shocking that Lorne Michaels would give the SNL seal of approval to this tripe,while clearly overlooking some of the greatest moments in their history.First off where was the Neil Diamond? Both videos have managed to leave out the bang on impression of aging soft rock icon Mr.Diamond. As well even sketches with quality characters Will has portrayed weren't the best moments from those characters. No celebrity jeopardy,no Harry Carey,nothing of the sort. I may have had moments of semi-laughter whilst watching this but those moments were soon overshadowed by the fact that I'd shelled out fifteen dollars to watch a steaming pile of rubbish,yet again SNL has sold out for a quick buck and my sympathies go out to Mr.Ferrell. For shame Lorne Michaels, what did Will ever do to you to deserve this?",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 2,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Clip: Smashing Melons",
+        "duration": "PT55S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1823015193",
+        "name": "Gallagher: Best Of Gallagher - Vol. 2",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzA4NDUzNzYyMF5BMl5BanBnXkFtZTcwMjI3NzY2MQ@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzA4NDUzNzYyMF5BMl5BanBnXkFtZTcwMjI3NzY2MQ@@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:15:11Z",
+        "url": "https://www.imdb.com/video/vi1823015193/"
+    },
+    "url": "/title/tt0477851/"
+}

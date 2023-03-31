@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Patrick Swayze",
+            "url": "/name/nm0000664/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lisa Niemi",
+            "url": "/name/nm0001568/"
+        },
+        {
+            "@type": "Person",
+            "name": "George De La Pena",
+            "url": "/name/nm0209340/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1588,
+        "ratingValue": 5.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0141205/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0038828/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lisa Niemi",
+            "url": "/name/nm0001568/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kevin Bernhardt",
+            "url": "/name/nm0076791/"
+        }
+    ],
+    "datePublished": "2004-11-12",
+    "description": "In the wake of tragedy, a renowned NY dance company is on the brink of collapse. After leaving the dance world for good, Travis, Chrissa and Max have one last chance to re-connect with the passion and prove that miracles really ca...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Lisa Niemi",
+            "url": "/name/nm0001568/"
+        }
+    ],
+    "duration": "PT1H41M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjk2YzljMjktZjI4YS00MTUxLWE1YjUtYmQ5NjIxMTgyNjFkXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+    "keywords": "dance company,dance,dancer,self acceptance,fatherhood",
+    "name": "One Last Dance",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Bob-45"
+        },
+        "dateCreated": "2005-09-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0157191/"
+        },
+        "name": "Trite Script, Primo Dance",
+        "reviewBody": "\"One Last Dance\" is another one of those movies whose bad word of mouth will puzzle a lot of viewers. While the major subplot has been done a hundred times before (frequently better), the music and dance are superb. Further, while Lisa Niemi (Mrs. Patrick Swayze) is a pretty inept actress, her camera setups superbly capture the dance. Besides, \"One Last Dance\" boasts one superb performance, that of George De La Pena (\"Max\"). With this movie, Lisa Niemi, for better or worse, clearly establishes herself as both the brains and drive behind Patrick Swayze.\n\nHopefully, \"One Last Dance\" will usher in a whole series of dance films, both comedies and dramas; and one could certainly do much worse than the dance team of Swayze and Niemi.\n\nI give \"One Last Dance\" a \"7\".",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Universal Studios Home Entertainment",
+        "duration": "PT2M24S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2895773977",
+        "name": "One Last Dance",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzA5NTA1OGMtNTRjZS00MDVlLWE1ZmQtM2ZkZmJiOTAzNDdjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzA5NTA1OGMtNTRjZS00MDVlLWE1ZmQtM2ZkZmJiOTAzNDdjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:19:08Z",
+        "url": "https://www.imdb.com/video/vi2895773977/"
+    },
+    "url": "/title/tt0157191/"
+}

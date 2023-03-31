@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Yôji Matsuda",
+            "url": "/name/nm0559444/"
+        },
+        {
+            "@type": "Person",
+            "name": "Yuriko Ishida",
+            "url": "/name/nm0410942/"
+        },
+        {
+            "@type": "Person",
+            "name": "Yûko Tanaka",
+            "url": "/name/nm0849100/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 402569,
+        "ratingValue": 8.3,
+        "worstRating": 1
+    },
+    "alternateName": "Princess Mononoke",
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0064941/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0205112/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0003850/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hayao Miyazaki",
+            "url": "/name/nm0594503/"
+        },
+        {
+            "@type": "Person",
+            "name": "Neil Gaiman",
+            "url": "/name/nm0301274/"
+        }
+    ],
+    "datePublished": "1997-12-19",
+    "description": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Hayao Miyazaki",
+            "url": "/name/nm0594503/"
+        }
+    ],
+    "duration": "PT2H14M",
+    "genre": [
+        "Animation",
+        "Action",
+        "Adventure"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTZkYmI0MmEtNGFlZC00OWZjLWFjMmItMjk1OWZkOWJiZGVjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "keywords": "forest,curse,anime,princess,studio ghibli",
+    "name": "Mononoke-hime",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "HeyMrPiccolo"
+        },
+        "dateCreated": "2000-07-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0119698/"
+        },
+        "name": "This film has \"raised the bar\" in the world of animation.",
+        "reviewBody": "I have seen many many animated features, but none compare to the talent that is shown in this anime. After seeing this for the first time, I could see why so many animators (especially disney animators) consider Mr. Miazaki a GOD! His animation style has the best \"flowing motion\" I have ever seen.\n\nThe American dubbing team, whoever they are did an excellent job picking voices, they got top notch actors to do the job right (unlike most animes today). They even took on the hair-pulling task of RE-ANIMATING the mouth movements to match!\n\nThis is by far one of the best films I have ever seen.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2563293465",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTY3NTdhYmMtNzYwMC00Mzg0LTk3YjYtZmZkZWQxNDkxYjY2XkEyXkFqcGdeQXN3aWZ0dw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTY3NTdhYmMtNzYwMC00Mzg0LTk3YjYtZmZkZWQxNDkxYjY2XkEyXkFqcGdeQXN3aWZ0dw@@._V1_.jpg",
+        "uploadDate": "2020-11-18T13:24:54.977Z",
+        "url": "https://www.imdb.com/video/vi2563293465/"
+    },
+    "url": "/title/tt0119698/"
+}

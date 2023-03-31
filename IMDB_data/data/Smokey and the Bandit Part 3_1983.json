@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jackie Gleason",
+            "url": "/name/nm0001276/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jerry Reed",
+            "url": "/name/nm0715274/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Williams",
+            "url": "/name/nm0931437/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9092,
+        "ratingValue": 3.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stuart Birnbaum",
+            "url": "/name/nm0083699/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Dashev",
+            "url": "/name/nm0201984/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jackie Gleason",
+            "url": "/name/nm0001276/"
+        }
+    ],
+    "datePublished": "1983-08-12",
+    "description": "Big and Little Enos are opening a sea food restaurant. They bet Sheriff Buford T. Justice that he cannot drive from Miami to the Enos ranch in Texas in a given amount of time. If Buford loses he has to give up his badge.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Dick Lowry",
+            "url": "/name/nm0523310/"
+        }
+    ],
+    "duration": "PT1H25M",
+    "genre": [
+        "Action",
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZmVjNWZlYmItNzFjOS00NzExLWI3MDctNjE2YTA4NDRhZGFmXkEyXkFqcGdeQXVyMzU4Nzk4MDI@._V1_.jpg",
+    "keywords": "sheriff,badge,fish,police car,sunglasses",
+    "name": "Smokey and the Bandit Part 3",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "kwheeley"
+        },
+        "dateCreated": "2005-02-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0086325/"
+        },
+        "name": "A truly bad sequel",
+        "reviewBody": "Why can't Hollywood just let good movies die in peace? This 2nd sequel to the original (and quite good) \"Smokey and the Bandit\" stinks everywhere. The story is lame and the characters have been reduced to caricatures of themselves.\n\nLet's start with the story. The premise here is that those Enos boys are at it again, wanting to have some fun at the expense of someone. That someone is none other than Sheriff Buford T. Justice (key the tuba) who has just put in for retirement. When those retirement plans aren't what he expected, our valiant Sheriff accepts the Enos' challenge: Deliver a plastic shark to the new restaurant the Enos boys opened up. While along the way, those rascally Enos dudes are going to try to stop him at any cost.\n\nOkay, stop right there. In the first Bandit movie, the idea was a simple challenge and bet. The Enos boys were depicted as nothing more than a rich father and son team who were bored so they thought up a good challenge. No real maliciousness involved - just a challenge with some money put up to make people take it seriously. That was fun.\n\nIn the 2nd Bandit movie, the Enos reputation (such as it is) is on the line and they want to beat a political rival. Not as strong, but again, nothing terribly malicious involved. \n\nThis movie has them just trying to be mean to their new play toy. Namely, Sheriff Justice. So they send him on his way and start trying to sabotage his trip. When Justice beats them at every turn, they figure that they need a professional to deal with him. Since the Bandit isn't around (he's off making \"Stroker Ace\") they give the job (and the red shirt, belt buckle and hat) to Cledus, our old truck driving buddy.\n\nSo, Cledus chases Justice to get the prized shark and fun and laughter ensue. Well, not too much fun and little laughter but look on the bright side - it was a paycheck for Gleason and Reed. \n\nAnyway, from there on out it becomes the now tired old cat-and-mouse game with one side giving chase to the other. But even the chases lack the polish to make you remember back to the ones in the 1977 original. They seem more staged and one dimensional. For example, there's a scene where Cledus and a new buddy \"sneak\" up from behind and take the shark off of the Sheriff's car. The shot is not technically difficult and it's rather boring. Plus, what law enforcement officer doesn't check his mirror to make sure of what's behind him? I learned that in 11th grade driver's ed.\n\nAnway, to summarize, I think the use of the 1982 (anemic) Trans Am is allegorical to this movie: It's got the right name but is under-thought, underpowered and basically is just a diluted version of its former self.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 1,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M29S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2339158809",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODQ1YTJiMWUtNjM0NS00Mjg1LWFlMjAtMTE0YWZkMzFlNmNlXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODQ1YTJiMWUtNjM0NS00Mjg1LWFlMjAtMTE0YWZkMzFlNmNlXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+        "uploadDate": "2018-09-10T19:24:17.054Z",
+        "url": "https://www.imdb.com/video/vi2339158809/"
+    },
+    "url": "/title/tt0086325/"
+}

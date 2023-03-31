@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Rupert Everett",
+            "url": "/name/nm0000391/"
+        },
+        {
+            "@type": "Person",
+            "name": "Julianne Moore",
+            "url": "/name/nm0000194/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Vaughan",
+            "url": "/name/nm0891092/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 16183,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103757/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0018857/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0108804/"
+        },
+        {
+            "@type": "Person",
+            "name": "Oscar Wilde",
+            "url": "/name/nm0928492/"
+        },
+        {
+            "@type": "Person",
+            "name": "Oliver Parker",
+            "url": "/name/nm0662529/"
+        }
+    ],
+    "datePublished": "1999-06-30",
+    "description": "London 1895: Cabinet minister, Sir Chiltern, and bachelor, Lord Goring, are victims of scheming women.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Oliver Parker",
+            "url": "/name/nm0662529/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNGFmNmQ4YTUtZjMzYS00MWMzLTg2MjktNDVlNTZkMmFkYTY2XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg",
+    "keywords": "1890s,blackmail,marriage proposal,reconciliation,political speech",
+    "name": "An Ideal Husband",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "JimC-6"
+        },
+        "dateCreated": "1999-07-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0122541/"
+        },
+        "name": "Good, but it could have been great",
+        "reviewBody": "If I weren't so lazy, I would have checked the original play to see if my favorite line from the movie was in it:\n\nGoring's father: I use nothing but my common sense. Goring: So my mother tells me.\n\nEven if was concocted for the film, that line still contains the essence of Wilde and the essence of all modern British humor, for which, I should say, I'm a major sucker. While watching An Ideal Husband, I didn't object to the lack of suspense as long as Rupert Everett was working his way around those Wilde lines, which he does as well as anyone I've ever heard.\n\nI used to think Stephen Fry was Wilde on earth, but Fry is something wonderfully different -- Everett is Wilde on earth, or at least the actor that Wilde should have had around to deliver those lines when he wrote them. I first saw Everett in The Madness of King George, for which he put on weight. Every review of that film mentioned this; I thought the attention excessive, but when I saw him lying shirtless in a sauna, I understood. The man is, shall we say, cut. I can only imagine the effect of that scene on straight women or gay men -- probably something akin to the effect Greta Scacchi's \"I think we're alone now\" smile at the end of The Coca-Cola Kid has on me.\n\nAn Ideal Husband is full of good performances, with one glaring exception: the usually great Julianne Moore. Her scenes are curiously leaden, and Parker -- whose fault this may be -- has the camera linger over her as though the exposure will convince us how evil she is. The one exception is her scene with Everett, which has a real \"Will he sleep with the enemy?\" tension. It may be that Moore was just outclassed by the Brits, who are born to this stuff.\n\nCate Blanchett, whom I've seen in three movies, two of which were British period pieces, continues to amaze me with her range.\n\nThe unsung hero of the movie is Jeremy Northam, who takes a thankless role -- the man in the play who isn't the Oscar Wilde figure -- and makes it emotionally compelling. He is responsible for the play's only real suspense and emotion, since the rest is word games, more or less.\n\nAll of which leads me to blame the production's shortcomings on its writer/director, Oliver Parker. He seems to have squandered an outstanding cast. The play's final scene is played as a series of French scenes -- a film term for a series of different scenes in the same location -- and this kills any momentum that scene might have had.\n\nThree out of four stars, I say, which makes it better than 90% of the movies out there."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT1M58S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1917426713",
+        "name": "An Ideal Husband",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzgzNDkyOTgtZThhYS00NWVmLThjZmQtNGRiMGRhYzI5YWZiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzgzNDkyOTgtZThhYS00NWVmLThjZmQtNGRiMGRhYzI5YWZiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-09-23T03:05:38Z",
+        "url": "https://www.imdb.com/video/vi1917426713/"
+    },
+    "url": "/title/tt0122541/"
+}

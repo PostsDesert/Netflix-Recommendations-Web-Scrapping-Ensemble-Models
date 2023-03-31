@@ -1,0 +1,94 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Clark Gable",
+            "url": "/name/nm0000022/"
+        },
+        {
+            "@type": "Person",
+            "name": "Susan Hayward",
+            "url": "/name/nm0001333/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Rennie",
+            "url": "/name/nm0719692/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1580,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ernest K. Gann",
+            "url": "/name/nm0304418/"
+        }
+    ],
+    "datePublished": "1955-05-27",
+    "description": "After Jane Hoyt's journalist husband disappears, she arrives in Hong Kong determined to find him but instead meets shady shipping magnate Hank Lee.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Edward Dmytryk",
+            "url": "/name/nm0229424/"
+        }
+    ],
+    "duration": "PT1H36M",
+    "genre": [
+        "Adventure",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYmRmZWE3YzktN2E1Yi00ODE1LWJmYmQtNjA0Zjk4ZjExOWY2XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg",
+    "keywords": "man carries a woman,man wears a white suit,male female relationship,dysfunctional marriage,male male relationship",
+    "name": "Soldier of Fortune",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Mickey-2"
+        },
+        "dateCreated": "1999-04-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0048640/"
+        },
+        "name": "Clark Gable takes on Communist China in order to rescue Susan Hayward's husband.",
+        "reviewBody": "Based on the novel of the same name by Ernest Gann, \"Soldier of Fortune\" has Clark Gable taking on the type of role that made him one of the early kings of Hollywood. As Hank Lee, Gable has many connections in Hong Kong, and mainland China during the 50's. Susan Hayward has learned of her husband's capture on trumped-up charges from the Chinese gov't, and is willing to use any means possible to rescue him. This means even recruiting the mysterious Hank Lee, a rogue, a bandit, a smuggler, and those are his good qualities, according to the British crown, represented by Michael Rennie.\n\nWhen all is said and done, Gable finally accepts the challenge, and how he pulls the rescue off makes the story. Downtown Hong Kong has many memorable shots, and the film utilizes each of them to the fullest potential.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "After Jane Hoyt's journalist husband disappears, she arrives in Hong Kong determined to find him but instead meets shady shipping magnate Hank Lee.",
+        "duration": "PT2M18S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2748957465",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzlhNDI0ODUtMjZhOC00NTc0LTgzYjMtMDI5ZmMxZWYwYzg2XkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzlhNDI0ODUtMjZhOC00NTc0LTgzYjMtMDI5ZmMxZWYwYzg2XkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+        "uploadDate": "2021-12-01T17:36:46.835Z",
+        "url": "https://www.imdb.com/video/vi2748957465/"
+    },
+    "url": "/title/tt0048640/"
+}

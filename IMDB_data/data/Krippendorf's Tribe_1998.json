@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Richard Dreyfuss",
+            "url": "/name/nm0000377/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jenna Elfman",
+            "url": "/name/nm0001184/"
+        },
+        {
+            "@type": "Person",
+            "name": "Natasha Lyonne",
+            "url": "/name/nm0005169/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6176,
+        "ratingValue": 5,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0049348/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0021491/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frank Parkin",
+            "url": "/name/nm0662785/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charlie Peters",
+            "url": "/name/nm0676361/"
+        }
+    ],
+    "datePublished": "1998-02-27",
+    "description": "An anthropologist creates a fictitious lost New Guinea tribe using his family members to cover-up for his misuse of grant monies.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Todd Holland",
+            "url": "/name/nm0390844/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZDgyZmI1NjktNzdhZi00MTYyLTkxNWItMDAzN2U2OGRjMjM4XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "anthropologist,whispering in ear,whisper in ear,whispering in someone's ear,professor",
+    "name": "Krippendorf's Tribe",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Tito-8"
+        },
+        "dateCreated": "1999-02-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120725/"
+        },
+        "name": "I'm neutral on this one...",
+        "reviewBody": "Well, it seems like perhaps my opinion of this film is somewhat rare compared to most. I didn't like it, I didn't hate it...it was just an adequate time-filler. There's nothing particularly wrong with it, but it just isn't too funny either, which can be a problem if you're making a comedy. There's nothing I can really praise or trash about this movie, so I'd say that if you have an extreme need to see a standard film that isn't boring or especially entertaining, then this should nicely satisfy your mediocre movie requirements.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "An anthropologist creates a fictitious lost New Guinea tribe using his family members to cover-up for his mis-use of grant moneys.",
+        "duration": "PT2M7S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4196778777",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMmNkZmViZWEtYjAxOC00MmY5LWI1ZTgtN2FjNjQ2N2Y1MWJiXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMmNkZmViZWEtYjAxOC00MmY5LWI1ZTgtN2FjNjQ2N2Y1MWJiXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+        "uploadDate": "2022-01-13T16:48:03.109Z",
+        "url": "https://www.imdb.com/video/vi4196778777/"
+    },
+    "url": "/title/tt0120725/"
+}

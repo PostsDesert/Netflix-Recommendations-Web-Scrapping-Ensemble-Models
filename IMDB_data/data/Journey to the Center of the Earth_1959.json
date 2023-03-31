@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "James Mason",
+            "url": "/name/nm0000051/"
+        },
+        {
+            "@type": "Person",
+            "name": "Pat Boone",
+            "url": "/name/nm0004769/"
+        },
+        {
+            "@type": "Person",
+            "name": "Arlene Dahl",
+            "url": "/name/nm0006428/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 18378,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0263958/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0025573/"
+        },
+        {
+            "@type": "Person",
+            "name": "Walter Reisch",
+            "url": "/name/nm0281556/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Brackett",
+            "url": "/name/nm0102818/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jules Verne",
+            "url": "/name/nm0894523/"
+        }
+    ],
+    "description": "An Edinburgh professor and assorted colleagues follow an explorer's trail down an extinct Icelandic volcano to the earth's center.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Henry Levin",
+            "url": "/name/nm0505610/"
+        }
+    ],
+    "duration": "PT2H9M",
+    "genre": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM1YjMzZGYtMjg0MS00MzM1LWJkMzctMjFhNTA4M2NjOGNlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "keywords": "steampunk,male male relationship,implied male nudity,manipulative female,based on the works of jules verne",
+    "name": "Journey to the Center of the Earth",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Rage-7"
+        },
+        "dateCreated": "2000-04-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0052948/"
+        },
+        "name": "I rest my case",
+        "reviewBody": "After reading some of the comments on this film I feel I have to spring to it´s defense. You see I am born and bred in Iceland and as I write this I am in front of my computer in Iceland, so you can believe me when I tell you that ALL THE ICELANDIC IN THIS FILM IS REAL. I understood almost everything that the Icelandic character in the film said and I can assure you that it was particularly articulate and well pronounced. Why someone said that it was fake, I don´t know. I am guessing that he did not hear it well because the sound can be pretty bad in these golden oldies. While we are on the subject let me also add that some of the facts concerning Iceland were wrong. The horse carriage used to transport the group to the volcano is out of place. The interior design of the hotel and the maitre d´hotel´s costume was a bit off. But it´s described like that in Verne´s novel as well so it´s no big deal. And besides every ethnic group is portrayed in a very stereotypical manner; Scots, Italians, everybody. Such nitpicking is therefore dull and unnecessary and people should just enjoy the film for it´s imagination."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for this adventure classic",
+        "duration": "PT3M21S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3507357465",
+        "name": "Journey To The Center of the Earth (1959)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOWQ1OTMyNDYtMTU2NC00NGEwLWI0OGUtZjVkZDBlODU1OGI2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOWQ1OTMyNDYtMTU2NC00NGEwLWI0OGUtZjVkZDBlODU1OGI2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-05-18T15:27:32Z",
+        "url": "https://www.imdb.com/video/vi3507357465/"
+    },
+    "url": "/title/tt0052948/"
+}

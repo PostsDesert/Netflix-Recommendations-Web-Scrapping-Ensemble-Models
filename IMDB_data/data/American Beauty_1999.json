@@ -1,0 +1,96 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kevin Spacey",
+            "url": "/name/nm0000228/"
+        },
+        {
+            "@type": "Person",
+            "name": "Annette Bening",
+            "url": "/name/nm0000906/"
+        },
+        {
+            "@type": "Person",
+            "name": "Thora Birch",
+            "url": "/name/nm0000301/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1167200,
+        "ratingValue": 8.4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0819670/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0021095/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alan Ball",
+            "url": "/name/nm0050332/"
+        }
+    ],
+    "datePublished": "1999-10-01",
+    "description": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Sam Mendes",
+            "url": "/name/nm0005222/"
+        }
+    ],
+    "duration": "PT2H2M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "keywords": "midlife crisis,loveless marriage,drug dealer,drug use,obsession",
+    "name": "American Beauty",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bootsy-4"
+        },
+        "dateCreated": "1999-12-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0169547/"
+        },
+        "name": "Far and away the best film of the year",
+        "reviewBody": "What can I say, except that this film really knocked me on my keaster. I went in to the theater not knowing what to expect, but was pretty sure it would be worth the ticket price. Boy was I happy when I left. Not only was it worth the ticket, I paid to see this film two more times. This film is virtually perfect. The acting is superb, the story is magnificent, the narrative is brilliant, and the structure of the film is truly groundbreaking (absolutely loved the last 20 minutes). What really surprised me about this film was how well the cinematography was done. In a small, character driven film such as this, it is very unusual to have such great cinematography. With this film, there is something interesting going on in every scene, not many films you can say that about. In a year where first time directors have made some of the best films, Three Kings, Being John Malkovich, etc... Sam Mendes seems to have out-done them all. Though I have yet to see The Green Mile or Magnolia, I find it hard to believe that either film will out-shine American Beauty. This film should easily win a substantial amount of the Oscars this year. What's up with all the cirtics awards snubbing it so far?",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation for his daughter's attractive friend. ",
+        "duration": "PT3M1S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi788506137",
+        "name": "Theatrical Version",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTU5NDcyNTgzNl5BMl5BanBnXkFtZTgwNTMwNzU0NzE@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTU5NDcyNTgzNl5BMl5BanBnXkFtZTgwNTMwNzU0NzE@._V1_.jpg",
+        "uploadDate": "2013-04-03T14:22:07Z",
+        "url": "https://www.imdb.com/video/vi788506137/"
+    },
+    "url": "/title/tt0169547/"
+}

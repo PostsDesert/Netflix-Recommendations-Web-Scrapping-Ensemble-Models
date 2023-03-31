@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Richard Widmark",
+            "url": "/name/nm0001847/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sidney Poitier",
+            "url": "/name/nm0001627/"
+        },
+        {
+            "@type": "Person",
+            "name": "James MacArthur",
+            "url": "/name/nm0531279/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5603,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0129081/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Rascovich",
+            "url": "/name/nm2298197/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Poe",
+            "url": "/name/nm0688117/"
+        }
+    ],
+    "datePublished": "1965-11-12",
+    "description": "An American destroyer Captain is determined to confront a Soviet submarine caught violating territorial waters. Perhaps too determined.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "James B. Harris",
+            "url": "/name/nm0364805/"
+        }
+    ],
+    "duration": "PT1H42M",
+    "genre": [
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZGM5YjAwY2MtM2ViZS00YzlhLWFhMTQtYzg2YWU2YzVjMzFmL2ltYWdlXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_.jpg",
+    "keywords": "submarine,reporter,ship's crew,atlantic ocean,nuclear weapon",
+    "name": "The Bedford Incident",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Lejink"
+        },
+        "dateCreated": "2016-09-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0058962/"
+        },
+        "name": "The Hunt For Big Red In October",
+        "reviewBody": "I must confess I'd not heard of this film as it was off my radar (no pun intended) despite starring those two fine actors Sidney Poitier and Richard Widmark in the leads and the solid Martin Balsam in support. More fool me as it proved to be a fine, gritty Cold War thriller, highlighting explicitly then and still, I'd contend, now, that one wilful or accidental action in the heat of the moment could lead to catastrophe for the world. The film skilfully combines a study of men under pressure with the wider political picture, at the same time cleverly invoking the classic story of Moby Dick, with Widmark's Captain Freelander as obsessed with catching a fleeing Russian submarine as old Captain Ahab was his pesky whale.\n\nAll the action takes place on Freelander's US navy destroyer encompassing a gradually increasing character examination of the wilful Captain, driving his crew to exhaustion and the end of their wits by keeping them constantly at attention or GQ as it's called here, so that in the end a simple misunderstanding by a pressurised, even terrorised young officer of a phrase used by the captain in conversation leads to disaster. The abrupt ending is particularly memorable, the better for being so inevitable and brutal.\n\nWidmark as the crusty old captain is excellent in his portrayal of this particular single-minded sailor, while Poitier is also fine as the journalist who by questioning the captain's methods effectively acts as the conscience of the film, for once his skin colour having no bearing on his character''s relevance to the plot. Balsam too steps up as the passed over new medical officer who yet predicts the climactic outcome from way back.\n\nTautly directed in black and white, the tension is palpable as the American ship closes in on its prey and nerves become frayed to breaking point on the bridge, in so doing making an early case for greater psychological consideration due to crew members as advocated by Balsam's character.\n\nTopical and relevant, especially with recent events echoing even today in Syria, this is an unflinching and superbly acted contemporary thriller which deserves to be better known.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT3M14S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2783099673",
+        "name": "The Bedford Incident",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTJmZWIyNDgtYmNhYy00ZWEzLWE0ZGQtYjdhZWZlMjgyMGVlXkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTJmZWIyNDgtYmNhYy00ZWEzLWE0ZGQtYjdhZWZlMjgyMGVlXkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg",
+        "uploadDate": "2018-06-28T17:14:08.588Z",
+        "url": "https://www.imdb.com/video/vi2783099673/"
+    },
+    "url": "/title/tt0058962/"
+}

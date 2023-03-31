@@ -1,0 +1,96 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Joan Plowright",
+            "url": "/name/nm0687506/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mia Farrow",
+            "url": "/name/nm0001201/"
+        },
+        {
+            "@type": "Person",
+            "name": "Natasha Richardson",
+            "url": "/name/nm0001670/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1792,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0019383/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0069996/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0021421/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hugh Leonard",
+            "url": "/name/nm0502643/"
+        }
+    ],
+    "datePublished": "1994-05-13",
+    "description": "In 1934, an English widow moves to Widows' Peak, Ireland. She befriends other widows and the son of one. Hostility escalates between her and an Irish spinster.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Irvin",
+            "url": "/name/nm0410139/"
+        }
+    ],
+    "duration": "PT1H41M",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOWZhODdjYmEtZGRkMC00OWJhLTk5NGYtMDEwYmY5ZDQ0NWJkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "widow,gossip,feud,spinster,sting operation",
+    "name": "Widows' Peak",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Anya-fan"
+        },
+        "dateCreated": "2000-09-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0111712/"
+        },
+        "name": "Natasha Richardson",
+        "reviewBody": "I'm feeling a bit silly here, but I thought Natasha Richardson was British. In this film, she has an American accent that sounds very cultivated, although I couldn't tell whether it was fake or simply voice training.\n\nI do like this movie, though, in fact I like it very much! Natasha was wonderful despite my confusion about her accent, and Mia Farrow was quite good, although it was hard to really see her as plain as she was in this film. It was fun to watch, though, and has you thinking at the end. Joan Plowright was superb, as usual.\n\n9/10."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Fine Line",
+        "duration": "PT1M55S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi441516057",
+        "name": "Widows' Peak",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzRmOTVmNTMtMjZhZC00MTk0LWFkNWMtNTc0ZjQ4Y2RiOGRiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzRmOTVmNTMtMjZhZC00MTk0LWFkNWMtNTc0ZjQ4Y2RiOGRiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-10-30T04:02:54Z",
+        "url": "https://www.imdb.com/video/vi441516057/"
+    },
+    "url": "/title/tt0111712/"
+}

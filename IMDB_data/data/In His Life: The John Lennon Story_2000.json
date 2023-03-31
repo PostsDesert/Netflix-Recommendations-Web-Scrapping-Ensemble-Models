@@ -1,0 +1,84 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Philip McQuillan",
+            "url": "/name/nm0574393/"
+        },
+        {
+            "@type": "Person",
+            "name": "Daniel McGowan",
+            "url": "/name/nm0569626/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Rice-Oxley",
+            "url": "/name/nm0723580/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 672,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0013861/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0022762/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael O'Hara",
+            "url": "/name/nm0641307/"
+        }
+    ],
+    "datePublished": "2000-12-03",
+    "description": "A film about the early life of the rock musician and his burgeoning career as a member of the Beatles.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David Carson",
+            "url": "/name/nm0141222/"
+        }
+    ],
+    "duration": "PT1H25M",
+    "genre": [
+        "Biography",
+        "Drama",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZDFkMzQ2NmUtODliNy00ZWE0LTk5YzItMWQ3YTAwMDA5YWFhXkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_.jpg",
+    "keywords": "reference to the beatles,musician,1960s,1950s,rock music",
+    "name": "In His Life: The John Lennon Story",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "KoolJool817"
+        },
+        "dateCreated": "2004-02-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0270430/"
+        },
+        "name": "EXCELLENT SUMMARY OF LENNON'S EARLY YEARS",
+        "reviewBody": "This movie is a real treat for Beatles fans mainly because it was filmed entirely in Liverpool. All the historic sites written about over the years are shown -- the house where John Lennon grew up with his Aunt Mimi on Menlove Ave. (now a part of the National Trust), the Woolton Parish (where John and Paul McCartney first met), Penny Lane, Quarry Bank School for Boys, etc.\n\nIt's hard to condense several years of information into a 90-minute film, but this one manages to do it seamlessly. I especially like the importance the film puts on the Marketing and PR brilliance of Brian Epstein as the Beatles' manager.\n\nThis is a great \"introduction to\" film for new Beatles fans, and a great walk down memory lane for older ones.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0270430/"
+}

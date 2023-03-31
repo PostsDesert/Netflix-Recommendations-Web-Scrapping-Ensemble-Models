@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Keanu Reeves",
+            "url": "/name/nm0000206/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charlize Theron",
+            "url": "/name/nm0000234/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jason Isaacs",
+            "url": "/name/nm0005042/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 91954,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0090310/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0070636/"
+        },
+        {
+            "@type": "Person",
+            "name": "Herman Raucher",
+            "url": "/name/nm0712029/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Yurick",
+            "url": "/name/nm0951049/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kurt Voelker",
+            "url": "/name/nm0900820/"
+        }
+    ],
+    "datePublished": "2001-02-16",
+    "description": "A workaholic executive, and an unconventional woman agree to a personal relationship for a short period. In this short period she changes his life.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Pat O'Connor",
+            "url": "/name/nm0640466/"
+        }
+    ],
+    "duration": "PT1H59M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc4NjYzNzkzNl5BMl5BanBnXkFtZTYwNjg1ODc5._V1_.jpg",
+    "keywords": "advertising,dog,spontaneity,cancer,san francisco california",
+    "name": "Sweet November",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "tmf222"
+        },
+        "dateCreated": "2001-04-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0230838/"
+        },
+        "name": "Give Keanu a Break!",
+        "reviewBody": "I have read several reviews for this movie, and I am very upset by them. All they have to say is how Keanu Reeves is such a bad actor. Frankly I am sick of everyone jumping on that bad wagon. A few people say that he's a bad actor, then everyone has to jump in and say it too. Sure, he could have done a few lines of this movie with more feeling, but that doesn't mean he deserves such awful critiques. When I was in the theater, several people around me were complaining of how it was the worst movie they ever saw. Here I was, still sitting there, trying to let my face return to normal color (I had cried a little). I was outraged. The viewers should have enjoyed it for what the movie was, a light romance, nothing more, nothing less. It wasn't supposed to be Oscar-winning, it was simply supposed to be romantic. Movies aren't always believeable, but that doesn't mean that it will automatically get bad reviews. It is really disappointing, because this movie was really good (and really sad).",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Warner Bros. Pictures",
+        "duration": "PT2M15S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi277676313",
+        "name": "Sweet November",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzBkN2M3ZjktYmQ3Ny00M2U5LWEwOTktNWZjNDI3NmQ3Mzk1XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzBkN2M3ZjktYmQ3Ny00M2U5LWEwOTktNWZjNDI3NmQ3Mzk1XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:23:36Z",
+        "url": "https://www.imdb.com/video/vi277676313/"
+    },
+    "url": "/title/tt0230838/"
+}

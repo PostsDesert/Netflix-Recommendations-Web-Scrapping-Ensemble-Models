@@ -1,0 +1,79 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mark Taylor",
+            "url": "/name/nm1722109/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ted Kennedy",
+            "url": "/name/nm0448356/"
+        },
+        {
+            "@type": "Person",
+            "name": "Saddam Hussein",
+            "url": "/name/nm0404010/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 97,
+        "ratingValue": 4.4,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0141402/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rob Cartee",
+            "url": "/name/nm1725376/"
+        }
+    ],
+    "datePublished": "2004-09-21",
+    "description": "Conservative political commentator Mark Taylor presents uncensored archival footage of graphic Iraqi and Middle East atrocities in an effort to justify American intervention.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David Wald",
+            "url": "/name/nm0906996/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Documentary",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjEyNDAxNDkwOV5BMl5BanBnXkFtZTcwODAzOTk2MQ@@._V1_.jpg",
+    "keywords": "reference to adolf hitler,propaganda film,president of the united states,politician,political leader",
+    "name": "Buried in the Sand: The Deception of America",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "punxdiex"
+        },
+        "dateCreated": "2008-12-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0436149/"
+        },
+        "name": "Don't watch this 'film'",
+        "reviewBody": "This was a waste of time. Out of context video meets out of context prejudice. Quotes are taken from Democrats in supposed support of a war in Iraq (predicated on intelligence provided by the Bush administration) and are seamlessly narrated by our helpful nobody ra-ra, 'my way or the highway', war mongering nobody commentator. The videos are graphic, real and disturbing, but out of place and badly analyzed.\n\nPlease, put your time to better use. This film will either make you hate 'Islamic Extremists', the 'Radical Left' or just yourself for giving this garbage the time of day.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 1,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0436149/"
+}

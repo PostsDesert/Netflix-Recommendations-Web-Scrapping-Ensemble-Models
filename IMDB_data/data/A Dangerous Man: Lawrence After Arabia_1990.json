@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ralph Fiennes",
+            "url": "/name/nm0000146/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alexander Siddig",
+            "url": "/name/nm0796502/"
+        },
+        {
+            "@type": "Person",
+            "name": "Denis Quilley",
+            "url": "/name/nm0703615/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 663,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103554/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0066897/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0002760/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tim Rose Price",
+            "url": "/name/nm0741217/"
+        }
+    ],
+    "datePublished": "1992-05-08",
+    "description": "Lawrence and Feisal go to argue for Arab independence at the 1919 Paris Peace Conference.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Christopher Menaul",
+            "url": "/name/nm0578757/"
+        }
+    ],
+    "duration": "PT1H47M",
+    "genre": [
+        "Adventure",
+        "Biography",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZmRkZjJhOTUtYzAzNS00MmQ1LWE1MDctOTllMzhiMmNiM2YzXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg",
+    "keywords": "snow adventure,peace,arab,paris peace conference,king",
+    "name": "A Dangerous Man: Lawrence After Arabia",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "rps-2"
+        },
+        "dateCreated": "2004-01-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0099356/"
+        },
+        "name": "Tasteful and accurate",
+        "reviewBody": "This film is a wonderful glimpse into the stiff and devious world of frock coated 1919 diplomacy. I agree with those who already have said it is a wonderful companion piece for the more well known film about T.E. Lawrence. Fiennes gives a very deep and effective interpretation of the complex Lawrence. The recreations of Clemenceau, Wilson and Lloyd George are powerful indeed. The Versailles treaty is almost ancient history even though it had much to do with shaping today's complicated world. This film brings it into the present (or maybe us into the past). Perhaps not everybody's cup of tea but well worth seeing if you like twentieth century history, good acting and fine British television.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0099356/"
+}

@@ -1,0 +1,79 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Maureen Stapleton",
+            "url": "/name/nm0822972/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Durning",
+            "url": "/name/nm0001164/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Brandon",
+            "url": "/name/nm0104787/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 425,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0060242/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jerome Kass",
+            "url": "/name/nm0440783/"
+        }
+    ],
+    "datePublished": "1975-02-13",
+    "description": "A lonely widow and a postman find romance late in life at the local dance hall.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Sam O'Steen",
+            "url": "/name/nm0642714/"
+        }
+    ],
+    "duration": "PT1H38M",
+    "genre": [
+        "Drama",
+        "Music",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOWU2Mjk1MjktMTlhYy00ZDQ4LWI4YTMtY2JiNTI5NmY2N2ZlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",
+    "keywords": "dance,widow,grandmother,ballroom,postman",
+    "name": "Queen of the Stardust Ballroom",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "edwagreen"
+        },
+        "dateCreated": "2006-01-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0073596/"
+        },
+        "name": "Four Stars for this Queen",
+        "reviewBody": "True to life. Durning and Stapleton, the chemistry is perfect. Durning and Stapleton are phenomenal. A story for our times. Such comments are more than adequate for this fine story.\n\nBea Asher is widowed at middle age. She sings of her loneliness and the deprivation brought about by her husband's passing.Bea is about to settle down to a grim widowhood, when a waitress, in a restaurant, tells her that you start living once your husband has died.\n\nThough this statement is shocking, Bea goes with the woman to the Stardust Ballroom, a carefree lounge where couples dance to their pleasure. While there, Bea meets postman Al Green and the two are a match made up in heaven. Bea dances up a storm, changes that gray hair to bright red and becomes a live-wire not quite almost as Stapleton depicted in Woody Allen's \"Interiors.\" Life has more meaning now, despite the anger conveyed by her pristine daughter and sister, Helen, shown in a memorable scene by Charlotte Rae.\n\nThe ending may be considered a downer but the author really had nowhere else to go. Available on DVD, see this film. It will warm your heart and get those shoes out for some fine dancing!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0073596/"
+}

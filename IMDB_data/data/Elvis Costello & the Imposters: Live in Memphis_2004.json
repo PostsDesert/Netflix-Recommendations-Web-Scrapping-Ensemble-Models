@@ -1,0 +1,73 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Elvis Costello",
+            "url": "/name/nm0004845/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Ellen",
+            "url": "/name/nm1016325/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul McCartney",
+            "url": "/name/nm0005200/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 70,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0043107/"
+        }
+    ],
+    "datePublished": "2014-02-11",
+    "description": "A documentary portrait of the chameleon musician Elvis Costello, chronicling the extraordinary journey from his childhood under the influence of his singer father to his early success with the Attractions and his subsequent disenc...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mark Kidel",
+            "url": "/name/nm0452298/"
+        }
+    ],
+    "duration": "PT1H29M",
+    "genre": [
+        "Documentary",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZDNjZGE1NjktNWZlMC00YjI2LThlNzgtNmE4NmJjMDI5M2MxXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+    "name": "Elvis Costello: Mystery Dance",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Prismark10"
+        },
+        "dateCreated": "2018-02-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt3542218/"
+        },
+        "name": "Tramp the dirt down",
+        "reviewBody": "I had a school friend who fancied himself as the next Elvis Costello. Maybe because he wore geeky glasses and looked liked him. Sadly a runaway Reliant Robin damaged his guitar hand. Well accidents will happen!\n\nMark Kidel's documentary takes whistle stop look at Elvis Costello's career. He served notice by taking the blessed name of Elvis in the punk era of the mid 1970s.\n\nPretty soon he had his own Oliver's Army and embarked on a musical journey of different styles be it jazz, country or classical which opened up to him when he went to America.\n\nI think Elvis Costello was lost and Declan MacManus was regained.\n\nBy the late 80s he collaborated and revitalised Paul McCartney who was reduced to singing with a frog chorus.\n\nHowever I just felt that the whole program was a bit bland. Costello can be spiky and acerbic and this was just a bit too mellow.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt3542218/"
+}

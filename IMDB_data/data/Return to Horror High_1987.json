@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Lori Lethin",
+            "url": "/name/nm0504681/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brendan Hughes",
+            "url": "/name/nm0400484/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alex Rocco",
+            "url": "/name/nm0733678/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3551,
+        "ratingValue": 4.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0011752/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0064409/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Froehlich",
+            "url": "/name/nm0296175/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Lisson",
+            "url": "/name/nm0514199/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dana Escalante",
+            "url": "/name/nm0260112/"
+        }
+    ],
+    "datePublished": "1987-02-20",
+    "description": "In the early 1980s, a series of gruesome murders occurred at Crippen High School. A few years later, a film crew uses the now-abandoned Crippen High as the set for a film. But an uninvited guest makes an appearance on the set.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bill Froehlich",
+            "url": "/name/nm0296175/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Comedy",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZDFhODI1MzAtOTkyZS00MzkzLThmNjItM2RhNTE1OGU3ZDFhXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "high school,title appears in writing,police investigation,film producer,severed head",
+    "name": "Return to Horror High",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "AlbertV79"
+        },
+        "dateCreated": "2003-05-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0093854/"
+        },
+        "name": "Underrated Horror Film",
+        "reviewBody": "If everyone thought \"Scream 3\" had an interesting plot - a movie set falling prey to the killer resembling the Ghost Face Killer, then why don't you try this interesting horror flick of the 80's. As an avid fan of cult films, that is exactly what this film is. Early appearances by George Clooney and later appearances by \"Dr. Ben Casey\" Vince Edwards, \"Marcia Brady\" Maureen McCormick, \"Mo Green\" himself, Alex Rocco, and that kid from \"Alice\", Philip McKeon, all star in this film about a killer who returns to the high school where he killed years ago to terrorize a movie crew. The finale is a hell of a surprise."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT1M32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2442133785",
+        "name": "Return to Horror High",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjViYmU2NzYtNDQzOS00NjkzLWFlYTgtZDM3OWZlNmRkNmJiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjViYmU2NzYtNDQzOS00NjkzLWFlYTgtZDM3OWZlNmRkNmJiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:40:54Z",
+        "url": "https://www.imdb.com/video/vi2442133785/"
+    },
+    "url": "/title/tt0093854/"
+}

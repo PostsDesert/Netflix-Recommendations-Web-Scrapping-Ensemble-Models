@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kevin Bacon",
+            "url": "/name/nm0000102/"
+        },
+        {
+            "@type": "Person",
+            "name": "Elizabeth Perkins",
+            "url": "/name/nm0001610/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nathan Lane",
+            "url": "/name/nm0001447/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7128,
+        "ratingValue": 5.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brian Hohlfeld",
+            "url": "/name/nm0389830/"
+        }
+    ],
+    "datePublished": "1991-02-22",
+    "description": "TV viewers love seeing the two reporters with opposing views on the show \"He Said, She Said\". Womanizer Dan and Lorie fall for each other. Love?",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ken Kwapis",
+            "url": "/name/nm0477129/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marisa Silver",
+            "url": "/name/nm0798749/"
+        }
+    ],
+    "duration": "PT1H55M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDljZjg4ZjMtM2I5YS00N2Y4LTlhNWUtODRkZmUzMTkxNWU1XkEyXkFqcGdeQXVyNDAxNjkxNjQ@._V1_.jpg",
+    "keywords": "love,debate,breakup,ex boyfriend ex girlfriend relationship,argument",
+    "name": "He Said, She Said",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "cbpelto"
+        },
+        "dateCreated": "2006-03-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0102011/"
+        },
+        "name": "Tracy & Hepburn in the 90s",
+        "reviewBody": "Akin to the great battle of the sexes films of the 30s and 40s staring Spencer Tracy and Kathrine Hepburn but in the settings of the feminist 80s and 90s.\n\nThe premise is almost prescient of the James Carville and Mary Matalin lash-up, as this film was released in '91 before those two diametrically opposed political advisers/pundits of reality became widely known.\n\nLike the Tracy & Hepburn films of old this one is into feminine activism. Elizabeth Perkins' character, Lorie Bryer, is successfully fighting her way to the top of her profession in a major city newspaper. There's strong competition from Kevin Bacon's character, Dan Hanson, for a much prized promotion.\n\nLike Tracy & Hepburn, both are highly intelligent, albeit in their respective ways. She's a liberal. He's more 'conservative', think of Billy Joel's hit,\"Modern Woman\" for the two of them and you'll get the general idea.\n\nUnlike the Tracy & Hepburn films, there's deeper observation into the human psyche. And VERY well done. Their widely disparate perceptions of mutual experiences are hilarious as well as insightful.\n\nAlso, unlike the Tracy & Hepburn films, the supporting cast here have more depth and better expression. But with people like Sharon Stone playing the sultry other love interest and Nathan 'Mousehunt' Lane as the antsy television station manager, this should be expected. And it adds depth to the overall cinematic experience.\n\nAll in all, it's a good movie. I'll probably watch it as often as I watch the classic Tracy & Hepburn films in my library.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M17S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3095183641",
+        "name": "Trailer [EN]",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDJjZGU2ZjctOWUxYy00ZjM3LTkyNDctYzFhY2I2OTg5OWNhXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDJjZGU2ZjctOWUxYy00ZjM3LTkyNDctYzFhY2I2OTg5OWNhXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-01-19T21:02:02.596Z",
+        "url": "https://www.imdb.com/video/vi3095183641/"
+    },
+    "url": "/title/tt0102011/"
+}

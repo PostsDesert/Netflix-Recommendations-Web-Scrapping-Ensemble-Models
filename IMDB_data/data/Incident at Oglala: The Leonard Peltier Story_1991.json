@@ -1,0 +1,78 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Robert Redford",
+            "url": "/name/nm0000602/"
+        },
+        {
+            "@type": "Person",
+            "name": "Norman Zigrossi",
+            "url": "/name/nm2016787/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Sikma",
+            "url": "/name/nm2008646/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1252,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0026902/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0034515/"
+        }
+    ],
+    "datePublished": "1992-06-26",
+    "description": "This film describes the events surrounding a 1975 shootout at the Pine Ridge reservation in S. Dakota where two FBI agents were killed.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Apted",
+            "url": "/name/nm0000776/"
+        }
+    ],
+    "duration": "PT1H29M",
+    "genre": [
+        "Documentary",
+        "History"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BN2ExYmYwYTUtYzcxOS00YzRmLWE4ZDItMTFhNGI5MGU1NjYxXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+    "keywords": "fbi federal bureau of investigation,timeframe 1970s,shootout,fbi agent,south dakota",
+    "name": "Incident at Oglala",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bandarmae"
+        },
+        "dateCreated": "2010-02-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0104504/"
+        },
+        "name": "Free Leonard Now",
+        "reviewBody": "It's unbelievable that Leonard Peltier remains sitting in prison to this very day. A classic example of extreme oppression and injustice dealt out by the federal government. Though this film was originally released in 1992, it's no less riveting today. The documentary makes its case clearly and logically, unraveling the intricate details like a thriller. This film is not slick--and that is precisely its strength. Without using cheap visual gimmicks, it relies on the power of story and truth.\n\nFew documentaries can match the intense content of this story. Every American needs to see this film to realize exactly what's happening in this country. The war waged against native people continues from centuries ago. You'll also see how this injustice was only a warm-up for the current Green Scare campaign against political activists and ordinary citizens defending earth from destruction. Learn more about the Green Scare in articles by journalists Dean Kuipers and Will Potter.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0104504/"
+}

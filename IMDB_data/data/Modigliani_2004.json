@@ -1,0 +1,95 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Andy Garcia",
+            "url": "/name/nm0000412/"
+        },
+        {
+            "@type": "Person",
+            "name": "Elsa Zylberstein",
+            "url": "/name/nm0959113/"
+        },
+        {
+            "@type": "Person",
+            "name": "Omid Djalili",
+            "url": "/name/nm0229084/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 12106,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0088385/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0139685/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0012976/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mick Davis",
+            "url": "/name/nm0205169/"
+        }
+    ],
+    "datePublished": "2004-09-29",
+    "description": "The story of Amedeo Modigliani's bitter rivalry with Pablo Picasso, and his tragic romance with Jeanne Hebuterne.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mick Davis",
+            "url": "/name/nm0205169/"
+        }
+    ],
+    "duration": "PT2H8M",
+    "genre": [
+        "Biography",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTA1MDY5MjU1MjJeQTJeQWpwZ15BbWU2MDEyMTg3Ng@@._V1_.jpg",
+    "keywords": "character name as title,amedeo modigliani character,surname as title,prologue,epilogue",
+    "name": "Modigliani",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Tiny-13"
+        },
+        "dateCreated": "2004-12-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0367188/"
+        },
+        "name": "An Amazing Film, An Amazing Performance",
+        "reviewBody": "The story of Modigliani is well-known. However, this film gives it life with a wonderful script, amazing cinematography, and mind-blowing performances by Andy Garcia and Elsa Zylberstein, a little-known French actress. I was glued to the screen from start to finish and have recommended it to everyone. If this film, Garcia, and Zylberstein don't receive Academy Award nominations, there's something wrong with Hollywood... at least more than is already wrong with it.\n\nRun don't walk to the nearest theatre showing \"Modigiliani\". Forget the mega-publicized studio films being released now (Winter 2004-2005). See it while you can. It's a true find, and one that will stay with you long after you left the theatre."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "The story of Amedeo Modigliani's bitter rivalry with Pablo Picasso, and his tragic romance with Jeanne Hebuterne.",
+        "duration": "PT1M40S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi624739097",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTgyOGE0NWEtMTFlOC00ZTY3LWI5ZGUtNjUyM2UwNjM0ODNjXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTgyOGE0NWEtMTFlOC00ZTY3LWI5ZGUtNjUyM2UwNjM0ODNjXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+        "uploadDate": "2022-01-06T18:06:48.768Z",
+        "url": "https://www.imdb.com/video/vi624739097/"
+    },
+    "url": "/title/tt0367188/"
+}

@@ -1,0 +1,92 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Robert Mitchum",
+            "url": "/name/nm0000053/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Wagner",
+            "url": "/name/nm0001822/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Egan",
+            "url": "/name/nm0250724/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1537,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Person",
+            "name": "Wendell Mayes",
+            "url": "/name/nm0562606/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Salter",
+            "url": "/name/nm0759070/"
+        }
+    ],
+    "description": "In 1952, during the Korean War, two American pilots become bitter enemies over the same woman but must shelf their personal feud when confronted by deadly Chinese MIG fighter jets in battle.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Dick Powell",
+            "url": "/name/nm0694090/"
+        }
+    ],
+    "duration": "PT1H48M",
+    "genre": [
+        "Action",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZDBiZDJjMzMtMGRlYy00NzRlLTk5ZDgtNDJjOGQzY2Q0ZmU3XkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
+    "keywords": "korean war,jet fighter,based on novel,dysfunctional marriage,romantic rivalry",
+    "name": "The Hunters",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "larry-1967"
+        },
+        "dateCreated": "2003-12-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0051750/"
+        },
+        "name": "An outstanding film which needs to become available on DVD or VHS",
+        "reviewBody": "I never understood why this film got so little respect. I read the book years after I first saw the movie and was very impressed with the adaptation, particularly the inclusion of Robert Wagner as Lt. Ed Pell. The film is exceedingly well done in all aspects. Mitchum, Egan and Wagner all do solid work in the acting and the photography is beautiful. It is one of those rare films with a beginning, a middle AND an end.\n\nI strongly recommend it.\n\nNow, if it can just be made available on DVD and VHS."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Dick Powell narrates this trailer for his classic Air Force film",
+        "duration": "PT2M59S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3225485849",
+        "name": "The Hunters",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjY0NzEyZDktNzkzZC00ZTViLWIzYzEtMDA5MGY3MmRlYmNlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjY0NzEyZDktNzkzZC00ZTViLWIzYzEtMDA5MGY3MmRlYmNlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-10-09T14:12:06Z",
+        "url": "https://www.imdb.com/video/vi3225485849/"
+    },
+    "url": "/title/tt0051750/"
+}

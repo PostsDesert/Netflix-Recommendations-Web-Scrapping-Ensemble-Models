@@ -1,0 +1,96 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Meryl Streep",
+            "url": "/name/nm0000658/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kurt Russell",
+            "url": "/name/nm0000621/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cher",
+            "url": "/name/nm0000333/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 21079,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0044833/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0641809/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nora Ephron",
+            "url": "/name/nm0001188/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alice Arlen",
+            "url": "/name/nm0035146/"
+        }
+    ],
+    "datePublished": "1984-01-27",
+    "description": "A worker at a plutonium processing plant is purposefully contaminated, psychologically tortured and possibly murdered to prevent her from exposing worker safety violations at the plant.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mike Nichols",
+            "url": "/name/nm0001566/"
+        }
+    ],
+    "duration": "PT2H11M",
+    "genre": [
+        "Biography",
+        "Drama",
+        "History"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMGQ0N2U0YzMtNWIxYi00NWVhLWI3OTYtNTE5YjU0YTQwMGYxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "radioactivity,female worker,boyfriend girlfriend relationship,nuclear industry,f rated",
+    "name": "Silkwood",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "StreepFan126"
+        },
+        "dateCreated": "2002-10-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0086312/"
+        },
+        "name": "Meryl Streep at her best",
+        "reviewBody": "Even though you already now how the movie ends just by reading the taglines, there is still a strong element of suspense in this film, about Karen Silkwood who suspects that the lives of hereself and her co-workers are in danger. It is a well written film, and masterfully acted by Streep and her castmates. This one makes Julia Roberts in Erin Brochievich look really bad."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M16S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi918012185",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTc4ZjQ1YTktNTczMS00ODUwLTkzNzYtMjgzYTZmOWM1NDViXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTc4ZjQ1YTktNTczMS00ODUwLTkzNzYtMjgzYTZmOWM1NDViXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-09-04T18:42:55.855Z",
+        "url": "https://www.imdb.com/video/vi918012185/"
+    },
+    "url": "/title/tt0086312/"
+}

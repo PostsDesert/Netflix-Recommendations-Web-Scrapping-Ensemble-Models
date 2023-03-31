@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Christopher Walken",
+            "url": "/name/nm0000686/"
+        },
+        {
+            "@type": "Person",
+            "name": "Luke Askew",
+            "url": "/name/nm0039435/"
+        },
+        {
+            "@type": "Person",
+            "name": "Clancy Brown",
+            "url": "/name/nm0000317/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1231,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0008693/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Gambino",
+            "url": "/name/nm0303754/"
+        },
+        {
+            "@type": "Person",
+            "name": "Timothy Prager",
+            "url": "/name/nm0695112/"
+        }
+    ],
+    "datePublished": "1999-07-03",
+    "description": "Based on a true tale of power, corruption and murder, Christopher Walken stars in the story of the largest lynching in American history...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Nicholas Meyer",
+            "url": "/name/nm0583292/"
+        }
+    ],
+    "duration": "PT1H57M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzdkNDBiOTItMDU2Yy00ZTBkLTlkYWUtOTg0ZWVmYWJkOWQ2XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",
+    "keywords": "lynching,italian american,new orleans louisiana,mafia,frame up",
+    "name": "Vendetta",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Servo-11"
+        },
+        "dateCreated": "2003-05-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0162735/"
+        },
+        "name": "Really enjoyed it",
+        "reviewBody": "Although it has one of the more depressing endings ever filmed (and I normally don't like that kind of thing), I was unable to stop watching it. The story, no doubt simplified for the screen, was engaging and has me interested in seeking out Gambino's book to get the broader picture as well as the facts. :) Christopher Walken's accent was a tad iffy, but he wasn't the main attraction of the film. The collection of players were extremely well-balanced so that everyone had a chance to do their stuff and be memorable and they were! Darragh O'Malley as the Irish investigator was a pleasure to see after the days of Sharpe's Rifles and Joaquim de Almeida likewise captured interest with his diginified performance. Bruce Davison and Edward Herrmann as the warring attornies were also solid and interesting. I completely enjoyed this film.\n\n9/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi350290201",
+        "name": "Vendetta (1999)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTliMmI1MWUtMjNlYi00ZDY3LThiODYtOTBhZmQ1NmMyZTAxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTliMmI1MWUtMjNlYi00ZDY3LThiODYtOTBhZmQ1NmMyZTAxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:40:06Z",
+        "url": "https://www.imdb.com/video/vi350290201/"
+    },
+    "url": "/title/tt0162735/"
+}

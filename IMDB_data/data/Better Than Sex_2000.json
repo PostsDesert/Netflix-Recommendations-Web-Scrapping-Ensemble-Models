@@ -1,0 +1,96 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "David Wenham",
+            "url": "/name/nm0920992/"
+        },
+        {
+            "@type": "Person",
+            "name": "Susie Porter",
+            "url": "/name/nm0692305/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kris McQuade",
+            "url": "/name/nm0574296/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2233,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0043548/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0022335/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0094541/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jonathan Teplitzky",
+            "url": "/name/nm0855300/"
+        }
+    ],
+    "datePublished": "2000-11-09",
+    "description": "After a one-night stand a couple is faced with the terrifying possibility of what they really want.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jonathan Teplitzky",
+            "url": "/name/nm0855300/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU3MzE2ODkzMF5BMl5BanBnXkFtZTcwMjA5NjQyMQ@@._V1_.jpg",
+    "keywords": "man and woman in a bathtub,woman in a bathtub,woman in a bed,bedroom,one night stand",
+    "name": "Better Than Sex",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "apt4f"
+        },
+        "dateCreated": "2001-10-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0236019/"
+        },
+        "name": "Better than Masturbation....",
+        "reviewBody": "True, this movie did make you feel as though you'd had indulged in reading the forbidden secrets of the opposite sex via some skeezy mag ( ieCosmo / Maxim ), but it was refreshingly honest, and grotesquely intimate. I like how up close and personal the camera gets..... celebrating every glorious flaw.\n\nThe cheezy backdrops during the mock interviews and the disappointing use of the taxi driver were minuses, but the accurate and equal argumental voices given to both the male and female was a crisp break from the \"sex and the city\" type shows out there that propagate the weak and ugly male and the insecure and scheming female stereotype.\n\nRecommended."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Samuel Goldwyn",
+        "duration": "PT2M",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi45744409",
+        "name": "Better Than Sex",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzgxYmEyM2QtNDdiZS00NTYzLWE2MDUtZTAwOTlmMTIwYzQ5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzgxYmEyM2QtNDdiZS00NTYzLWE2MDUtZTAwOTlmMTIwYzQ5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:32:07Z",
+        "url": "https://www.imdb.com/video/vi45744409/"
+    },
+    "url": "/title/tt0236019/"
+}

@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jeffrey Wright",
+            "url": "/name/nm0942482/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Wincott",
+            "url": "/name/nm0000699/"
+        },
+        {
+            "@type": "Person",
+            "name": "Benicio Del Toro",
+            "url": "/name/nm0001125/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 21252,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0029967/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0043007/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0022594/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lech Majewski",
+            "url": "/name/nm0538107/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Bowe",
+            "url": "/name/nm0100765/"
+        },
+        {
+            "@type": "Person",
+            "name": "Julian Schnabel",
+            "url": "/name/nm0773603/"
+        }
+    ],
+    "datePublished": "1996-08-09",
+    "description": "The brief life of Jean Michel Basquiat, a world renowned New York street artist struggling with fame, drugs and his identity.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Julian Schnabel",
+            "url": "/name/nm0773603/"
+        }
+    ],
+    "duration": "PT1H47M",
+    "genre": [
+        "Biography",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk3NTk3MzU5N15BMl5BanBnXkFtZTgwNjIwMDcyMTI@._V1_.jpg",
+    "keywords": "andy warhol character,dreadlocks,african american,character name as title,artistic creation",
+    "name": "Basquiat",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "x111b3825"
+        },
+        "dateCreated": "2002-06-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0115632/"
+        },
+        "name": "Shame on the critic...",
+        "reviewBody": "Why is it whenever a work comes out about an artist of a modern slant, there arrives the masses claiming their dogs might paint better...and how about the simple complaint that \"they didn't show us what was going on in his mind...\"\n\nHogwash. Art will always be in the eye of the beholder, and unless you hear it from the horse's mouth, nobody knows what is going on in the head of anyone else. Take a look at Julian Schnabel's most recent work \"Before Night Falls,\" and subject it to the same analysis. The only reason we might know more about Reinaldo Arenas is because he wrote it down...the motives are not always as clear as we might hope to believe we have grasp of...\n\nHow about Jackson Pollack? How many of us know that the \"Wizard of Oz,\" an apparently simple, innocent childhood fable, was actually a political statement of the author (and this is from the \"horse's mouth\")?\n\nTake the film for what it is and don't spend your time looking for the boom mic to peek into shots or read Basquiat's mind and you might find it enjoyable. For the art critics out there, let us not pretend to understand the process unless you are somewhat of an artist yourself, okay. Because you cannot understand the motive does not change the fact it may exist on some other plane than we perceive. Okay, off of my soap box!"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT1M32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1341038105",
+        "name": "Basquiat",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYWIyNzMxNTMtOGMxYy00ODIxLTlkMDItZTNjNmIzNTZhMDk0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYWIyNzMxNTMtOGMxYy00ODIxLTlkMDItZTNjNmIzNTZhMDk0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-10-26T03:07:53Z",
+        "url": "https://www.imdb.com/video/vi1341038105/"
+    },
+    "url": "/title/tt0115632/"
+}

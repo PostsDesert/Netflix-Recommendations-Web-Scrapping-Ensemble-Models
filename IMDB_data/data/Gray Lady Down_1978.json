@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Charlton Heston",
+            "url": "/name/nm0000032/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Carradine",
+            "url": "/name/nm0001016/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stacy Keach",
+            "url": "/name/nm0005078/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3355,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0011112/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Lavallee",
+            "url": "/name/nm0491735/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Whittaker",
+            "url": "/name/nm0926436/"
+        },
+        {
+            "@type": "Person",
+            "name": "Howard Sackler",
+            "url": "/name/nm0755274/"
+        }
+    ],
+    "description": "A Navy Captain uses his experimental Snark to reach a nuclear submarine stuck on an ocean ledge.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David Greene",
+            "url": "/name/nm0338719/"
+        }
+    ],
+    "duration": "PT1H51M",
+    "genre": [
+        "Adventure",
+        "Drama",
+        "History"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BM2JhYzMyOGYtOTJmNS00MmJiLWIxZTAtM2M2OGViNDkzOTc1L2ltYWdlXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_.jpg",
+    "keywords": "underwater scene,self sacrifice,nuclear submarine,submarine,collision",
+    "name": "Gray Lady Down",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Eric-62-2"
+        },
+        "dateCreated": "2000-05-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0077629/"
+        },
+        "name": "An Underrated Gem",
+        "reviewBody": "A truly wonderful underappreciated gem from the tail-end of the \"disaster\" films of the 1970s, that was also Charlton Heston's last film as an action lead. What really makes \"Gray Lady Down\" a terrific film is that unlike the disaster films of the 90s (and some of the bad ones of the 70s), there is an air of believability to the whole thing. We don't see anything extremely outlandish, and we don't see incredible death-defying feats by the leads who then improbably survive such endeavors. Instead, we get a sense of how the real Navy might respond to a crisis like this and the end result proves to be quite gripping.\n\nThe cast is great, including Heston as the downed sub's captain, Stacy Keach (minus his usual hairpiece-a rarity) as the squadron commander, and surprisingly David Carradine who after all those years of \"Kung Fu\" shows that he can handle a different kind of role credibly. Christopher Reeve has a bit part as an officer, and this helped bring him to the attention of the Salkinds when they were looking for candidates for \"Superman.\" Fine score by Jerry Fielding too."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A Navy Captain uses his experimental Snark to reach a nuclear submarine stuck on an ocean ledge.",
+        "duration": "PT3M23S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi387564313",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzljMmZmOGYtMTkxNy00MmYyLWIxNTktMDE4OTJkOGY3YzliXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzljMmZmOGYtMTkxNy00MmYyLWIxNTktMDE4OTJkOGY3YzliXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2022-01-25T17:43:08.145Z",
+        "url": "https://www.imdb.com/video/vi387564313/"
+    },
+    "url": "/title/tt0077629/"
+}

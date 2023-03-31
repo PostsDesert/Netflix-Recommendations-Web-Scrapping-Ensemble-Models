@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ralph Fiennes",
+            "url": "/name/nm0000146/"
+        },
+        {
+            "@type": "Person",
+            "name": "Uma Thurman",
+            "url": "/name/nm0000235/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sean Connery",
+            "url": "/name/nm0000125/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 44428,
+        "ratingValue": 3.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0024560/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sydney Newman",
+            "url": "/name/nm0628285/"
+        },
+        {
+            "@type": "Person",
+            "name": "Don MacPherson",
+            "url": "/name/nm0534207/"
+        }
+    ],
+    "datePublished": "1998-08-14",
+    "description": "Two British Agents team up to stop Sir August de Wynter from destroying the world with a weather-changing machine.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jeremiah S. Chechik",
+            "url": "/name/nm0154819/"
+        }
+    ],
+    "duration": "PT1H29M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYWE1NTdjOWQtYTQ2Ny00Nzc5LWExYzMtNmRlOThmOTE2N2I4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+    "keywords": "snow adventure,good versus evil,heroine,evil man,villain",
+    "name": "The Avengers",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bellino-angelo2014"
+        },
+        "dateCreated": "2019-02-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0118661/"
+        },
+        "name": "Well it's not as bad as I assumed (and there are MUCH worse movies than this)",
+        "reviewBody": "This is among the most panned movies of all time since it was based on a TV show. And while I can understand the fans of the original TV show I still don't think that this movie is THAT bad. I would NEVER put it in the Bottom 100 as I can name many other movies that are much worse than this one (FREDDY GOT FINGERED, THE CAT IN THE HAT and DISASTER MOVIE for example).\n\nIn this full length version of the 1960s TV show John Steele and Emma Peel battle with a duplicate Emma Peel and Sir August de Wynter (played by Sean Connery), a mastermind that wants to rule the world with his weather-controlling machine. And while this plot could look stupid to some, it certainly is! But you can't do anything but admire the extraordinary special effects as well the sets. In particular I loved the special effects (the CGI insects were cool to look at). I personally can't give a 1 to a movie with great special effects and sets, it deserves at least other 4 points for the effects.\n\nAs for the acting, even though the movie it's bland Ralph Fiennes and Uma Thurman are good in their roles. And it was a surprise for me seeing Sean Connery in such a nasty role and Patrick Mcnee as the Invisible Jones (a small role).\n\nHowever, while the movie is a bit bad, it's watchable and far from a huge disappointment. But I am NOT saying it's great!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 4,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT29S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4069392665",
+        "name": "The Avengers (1998)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzM0NWIxNzAtZThkZC00NTZiLTlhN2MtYjFmNzNjMGIxNmIxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzM0NWIxNzAtZThkZC00NTZiLTlhN2MtYjFmNzNjMGIxNmIxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:30:31Z",
+        "url": "https://www.imdb.com/video/vi4069392665/"
+    },
+    "url": "/title/tt0118661/"
+}

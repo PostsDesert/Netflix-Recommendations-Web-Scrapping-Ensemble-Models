@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Macaulay Culkin",
+            "url": "/name/nm0000346/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christopher Lloyd",
+            "url": "/name/nm0000502/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kanin Howell",
+            "url": "/name/nm0397940/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 24320,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0045447/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0079227/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Kirschner",
+            "url": "/name/nm0456946/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Casci",
+            "url": "/name/nm0143129/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ernie Contreras",
+            "url": "/name/nm0176497/"
+        }
+    ],
+    "datePublished": "1994-11-23",
+    "description": "A cowardly boy, who buries himself in accident statistics, enters a library to escape a storm, only to be transformed into an animated illustration by the Pagemaster. He has to work through obstacles from classic books to return t...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Pixote Hunt",
+            "url": "/name/nm0402563/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joe Johnston",
+            "url": "/name/nm0002653/"
+        }
+    ],
+    "duration": "PT1H20M",
+    "genre": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZmJjNmY5MmEtMWVmOS00N2UyLWFmZWQtZjkyNDg5NzdjNGMyXkEyXkFqcGdeQXVyMTA1OTAyOTI@._V1_.jpg",
+    "keywords": "fantasy reality crossover,rain,thunder,lightning,bicycle",
+    "name": "The Pagemaster",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jackcwelch23"
+        },
+        "dateCreated": "2017-10-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0110763/"
+        },
+        "name": "A childhood favourite that should have been longer.",
+        "reviewBody": "This was my favourite film as a kid. Being born the year it came out, I think i spent the majority of 1998 watching it as that is when my brain developed enough to remember a movie. I honestly remember sitting there in my lounge room literally wishing there would be a sequel or a longer version somewhere out there because even as a toddler there were still parts of the film frustrated the hell out of me. I wanted to see Richard at school, get better sense of his lack of friends and worried, overly cautious nature. I wanted him to have a girl he liked, or someone he wanted to impress, that he could after his adventures with the books. I wanted more Christopher Lloyd. I wanted the areas of the journey he embarked upon to go longer than about 15 minutes each, I wanted more jokes and maybe a few more characters for them to meet along the way. I also would have liked more books to pop up, maybe like action or something like that. Even just a little cameo would have been cool.\n\nAll that being said, what I was left with, I loved. More than anything. James Horner's score is easily my favourite of all time and summarises my awesome childhood. Macaulay Culkin was always my hero. I was delighted he was the star of this. It was a hell of a lot better than richie rich. Yeesh. The visuals were terrific and it really did have a sense of wonder. The very short runtime however, stopped it from being a real classic. Man oh man that was a small tragedy as a kid. It filled me with a rich sadness, because I didn't want the story to end. It did make me feel as hard as i think i ever felt as a child though, and for that, I cant fault it. Plus the bike scene made me want to jump 10 feet in the air with happiness."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from 20th Century Fox",
+        "duration": "PT1M5S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3908108569",
+        "name": "The Pagemaster",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMWJkMzU4NTMtMzhjNS00MzFjLTljNWUtYTEzMWRmYjkxZTA1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMWJkMzU4NTMtMzhjNS00MzFjLTljNWUtYTEzMWRmYjkxZTA1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:41:04Z",
+        "url": "https://www.imdb.com/video/vi3908108569/"
+    },
+    "url": "/title/tt0110763/"
+}

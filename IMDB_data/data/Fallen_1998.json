@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Denzel Washington",
+            "url": "/name/nm0000243/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Goodman",
+            "url": "/name/nm0000422/"
+        },
+        {
+            "@type": "Person",
+            "name": "Donald Sutherland",
+            "url": "/name/nm0000661/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 86220,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0045447/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0028338/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nicholas Kazan",
+            "url": "/name/nm0443582/"
+        }
+    ],
+    "datePublished": "1998-01-16",
+    "description": "Homicide detective John Hobbes witnesses the execution of serial killer Edgar Reese. Soon after the execution, the killings start again, and they are very similar to Reese's style.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Gregory Hoblit",
+            "url": "/name/nm0387706/"
+        }
+    ],
+    "duration": "PT2H4M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BY2Q1OGI4ZGQtMzc3OS00YzIyLThhNWQtYWUxODc3NzU0YWQ4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "serial killer,detective,demonic possession,neo noir,azazel",
+    "name": "Fallen",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Boba_Fett1138"
+        },
+        "dateCreated": "2005-01-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0119099/"
+        },
+        "name": "A supernatural thriller with a great story!",
+        "reviewBody": "The great cast already hints at it, \"Fallen\" is a great movie.\n\nBest way to watch this movie is to not know too much about it. Just pick up the movie and let it surprise you. It's like \"Identity\", the less you know about it, the better.\n\nDirector Gregory Hoblit is a great and underrated director. He knows how to get the maximum out of everything. He also directed the movies \"Primal Fear\" and \"Frequency\" and much acclaimed television series episodes for \"Hill Street Blues\", \"L.A. Law\" and \"NYPD Blue\".\n\nReally great about the movie is the story by Nicholas Kazan (yes, indeed the son of...). It's supernatural but it still knows how to remain believable and realistic. The viewer never knows what he is going to get and what will happen next. This is why it is best not to know too much about this movie's story before viewing it for the first time. All of the story its surprises will work better this way.\n\nA bit of an forgotten underrated movie.\n\n8/10\n\nhttp://bobafett1138.blogspot.com/",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi665190681",
+        "name": "Fallen",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOGYyOWY3M2ItZTIzZC00MzliLWE0N2QtY2QyM2Y1NTRlZTlkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGYyOWY3M2ItZTIzZC00MzliLWE0N2QtY2QyM2Y1NTRlZTlkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:03:49Z",
+        "url": "https://www.imdb.com/video/vi665190681/"
+    },
+    "url": "/title/tt0119099/"
+}

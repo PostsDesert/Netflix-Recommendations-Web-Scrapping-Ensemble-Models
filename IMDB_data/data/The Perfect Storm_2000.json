@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "George Clooney",
+            "url": "/name/nm0000123/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Wahlberg",
+            "url": "/name/nm0000242/"
+        },
+        {
+            "@type": "Person",
+            "name": "John C. Reilly",
+            "url": "/name/nm0000604/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 171459,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0094884/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0005233/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sebastian Junger",
+            "url": "/name/nm0432631/"
+        },
+        {
+            "@type": "Person",
+            "name": "William D. Wittliff",
+            "url": "/name/nm0937074/"
+        }
+    ],
+    "datePublished": "2000-06-30",
+    "description": "An unusually intense storm pattern catches some commercial fishermen unaware and puts them in mortal danger.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Wolfgang Petersen",
+            "url": "/name/nm0000583/"
+        }
+    ],
+    "duration": "PT2H10M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOGU2MWRiYmQtMDY1MS00OTUzLTkzYTktYjE5YTE4MTI0NzRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "fish,fishing,sea,death,fisherman",
+    "name": "The Perfect Storm",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "DR.Z"
+        },
+        "dateCreated": "2000-07-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0177971/"
+        },
+        "name": "A roller coaster ride on water",
+        "reviewBody": "I was struck by the documentary quality of this film, and couldn't help but look back to an earlier Peterson film, Das Boot, where we got up close and intimate with all the crew of the submarine--where they slept, went to the washroom, their soaking wet clothes, the damp, the stink of unwashed clothes, the claustrophobia on board. I had absolutely no trouble believing that Mark Wahlberg and Clooney were fishermen, trying to earn a hardscrabble living against a tough and unforgiving sea. The movie even starts slowly, giving the viewers insights into their lives at home, why they fish, and why they make the decisions later on in the movie. Then the film starts to slowly build the tension as the storm builds in strength. The special effects were absolutely believable, and Peterson piles on the tension even while breaking it up by adding a parallel rescue at the same time as the Andrea Gail begins to run into trouble. An excellent summer thriller that is a real roller coaster ride--literally and figuratively--on water."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT1M29S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi737673497",
+        "name": "The Perfect Storm",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMWYxN2NjMWUtMjc4Ni00YjdmLTkxZDAtOWFlYzVhNGZkMDQ1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMWYxN2NjMWUtMjc4Ni00YjdmLTkxZDAtOWFlYzVhNGZkMDQ1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:02:11Z",
+        "url": "https://www.imdb.com/video/vi737673497/"
+    },
+    "url": "/title/tt0177971/"
+}

@@ -1,0 +1,117 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "James S. Baker",
+            "url": "/name/nm1404665/"
+        },
+        {
+            "@type": "Person",
+            "name": "Matt K. Miller",
+            "url": "/name/nm0588929/"
+        },
+        {
+            "@type": "Person",
+            "name": "Erik Bergmann",
+            "url": "/name/nm0074897/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1595,
+        "ratingValue": 4.4,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0010539/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0043064/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0074564/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Tulloch",
+            "url": "/name/nm0876403/"
+        },
+        {
+            "@type": "Person",
+            "name": "Diana Young",
+            "url": "/name/nm0949479/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chris Fink",
+            "url": "/name/nm1764881/"
+        }
+    ],
+    "datePublished": "1998-03-17",
+    "description": "The fairies of FernGully must venture outside the rain forest to rescue several young animals who were captured by poachers.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Phil Robinson",
+            "url": "/name/nm0732989/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Marshall",
+            "url": "/name/nm0550825/"
+        }
+    ],
+    "duration": "PT1H15M",
+    "genre": [
+        "Animation",
+        "Adventure",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTgzOTE3ODg4NF5BMl5BanBnXkFtZTgwNjc3Njk1MDI@._V1_.jpg",
+    "keywords": "car chase,animal cruelty,animal in a cage,slimehouse,rainforest",
+    "name": "FernGully 2: The Magical Rescue",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "toren_chez"
+        },
+        "dateCreated": "2006-01-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0129924/"
+        },
+        "name": "one of the worst sequels ever",
+        "reviewBody": "when we watched fern gully as a kid we fell in love and watched it at least 20 times, a few years later i rented this movie and didn't bother to finish watching after 15 mins. Watching them both years later i still love ferngully but ferngully 2 may as well have been made by monkeys. It has no quality music, no memorable moments, sure it has magic but it's meaningless, there's no deeper meaning, they didn't have robin Williams and the voices are horrible. The only good thing in this film is about saving wildlife from poachers but the way that they went about it...i expect this kind of stuff from crappy TV series, not sequels based on a truly great film\n\nregards, Reaper",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 1,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from 20th Century Fox Home Entertainment",
+        "duration": "PT49S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3701866777",
+        "name": "Ferngully II: The Magical Rescue",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjFmZTZjNDgtZTNjNC00MTcwLTk4OTMtOWNiNjY5NWZhNWZiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjFmZTZjNDgtZTNjNC00MTcwLTk4OTMtOWNiNjY5NWZhNWZiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:05:34Z",
+        "url": "https://www.imdb.com/video/vi3701866777/"
+    },
+    "url": "/title/tt0129924/"
+}

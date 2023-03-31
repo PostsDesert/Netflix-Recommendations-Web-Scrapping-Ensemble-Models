@@ -1,0 +1,114 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Judy Garland",
+            "url": "/name/nm0000023/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frank Morgan",
+            "url": "/name/nm0604656/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ray Bolger",
+            "url": "/name/nm0001961/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 407287,
+        "ratingValue": 8.1,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007143/"
+        },
+        {
+            "@type": "Person",
+            "name": "Noel Langley",
+            "url": "/name/nm0486538/"
+        },
+        {
+            "@type": "Person",
+            "name": "Florence Ryerson",
+            "url": "/name/nm0753249/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edgar Allan Woolf",
+            "url": "/name/nm0941138/"
+        }
+    ],
+    "datePublished": "1939-08-25",
+    "description": "Young Dorothy Gale and her dog Toto are swept away by a tornado from their Kansas farm to the magical Land of Oz, and embark on a quest with three new friends to see the Wizard, who can return her to her home and fulfill the other...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Victor Fleming",
+            "url": "/name/nm0281808/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Cukor",
+            "url": "/name/nm0002030/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mervyn LeRoy",
+            "url": "/name/nm0503777/"
+        }
+    ],
+    "duration": "PT1H42M",
+    "genre": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjUyMTc4MDExMV5BMl5BanBnXkFtZTgwNDg0NDIwMjE@._V1_.jpg",
+    "keywords": "witch,wizard of oz,tornado,evil witch,wizard",
+    "name": "The Wizard of Oz",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "TheLittleSongbird"
+        },
+        "dateCreated": "2009-02-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0032138/"
+        },
+        "name": "My childhood favourite!",
+        "reviewBody": "I am 16, and I still love this movie. I grew up watching this, Chitty Chitty Bang Bang and Meet Me in Saint Louis, and I never tire of them. Judy Garland is wonderful as Dorothy, bringing a sense of vulnerability and sadness to the role, making Over The Rainbow more poignant than it already was. Ray Bolger, Jack Haley and Bert Lahr are really entertaining as her three friends. Billie Burke as Glinda, and the Munchkins were great fun too. The wicked witch of the west scared the life out of me here and still does, and even Frank Morgan does 5 roles to great comical effect. The songs are just fabulous, and so is the cinematography and the stunning scenery. True, the film isn't completely faithful to the book, but why does it have to be? If I had one minor drawback, it would be the singing voice of the Lion, but apart from that, this movie is a must-see! 10/10. Bethany Cox",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer 2 for The Wizard of Oz",
+        "duration": "PT2M20S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2210441241",
+        "name": "The Wizard of Oz: 75th Anniversary",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOWIxZDgyMTgtYWQ0Ny00Y2Y3LTkwMzEtOTY2MTM3ODY0YzkxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOWIxZDgyMTgtYWQ0Ny00Y2Y3LTkwMzEtOTY2MTM3ODY0YzkxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2013-11-07T08:35:15Z",
+        "url": "https://www.imdb.com/video/vi2210441241/"
+    },
+    "url": "/title/tt0032138/"
+}

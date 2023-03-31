@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Uma Thurman",
+            "url": "/name/nm0000235/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Carradine",
+            "url": "/name/nm0001016/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Madsen",
+            "url": "/name/nm0000514/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 768375,
+        "ratingValue": 8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0022594/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0019267/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0086625/"
+        },
+        {
+            "@type": "Person",
+            "name": "Quentin Tarantino",
+            "url": "/name/nm0000233/"
+        },
+        {
+            "@type": "Person",
+            "name": "Uma Thurman",
+            "url": "/name/nm0000235/"
+        }
+    ],
+    "datePublished": "2004-04-16",
+    "description": "The Bride continues her quest of vengeance against her former boss and lover Bill, the reclusive bouncer Budd, and the treacherous, one-eyed Elle.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Quentin Tarantino",
+            "url": "/name/nm0000233/"
+        }
+    ],
+    "duration": "PT2H17M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNmFiYmJmN2QtNWQwMi00MzliLThiOWMtZjQxNGRhZTQ1MjgyXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_.jpg",
+    "keywords": "female assassin,martial arts master,revenge,wedding chapel,vigilante",
+    "name": "Kill Bill: Vol. 2",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "abacus24"
+        },
+        "dateCreated": "2006-07-05",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0378194/"
+        },
+        "name": "A Tarantino Masterpiece",
+        "reviewBody": "Over the last 40 years, I've seen a lot of movies. All types. Some great, some good and some mostly inedible; most left my breath with a sour smell. Westerns, sci-fi, comedies, dramas, etc. After seeing Kill Bill Vol I, I assumed that any sequel would pale to its predecessor. I, of course, was premature in my prediction. The movie was, by all means, a classic. I feel Taratino was really trying to make a great movie versus making money for his producers. To build his tasty sandwich, he took the lessons he learned from life as a movie maker and cleverly managed to meld some slices of meat from Sergio Leone (subtly), Akira Kurosawa (very subtly) and, I'm stretching it here, Ridley Scott, to create a great sequel to an excellent first movie. He used some great, almost forgotten actors (Daryl Hannah, Micheal Parks, and David Carradine to create a memorable meal. It was only a sandwich, but what morsel it was. I was full and wanting more. Very rare to find this type of film in our corporate world. He must wield some real power in the movie world. I don't know of anyone who has saw this movie who hasn't given it great feedback. And I know all types of viewers. My wife, who really doesn't like anything that is not overly melancholy or dripping with sentimentality, actually liked the whole movie. That in itself is an endorsement. Well done. Mr. Tarantino, you will be hard placed to match this gem.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "CT #1, post",
+        "duration": "PT2M20S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi405667865",
+        "name": "Kill Bill: Vol. 2",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjA3OThlOWUtZWZiYi00M2I2LTg0Y2QtNWY2YThjZjE4Y2U1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjA3OThlOWUtZWZiYi00M2I2LTg0Y2QtNWY2YThjZjE4Y2U1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-09-10T03:24:55Z",
+        "url": "https://www.imdb.com/video/vi405667865/"
+    },
+    "url": "/title/tt0378194/"
+}

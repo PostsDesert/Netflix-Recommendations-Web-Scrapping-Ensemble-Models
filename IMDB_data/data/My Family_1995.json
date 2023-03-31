@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jimmy Smits",
+            "url": "/name/nm0001751/"
+        },
+        {
+            "@type": "Person",
+            "name": "Esai Morales",
+            "url": "/name/nm0005246/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edward James Olmos",
+            "url": "/name/nm0001579/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4290,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0057924/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0020958/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0067785/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gregory Nava",
+            "url": "/name/nm0622695/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anna Thomas",
+            "url": "/name/nm0858482/"
+        }
+    ],
+    "datePublished": "1995-05-03",
+    "description": "A man makes his way from Mexico to Los Angeles in the 1920s and gets married and raises a big family there. The movie follows the children until they get married and start their families in the 1960s.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Gregory Nava",
+            "url": "/name/nm0622695/"
+        }
+    ],
+    "duration": "PT2H8M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMGMyZWJlOTAtNmE2ZS00YWNmLTg5MDAtYjY2ZjhhMjRjYTFkXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+    "keywords": "f rated,prison,hood,voice over narration,narrated by character",
+    "name": "My Family",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "stephani-2"
+        },
+        "dateCreated": "1998-09-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0113896/"
+        },
+        "name": "Emotional roller coaster...",
+        "reviewBody": "I really enjoyed this movie. If you know anything about Mexican culture, it should really make you laugh! Of course, it also has its moments of tragedy but somehow everything ends up being okay. I liked it! It's definitely a movie that makes you feel!\n\nEsai Morales, Chucho, does an excellent job! I think it's some of the best acting I've ever seen him do.\n\nI hope you see it!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Text OS",
+        "duration": "PT2M7S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2930573593",
+        "name": "My Family",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjJmYTIxYWMtMjQ5MC00Yzc4LTkzYTktMjkyMmVhYjVjMWNhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjJmYTIxYWMtMjQ5MC00Yzc4LTkzYTktMjkyMmVhYjVjMWNhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:27:39Z",
+        "url": "https://www.imdb.com/video/vi2930573593/"
+    },
+    "url": "/title/tt0113896/"
+}

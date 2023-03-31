@@ -1,0 +1,86 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bruce MacDonald",
+            "url": "/name/nm0531638/"
+        },
+        {
+            "@type": "Person",
+            "name": "Maggie Renzi",
+            "url": "/name/nm0719964/"
+        },
+        {
+            "@type": "Person",
+            "name": "Adam LeFevre",
+            "url": "/name/nm0480775/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2130,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0003976/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0032034/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0063528/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Sayles",
+            "url": "/name/nm0000626/"
+        }
+    ],
+    "datePublished": "1980-09-05",
+    "description": "Seven former college friends, along with a few new friends, gather for a weekend reunion at a summer house in New Hampshire to reminisce about the good old days, when they got arrested on the way to a protest in Washington, DC.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Sayles",
+            "url": "/name/nm0000626/"
+        }
+    ],
+    "duration": "PT1H44M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOWUzNGViY2EtNzI3My00ZmZkLWFjNDEtNzcwZTU0OTg5MmJiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "keywords": "male nudity,national film registry,speechwriter,theater,theater audience",
+    "name": "Return of the Secaucus Seven",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "niohc"
+        },
+        "dateCreated": "2006-03-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0081420/"
+        },
+        "name": "Did we all see the same film?",
+        "reviewBody": "Some of the comments about \"Return\" are amazingly vitriolic and appear to have been written by people who hate independent films in general, or who hate \"reunion\" movies, or who hate low-budget movies, etc., etc., etc. If your comfort zone is Hollywood films with predictable plots and pretty, more or less interchangeable faces you've seen over and over, why watch this film at all? \n\nThere are also some misstatements of fact among the comments--it is amazing that someone thinks that \"The Big Chill,\" a blatant piece of Hollywood plagiarism, preceded and inspired this film--but particularly off base is the remark that few of the actors in the film have many additional credits. Yes, there are several actors with only one to three credits. But more than half of them have numerous credits, some as many as 90, and some as writers and producers as well as actors. Furthermore, many of the credits are excellent--most of the TV credits, for example, are for series that are critically acclaimed. In addition, four or five of the actors are well known and respected in the business, whether they are household names or not. If you can use IMDb well enough to make comments, you can also check the accuracy of such statements before making them.\n\nThe film may not seem gripping now, since the reunion thing has been done to death. But it is a very important movie, in terms of advancing the popular acceptance of independent films and, of course, launching John Sayles' brilliant career, one which has contributed in a major way to the culture of this country and indeed the world. And it is still good watching for those who do not expect all films to be about action.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0081420/"
+}

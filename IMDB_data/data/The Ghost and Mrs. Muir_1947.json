@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Gene Tierney",
+            "url": "/name/nm0000074/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rex Harrison",
+            "url": "/name/nm0001322/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Sanders",
+            "url": "/name/nm0001695/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 19822,
+        "ratingValue": 7.8,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Person",
+            "name": "Philip Dunne",
+            "url": "/name/nm0242897/"
+        },
+        {
+            "@type": "Person",
+            "name": "R.A. Dick",
+            "url": "/name/nm0225283/"
+        }
+    ],
+    "datePublished": "1947-06-18",
+    "description": "In 1900, a young widow finds her seaside cottage is haunted and forms a unique relationship with the ghost.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Joseph L. Mankiewicz",
+            "url": "/name/nm0000581/"
+        }
+    ],
+    "duration": "PT1H44M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzYxMjIyMmYtMDI2OS00YTgyLWExZWMtODdkZTk1NzRlODgzXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_.jpg",
+    "keywords": "ghost,based on novel,character name in title,dropping a glass,milk",
+    "name": "The Ghost and Mrs. Muir",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jotix100"
+        },
+        "dateCreated": "2005-05-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0039420/"
+        },
+        "name": "This ole house is haunted",
+        "reviewBody": "Joseph L. Mankiewicz was the right choice for directing this film. He created a film that survived the passage of time. The R. A. Dick's novel was adapted by Philip Dunne. \"The Ghost and Mrs. Muir\" is blessed with one of Bernard Herrmann's best film scores. The music greatly enhances what one is watching on the screen. Charles Lang's cinematography gives the illusion we are somewhere on a remote spot of England, when in reality the film was shot in California! \n\n\"The Ghost and Mrs. Muir\" gave its star, Gene Tierney, one of the best roles of her career, after \"Laura\". Ms. Tierney had the fragility to portray Lucy Muir, the plucky young widow that decides to move to the coast against her in-laws wishes. The idea of the film plays well as it unfolds because obviously, it's all in Mrs. Muir's mind all what she is experiencing.\n\nRex Harrison's Capt. Daniel Gregg was also one of his best opportunities as a leading man in the movies. Mr. Harrison is perfect as the crusty old seaman that refuses to abandon his beloved home overlooking a beautiful view of the sea. Mr. Harrison plays well opposite Ms. Tierney; their chemistry works well because it combines his rugged good looks and her beauty.\n\nThe supporting players are good under Mr. Mankiewicz' direction. George Sanders, Edna Best, Natalie Wood, Robert Coote, Vanessa Brown, all give good performances and enhance the film.\n\nThis film will always be a favorite for fans, young and old.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for this unusual story",
+        "duration": "PT2M39S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2481849369",
+        "name": "The Ghost And Mrs. Muir",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTZiYjI5NjItNGI1Zi00NTFkLTkyMTktOTQxZTI2ZWJkMTg4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTZiYjI5NjItNGI1Zi00NTFkLTkyMTktOTQxZTI2ZWJkMTg4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-01-16T16:43:22Z",
+        "url": "https://www.imdb.com/video/vi2481849369/"
+    },
+    "url": "/title/tt0039420/"
+}

@@ -1,0 +1,113 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Marisa Paredes",
+            "url": "/name/nm0004650/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eduardo Noriega",
+            "url": "/name/nm0635330/"
+        },
+        {
+            "@type": "Person",
+            "name": "Federico Luppi",
+            "url": "/name/nm0527002/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 68133,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "alternateName": "The Devil's Backbone",
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0006440/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0040776/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0048920/"
+        },
+        {
+            "@type": "Person",
+            "name": "Guillermo del Toro",
+            "url": "/name/nm0868219/"
+        },
+        {
+            "@type": "Person",
+            "name": "Antonio Trashorras",
+            "url": "/name/nm0871121/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Muñoz",
+            "url": "/name/nm0616393/"
+        }
+    ],
+    "datePublished": "2001-04-20",
+    "description": "After Carlos - a 12-year-old whose father has died in the Spanish Civil War - arrives at an ominous boys' orphanage, he discovers the school is haunted and has many dark secrets which he must uncover.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Guillermo del Toro",
+            "url": "/name/nm0868219/"
+        }
+    ],
+    "duration": "PT1H46M",
+    "genre": [
+        "Drama",
+        "Horror",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTI3MDcwZGItZDMwNS00ZDBjLWEwOGEtMWEyMWUxNDlkYzBjL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "keywords": "orphanage,spanish civil war,gold bar,gold,shame",
+    "name": "El espinazo del diablo",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "gogoschka-1"
+        },
+        "dateCreated": "2018-02-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0256009/"
+        },
+        "name": "Haunting, Sad And Beautiful",
+        "reviewBody": "A beautiful, atmospheric story about a haunted orphanage. To date, I think it's Del Toro's most \"complete\" film, combining his trademark visuals with a very touching story about war, death, guilt and grief - and ultimately hope.\n\nLike 'Pan's Labyrinth' the story is set against the backdrop of the Spanish civil war (although here the war serves merely as a background noise). The film is so beautifully shot that I would recommend it even to people who don't normally like ghost stories (it does have some scary moments, mind); this one transcends the horror genre. 8 stars out of 10.\n\nIn case you're interested in more underrated masterpieces, here's some of my favorites:\n\nimdb.com/list/ls070242495",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Columbia Pictures",
+        "duration": "PT2M10S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3347775769",
+        "name": "The Devil's Backbone",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODVlNjczMWYtNjI2Yy00YTk2LWE0MTAtZDQxYWZkMDhkYWNjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODVlNjczMWYtNjI2Yy00YTk2LWE0MTAtZDQxYWZkMDhkYWNjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:19:02Z",
+        "url": "https://www.imdb.com/video/vi3347775769/"
+    },
+    "url": "/title/tt0256009/"
+}

@@ -1,0 +1,65 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Neeru Bajwa",
+            "url": "/name/nm1263093/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ruby Bhatia",
+            "url": "/name/nm0080295/"
+        },
+        {
+            "@type": "Person",
+            "name": "Vekeana Dhillon",
+            "url": "/name/nm1445297/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 911,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0006414/"
+        }
+    ],
+    "datePublished": "2002-07-21",
+    "description": "This feature length documentary tells the story of four Indo Canadians; Vikram Dhillon, Vekeana Dhillon, Ruby Bhatia and Neeru Bajwa, who head to Mumbai to find fame and fortune in the Bollywood film industry.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Nisha Pahuja",
+            "url": "/name/nm1263934/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTgzODczZjgtNGZiOS00OWQ4LWIzMWEtNDA3Y2NkODQ0N2Q0XkEyXkFqcGdeQXVyMTc1MDg4NTA@._V1_.jpg",
+    "name": "Bollywood Bound",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Reggie_Charan"
+        },
+        "dateCreated": "2003-11-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0296535/"
+        },
+        "name": "Worth a look",
+        "reviewBody": "The camera follows the travails of 4 Indo-Canadians back to Bombay as they pursue stardom in the Indian film industry. Except for the arrogant and pretentious MTV style VJ, Ruby, the kids are all quite likable and you can't help but root for them. Running time is too short, but anyone who has ever had a dream will enjoy this one."
+    },
+    "url": "/title/tt0296535/"
+}

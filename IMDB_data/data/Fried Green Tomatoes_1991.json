@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kathy Bates",
+            "url": "/name/nm0000870/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jessica Tandy",
+            "url": "/name/nm0001788/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mary Stuart Masterson",
+            "url": "/name/nm0000524/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 77241,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0043140/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0006702/"
+        },
+        {
+            "@type": "Person",
+            "name": "Fannie Flagg",
+            "url": "/name/nm0280840/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carol Sobieski",
+            "url": "/name/nm0811807/"
+        }
+    ],
+    "datePublished": "1992-01-24",
+    "description": "A housewife who is unhappy with her life befriends an old lady at a nursing home and is enthralled by the tales she tells of people she used to know.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jon Avnet",
+            "url": "/name/nm0000816/"
+        }
+    ],
+    "duration": "PT2H10M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOWQ1ZWE0MTQtMmEwOS00YjA3LTgyZTAtNjY5ODEyZTJjNDI2XkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
+    "keywords": "female bonding,domestic violence,friendship,alabama,discrimination",
+    "name": "Fried Green Tomatoes",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "azifucare"
+        },
+        "dateCreated": "2004-07-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0101921/"
+        },
+        "name": "An Excellent Story Within A Story",
+        "reviewBody": "I must admit. When I first heard of this movie many years ago, the title didn't sound that appealing and the few scenes that I saw didn't look very interesting. But what can I say? I was little then and didn't know what I was missing. My mother kept telling me how good of a movie this was, but I was just too stubborn and didn't pay attention. It was only a few months ago that I decided to watch it when it appeared on TV and boy was I surprised!!\n\nThis movie is beyond anything that I have ever viewed in my entire life. Usually, this sort of movie isn't the kind that I look at, but I fell in love with the story and the characters, as well as the wonderful actresses (Kathy Bates, Jessica Tandy, Mary Stuart Masterson, and Mary-Louise Parker) who did an outstanding job portraying their characters in a unique and unforgettable way.\n\nSince I don't want to spoil anything for those who haven't seen it, let me just say that it's an astounding tale of a special friendship that goes way beyond what we would call a \"regular\" one. It will make you thankful for the friends you have and even give women a sense to stand up for their own rights. All in all, I give this movie a 10 out of 10. If you haven't seen it, what are you doing reading this?! Go out and rent it!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Universal Studios Home Entertainment",
+        "duration": "PT2M50S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi476250137",
+        "name": "Fried Green Tomatoes",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDc2MDA2OWYtMmU1ZS00MTQ3LTljY2YtYWVlYmFiMzhkOTJjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDc2MDA2OWYtMmU1ZS00MTQ3LTljY2YtYWVlYmFiMzhkOTJjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-10-18T03:18:31Z",
+        "url": "https://www.imdb.com/video/vi476250137/"
+    },
+    "url": "/title/tt0101921/"
+}

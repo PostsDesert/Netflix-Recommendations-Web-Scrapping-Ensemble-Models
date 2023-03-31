@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Emma Thompson",
+            "url": "/name/nm0000668/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kate Winslet",
+            "url": "/name/nm0000701/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Fleet",
+            "url": "/name/nm0281424/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 119212,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0038270/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jane Austen",
+            "url": "/name/nm0000807/"
+        },
+        {
+            "@type": "Person",
+            "name": "Emma Thompson",
+            "url": "/name/nm0000668/"
+        }
+    ],
+    "datePublished": "1996-01-26",
+    "description": "Rich Mr. Dashwood dies, leaving his second wife and her three daughters poor by the rules of inheritance. The two eldest daughters are the title opposites.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ang Lee",
+            "url": "/name/nm0000487/"
+        }
+    ],
+    "duration": "PT2H16M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzk1MjU3MDQyMl5BMl5BanBnXkFtZTcwNjc1OTM2MQ@@._V1_.jpg",
+    "keywords": "based on novel,visit,title same as book,opening a door,bed",
+    "name": "Sense and Sensibility",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Hermit C-2"
+        },
+        "dateCreated": "1999-05-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0114388/"
+        },
+        "name": "A classic for all time.",
+        "reviewBody": "Whoever says they just don't make the quality of pictures today that they used to hasn't seen or is ignoring this film.\n\nThat Emma Thompson is one of the greatest actresses working is no secret. But who would have expected such a miracle from her in the screenwriting department? Some of the most dramatic moments in 'Sense and Sensibility' come from her pen, not Jane Austen's, difficult as that may be to believe. For instance, the scene in which Col. Brandon (Alan Rickman) carries in the ill Marianne Dashwood (Kate Winslet), echoing the earlier scene where Willoughby (Greg Wise) brought the injured young woman home was Thompson's doing. Marianne's illness also is responsible for much more drama in the movie than in the book. And I'm an Austen fan! I can't recall another writer bringing so much good of his or her own to a classic like this.\n\nI suppose the director, cinematographer, production designer, etc. deserve to share the credit when a movie is this outstanding, but with such a super group of actors on the screen (from top to bottom) it's easy to heap all the praise on them. I had unconsciously (and unfairly) pigeonholed Alan Rickman based on the other role I'd seen him in, the villain in 'Die Hard,' so he was quite a surprise to me. The real bombshell, however, was my first exposure to Kate Winslet. After seeing this movie and Kenneth Branagh's 'Hamlet' I can say I can't remember another young actress who has impressed me so much. And she played these difficult roles by the time she was 20! Many of the other cast members are a part of an excellent group that Thompson and Branagh have often worked with in the past.\n\nI realized that 'S&S' had become one of my all-time favorite movies when I found myself watching it every chance I got when it came on TV. I think it's bumped 'Raging Bull' off my personal top 10 list.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M9S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3393634073",
+        "name": "Trailer [EN",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMmQxZTE5YzUtMGZmMi00ZGNkLWE0NGMtN2EzZTI2YzVlMjQ1XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMmQxZTE5YzUtMGZmMi00ZGNkLWE0NGMtN2EzZTI2YzVlMjQ1XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-02-13T14:08:28.690Z",
+        "url": "https://www.imdb.com/video/vi3393634073/"
+    },
+    "url": "/title/tt0114388/"
+}

@@ -1,0 +1,46 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Gloria Estefan",
+            "url": "/name/nm0002065/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 25,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0171571/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mo Fitzgibbon",
+            "url": "/name/nm0280422/"
+        }
+    ],
+    "description": "A candid look into the world of one of music's greatest performers, Gloria Estefan, as she takes you behind-the scenes of her most recent U.S. and European tour with memorable moments around the world and once in a lifetime perfor...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mo Fitzgibbon",
+            "url": "/name/nm0280422/"
+        }
+    ],
+    "duration": "PT1H10M",
+    "genre": [
+        "Documentary",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg2MTYyNTQwNV5BMl5BanBnXkFtZTcwNDkxNTgxMQ@@._V1_.jpg",
+    "keywords": "concert film,independent film,character name in title",
+    "name": "Gloria Estefan: Don't Stop",
+    "url": "/title/tt0194919/"
+}

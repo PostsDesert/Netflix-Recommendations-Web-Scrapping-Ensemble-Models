@@ -1,0 +1,80 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Shelley Long",
+            "url": "/name/nm0001480/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bette Midler",
+            "url": "/name/nm0000541/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Coyote",
+            "url": "/name/nm0001075/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 8380,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0049348/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0077024/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0031772/"
+        },
+        {
+            "@type": "Person",
+            "name": "Leslie Dixon",
+            "url": "/name/nm0228908/"
+        }
+    ],
+    "datePublished": "1987-01-30",
+    "description": "Two women unknowingly share the same man, but when he disappears, both go out looking for him and enter his surprisingly dangerous life.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Arthur Hiller",
+            "url": "/name/nm0002137/"
+        }
+    ],
+    "duration": "PT1H39M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNGRhZjA3YzEtZTU2Mi00NWRlLTljZTEtMDE2MTljZGFkMGM4XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",
+    "keywords": "woman dresses as a man,woman wears eyeglasses,woman with a gun,child with a gun,gun",
+    "name": "Outrageous Fortune",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "khucke"
+        },
+        "dateCreated": "2001-01-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0093690/"
+        },
+        "name": "Very funny movie, but the unedited version is funnier.",
+        "reviewBody": "I loved this movie very much in its original unedited version. For some reason I cannot find this version any more. I bought a brand new sealed copy of it from a video store and it was the edited for T.V. version 99-100 minutes. The original unedited version would be a little longer because they cut out several scenes besides the editing of the various adult humor. Would love it very much if someone could hook me up with an original unedited version of this movie. Thanks!"
+    },
+    "url": "/title/tt0093690/"
+}

@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Richard Widmark",
+            "url": "/name/nm0001847/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dana Andrews",
+            "url": "/name/nm0000763/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gary Merrill",
+            "url": "/name/nm0581282/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1432,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Tucker Battle",
+            "url": "/name/nm0061510/"
+        },
+        {
+            "@type": "Person",
+            "name": "Oscar Millard",
+            "url": "/name/nm0587743/"
+        },
+        {
+            "@type": "Person",
+            "name": "Samuel G. Engel",
+            "url": "/name/nm0257143/"
+        }
+    ],
+    "datePublished": "1951-09-08",
+    "description": "The new commander of a Navy Underwater Demolition Team--nicknamed \"Frogmen\"--must earn the respect of the men in his unit, who are still grieving over the death of their former commander and resentful of the new one.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Lloyd Bacon",
+            "url": "/name/nm0045800/"
+        }
+    ],
+    "duration": "PT1H36M",
+    "genre": [
+        "Adventure",
+        "Drama",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTEzZDcyNmQtOTM1NS00MjQ5LTliNjgtN2M3YWRlZDAxZGFlXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_.jpg",
+    "keywords": "world war two,based on true story,pacific ocean,homosexual subtext,man wears a swimsuit",
+    "name": "The Frogmen",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "davida-mccarley"
+        },
+        "dateCreated": "2008-02-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0043565/"
+        },
+        "name": "My Dad was one of the real Frogmen in the film...",
+        "reviewBody": "My dad used to tell us stories about the film every time it came on - he was in UDT Platoon 2 on TDY from Korea and got to spend part of his rotation for R&R doing the film with his team. They did all the underwater work, the scenes with the landing craft picking up the team from the water, and they set the satchel charges for the shot when they blow up the beach obstacles prior to the landing.\n\nHe also used to to tell stories about Dana Andrews and his drinking during the filming, but that is another story. It is a good movie and, from Dad's and the UDT's perspective, had some BS in it - but relatively accurate overall.\n\nIn Korea, his team was assigned to swim in from off-shore and go inland to blow up installations, bridges, etc. overrun by the North Koreans/Chinese. They had to swim their stuff in from miles offshore, hump the explosives inland (armed with a knife and a pistol - Dad said he used a .38 because he couldn't hit much of anything over 30 yards away with a .45), blow up the objective then make it back out. Of course, things were even MORE primitive for the combat swimmers of WWII!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "The new commander of a Navy Underwater Demolition Team--nicknamed \"Frogmen\"--must earn the respect of the men in his unit, who are still grieving over the death of their former commander and resentful of the new one.",
+        "duration": "PT2M9S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi797295385",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzdjNzkxNmYtMWU0Ny00MzYwLWExZWQtMDIzMjk3MDhmYTY2XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzdjNzkxNmYtMWU0Ny00MzYwLWExZWQtMDIzMjk3MDhmYTY2XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-10-19T23:31:04.648Z",
+        "url": "https://www.imdb.com/video/vi797295385/"
+    },
+    "url": "/title/tt0043565/"
+}

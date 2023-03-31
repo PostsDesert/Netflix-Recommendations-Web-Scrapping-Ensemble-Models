@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Queen Latifah",
+            "url": "/name/nm0001451/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jimmy Fallon",
+            "url": "/name/nm0266422/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gisele Bündchen",
+            "url": "/name/nm1014528/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 43480,
+        "ratingValue": 4.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0048273/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0033486/"
+        },
+        {
+            "@type": "Person",
+            "name": "Luc Besson",
+            "url": "/name/nm0000108/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Ben Garant",
+            "url": "/name/nm0304830/"
+        },
+        {
+            "@type": "Person",
+            "name": "Thomas Lennon",
+            "url": "/name/nm0502073/"
+        }
+    ],
+    "datePublished": "2004-10-06",
+    "description": "A mouthy and feisty taxicab driver has hot tips for a green and inept cop set on solving a string of New York City bank robberies committed by a quartet of female Brazilian bank robbers.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Tim Story",
+            "url": "/name/nm1103162/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Action",
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjlmZmU4ODEtYTIwZC00Y2Y0LTlhYmEtM2E5MTAwMjUzNTRkXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+    "keywords": "driving a car,car,convertible,bmw,bmw 7",
+    "name": "Taxi",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Rorschach17"
+        },
+        "dateCreated": "2006-06-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0316732/"
+        },
+        "name": "A cheap rip-off of a classic french comedy",
+        "reviewBody": "Avoid this film at all costs! This is just a very very cheap remake of the french movie by the same name. Being a big fan of that Taxi, I was intrigued to see what the Yanks had done with it. Watching it was painful, the only reason I watched till the end was to see how low they were going to go with this film. \n\nQueen Latifa's performance is the only redeeming aspect of this film, who does her best with an unoriginal, crass and cheap script. The best scenes are direct rip-offs of the original film and Jimmy Fallon is wasted on a one dimensional ridiculous character.\n\nGo see the original french film and give this one as wide a berth as you can!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 1,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Taxi",
+        "duration": "PT2M28S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2256844313",
+        "name": "Taxi",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjk5MTMwNzQ0M15BMl5BanBnXkFtZTgwODgyNDMyMDI@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjk5MTMwNzQ0M15BMl5BanBnXkFtZTgwODgyNDMyMDI@._V1_.jpg",
+        "uploadDate": "2016-10-05T09:52:48Z",
+        "url": "https://www.imdb.com/video/vi2256844313/"
+    },
+    "url": "/title/tt0316732/"
+}

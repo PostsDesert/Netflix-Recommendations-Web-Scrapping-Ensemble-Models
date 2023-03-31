@@ -1,0 +1,94 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Peter Falk",
+            "url": "/name/nm0000393/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alan Arkin",
+            "url": "/name/nm0000273/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Libertini",
+            "url": "/name/nm0508844/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9108,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrew Bergman",
+            "url": "/name/nm0000921/"
+        }
+    ],
+    "datePublished": "1979-09-12",
+    "description": "On the eve of their children's marriage, NYC in-laws Sheldon Kornpett and Vince Ricardo embark on a series of misadventures involving the CIA, the Treasury Department and Central American dictators.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Arthur Hiller",
+            "url": "/name/nm0002137/"
+        }
+    ],
+    "duration": "PT1H43M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BY2Q4MmI4MmMtYzE3MS00OTM2LTlmMjEtOWViN2M3MzczNGVhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "neo screwball comedy,dentist,central america,wedding,armored car robbery",
+    "name": "The In-Laws",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "rupie"
+        },
+        "dateCreated": "1999-06-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0079336/"
+        },
+        "name": "delightfully farcical romp!",
+        "reviewBody": "This truly hilarious comedy is one of the funniest movies of the period. No one does the sort of deadpan face that says \"I can't believe what I'm hearing and seeing\" like Alan Arkin. Peter Falk's comic abilities match his skill in heavier roles. The interplay between them is marvelous, matching that of Lemmon & Matthau (one wishes they had made more films together). Many side-splitting moments, and some superbly comic dialogue. Not to be missed.\n\nSerpentine, Shel, serpentine!!!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT2M46S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1704312345",
+        "name": "The In-Laws",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BN2U4MjBmZTItOTk3OS00YzMzLWFkY2MtODgwMDIzYWQ2Y2IzXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BN2U4MjBmZTItOTk3OS00YzMzLWFkY2MtODgwMDIzYWQ2Y2IzXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-03-21T17:03:28.323Z",
+        "url": "https://www.imdb.com/video/vi1704312345/"
+    },
+    "url": "/title/tt0079336/"
+}

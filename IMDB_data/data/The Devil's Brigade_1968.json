@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "William Holden",
+            "url": "/name/nm0000034/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cliff Robertson",
+            "url": "/name/nm0731772/"
+        },
+        {
+            "@type": "Person",
+            "name": "Vince Edwards",
+            "url": "/name/nm0250436/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5868,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0021045/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Roberts",
+            "url": "/name/nm0731679/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert H. Adleman",
+            "url": "/name/nm0012096/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Walton",
+            "url": "/name/nm0910515/"
+        }
+    ],
+    "datePublished": "1968-08-02",
+    "description": "A US Army Colonel is tasked with forming an elite commando-style unit from crack Canadian troops and the dregs of the US Army.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Andrew V. McLaglen",
+            "url": "/name/nm0572132/"
+        }
+    ],
+    "duration": "PT2H10M",
+    "genre": [
+        "Action",
+        "Drama",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjVmOTI4ZTYtZTNlOC00NTU3LWJlNmMtZTQzZGU4ZDI0NDBmXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
+    "keywords": "canadian army,commando,commando mission,italian campaign,world war two",
+    "name": "The Devil's Brigade",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "silverscreen888"
+        },
+        "dateCreated": "2005-06-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0062886/"
+        },
+        "name": "Exciting; Unusually Rich in Characters; a Grand Mission Film",
+        "reviewBody": "Critics do not respect this tough-minded and character-rich WWII mission film; it might be subtitled the dirty hundreds because it has so many trainees being readied for combat. The only persons who like this are those who enjoy a stirring action picture with many interesting participants and good actors. The script is by fine veteran William Roberts, direction by Andrew V. MLlaglen, a stellar job. Add music by Alex North of \"Spartacus\" fame and gritty, superior art direction by Alfred Sweeney and you have a fine start. The training takes place somewhere in the US, the mission in the Italian Alps to boot. Actors shining in the large cast include William Holden as the leader, Cliff Robertson as as a needlessly stiff Canadian, plus Michael Rennie. Dana Andrews, Vince Edwards, Claude Akins, Jeremy Slate, Richard Jaeckel, Andrew Prine, Jack Watson and dozens of other well-cast GIs. Add Gretchen Wyler, a spectacular fight with lumberjacks in a bar, judo training with a comedic intro, a twenty-mile hike and the mission itself where many exciting and tragic incidents happen to men the viewer has come to know- -war movies hardly get better than this. The film has a realistic feel about it at all times; Akins as Rocky, Slate as a bespectacled unarmed combat type, Rennie, Jack Watson and Holden are standouts. But Roberts' script, McgLaglen's taut direction and North's music make this a superior film whatever genre it is classified within.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT3M45S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1943453721",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTFkZGJlMzMtNzg3My00YzQ4LTkwMTUtZTc1ZjdlOTAwNWYzXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTFkZGJlMzMtNzg3My00YzQ4LTkwMTUtZTc1ZjdlOTAwNWYzXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-05-05T21:10:59.915Z",
+        "url": "https://www.imdb.com/video/vi1943453721/"
+    },
+    "url": "/title/tt0062886/"
+}

@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Andrew McCarthy",
+            "url": "/name/nm0000530/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kim Cattrall",
+            "url": "/name/nm0000326/"
+        },
+        {
+            "@type": "Person",
+            "name": "Estelle Getty",
+            "url": "/name/nm0001268/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 33273,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0728154/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edward Rugoff",
+            "url": "/name/nm0749493/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Gottlieb",
+            "url": "/name/nm0331998/"
+        }
+    ],
+    "datePublished": "1987-02-13",
+    "description": "A young artist, searching for his vocation, makes a mannequin so perfect he falls in love with it. Finding the mannequin in a store window, he gets a job there and his creation comes to life.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Gottlieb",
+            "url": "/name/nm0331998/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM0ODkyMTIzM15BMl5BanBnXkFtZTcwOTYzNzA2NA@@._V1_.jpg",
+    "keywords": "mannequin,mannequin comes to life,female mannequin,talking to a mannequin,department store",
+    "name": "Mannequin",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Shippmeister"
+        },
+        "dateCreated": "2002-12-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0093493/"
+        },
+        "name": "Good fun and not too serious",
+        "reviewBody": "I doubt that this is one of the best films ever made, but it is without a doubt one of the better films of the eighties. The acting from McCarthy and Cattrall is superb and the soundtrack is also credible. There are some bad points, but they only show if you analyse too cynically. Some call ti the seminal eighties movie, and rightfully so with many decade references and costume get ups, (think Hollywood Montross, and the scene where Emmy and Jonathon dance there way through the store) All in all a good movie, worthy of 4.5 out of 5 stars"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A young artist, searching for his vocation, makes a mannequin so perfect he falls in love with it. Finding the mannequin in a store window, he gets a job there and his creation comes to life.",
+        "duration": "PT1M38S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2456403481",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTEwNjcxMTQtYzE4Mi00MmZlLTk3OTQtN2Q0ZWQ5OTdhYzg0XkEyXkFqcGdeQXN3aWZ0dw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTEwNjcxMTQtYzE4Mi00MmZlLTk3OTQtN2Q0ZWQ5OTdhYzg0XkEyXkFqcGdeQXN3aWZ0dw@@._V1_.jpg",
+        "uploadDate": "2020-08-04T11:01:27.469Z",
+        "url": "https://www.imdb.com/video/vi2456403481/"
+    },
+    "url": "/title/tt0093493/"
+}

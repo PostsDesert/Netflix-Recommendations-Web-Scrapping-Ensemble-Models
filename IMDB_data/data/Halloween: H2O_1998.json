@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jamie Lee Curtis",
+            "url": "/name/nm0000130/"
+        },
+        {
+            "@type": "Person",
+            "name": "Josh Hartnett",
+            "url": "/name/nm0001326/"
+        },
+        {
+            "@type": "Person",
+            "name": "Adam Arkin",
+            "url": "/name/nm0035060/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 78254,
+        "ratingValue": 5.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0019626/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0091393/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0005891/"
+        },
+        {
+            "@type": "Person",
+            "name": "Debra Hill",
+            "url": "/name/nm0384185/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Carpenter",
+            "url": "/name/nm0000118/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Zappia",
+            "url": "/name/nm0002526/"
+        }
+    ],
+    "datePublished": "1998-08-05",
+    "description": "Laurie Strode, now the dean of a Northern California private school with an assumed name, must battle the Shape one last time, as the life of her own son hangs in the balance.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Steve Miner",
+            "url": "/name/nm0591171/"
+        }
+    ],
+    "duration": "PT1H26M",
+    "genre": [
+        "Horror",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzA3ZjMzZWItNWUyNy00ZmNiLWIwYmYtN2UxNWUwMGY5Yzc2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "slasher,call the police,faked death,headmistress,halloween party",
+    "name": "Halloween H20: 20 Years Later",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Realrockerhalloween"
+        },
+        "dateCreated": "2016-08-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120694/"
+        },
+        "name": "The crowning jewel",
+        "reviewBody": "H20 was the twentieth anniversary that features the return or I like to call it revenge of Laurie Strode.\n\nJamie had realized during lunch that twenty years had pass since the original film and wanted to do a follow up film. She wanted to get the whole crew back and John Carpenter to direct. He refused after divorcing himself after his anthology idea was ruined. I consider Halloween, the fog, season of the witch, Prince of darkness and the thing his true series.\n\nWilliamson wrote a script that was quite different from the finished project yet Jamie didn't want her character to be seen as a bad mother.I don't blame her. Who wants to look bad?\n\nThe supporting castes were all fresh faced and did fine. The Halloween theme and scream score mix well together.\n\nThe only problem is Donald Pleasence passed away before It was even dreamed of. \n\nIt truly was the final Halloween in my opinion."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT29S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1408212505",
+        "name": "Halloween H20: 20 Years Later",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOGUwNmY1MGUtMWM0ZS00NGQyLWE1OTUtMGIxOWZjOWU5YzA2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGUwNmY1MGUtMWM0ZS00NGQyLWE1OTUtMGIxOWZjOWU5YzA2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-10-26T03:25:19Z",
+        "url": "https://www.imdb.com/video/vi1408212505/"
+    },
+    "url": "/title/tt0120694/"
+}

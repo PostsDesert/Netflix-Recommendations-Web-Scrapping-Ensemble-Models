@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Vincent Price",
+            "url": "/name/nm0001637/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hazel Court",
+            "url": "/name/nm0183764/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jane Asher",
+            "url": "/name/nm0038870/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 14939,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0108828/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Beaumont",
+            "url": "/name/nm0064579/"
+        },
+        {
+            "@type": "Person",
+            "name": "R. Wright Campbell",
+            "url": "/name/nm0132790/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edgar Allan Poe",
+            "url": "/name/nm0000590/"
+        }
+    ],
+    "datePublished": "1964-10-30",
+    "description": "A European prince terrorizes the local peasantry while using his castle as a refuge against the \"Red Death\" plague that stalks the land.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Roger Corman",
+            "url": "/name/nm0000339/"
+        }
+    ],
+    "duration": "PT1H29M",
+    "genre": [
+        "Drama",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjFjYmZmZDctZWUzZS00ZDY2LWE1MGMtMTIwMDAxODgzN2ZhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "shuffling cards,rose,killed by sword,village,castle",
+    "name": "The Masque of the Red Death",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "didi-5"
+        },
+        "dateCreated": "2004-03-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0058333/"
+        },
+        "name": "superb Poe adaptation",
+        "reviewBody": "Possibly the best of the Roger Corman-Vincent Price series of film adaptations of the stories of Edgar Allen Poe, 'The Masque of the Red Death' is a chilling and malevolent tale of decadent devil-worshippers holed up in a castle while the Red Death claims its victims in the village outside.\n\nVincent Price was a gloriously hammy actor who played horror roles with the utmost seriousness. His characterization of Prince Prospero in this movie is brilliant - a man without a soul or heart who is only conquered when a girl of equal faith enters his castle (the wooden Jane Asher as Francesca). In support Hazel Court as the would-be Bride of Satan Juliana, and Patrick Magee as the corrupt Alfredo are particularly worthy of note.\n\nThe dwarf's revenge on Alfredo during the masque is as chilling as anything which came before in films such as 1932's 'Freaks'; while the film shimmers with beautiful cinematography (especially the coloured rooms) and simmers with corruption. The combined effect is superb and makes the film a memorable experience."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A European prince terrorizes the local peasantry while using his castle as a refuge against the \"Red Death\" plague that stalks the land.",
+        "duration": "PT2M15S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4186292505",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMWM4MjFhOGUtNDU0MC00YzFlLWExZDQtZDMwZWE4Njg0N2JkXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMWM4MjFhOGUtNDU0MC00YzFlLWExZDQtZDMwZWE4Njg0N2JkXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-10-07T14:16:01.078Z",
+        "url": "https://www.imdb.com/video/vi4186292505/"
+    },
+    "url": "/title/tt0058333/"
+}

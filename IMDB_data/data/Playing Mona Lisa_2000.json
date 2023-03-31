@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Alicia Witt",
+            "url": "/name/nm0001860/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harvey Fierstein",
+            "url": "/name/nm0001213/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brooke Langton",
+            "url": "/name/nm0486728/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 862,
+        "ratingValue": 5.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0073541/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marni Freedman",
+            "url": "/name/nm0293216/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carlos De Los Rios",
+            "url": "/name/nm0209856/"
+        }
+    ],
+    "datePublished": "2000-04-28",
+    "description": "After being dumped by her boyfriend, a young talented musician (Witt) reluctantly moves back in with her parents and then stumbles into misadventures as she tries to make sense of this crazy life.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Matthew Huffman",
+            "url": "/name/nm0003953/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA2MTExNTM3NV5BMl5BanBnXkFtZTcwMjAwNDUxMQ@@._V1_.jpg",
+    "keywords": "adult child lives with parents,love,pianist,audition,looking for love",
+    "name": "Playing Mona Lisa",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "moviedude1"
+        },
+        "dateCreated": "2003-06-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0187559/"
+        },
+        "name": "NICE WAY TO KILL AN HOUR AND A HALF",
+        "reviewBody": "I used to run a video store and this movie rarely got rented. It came on cable this afternoon and I didn't have anything else to do. I found the beginning of the film slow and rather predictable, but, as it got further into the story, I actually found myself hanging on the story, curious as to what could POSSIBLY happen next. I now find myself wondering why it never got rented in the store, because this was REALLY a good movie. I keep guessing if it was a romantic movie trying to be funny or a comedy trying to be romantic. The blend of both is what I actually enjoyed most about the film.\n\nI have only seen one other movies with Alicia Witt, but I think I'm going to be looking for more of her. Elliott Gould and Marlo Thomas are a nice blend as her parents, too.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Buena Vista Home Entertainment",
+        "duration": "PT1M19S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4108910873",
+        "name": "Playing Mona Lisa",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMDFhZDFiMWEtZWZmZC00YmFlLTkyYTQtZmFiNWI4OTdhNzM3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDFhZDFiMWEtZWZmZC00YmFlLTkyYTQtZmFiNWI4OTdhNzM3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-06-30T03:30:14Z",
+        "url": "https://www.imdb.com/video/vi4108910873/"
+    },
+    "url": "/title/tt0187559/"
+}

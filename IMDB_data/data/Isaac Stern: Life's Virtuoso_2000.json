@@ -1,0 +1,73 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVEpisode",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sarah Chang",
+            "url": "/name/nm3367953/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jimmy Connors",
+            "url": "/name/nm1648086/"
+        },
+        {
+            "@type": "Person",
+            "name": "Henry Kissinger",
+            "url": "/name/nm0457425/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 68,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "contentRating": "TV-14",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000769/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0068191/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0627878/"
+        },
+        {
+            "@type": "Person",
+            "name": "Karen Gilmour",
+            "url": "/name/nm1420266/"
+        },
+        {
+            "@type": "Person",
+            "name": "Karen Thomas",
+            "url": "/name/nm1008763/"
+        }
+    ],
+    "datePublished": "2000-04-12",
+    "description": "Virtuoso violinist Isaac Stern is one of the twentieth century's most renowned, celebrated and recorded musicians. He is widely recognized as an influential teacher, emissary, speaker, and humanitarian.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Karen Thomas",
+            "url": "/name/nm1008763/"
+        }
+    ],
+    "duration": "PT1H",
+    "genre": [
+        "Documentary",
+        "Biography",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ3ODc5ODQ0NV5BMl5BanBnXkFtZTgwNzM1MjUzMDI@._V1_.jpg",
+    "keywords": "violinist",
+    "name": "Isaac Stern: Life's Virtuoso",
+    "timeRequired": "PT1H",
+    "url": "/title/tt0297980/"
+}

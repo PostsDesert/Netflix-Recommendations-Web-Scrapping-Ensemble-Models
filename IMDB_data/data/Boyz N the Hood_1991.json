@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Cuba Gooding Jr.",
+            "url": "/name/nm0000421/"
+        },
+        {
+            "@type": "Person",
+            "name": "Laurence Fishburne",
+            "url": "/name/nm0000401/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hudhail Al-Amir",
+            "url": "/name/nm0015677/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 144861,
+        "ratingValue": 7.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Singleton",
+            "url": "/name/nm0005436/"
+        }
+    ],
+    "datePublished": "1991-07-12",
+    "description": "Follows the lives of three young males living in the Crenshaw ghetto of Los Angeles, dissecting questions of race, relationships, violence, and future prospects.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Singleton",
+            "url": "/name/nm0005436/"
+        }
+    ],
+    "duration": "PT1H52M",
+    "genre": [
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZmRjNDI5NTgtOTIwMC00MzJhLWI4ZTYtMmU0ZTE3ZmRkZDNhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "gangsta,walking on train tracks,dead body,hood,african american protagonist",
+    "name": "Boyz n the Hood",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "evanreverb"
+        },
+        "dateCreated": "2004-04-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0101507/"
+        },
+        "name": "Remarkable Film From First-Time Director",
+        "reviewBody": "An exemplary directorial debut from John Singleton, who managed to create an American classic with his first effort.\n\nAs we follow Tre Styles from childhood toward becoming a young adult (as played effectively by Cuba Gooding, Jr.), and attempting to dodge, with the cautious guidance of his parents, the many dangers and risks associated with growing up in inner-city America, the sense of ever-present danger and, often, hopelessness associated with attempting to avoid falling into the cracks of society is abundantly clear.\n\nIn the role of Tre's troubled friend Dough Boy, Ice Cube is something of a revelation, and his balanced performance, alongside Singleton's excellent script, prevent him from becoming merely another gangster caricature. Lawrence Fishburne and Morris Chestnut add further depth to a strong cast.\n\nAll in all a very real, gritty depiction of the challenges faced at every turn by African American men and women in modern America. The building anger bristling beneath the surface in so many scenes is particularly resonant given the outburst of violence in the Rodney King Riots that took place in the very same city of the story just one year later.\n\nThe film spawned several 'urban gang flick' imitations in subsequent years, but most glorified violence and placed an emphasis on a loud soundtrack and sexual explicitness at the expense of strong plot-line, good character development and a serious social message.\n\nAll three are to be found in Boyz N the Hood."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT2M37S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3818766105",
+        "name": "Boyz n the Hood",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTI3ZGQ0MDMtZWRjOC00OGNkLTk1NDktZmI1MTg2OTAwMWI2XkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTI3ZGQ0MDMtZWRjOC00OGNkLTk1NDktZmI1MTg2OTAwMWI2XkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg",
+        "uploadDate": "2019-09-25T17:08:43.272Z",
+        "url": "https://www.imdb.com/video/vi3818766105/"
+    },
+    "url": "/title/tt0101507/"
+}

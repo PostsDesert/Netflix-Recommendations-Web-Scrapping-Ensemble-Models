@@ -1,0 +1,90 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Rajesh Khanna",
+            "url": "/name/nm0004435/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jaya Bachchan",
+            "url": "/name/nm0080149/"
+        },
+        {
+            "@type": "Person",
+            "name": "Usha Kiran",
+            "url": "/name/nm0456096/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4182,
+        "ratingValue": 8.1,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0044508/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tapan Sinha",
+            "url": "/name/nm0802377/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hrishikesh Mukherjee",
+            "url": "/name/nm0611531/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gulzar",
+            "url": "/name/nm0347899/"
+        }
+    ],
+    "datePublished": "1972-07-07",
+    "description": "A dysfunctional middle-class family is transformed due to the influence of their new multi-talented household servant - but he might be too good to be true.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Hrishikesh Mukherjee",
+            "url": "/name/nm0611531/"
+        }
+    ],
+    "duration": "PT2H10M",
+    "genre": [
+        "Comedy",
+        "Musical",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg5NDIyNzAwOV5BMl5BanBnXkFtZTgwMjk3ODM3NDE@._V1_.jpg",
+    "keywords": "cook,argument,dysfunctional family,wrestling,truth",
+    "name": "Bawarchi",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "azeemax"
+        },
+        "dateCreated": "2006-04-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0068257/"
+        },
+        "name": "Simply superb",
+        "reviewBody": "If you have low tolerance for Bollywood, and you think Bollywood is just all about cheesy, loud and lewd movies, than it means that you are not aware of the rare gems the Indian film industry has produced in the last 50 something years. And this film is one of such gems. I haven't seen, \"Anand\" the most popular film of Rishida, but I have seen Bawaichi 3 times and every time it leaves me with the sad reality that how come the Western world has not discovered movies like this. The film revolves around the relationship of a family and their new cook, played superbly by Rajesh Khanna. I don't want to go much into the details of the story of the film and cinamatic mastery of Rishida, but in short this film could be described as excellent in every aspect. If you are a fan of Indian 'art' films, than this a must see for you!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0068257/"
+}

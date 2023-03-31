@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sidney Poitier",
+            "url": "/name/nm0001627/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Cosby",
+            "url": "/name/nm0001070/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Earl Jones",
+            "url": "/name/nm0000469/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1335,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0040696/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0036985/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Blackwell",
+            "url": "/name/nm0085883/"
+        },
+        {
+            "@type": "Person",
+            "name": "Timothy March",
+            "url": "/name/nm0545339/"
+        }
+    ],
+    "datePublished": "1978-02-27",
+    "description": "A retired Chicago cop blackmails two rich thieves into \"volunteering\" to help juvenile delinquents change paths.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Sidney Poitier",
+            "url": "/name/nm0001627/"
+        }
+    ],
+    "duration": "PT2H15M",
+    "genre": [
+        "Crime",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMmI3MGEyMzctZWMxYi00MGUyLWEwMTUtZTNlZjUxODk5ZDg4XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "year 1975,scene before opening credits,opening action scene,scene during opening credits,year 1976",
+    "name": "A Piece of the Action",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "notlobg68"
+        },
+        "dateCreated": "2008-02-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0076543/"
+        },
+        "name": "Three times too many",
+        "reviewBody": "This film is the third and final installment of the fine collaboration between Poitier and Cosby. Unfourtuately,it suffers from the first two films being great comedies of their time, so comparison is inevitable. The movie fails because they've taken our two players out of their working class element and portrays one as a sophisticatated con man and the other as a high class thief. It also never explains how Police detective James Earl Jones'discovers them as either.Where the film works is with Poitier's interaction with the troubled youth in the classroom sequences. Some good young actors are on display here and Poitier seems right at home reminiscent of \"to sir with love\".But once again then the film regresses back to the caper portion of the film which is as bland as bleach. And Cosby, who was the comic catalyst in the previous films was nothing more than a shell of his former form. The films message is mostly positive, but it terms of big laughs. It falls short.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT2M8S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi867810073",
+        "name": "A Piece of the Action",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYmJiNTg4NmMtODA0Mi00YWE1LTg3NTAtN2NhMWU4OTQ4MGNjXkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYmJiNTg4NmMtODA0Mi00YWE1LTg3NTAtN2NhMWU4OTQ4MGNjXkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg",
+        "uploadDate": "2018-05-16T17:02:51Z",
+        "url": "https://www.imdb.com/video/vi867810073/"
+    },
+    "url": "/title/tt0076543/"
+}

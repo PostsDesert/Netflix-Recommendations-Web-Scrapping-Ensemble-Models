@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jeremy Irons",
+            "url": "/name/nm0000460/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gong Li",
+            "url": "/name/nm0000084/"
+        },
+        {
+            "@type": "Person",
+            "name": "Maggie Cheung",
+            "url": "/name/nm0001041/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3486,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0028557/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0055105/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0794684/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jean-Claude Carrière",
+            "url": "/name/nm0140643/"
+        },
+        {
+            "@type": "Person",
+            "name": "Larry Gross",
+            "url": "/name/nm0343419/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rachel Ingalls",
+            "url": "/name/nm0408688/"
+        }
+    ],
+    "datePublished": "1998-04-17",
+    "description": "The story of Hong Kong, from New Year's Day to June 30th, 1997, when the British left their colony and turned it over to the People's Republic of China.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Wayne Wang",
+            "url": "/name/nm0911061/"
+        }
+    ],
+    "duration": "PT1H39M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjU1MzhkYmMtODYwMy00Yzc1LWFlNGUtN2FjYzAzOThiMzcyXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+    "keywords": "hong kong,unrequited love,video camera,new year,love",
+    "name": "Chinese Box",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "mo-29"
+        },
+        "dateCreated": "1998-11-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0118851/"
+        },
+        "name": "Heartbreakingly beautiful, moving, stunning",
+        "reviewBody": "I don't know what's wrong with you people, or where stupid Hong Kong nationalism comes into this. I see movies that show lousy parts of Boston, and I don't go whining about it on web sites. The story is extremely moving, Hong Kong seemed fascinating, there was amazing imagery and chemistry between Irons and Li. I was blown away both times I saw it. I highly recommend Chinese Box."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Trimark",
+        "duration": "PT1M57S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1237188889",
+        "name": "Chinese Box",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYWI1ZTU1ZWYtNjI2Ny00ZjNkLWFjMTEtNmM5ODY4MGRiZTA5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYWI1ZTU1ZWYtNjI2Ny00ZjNkLWFjMTEtNmM5ODY4MGRiZTA5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:23:04Z",
+        "url": "https://www.imdb.com/video/vi1237188889/"
+    },
+    "url": "/title/tt0118851/"
+}

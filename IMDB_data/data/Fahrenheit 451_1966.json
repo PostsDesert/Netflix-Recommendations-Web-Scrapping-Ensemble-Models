@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Oskar Werner",
+            "url": "/name/nm0921459/"
+        },
+        {
+            "@type": "Person",
+            "name": "Julie Christie",
+            "url": "/name/nm0001046/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cyril Cusack",
+            "url": "/name/nm0159258/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 44231,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0120069/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0139597/"
+        },
+        {
+            "@type": "Person",
+            "name": "François Truffaut",
+            "url": "/name/nm0000076/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jean-Louis Richard",
+            "url": "/name/nm0723827/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ray Bradbury",
+            "url": "/name/nm0001969/"
+        }
+    ],
+    "datePublished": "1966-11-14",
+    "description": "In an oppressive future, a fireman whose duty is to destroy all books begins to question his task.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "François Truffaut",
+            "url": "/name/nm0000076/"
+        }
+    ],
+    "duration": "PT1H52M",
+    "genre": [
+        "Drama",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTgwZWRmNTItMjQ5ZS00NDhkLTkxZWEtOTA2YWQ0MWVmYzYxXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "science fiction literature on screen,20th century literature on screen,american science fiction literature on screen,reference to arthur miller,reference to leo tolstoy",
+    "name": "Fahrenheit 451",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bkoganbing"
+        },
+        "dateCreated": "2010-01-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0060390/"
+        },
+        "name": "Reading Is Bad For Children And Other Living Things",
+        "reviewBody": "Ray Bradbury's disturbing vision of a possible future comes vividly alive in this film adaption of Fahrenheit 451. Reading for pleasure is now banned although I imagine you must have a certain degree of literacy to read food can labels and directions to operate all kinds of machinery. But read for enjoyment or for education about the world beyond the small space of earth you frequent, that's a big no-no in this future America.\n\nOskar Werner stars in Fahrenheit 451, he plays a fireman who have a different function in this society. Buildings and such are now fireproof so fireman have become the enforcers of the ban against books. They seek and burn books in whatever quantities they find. A good job in a police state, but not a good one if you have an inquiring mind such as Werner has.\n\nJulie Christie plays two roles, Werner's pleasure driven wife and a schoolteacher whose unorthodox for that society's teaching methods have brought her under scrutiny. She does a good job in both characterizations.\n\nBradbury's themes are grounded in reality. Looking at American history it was a crime in many slave holding states to educate a slave. Let them be happy in their ignorance and they might not get ideas about a better life and won't rebel. \n\nBut this is a society that's beyond that kind of formal slavery so the answer is the old Roman one of bread&circuses. The circus in this case is television which has evolved into an interactive medium. The vast wasteland that Newton Minow characterized television as back in the day has gone beyond anything Minow was having visions about. Entertainment has really dumbed down and the circuses aren't too far from what used to entertain the Romans.\n\nIn the supporting cast you will remember Cyril Cusack as the fire brigade captain who functions as the spokesman for this new world and Bee Duffring as the book lady who martyrs herself for knowledge in an unforgettable scene.\n\nThe ending is not Bradbury's, but one written by director Francois Truffaut. It is very much however in the spirit of the novel and a tribute to mankind's unquenchable thirst for knowledge. Don't miss Fahrenheit 451 when broadcast.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M38S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi961855001",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMDMyMDFmZWUtZmQ4ZS00MGQwLTg2MTctOWFkMDM3OWE0NTQwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDMyMDFmZWUtZmQ4ZS00MGQwLTg2MTctOWFkMDM3OWE0NTQwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-08-11T10:07:32.349Z",
+        "url": "https://www.imdb.com/video/vi961855001/"
+    },
+    "url": "/title/tt0060390/"
+}

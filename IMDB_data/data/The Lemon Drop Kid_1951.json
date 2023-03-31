@@ -1,0 +1,95 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bob Hope",
+            "url": "/name/nm0001362/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marilyn Maxwell",
+            "url": "/name/nm0561765/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lloyd Nolan",
+            "url": "/name/nm0634313/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2103,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0008586/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edmund Beloin",
+            "url": "/name/nm0069410/"
+        },
+        {
+            "@type": "Person",
+            "name": "Irving Elinson",
+            "url": "/name/nm0253630/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edmund L. Hartmann",
+            "url": "/name/nm0367060/"
+        }
+    ],
+    "datePublished": "1951-04-02",
+    "description": "A New York City swindler has until Christmas to come up with the $10,000 he owes a gangster, prompting him to go into scamming overdrive.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Sidney Lanfield",
+            "url": "/name/nm0485647/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frank Tashlin",
+            "url": "/name/nm0850895/"
+        }
+    ],
+    "duration": "PT1H31M",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOWI0MDljNjAtMDc0MS00MDI0LWI5M2YtNjQ5Yjc5NTYyZWIxXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+    "keywords": "1950s,racetrack,betting tip,horse racing,gangster",
+    "name": "The Lemon Drop Kid",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "d-mrice"
+        },
+        "dateCreated": "2006-01-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0043733/"
+        },
+        "name": "Great Holiday Fun",
+        "reviewBody": "This is one of my favorite holiday movies. It is a great example of Runyan's work. I would recommend it for the whole family! It is a nice departure from the usual holiday sentimentalism. The dialog is peppered with typical Runyan phrases that truly capture the \"Guys and Dolls\" types and yet still has the Bob Hope send up comedy typical of his \"Road\" pictures. The musical numbers add to the picture without making it into a big budget Hollywood show. Jane Darwell, William Frawley and Lloyd Nolan are really enjoyable. Even though some of the comedy it perhaps a bit ethnic oriented, it really isn't offensive. My family and I would rather watch this than any other \"wonderful\" holiday movie.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0043733/"
+}

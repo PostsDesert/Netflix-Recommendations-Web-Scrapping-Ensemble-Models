@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Benedict Cumberbatch",
+            "url": "/name/nm1212722/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 25,
+        "ratingValue": 8.3,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0317480/"
+        }
+    ],
+    "datePublished": "2020-10-15",
+    "description": "Antarctica is the most extreme continent on our planet; higher, colder, and even drier than any other on Earth, and although it is thousands of miles away, what happens here affects every single one of us.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Fredi Devas",
+            "url": "/name/nm4830788/"
+        }
+    ],
+    "duration": "PT45M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMmZiNmMzYTctMDAzNy00NWEzLTlhMWMtZGY1NDE5Y2QyYzFiXkEyXkFqcGdeQXVyNzI0NDM2MTI@._V1_.jpg",
+    "keywords": "3d,3 dimensional",
+    "name": "Antarctica",
+    "url": "/title/tt15397862/"
+}

@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Phoebe Cates",
+            "url": "/name/nm0000121/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Broadbent",
+            "url": "/name/nm0000980/"
+        },
+        {
+            "@type": "Person",
+            "name": "Wendy Hughes",
+            "url": "/name/nm0400998/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2824,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0001685/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0064908/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0097246/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Austin",
+            "url": "/name/nm0042472/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Wells",
+            "url": "/name/nm0920272/"
+        }
+    ],
+    "datePublished": "1994-09-16",
+    "description": "A mysterious young woman speaking a strange language shows up in an English village, where she is taken in by aristocrats who assume she is a foreign princess",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Austin",
+            "url": "/name/nm0042472/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "History"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZmYwNTA4N2ItN2ExMi00MDg0LWJhOTYtMTg3ZjY2ZWRiODZmXkEyXkFqcGdeQXVyNjgxNTAwNjQ@._V1_.jpg",
+    "keywords": "princess,19th century,england,fraud,gibberish",
+    "name": "Princess Caraboo",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Lady_Targaryen"
+        },
+        "dateCreated": "2005-11-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0110892/"
+        },
+        "name": "Lovely and imaginative!",
+        "reviewBody": "Princess Caraboo is one of those films for all ages and with a superb cast.During the King George III's court,beggars and all kinds types of vagrancy were punished with death or prison. Many problems and farces were frequent,making people very suspicious about humble people in general and even foreigners.One day, a beautiful and exotic girl is found walking down the road by two farmers. She is dressed as a beggar, but since she has oriental and noble aspect/manners, and only speaks in a strange language,people stay confuse about her Ancestry, taking her to a judge, where they make the conclusion that her name is Caraboo and she is a princess from an exotic country who was kidnapped by pirates. Being the focus of so many curiosity by the English court and also by the King himself,Caraboo is analyzed by a language professor and the maids who think she is a impostor. Would be a real impostor or a true princess? Got to found out watching this film. :)",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Princess Caribou",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi812692505",
+        "name": "Princess Caraboo",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTdjMGRiNTAtOWFkOS00YmU2LTgyYjItOTNlNDgxMGZiZjY2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTdjMGRiNTAtOWFkOS00YmU2LTgyYjItOTNlNDgxMGZiZjY2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2016-06-03T21:51:16Z",
+        "url": "https://www.imdb.com/video/vi812692505/"
+    },
+    "url": "/title/tt0110892/"
+}

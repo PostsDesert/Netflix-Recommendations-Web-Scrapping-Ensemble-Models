@@ -1,0 +1,74 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Rufus May",
+            "url": "/name/nm5310223/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ruth Wilson",
+            "url": "/name/nm2235721/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 64,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0110977/"
+        },
+        {
+            "@type": "Person",
+            "name": "Leo Regan",
+            "url": "/name/nm1079065/"
+        }
+    ],
+    "datePublished": "2008-04-21",
+    "description": "Based on a true story. \"Ruth\" (played by actress Ruth Wilson, to protect the identity of the real patient in question) is a junior doctor hearing voices which tell her to kill herself. She is treated by controversial psychologist ...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Leo Regan",
+            "url": "/name/nm1079065/"
+        }
+    ],
+    "duration": "PT1H10M",
+    "genre": [
+        "Documentary",
+        "Biography",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BY2U1YTk4MmEtMTliYS00NmMwLWJmOTYtNGJhYTYxMzIxMGRiXkEyXkFqcGdeQXVyMTMwMTI1Nzk@._V1_.jpg",
+    "keywords": "reenactment",
+    "name": "The Doctor Who Hears Voices",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "henri-26842"
+        },
+        "dateCreated": "2023-01-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt1211352/"
+        },
+        "name": "A brilliant performance from Wilson",
+        "reviewBody": "The film is standout because of the sensitive and realistic portrayal of psychosis and bipolar disorder by Ruth Wilson, the aim of Leo Regan to be neutral letting the audience in while not harming the community, the lack of triggering material in terms of triggering an episode that is present in other documentaries when people attempt to make neurotypical or non psychotic people understand and the ethical good job they attempted. I disliked that Regan showed certain physical things about Ruth as it broke focus and that he himself had obviously triggered the real woman at points as I wish at the time awareness was higher, but not his fault as it was 2008 and it was perhaps bridging in a way. I don't think Rufus May can always be right and he does have his human flaws and that created a different lens but he means well and as a person dented healthcare in the UK for psychosis due to the government, lack of understanding still and the area I live he work is important and he is right about breaking stereotyping and that healthcare should be person to person, I don't need meds necessarily I need trauma therapy and anti anxieties because the Side effects are less and it targets the root maybe. Ruth shouldn't have to lose her job if she can work and though the lying thing is depressing sometimes its true.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt1211352/"
+}

@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Shah Rukh Khan",
+            "url": "/name/nm0451321/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kajol",
+            "url": "/name/nm0004418/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dalip Tahil",
+            "url": "/name/nm0846681/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 28885,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0668522/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robin Bhatt",
+            "url": "/name/nm0080327/"
+        },
+        {
+            "@type": "Person",
+            "name": "Akash Khurana",
+            "url": "/name/nm0452021/"
+        },
+        {
+            "@type": "Person",
+            "name": "Javed Siddiqui",
+            "url": "/name/nm0796503/"
+        }
+    ],
+    "datePublished": "1993-11-12",
+    "description": "A young man with a vendetta against a business tycoon seduces the man's younger daughter, but she begins to suspect her new lover's connection with her elder sister and his ulterior motive.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Abbas Alibhai Burmawalla",
+            "url": "/name/nm0122216/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mastan Alibhai Burmawalla",
+            "url": "/name/nm0122217/"
+        }
+    ],
+    "duration": "PT2H55M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Musical"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjQ2OTFkOWItMmIyNS00Mjk0LWE5MzAtMmUwNjFkM2I5NjEwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+    "keywords": "pushed from a rooftop,vengeance,murder disguised as suicide,flipping a coin,investigation",
+    "name": "Baazigar",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "RayInferno"
+        },
+        "dateCreated": "2014-01-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0106333/"
+        },
+        "name": "Most Awesome Thriller Everr!",
+        "reviewBody": "Definitely one of the best of Shahrukh Khan. Shahrukh Khan was always \"one of my favourite\" but this flick kicked the \"one of the\" far away. I'm not really a fan of Kajol but her work in the film is pretty good. And yes Shilpa Shetty looks ravishing in the movie. So apart from the awesome cast, the direction of the movie takes it to the next level. Then obviously comes the concept. It is based on one of the most interesting and fascinating concepts of Revenge or more appropriately... Vengeance. It is about a man seeking to avenge his destroyed family by dragging the guilty to a similar fate. Now as we know Revenge is sweet, this movie offers a lot more than what you bargain for. It is a complete Bollywood masala movie consisting of everything, from action to romance and some quite decent music. A definitely must watch for any Shahrukh or thriller fans.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A young man with a vendetta against a business tycoon seduces and kills his eldest daughter and then proceeds to his younger daughter but she begins to suspect her new lover's ulterior motive.",
+        "duration": "PT2M13S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2164046361",
+        "name": "Baazigar Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOGZmMmJiYjctZjg0ZC00Nzg4LTgzYzItMGIzZTAyY2M5Mjg1XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGZmMmJiYjctZjg0ZC00Nzg4LTgzYzItMGIzZTAyY2M5Mjg1XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+        "uploadDate": "2018-11-13T06:02:43.249Z",
+        "url": "https://www.imdb.com/video/vi2164046361/"
+    },
+    "url": "/title/tt0106333/"
+}

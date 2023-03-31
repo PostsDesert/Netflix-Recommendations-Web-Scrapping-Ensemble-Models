@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sean Connery",
+            "url": "/name/nm0000125/"
+        },
+        {
+            "@type": "Person",
+            "name": "Wesley Snipes",
+            "url": "/name/nm0000648/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harvey Keitel",
+            "url": "/name/nm0000172/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 46923,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0056999/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Crichton",
+            "url": "/name/nm0000341/"
+        },
+        {
+            "@type": "Person",
+            "name": "Philip Kaufman",
+            "url": "/name/nm0442241/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Backes",
+            "url": "/name/nm0045660/"
+        }
+    ],
+    "datePublished": "1993-07-30",
+    "description": "When an escort girl is found dead in the offices of a Japanese company in Los Angeles, detectives Web Smith and John Connor act as liaison between the company's executives and the investigating cop Tom Graham.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Philip Kaufman",
+            "url": "/name/nm0442241/"
+        }
+    ],
+    "duration": "PT2H9M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTVkMGUwN2UtZjI4MS00YWU0LWI2NjAtOTc1MmMzMzkxZTUwXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "keywords": "businessman,murder of a prostitute,business executive,murder investigation,ex police captain",
+    "name": "Rising Sun",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "matija-trost"
+        },
+        "dateCreated": "2003-06-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0107969/"
+        },
+        "name": "ONE OF THE BEST THRILLERS IN 90'S",
+        "reviewBody": "The era when in Hollywood knew how to make a good movies, apart from todays pathetic production.\n\nAnd also one of the best roles for Connery, close to his best performances as unforgetable mister 007. Beside him even Snipes shows up some acting abilities.\n\n The story is, honestly, nothing special, even unlogical from time to time, but nevertheless it got something inside, maybe this eastern touch that keeps viewer glued to his seat. If then movie would be little deeper (like Blade runner for instance) it would be surely a classic. But despite that and mostly because of great performance by Connery it deserves a strong\n\n 8 out of 10.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from 20th Century Fox Home Entertainment",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi646185241",
+        "name": "Rising Sun",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOGNlOWU3NWMtZjRjNy00NzVkLTkxNTgtNzllMTBkYmY0ZWUxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGNlOWU3NWMtZjRjNy00NzVkLTkxNTgtNzllMTBkYmY0ZWUxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:53:46Z",
+        "url": "https://www.imdb.com/video/vi646185241/"
+    },
+    "url": "/title/tt0107969/"
+}

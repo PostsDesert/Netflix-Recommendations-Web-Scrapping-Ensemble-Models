@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jack Palance",
+            "url": "/name/nm0001588/"
+        },
+        {
+            "@type": "Person",
+            "name": "Howard McGillin",
+            "url": "/name/nm0569294/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michelle Nicastro",
+            "url": "/name/nm0629264/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 25782,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0004117/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0070555/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Rich",
+            "url": "/name/nm0723704/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brian Nissen",
+            "url": "/name/nm1270819/"
+        }
+    ],
+    "datePublished": "1994-11-18",
+    "description": "A power-hungry sorcerer curses a princess to live as a swan by day in this tale of everlasting love.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Richard Rich",
+            "url": "/name/nm0723704/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYjdjOTQwMjYtMjEzZi00YzQwLWFiODEtZWI1YWEzZmI2YjUzXkEyXkFqcGdeQXVyNjgxNTAwNjQ@._V1_.jpg",
+    "keywords": "princess,butler,sorcerer,prince,king",
+    "name": "The Swan Princess",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Raven-49"
+        },
+        "dateCreated": "1999-04-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0111333/"
+        },
+        "name": "A good, watchable movie despite its flaws.",
+        "reviewBody": "Compared to previous attempts by competing studios to break Disney's stranglehold on the animated film market, The Swan Princess really is a good movie. The animation does not quite have Disney's finesse and got a little rough in places, but was still watchable and generally pleasing to the eye, unlike, say, Thumbelina. The songs, though not particularly memorable and vaguely cheesy in the manner of much older animated flicks, did not bring the movie to a grinding halt and actually managed to, in general, help it along. It has a plot.\n\nThat's not to say that The Swan Princess doesn't have its problems, mostly in its characters. The titular lead, Princess Odette, is a flat failure as a heroine--she never *does* anything except lead her one true love, Prince Derrick, to her--and even then, she only does that because her animal friends, Puffin, Speed the turtle, and Jean-Bob the frog, cook up the plan for her.\n\nDerrick is much more likeable, and though throughout most of the movie he is a flaming idiot, he is a likeable and sympathetic flaming idiot--and he does learn. His mistakes are, as a rule, human and understandable, and in the end it is he who saves the day and finally learns the movie's apparent lesson--that beauty is not all there is in matters of love or anything else.\n\nThe development of their relationship is refreshing--rather than falling in love at first sight, they start out hating each other with a passion, and it takes them years--spanned capably over the course of one amusing if sugary song--to realize that they do love each other. And then Derrick blows it(!), and spends the rest of the movie scrambling to recover from his mistake.\n\nThe end battle was satisfying, though in general I prefer for the heroine to help save their hides in some manner. The movie-makers were not afraid to beat the living daylights out of their hero, and though the save he pulls in the end is nothing short of miraculous, it was at least shown much earlier to be within his princely capabilities.\n\nDespite its flaws, I found The Swan Princess to be a satisfying and re-watchable movie--though I did catch myself agreeing with Derrick's comment (stated early in the movie) that he could do much better.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Shared trailer for all three Swan Princess titles",
+        "duration": "PT54S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1128399385",
+        "name": "The Swan Princess: The Mystery of the Enchanted Treasure",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzUyM2Q1YTAtNDQ0NC00ZWU1LWI3NmYtM2RmMTllNDgxNGJlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzUyM2Q1YTAtNDQ0NC00ZWU1LWI3NmYtM2RmMTllNDgxNGJlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-10-09T14:26:57Z",
+        "url": "https://www.imdb.com/video/vi1128399385/"
+    },
+    "url": "/title/tt0111333/"
+}

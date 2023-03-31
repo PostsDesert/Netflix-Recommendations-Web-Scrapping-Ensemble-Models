@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Oprah Winfrey",
+            "url": "/name/nm0001856/"
+        },
+        {
+            "@type": "Person",
+            "name": "Danny Glover",
+            "url": "/name/nm0000418/"
+        },
+        {
+            "@type": "Person",
+            "name": "Yada Beener",
+            "url": "/name/nm0066463/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9262,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0004231/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0093046/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0049348/"
+        },
+        {
+            "@type": "Person",
+            "name": "Toni Morrison",
+            "url": "/name/nm0607339/"
+        },
+        {
+            "@type": "Person",
+            "name": "Akosua Busia",
+            "url": "/name/nm0124333/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard LaGravenese",
+            "url": "/name/nm0481418/"
+        }
+    ],
+    "datePublished": "1998-10-16",
+    "description": "Based on the book by Toni Morrison, in which a slave is visited by the spirit of a mysterious young woman",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jonathan Demme",
+            "url": "/name/nm0001129/"
+        }
+    ],
+    "duration": "PT2H52M",
+    "genre": [
+        "Drama",
+        "History",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTZlMDFkYjItMjgxYi00MDNhLTg0NDYtNDY1NzJkNDg0MGQ4XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "torture,whipping,animal cruelty,brutality,beating",
+    "name": "Beloved",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "billcr12"
+        },
+        "dateCreated": "2012-08-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120603/"
+        },
+        "name": "Ghost Story",
+        "reviewBody": "Toni Morrison writes complex novels, and Beloved is no exception. Oprah Winfrey tackled the project, and the result is mixed. Although I can't stand her holier than thou attitude, and angel network bulls***,she can act, as she proved in The Color Purple. Here she is Sethe, who, just after the Civil War lives alone with her daughter, Denver, after her sons have run away, due to being frightened away by an angry ghost. An old friend, Paul(Danny Glover) drives the ghost away, and he moves in with Sethe. A beautiful young woman named Beloved(Thandie Newton) wanders into their yard and they take her in. Here is where it gets complicated. Denver finds out that Beloved is Sethe's reincarnated daughter. Beloved puts a spell on Paul and rapes him. Later on, it is revealed that Sethe was assaulted when she was young, and she tried to kill her kids, rather than have them live in slavery. As a movie, it is visually interesting, but the plot is too convoluted for my taste. Thandie Newton is always good, and she was an excellent choice for the lead role. Check her out in Gridlocked.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M14S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2078458137",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMDIxMDk5MmItNDBlNi00ZTQ2LWJmYjktMWNmZGRiZmQyYmViXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDIxMDk5MmItNDBlNi00ZTQ2LWJmYjktMWNmZGRiZmQyYmViXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-10-22T21:50:42.335Z",
+        "url": "https://www.imdb.com/video/vi2078458137/"
+    },
+    "url": "/title/tt0120603/"
+}

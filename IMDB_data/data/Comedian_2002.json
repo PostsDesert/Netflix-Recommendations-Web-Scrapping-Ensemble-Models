@@ -1,0 +1,89 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jerry Seinfeld",
+            "url": "/name/nm0000632/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chris Rock",
+            "url": "/name/nm0001674/"
+        },
+        {
+            "@type": "Person",
+            "name": "Garry Shandling",
+            "url": "/name/nm0788009/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7118,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0059469/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0002468/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0084208/"
+        }
+    ],
+    "description": "A look at the work of two stand-up comics, Jerry Seinfeld and a lesser-known newcomer, detailing the effort and frustration behind putting together a successful act and career while living a life on the road.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Christian Charles",
+            "url": "/name/nm1226523/"
+        }
+    ],
+    "duration": "PT1H22M",
+    "genre": [
+        "Documentary",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkyMDM0MzE5Nl5BMl5BanBnXkFtZTYwMDg1NjY3._V1_.jpg",
+    "keywords": "trailer narrated by hal douglas,comedian,stand up comedian,comedy club,rape joke",
+    "name": "Comedian",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Ronin47"
+        },
+        "dateCreated": "2002-11-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0328962/"
+        },
+        "name": "A fun look at life as a stand-up comic (***)",
+        "reviewBody": "I was never a big fan of \"Seinfeld\", though that had more to do with my natural opposition to sitcoms (laugh tracks make me cringe) than with the material in the show itself. So, by extension, I didn't think I was the biggest fan of Jerry Seinfeld himself either, but after seeing \"Comedian\", an intense and funny documentary about what it takes to make it in that profession, I have a newfound appreciation for him, as well as stand-up comics in general.\n\nStand-up comedy is one of those professions that a lot of people probably think anybody could get up there and do, but this movie proves otherwise. It's rough work entertaining people, especially in a live setting and when you're up there all by your lonesome.\n\nThe movie mainly focuses on Seinfeld as he gradually makes his comeback to the stand-up scene after years of absence, slowly compiling new material and testing it out on audiences. It's a brave format for a comedy film, because it's about HOW an act is perfected, and not just the perfect act itself. That means we're allowed to see what it looks like when jokes fall dead flat, because that is all a learning experience for a comic, no matter how long they've been doing it.\n\nSeveral other comics, like Colin Quinn, Chris Rock, Garry Shandling, and George Wallace make brief appearances, and in a nice scene near the end, Seinfeld has a good conversation with one of his idols, a warm and encouraging Bill Cosby.\n\nAlso a big plus is the cool, New York atmosphere and the soundtrack, which features songs by artists as diverse as Charles Mingus, Al Green and Bob Dylan."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT1M29S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3538853401",
+        "name": "Comedian",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNmY4YjRiOWYtZDRiZS00YWNhLWE2MzItZWQ4ZGRjOTI3OTVlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNmY4YjRiOWYtZDRiZS00YWNhLWE2MzItZWQ4ZGRjOTI3OTVlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-10-26T03:14:36Z",
+        "url": "https://www.imdb.com/video/vi3538853401/"
+    },
+    "url": "/title/tt0328962/"
+}

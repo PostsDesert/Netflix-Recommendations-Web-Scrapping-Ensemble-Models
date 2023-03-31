@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Neil Diamond",
+            "url": "/name/nm0004871/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Bennett",
+            "url": "/name/nm1201513/"
+        },
+        {
+            "@type": "Person",
+            "name": "Vince Charles",
+            "url": "/name/nm2389351/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 82,
+        "ratingValue": 8,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0017904/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0150503/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0224683/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kenny Solms",
+            "url": "/name/nm0813206/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ann Elder",
+            "url": "/name/nm0253042/"
+        },
+        {
+            "@type": "Person",
+            "name": "Toem Perew",
+            "url": "/name/nm0673410/"
+        }
+    ],
+    "datePublished": "1991-01-30",
+    "description": "Neil Diamond plays his greatest hits, live.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Dwight Hemion",
+            "url": "/name/nm0376033/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Israelson",
+            "url": "/name/nm0411500/"
+        }
+    ],
+    "duration": "PT1H",
+    "genre": [
+        "Documentary",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjExNTQ0NzE1MV5BMl5BanBnXkFtZTcwMzQyMDAzMQ@@._V1_.jpg",
+    "keywords": "concert film,country,independent film",
+    "name": "Neil Diamond: Greatest Hits Live",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dockerby"
+        },
+        "dateCreated": "2014-06-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0168093/"
+        },
+        "name": "Diamond Shines Bright",
+        "reviewBody": "As a long standing fan of Neil Diamond, I could be accused of a certain bias in my review, however, I must say these are not his best performances of these classic songs, of course it would be churlish to suggest that Neil Diamond has short changed anyone, but if you have ever attending one of his big arena shows, you will understand what I mean, all the major hits are here, sung with a sincerity as only Neil can, but what is lacking is the electric atmosphere of a full blown concert, given that this set was recorded in front of a select audience, it doesn't have any of the impulsiveness one gets from an excited and enthusiastic crowd, all that said, it is worth investing in, if only to see a master Tunesmith at work.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0168093/"
+}

@@ -1,0 +1,91 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Michael Keaton",
+            "url": "/name/nm0000474/"
+        },
+        {
+            "@type": "Person",
+            "name": "Geena Davis",
+            "url": "/name/nm0000133/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christopher Reeve",
+            "url": "/name/nm0001659/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5272,
+        "ratingValue": 5.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050435/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0007143/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert King",
+            "url": "/name/nm0455207/"
+        }
+    ],
+    "datePublished": "1994-12-16",
+    "description": "Two political speechwriters fall in love before they find out they are working for candidates on opposite sides.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ron Underwood",
+            "url": "/name/nm0881038/"
+        }
+    ],
+    "duration": "PT1H39M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYmMyMWY0MmMtYTQyZS00NDI4LTk4OTQtY2MxOGMwNzNjMWVmXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_.jpg",
+    "keywords": "speechwriter,insomnia,new mexico,plagiarism,bear cub",
+    "name": "Speechless",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bob the moo"
+        },
+        "dateCreated": "2001-12-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0111256/"
+        },
+        "name": "Nice romance - but could have been funnier and had better chemistry",
+        "reviewBody": "In town for a political campaign, speechwriters for the opposing sides Kevin and Julia met and share a fun evening together unaware of who the other is. Later they meet sparking a conflict that spills from their romance into the battle between the two politicians.\n\nThis is a very light romantic comedy. The story is promising - romance and political competition but the delivery lets it down. The plot drops into a very lightweight romance with a touch of screwball comedy, musical score doesn't help as it has a gentle tickling tune that plays for basically the whole thing. The script doesn't have any teeth either, it's not sharp like a film set around politics should be and it's not as funny as it thinks it is. Instead it has a screwball feel to it - although it can't hold a candle to the films of the 50's that it clearly aspires to be.\n\nIt's a shame because for a light movie it has a very heavy cast of well-known faces. Keaton is as good as he always is, but him and Davis lack a great chemistry and their romance isn't convincing, neither is the conflict between them. The support cast is full of well known actors - Bonnie Bedelia, Ernie Hudson, Charles Martin Smith, Mitch Ryan and Christopher Reeve. Even Steven Wright and Harry Shearer pop up for a cameo as sitcom stars Chuck and Eddie. It's a shame that such a face-heavy cast don't have better material to work with.\n\nThis is a very light romantic comedy. The romance doesn't work due to the lack of spark between the two likeable stars, and the comedy isn't that funny because it isn't sharp. The director and script-writers miss a fantastic opportunity with such a great cast and a good set-up (Ron Underwood! - were City Slickers and Tremors early flukes?). The film brings out some political claws towards the end but even then they're blunted by the need for a romantic conclusion.\n\nNice romance with some funny moments - but could have been much funnier."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from MGM",
+        "duration": "PT2M53S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4255384857",
+        "name": "Speechless (1994)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODUxYWFjOTYtY2E1OS00NDM0LTgwNmEtYTQ5MTFmN2M5NzJjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODUxYWFjOTYtY2E1OS00NDM0LTgwNmEtYTQ5MTFmN2M5NzJjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-10-31T05:41:37Z",
+        "url": "https://www.imdb.com/video/vi4255384857/"
+    },
+    "url": "/title/tt0111256/"
+}

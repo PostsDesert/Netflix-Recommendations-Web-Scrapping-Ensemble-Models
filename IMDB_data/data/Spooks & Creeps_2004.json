@@ -1,0 +1,52 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jason Castle",
+            "url": "/name/nm3237068/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nina Harada",
+            "url": "/name/nm3604421/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Keller",
+            "url": "/name/nm0445731/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 29,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Person",
+            "name": "Michael Keller",
+            "url": "/name/nm0445731/"
+        }
+    ],
+    "description": "A geeky pizza boy who always dreamed of being a spy, recruits his loser friends to help him prove that a local dry cleaner is a front for espionage.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Keller",
+            "url": "/name/nm0445731/"
+        }
+    ],
+    "duration": "PT1H10M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Comedy"
+    ],
+    "keywords": "boy",
+    "name": "Spooks",
+    "url": "/title/tt1980254/"
+}

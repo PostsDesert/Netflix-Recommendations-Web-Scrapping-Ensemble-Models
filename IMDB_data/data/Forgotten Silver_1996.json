@@ -1,0 +1,95 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Peter Jackson",
+            "url": "/name/nm0001392/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeffrey Thomas",
+            "url": "/name/nm0859005/"
+        },
+        {
+            "@type": "Person",
+            "name": "Costa Botes",
+            "url": "/name/nm0090904/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6163,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0065796/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0034777/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0046203/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Jackson",
+            "url": "/name/nm0001392/"
+        },
+        {
+            "@type": "Person",
+            "name": "Costa Botes",
+            "url": "/name/nm0090904/"
+        }
+    ],
+    "datePublished": "1997-10-03",
+    "description": "The film deals with the career of a supposedly forgotten pioneer of international cinema, Colin McKenzie, who was allegedly born in rural New Zealand in 1888.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Costa Botes",
+            "url": "/name/nm0090904/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Jackson",
+            "url": "/name/nm0001392/"
+        }
+    ],
+    "duration": "PT53M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BN2MyYWRlMTAtMTEwNy00NTBmLWI5MGItYTRiYTNjM2YwYmUxXkEyXkFqcGdeQXVyNzgzODI1OTE@._V1_.jpg",
+    "keywords": "found footage,satire comedy,new zealand,mockumentary,filmmaking",
+    "name": "Forgotten Silver",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "tomimt"
+        },
+        "dateCreated": "2005-08-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0116344/"
+        },
+        "name": "Fabulous hoax",
+        "reviewBody": "Peter Jackson and Costa Boeates decided to make this great mockumentary about a man called Colin McKenzie, a man who invented such things as color film, audio film and above all, made the first full length feature movie.\n\nApparently it was quite a successful hoax in New Zealand, people really did buy it. And I really can't blame them, as most of the fabricated film material really looks like almost hundred years old, almost destroyed film.\n\nAnd there are some very convincing famous film people, like Sam Neil, telling their knowledge of this McKenzie.\n\nEven the tone of the film isn't actually very funny, even thought there are some things in it that are so absurd, that they make you laugh.\n\nOver all well made mockumentary.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0116344/"
+}

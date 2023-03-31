@@ -1,0 +1,84 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dan Gordon",
+            "url": "/name/nm2092833/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hank Torrance",
+            "url": "/name/nm2053575/"
+        },
+        {
+            "@type": "Person",
+            "name": "Libby Krall",
+            "url": "/name/nm2054707/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 447,
+        "ratingValue": 2.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0161020/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0190186/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chuck Gramling",
+            "url": "/name/nm1680635/"
+        }
+    ],
+    "datePublished": "2005-10-25",
+    "description": "Three young couples venture out on an idylic weekend boat trip off the coast of New England. When a meteor crash creates a fierce storm, they are stranded on a remote island inhabited by only the lighthouse keeper and his wife. Th...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Chuck Gramling",
+            "url": "/name/nm1680635/"
+        }
+    ],
+    "duration": "PT1H13M",
+    "genre": [
+        "Action",
+        "Comedy",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA0MjM3NTQ0M15BMl5BanBnXkFtZTcwMTIzNjczMQ@@._V1_.jpg",
+    "keywords": "island,alien creature,female female kiss,alien species",
+    "name": "Predator Island",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Roanka"
+        },
+        "dateCreated": "2005-11-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0483779/"
+        },
+        "name": "A modern B-movie",
+        "reviewBody": "The kind of B-movies from the 1950's that were schlocky yet so much fun are to what Predator Island pays homage. Filmed in Connecticut, Predator Island is set on an island called with a lighthouse Hell's Beacon which is inhabited by only the couple who tends the lighthouse. In typical 1950's sci-fi fashion after a half dozen young adults crash their boat into the island's rocky shore hideous creatures from outer space invade the island after a meteor hits nearby. The creatures start both inhabiting the bodies of their victims as well as devouring them. Lots of cursing and lame comebacks are the primary form of dialogue in this movie. It is so hokey that you just have to laugh at times. If you are looking for a movie that is stupid, but in a fun way, then this one fits the bill. \n\nInteresting note: I appear in the film as a dead body in the far background of the final scene. During filming they needed about 50 extras, yet around 300 people showed up for the opportunity. They eventually used nearly 200 of them.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 2,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0483779/"
+}

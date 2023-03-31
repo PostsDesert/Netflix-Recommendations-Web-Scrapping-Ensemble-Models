@@ -1,0 +1,56 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ben Harper",
+            "url": "/name/nm0363816/"
+        },
+        {
+            "@type": "Person",
+            "name": "Juan Nelson",
+            "url": "/name/nm1982903/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marc Ford",
+            "url": "/name/nm1861591/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 50,
+        "ratingValue": 7.8,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0081390/"
+        }
+    ],
+    "description": "Blues-roots-soul musician Ben Harper and his band The Innocent Criminals live at the Hollywood Bowl, 4 August 2003.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Brendan Malloy",
+            "url": "/name/nm0540139/"
+        },
+        {
+            "@type": "Person",
+            "name": "Emmett Malloy",
+            "url": "/name/nm0540148/"
+        }
+    ],
+    "duration": "PT1H53M",
+    "genre": [
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZGIxMWE3ZGUtMzMzMi00Mjk5LTkzN2MtMjlhNmU3MDdlNTI0XkEyXkFqcGdeQXVyMjg2MDcyMw@@._V1_.jpg",
+    "keywords": "live performance,concert film",
+    "name": "Ben Harper & the Innocent Criminals: Live at the Hollywood Bowl",
+    "url": "/title/tt0470115/"
+}

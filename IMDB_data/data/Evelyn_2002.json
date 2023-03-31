@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Pierce Brosnan",
+            "url": "/name/nm0000112/"
+        },
+        {
+            "@type": "Person",
+            "name": "Julianna Margulies",
+            "url": "/name/nm0000523/"
+        },
+        {
+            "@type": "Person",
+            "name": "Aidan Quinn",
+            "url": "/name/nm0001644/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6858,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0010508/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0018947/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0088199/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Pender",
+            "url": "/name/nm0671671/"
+        }
+    ],
+    "datePublished": "2002-12-25",
+    "description": "Desmond's wife leaves him and their 3 kids after Christmas 1953. As he's unemployed in Dublin, the authorities place the kids in orphanages; when he finds a job, he tries to get his kids back.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bruce Beresford",
+            "url": "/name/nm0000915/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTYwNjUwNTkxOF5BMl5BanBnXkFtZTYwMzA1MDg5._V1_.jpg",
+    "keywords": "character name as title,timeframe 1950s,children,court,judge",
+    "name": "Evelyn",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "edwagreen"
+        },
+        "dateCreated": "2006-02-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0298856/"
+        },
+        "name": "Evelyn, At the Heart of the Matter ****",
+        "reviewBody": "Something totally different for actor Pierce Brosnan, and he makes the best of it in a terrific performance.\n\nDesmond Doyle (Brosnan) is a poor Irish father, married with 3 children. His wife deserts him and as he has no finances, the state takes his loving children away and places the boys in one school and his daughter, Evelyn, in a convent.\n\nHis lovely daughter meets up with one kind nun but one so vicious played by a lady whose last name is Irvine. I haven't seen such cruelty displayed by a nun since Gladys Cooper in \"The Song of Bernadette.\"\n\nBrosnan, a house painter and part-time singer, shows tremendous depth in this role of a hard-drinking, heavy smoking individual whose love for his children transcends all.\n\nHe engages two attorneys played by Stephen Rea and Aidan Quinn to help him. In turn, they pursue another retired attorney, the late Alan Bates, who provides comic relief with his performance.\n\nThe picture focuses on the attempts of the attorneys to change Irish law that would allow one parent in such a situation to decide what's right for his child.\n\nIrish eyes are certainly smiling on Doyle, he immediately touches the hearts of the people in his plain, sympathetic style. Heart-wrenching and a joy to view. Don't miss it.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Desmond's wife leaves him and their 3 kids after Christmas 1953. Unemployed in Dublin, the authorities place the kids in orphanages. Employed again, Desmond tries to get his kids back.",
+        "duration": "PT2M18S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2362622745",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMDAyYTg1MTctYTU5Ni00MDIxLTgyZjEtNjg1MjhiNzE1ZTFkXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDAyYTg1MTctYTU5Ni00MDIxLTgyZjEtNjg1MjhiNzE1ZTFkXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-11-24T15:10:09.562Z",
+        "url": "https://www.imdb.com/video/vi2362622745/"
+    },
+    "url": "/title/tt0298856/"
+}

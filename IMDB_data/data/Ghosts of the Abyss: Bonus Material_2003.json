@@ -1,0 +1,90 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bill Paxton",
+            "url": "/name/nm0000200/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lori Johnston",
+            "url": "/name/nm1315052/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lewis Abernathy",
+            "url": "/name/nm0008656/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5704,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0008970/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0073388/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0037669/"
+        }
+    ],
+    "datePublished": "2003-05-23",
+    "description": "James Cameron and Bill Paxton, director and actor of the 1997 film Titanic, travel to the final undersea resting place of the ill-fated ship of dreams.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "James Cameron",
+            "url": "/name/nm0000116/"
+        }
+    ],
+    "duration": "PT1H1M",
+    "genre": [
+        "Documentary",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDM5MzY0MjY2MF5BMl5BanBnXkFtZTYwOTc5ODU3._V1_.jpg",
+    "keywords": "underwater scene,timeframe 1990s,titanic,shipwreck,expedition",
+    "name": "Ghosts of the Abyss",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "critic_at_large"
+        },
+        "dateCreated": "2003-06-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0297144/"
+        },
+        "name": "Great Slideshow; Just O.K. Film",
+        "reviewBody": "If this were James Cameron's slideshow of his ocean vacation, we would all agree he did a great job. Unfortunately, this collection of nice pictures doesn't work well as a film. Moreover, the incredibly high technology that enables remote cameras to drop two miles to the sea floor without imploding is not matched by state-of-the-art 3D imagery. To fit in their sardine cans, the 3D cameras used for this film had to be very, very small, and they had to use extreme wide-angle lenses. The result is that, notwithstanding the IMAX format, the scale ends up feeling small. There are a number of shots of the giant, four-story tall engines that powered the Titanic, still intact at the bottom of the ocean. Amazing! These things should take your breath away. Somehow, they don't in this presentation. You just don't get a feel for their size. Also, the blue/red 3D technology borrowed from the 1950s is not in the same league as the new polarized 3D technology used in, for example, the most recent Space Shuttle IMAX film. Disappointing. Also, Bill Paxton was not the right choice (yes, I get the whole \"life imitating art\" thing, but he added exactly nothing to this film). Rod Serling's narrations for the Cousteau films were interesting because, well, he was Rod Serling, but also because he had interesting things to say. You didn't hear Rod saying \"look at that\" or \"wow\" or \"I can't believe we're really here.\" Finally, a crew member describes seeing an object on the ship that really brings home the humanity of the tragedy. Do we get to see the object (I am not identifying it here so as not to spoil this part of the film)? No. A waste. Now the good: the computer graphics are terrific, the reenactions are good, and the lighting, expert commentary, and photography are engaging enough to remind us of how many souls were lost in the Titanic disaster, the heroism and cowardice along the way, and how terribly sad and unnecessary the loss of life really was. Worth seeing, despite its flaws."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Buena Vista Home Entertainment",
+        "duration": "PT2M24S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi682230041",
+        "name": "Ghosts of the Abyss",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BM2M2N2FhYjItMTY4MC00ZjMxLWJhMDAtZTk2ODQ1ZTAxYTE2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BM2M2N2FhYjItMTY4MC00ZjMxLWJhMDAtZTk2ODQ1ZTAxYTE2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:17:19Z",
+        "url": "https://www.imdb.com/video/vi682230041/"
+    },
+    "url": "/title/tt0297144/"
+}

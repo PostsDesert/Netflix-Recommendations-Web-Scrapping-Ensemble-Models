@@ -1,0 +1,39 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 25,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "description": "A collection of early silent films.",
+    "duration": "PT1H58M",
+    "image": "https://m.media-amazon.com/images/M/MV5BODMwNDcwNzgxOF5BMl5BanBnXkFtZTgwOTQwMTY3MDE@._V1_.jpg",
+    "keywords": "silent film,intertitle,compilation",
+    "name": "Landmarks of Early Film",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "nickenchuggets"
+        },
+        "dateCreated": "2021-06-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt3238758/"
+        },
+        "name": "The men who started it all",
+        "reviewBody": "In a way, this dvd is what started much of my interest in old movies, and movies in general. Before I bought this about 7 years ago, I hardly ever cared about what was going on in regards to movie making. I would sometimes put movies on in the background while I read a book or something, and when I look back at that, I just kind of cringe. Sometimes you need to be a certain age to realize how impressive things are, and back then, I just wasn't ready to find them captivating. So when I first got this, I wasn't necessarily enthused with it, but now, I realize what makes these things so important to film history. Much like real history, if you want to comprehend the entire story, you have to go back to the beginning. This dvd does just that. It's essentially a collection of very old films (not really movies) that were all produced before world war 1. In fact, the youngest thing on here is from 1913 I think. Some of the things featured on here include footage of the notorious earthquake that hit San Francisco in 1906, a nice view of skyscrapers in NYC from across a river (1903), and a snowball fight from the early 1900s. Of course, I can't talk about this dvd without mentioning that \"A Trip to the Moon\" by Georges Méliès is on here. Unmistakably one of the most famous early films of all time, the plot centers on a group of astronomers who travel to the moon by climbing into an artillery shell and are blasted to its surface via a huge cannon. In real life of course, there's no gun (even by modern standards) powerful enough to launch such a heavy projectile at a fast enough speed to let it break through the atmosphere, but the film is still a classic. The dvd also comes with a pretty substantial booklet that tells you all about the interesting techniques that moviemakers used before they had access to advanced cameras. People back then were probably smarter than they are now, because the limited technology forced them to innovate and come up with new ideas to achieve success. If you want to learn more about (very) early film, try to get a copy of this. I watch it every few years.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt3238758/"
+}

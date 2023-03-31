@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Cynthia Gibb",
+            "url": "/name/nm0001269/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gordon Currie",
+            "url": "/name/nm0192963/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alexandra Kamp",
+            "url": "/name/nm0436906/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 328,
+        "ratingValue": 5,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0067243/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0001863/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0088615/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carl Binder",
+            "url": "/name/nm0082772/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Benjamin Martin",
+            "url": "/name/nm0552553/"
+        }
+    ],
+    "datePublished": "2003-04-11",
+    "description": "Based on the novel from award winning, best selling author Mary Higgins Clark",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Charles Wilkinson",
+            "url": "/name/nm0006658/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ4MDE4MTQ0Nl5BMl5BanBnXkFtZTcwMzUwOTU5Mw@@._V1_.jpg",
+    "keywords": "murder investigation,inheritance,adultery,based on novel",
+    "name": "A Crime of Passion",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "crazy_smilers"
+        },
+        "dateCreated": "2017-03-31",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0349277/"
+        },
+        "name": "Ha! I knew it.",
+        "reviewBody": "Well I enjoyed the whodunit. The guessing game. I found Freddy's acting to be a bit difficult to bear. Especially near the beginning. I am amused that who I had joked had committed the first murder is actually who it was. Time seemed to get a bit confusing. What I thought would have been like the next day or something may have been weeks. I do not know. It seemed things jumped ahead often but then it wasn't as far into the future as it would seem. People just move quickly with drastic events in their lives.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Based on the novel from best selling author Mary Higgins Clark, Frederica Dumay has everything--a gorgeous new husband and half ownership of a winery. But when her business partner's wife is murdered, Freddi suspects her partner's new love. While trying t",
+        "duration": "PT4M31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2634744345",
+        "name": "A Crime of Passion",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTU0Nzc1NTQ4NF5BMl5BanBnXkFtZTcwNzU4MTQ4Mg@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTU0Nzc1NTQ4NF5BMl5BanBnXkFtZTcwNzU4MTQ4Mg@@._V1_.jpg",
+        "uploadDate": "2009-09-19T08:03:52Z",
+        "url": "https://www.imdb.com/video/vi2634744345/"
+    },
+    "url": "/title/tt0349277/"
+}

@@ -1,0 +1,90 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Charles Chaplin",
+            "url": "/name/nm0000122/"
+        },
+        {
+            "@type": "Person",
+            "name": "Virginia Cherrill",
+            "url": "/name/nm0156039/"
+        },
+        {
+            "@type": "Person",
+            "name": "Florence Lee",
+            "url": "/name/nm5681967/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 187348,
+        "ratingValue": 8.5,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0028083/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Chaplin",
+            "url": "/name/nm0000122/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harry Carr",
+            "url": "/name/nm0139714/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harry Crocker",
+            "url": "/name/nm0188357/"
+        }
+    ],
+    "datePublished": "1931-03-07",
+    "description": "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Charles Chaplin",
+            "url": "/name/nm0000122/"
+        }
+    ],
+    "duration": "PT1H27M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "keywords": "slapstick comedy,pantomime,music score composed by director,the little tramp character,car",
+    "name": "City Lights",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Nazi_Fighter_David"
+        },
+        "dateCreated": "2008-04-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0021749/"
+        },
+        "name": "A one-man virtuoso performance",
+        "reviewBody": "Once again Chaplin plays his famous creation, the beloved Tramp The noble Little Fellow meets and falls in love with a blind flower girl She assumes he is wealthy man and offers him a flower, which he attentively accepts with his last penny \n\nOne night by chance he rescues a drunken millionaire from drowning The rich gentleman becomes a generous friend when drunk but doesn't recognize the tramp when sober Chaplin takes the blind girl under his wing, and takes flight with the millionaire's money to cure her blindness \n\n\"City Lights\" engaged a true genius in a graceful and touching performance which arouses profound feelings and joy with great simplicity of style and tragic tale Each scene was the result of hard-working detail and planning",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0021749/"
+}

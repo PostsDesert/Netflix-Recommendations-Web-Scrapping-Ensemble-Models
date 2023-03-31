@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kieran Culkin",
+            "url": "/name/nm0001085/"
+        },
+        {
+            "@type": "Person",
+            "name": "Elden Henson",
+            "url": "/name/nm0711805/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sharon Stone",
+            "url": "/name/nm0000232/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 13393,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0052530/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0048322/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0022594/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rodman Philbrick",
+            "url": "/name/nm0679917/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Leavitt",
+            "url": "/name/nm0495378/"
+        }
+    ],
+    "datePublished": "1998-10-30",
+    "description": "Two young boys, both social outcasts in their small town, form an unlikely friendship.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Peter Chelsom",
+            "url": "/name/nm0155093/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNGZhMDFmNzUtOTE4OC00Mzg4LWI3NDktNjRkMWUyMTgyNjUyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "bully,school bully,gang,switchblade,baseball cap",
+    "name": "The Mighty",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Boyo-2"
+        },
+        "dateCreated": "1999-12-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0119670/"
+        },
+        "name": "Loved every minute",
+        "reviewBody": "This movie was great and I'd encourage anyone to see it. Both of the young actors are fantastic, especially Eldon Henson, and the adults in the movie are pretty good, too. Gillian Anderson and Henson have a really beautiful moment at a bus stop near the end. I also cried at one point quite a lot. It really was an amazing movie and deserves some praise.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT1M3S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3117456921",
+        "name": "The Mighty",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjUzZjhiZDEtOGU1Yi00MmFjLWE4MGItYmZlYzJiZWZhNTU4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjUzZjhiZDEtOGU1Yi00MmFjLWE4MGItYmZlYzJiZWZhNTU4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-10-26T03:55:13Z",
+        "url": "https://www.imdb.com/video/vi3117456921/"
+    },
+    "url": "/title/tt0119670/"
+}

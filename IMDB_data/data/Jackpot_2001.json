@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jon Gries",
+            "url": "/name/nm0340973/"
+        },
+        {
+            "@type": "Person",
+            "name": "Daryl Hannah",
+            "url": "/name/nm0000435/"
+        },
+        {
+            "@type": "Person",
+            "name": "Garrett Morris",
+            "url": "/name/nm0606541/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 590,
+        "ratingValue": 5.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0026920/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0026901/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0096528/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Polish",
+            "url": "/name/nm0689185/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Polish",
+            "url": "/name/nm0689187/"
+        }
+    ],
+    "datePublished": "2001-07-27",
+    "description": "Sunny Holiday, an aspiring singing star, abandons his wife and young baby to set off on a nine-month tour of bleak western towns. He takes off with his road manager in a pink Chrysler in search of their own version of the American...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Polish",
+            "url": "/name/nm0689187/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Drama",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg3MjM2NTUzN15BMl5BanBnXkFtZTYwMjA5Njg5._V1_.jpg",
+    "keywords": "manager,karaoke,diner,aspiring singer,road trip",
+    "name": "Jackpot",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "MedievalinNYC"
+        },
+        "dateCreated": "2003-02-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0261755/"
+        },
+        "name": "An unexpectedly good film.",
+        "reviewBody": "This film is not just that typical on the road Middle America odyssey, with frequent stops in kitschy bars and dusty diners. Jackpot has a well written script with a strong focus on character development and interaction. Gries and Morris work well together as a fly-by-night duo. Gries' goofy but personable character allows his mediocre singing to be quite intriguing. The witty dialogue was enjoyable and consistent throughout the film. Most notable is Garret Morris' performance. The film was a clever attempt to show two zealous characters struggle for an unrealistic, waste of a goal. You can't help but be envious of their carefree attitude and at the same time loathe their divergence from ideal responsibilities. It's realism allows for a vicarious experience and an appreciation of great screenwriting."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Sony Pictures Classics",
+        "duration": "PT2M8S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2710700313",
+        "name": "Jackpot",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODJmMWMzZjUtYzNhNy00MDM4LThiNjEtNjM3ODczZWMyNTY3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODJmMWMzZjUtYzNhNy00MDM4LThiNjEtNjM3ODczZWMyNTY3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:48:38Z",
+        "url": "https://www.imdb.com/video/vi2710700313/"
+    },
+    "url": "/title/tt0261755/"
+}

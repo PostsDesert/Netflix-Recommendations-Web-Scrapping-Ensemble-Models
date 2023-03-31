@@ -1,0 +1,55 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Gary Busey",
+            "url": "/name/nm0000997/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anthony Daniels",
+            "url": "/name/nm0000355/"
+        },
+        {
+            "@type": "Person",
+            "name": "Johnny Depp",
+            "url": "/name/nm0000136/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 221,
+        "ratingValue": 5.7,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0024337/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeff Miller",
+            "url": "/name/nm0588572/"
+        }
+    ],
+    "description": "Interviews with the cast of all the Star Wars films and inside info on the films.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Kent Hagen",
+            "url": "/name/nm0353418/"
+        }
+    ],
+    "duration": "PT1H33M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjI3NzcyNTU1MV5BMl5BanBnXkFtZTcwNzI0MDAyMQ@@._V1_.jpg",
+    "keywords": "reference to star wars",
+    "name": "The Stars of 'Star Wars': Interviews from the Cast",
+    "url": "/title/tt0214158/"
+}

@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Pete Postlethwaite",
+            "url": "/name/nm0000592/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tara Fitzgerald",
+            "url": "/name/nm0001216/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ewan McGregor",
+            "url": "/name/nm0000191/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 20330,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103532/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0022594/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0204698/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Herman",
+            "url": "/name/nm0379179/"
+        }
+    ],
+    "datePublished": "1997-05-23",
+    "description": "The coal mine in a northern English village may be closing, which would also mean the end of the miners' brass band.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mark Herman",
+            "url": "/name/nm0379179/"
+        }
+    ],
+    "duration": "PT1H48M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BY2Y5NDU2MmYtOGZiYy00MTAyLTgyYTctZGU2YjQ0YzQ3NDllXkEyXkFqcGdeQXVyMTk0MjQ3Nzk@._V1_.jpg",
+    "keywords": "reference to margaret thatcher,man in a shower,male in a shower,taking a shower,shared shower",
+    "name": "Brassed Off",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "noralee"
+        },
+        "dateCreated": "2005-12-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0115744/"
+        },
+        "name": "Effective Combination of Uplift and Economic Reality",
+        "reviewBody": "\"Brassed Off\" is a surprisingly tough anti-Thatcher flick, and I did have some problem with the thick accents now and again. \n\nWhile I could have done with a bit more romance, there was an excellent story line of working class difficulties to attend to that is similar to downsizing heartbreak here.\n\nPete Postlethwaite as the band leader/black lunged ex-coal miner was terrific, but so was Stephen Tomlinson as a guy with just everything against him under so many pressures.\n\nYeah it's a heartwarming story of trying to keep dignity vs. Big Business, it's not a fantasy but upliftingly realistic.\n\nEwan MacGregor took what could have just been the male ingénue role and was quite intense with it.\n\nAmazingly - there's no child abuse in it, what a relief these days. Everyone here really loves their kids, their jobs, their community, their colliery band. It's just the Tories (and management) they hate. \n\nI just hate to think how hopeless things are for them after the movie ends.\n\n(originally written 6/14/1997)",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT1M41S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2314116633",
+        "name": "Brassed Off",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMGU1Y2IzNTYtN2FmYS00YjM0LWE4YTktMWUwODFiYjEzNjcyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMGU1Y2IzNTYtN2FmYS00YjM0LWE4YTktMWUwODFiYjEzNjcyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-10-26T03:10:50Z",
+        "url": "https://www.imdb.com/video/vi2314116633/"
+    },
+    "url": "/title/tt0115744/"
+}

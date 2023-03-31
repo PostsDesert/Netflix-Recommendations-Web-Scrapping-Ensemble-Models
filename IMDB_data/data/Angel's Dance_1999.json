@@ -1,0 +1,92 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jim Belushi",
+            "url": "/name/nm0000902/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sheryl Lee",
+            "url": "/name/nm0498247/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kyle Chandler",
+            "url": "/name/nm0151419/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1424,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0048922/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0068726/"
+        },
+        {
+            "@type": "Person",
+            "name": "David L. Corley",
+            "url": "/name/nm0179968/"
+        }
+    ],
+    "datePublished": "1999-02-25",
+    "description": "A young hitman is asked to prove himself by killing an innocent woman.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David L. Corley",
+            "url": "/name/nm0179968/"
+        }
+    ],
+    "duration": "PT1H39M",
+    "genre": [
+        "Action",
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjg0NjcyYTUtNGYyZC00NTM2LTllNjMtZDgyZWUyMGJiNDRkXkEyXkFqcGdeQXVyNzYxODU3NA@@._V1_.jpg",
+    "keywords": "hitman,random victim,assuming a new personality,victim fights back,hunted turns hunter",
+    "name": "Angel's Dance",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "spiveym"
+        },
+        "dateCreated": "1999-06-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0159995/"
+        },
+        "name": "A very different mob movie--fun to watch!",
+        "reviewBody": "I discovered this movie on HBO late late one night, and was pleasantly surprised. What starts out as a typical mob movie, with greasy hit men and fat Godfathers in Chicago, quickly turns unconventional with a change of scene to California. Our \"heroine\" in the movie (Lee) is a social recluse who dresses stiffs at the mortuary, while the \"master\" hit man (Belushi) surfs and eats tofu. Lee's character quickly goes from being the hunted to the hunter, which is the best part of the movie. Very entertaining to watch!"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer 1",
+        "duration": "PT2M31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4021682457",
+        "name": "Angel's Dance",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzBjMzA0ZjYtYjdlNC00NjRiLTk1ODEtYmJjYzZjMzVhNGZmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzBjMzA0ZjYtYjdlNC00NjRiLTk1ODEtYmJjYzZjMzVhNGZmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T11:42:06Z",
+        "url": "https://www.imdb.com/video/vi4021682457/"
+    },
+    "url": "/title/tt0159995/"
+}

@@ -1,0 +1,92 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Wayne",
+            "url": "/name/nm0000078/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Widmark",
+            "url": "/name/nm0001847/"
+        },
+        {
+            "@type": "Person",
+            "name": "Laurence Harvey",
+            "url": "/name/nm0002131/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 16557,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "Passed",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0055958/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0067458/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Edward Grant",
+            "url": "/name/nm0335455/"
+        }
+    ],
+    "datePublished": "1960-10-27",
+    "description": "In 1836, a small band of soldiers sacrifice their lives in hopeless combat against a massive army in order to prevent a tyrant from smashing the new Republic of Texas.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Wayne",
+            "url": "/name/nm0000078/"
+        }
+    ],
+    "duration": "PT2H42M",
+    "genre": [
+        "Adventure",
+        "Drama",
+        "History"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZmQ1MjRmZGQtYTE1ZS00Njg4LWE4OWUtZTY2MTAwNzc3MGJlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "keywords": "cannon,battle,battle of the alamo,texas revolution,year 1836",
+    "name": "The Alamo",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "sticks-8"
+        },
+        "dateCreated": "1999-07-15",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0053580/"
+        },
+        "name": "Historical perspective",
+        "reviewBody": "I first saw \"The Alamo\" in 1960 and loved it. I loved it for several reasons, one was because like countless other kids {I was 11} I had been raised on Fess Parker's treatment of Davy Crockett and was fascinated by the story and two I've been a John Wayne fan since I can remember. I have copies of both the theatrical and the uncut versions. I prefer the theatrical because I feel that the scenes that were cut were unnecessary and in some cases tedious and painful to watch. Historically speaking the movie was a hit and miss affair but that's okay with me because as a package it was a direct hit on the action sequences and since that basically was what the Alamo was about I can forgive the inaccuracies. Some of the most glaring; the battle was over just before dawn on a rather cold day {the temperature ranged between the 30's and mid 50's and was probably on the low end of that spectrum at that time of day} and yet the movie shows up bright blue cloudless skies and the participants in less than cold weather attire,; the film portrayed Bowie as being in bed because of a leg injury suffered in a fall from his horse later aggravated by shrapnel during a bombardment when the truth was that he was sick. He had practically drunk himself to death for 3 years because of the loss of his wife and children to cholera and probably had TB. On that note the movie shows Bowie receiving the news during the siege. Another case of license. On the other hand the film was accurate in a lot of cases too, for example, the locations of Travis and Bowie at the times of their deaths and depending on whether you believe that Crockett fell where Suzanna Dickinson and several others said they saw him or that he survived the battle with five others only to be executed we may be able to make a case for his actual location too. But the most wonderful example of historical fact is in the location of the filming. This was a painstakingly assembled replica of the area and is breathtaking in its realistic appearance. There was one fact that was mistreated, though, that took me some time to accept as dramatic license. James Butler Bonham {Patrick Wayne} reports to the garrison that Col James Fannin and his men will not be reinforcing them because the were \"ambushed, murdered\". This is sort of true but not until after the Alamo had fallen. The fact was that Fannin had started out to reach the Alamo but while still within view of his own garrison at Goliad he had a wagon break down and some oxen run off and by the time he repaired those problems he changed his mind about going and returned to his command. He and his men were captured and about 600 of them, including Fannin, marched into a river and shot down. All things considered though I can still watch this movie again and again 39 years later. Besides, who can deny that the opening credits complete with some of the most beautiful music in cinematic history {Dimitri Tiomkin} constitute one of the most unforgettable movie beginnings of all time? I think I'll go watch it right now."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "In 1836, a small band of soldiers sacrifice their lives in hopeless combat against a massive army in order to prevent a tyrant from smashing the new Republic of Texas.",
+        "duration": "PT3M24S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi310428185",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjM3ZDUzNjQtNDRiNy00N2Y4LWIwMWUtMzRlMzVjNTI2YjNiXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjM3ZDUzNjQtNDRiNy00N2Y4LWIwMWUtMzRlMzVjNTI2YjNiXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2022-05-06T00:24:19.442Z",
+        "url": "https://www.imdb.com/video/vi310428185/"
+    },
+    "url": "/title/tt0053580/"
+}

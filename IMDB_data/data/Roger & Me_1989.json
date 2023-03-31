@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Campbell Scott",
+            "url": "/name/nm0001714/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jesse Eisenberg",
+            "url": "/name/nm0251986/"
+        },
+        {
+            "@type": "Person",
+            "name": "Isabella Rossellini",
+            "url": "/name/nm0000618/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 17651,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0019252/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0084169/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dylan Kidd",
+            "url": "/name/nm1071898/"
+        }
+    ],
+    "datePublished": "2002-11-22",
+    "description": "After breaking up with his lover and boss, a smooth-talking man takes his teenaged nephew out on the town in search of sex.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Dylan Kidd",
+            "url": "/name/nm1071898/"
+        }
+    ],
+    "duration": "PT1H46M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTRiMTNlMmMtNGIwNy00NmEyLWIxYWYtMDIyYmYxZTI1NjdkXkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_.jpg",
+    "keywords": "virginity,male ego,uncle nephew relationship,womanizer,character name as title",
+    "name": "Roger Dodger",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "cherold"
+        },
+        "dateCreated": "2004-12-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0299117/"
+        },
+        "name": "real mixed feelings",
+        "reviewBody": "Rather unpleasant movie with a terrific performance by Scott as a quick-witted chauvinist. I liked the opening scene best, which was sharp and funny and drew Scott's character very nicely, but I felt the movie never had a clear idea of its own intentions and never knew where it was going, which is why it never really gets anywhere.\n\nNow, on the one hand I can understand not wanting to make the movie pat, not wanting to spell things out for the viewer, but I just felt not enough was done with Scott's obvious rage and self-destructive behavior. The movie gives you a fairly awful person but veers uncomfortably between showing you him at his worst and trying to work up some empathy with him, a gambit that fails because the character is always kept at an emotional distance.\n\nI gave this 7/10 but I'm not sure if it deserved something that high or not. But it is intriguing.\n\nBy the way, the cinematography, which has elicited a lot of hostility, didn't bother me at all. I saw it on TV, perhaps it's more bothersome in the theater.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Artisan",
+        "duration": "PT2M28S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi411042073",
+        "name": "Roger Dodger",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDE3ZmQzMjEtY2RmZC00NDAzLTg3YjEtYWE5MTYxNzhhYjMxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDE3ZmQzMjEtY2RmZC00NDAzLTg3YjEtYWE5MTYxNzhhYjMxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:37:50Z",
+        "url": "https://www.imdb.com/video/vi411042073/"
+    },
+    "url": "/title/tt0299117/"
+}

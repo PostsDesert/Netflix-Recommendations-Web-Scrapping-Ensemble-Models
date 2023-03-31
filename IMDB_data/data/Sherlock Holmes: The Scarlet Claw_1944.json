@@ -1,0 +1,78 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Peter O'Toole",
+            "url": "/name/nm0000564/"
+        },
+        {
+            "@type": "Person",
+            "name": "Earle Cross",
+            "url": "/name/nm1533630/"
+        },
+        {
+            "@type": "Person",
+            "name": "Judy Nunn",
+            "url": "/name/nm0638066/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 161,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0101137/"
+        },
+        {
+            "@type": "Person",
+            "name": "Arthur Conan Doyle",
+            "url": "/name/nm0236279/"
+        },
+        {
+            "@type": "Person",
+            "name": "John King",
+            "url": "/name/nm2903218/"
+        }
+    ],
+    "datePublished": "1983-01-15",
+    "description": "The great detective investigates a murder that has a far flung revenge motive.",
+    "duration": "PT50M",
+    "genre": [
+        "Animation",
+        "Family",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMyODUzMjI1M15BMl5BanBnXkFtZTcwODI0MDkxMQ@@._V1_.jpg",
+    "keywords": "sherlock holmes character,dr. john watson character,seven word title,revenge,murder",
+    "name": "Sherlock Holmes and a Study in Scarlet",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "flickhead"
+        },
+        "dateCreated": "2007-02-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0238595/"
+        },
+        "name": "Peter O'Toole - A Natural for the Animated Sherlock Holmes!",
+        "reviewBody": "I've been a lifelong fan of mysteries, as was my father before me, and it's a tradition I've tried to pass down to my nieces and nephews. I recently came across these four animated Sherlock Holmes specials from the early 80s with acting legend Peter O'Toole voicing the greatest detective of all time. I'd never heard of these before, and boy was I in for a treat! Peter O'Toole has an amazing vocal quality that brings the right amount of sincerity and wit to the role, and his ability to have fun within character makes him a real treat for children. The animation is on par with any Hannah Barbera production from the era, and it reminded me of one of my other all time favorite animated shows, Scooby Doo, only with the higher quality writing of the Arthur Conan Doyle original stories. I can't wait to see these again, as I've heard a DVD release is pending. Wonderful family entertainment, and a great way to get kids reading. Highly recommended! I agree with another's comments that this is a very close adaptation of the original novel, perhaps THE closest ever. One of the directors has been the chief layout artist for many Disney films in recent years, too.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0238595/"
+}

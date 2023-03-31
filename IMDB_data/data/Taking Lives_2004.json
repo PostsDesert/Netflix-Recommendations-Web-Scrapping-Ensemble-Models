@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Angelina Jolie",
+            "url": "/name/nm0001401/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ethan Hawke",
+            "url": "/name/nm0000160/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kiefer Sutherland",
+            "url": "/name/nm0000662/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 92191,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0108864/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0014103/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Pye",
+            "url": "/name/nm1373865/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jon Bokenkamp",
+            "url": "/name/nm0092578/"
+        }
+    ],
+    "datePublished": "2004-03-19",
+    "description": "An FBI profiler is called in by French Canadian police to catch a serial killer who takes on the identity of each new victim.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "D.J. Caruso",
+            "url": "/name/nm0142286/"
+        }
+    ],
+    "duration": "PT1H43M",
+    "genre": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTA3NDMyNzI5NTdeQTJeQWpwZ15BbWU3MDQxNDEyMzM@._V1_.jpg",
+    "keywords": "fake identity,serial killer,female agent,stolen identity,criminal investigation",
+    "name": "Taking Lives",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Buddy-51"
+        },
+        "dateCreated": "2005-01-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0364045/"
+        },
+        "name": "undistinguished thriller",
+        "reviewBody": "\"Taking Lives\" is a standard-issue, run-of-the-mill thriller about a serial killer and the FBI agent determined to capture him. When bodies start piling up in the Montreal area, the agent - an expert in serial killer profiling - is brought in to assist the local authorities in finding the culprit. The perpetrator's modus operandi is to target men roughly his own age and build, murder them in cold blood, then assume their identities. Once he grows tired of living their lives, he proceeds to his next victim. Ethan Hawke plays a man who's witnessed the most recent of the killings and who may now be next in line on the man's hit list.\n\n\"Taking Lives\" sticks pretty much within the confines of its overworked genre. We have the disgruntled local cop who resents interference from a hotshot outsider; the prime suspect who turns out to be just another of the killer's many victims; and the double twist resolution which really isn't all that hard to see coming twenty minutes or so into the movie. Jolie gives her usual wooden performance as the FBI agent, barely managing to register a single convincing emotion throughout the course of the film. Hawke does his best with the material, though there really isn't much he can do with it apart from going through the motions, which he does reasonably well. Gena Rowlands and Keefer Sutherland are also on hand to lend their talents, but since their roles are fairly miniscule, they don't have much of a chance to display their wares as actors.\n\nAlthough watchable, \"Taking Lives\" feels like a weak-spined, half-hearted effort in an already played-out genre. It is an instantly forgettable film.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 4,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT2M31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi92799257",
+        "name": "Taking Lives",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMGJlZTI3NzktMDgzZS00Nzk1LWFlODMtNjc5ODUxMjBmYmIyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMGJlZTI3NzktMDgzZS00Nzk1LWFlODMtNjc5ODUxMjBmYmIyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:06:00Z",
+        "url": "https://www.imdb.com/video/vi92799257/"
+    },
+    "url": "/title/tt0364045/"
+}

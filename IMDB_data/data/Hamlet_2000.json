@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ethan Hawke",
+            "url": "/name/nm0000160/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kyle MacLachlan",
+            "url": "/name/nm0001492/"
+        },
+        {
+            "@type": "Person",
+            "name": "Diane Venora",
+            "url": "/name/nm0893204/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9742,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0114931/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Shakespeare",
+            "url": "/name/nm0000636/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Almereyda",
+            "url": "/name/nm0021899/"
+        }
+    ],
+    "datePublished": "2000-06-23",
+    "description": "Modern-day New York City adaptation of Shakespeare's immortal story about Hamlet's plight to avenge his father's murder.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Almereyda",
+            "url": "/name/nm0021899/"
+        }
+    ],
+    "duration": "PT1H52M",
+    "genre": [
+        "Drama",
+        "Romance",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTA0MWFhY2MtMWEwMS00OWJlLWJlNzEtZGRjOTg2YzRlNWUwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "murder,ghost,revenge,shakespeare play,sword fight",
+    "name": "Hamlet",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Kryza"
+        },
+        "dateCreated": "2001-01-22",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0171359/"
+        },
+        "name": "Get Ye to another movie",
+        "reviewBody": "Usually contemporary updates of Shakespeare make me sick, but I had read good reviews on this one, and so I walked into the theatre with an open mind. Oops. There is so much wrong with this film that the bard would spin in his grave. 1.) Too much is left out of the original script. The whole graveyard speech, including the comedic gravediggers, is left out,and there is no insight into Ophelia's fate. 2.)Too many liberties taken. Bullets are hardly a substitute for poison. 3.)Although Hawke performs capably as the \"prince\" his character is overly somber. Even in his fits of \"maddness,\" at least somewhat humorous in most adaptations, Hawke barely cracks a smile. His pain is evident, but way too overdone. 4.) Steve Zahn, one of the best comedic actors on screen today, is wasted. As Rosencrantz, hailed as one of Shakespeare's most humorous characters, Zahn could have stolen the show. Instead, many of the character's lines are either cut or delivered facelessly over the phone. 5.) I won't even begin to discuss the artistic quality if Pepsi One, or (Although the scene was cool) Blockbuster Video. The commercialism was way too abundant. The list goes on and on. No disrespect to the actors. All perform capably, with top honours to Bill Murray for stealing the show as Polonious. However, muffled symbolism (what does a jet in a blue sky have to do with ANYTHING? and \"The Crow: City of Angels\"? Two bad movies on one screen?) and sloppy direction sink this well conceived yet poorly executed boat. Stick to Branagh."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Modern-day New York City adaptation of Shakespeare's immortal story about Hamlet's plight to avenge his father's murder.",
+        "duration": "PT1M55S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1424278809",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTQxNjRkZGMtMGU5MS00MGY0LWIwNDYtZmFjMjI4NDMwNzhmXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTQxNjRkZGMtMGU5MS00MGY0LWIwNDYtZmFjMjI4NDMwNzhmXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+        "uploadDate": "2022-12-14T14:19:19.676Z",
+        "url": "https://www.imdb.com/video/vi1424278809/"
+    },
+    "url": "/title/tt0171359/"
+}

@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jerry Lewis",
+            "url": "/name/nm0001471/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ed Wynn",
+            "url": "/name/nm0943956/"
+        },
+        {
+            "@type": "Person",
+            "name": "Judith Anderson",
+            "url": "/name/nm0000752/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3614,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0106728/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frank Tashlin",
+            "url": "/name/nm0850895/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jerry Lewis",
+            "url": "/name/nm0001471/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joe Besser",
+            "url": "/name/nm0078798/"
+        }
+    ],
+    "datePublished": "1960-12-18",
+    "description": "A gender-swapped retelling of Charles Perrault's classic, where Cinderfella is visited by a fairy godfather to help him escape from his wicked stepmother and stepbrothers.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Frank Tashlin",
+            "url": "/name/nm0850895/"
+        }
+    ],
+    "duration": "PT1H31M",
+    "genre": [
+        "Comedy",
+        "Family",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYmI5ZjlhOGUtMmFmMi00M2U0LWJhMTgtOTc5OTY2OTUyZWMzXkEyXkFqcGdeQXVyMjA0MzYwMDY@._V1_.jpg",
+    "keywords": "stepson,stepbrother,fairy godfather,cinderella spoof,stepmother",
+    "name": "Cinderfella",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "edwagreen"
+        },
+        "dateCreated": "2006-03-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0053716/"
+        },
+        "name": "Cinderfella **1/2",
+        "reviewBody": "The old story told with a twist. The sexes are reversed in this one.\n\nThis time it's Jerry Lewis victimized by a wicked stepmother and her 2 hoodlum sons. Who else but Ed Wynn could play a fairy godfather?\n\nDame Judith Anderson, a veteran player of the wicked, is at it again but how can we expect this great lady to add comedy to spice up her performance. She needed to do her part with a comic twist as Jo Van Fleet did in the television version of \"Cinderella.\" Sadly, that's missing. Playing the role straight is of no consequences in this farce. The sons come off like underworld hoods. It's a little too heavy for this film.\n\nJerry is funny but his attempts at singing fall quite flat.\n\nNice to show the kiddies that guys can be victimized too.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT1M25S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3950886681",
+        "name": "Cinderfella",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzkyM2E1NzgtNzg2MS00MGVjLWI4MjAtZTliM2NhYzY0OWNkXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzkyM2E1NzgtNzg2MS00MGVjLWI4MjAtZTliM2NhYzY0OWNkXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-01-15T17:03:05.762Z",
+        "url": "https://www.imdb.com/video/vi3950886681/"
+    },
+    "url": "/title/tt0053716/"
+}

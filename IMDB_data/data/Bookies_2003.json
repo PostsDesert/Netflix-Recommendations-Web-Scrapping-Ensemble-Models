@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Nick Stahl",
+            "url": "/name/nm0001763/"
+        },
+        {
+            "@type": "Person",
+            "name": "Johnny Galecki",
+            "url": "/name/nm0301959/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lukas Haas",
+            "url": "/name/nm0001305/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2252,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0130374/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0010183/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0062824/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Bacall",
+            "url": "/name/nm0045209/"
+        }
+    ],
+    "datePublished": "2003-01-20",
+    "description": "Centers on four college friends who become small-time bookies, only to find their world spinning dangerously out of control when their greed attracts the attention of organized crime.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mark Illsley",
+            "url": "/name/nm0407842/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQwMjQ3MjI5Nl5BMl5BanBnXkFtZTcwMDQ3NDYyMQ@@._V1_.jpg",
+    "keywords": "college,underworld,student,scam,money",
+    "name": "Bookies",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "paul-415"
+        },
+        "dateCreated": "2004-10-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0302361/"
+        },
+        "name": "fun movie",
+        "reviewBody": "saw this flick in Blockbuster and was intrigued. I like sports gambling and thought this was a unique and smart movie that addresses the subject in a very clever way. Great actors with some good music and fun plot twists. Not sure why this never went to the movie theaters. It had gone to The Sundance Film Festival and it has NICK STAHL from Terminator III and HBO's CARNIVALE, not to mention Lukas Haas and Rachael Leigh Cook. AND the greatest actor from THE SOPRANOS--David Proval, the guy that played RICHIE APRILE. Saw that writer of this co wrote MANIC, which is an AWESOME movie that I actually saw at THE SUNDANCE FILM FEST a few years ago. That movie had DON CHEADLE in it and he is an acting god. If you like smart movies with some good dialogue that handles the topic of sports gambling on college campuses, go rent BOOKIES! I bet you'll like it (hey, I couldn't resist that last line).",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0302361/"
+}
