@@ -1,0 +1,83 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kenneth Branagh",
+            "url": "/name/nm0000110/"
+        },
+        {
+            "@type": "Person",
+            "name": "Embeth Davidtz",
+            "url": "/name/nm0001110/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Downey Jr.",
+            "url": "/name/nm0000375/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 11380,
+        "ratingValue": 5.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0028117/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0011996/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Grisham",
+            "url": "/name/nm0001300/"
+        },
+        {
+            "@type": "Person",
+            "name": "Clyde Hayes",
+            "url": "/name/nm0370879/"
+        }
+    ],
+    "datePublished": "1998-01-23",
+    "description": "A lawyer uses his power to help his lover put her father behind bars, but when he escapes, they are all in danger.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Altman",
+            "url": "/name/nm0000265/"
+        }
+    ],
+    "duration": "PT1H54M",
+    "genre": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY2MmI1NzYtZTAzMi00OWZiLThmYjMtZTE4YjY3MzA5YmQ1XkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_.jpg",
+    "keywords": "law firm,lawyer,law,killing a pet,female full frontal nudity",
+    "name": "The Gingerbread Man",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "nolanjwerner"
+        },
+        "dateCreated": "2002-12-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0119196/"
+        },
+        "name": "Great acting, bad plot",
+        "reviewBody": "The plot of this film was only bad in the last section of the film. Before that it builds up to something good that never comes. I had to learn a Southern accent for a play (being from Kentucky and not having a Southern accent of course) so I rented this movie and learned one. Kudos to Kenneth Branagh and Robert Downey Jr. Watching this film it seemed like there was about 45 minutes worth of plot missing that would have made this a good movie. IF you have the missing 45 minutes please send it to me."
+    },
+    "url": "/title/tt0119196/"
+}

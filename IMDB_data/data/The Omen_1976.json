@@ -1,0 +1,95 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Gregory Peck",
+            "url": "/name/nm0000060/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lee Remick",
+            "url": "/name/nm0001665/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harvey Stephens",
+            "url": "/name/nm0827032/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 123393,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0234483/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0026101/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Seltzer",
+            "url": "/name/nm0783544/"
+        }
+    ],
+    "datePublished": "1976-06-25",
+    "description": "Mysterious deaths surround an American ambassador. Could the child that he is raising actually be the Antichrist? The Devil's own son?",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Richard Donner",
+            "url": "/name/nm0001149/"
+        }
+    ],
+    "duration": "PT1H51M",
+    "genre": [
+        "Horror",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZmNjZDcwNTMtMjQxMy00ZTY5LTg4M2YtYjA5NDliNjNhYzQ3XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "keywords": "nanny,priest,hospital,catholic hospital,baby switch",
+    "name": "The Omen",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Christiancrouse"
+        },
+        "dateCreated": "2001-11-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0075005/"
+        },
+        "name": "One of the Best",
+        "reviewBody": "This movie plays with the intellect. It is frightening for what is not seen. From the grey overcast that blurs the skies of London and the dead stillness of the great Pereford mansion that houses the ill-fated Thorn family to the deepest recesses of civilization in the hollow underground of an ancient excavation site, the film effectively captures the viewer's interest and draws them into a world that is on the verge of the ultimate disaster - the birth of the anti-Christ.\n\n Born into the world of politics and wealth, little Damien Thorn is the darling of the beautiful and privileged Robert and Katherine Thorn. Mysterious accidents and the overall feeling of death begin to shadow their lives until the horrifying truth of Damien's birth is uncovered millions of miles away in a grave in a decaying pagan cemetery in Italy. Gregory Peck gives a fine performance as ambitious politico Robert Thorn, a man who slowly discovers that his fate is interlinked in ancient biblical prophecy. With escalating horror, he uncovers a grand design that's unfolding under the unsuspecting eyes of the entire world - and he and his perfect family are at the centre of it. His search for the truth is one of the best in films, taking him to the farthest reaches of the globe and climaxing in an exciting and bizarre confrontation between himself and the face of evil.\n\n Lee Remick is ethereal as his beautiful and tragic wife. The rest of the cast - Billie Whitelaw as the creepy Mrs. Baylock, David Warner as the doomed Jennings and Leo McKern as the mysterious archaeologist Bugenhagen - give the movie its singular dark and moody quality. THE OMEN has a few disturbing moments that shock rather than disgust, but the film is loaded with memorable scenes that are ingenious. It's the 'feeling' that the film incites that makes this movie unique. The haunted performances of the actors, the creepy-crawly musical score, the insinuation that doom is slowly creeping into the world with the birth of one lone child, all succeed in making THE OMEN one of the truest horror films.\n\n Sometimes it's the knowing that something is going to happen that is more frightening than actually seeing it happen ..."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from 20th Century Fox Home Entertainment",
+        "duration": "PT49S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2750873881",
+        "name": "The Omen (1976)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTdhNDdhMzItYzJmYS00OWZlLWFiZWItN2ZlZWFmZWUxMGFlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTdhNDdhMzItYzJmYS00OWZlLWFiZWItN2ZlZWFmZWUxMGFlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:00:24Z",
+        "url": "https://www.imdb.com/video/vi2750873881/"
+    },
+    "url": "/title/tt0075005/"
+}

@@ -1,0 +1,78 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sanjeev Kumar",
+            "url": "/name/nm0474876/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jaya Bachchan",
+            "url": "/name/nm0080149/"
+        },
+        {
+            "@type": "Person",
+            "name": "Govardhan Asrani",
+            "url": "/name/nm2147526/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1674,
+        "ratingValue": 8.4,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Person",
+            "name": "Gulzar",
+            "url": "/name/nm0347899/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mohini N. Sippy",
+            "url": "/name/nm1100176/"
+        }
+    ],
+    "datePublished": "1972-11-27",
+    "description": "A speech and hearing-impaired couple persists through unforgiving obstacles to be accepted by society and live a life of dignity.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Gulzar",
+            "url": "/name/nm0347899/"
+        }
+    ],
+    "duration": "PT2H5M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTBjOTA2NjEtNjg2Zi00NDE1LWIzMjgtODZkNmVmZTkwYzJkXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+    "keywords": "deaf mute,sign language,marriage,blind man,lip reading",
+    "name": "Koshish",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "parthearthdave"
+        },
+        "dateCreated": "2012-10-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0215911/"
+        },
+        "name": "One more master-piece from Gulzar and Sanjeev Kumar",
+        "reviewBody": "It is a strange love story of deaf and dumb couple but still it is more expressive than any other love story. It is not all about their dignity to live proudly but it also touches the emotional side of this unique couple. It also represent the struggle of deaf and dumb couple to live a comfortable life style.\n\nThis is third movie of Gulzar which I watched after Andhi and Machis. Gulzar is changing my views on Indian cinema by some superb writings and directions. Now I am looking forward to Ijaazat, Mausam and Khushboo.\n\nAnd yes Sanjeev must be mentioned because of his splendid performance as a Haricharan. He and Jaya makes the movie more beautiful and emotional.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0215911/"
+}

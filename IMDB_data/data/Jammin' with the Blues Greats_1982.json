@@ -1,0 +1,35 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Colin Allen",
+            "url": "/name/nm0020394/"
+        },
+        {
+            "@type": "Person",
+            "name": "Buddy Guy",
+            "url": "/name/nm0349796/"
+        },
+        {
+            "@type": "Person",
+            "name": "Etta James",
+            "url": "/name/nm0416483/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 19,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "duration": "PT1H10M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTYzNjQ1ODYyMl5BMl5BanBnXkFtZTcwODUzMDAyMQ@@._V1_.jpg",
+    "name": "Jammin' with the Blues Greats",
+    "url": "/title/tt0298942/"
+}

@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Buster Crabbe",
+            "url": "/name/nm0185568/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carol Hughes",
+            "url": "/name/nm0400490/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Middleton",
+            "url": "/name/nm0585481/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1438,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Person",
+            "name": "George H. Plympton",
+            "url": "/name/nm0687741/"
+        },
+        {
+            "@type": "Person",
+            "name": "Basil Dickey",
+            "url": "/name/nm0225458/"
+        },
+        {
+            "@type": "Person",
+            "name": "Barry Shipman",
+            "url": "/name/nm0794088/"
+        }
+    ],
+    "datePublished": "1940-04-09",
+    "description": "Flash Gordon, Dale Arden and Dr. Zarkov return to the planet Mongo for an antidote to the Purple Death, which wreaking destruction on Earth. However, Ming the Merciless has other plans for them.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ford Beebe",
+            "url": "/name/nm0066247/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ray Taylor",
+            "url": "/name/nm0853028/"
+        }
+    ],
+    "duration": "PT3H40M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc1MDQ2ODU2N15BMl5BanBnXkFtZTgwNzIxMDM1MjE@._V1_.jpg",
+    "keywords": "psychotronic film,cult,camp,campy",
+    "name": "Flash Gordon Conquers the Universe",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "antiwolf"
+        },
+        "dateCreated": "2003-06-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0032475/"
+        },
+        "name": "A fun serial",
+        "reviewBody": "It's better than a lot of the dreck produced today. It is best not to watch it all at once, but watch one episode a day. When I consider how low the budget was, and how long ago this was made, it adds to the appreciation of this.\n\nFor example, making a cliff face look like a plausible ice wall by opening the iris wide to let in more light. It's full of cliches - sort of. But remember, they weren't cliche at the time.\n\nIt is interesting that Ming seems rather reasonable in this - not the over-the-top monster we have come to know and loath - and love!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Flash Gordon, Dale Arden and Dr. Zarkov return to the planet Mongo for an antidote to the Purple Death, which wreaking destruction on Earth. However, Ming the Merciless has other plans for them.",
+        "duration": "PT1M13S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2275197465",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjJmZTAyNWUtYWJiZi00NDE1LWJkOWMtZDg2NDk2YTZhOWYzXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjJmZTAyNWUtYWJiZi00NDE1LWJkOWMtZDg2NDk2YTZhOWYzXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+        "uploadDate": "2022-05-03T22:23:31.652Z",
+        "url": "https://www.imdb.com/video/vi2275197465/"
+    },
+    "url": "/title/tt0032475/"
+}

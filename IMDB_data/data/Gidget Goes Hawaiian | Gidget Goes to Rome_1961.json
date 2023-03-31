@@ -1,0 +1,85 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "James Darren",
+            "url": "/name/nm0201626/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Callan",
+            "url": "/name/nm0130286/"
+        },
+        {
+            "@type": "Person",
+            "name": "Deborah Walley",
+            "url": "/name/nm0909117/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1129,
+        "ratingValue": 5.7,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0061327/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ruth Brooks Flippen",
+            "url": "/name/nm0282437/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frederick Kohner",
+            "url": "/name/nm0463430/"
+        }
+    ],
+    "datePublished": "1961-06-02",
+    "description": "Southern Californian surf bums Francie Lawrence and Jeff Matthews - Gidget and Moondoggie to their friends - have just gotten pinned. Jeff is home from college for the summer, so he and Gidget only have a short amount of time to s...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Paul Wendkos",
+            "url": "/name/nm0920862/"
+        }
+    ],
+    "duration": "PT1H41M",
+    "genre": [
+        "Comedy",
+        "Music",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU5ODU2NzY0OV5BMl5BanBnXkFtZTgwMTExMjkwMzE@._V1_.jpg",
+    "keywords": "gidget character,three word title,psychotronic film,prologue,scene during opening credits",
+    "name": "Gidget Goes Hawaiian",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Uriah43"
+        },
+        "dateCreated": "2023-01-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0054923/"
+        },
+        "name": "Not Quite as Good as Its Predecessor",
+        "reviewBody": "This film essentially begins with a teenage girl named \"Frances 'Gidget' Lawrence\" (Deborah Walley) being told by her parents that they are going on a vacation in Hawaii. Although this news would typically be received with some measure of happiness, Gidget is not at all thrilled as she and her college boyfriend \"Jeffrey 'Moondoggie' Matthews\" (James Darren) had just begun a steady relationship. Her disappointment is compounded by the fact that, upon hearing of the news, she misinterprets Jeffrey's response of happiness for her being able to go to Hawaii to one of complete nonchalance about her leaving. That being the case, she immediately breaks off their relationship and boards an airplane to Hawaii with a heavy heart. While on the airplane, she meets another teenager named \"Abby Stewart\" (Vicki Trickett) who is also traveling with her parents. Although the two quickly becomes friends, Gidget tells Abby of her recent breakup but accidentally overemphasizes some parts which is misinterpreted by Abby. At first, this isn't any problem, but things change when the two become rivals for the same boyfriend--a young man who has recently flown to Hawaii named Jeffrey 'Moondoggie' Matthews. Now, rather than reveal any more, I will just say that, although this movie wasn't bad by any means, it didn't quite have the same appeal as its predecessor, partly because Gidget seemed too young and innocent in comparison to either Jeffrey 'Moondoggie' Matthews or \"Eddie Horner\" (Michael Callan). It almost seemed like they were robbing the cradle. Again though, while I don't consider this to be a bad movie necessarily, I don't believe it was as good as its predecessor and I have rated it accordingly.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0054923/"
+}

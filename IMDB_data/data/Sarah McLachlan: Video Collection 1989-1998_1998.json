@@ -1,0 +1,58 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Luke Doucet",
+            "url": "/name/nm0239762/"
+        },
+        {
+            "@type": "Person",
+            "name": "Camille Henderson",
+            "url": "/name/nm0376361/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Kershaw",
+            "url": "/name/nm1423770/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 60,
+        "ratingValue": 7.8,
+        "worstRating": 1
+    },
+    "datePublished": "1998-12-08",
+    "duration": "PT1H5M",
+    "genre": [
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU0NjE5NTAzOF5BMl5BanBnXkFtZTcwOTU2NjcyMQ@@._V1_.jpg",
+    "keywords": "year in title,20th century,1980s,1990s,music video collection",
+    "name": "Sarah McLachlan: Video Collection 1989-1998",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "columbo123"
+        },
+        "dateCreated": "2003-06-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0500188/"
+        },
+        "name": "This collection runs the gamut.",
+        "reviewBody": "Sarah McLachlan's music is excellent. That said, her videos range from beautiful versions of her songs to videos that make you cringe from thier absurdity. It seems that the early videos suffer from the high concepts that inspired them. On the other hand her later videos are very well done and are very complimentary to her music.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0500188/"
+}

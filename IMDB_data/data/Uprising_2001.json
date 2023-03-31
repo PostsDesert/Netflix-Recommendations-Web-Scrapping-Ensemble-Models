@@ -1,0 +1,92 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Leelee Sobieski",
+            "url": "/name/nm0005447/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hank Azaria",
+            "url": "/name/nm0000279/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Schwimmer",
+            "url": "/name/nm0001710/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4954,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "Unrated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0006702/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0088618/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0062272/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Brickman",
+            "url": "/name/nm0001887/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jon Avnet",
+            "url": "/name/nm0000816/"
+        }
+    ],
+    "datePublished": "2001-11-04",
+    "description": "Jews rise up in the Warsaw Ghetto against the Nazis in 1943.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jon Avnet",
+            "url": "/name/nm0000816/"
+        }
+    ],
+    "duration": "PT2H57M",
+    "genre": [
+        "Drama",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjI3NjUzODMtZGJlMC00OTc5LTk3ZWYtN2U0NTE0MDdmNjkxXkEyXkFqcGdeQXVyMjM3NTU0NTQ@._V1_.jpg",
+    "keywords": "nazi soldier,tv mini series,nazi officer,german occupation of poland,nazi uniform",
+    "name": "Uprising",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "RodReels-2"
+        },
+        "dateCreated": "2001-11-05",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0250798/"
+        },
+        "name": "Riveting Historical Drama",
+        "reviewBody": "On the night the Emmys awarded \"Anne Frank\" the best miniseries of 2000-2001, NBC began airing yet another WWII-era epic which has to be the odds-on favorite for the trophy next year. This is as fine a miniseries as I have ever seen. David Schwimmer, Leelee Sobieski and Hank Azaria are all highly believable in their roles as Jewish resistance fighters. Donald Sutherland and Jon Voight turn in fine performances in lesser roles. And director Jon Avnet delivers a compact, credible piece of little-known history regarding the Warsaw ghetto uprising. For a small screen effort, one has to be amazed at how closely the style resembles that of big screen efforts like \"Saving Private Ryan\" and \"Schindler's List\". All in all, a well-done miniseries that deserves a second viewing. How often can one say that about any miniseries.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0250798/"
+}

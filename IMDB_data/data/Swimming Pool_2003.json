@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Charlotte Rampling",
+            "url": "/name/nm0001648/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Dance",
+            "url": "/name/nm0001097/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ludivine Sagnier",
+            "url": "/name/nm0756203/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 46961,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0037192/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0056755/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0023471/"
+        },
+        {
+            "@type": "Person",
+            "name": "François Ozon",
+            "url": "/name/nm0654830/"
+        },
+        {
+            "@type": "Person",
+            "name": "Emmanuèle Bernheim",
+            "url": "/name/nm0076814/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sionann O'Neill",
+            "url": "/name/nm2019127/"
+        }
+    ],
+    "datePublished": "2003-08-01",
+    "description": "A British mystery author visits her publisher's home in the South of France, where her interaction with his unusual daughter sets off some touchy dynamics.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "François Ozon",
+            "url": "/name/nm0654830/"
+        }
+    ],
+    "duration": "PT1H42M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZGNjMmUzNjQtMjJjYy00ZWYyLTlhNDAtNDk2Y2QxZWQ0Y2NiXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_.jpg",
+    "keywords": "swimming,murder,digging a grave,female full frontal nudity,female rear nudity",
+    "name": "Swimming Pool",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jotix100"
+        },
+        "dateCreated": "2003-07-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0324133/"
+        },
+        "name": "What's real and what's fiction",
+        "reviewBody": "This film owes a great deal of gratitude to the second collaboration between Francois Ozon and his leading lady, Charlotte Rampling. They ought to team up more. \n\nAs with the previous film, Under the Sand, this is an enigmatic piece of cinema. This film, I believe, has more to do with Sarah Morton's imagination than with the actual story presented to us. There are so many hidden clues within the story that everyone will have a different take in what is presented in the film and what the actual reality is.\n\nFrancois Ozon is not a boring director. He will always present an interesting story, fully developed, with many twists to get his viewer into going in different directions trying to interpret it all.\n\nCharlotte Rampling is magnificent as Sarah Morton, the repressed author of mystery novels. Ludivine Sagnier is very good as the mysterious Julie, the alleged daughter of Sarah's publisher, but now, is she really that person?\n\n The ending will baffle the viewer. This is a film that will stay and haunt one's mind for days.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4287037721",
+        "name": "Swimming Pool",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTg2ODA4NGMtZDJjYS00YjU5LTgxMmYtMTIwNTZiYTY1MmUxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTg2ODA4NGMtZDJjYS00YjU5LTgxMmYtMTIwNTZiYTY1MmUxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:05:17Z",
+        "url": "https://www.imdb.com/video/vi4287037721/"
+    },
+    "url": "/title/tt0324133/"
+}

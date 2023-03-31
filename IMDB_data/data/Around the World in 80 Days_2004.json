@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jackie Chan",
+            "url": "/name/nm0000329/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve Coogan",
+            "url": "/name/nm0176869/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Broadbent",
+            "url": "/name/nm0000980/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 91699,
+        "ratingValue": 5.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0008970/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0073388/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0107034/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jules Verne",
+            "url": "/name/nm0894523/"
+        },
+        {
+            "@type": "Person",
+            "name": "David N. Titcher",
+            "url": "/name/nm0864435/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Benullo",
+            "url": "/name/nm0073026/"
+        }
+    ],
+    "datePublished": "2004-06-16",
+    "description": "To win a bet, an eccentric British inventor, beside his Chinese valet and an aspiring French artist, embarks on a trip full of adventures and dangers around the world in exactly eighty days.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Frank Coraci",
+            "url": "/name/nm0178997/"
+        }
+    ],
+    "duration": "PT2H",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc4MTkxMjQ2NF5BMl5BanBnXkFtZTcwNzE0NzUyMQ@@._V1_.jpg",
+    "keywords": "queen victoria,one against many,journey,19th century,inventor",
+    "name": "Around the World in 80 Days",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Quicksand"
+        },
+        "dateCreated": "2004-06-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0327437/"
+        },
+        "name": "Three Screenwriters Named Dave",
+        "reviewBody": "The credits roll, and I sarcastically turn to my friend, and whisper, \"Dude, 3 screenwriters, and they're all named Dave.\"\n\nOddly enough, that turned out to pretty much sum up the whole movie.\n\nIt's not BAD. It leans toward good, except it's not so much a remake as it is a Disney-fication. Like 'Cinderella' and 'The Little Mermaid' before it, Disney takes the title of the story and a few major characters, and just turns it into a theme-park attraction with emotional and dramatic resonance to match.\n\nFrank Coraci is solely responsible for making Adam Sandler's star stick. \"Happy Gilmore\" was cute, but it didn't have the style of a REAL movie, like his two films with Coraci, \"The Wedding Singer,\" and \"The Waterboy.\" Those films work as FILMS, not just Adam Sandler vehicles.\n\nI had high hopes for this one, and for that reason, it splatted. Amusing lines here and there, and great kung-fu choreography ruined by the same poor photography that screwed up \"Rush Hour.\" This is martial arts. DO NOT shoot your actors from the waist up. Things happen too fast, people are moving in too many directions. So in \"80 Days,\" like in \"Rush Hour,\" I had a sense that there was martial arts taking place, but could barely see it. Coraci does pull the camera back a few times, down to the ankles maybe, so a few scenes are reasonably well-shot. But not as well as they could have been. In fact, the entire movie feels rushed, like they're trying to cram the whole script into the alotted time frame. Some \"Indiana Jones\"-type pacing would have worked wonders, even if it made the movie 30 minutes longer. We're still talking about the book 100 years later for a reason, you know.\n\nWhat could have been fun for everyone turns into Disney-video wackiness that will barely appeal to anyone over 13, and not at all to any fan of Jules Verne. And thus the old rule applies once again.... the more screenwriters, the worse the film. Even if they're all named Dave.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "CT #2, post",
+        "duration": "PT2M",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1927086361",
+        "name": "Around the World in 80 Days (2004)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNGZkNTkzZjYtNjQyMC00MGZlLWEyMTEtZDM2NWVkM2FhNDM4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNGZkNTkzZjYtNjQyMC00MGZlLWEyMTEtZDM2NWVkM2FhNDM4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-08-04T03:04:45Z",
+        "url": "https://www.imdb.com/video/vi1927086361/"
+    },
+    "url": "/title/tt0327437/"
+}

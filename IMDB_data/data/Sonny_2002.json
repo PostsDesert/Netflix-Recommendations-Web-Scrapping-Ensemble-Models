@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "James Franco",
+            "url": "/name/nm0290556/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brenda Blethyn",
+            "url": "/name/nm0000950/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mena Suvari",
+            "url": "/name/nm0002546/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4395,
+        "ratingValue": 5.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0076476/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0010750/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Carlen",
+            "url": "/name/nm0137368/"
+        }
+    ],
+    "datePublished": "2003-03-21",
+    "description": "An honorably discharged soldier returns home to New Orleans, hoping to break away from his upbringing as a trained prostitute, but his brothel-madam mother has other expectations.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Nicolas Cage",
+            "url": "/name/nm0000115/"
+        }
+    ],
+    "duration": "PT1H50M",
+    "genre": [
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY2MzUzMDU3Nl5BMl5BanBnXkFtZTcwNzQ1MTAwMQ@@._V1_.jpg",
+    "keywords": "gigolo,brothel madam,prostitute,nudity,cocktail party",
+    "name": "Sonny",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ds4ucla"
+        },
+        "dateCreated": "2002-10-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0305973/"
+        },
+        "name": "A story of love and optimism in an ugly world.",
+        "reviewBody": "Sonny, the son of a New Orleans whore, returns home from the army determined to start a new life far away from prostitution. He finds that, even in 'live and let live' New Orleans, one's past is hard to escape.\n\nThe characters in this film are disturbing, volitile and manipulative. Other times they are sensitive, caring and fragile. Even Cage's over the top portrayal of a pimp, left me with the feeling that people such as this existed in the early 80's sex industry. The film captured excellent and emotional performances by James Franco, Brenda Blethyn, Harry Dean Stanton and Mena Suvari. Nicholas Cage, in his directorial debut, brings to life a script that fits well with his 'outside the box' body of work. The unusual sound track relied heavily on Bach and Beethoven with Devo and Wall of Voodoo mixed in.\n\nSonny was shown to a US audience for the first time at the Virginia Film Festival in Charlottesville, Virginia. A superb Roger Ebert interview of Mr. Cage followed. During the interview, we learned that the film went into production 3 weeks after Mr.Cage decided to produce and direct the project. It was shot primarily in a French Quarter building that Mr. Cage happened upon, purchased and now does not know what to do with. Filming lasted 6 weeks. Even if you consider the fact that Nicholas Cage first read the script many years ago, intending to play the part of Sonny, it is unbelievable that this film went from 'green light' to 'in the can' in 9 weeks.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "An honorably discharged soldier returns home to New Orleans, hoping to break away from his upbringing as a trained prostitute, but his brothel-madam mother has other expectations.",
+        "duration": "PT2M26S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi322880281",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTNkYzljMjEtNmZhOS00ZjJmLTg0ZjItNjFhZWJhYzcyZDRmXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTNkYzljMjEtNmZhOS00ZjJmLTg0ZjItNjFhZWJhYzcyZDRmXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+        "uploadDate": "2022-01-07T18:10:40.586Z",
+        "url": "https://www.imdb.com/video/vi322880281/"
+    },
+    "url": "/title/tt0305973/"
+}

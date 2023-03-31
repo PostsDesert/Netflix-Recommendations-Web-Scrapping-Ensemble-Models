@@ -1,0 +1,25 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "description": "A stylized and intimate portrait of the fantastic life of Louis Armstrong. The film charts the story of the innovator, the first great jazz soloist, band leader, pop star, actor and American cultural ambassador Louis Armstrong. Th...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Akomfrah",
+            "url": "/name/nm0015497/"
+        }
+    ],
+    "duration": "PT1H5M",
+    "genre": [
+        "Documentary"
+    ],
+    "name": "The Wonderful World of Louis Armstrong",
+    "url": "/title/tt4216750/"
+}

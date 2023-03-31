@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Patrick Wayne",
+            "url": "/name/nm0915618/"
+        },
+        {
+            "@type": "Person",
+            "name": "Doug McClure",
+            "url": "/name/nm0565982/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sarah Douglas",
+            "url": "/name/nm0235243/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3200,
+        "ratingValue": 5.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0022781/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0059622/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edgar Rice Burroughs",
+            "url": "/name/nm0123194/"
+        },
+        {
+            "@type": "Person",
+            "name": "Patrick Tilley",
+            "url": "/name/nm0863352/"
+        }
+    ],
+    "datePublished": "1977-08-17",
+    "description": "In 1919, a British expedition in the Antarctica region is searching for a lost American explorer and finds a hidden prehistoric world instead.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Kevin Connor",
+            "url": "/name/nm0175428/"
+        }
+    ],
+    "duration": "PT1H31M",
+    "genre": [
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQyMjMxODYxM15BMl5BanBnXkFtZTcwMTUxMTM4NA@@._V1_.jpg",
+    "keywords": "cavewoman,prehistory,spiderweb,forest,psychotronic film",
+    "name": "The People That Time Forgot",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "claudio_carvalho"
+        },
+        "dateCreated": "2014-02-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0076535/"
+        },
+        "name": "Lame and Absurd Adventure",
+        "reviewBody": "The newspaper of the family of the photographer Charly (Sarah Douglas) sponsors an expedition to the Arctic in the ship Polar Queen to find and rescue Bowen Tyler (Doug McClure). Soon the rescue team formed by Tyler's friend Ben McBride (Patrick Wayne), Professor Norfolk (Thorley Walters) and Charly fly in an airplane with the pilot Hogan (Shane Rimmer) to a distant place while Captain Lawton (Tony Britton) waits for their return on board of the Polar Queen. However they are hit by a pterodactyl and crash in a weird land of prehistoric animals. Soon they meet the native Ajor (Dana Gillespie) that surprisingly speaks English. They learn that Tyler had taught English to her tribe that evolved from the Stone Age to the Iron Age, but he was captured by a wild tribe. While Hogan fixes the airplane, Ajor joins the group to help them to find Tyler and bring him back to the civilization in a dangerous journey.\n\n\"The People That Time Forgot\" is a lame and absurd adventure with a silly story. It is funny to see the hot native Ajor with a fashion haircut (1977); or the tropical forest in the middle of the Arctic; or Hogan scoring the number of pterodactyls that he has killed; or Professor Norfolk throwing away Charly's camera to lighten the weight in the airplane; or the group skilled in sword fighting. My vote is four. \n\nTitle (Brazil): \"O Mundo Que o Tempo Esqueceu\" (\"The World That Time Forgot\")",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 4,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "In 1919, a British expedition in the Antarctica region is searching for a lost American explorer and finds a hidden prehistoric world instead.",
+        "duration": "PT2M18S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1753400089",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZGE0NzU1OWEtZmYxNS00NzY5LTkwOTAtNGZhMjMzMWVjY2YxXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZGE0NzU1OWEtZmYxNS00NzY5LTkwOTAtNGZhMjMzMWVjY2YxXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-10-18T00:39:23.324Z",
+        "url": "https://www.imdb.com/video/vi1753400089/"
+    },
+    "url": "/title/tt0076535/"
+}

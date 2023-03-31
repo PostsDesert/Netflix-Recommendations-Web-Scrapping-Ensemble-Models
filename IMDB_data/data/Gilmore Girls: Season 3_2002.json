@@ -1,0 +1,85 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Lauren Graham",
+            "url": "/name/nm0334179/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alexis Bledel",
+            "url": "/name/nm0088127/"
+        },
+        {
+            "@type": "Person",
+            "name": "Scott Patterson",
+            "url": "/name/nm0666398/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 40830,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "TV-14",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005035/"
+        },
+        {
+            "@type": "Person",
+            "name": "Amy Sherman-Palladino",
+            "url": "/name/nm0792371/"
+        }
+    ],
+    "datePublished": "2016-11-25",
+    "description": "Set nearly a decade after the finale of the original series, this revival follows Lorelai, Rory and Emily Gilmore through four seasons of change.",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODM1OTk4MDY2M15BMl5BanBnXkFtZTgwOTEwNzczMDI@._V1_.jpg",
+    "keywords": "2010s,mother daughter relationship,widow,failure,loneliness",
+    "name": "Gilmore Girls: A Year in the Life",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jessmdmb"
+        },
+        "dateCreated": "2016-11-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt5435008/"
+        },
+        "name": "Why can't people just be happy?",
+        "reviewBody": "I don't know why everyone is complaining so much. This was a GREAT revival and aside from a few scenes that I really could have gone without sitting through, I am super pleased with what they did. I decided long ago, after spending way too many months hating the ending of Buffy, to just enjoy what my favorite writers decide to do with THEIR characters. I'm not saying you have to love it, but when you spend years investing in your favorite towns, characters, and stories, what is the point of being angry with how it ends? Calm down people...Were there dumb scenes? Yes, Were some of the plot lines senseless? Yes. Did a few of the scenes feel forced? Yes. But overall they captured the essence of the characters and their lives in Stars Hollow and I will continue loving GG and hoping for another season!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Set nearly a decade after the finale of the original series, this revival follows Lorelai, Rory and Emily Gilmore through four seasons of change.",
+        "duration": "PT2M3S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi718714393",
+        "name": "Trailer #2",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjMyNDA0OTc1M15BMl5BanBnXkFtZTgwODAxOTU2MDI@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjMyNDA0OTc1M15BMl5BanBnXkFtZTgwODAxOTU2MDI@._V1_.jpg",
+        "uploadDate": "2016-11-21T13:23:30Z",
+        "url": "https://www.imdb.com/video/vi718714393/"
+    },
+    "url": "/title/tt5435008/"
+}

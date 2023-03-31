@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dwayne Johnson",
+            "url": "/name/nm0425005/"
+        },
+        {
+            "@type": "Person",
+            "name": "Seann William Scott",
+            "url": "/name/nm0005405/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christopher Walken",
+            "url": "/name/nm0000686/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 109564,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0242604/"
+        },
+        {
+            "@type": "Person",
+            "name": "R.J. Stewart",
+            "url": "/name/nm0829739/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Vanderbilt",
+            "url": "/name/nm0888743/"
+        }
+    ],
+    "datePublished": "2003-09-26",
+    "description": "A tough aspiring chef is hired to bring home a mobster's son from the Amazon but becomes involved in the fight against an oppressive town operator and the search for a legendary treasure.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Peter Berg",
+            "url": "/name/nm0000916/"
+        }
+    ],
+    "duration": "PT1H44M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMWU3ZDYxZjMtZmYyOS00NWQyLTk1MmItNDg4ZWM2ZGQxOTNiXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+    "keywords": "jungle,bounty hunter,brazil,gold mine,buddy",
+    "name": "The Rundown",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bfreilly"
+        },
+        "dateCreated": "2006-07-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0327850/"
+        },
+        "name": "Do you like thunderstorms?",
+        "reviewBody": "Wow. Movies like this are for me both a big surprise and a guilty pleasure to watch. At first, I was doubtful that the Rock had the screen presence or the acting ability to pull off a movie like this, since I had only known him before as \"the eyebrow guy from wrestling\". This movie proved me wrong and has rapidly moved up into my list of favorite films.\n\nBeck (The Rock) is somebody who chases down people that have irritated the mob, be it financially or socially. This is not his job of choice, however; he would rather own a restaurant. His bosses give him one final job: bring Travis (Sean William Scott, in a refreshing departure from the \"horny idiot\" style of movies) back from South America to the States. Beck finds Travis, but immediately runs afoul of Hatcher (Christopher Walken), who owns the mining town Travis lives in and wants something valuable that Travis has been looking for in the jungle. Then there are fights, running around from evil guys, more fights, monkeys, hallucinogenic fruit, and other such entertaining things.\n\nScott brought some well-done comic relief into the film with his quirky upbeat character. I could not stop laughing when Travis really tries to take on Beck in a contest of physical strength. It's like watching a caterpillar try and beat a Mack truck. Christopher Walken, as always, is a pleasure to watch. The man makes a perfect psychopath and I always brighten up when I see him on screen.\n\n\"The Rundown\" is an excellent film which I would recommend to anyone who loves kinda-brainless (in a good way) action films. Bravo to the Rock. May he have a long and fruitful movie career.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for The Rundown",
+        "duration": "PT2M29S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2038871577",
+        "name": "The Rundown",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjE4MDY4Mzg1MV5BMl5BanBnXkFtZTgwOTg4MTUyMDI@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjE4MDY4Mzg1MV5BMl5BanBnXkFtZTgwOTg4MTUyMDI@._V1_.jpg",
+        "uploadDate": "2016-10-07T02:38:41Z",
+        "url": "https://www.imdb.com/video/vi2038871577/"
+    },
+    "url": "/title/tt0327850/"
+}

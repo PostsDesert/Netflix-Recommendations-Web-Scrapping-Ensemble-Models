@@ -1,0 +1,89 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bea Arthur",
+            "url": "/name/nm0037735/"
+        },
+        {
+            "@type": "Person",
+            "name": "Betty White",
+            "url": "/name/nm0924508/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rue McClanahan",
+            "url": "/name/nm0001516/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 43344,
+        "ratingValue": 8.2,
+        "worstRating": 1
+    },
+    "contentRating": "TV-PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0067205/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0083928/"
+        },
+        {
+            "@type": "Person",
+            "name": "Susan Harris",
+            "url": "/name/nm0365358/"
+        }
+    ],
+    "datePublished": "1985-09-14",
+    "description": "Four previously married women live together in Miami, sharing their various experiences together and enjoying themselves despite hard times.",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDgyZDYwZTQtNzhmMS00MmU5LTgyYzEtNzAwZDNlZjkxZGMxXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",
+    "keywords": "southern belle,roommate,famous opening theme,sicilian,norwegian american",
+    "name": "The Golden Girls",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "boidiva02"
+        },
+        "dateCreated": "2009-04-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0088526/"
+        },
+        "name": "Perfection",
+        "reviewBody": "The Golden Girls is one of those rare sitcoms that works from the very first episode until the very last episode. Not one moment of this show is wasted or unneeded. The shows focuses on three best friends over the age of 50 sharing a house together in Miami, Florida in the 1980's (and early 1990's). They are Dorothy (Bea Arthur), the sarcastic, quick mouthed substitute teacher, Blanche (Rue McClanahan) the aging southern belle who won't admit her age and is overly sexed up, Rose (Betty White) the withering moron with the heart of gold. They are joined by Sophia (Estelle Getty), Dorothy's mother that because of a stroke cannot filter what she says. This show is comedic gold and is a treasure to watch.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "CT #3 Post",
+        "duration": "PT53S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3504210201",
+        "name": "Golden Girls: Season 2",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTEyNjZhNjUtODM4OC00YjIwLWFhNTctNjUxZDI0NTQyNWM2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTEyNjZhNjUtODM4OC00YjIwLWFhNTctNjUxZDI0NTQyNWM2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-08-04T03:21:23Z",
+        "url": "https://www.imdb.com/video/vi3504210201/"
+    },
+    "url": "/title/tt0088526/"
+}

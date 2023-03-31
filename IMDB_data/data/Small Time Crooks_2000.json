@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Woody Allen",
+            "url": "/name/nm0000095/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tracey Ullman",
+            "url": "/name/nm0001808/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hugh Grant",
+            "url": "/name/nm0000424/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 39419,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0819670/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0046148/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0093403/"
+        },
+        {
+            "@type": "Person",
+            "name": "Woody Allen",
+            "url": "/name/nm0000095/"
+        }
+    ],
+    "datePublished": "2000-05-19",
+    "description": "A loser of a crook and his wife strike it rich when a botched bank job's cover business becomes a spectacular success.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Woody Allen",
+            "url": "/name/nm0000095/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTA2NTBiMzEtMDA2My00YWNhLWJjMjAtYTUyMzMwNjM0Mjk2XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "keywords": "heist,restaurant,bakery,teaching,criminal",
+    "name": "Small Time Crooks",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ccthemovieman-1"
+        },
+        "dateCreated": "2006-03-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0196216/"
+        },
+        "name": "Ullman Matches Allen",
+        "reviewBody": "I doubt if many people share this sentiment, but this is my favorite Woody Allen movie simply because it does what Allen usually sets out to do: makes me laugh. I'm not a big fan of Allen's films but he and Tracey Ullman make a great pair in this 95-minute farce. Ullman has to be one of the most talented ladies to never achieve real movie stardom. She matches Allen laugh-for-laugh in here and, in some respects, even steals the show.\n\nOther than Allen's penchant for using the Lord's name in vain, this has a real classic-film feel to it, one of those old bickering spouse films but with more modern-day humor. Allen and Ullman trade some very funny insults, and there are many of these quality gags. Ullman is just plain hilarious as the bimbo-like \"Frenchy.\"\n\nAdd a gigolo (Hugh Grant), a couple of inept crooks, a couple of old-time Elaine favorites, Strich and May, and a pretty funny premise and you have some good entertainment and an underrated Allen film.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3952214297",
+        "name": "Small Time Crooks",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYTU3N2ZjNDItYTEzMC00MjQ1LWExNDgtZGYwOTk0ODhhNTdlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTU3N2ZjNDItYTEzMC00MjQ1LWExNDgtZGYwOTk0ODhhNTdlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:49:32Z",
+        "url": "https://www.imdb.com/video/vi3952214297/"
+    },
+    "url": "/title/tt0196216/"
+}

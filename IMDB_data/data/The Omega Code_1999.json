@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Casper Van Dien",
+            "url": "/name/nm0000680/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael York",
+            "url": "/name/nm0001868/"
+        },
+        {
+            "@type": "Person",
+            "name": "Catherine Oxenberg",
+            "url": "/name/nm0005289/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5434,
+        "ratingValue": 3.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0035682/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0078305/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0025254/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephan Blinn",
+            "url": "/name/nm0088478/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hollis Barton",
+            "url": "/name/nm0059158/"
+        }
+    ],
+    "datePublished": "1999-08-27",
+    "description": "A rabbi in Jerusalem develops software that can unlock prophecies in the Torah. He's murdered and the software stolen. A powerful man uses it to gain world domination.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Marcarelli",
+            "url": "/name/nm0545099/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZWM0YTQ3MmQtNWIzNi00NmRjLTg0MDAtYTZjYTM0M2U1ZTk0XkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+    "keywords": "psychotronic film,christian propaganda,code,torah,false accusation",
+    "name": "The Omega Code",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "atg45"
+        },
+        "dateCreated": "2000-06-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0203408/"
+        },
+        "name": "Very correct and good",
+        "reviewBody": "I bought this movie expecting it to be some corny and cheesy rendition of what might happen in the last days but upon viewing, I was surprised to find that it was very accurate.\n\nThe story line and plot were really well thought out and planned and the acting was superb."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Providence Entertainment",
+        "duration": "PT1M56S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2901868825",
+        "name": "The Omega Code",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjY2Y2ViNDUtZWIyOS00MjZhLTg5ZTctYmZmNDhjZjUzYmRiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjY2Y2ViNDUtZWIyOS00MjZhLTg5ZTctYmZmNDhjZjUzYmRiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:00:16Z",
+        "url": "https://www.imdb.com/video/vi2901868825/"
+    },
+    "url": "/title/tt0203408/"
+}

@@ -1,0 +1,83 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Chazz Palminteri",
+            "url": "/name/nm0001590/"
+        },
+        {
+            "@type": "Person",
+            "name": "Angela Alvarado",
+            "url": "/name/nm0023130/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jay O. Sanders",
+            "url": "/name/nm0761587/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1425,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0057429/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joseph F. O'Brien",
+            "url": "/name/nm0639635/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andris Kurins",
+            "url": "/name/nm0475728/"
+        },
+        {
+            "@type": "Person",
+            "name": "Laurence Shames",
+            "url": "/name/nm0787855/"
+        }
+    ],
+    "datePublished": "2005-07-19",
+    "description": "The story of the rise and fall of the powerful New York City organized crime boss, Paul Castellano.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Dwight H. Little",
+            "url": "/name/nm0514546/"
+        }
+    ],
+    "duration": "PT1H33M",
+    "genre": [
+        "Biography",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAwMTkzMDM2Nl5BMl5BanBnXkFtZTcwODE3MDMyMQ@@._V1_.jpg",
+    "keywords": "gambino crime family,paul castellano,john gotti,american mafia,mob boss",
+    "name": "Boss of Bosses",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "merc_man02"
+        },
+        "dateCreated": "2003-08-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0205782/"
+        },
+        "name": "Twenty-two shots from two guns - no reloads.",
+        "reviewBody": "This story has been modified for the screen without a doubt. For the assassination scene two eight-round semi-autos fired twenty-two shots with no visible reloads, leaving shell casings as evidence all over the place? Okay, so I have high standards for docudramas. The book this was based on was pretty good. It did not portray Paul Castellano as sympathetically as was done in the movie. For those with an interest in this story and no time to read it's okay, but don't kid yourself that this is the whole story."
+    },
+    "url": "/title/tt0205782/"
+}

@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jean Gabin",
+            "url": "/name/nm0300064/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michel Simon",
+            "url": "/name/nm0800302/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michèle Morgan",
+            "url": "/name/nm0006807/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9512,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "alternateName": "Port of Shadows",
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005865/"
+        },
+        {
+            "@type": "Person",
+            "name": "Pierre Mac Orlan",
+            "url": "/name/nm0241409/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jacques Prévert",
+            "url": "/name/nm0699535/"
+        }
+    ],
+    "datePublished": "1939-10-29",
+    "description": "A military deserter finds love and trouble (and a small dog) in a foggy, French port city.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Marcel Carné",
+            "url": "/name/nm0138893/"
+        }
+    ],
+    "duration": "PT1H31M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAzMDMwMjgzMl5BMl5BanBnXkFtZTgwOTgzMTI0NDE@._V1_.jpg",
+    "keywords": "barometer,reference to panama,reference to venezuela,port,ship",
+    "name": "Le quai des brumes",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "wjfickling"
+        },
+        "dateCreated": "2005-01-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0030643/"
+        },
+        "name": "Entertaining but overrated noir predecessor",
+        "reviewBody": "I know, I know, this isn't film noir, it's 'poetic realism.' Fine with me, but it's still an early example of noir to me. And while this film has many strong points, it's very easy to overrate it. For one thing, it's totally predictable. If you haven't figured out by the halfway point what's going to happen to the Gabin character, you just haven't been to very many movies. For another, the first half of the film is disjointed and just plain dull. However, after the halfway point it begins to pull itself together and ends up working rather well.\n\nOn to the strong points. Gabin is, well, Gabin. He is one of those rare screen presences who is watchable and enjoyable in anything. And Michele Morgan, who I don't recall seeing before, is beautiful, magnetic, and riveting. It's hard to believe that she was only 18 when she played in this film. And the tone of the film--downbeat, mildly depressing--is a healthy antidote to the relentlessly upbeat Hollywood productions of the time. And the downbeat tone is probably much more appropriate to 1938 as well.\n\nSome reviewers have criticized the sets. Personally, I think they worked. This film worked very hard to create an atmosphere, and for this the sets were perfect.\n\nThe film was also daring for its time, although perhaps not for the French. The Morgan character is strongly hinted to be a woman of easy virtue and, at a time when Hollywood was plagued by the Hayes code that prohibited even a hint of sexuality, there is a very obvious 'morning after' scene in which it is obvious that the Gabin and Morgan characters checked into a hotel room and spent the night together. There is even a scene after the morning after scene in which it is obvious that they are about to go at it again; Gabin grabs Morgan, they embrace and start to fall on the bed, and the scene fades out. Moreover, in an era when such things weren't even hinted at, there is a subtle suggestion that Morgan's godfather/caretaker may have molested her, and there is a less than subtle suggestion that he lusts for her. In these senses the film was way ahead of its time.\n\nDefinitely worth seeing. 8/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Port of Shadows",
+        "duration": "PT2M25S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1713289241",
+        "name": "Port of Shadows",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDk1ZjMwNmQtNDkxYi00NDE3LWExMjEtZWRlY2NmNTFmMjRmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDk1ZjMwNmQtNDkxYi00NDE3LWExMjEtZWRlY2NmNTFmMjRmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2018-03-21T18:20:13Z",
+        "url": "https://www.imdb.com/video/vi1713289241/"
+    },
+    "url": "/title/tt0030643/"
+}

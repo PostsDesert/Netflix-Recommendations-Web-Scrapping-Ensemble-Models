@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Joel McCrea",
+            "url": "/name/nm0566948/"
+        },
+        {
+            "@type": "Person",
+            "name": "Veronica Lake",
+            "url": "/name/nm0000043/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Warwick",
+            "url": "/name/nm0913094/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 27171,
+        "ratingValue": 7.9,
+        "worstRating": 1
+    },
+    "contentRating": "Passed",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Person",
+            "name": "Preston Sturges",
+            "url": "/name/nm0002545/"
+        }
+    ],
+    "datePublished": "1942-02-06",
+    "description": "Hollywood director John L. Sullivan sets out to experience life as a homeless person in order to gain relevant life experience for his next movie.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Preston Sturges",
+            "url": "/name/nm0002545/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYWUyYTFlMzUtYzUxNi00YjFhLWEyNzItMzdkZTNkNDE5OTFlXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg",
+    "keywords": "bindle stick,filmmaking,national film registry,falling from a train,church congregation",
+    "name": "Sullivan's Travels",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Xstal"
+        },
+        "dateCreated": "2020-11-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0034240/"
+        },
+        "name": "Sullivan's Travails...",
+        "reviewBody": "As original a piece from the 1940s as you'll likely come across and one where it could quite easily have found itself as knotted and gnarled as some of the boots seen pounding the highways and byways of its cast. Fortunately those pretentious rips fail to appear and it's the arrival of Veronica Lake that turns the ramble to a journey and an illustration as relevant today about the lack of opportunity we continually chose to turn a blind eye to. An interesting twist towards the end provides something to chew on and supports a finale that may well give you a little to smile about, maybe even a chuckle.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M51S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi41598745",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZGU0ZjIyYTItOTMzNi00MTI3LWJkZjAtNTg2Yjg4ZGQ1NmRiXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZGU0ZjIyYTItOTMzNi00MTI3LWJkZjAtNTg2Yjg4ZGQ1NmRiXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-01-13T19:39:33.807Z",
+        "url": "https://www.imdb.com/video/vi41598745/"
+    },
+    "url": "/title/tt0034240/"
+}

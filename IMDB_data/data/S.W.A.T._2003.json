@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Samuel L. Jackson",
+            "url": "/name/nm0000168/"
+        },
+        {
+            "@type": "Person",
+            "name": "Colin Farrell",
+            "url": "/name/nm0268199/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michelle Rodriguez",
+            "url": "/name/nm0735442/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 150195,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0011134/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0084122/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Hamner",
+            "url": "/name/nm0358842/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ron Mita",
+            "url": "/name/nm0593856/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim McClain",
+            "url": "/name/nm0572151/"
+        }
+    ],
+    "datePublished": "2003-08-08",
+    "description": "An imprisoned drug kingpin offers a huge cash reward to anyone that can break him out of police custody, and only the L.A.P.D.'s Special Weapons and Tactics team can prevent it.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Clark Johnson",
+            "url": "/name/nm0424800/"
+        }
+    ],
+    "duration": "PT1H57M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTVkMzllYjUtOTM2My00Y2QxLWI5Y2UtN2RlN2EyMTk2ZjQ5XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "female police officer,swat team,police,crime boss,police sergeant",
+    "name": "S.W.A.T.",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "rbverhoef"
+        },
+        "dateCreated": "2004-12-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0257076/"
+        },
+        "name": "For action fans",
+        "reviewBody": "'S.W.A.T.' is a movie that does nothing more than deliver. It promises nice action scenes and gives us some. They look pretty good, so I guess in that way I can recommend the movie. The story is, of course, about S.W.A.T., a respected part of the LAPD. We follow a team with leader Hondo (Samuel L. Jackson), Jim Street (Colin Farrell), Sanchez (Michelle Rodriguez), Deke (rapper LL Cool J), Boxer (Brian Van Holt) and T.J. (Josh Charles). They have to deal with a criminal named Alex Montel (Olivier Martinez) who offers 100 million dollars to the people who will help him escape from jail.\n\nThe movie opens with Jim Street and his partner Gamble (Jeremy Renner) saving people from bank robbers, but they do that after disobeying an order. Both are punished but Gamble thinks Street has betrayed him so Gamble leaves the fore while Street gets a job out of action. The movie continues six months later, leaving us with the feeling we will hear more from the Gamble-character. We feel correct. These facts, and may be that Street used to date Boxer's sister, are kind of important to know, although every event serves the action or the one-liners that are not that impressive.\n\nYes, events are implausible, but not in a way they become annoying. For actions fans the movie does exactly what we expect and what we want, entertaining enough. If you are normally not an action fan, only when it is done very good, I should skip 'S.W.A.T.'!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Tristar",
+        "duration": "PT2M30S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2894070041",
+        "name": "S.W.A.T.",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDMzMGY1NGYtNWQ0Ni00NTU4LTlmNTYtMDZiNWJmMmI3NTk1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDMzMGY1NGYtNWQ0Ni00NTU4LTlmNTYtMDZiNWJmMmI3NTk1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:40:51Z",
+        "url": "https://www.imdb.com/video/vi2894070041/"
+    },
+    "url": "/title/tt0257076/"
+}

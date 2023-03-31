@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Gregory Peck",
+            "url": "/name/nm0000060/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jennifer Jones",
+            "url": "/name/nm0428354/"
+        },
+        {
+            "@type": "Person",
+            "name": "Fredric March",
+            "url": "/name/nm0545298/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3879,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nunnally Johnson",
+            "url": "/name/nm0425913/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sloan Wilson",
+            "url": "/name/nm0934150/"
+        }
+    ],
+    "datePublished": "1956-05-08",
+    "description": "An ex-soldier faces ethical questions as he tries to earn enough to support his wife and children well.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Nunnally Johnson",
+            "url": "/name/nm0425913/"
+        }
+    ],
+    "duration": "PT2H33M",
+    "genre": [
+        "Drama",
+        "Romance",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMWQwN2MzOTUtZTI0Ni00NjRiLThiOTctYzZkM2QxYThlMjkyXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
+    "keywords": "new york city,melodrama,based on novel,executive,domestic affairs",
+    "name": "The Man in the Gray Flannel Suit",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "harry-76"
+        },
+        "dateCreated": "2003-09-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0049474/"
+        },
+        "name": "Powerhouse Cast in Fine Drama",
+        "reviewBody": "Ten years after Gregory Peck and Jennifer Jones lit up the screen with their torrid love-hate relationship in \"Duel in the Sun,\" they were reunited in this engrossing business-domestic drama.\n\nThe two were surrounded by a great cast, headed by Fredric March and Lee J. Cobb, to offer a sincere portrait of a junior Madison Avenue exec who must choose between being a \"big CEO\" or a \"second-tier nine-to-fiver\".\n\nDirector/screenwriter Nunnaly Johnson guided the actors in uniformly well-modulated performances, all deeply felt and cleanly expressed. Keenan Wynn offered a surprisingly subtle and touching performance as well, in a film produced by Darryl F. Zanuck, with a Bernard Herrmann score.\n\nWhat a treat it is to watch these fine thespians breathe life into most intriguing characters from Sloan Wilson's thoughtful novel.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for this film based on the best seller",
+        "duration": "PT1M56S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2087913241",
+        "name": "The Man In The Gray Flannel Suit",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzUwMzk5NzMtNjBkNi00Y2NmLWEzNTYtODdlZjIzNjI2MmY4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzUwMzk5NzMtNjBkNi00Y2NmLWEzNTYtODdlZjIzNjI2MmY4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-05-18T16:05:46Z",
+        "url": "https://www.imdb.com/video/vi2087913241/"
+    },
+    "url": "/title/tt0049474/"
+}

@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Denzel Washington",
+            "url": "/name/nm0000243/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Lithgow",
+            "url": "/name/nm0001475/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ice-T",
+            "url": "/name/nm0001384/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 19075,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0008693/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0008712/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0298897/"
+        },
+        {
+            "@type": "Person",
+            "name": "Fred Dekker",
+            "url": "/name/nm0215269/"
+        },
+        {
+            "@type": "Person",
+            "name": "Menno Meyjes",
+            "url": "/name/nm0583675/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steven E. de Souza",
+            "url": "/name/nm0211823/"
+        }
+    ],
+    "datePublished": "1991-10-04",
+    "description": "A District Attorney is terrorized by the criminal he put away years ago when he was a cop.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Russell Mulcahy",
+            "url": "/name/nm0611683/"
+        }
+    ],
+    "duration": "PT1H42M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTc3YzQ1MzEtNWM0OS00MWYyLTg3OTEtZmMzYWE1MjYwMWU3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "district attorney,escape from prison,tower,african american,empty swimming pool",
+    "name": "Ricochet",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "edwagreen"
+        },
+        "dateCreated": "2006-03-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0102789/"
+        },
+        "name": "Action Picture Fizzles Upon Impact **1/2",
+        "reviewBody": "Denzel Washington, a policeman in law-school is playing basketball with the neighborhood toughs.\n\nHe achieves fame by bringing down a drug dealing character, played extremely well by John Lithgow, who by his acting of a psychopath, put a new dimension into his acting abilities.\n\nWashington has it made as the years pass. Lithgow plots revenge while incarcerated and breaks out violently at his parole hearing.\n\nHe turns the tables on Washington in several ways including the killing of his friend and fellow officer, nice played by Kevin Pollak. Washington is blamed for the killing. He kidnaps Denzel and shoots drugs into his system and provides him with a prostitute.\n\nThe two eventually tangle on top of a high area before the obvious ending occurs.\n\nA good story allowed to go awry by crazy staged events.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT1M56S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2627666201",
+        "name": "Ricochet",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjJlODczNTUtN2RiYi00MWYyLTkyY2QtY2U3ZGQ1ODg3OTFkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjJlODczNTUtN2RiYi00MWYyLTkyY2QtY2U3ZGQ1ODg3OTFkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:35:53Z",
+        "url": "https://www.imdb.com/video/vi2627666201/"
+    },
+    "url": "/title/tt0102789/"
+}

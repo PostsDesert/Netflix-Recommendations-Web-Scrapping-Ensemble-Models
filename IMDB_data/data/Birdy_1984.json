@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Matthew Modine",
+            "url": "/name/nm0000546/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nicolas Cage",
+            "url": "/name/nm0000115/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Harkins",
+            "url": "/name/nm0363157/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 23879,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0062005/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0027536/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0005883/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Wharton",
+            "url": "/name/nm0923607/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sandy Kroopf",
+            "url": "/name/nm0472255/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jack Behr",
+            "url": "/name/nm0066986/"
+        }
+    ],
+    "datePublished": "1984-12-21",
+    "description": "After two friends return home from the Vietnam War one becomes mentally unstable and obsesses with becoming a bird.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Alan Parker",
+            "url": "/name/nm0000570/"
+        }
+    ],
+    "duration": "PT2H",
+    "genre": [
+        "Drama",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDEyMzJjZGQtZDhiOC00YjdmLTg1Y2ItZjA1MmFmNTFhYzRjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "vietnam war,mental illness,best friend,bird,obsession",
+    "name": "Birdy",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "pahool"
+        },
+        "dateCreated": "1999-09-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0086969/"
+        },
+        "name": "Great movie, great ending.",
+        "reviewBody": "This is one of my favorite movies of all time. It's such a great growing-up buddy flick. Despite the serious subject matter (shell-shocked, catatonic Vietnam vet in mental hospital), the movie manages to be very light-hearted for the most part, without discounting the gravity of the situation that the characters are in. It doesn't seek to use the war as a means of creating the identities of the characters, the war and the \"present situation\" in the film (most of the film is flashbacks) are more background to the story of two crazy Philly kids growing up together.\n\nThe movie is full of laughs that don't occur at the expense of the characters, but rather, bring you closer to them. I personally identified with Matthew Modine's character, and found myself laughing in spite of myself at some of his mishaps and wondering \"how did I ever survive being a teenager?\"\n\nModine plays Birdy flawlessly. His character, while strange, is certainly believable and definitely likeable. He's like the visionary mystic friend I never had! Nicholas Cage is equally good as Al, Birdy's more down-to-earth lady's man friend. Their friendship seems unlikely on the outside, but powerful and inevitable by the end of the movie.\n\nI think it's strange that some people didn't like the ending to Birdy. I think it's one of the best movie endings for a buddy film ever. It accurately reflects the tone of Birdy and Al's relationship more than any other ending possibly could. It ties their characters in the present in perfectly with the growing-up characters of the flashback sequences. Perfect!"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Tristar",
+        "duration": "PT2M36S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1840906521",
+        "name": "Birdy",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjY0MmVhNzQtNjcwYi00NmRkLTliNTctODE5ZjhkMmIzZjM3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjY0MmVhNzQtNjcwYi00NmRkLTliNTctODE5ZjhkMmIzZjM3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:35:34Z",
+        "url": "https://www.imdb.com/video/vi1840906521/"
+    },
+    "url": "/title/tt0086969/"
+}

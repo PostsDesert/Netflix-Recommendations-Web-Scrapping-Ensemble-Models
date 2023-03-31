@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "David Duchovny",
+            "url": "/name/nm0000141/"
+        },
+        {
+            "@type": "Person",
+            "name": "Orlando Jones",
+            "url": "/name/nm0428963/"
+        },
+        {
+            "@type": "Person",
+            "name": "Julianne Moore",
+            "url": "/name/nm0000194/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 131611,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0819670/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0118469/"
+        },
+        {
+            "@type": "Person",
+            "name": "Don Jakoby",
+            "url": "/name/nm0415979/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Diamond",
+            "url": "/name/nm0224606/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Weissman",
+            "url": "/name/nm0919289/"
+        }
+    ],
+    "datePublished": "2001-06-08",
+    "description": "A fire-fighting cadet, two college professors, and a geeky but sexy government scientist work against an alien organism that has been rapidly evolving since its arrival on Earth inside a meteor.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ivan Reitman",
+            "url": "/name/nm0718645/"
+        }
+    ],
+    "duration": "PT1H41M",
+    "genre": [
+        "Comedy",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTU3YjhjZmItNzBjNi00YWVjLWE0ZGQtNGY1NTFmMDczMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "shampoo,alien,chase,hero,helicopter",
+    "name": "Evolution",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Keyser Soze-12"
+        },
+        "dateCreated": "2001-06-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0251075/"
+        },
+        "name": "Think Ghostbusters with aliens, the heart and mood of Galaxy Quest, better special effects, and Orlando Jones.",
+        "reviewBody": "Let me say this: I was never a fan of Ghostbusters. I guess I never got in on the bandwagon on that one. I never found it to be as funny as a lot of people (tons of people actually) found it. I thought parts of it were cool (like the Stay Puff Marshmallow Man), but most of the movie was too drab for me, for some reason. Someday I'll write a review of it, but I'm too lazy to do it right now. \n\nWhy am I talking about Ghostbusters when I'm reviewing Evolution, some of you ask? Well, it's simple. The same man directs both movies (Ivan Reitman) and both movies have very similar plots. Except that, in my opinion, Evolution is better. Basically, think of Evolution as a remake of Ghostbusters only throw out the ghosts and put in aliens, which I like because aliens, in my opinion, are cooler and more realistic than ghosts.\n\nLet me mention some bad stuff, just to get it over with because I have to do at some point. This movie misses some serious opportunities to be funny. Sometimes, when you are expecting a joke, there is none. It's almost as if they really weren't trying. Sometimes the jokes are a little corny.\n\n One last bad note: some of the aliens suck. The ending alien is a bit of a let down. It kind of reminded me of Akira, if you've seen that movie. There is also this cute alien who turns out to be nasty via the \"mouth within a mouth\", a la Ridley Scott's Alien.\n\nNow on to some good stuff. This movie is really funny in a happy kind of way. I compare the mood of this movie to another Dreamworks alien-comedy, Galaxy Quest (a movie I thought was hilarious). If you liked Galaxy Quest, and I think most people did, then you will like Evolution.\n\nSomething else I would like to point out is how scientific Evolution is. The movie seems very intelligent as far as talking about how the aliens evolve. I for one and happy to see a movie that isn't completely dumbed down for the uneducated. I like alien stuff and space stuff, so this kind of science interests me. Overall, I found Evolution to be very intriguing apart from being funny.\n\nOh, I want to mention Orlando Jones. He's the black guy from those 7-Up commercials. I love this guy. He steals the show in this movie. I knew the guy was great ever since I saw the first of those 7-Up commercials. He was also in the Replacements (that lame football comedy which was also somewhat entertaining), and he's probably been in some other stuff I haven't seen or can't remember. But let me tell you, this guy is going places. As for the other actors, they're decent. I like the touch of having David Duchovny on board. Julian Moore is a good actress, but she got shafted in the character department. She has a basic \"walking cardboard cutout\" character with little personality. Oh well.\n\nIn conclusion, please do me a favor of not going into this movie expecting a great movie. Why do people do that? Every movie can't be the Godfather or 2001 or Saving Private Ryan, so why don't you just shut up and enjoy the movie. You won't look back at Evolution at the end of the summer as you favorite summer movie this year, but you're not supposed to. Evolution was made to be entertaining, not great. It was made to give you your money's worth and put forth an enjoyable show. I think it accomplishes its mission.\n\n7/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT2M21S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2997027097",
+        "name": "Evolution (2001)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzNmNDQ0ZWQtMWRjNy00NjRjLWJlNWMtOTUzZWYxYzdlZmY0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzNmNDQ0ZWQtMWRjNy00NjRjLWJlNWMtOTUzZWYxYzdlZmY0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:56:07Z",
+        "url": "https://www.imdb.com/video/vi2997027097/"
+    },
+    "url": "/title/tt0251075/"
+}

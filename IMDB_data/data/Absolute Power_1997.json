@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Clint Eastwood",
+            "url": "/name/nm0000142/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gene Hackman",
+            "url": "/name/nm0000432/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ed Harris",
+            "url": "/name/nm0000438/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 57208,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0040620/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0010258/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Baldacci",
+            "url": "/name/nm0049641/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Goldman",
+            "url": "/name/nm0001279/"
+        }
+    ],
+    "datePublished": "1997-02-14",
+    "description": "Career thief Luther Whitney (Clint Eastwood) witnesses a horrific crime involving U.S. President Alan Richmond (Gene Hackman).",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Clint Eastwood",
+            "url": "/name/nm0000142/"
+        }
+    ],
+    "duration": "PT2H1M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDFlNTZmOGYtYmE0ZC00OTE4LWI5YzctNmZmZDU3M2ZiMmI4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "keywords": "stag,hot wife,murder,death of wife,death",
+    "name": "Absolute Power",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "CuriosityKilledShawn"
+        },
+        "dateCreated": "2000-06-15",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0118548/"
+        },
+        "name": "Corrupts absolutely",
+        "reviewBody": "Absolute Power may not be an overly special film but it was the first movie I saw in the cinema after leaving high school. I was certainly not the target audience but it had my attention from the first scene and maintained the suspense for the during of the running time, even if it doesn't build to much.\n\nClint Eastwood plays Luther Whitney, an expert thief who targets billionaire industrialist Walter Sullivan (grouchy old EG Marshall, in his last theatrical movie) while he is off on vacation. While in the midst of cleaning out the vault the President of the United States (Gene Hackman) enters the room with Sullivan's wife. Whitney hides in the vault, which has a two-way mirror, and witnesses the President get a little too rough with the woman, which ends in her fighting him off and being murdered by the secret service. The Chief of Staff concocts a plan to cover up the murder not knowing that Whitney is watching the whole thing. As the group leave he escapes, taking a crucial piece of evidence with him.\n\nInitially unsure what to do, Whitney decides to taunt the President, though it's not clear what his complete plan is or even if he's just free-forming. If one should fault Absolute Power for any reason it's that it establishes a lot of plot and potential but never really does anything with it and ends with an anti-climactic cop-out.\n\nWhere it succeeds is with the small cast of characters who really make the dialogue and relationships work. Ed Harris as the confused but dedicated cop investigating the case, Laura Linney as Whitney's resentful daughter, and the austere Scott Glenn as the self-doubting agent make every scene effortless even when there's not much happening.\n\nAdapted from (and streamlined and improved in the process) the bloated novel by David Baldacci (I call them 'Airport novels' – those 600-page bricks with generic covers featuring nothing but the title and author in giant gold letters in a tacky font) the screenplay makes many changes but they are all for the better. Eastwood's direction is slow and steady – or 'mature'. The pace and framing is the antidote for anyone bored to tears with the nauseating aesthetic of today's comic-book movies and CGI nightmares.\n\nA curious thing about the beginning of the movie is that Clint Eastwood only has 2 lines of dialogue for the entire 35 minutes. I don't understand why he didn't cut them out and remain silent, which would give the film a peculiar edge.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT28S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi431292697",
+        "name": "Absolute Power",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzhlMGIzZmQtMTQ3MS00ZjBlLWEwYzQtMjRjYjY1MjRjYThkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzhlMGIzZmQtMTQ3MS00ZjBlLWEwYzQtMjRjYjY1MjRjYThkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T08:38:14Z",
+        "url": "https://www.imdb.com/video/vi431292697/"
+    },
+    "url": "/title/tt0118548/"
+}

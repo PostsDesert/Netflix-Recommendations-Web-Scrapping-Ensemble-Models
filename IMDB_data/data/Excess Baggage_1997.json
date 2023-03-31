@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Alicia Silverstone",
+            "url": "/name/nm0000224/"
+        },
+        {
+            "@type": "Person",
+            "name": "Benicio Del Toro",
+            "url": "/name/nm0001125/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christopher Walken",
+            "url": "/name/nm0000686/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 13806,
+        "ratingValue": 5.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0013494/"
+        },
+        {
+            "@type": "Person",
+            "name": "Max D. Adams",
+            "url": "/name/nm0011206/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dick Clement",
+            "url": "/name/nm0166074/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ian La Frenais",
+            "url": "/name/nm0478588/"
+        }
+    ],
+    "datePublished": "1997-08-29",
+    "description": "A bratty teenager fakes her own kidnapping, but gets mistakenly kidnapped for real instead.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Marco Brambilla",
+            "url": "/name/nm0104193/"
+        }
+    ],
+    "duration": "PT1H41M",
+    "genre": [
+        "Action",
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODNhMWY5NTctZTU2MS00NzRiLTk2MjktNmUyMTQ3Yzk0MTQ0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "fake kidnapping,ransom,millionaire,attention seeking,sports car",
+    "name": "Excess Baggage",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dedjim"
+        },
+        "dateCreated": "2003-09-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0119086/"
+        },
+        "name": "Pleasant, fun comedy, nothing more or less",
+        "reviewBody": "Lots of dissing for both Alicia and Benicio but it seems disingenuous. This is not a profound film but it IS a fun one. Nice photography, a plot that has a good rhythm and tempo, engaging characters that are well acted and clever film devices (for one, the conflict regarding her smoking that set up the plot complication in the first place). Walken is great as usual as a character both scary AND endearing. Spark a blunt, open a beer and enjoy this silly but fun little flick.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Pictures",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi312869145",
+        "name": "Excess Baggage",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTNjNWViMzAtZWJlOS00OTRlLWJmMjctZTBjY2E2YTQwNDljXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTNjNWViMzAtZWJlOS00OTRlLWJmMjctZTBjY2E2YTQwNDljXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:03:11Z",
+        "url": "https://www.imdb.com/video/vi312869145/"
+    },
+    "url": "/title/tt0119086/"
+}

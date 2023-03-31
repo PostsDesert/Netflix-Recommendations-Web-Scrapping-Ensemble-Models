@@ -1,0 +1,83 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Paul von Hindenburg",
+            "url": "/name/nm0902438/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4558,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "alternateName": "Berlin: Symphony of a Great City",
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0009803/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0148490/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carl Mayer",
+            "url": "/name/nm0562346/"
+        },
+        {
+            "@type": "Person",
+            "name": "Walter Ruttmann",
+            "url": "/name/nm0752193/"
+        },
+        {
+            "@type": "Person",
+            "name": "Karl Freund",
+            "url": "/name/nm0005713/"
+        }
+    ],
+    "datePublished": "1928-05-13",
+    "description": "This movie shows us one day in Berlin, the rhythm of that time, starting at the earliest morning and ends in the deepest night.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Walter Ruttmann",
+            "url": "/name/nm0752193/"
+        }
+    ],
+    "duration": "PT1H5M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjM4Y2ZiZTQtNzI5ZC00Y2Y2LWE1NWMtNmJmOGIwOTI0ODU5XkEyXkFqcGdeQXVyMjA0MzYwMDY@._V1_.jpg",
+    "keywords": "city symphony,train station,city life,horse and carriage,city",
+    "name": "Berlin - Die Sinfonie der Großstadt",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "peapulation"
+        },
+        "dateCreated": "2009-09-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0017668/"
+        },
+        "name": "One of the best 'slice of life' documentaries that doesn't age but keeps getting better and better.",
+        "reviewBody": "An amazing work of the 'slice of life' films of the 20s, really the main and most admirable example along with Dziga vertov's Man With the Movie Camera, to this day, the film remains an effective portrayal of the great city that Berlin was even back when the film was made. In fact, as time goes by, it picks up even greater importance because of the historical value that it holds.\n\nWhat is truly admirable is the editing and the cinematography. Perhaps even more than the things that are contained in the framework, is the framework itself which has the first impact on the viewer. The wonderful photography, and the skilled editing that is able to go from man to machine, from trains to horses, from workmen to roller-coaster rids, are always elegant and original, even in regards to Vertov's later work mentioned above. It is, in fact, stylistically a Ruttmann work. Although the work of Vertov and Ruttmann are similar, there is a difference in the sense that while The man With the Movie Camera is aware of being a film, and plays with the process of film-making, Berlin actually lets the contents of the framework play out, and never quite interferes with it.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0017668/"
+}

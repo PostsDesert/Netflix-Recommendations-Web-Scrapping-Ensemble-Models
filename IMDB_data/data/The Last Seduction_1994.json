@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Linda Fiorentino",
+            "url": "/name/nm0000400/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Berg",
+            "url": "/name/nm0000916/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Pullman",
+            "url": "/name/nm0000597/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 24231,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103220/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve Barancik",
+            "url": "/name/nm0052964/"
+        }
+    ],
+    "datePublished": "1994-10-26",
+    "description": "A devious sexpot steals her husband's drug money and hides out in a small town where she meets the perfect dupe for her next scheme.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Dahl",
+            "url": "/name/nm0001093/"
+        }
+    ],
+    "duration": "PT1H50M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZmYwYWRhY2MtNTU3NS00M2E0LWI5YjUtY2M1NGJkM2Y4NTdmXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_.jpg",
+    "keywords": "seduction,femme fatale,erotic thriller,murder plot,rough sex",
+    "name": "The Last Seduction",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "chaewon"
+        },
+        "dateCreated": "2001-06-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0110308/"
+        },
+        "name": "An incredible woman's story.",
+        "reviewBody": "Beautiful and smart Bridget who manipulates her husband and an innocent country man gets ahead of a major movie. Clever, unexpected, unpredictable. You could be charmed by her beauty and boldness planning a killing in her mind at the beginning. Check out the last moment by yourself. First of all, a brilliant script. And casting as not first class but talented Linda Fiorentino, Bill pullman, Peter berg is followed well by excellent directing."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from October Films",
+        "duration": "PT2M16S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3170173209",
+        "name": "The Last Seduction",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNGYwZWM5NzYtZmJkZi00MWNmLTliMTAtNjQ2Y2M2ODNmOGM5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNGYwZWM5NzYtZmJkZi00MWNmLTliMTAtNjQ2Y2M2ODNmOGM5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:53:15Z",
+        "url": "https://www.imdb.com/video/vi3170173209/"
+    },
+    "url": "/title/tt0110308/"
+}

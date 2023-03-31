@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kenneth Branagh",
+            "url": "/name/nm0000110/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Grillo",
+            "url": "/name/nm0342038/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Humpoletz",
+            "url": "/name/nm0402105/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2958,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0056790/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0051111/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0103528/"
+        }
+    ],
+    "datePublished": "2002-04-07",
+    "description": "The true story of Shackleton's 1914 Endurance expedition to the South Pole, and his epic struggle to lead his twenty-eight man crew to safety after his ship was crushed in the pack ice.",
+    "genre": [
+        "Adventure",
+        "Biography",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI4NzE4NTQ5OV5BMl5BanBnXkFtZTcwMDEzMjQyMQ@@._V1_.jpg",
+    "keywords": "extreme,icy waters,cold the temperature,cold weather,naval",
+    "name": "Shackleton",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Popey-6"
+        },
+        "dateCreated": "2002-01-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0272839/"
+        },
+        "name": "Authenticity reigns",
+        "reviewBody": "Screened in two parts, each of two hours this made-for-television film is a must see for anyone wanting to know more about the voyage of the Endurance in 1914 and Sir Ernest Shackleton's attempt to be the first to journey directly across the Antarctic continent.\n\nThis drama was very polished in all respects, right down to the authenticity of the camera angle that the expedition's photographer Frank Hurley used when we was on the trip. Branagh is probably the best choice to play Shackleton and he supported by an able cast, who it has to be said, do not get to share very much of his limelight. But then this is a very remarkable story about a very remarkable leader of men and the sheer power of the courage displayed, together with the stunning visuals makes up for the lengthy first half, based mostly in Britain.\n\nThis is a powerful drama with a fine supporting cast. Overlong in places but for their patience, the viewer is rewarded with detailed authenticity and first class entertainment.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Adventure Collection, The: Shackleton",
+        "duration": "PT1M1S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3416243225",
+        "name": "Adventure Collection, The: Shackleton",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTlkMjJkMzEtYTRmMC00YWE2LTg2ZGMtMmNmOWJhMzZlZTExXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTlkMjJkMzEtYTRmMC00YWE2LTg2ZGMtMmNmOWJhMzZlZTExXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2019-04-22T20:53:54.841Z",
+        "url": "https://www.imdb.com/video/vi3416243225/"
+    },
+    "url": "/title/tt0272839/"
+}

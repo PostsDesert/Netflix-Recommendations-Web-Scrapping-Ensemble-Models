@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Burt Reynolds",
+            "url": "/name/nm0000608/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dolly Parton",
+            "url": "/name/nm0000573/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dom DeLuise",
+            "url": "/name/nm0001123/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 12612,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0050028/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0072409/"
+        },
+        {
+            "@type": "Person",
+            "name": "Larry L. King",
+            "url": "/name/nm0454979/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Masterson",
+            "url": "/name/nm0557751/"
+        },
+        {
+            "@type": "Person",
+            "name": "Colin Higgins",
+            "url": "/name/nm0383359/"
+        }
+    ],
+    "datePublished": "1982-07-23",
+    "description": "A town's Sheriff and regular patron of a historical whorehouse fights to keep it running when a television reporter targets it as the Devil's playhouse.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Colin Higgins",
+            "url": "/name/nm0383359/"
+        }
+    ],
+    "duration": "PT1H54M",
+    "genre": [
+        "Comedy",
+        "Musical"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BM2Y3M2Y1MzUtNWViYi00YzZjLWE0YzUtMWVjYzc2YjI3Y2I2L2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "woman wears stockings and a garter belt,woman wears lingerie,prostitute,brothel,big breasts",
+    "name": "The Best Little Whorehouse in Texas",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "LeRoyMarko"
+        },
+        "dateCreated": "2005-04-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0083642/"
+        },
+        "name": "Just the right dose of Southern Comfort",
+        "reviewBody": "Surprisingly good musical about the infamous \"Chicken Ranch\". The women are pretty, the songs are good, the dancing is OK. I wasn't expecting much, but I found the movie enjoyable, even fun to watch. Burt Reynolds and Dolly Parton both give good performances. Great songs by Parton. She sings \"I Will Always Love You\" even better than Whitney. Another good song: \"Sneaking Around with You\" by both Parton and Reynolds. He sings! \n\nGet over the title and rent this one. I actually got the movie from my local public library. The movie does make some kind of statement on the issue of prostitution, but also on the power of the media. But don't expect lengthy analysis! \n\nSeen at home, in Toronto, on April 20th, 2005. I first saw this movie in the early eighties.\n\n79/100 (***)",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A town's Sheriff and regular patron of a historical whorehouse fights to keep it running when a television reporter targets it as the Devil's playhouse.",
+        "duration": "PT1M11S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4023763225",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOGE3OTdmMDEtZmEyNy00ODM1LTkyYjEtYTNjMzI4ODc4NThmXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGE3OTdmMDEtZmEyNy00ODM1LTkyYjEtYTNjMzI4ODc4NThmXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-11-04T11:23:01.681Z",
+        "url": "https://www.imdb.com/video/vi4023763225/"
+    },
+    "url": "/title/tt0083642/"
+}

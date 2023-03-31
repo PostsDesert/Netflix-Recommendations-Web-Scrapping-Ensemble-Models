@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ralph Fiennes",
+            "url": "/name/nm0000146/"
+        },
+        {
+            "@type": "Person",
+            "name": "Juliette Binoche",
+            "url": "/name/nm0000300/"
+        },
+        {
+            "@type": "Person",
+            "name": "Willem Dafoe",
+            "url": "/name/nm0000353/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 193915,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0022594/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0034657/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Ondaatje",
+            "url": "/name/nm0648546/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anthony Minghella",
+            "url": "/name/nm0005237/"
+        }
+    ],
+    "datePublished": "1996-12-06",
+    "description": "At the close of World War II, a young nurse tends to a badly-burned plane crash victim. His past is shown in flashbacks, revealing an involvement in a fateful love affair.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Anthony Minghella",
+            "url": "/name/nm0005237/"
+        }
+    ],
+    "duration": "PT2H42M",
+    "genre": [
+        "Drama",
+        "Romance",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTkxZTdkNTQtM2QwOS00NzRlLWEyMGItYTcxOTE4NTgyNGVhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "patient,nurse,english,flashback,church",
+    "name": "The English Patient",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "littlemartinarocena"
+        },
+        "dateCreated": "2009-05-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0116209/"
+        },
+        "name": "Anthony Minghella's Heart and Mind",
+        "reviewBody": "It is a strangely powerful and moving experience to see \"The English Patient\" again after Anthony Minghella's death. Most of his body of work is dedicated to one shattering point. The endless moral struggle of those who, consciously, walk a very thin line. In \"The Talented Mr Ripley\" Minghella moves away from Patricia Highsmith's amoral Tom Ripley to give the murderer a conscience. In \"Breaking And Entering\" Minghella gives Jude Law's character the need to confess and the rewards are chillingly moving. Here, in \"The English Patient\", the characters in love are never too far away from their corroding feeling of guilt. Ralph Finnes and Kristin Scott Thomas are extraordinary. They strip their characters from every pretense in a compelling complicity with us, the audience. Juliette Binoche is, quite simply, spectacular and her scenes with the wonderful Naveen Andrews are filled with a \"Minghellian\" sensual innocence. Anthony Minghella gave us films that were,one way or another, that elusive mix of art and commerce. He was true to himself but thought about his audience. He knew how to push our buttons without betraying his own. There is something clear, honest and startling about Minghella's opus. I miss him already but I'm grateful for the reflection of his soul he left behind.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for The English Patient",
+        "duration": "PT1M42S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi561882649",
+        "name": "The English Patient",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjU5YjA1MGMtOTJlZi00MzQzLTgxYWQtZGNlNjI0NzgyZmY4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjU5YjA1MGMtOTJlZi00MzQzLTgxYWQtZGNlNjI0NzgyZmY4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2013-05-31T04:32:42Z",
+        "url": "https://www.imdb.com/video/vi561882649/"
+    },
+    "url": "/title/tt0116209/"
+}

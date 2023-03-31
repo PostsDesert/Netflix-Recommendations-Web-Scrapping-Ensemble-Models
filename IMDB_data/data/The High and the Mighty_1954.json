@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Wayne",
+            "url": "/name/nm0000078/"
+        },
+        {
+            "@type": "Person",
+            "name": "Claire Trevor",
+            "url": "/name/nm0872456/"
+        },
+        {
+            "@type": "Person",
+            "name": "Laraine Day",
+            "url": "/name/nm0206478/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6135,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0083866/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ernest K. Gann",
+            "url": "/name/nm0304418/"
+        }
+    ],
+    "datePublished": "1954-07-03",
+    "description": "When a commercial airliner develops engine problems on a trans-Pacific flight and the pilot loses his nerve, it is up to the washed-up co-pilot Dan Roman to bring the plane in safely.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "William A. Wellman",
+            "url": "/name/nm0920074/"
+        }
+    ],
+    "duration": "PT2H27M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDJkZjIyMTgtYjdlOC00MDY2LTg5MzQtNzc4MmFmMzJjNjRiXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "keywords": "airplane accident,based on novel,dysfunctional marriage,stewardess,pilot",
+    "name": "The High and the Mighty",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dtucker86"
+        },
+        "dateCreated": "2003-09-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0047086/"
+        },
+        "name": "I've Got it",
+        "reviewBody": "I was just sitting in my barrack's room watching this film today and I am so lucky to have it. It is a priceless treasure and it is what a great film is all about. It is a classic and I wish that everyone could see it. I cannot believe how selfish and wrong John Wayne's family are to keep the public from seeing this classic. SHAME ON THEM!!!!They are hiding a priceless treasure from all of us. THIS IS JOHN WAYNE\"S FINEST FILM EVER!!!!He won an Academy Award for True Grit and should have won one for his portrayal of Dan Roman in this film. In 1988, they re-released The Manchurian Candidate so that a whole new generation of film goers could enjoy its greatness. They should do the same to this film. They should get the finest film technicians available to do a restoration of it and release it so that people today could see what a great film is. Look at the movies they come out with today, all the filth and violence and filty words they use. It is a disgrace. All the actors in this film do an amazing job."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Warner Bros. Pictures",
+        "duration": "PT2M53S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3981443097",
+        "name": "The High And Mighty",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZGQ3YjI4ODctOTBkNi00YmM0LTg0OGItZjUxMDkxNjE5MzRiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZGQ3YjI4ODctOTBkNi00YmM0LTg0OGItZjUxMDkxNjE5MzRiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-10-30T03:51:54Z",
+        "url": "https://www.imdb.com/video/vi3981443097/"
+    },
+    "url": "/title/tt0047086/"
+}

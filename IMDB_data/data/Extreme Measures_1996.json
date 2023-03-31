@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Hugh Grant",
+            "url": "/name/nm0000424/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gene Hackman",
+            "url": "/name/nm0000432/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sarah Jessica Parker",
+            "url": "/name/nm0000572/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 20019,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0040620/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0033739/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0054775/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Palmer",
+            "url": "/name/nm0658375/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tony Gilroy",
+            "url": "/name/nm0006904/"
+        }
+    ],
+    "datePublished": "1996-09-27",
+    "description": "A young doctor confronts a famous colleague when he learns about the true methods of his work.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Apted",
+            "url": "/name/nm0000776/"
+        }
+    ],
+    "duration": "PT1H58M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZWVlMmJhYWUtMzc1ZC00OGY2LTk2YmItMTM4NmMyYzA3YjAyXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_.jpg",
+    "keywords": "hospital,doctor,neo noir,based on novel,homeless man",
+    "name": "Extreme Measures",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "helpless_dancer"
+        },
+        "dateCreated": "2000-01-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0116259/"
+        },
+        "name": "Reminded me of a Robin Cook novel",
+        "reviewBody": "Very exciting film with lots of surprises. Not really all that original, I have run across the story of the mad doctor wanting to play God before. Still it was well done, and the ending left me wondering..... Hugh Grant and Gene Hackman were, as usual, flawless in their performances, as was the entire cast.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Pictures",
+        "duration": "PT2M9S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1017512217",
+        "name": "Extreme Measures",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMGZmMTEwYWMtODFkNy00ZDdhLThlODQtYjFiNzBhNDk2NDM3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMGZmMTEwYWMtODFkNy00ZDdhLThlODQtYjFiNzBhNDk2NDM3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:03:29Z",
+        "url": "https://www.imdb.com/video/vi1017512217/"
+    },
+    "url": "/title/tt0116259/"
+}

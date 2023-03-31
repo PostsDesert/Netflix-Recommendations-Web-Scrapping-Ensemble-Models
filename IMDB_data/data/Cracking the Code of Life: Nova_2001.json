@@ -1,0 +1,79 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVEpisode",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Paul Allen",
+            "url": "/name/nm0020885/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Krulwich",
+            "url": "/name/nm0472690/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 24,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "TV-PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0070403/"
+        },
+        {
+            "@type": "Person",
+            "name": "Elizabeth Arledge",
+            "url": "/name/nm1768154/"
+        },
+        {
+            "@type": "Person",
+            "name": "Julia Cort",
+            "url": "/name/nm1449006/"
+        }
+    ],
+    "datePublished": "2001-04-17",
+    "description": "The effort to decipher the 3-billion-letter human genome is one of the biggest stories in the history of science. In this collaborative production with WGBH's NOVA, host Robert Krulwich of ABC's Nightline follows the highly-public...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Elizabeth Arledge",
+            "url": "/name/nm1768154/"
+        }
+    ],
+    "duration": "PT2H",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTJkYmM3YmItZDY1NC00OTU3LWIxNDMtNzVhOWQzNDMyNmI0XkEyXkFqcGdeQXVyODQ1NTk5OQ@@._V1_.jpg",
+    "keywords": "genome,f rated",
+    "name": "Cracking the Code of Life",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Noah_Biondi"
+        },
+        "dateCreated": "2022-03-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0961812/"
+        },
+        "name": "You're not in Kansas anymore!",
+        "reviewBody": "Cracking the Code of Life is the greatest film I've ever seen. The cinematography is absolutely phenomenal and uses tight close ups to emphasize tension between the family and the dying baby, and I also found this to be a very informative documentary. I especially like the part where they said \"Protein Business\". It was very cool.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "timeRequired": "PT2H",
+    "url": "/title/tt0961812/"
+}

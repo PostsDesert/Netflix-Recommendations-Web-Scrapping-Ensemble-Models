@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tobey Maguire",
+            "url": "/name/nm0001497/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kirsten Dunst",
+            "url": "/name/nm0000379/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alfred Molina",
+            "url": "/name/nm0000547/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 666158,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0095134/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0095403/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stan Lee",
+            "url": "/name/nm0498278/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve Ditko",
+            "url": "/name/nm0228492/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alfred Gough",
+            "url": "/name/nm0332184/"
+        }
+    ],
+    "datePublished": "2004-06-30",
+    "description": "Peter Parker is beset with troubles in his failing personal life as he battles a brilliant scientist named Doctor Otto Octavius.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Sam Raimi",
+            "url": "/name/nm0000600/"
+        }
+    ],
+    "duration": "PT2H7M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "peter parker character,superhero action,older actors younger roles,aunt may character,spider man character",
+    "name": "Spider-Man 2",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "kirk-246"
+        },
+        "dateCreated": "2009-07-15",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0316654/"
+        },
+        "name": "Outstanding sequel.",
+        "reviewBody": "The first and third 'Spider-Man' movies were simply fantastic.But it gets even better with 'Spider-Man 2'. It's full of action, has plenty of adventure, and is full of award winning special effects.Like any other super hero sequel, there's always a new villain.The villains name in 'Spider-Man 2' is Dr. Octopus.AKA Doc Ock.He has 4 mechanical tentacles that can flip cars and throw people at great distances.Does he remind you of anything? Of course he does.What does he remind you of? An Octopus... Duh.It may sound kind of stupid, but Doc Ock's character actually helps the movie become a 2 hour roller-coaster ride of a movie.Just remember that Spider-Man can do whatever a spider can.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Sony Pictures Home Entertainment",
+        "duration": "PT2M35S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi629801241",
+        "name": "Spider-Man 2",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYWZmNmMyMjUtMjA2ZC00MjMxLTk1NTEtMjdhYmYxNWUxZTRjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYWZmNmMyMjUtMjA2ZC00MjMxLTk1NTEtMjdhYmYxNWUxZTRjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:13:42Z",
+        "url": "https://www.imdb.com/video/vi629801241/"
+    },
+    "url": "/title/tt0316654/"
+}

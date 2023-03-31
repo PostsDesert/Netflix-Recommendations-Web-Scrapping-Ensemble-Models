@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Clint Eastwood",
+            "url": "/name/nm0000142/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charlie Sheen",
+            "url": "/name/nm0000221/"
+        },
+        {
+            "@type": "Person",
+            "name": "Raul Julia",
+            "url": "/name/nm0000471/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 28052,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0010258/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0066672/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0018183/"
+        },
+        {
+            "@type": "Person",
+            "name": "Boaz Yakin",
+            "url": "/name/nm0945026/"
+        },
+        {
+            "@type": "Person",
+            "name": "Scott Spiegel",
+            "url": "/name/nm0818547/"
+        }
+    ],
+    "datePublished": "1990-12-07",
+    "description": "A veteran detective is assigned a rookie partner after his previous partner is killed by a car theft gang. He is determined to apprehend those responsible for his friend's death but his new partner isn't really up to the task.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Clint Eastwood",
+            "url": "/name/nm0000142/"
+        }
+    ],
+    "duration": "PT2H",
+    "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOGE2ZjQ3MmUtM2ZkNS00MjAxLTg1NzktNmVjNzZiMmU0MDU4XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",
+    "keywords": "rookie cop,police officer,shootout in an airport,explosion,tough cop",
+    "name": "The Rookie",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "scribbles241"
+        },
+        "dateCreated": "2001-07-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0100514/"
+        },
+        "name": "Not one of Eastwood's brighter moments",
+        "reviewBody": "This is one of the low points of Clint Eastwood's directorial career: A by-the-numbers action movie that is partly tongue-in-cheek, but only genuinely funny when Charlie Sheen tries to play the tough guy role and fails miserably. The utterly ridiculous plot is stock cop/buddy/action movie formula with Eastwood as the gruff take-no-prisoners veteran paired with a rookie (Sheen) who has a tragic past. The movie is way too long (2 hours) for such a predictable storyline and pads itself out with a ridiculous scene in which the villainess (played by Sonia Braga) tries to seduce the tied-up Eastwood. How lame is this movie? In one scene Sheen is shot repeatedly in the back and presumed dead, until he (predictably) comes out of a doorway minutes later, dazed and holding his jacket in his hand with his bullet proof vest exposed to show how they absorbed the bullets. Now, why on earth would he have removed his jacket? There's no reason at all, except for him to show the movie audience that he was wearing a bulletproof vest!\n\nProbably in response to the then-success of such macho action heroes as Stallone and Schwarzenneger, Eastwood pumps up the violence and testosterone to ridiculous levels, none moreso than when Sheen takes on a bar full of rowdy customers and ends up demolishing the place in an unintentionally hilarious sequence that depicts his transformation from uptight rich kid to macho supercop. Eastwood does a reasonably amusing spoof of his Dirty Harry character, but the late Raul Julia is saddled with a one-dimensional villain that does him little justice."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Warner Bros. Pictures",
+        "duration": "PT1M56S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1760755993",
+        "name": "The Rookie",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNGQxZDUyYWEtMTdmNy00ZGVkLTk5OGItM2I4MWEzZTU5OWM5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNGQxZDUyYWEtMTdmNy00ZGVkLTk5OGItM2I4MWEzZTU5OWM5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:45:57Z",
+        "url": "https://www.imdb.com/video/vi1760755993/"
+    },
+    "url": "/title/tt0100514/"
+}

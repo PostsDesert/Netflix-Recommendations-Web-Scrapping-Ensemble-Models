@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Max Lloyd-Jones",
+            "url": "/name/nm1682827/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Willson",
+            "url": "/name/nm1683085/"
+        },
+        {
+            "@type": "Person",
+            "name": "Samantha Burton",
+            "url": "/name/nm1683139/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5590,
+        "ratingValue": 4.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0010224/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0239940/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Mickey Evans",
+            "url": "/name/nm0262693/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Gunter",
+            "url": "/name/nm0348363/"
+        }
+    ],
+    "datePublished": "2005-05-03",
+    "description": "A film about a group of young baseball-enthusiasts who test the terrifying myth of Mr. Mertle owning a freakishly large and dangerous dog in his backyard.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David Mickey Evans",
+            "url": "/name/nm0262693/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Comedy",
+        "Family",
+        "Sport"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI5MjY1NjE4MV5BMl5BanBnXkFtZTcwOTcwMjgyMQ@@._V1_.jpg",
+    "keywords": "remake,close up of eyes,deaf boy,cat,year 1972",
+    "name": "The Sandlot 2",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jcam90502"
+        },
+        "dateCreated": "2005-07-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0418131/"
+        },
+        "name": "The Sandlot - Wannabe",
+        "reviewBody": "Being a big fan of the original movie, which is a classic, I was extremely disappointed with this poor attempt at making a sequel. Almost every scene and piece of dialog that made the original movie so great was painfully duplicated with no success. Circumstances, events, dialog, and most characters were all duplicated with abysmal results. Each member of the cast of the original movie perfectly executed their character with realism reminding me of my own childhood, where as these young actors in Sandlot 2, have still have yet to learn that acting is more than just reading your lines. Even the classic \"Squints Kissing scene\" was painfully duplicated. However all is not lost. One character in this movie came out as genuine and worthy of the viewer's empathy. That was Haley Goodfairer played by the débutant Samantha Burton. Besides being quite the lovely young lady, she was quite adept at playing the \"self-assured- head-of-the-liberated-cool-girl's-clique\". I would compare her acting ability to the outstanding Sara Polley, and I look forward to her next acting endeavor. But the Sandlot 2  you are better off watching the original over.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 3,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from 20th Century Fox Home Entertainment",
+        "duration": "PT1M33S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3036217625",
+        "name": "The Sandlot 2",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOWRlNTVjYWMtNjRhYy00NzQ1LWJkZWYtNDAxYTU3MzRmNTc4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOWRlNTVjYWMtNjRhYy00NzQ1LWJkZWYtNDAxYTU3MzRmNTc4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:09:05Z",
+        "url": "https://www.imdb.com/video/vi3036217625/"
+    },
+    "url": "/title/tt0418131/"
+}

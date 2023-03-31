@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Christopher Lambert",
+            "url": "/name/nm0000483/"
+        },
+        {
+            "@type": "Person",
+            "name": "Natasha Henstridge",
+            "url": "/name/nm0000449/"
+        },
+        {
+            "@type": "Person",
+            "name": "Norbert Weisser",
+            "url": "/name/nm0919256/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3744,
+        "ratingValue": 3.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0009633/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0080130/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0010140/"
+        },
+        {
+            "@type": "Person",
+            "name": "Albert Pyun",
+            "url": "/name/nm0089502/"
+        }
+    ],
+    "datePublished": "1996-11-29",
+    "description": "A bioweapon leaks in Eastern Europe and spreads west. It mutates in a quarantine area, creating a killer monster. Can a group of cops stop it and the new virus?",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Albert Pyun",
+            "url": "/name/nm0089502/"
+        }
+    ],
+    "duration": "PT1H17M",
+    "genre": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjQ0NjUwNzA3Nl5BMl5BanBnXkFtZTgwNzU0MzgwMzE@._V1_.jpg",
+    "keywords": "chase,biological weapon,epidemic,quarantine,race against time",
+    "name": "Adrenalin: Fear the Rush",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "gridoon"
+        },
+        "dateCreated": "2000-12-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0115471/"
+        },
+        "name": "Bearable junk.",
+        "reviewBody": "Rock-bottom stuff in most respects, but fairly energetic camerawork, short running time and the gorgeous Henstridge keep it reasonably painless - if you don't mind the sloppy editing and the fact that the script is virtually non-existent. (**)",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 4,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0115471/"
+}

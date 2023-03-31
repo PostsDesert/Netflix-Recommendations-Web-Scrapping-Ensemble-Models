@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Michael Redgrave",
+            "url": "/name/nm0714878/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Wattis",
+            "url": "/name/nm0915077/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Denison",
+            "url": "/name/nm0219221/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5918,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103187/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0103191/"
+        },
+        {
+            "@type": "Person",
+            "name": "Oscar Wilde",
+            "url": "/name/nm0928492/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anthony Asquith",
+            "url": "/name/nm0002190/"
+        }
+    ],
+    "datePublished": "1952-08-15",
+    "description": "When Algernon discovers that his friend, Ernest, has created a fictional brother for whenever he needs a reason to escape dull country life, Algernon poses as the brother, resulting in ever increasing confusion.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Anthony Asquith",
+            "url": "/name/nm0002190/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMGExZDdiMzQtMWQ0Ny00OTkyLTgyNWItMWYyNmQ5MmYyOWVjXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
+    "keywords": "lost handbag,marriage proposal,class differences,victorian morality,male in a bathtub",
+    "name": "The Importance of Being Earnest",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "perfectbond"
+        },
+        "dateCreated": "2004-12-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0044744/"
+        },
+        "name": "Excellent adaptation!",
+        "reviewBody": "I watched this film adaptation (and Oliver Parker's 2002 version as well) of Oscar Wilde's classic play The Importance of Being Earnest to complement my study of it for a 19th century English drama course. First I want to say, no matter what version(s) you choose to see, I strongly suggest you read the play first (its not that long). In some cases, the casting in the later film (specifically Reese Witherspoon as Cecily and Rupert Everett as Algy), made fifty(!) years later to be exact, seemed more appropriate but in my opinion Asquith's version captured the spirit of the text more succinctly. I must also say as well, however that since Asquith's version is essentially a staged play, there is little in the form of visual dynamism from the camera; in other words the film rests almost entirely on the strength of the performances. Happily, they do not disappoint.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "When Algernon discovers that his friend, Ernest, has created a fictional brother for whenever he needs a reason to escape dull country life, Algernon poses as the brother, resulting in ever increasing confusion.",
+        "duration": "PT2M46S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi831374105",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODZlZDlhNTUtNjE1ZC00MzAzLWFmY2UtZjZmZmVmZTkwZDBhXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODZlZDlhNTUtNjE1ZC00MzAzLWFmY2UtZjZmZmVmZTkwZDBhXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-10-26T17:57:35.082Z",
+        "url": "https://www.imdb.com/video/vi831374105/"
+    },
+    "url": "/title/tt0044744/"
+}

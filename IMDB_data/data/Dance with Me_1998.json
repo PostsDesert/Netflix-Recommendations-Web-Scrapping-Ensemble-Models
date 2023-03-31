@@ -1,0 +1,84 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Vanessa Williams",
+            "url": "/name/nm0001853/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chayanne",
+            "url": "/name/nm0154663/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kris Kristofferson",
+            "url": "/name/nm0001434/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6644,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0033437/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0036722/"
+        },
+        {
+            "@type": "Person",
+            "name": "Daryl Matthews",
+            "url": "/name/nm0559985/"
+        }
+    ],
+    "datePublished": "1998-08-21",
+    "description": "Rafael Infante (Chayanne) comes to Houston from Cuba to work at John Burnett's (Kris Kristofferson's) dance studio. He meets Ruby Sinclair (Vanessa Williams), a cute dance instructor there. Chemistry? Will John know he's Rafael's ...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Randa Haines",
+            "url": "/name/nm0354279/"
+        }
+    ],
+    "duration": "PT2H6M",
+    "genre": [
+        "Drama",
+        "Music",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOWMyZjdhZTYtZThmNy00YTVlLWFiZDEtYzI2NWZhNTI1MTAyXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+    "keywords": "dance movie,latin music,dance music,dance,dancer",
+    "name": "Dance with Me",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "s_rutland"
+        },
+        "dateCreated": "2005-01-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120576/"
+        },
+        "name": "Exquisite display of color, movement and emotion",
+        "reviewBody": "This movie is very good eye candy. The music and the dancing pulls you into the movie. Sometimes I just forgot that they were telling a story because almost in every scene there was movement, feeling and attention in the dance choreography. It was a wonderful display of dancing and choice in music. Some may not like the movie because it lacks a strong storyline, but there are no new ideas. We all know what hidden behind door number 1, 2 and 3. Nonetheless, it is not that the movie doesn't stray into the unknown; it is that the movie has attraction, heat, and passion especially with the chemistry between Chayanne and Vanessa. I even like the music video that complements the movie. Chayanne has done a great job in his first English role and better yet he has the moves to back it up. Although Vanessa is heard in the movie speaking extremely poor Spanish, she did a wonderful job in the Spanish version of \"You are my home\" it was great!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0120576/"
+}

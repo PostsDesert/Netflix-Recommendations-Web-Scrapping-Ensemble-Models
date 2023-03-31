@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mary Woronov",
+            "url": "/name/nm0001862/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Bartel",
+            "url": "/name/nm0000860/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Wagner",
+            "url": "/name/nm0905904/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1351,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0064409/"
+        },
+        {
+            "@type": "Person",
+            "name": "Danny Opatoshu",
+            "url": "/name/nm0649054/"
+        }
+    ],
+    "datePublished": "1976-04-25",
+    "description": "A young woman arrives in Hollywood to try her luck as an actress. An incompetent agent hooks her up with a production company which specializes in low budget B-movie fair, plagued by strange deadly accidents.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Allan Arkush",
+            "url": "/name/nm0035106/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joe Dante",
+            "url": "/name/nm0001102/"
+        }
+    ],
+    "duration": "PT1H23M",
+    "genre": [
+        "Comedy",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNWRkODg2MGYtMTA0ZS00NjNkLWFiZGItNGQ1ZjlhNTBjMjAwL2ltYWdlXkEyXkFqcGdeQXVyMjU5OTg5NDc@._V1_.jpg",
+    "keywords": "woman wears a bikini,skydiving,aspiring actress,car crash,threesome",
+    "name": "Hollywood Boulevard",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "preppy-3"
+        },
+        "dateCreated": "2003-10-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0074633/"
+        },
+        "name": "Fun for film buffs...",
+        "reviewBody": "but probably nobody else.\n\nA young, beautiful woman (Candice Rialson) comes to Hollywood to become a star. She starts working with Miracle Pictures (\"If it's a good picture, it's a miracle\") as a stunt girl. Miracle makes nothing but ultra cheap t&a movies. There's the star director (Parl Bartel) who supposedly thinks he's making art and an arrogant diva (Mary Woronov) who wants all the film to herself. Then woman are being killed on the set. Who's doing it...and why?\n\nFilm was actually shot in 10 days with directors Joe Dante and Allan Arkush using tons of footage from previous Roger Corman movies. The movie never takes itself too seriously and does have some VERY funny lines. But the plot is way too feeble even at 83 minutes (there's LOTS of padding); the acting is pretty bad (except for Bartel, Woronov and Dick Miller--all having a GREAT time); there is an unnecessary (and stupid) wet T-shirt sequence; there's a very sick rape scene played for laughs (and repeated twice); a very brutal knife slashing and plot holes galore (why DOES that guy at the end have all that stuff about victims in his little shed?). \n\n What kept me watching is the tons of funny little injokes for movie fans. They're way too numerous to mention but they are there. Also it was just released in a 25th anniversary edition and looks just great. Most casual viewers will probably find this dull, stupid and sick--they're right, but it is fun for film fans.\n\nDon't miss the jokes during the closing credits and one right after them.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A young woman arrives in Hollywood to try her luck as an actress. An incompetent agent hooks her up with a production company which specializes in low budget B-movie fair, plagued by strange deadly accidents.",
+        "duration": "PT1M1S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4179804953",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzJiZDRkZjgtMjMyZi00NGU1LThkNmQtNjk4MjE2NDI1OWZjXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzJiZDRkZjgtMjMyZi00NGU1LThkNmQtNjk4MjE2NDI1OWZjXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+        "uploadDate": "2022-01-11T22:10:08.013Z",
+        "url": "https://www.imdb.com/video/vi4179804953/"
+    },
+    "url": "/title/tt0074633/"
+}

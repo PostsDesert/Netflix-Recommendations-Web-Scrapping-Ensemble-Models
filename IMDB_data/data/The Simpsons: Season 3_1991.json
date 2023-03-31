@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Morgan Spurlock",
+            "url": "/name/nm1041597/"
+        },
+        {
+            "@type": "Person",
+            "name": "Matt Stone",
+            "url": "/name/nm0001778/"
+        },
+        {
+            "@type": "Person",
+            "name": "Trey Parker",
+            "url": "/name/nm0005295/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 427,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "TV-14",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0248520/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0169151/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeremy Chilnick",
+            "url": "/name/nm2505733/"
+        },
+        {
+            "@type": "Person",
+            "name": "Morgan Spurlock",
+            "url": "/name/nm1041597/"
+        }
+    ],
+    "datePublished": "2010-01-10",
+    "description": "Morgan Spurlock examines the cultural phenomenon of The Simpsons (1989).",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Morgan Spurlock",
+            "url": "/name/nm1041597/"
+        }
+    ],
+    "duration": "PT42M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzRmNjJhYTctMjY5My00ZWE4LWFiMTEtZGMzYzMxNmQ5OTllL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyOTc2Mzg5OQ@@._V1_.jpg",
+    "keywords": "tv show,3d in title,exclamation point in title",
+    "name": "The Simpsons 20th Anniversary Special: In 3-D! On Ice!",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "galahad58-1"
+        },
+        "dateCreated": "2010-01-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt1572507/"
+        },
+        "name": "Doh",
+        "reviewBody": "What a waste of time and effort. This special was poorly made and spent a lot of time \"trying\" to be funny and coming up extremely short of laughter and originality. Travelling the world to find Simpsons collectors was absolutely boring and uninspired. Having Sting talk about life without the Simpsons was a terrible concept. Having the unfunny Conan O'Brian say anything was a mistake and not needed. There was very few interesting tidbits about the creation of the Simpsons or their development over the last 20 years. This special was an awful idea that tried to be a parody of the Simpsons show, but it lacked any concept of humor and felt like it lasted forever. Boring and terribly written--this special should be avoided.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 2,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt1572507/"
+}

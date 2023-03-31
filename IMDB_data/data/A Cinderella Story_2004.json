@@ -1,0 +1,96 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Hilary Duff",
+            "url": "/name/nm0240381/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chad Michael Murray",
+            "url": "/name/nm0614877/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jennifer Coolidge",
+            "url": "/name/nm0177639/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 90065,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0081469/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0097249/"
+        },
+        {
+            "@type": "Person",
+            "name": "Leigh Dunlap",
+            "url": "/name/nm1354901/"
+        }
+    ],
+    "datePublished": "2004-07-16",
+    "description": "Routinely exploited by her wicked stepmother, the downtrodden Samantha Montgomery is excited about the prospect of meeting her Internet beau at the school's Halloween dance.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mark Rosman",
+            "url": "/name/nm0743093/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Comedy",
+        "Family",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTA1NDI0OTkwNDNeQTJeQWpwZ15BbWU3MDQ3Nzc1MjE@._V1_.jpg",
+    "keywords": "cinderella story,female protagonist,teenage girl,correspondence,high school student",
+    "name": "A Cinderella Story",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "sparkling_diamond77"
+        },
+        "dateCreated": "2004-07-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0356470/"
+        },
+        "name": "Not that bad",
+        "reviewBody": "Although A Cinderella Story is your typical \"chick flick\", it was not nearly as bad as it may seem. Hilary Duff makes a good attempt at acting. Although she is always portrayed as the victim of society, it is pretty much reality for a lot of teenagers today. The snotty cheerleader, the football team captain, and of course the evil stepmother and stepsisters, seem quite far from reality. However the movie is not completely far-fetched as one would think, every high school has the snotty cheerleader, the football captain, etc. no matter what part of the country you go to. Jennifer Coolidge was a great choice for the evil stepmother; she played the part really well, making the plot of the movie somewhat believable."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1152647449",
+        "name": "A Cinderella Story",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYTQwNTBkMDYtMjc5YS00YzAxLWFiNzktNTY1YWYwOTRmYmEwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTQwNTBkMDYtMjc5YS00YzAxLWFiNzktNTY1YWYwOTRmYmEwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T05:19:14Z",
+        "url": "https://www.imdb.com/video/vi1152647449/"
+    },
+    "url": "/title/tt0356470/"
+}

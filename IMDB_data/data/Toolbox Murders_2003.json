@@ -1,0 +1,49 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Angela Bettis",
+            "url": "/name/nm0079374/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tobe Hooper",
+            "url": "/name/nm0001361/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rance Howard",
+            "url": "/name/nm0397555/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 47,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "description": "Kevin Ford's take on the making of Tobe Hooper's 'Toolbox Murders'.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Kevin Ford",
+            "url": "/name/nm0285738/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chris Sivertson",
+            "url": "/name/nm1032754/"
+        }
+    ],
+    "duration": "PT1H12M",
+    "genre": [
+        "Documentary"
+    ],
+    "keywords": "psychotronic filmmaking,horror filmmaking",
+    "name": "Toolbox Murders: As It Was",
+    "url": "/title/tt0427956/"
+}

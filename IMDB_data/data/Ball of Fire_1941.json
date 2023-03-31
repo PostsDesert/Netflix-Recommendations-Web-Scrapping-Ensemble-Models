@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Gary Cooper",
+            "url": "/name/nm0000011/"
+        },
+        {
+            "@type": "Person",
+            "name": "Barbara Stanwyck",
+            "url": "/name/nm0001766/"
+        },
+        {
+            "@type": "Person",
+            "name": "Oskar Homolka",
+            "url": "/name/nm0393028/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 13249,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0016710/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Brackett",
+            "url": "/name/nm0102818/"
+        },
+        {
+            "@type": "Person",
+            "name": "Billy Wilder",
+            "url": "/name/nm0000697/"
+        },
+        {
+            "@type": "Person",
+            "name": "Thomas Monroe",
+            "url": "/name/nm0598572/"
+        }
+    ],
+    "datePublished": "1942-01-09",
+    "description": "A group of professors working on a new encyclopedia while living in a Manhattan mansion take in a mouthy nightclub singer who is wanted by the police to help bring down her mob boss lover.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Howard Hawks",
+            "url": "/name/nm0001328/"
+        }
+    ],
+    "duration": "PT1H51M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZGYzNWNkNWUtZjE0MS00MDE2LTg5NTUtMWVlOGQyN2VkY2E4XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg",
+    "keywords": "screwball comedy,professor,encyclopedia,singer,nightclub",
+    "name": "Ball of Fire",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Quinoa1984"
+        },
+        "dateCreated": "2009-12-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0033373/"
+        },
+        "name": "and featuring Gene Krupa and his orchestra!",
+        "reviewBody": "Ball of Fire is a real 'screwball' comedy, and it being directed by Howard Hawks, who made arguably the best one of all (His Girl Friday), ups the stakes just a bit. Not only that, but it was one of Billy Wilder's first projects on a screenplay, and his sharp wit comes through in almost every scene that needs it. And more than that, when the movie needs to be romantic, without any frills, it really is. At the center of the craziness that becomes the story (mostly towards the end and early on and a little in the middle) is a story that we know is formulaic- that a woman who is already attached (if not quite yet hitched) to someone else falls into an unlikely situation with another man and the two suddenly become really close, the man first and then the woman- but its the chemistry between a sexy pre-Double Indemnity Barbara Stanwyck with conservative Gary Cooper.\n\nIf, ultimately, it doesn't have the machine-gun energy of His Girl Friday (then again, few movies do), it makes up for it with a fun premise that Hawks and Wilder ride out logically, as far as comedy premises can go. It's about seven professors and their leader professor, played by Cooper, who for years have been writing an encyclopedia and are coming close to the end... except for a snag - slang words. The old guys and intellectuals haven't a clue as to what words like \"Boogie\" and \"sugar-puss\" mean, until they get a few people off the street to tell them. That, and a nightclub singer (Stanwyck) on the run from the cops after she gets unwittingly (and unfairly) mixed up in a murder plot with her fiancée. So, she shacks up with Cooper and his fellow profs, and it becomes Snow White and the Seven Dwarfs with the twist that the girl this time is a lot more wily (and tempting) while the men are... old professor types who know almost everything except the human heart.\n\nBut Hawks makes twist on his own premise as he goes along, too. We see the natural progression of the plot, of Cooper quickly falling in love with Stanwyck's advances (all fake at first just so she can stay at the house), and then little by little she falls for him too, or at least feels so guilty about what she's doing to see the old geezers as real people instead of obstacles. There are a few key scenes that break the mold of the comedic antics (some of which, like Stanwyck showing the old men how to dance is hilarious and memorable): one is the bachelor dinner between the professors, when the one professor, played by Richard Haydn, talks about his marriage from many years before, and it becomes genuinely tender and sincere, not played for laughs, certainly not when they're all singing the song Gienevive. The other scene is when Cooper walks into the wrong room (thinking it's a professor and not his future wife) and asks for advice about what to do, as he loves her and isn't sure about himself. It's all shot in dark, with a few specific lighting touches, and it's about perfect.\n\nThe ensemble is entertaining- from the old men with their various (sometimes interchangeable) personalities, to the film-noir knockoffs playing the henchmen of Joe Lilac- and there are many lines and moments that, upon a repeat viewing, should become even quotable. It could be said that it's slightly dated in some of its approach to tradition vs. the titillating, but it never loses its sense of humor, all the way up to the climax. Oh, and it also happens to feature one of the best nightclub music scenes in the movies, with Gene Krupa and his band doing \"Drum Boogie\", first in its usual form (a fantastic drum solo at the end), and then a variation on it with Krupa performing the song in a huddle of people with matchsticks on a matchbox. A small masterpiece of music in the middle of very good romantic comedy.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A group of professors working on a new encyclopedia encounter a mouthy nightclub singer who is wanted by the police to help bring down her mob boss lover.",
+        "duration": "PT2M9S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2003418649",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTVkM2NjNTYtNjkxNy00M2EyLTliMzktMDVmODhkMmJiMjBiXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTVkM2NjNTYtNjkxNy00M2EyLTliMzktMDVmODhkMmJiMjBiXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-08-04T10:16:19.635Z",
+        "url": "https://www.imdb.com/video/vi2003418649/"
+    },
+    "url": "/title/tt0033373/"
+}

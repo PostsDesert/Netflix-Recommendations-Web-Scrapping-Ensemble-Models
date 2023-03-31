@@ -1,0 +1,95 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Cristina Raines",
+            "url": "/name/nm0707043/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ava Gardner",
+            "url": "/name/nm0001257/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chris Sarandon",
+            "url": "/name/nm0001697/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 10802,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0085614/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeffrey Konvitz",
+            "url": "/name/nm0465458/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Winner",
+            "url": "/name/nm0935382/"
+        }
+    ],
+    "datePublished": "1977-02-11",
+    "description": "A young woman moves into an apartment in a building which houses a sinister evil.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Winner",
+            "url": "/name/nm0935382/"
+        }
+    ],
+    "duration": "PT1H32M",
+    "genre": [
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BN2FkZGMwMjEtMTU4NC00MzMyLWI1MTQtNzlhZTk5NTUwMzgwXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "psychotronic film,downward spiral,supernatural horror,unclear whether a person exists,female model",
+    "name": "The Sentinel",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "brandonsites1981"
+        },
+        "dateCreated": "2002-08-15",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0076683/"
+        },
+        "name": "* * out of 4.",
+        "reviewBody": "A fashion model (Christina Raines) begins having strange visions, physical problems, and nightmares after moving into a new apartment. Her neighbors are acting even weirder. She keeps having flashbacks about a past suicide attempt and her boyfriend (Chris Sarandon) is in total disbelief.\n\nAs far as shock value is concerned this film is a total success. It features some of the strangest, most disturbing images in movie history and that ending is really something. However, it is extremely dull and uneven for most of the films running time. Still, it has a GREAT cast.\n\nRated R; Nudity, Graphic Violence, Sexual Situations, and Profanity."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer 1",
+        "duration": "PT2M36S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3096559385",
+        "name": "The Sentinel",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjZmMTQyYTMtYzc5Yy00ZGUzLTlhYTItY2ViZGVkM2EyZjE5XkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjZmMTQyYTMtYzc5Yy00ZGUzLTlhYTItY2ViZGVkM2EyZjE5XkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg",
+        "uploadDate": "2019-09-16T17:02:30.504Z",
+        "url": "https://www.imdb.com/video/vi3096559385/"
+    },
+    "url": "/title/tt0076683/"
+}

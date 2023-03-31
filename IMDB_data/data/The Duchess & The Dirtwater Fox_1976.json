@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Keira Knightley",
+            "url": "/name/nm0461136/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ralph Fiennes",
+            "url": "/name/nm0000146/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dominic Cooper",
+            "url": "/name/nm1002641/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 84884,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0179341/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0022869/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0103694/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeffrey Hatcher",
+            "url": "/name/nm0368774/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anders Thomas Jensen",
+            "url": "/name/nm0421314/"
+        },
+        {
+            "@type": "Person",
+            "name": "Saul Dibb",
+            "url": "/name/nm1314116/"
+        }
+    ],
+    "datePublished": "2008-10-10",
+    "description": "A chronicle of the life of 18th-century aristocrat Georgiana, Duchess of Devonshire, who was reviled for her extravagant political and personal life.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Saul Dibb",
+            "url": "/name/nm1314116/"
+        }
+    ],
+    "duration": "PT1H50M",
+    "genre": [
+        "Biography",
+        "Drama",
+        "History"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU1MTQzMjgzNl5BMl5BanBnXkFtZTcwNTQxMzk3MQ@@._V1_.jpg",
+    "keywords": "marriage,duchess,heir,infidelity,adultery",
+    "name": "The Duchess",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "adnarish"
+        },
+        "dateCreated": "2014-01-15",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0864761/"
+        },
+        "name": "A question of expectations",
+        "reviewBody": "I'm of two minds about this film. On the one hand, Saul Dibb has managed to turn a book into an entertaining film about the trials and tribulation - and, let's keep things in perspective, extremely privileged life - of the frolicking Georgiana, Duchess of Devonshire (Keira Knightley). It hits all the targets of the romantic genre, and does so with a nice mix of emotional scenes, witty banter, and even some interesting discussions.\n\nSome, because on the other hand the film fails to step beyond the confines of its genre and to really engage with the historical period in which the events take place. The female protagonist gets married to a Duke (Ralph Fiennes), is supposedly unhappy (but wastes little time exploiting the new social options presented to her because of said marriage), and soon the viewer is on board with Georgiana for a ride through all the familiar scenes: her husband's mistresses, her own dalliances with young dreamers, an unexpected pregnancy, etc. etc. The political scheming in the background is mentioned, but there is very little interaction between the events of the story and the historical context. In the final minutes of the film, lines of text assure the viewer that Georgiana was one of the most influential women of her day (in England, one assumes). Unfortunately, not much of that supposed influence is shown in the film, where Georgiana has to make do with a short scene in which she rallies a crowd of a few dozen spectators at a political campaign event.\n\nIt's all the more unfortunate that this angle of Georgiana's character was left underexposed, because in the first few minutes of the film she quickly finds herself in a rather witty back-and-forth with one of her husband's political allies, Charles Fox (Simon McBurney). Those scenes, so teasingly shown in the trailer, are sadly moved to the sidelines soon after. If those reading this felt similarly disappointed by this, I can recommend Patrice Leconte's 1996 film Ridicule. It's an excellent and very witty look at the French court in roughly the same time.\n\nSo all in all, if you're looking at this film as a romantic historical drama, it's actually not all that bad. But unfortunately it's also not much more than that. A shame, especially because this is an era in which there should be no shortage of great characters from which to draw inspiration for far more interesting stories and films.\n\nA final note on the acting: Ralph Fiennes is great as William Cavendish, Duke of Devonshire, as is Simon McBurney as the politician Charles Fox. Dominic Cooper and Hayley Atwell gave two decent but unexciting (which isn't necessarily bad) performances as Charles Grey and Bess Foster respectively. As for Georgiana herself? I can understand directors are reluctant to use different actors for the same role, but wanting a 22 year old Keira Knightley to portray both a 17 year old newly-wed and a 35 year old mother was perhaps a bit too much to ask. Knightley makes the most of it, and some scenes are well done indeed, but on the whole it wasn't really working out for me.\n\nRecommended for easy romantic watching, not so for an engaging historical drama.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "The Duchess - Theatrical Trailer",
+        "duration": "PT1M47S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1171980569",
+        "name": "The Duchess",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTk5NTkzNTMxMV5BMl5BanBnXkFtZTgwOTM1ODYzMzE@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTk5NTkzNTMxMV5BMl5BanBnXkFtZTgwOTM1ODYzMzE@._V1_.jpg",
+        "uploadDate": "2008-07-18T09:15:34Z",
+        "url": "https://www.imdb.com/video/vi1171980569/"
+    },
+    "url": "/title/tt0864761/"
+}

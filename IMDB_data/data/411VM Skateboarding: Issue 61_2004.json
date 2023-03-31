@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Keith Hufnagel",
+            "url": "/name/nm1784507/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jason Lee",
+            "url": "/name/nm0005134/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chris Pastras",
+            "url": "/name/nm1784744/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 16,
+        "ratingValue": 8,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0110695/"
+        }
+    ],
+    "datePublished": "2004-07-27",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA4MjJmOWEtYTA4Ni00NWQyLWJlMTgtYmMyMmE1OGM1MzdiXkEyXkFqcGdeQXVyMjEwNTkzMTc@._V1_.jpg",
+    "name": "411VM Skateboarding Issue 65",
+    "url": "/title/tt0436016/"
+}

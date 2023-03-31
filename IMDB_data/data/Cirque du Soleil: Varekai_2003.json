@@ -1,0 +1,74 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Gilkey",
+            "url": "/name/nm1246385/"
+        },
+        {
+            "@type": "Person",
+            "name": "Octavio Alegria",
+            "url": "/name/nm1491981/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alexei Anikine",
+            "url": "/name/nm1492010/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 544,
+        "ratingValue": 7.9,
+        "worstRating": 1
+    },
+    "contentRating": "TV-G",
+    "datePublished": "2003-06-14",
+    "description": "The Cirque du Soleil creation telling the story of Icarus, whose wings melt when he flies to close to the run, sending him crashing into the volcanic and mysterious world of Varekai.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Dominic Champagne",
+            "url": "/name/nm0150606/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nick Morris",
+            "url": "/name/nm0606835/"
+        }
+    ],
+    "duration": "PT1H50M",
+    "genre": [
+        "Family",
+        "Fantasy",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTA1MDYxNjQ3MzBeQTJeQWpwZ15BbWU3MDgzMDU0MjE@._V1_.jpg",
+    "keywords": "cirque du soleil,tv special,circus,acrobat",
+    "name": "Cirque du Soleil: Varekai",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "richard-46842"
+        },
+        "dateCreated": "2017-03-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0368647/"
+        },
+        "name": "Amazing acrobatics & costumes, spoiled by the clowns",
+        "reviewBody": "My wife and I went to a matinée performance of Cirque du Soleil's \"Varekai\" in the Nottingham Motorpoint Arena. As you would expect, most of the acrobatics were absolutely amazing, as were the costumes. Like other Cirque du Soleil shows, there was some sort of story but with most of the language being their traditional invented one that no one understands, this was not clear. But this didn't really matter. The music and vocals (even though I didn't understand them) were also very good. Regrettably, the circus tradition of using clowns was taken much too far, with about a quarter of the show dedicated to them. Their slap-stick antics were often bizarre or amateurish and at times downright irritating. They may have been entertaining a few decades ago but frankly fell flat and in some cases were risqué and unsuitable for the young children in the audience. So for us, this ruined what would otherwise have been an impressive and entertaining experience. Time for a re-think, SdS?",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0368647/"
+}

@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Beanie Sigel",
+            "url": "/name/nm0797421/"
+        },
+        {
+            "@type": "Person",
+            "name": "Omillio Sparks",
+            "url": "/name/nm1091326/"
+        },
+        {
+            "@type": "Person",
+            "name": "Memphis Bleek",
+            "url": "/name/nm0085430/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2165,
+        "ratingValue": 4.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0054781/"
+        },
+        {
+            "@type": "Person",
+            "name": "Abdul Malik Abbott",
+            "url": "/name/nm0007925/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ernest 'Tron' Anderson",
+            "url": "/name/nm0026694/"
+        }
+    ],
+    "datePublished": "2002-01-18",
+    "description": "Beans decides that the only way to grasp the American Dream is to take it. State Property follows Beans and his crew, as they take over the city creating mayhem as their empire builds.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Abdul Malik Abbott",
+            "url": "/name/nm0007925/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Drama",
+        "Crime",
+        "Action"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMWVhOWEwOTctMGMzOS00ODJhLTliODEtN2ZjZTE4MzY5ZjUyXkEyXkFqcGdeQXVyODg2MjMxMTc@._V1_.jpg",
+    "keywords": "hood,lionsgate,gangster,rap music,hip hop",
+    "name": "State Property",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "mbhall2003"
+        },
+        "dateCreated": "2003-11-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0301893/"
+        },
+        "name": "Not my kind of movie",
+        "reviewBody": "At first, I thought I would enjoy State Property, merely because I am a big fan of rap music, and there are a lot of rap artists in the cast, but I was wrong. State Property turned out not to be a film that I am too crazy about. Watching the trailer, I don't mind, but that's about it. After watching only the first 13 minutes of the film, it seemed to me that the concept of making a movie was used as an excuse to let people swear. Sure, rap artists swear a lot, and I was expecting that, but there was so much profanity and slang, that I found it very difficult to follow along. I also didn't see much point to what was going on in the film. (I don't want to give anything away for those people who plan on seeing it.) Don't get me wrong, I've seen a few films like this before, but with those films, it was easier to follow along with the plot. With State Property, that just wasn't going to happen. And after watching the first 13 minutes of the film, I knew that I had seen enough. I honestly felt that seeing the whole film would be a waste of my time. Feel free to check out State Property if you wish, but have a dictionary handy, the dialogue can be tough to interpret and be aware, this movie, from what I've seen, is nowhere near comedic."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Th trailer",
+        "duration": "PT1M31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi176554265",
+        "name": "State Property",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzY1YjI5ZDMtMGNiYi00NmM0LTgxMDMtYTMxN2QxMTZiMTEzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzY1YjI5ZDMtMGNiYi00NmM0LTgxMDMtYTMxN2QxMTZiMTEzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:59:17Z",
+        "url": "https://www.imdb.com/video/vi176554265/"
+    },
+    "url": "/title/tt0301893/"
+}

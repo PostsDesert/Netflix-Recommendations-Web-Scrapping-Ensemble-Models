@@ -1,0 +1,90 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Fred MacMurray",
+            "url": "/name/nm0534045/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nancy Olson",
+            "url": "/name/nm0647970/"
+        },
+        {
+            "@type": "Person",
+            "name": "Keenan Wynn",
+            "url": "/name/nm0943978/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3081,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0098836/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Walsh",
+            "url": "/name/nm0909556/"
+        },
+        {
+            "@type": "Person",
+            "name": "Don DaGradi",
+            "url": "/name/nm0196119/"
+        },
+        {
+            "@type": "Person",
+            "name": "Samuel W. Taylor",
+            "url": "/name/nm0853139/"
+        }
+    ],
+    "datePublished": "1963-01-16",
+    "description": "When Professor Brainard experiments further on Flubber derivatives, he gets in trouble and only his students can help.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Stevenson",
+            "url": "/name/nm0829038/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Comedy",
+        "Family",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BM2IzYTVmNDUtZWI0Ny00OTMyLTlkYWMtZGJjMmYzNzgyNGY3XkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+    "keywords": "psychotronic film,slimehouse,blockbuster,flubber,college",
+    "name": "Son of Flubber",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "drhoads-93743"
+        },
+        "dateCreated": "2019-11-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0057518/"
+        },
+        "name": "Better than the first one, IMO",
+        "reviewBody": "Perhaps it's just the vivid memories from my childhood, but this is a far underrated Disney film from the 60s. Is it moving? Not really. Is it groundbreaking? Not really. Is it the best Disney film ever made? Not even close. But something about this film entertains me even as an adult.\n\nThere are a few sequences in this film that are comedy gold. I laughed hysterically as a kid. But even now that I'm a grown man, I can't help but find these sequences still hilarious.\n\nIt's a really whacky film with whacky characters and whacky scenes. But you know what? It's also a unique film. It's a snapshot of 1960s Americana that's very, very special, in my opinion, and even better than the first installment The Absent Minded Professor.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0057518/"
+}

@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kenneth Tobey",
+            "url": "/name/nm0864851/"
+        },
+        {
+            "@type": "Person",
+            "name": "Margaret Sheridan",
+            "url": "/name/nm0792212/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Arness",
+            "url": "/name/nm0000790/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 31051,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0078135/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Lederer",
+            "url": "/name/nm0496468/"
+        },
+        {
+            "@type": "Person",
+            "name": "John W. Campbell Jr.",
+            "url": "/name/nm0132168/"
+        },
+        {
+            "@type": "Person",
+            "name": "Howard Hawks",
+            "url": "/name/nm0001328/"
+        }
+    ],
+    "datePublished": "1951-04-07",
+    "description": "Scientists and American Air Force officials fend off a bloodthirsty alien organism while at a remote arctic outpost.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Christian Nyby",
+            "url": "/name/nm0638528/"
+        },
+        {
+            "@type": "Person",
+            "name": "Howard Hawks",
+            "url": "/name/nm0001328/"
+        }
+    ],
+    "duration": "PT1H27M",
+    "genre": [
+        "Horror",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTU3MzgyYjktMzM5Yi00MjlhLWI3YTItYmIyYTc0YjNlZDRiXkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_.jpg",
+    "keywords": "alien,cult film,flying saucer,north pole,extraterrestrial",
+    "name": "The Thing from Another World",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Xstal"
+        },
+        "dateCreated": "2022-09-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0044121/"
+        },
+        "name": "Who Goes There?...",
+        "reviewBody": "Imagine what you'd if a flying saucer crash landed close to an artic outpost where you were stationed. I guess you'd instinctively get out and about and go looking for it, albeit with some army types in tow (or towing) and, upon discovering it, inadvertently destroy said vessel but manage, through luck or misfortune to capture the alien pilot in a block of ice where it had frozen during its escape. That's what I'd do, then I'd do all I could to ensure (inadvertently again) that the entrapped thing was released as expediently as possible so it could cause rampage and carnage while instilling fear within the occupants of the isolated outpost. Just as well I wasn't around!\n\nYou've got to love the old B Movies of the 1950s! Especially those that gave us two belters of cinema in years to come.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M35S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3498230041",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjFlMWU4MGEtNmQ2OC00NGQxLWIwOTMtYjBkMGMwZTJkMjM4XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjFlMWU4MGEtNmQ2OC00NGQxLWIwOTMtYjBkMGMwZTJkMjM4XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-10-05T19:21:00.014Z",
+        "url": "https://www.imdb.com/video/vi3498230041/"
+    },
+    "url": "/title/tt0044121/"
+}

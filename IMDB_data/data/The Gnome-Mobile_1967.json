@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Walter Brennan",
+            "url": "/name/nm0000974/"
+        },
+        {
+            "@type": "Person",
+            "name": "Matthew Garber",
+            "url": "/name/nm0304955/"
+        },
+        {
+            "@type": "Person",
+            "name": "Karen Dotrice",
+            "url": "/name/nm0234538/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2304,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0098836/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ellis Kadison",
+            "url": "/name/nm0434356/"
+        },
+        {
+            "@type": "Person",
+            "name": "Upton Sinclair",
+            "url": "/name/nm0801737/"
+        }
+    ],
+    "datePublished": "1967-07-19",
+    "description": "In the Redwood Forests of California, a multi-millionaire lumberman and his two young grandchildren encounter two gnomes who are supposedly the last of their kind.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Stevenson",
+            "url": "/name/nm0829038/"
+        }
+    ],
+    "duration": "PT1H24M",
+    "genre": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODIyZWY3MjItZmZjOS00NTMwLWIzMzQtODdmYzQyOTYxZDhiXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "gnome,talking animal,grandfather granddaughter relationship,grandfather grandson relationship,miniature person",
+    "name": "The Gnome-Mobile",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "TheLittleSongbird"
+        },
+        "dateCreated": "2010-12-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0061715/"
+        },
+        "name": "Lively and enjoyable family film",
+        "reviewBody": "The Gnome-Mobile wasn't a perfect movie, but it was a pleasant, lively and enjoyable one for the family. I do think it is a little too short though, consequently while Sean McClory is suitably shady and enjoyable enough as the villain of the piece his character especially doesn't build up to as much as it could've been. Also, I have never been that receptive to the title song, it just seems bland and forgettable and the lyrics for me are quite uninspired. However, The Gnome-Mobile does have a very entertaining story, and some funny scripting. And it too benefits from some nice photography, scenery and costumes. The direction is good, the film goes at a cracking pace and the special effects are surprisingly reasonable. The main merit though of The Gnome-Mobile is the cast. Karen Dotrice and Matthew Garber are very appealing while Walter Brennan is simply wonderful in a dual role. Overall, an enjoyable film that doesn't quite make the grade but has a lot of things to make it watchable. 7/10 Bethany Cox",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "In the Redwood Forests of California, a multi-millionaire lumberman and his two young grandchildren encounter two gnomes who are supposedly the last of their kind.",
+        "duration": "PT1M17S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2162213657",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjYzNjY5OTYtN2QzMy00YmU0LTk0ODYtNGFjMGY1NGRiOWQ4XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjYzNjY5OTYtN2QzMy00YmU0LTk0ODYtNGFjMGY1NGRiOWQ4XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-11-11T13:23:25.182Z",
+        "url": "https://www.imdb.com/video/vi2162213657/"
+    },
+    "url": "/title/tt0061715/"
+}

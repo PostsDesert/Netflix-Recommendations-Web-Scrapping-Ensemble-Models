@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Billy West",
+            "url": "/name/nm0921942/"
+        },
+        {
+            "@type": "Person",
+            "name": "John DiMaggio",
+            "url": "/name/nm0224007/"
+        },
+        {
+            "@type": "Person",
+            "name": "Katey Sagal",
+            "url": "/name/nm0005408/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 243634,
+        "ratingValue": 8.5,
+        "worstRating": 1
+    },
+    "contentRating": "TV-14",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0223402/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0822480/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0159275/"
+        },
+        {
+            "@type": "Person",
+            "name": "David X. Cohen",
+            "url": "/name/nm0169326/"
+        },
+        {
+            "@type": "Person",
+            "name": "Matt Groening",
+            "url": "/name/nm0004981/"
+        }
+    ],
+    "datePublished": "1999-03-28",
+    "description": "Philip J. Fry, a pizza delivery boy, is accidentally frozen in 1999 and thawed out on New Year's Eve 2999.",
+    "genre": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzA2ZDk2ZTUtMWU2Yi00NDVmLTk1ODEtMmFmMjQyNWYzODI0XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+    "keywords": "alien,robot,future,cyclops,delivery boy",
+    "name": "Futurama",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "justinprime"
+        },
+        "dateCreated": "2004-09-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0149460/"
+        },
+        "name": "A Misunderstood Series",
+        "reviewBody": "Futurama is the whipping boy of modern prime time cartoons. Since it was made by the creator of the Simpsons it was expected to be exactly like it. Futurama had its own brand of comedic flair, which is absolutely hilarious. Bender, Fry, Leela, Hermes, Zoidberg, all of these characters are well thought out and work incredibly well together, on top of the fact that situations and anecdotes from previous episodes are brought up all the time, adding continuity to an already excellent series. I'll admit that I too was among the people crying foul when Futurama first came out, I didn't grow to truly appreciate it until it was put in syndication on adult swim, and more so later as I bought all the episodes on DVD. I don't think the world was ready for what futurama had to offer when it first came out, and everyone should give it another shot through adult swim or by DVD rental. It has solid entertainment value, and a unique comedic style.\n\n4.5 out of 5 stars"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from 20th Century Fox Home Entertainment",
+        "duration": "PT16S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2429813529",
+        "name": "Futurama: Volume One",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOWQ2MDliZjItYjgzNC00OGJhLWFjMjUtNTAzODgwMTllMzM2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOWQ2MDliZjItYjgzNC00OGJhLWFjMjUtNTAzODgwMTllMzM2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-01-01T06:40:35Z",
+        "url": "https://www.imdb.com/video/vi2429813529/"
+    },
+    "url": "/title/tt0149460/"
+}

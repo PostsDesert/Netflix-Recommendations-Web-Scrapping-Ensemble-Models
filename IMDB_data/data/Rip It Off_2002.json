@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jennifer Esposito",
+            "url": "/name/nm0261170/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alyson Hannigan",
+            "url": "/name/nm0004989/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve Harris",
+            "url": "/name/nm0004996/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 667,
+        "ratingValue": 3.9,
+        "worstRating": 1
+    },
+    "alternateName": "Rip It Off",
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0054536/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0010730/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christian Gudegast",
+            "url": "/name/nm0345615/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Horsun",
+            "url": "/name/nm1458888/"
+        },
+        {
+            "@type": "Person",
+            "name": "John McMahon",
+            "url": "/name/nm0573032/"
+        }
+    ],
+    "datePublished": "2002-05-05",
+    "description": "Three women outsmart unsavory men who try to cheat them out of their take in an almost-botched casino heist.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Gigi Gaston",
+            "url": "/name/nm0309456/"
+        }
+    ],
+    "duration": "PT1H31M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTYxMDk4MjQ4OF5BMl5BanBnXkFtZTcwNjYwNTQyMQ@@._V1_.jpg",
+    "keywords": "caper crime,casino,heist,russian,caper",
+    "name": "Beyond the City Limits",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "loremipsumdolor"
+        },
+        "dateCreated": "2003-08-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0201479/"
+        },
+        "name": "\"Rip It Off\" is aptly named....",
+        "reviewBody": "This film is an absolute mess. None of it makes sense or works; it can not decide its POV nor its tone and includes many unnecessary scenes that have nothing to do with the plot. What's that scene with the woman at the bus stop all about? Why is the 2nd security guard at the casino acting like such a hardass? Why is everyone so obsessed with sex? Why the sudden shift to the heroin story and where did this \"I always wanted to own a restaurant\" stuff come from? What on earth is Sophie B Hawkins doing here and why was she blackmailing the cop? WHO KNOWS?? The filmmakers obviously don't. I've seen better film on ponds."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from DEJ",
+        "duration": "PT46S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3164537113",
+        "name": "Rip It Off (aka. Beyond the City Limits)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjA4ZWE2MWUtMTgzZi00YTkxLTg0MGItNDA4MTRkYjZiMDEyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjA4ZWE2MWUtMTgzZi00YTkxLTg0MGItNDA4MTRkYjZiMDEyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:36:27Z",
+        "url": "https://www.imdb.com/video/vi3164537113/"
+    },
+    "url": "/title/tt0201479/"
+}

@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "De' Leon Howard III",
+            "url": "/name/nm2752913/"
+        },
+        {
+            "@type": "Person",
+            "name": "Monica Askew",
+            "url": "/name/nm1960476/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eric Connors",
+            "url": "/name/nm1962045/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 53,
+        "ratingValue": 3.4,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0156048/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dee Ross McKissic",
+            "url": "/name/nm1964522/"
+        }
+    ],
+    "datePublished": "2002-09-27",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Dee Ross McKissic",
+            "url": "/name/nm1964522/"
+        }
+    ],
+    "genre": [
+        "Comedy"
+    ],
+    "keywords": "sex comedy",
+    "name": "Hairdo U",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "sekaihouseikun"
+        },
+        "dateCreated": "2006-07-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0466013/"
+        },
+        "name": "Don't take this movie so seriously, just enjoy it.",
+        "reviewBody": "This movie is not attempting to win any mainstream awards. Instead, it is presenting some very important issues that the \"mainstream Black community\" insists on ignoring--but that continue to take their toll on the spirit and lives of Black men and women. Real issues like homophobia, illness, real hate crimes, sexism and identity.\n\nIf you listen closely, you will catch some well written dialog that just may not have been executed as well as a million dollar actor or actress could.\n\nThe movie has some good music, wit and humor. It's not for children because there is definitely foul language, but overall it's fun and doesn't take itself as heavily as so many other movies do.\n\nAlso, the fact that it looks like it was filmed by some cousins with a camcorder makes its subject matter that much more attainable.\n\nI'm glad that I was able to see this movie, and I am proud of the initiative that the crew and cast had to get up and get something DONE! I look forward to seeing them grow and move on to other projects.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from York Entertainment",
+        "duration": "PT2M",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3064660249",
+        "name": "Hairdo U",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjYzNzUxZjQtNWFhNC00YmYzLTlmM2ItNzY2ZjFjMzY5Yjg3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjYzNzUxZjQtNWFhNC00YmYzLTlmM2ItNzY2ZjFjMzY5Yjg3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:21:33Z",
+        "url": "https://www.imdb.com/video/vi3064660249/"
+    },
+    "url": "/title/tt0466013/"
+}

@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Julie Delpy",
+            "url": "/name/nm0000365/"
+        },
+        {
+            "@type": "Person",
+            "name": "Georgina Cates",
+            "url": "/name/nm0146061/"
+        },
+        {
+            "@type": "Person",
+            "name": "Pamela Gidley",
+            "url": "/name/nm0317293/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 494,
+        "ratingValue": 4.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103776/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0063993/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0106215/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jonathan Gems",
+            "url": "/name/nm0312607/"
+        }
+    ],
+    "datePublished": "1999-01-15",
+    "description": "The lives of four strange prostitutes will change forever when they go to the Mayor's birthday party.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jonathan Gems",
+            "url": "/name/nm0312607/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BY2UxM2JkNGItYzEyMC00ZGNlLWFjNGMtMzg5MzAxYWQ5NzE0XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
+    "keywords": "lesbian relationship,sexual perversion,sex comedy,female police officer,sexual fantasy",
+    "name": "The Treat",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "leo-96"
+        },
+        "dateCreated": "1999-07-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120871/"
+        },
+        "name": "Four prostitutes attend a politician's party",
+        "reviewBody": "This was advertised as an adaption of a stage play and a comedy. Unfortunately it is anything but funny, no laugh in sight. What may have been tentatively amusing on stage turns out to be sour, pointless and boring on celluloid. I cringed at the self-prostitution of the actors, unbelievable that a Michael York participated! The unfunny atmosphere saw to it that the negative view the film has regarding the whores' customers multiplied beyond reason. Thus whoever made it appears to hate men, portraying them in the most sordid of circumstances seems to be the sole point.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 1,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0120871/"
+}

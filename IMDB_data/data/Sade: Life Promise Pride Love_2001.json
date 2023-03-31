@@ -1,0 +1,31 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sade",
+            "url": "/name/nm0755442/"
+        },
+        {
+            "@type": "Person",
+            "name": "Amanda Pays",
+            "url": "/name/nm0005301/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 84,
+        "ratingValue": 8.7,
+        "worstRating": 1
+    },
+    "duration": "PT55M",
+    "genre": [
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTIzOTM3OTM1NV5BMl5BanBnXkFtZTcwMDU2OTkxMQ@@._V1_.jpg",
+    "keywords": "music video collection,singer,pop music,jazz music,character name in title",
+    "name": "Sade - Life Promise Pride Love",
+    "url": "/title/tt0260339/"
+}

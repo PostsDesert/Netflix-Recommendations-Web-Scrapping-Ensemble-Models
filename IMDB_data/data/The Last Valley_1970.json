@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Michael Caine",
+            "url": "/name/nm0000323/"
+        },
+        {
+            "@type": "Person",
+            "name": "Omar Sharif",
+            "url": "/name/nm0001725/"
+        },
+        {
+            "@type": "Person",
+            "name": "Florinda Bolkan",
+            "url": "/name/nm0093030/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3371,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0056365/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0337345/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0028378/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Clavell",
+            "url": "/name/nm0165412/"
+        },
+        {
+            "@type": "Person",
+            "name": "J.B. Pick",
+            "url": "/name/nm0681725/"
+        }
+    ],
+    "datePublished": "1971-01-28",
+    "description": "During the Thirty Years' War of 1600s, a band of Protestant mercenaries peacefully coexist with German Catholic villagers in a hidden idyllic mountain valley untouched by war.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "James Clavell",
+            "url": "/name/nm0165412/"
+        }
+    ],
+    "duration": "PT2H8M",
+    "genre": [
+        "Adventure",
+        "Drama",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTgwZDIxNzYtNTFmNi00N2QxLTgzNTktYmQ1MjU3MDZkZTJiXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
+    "keywords": "thirty years' war,religious war,17th century,mercenary,peasant",
+    "name": "The Last Valley",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "KFL"
+        },
+        "dateCreated": "2001-12-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0065969/"
+        },
+        "name": "Superb examination of the interaction between peasants and soldiers",
+        "reviewBody": "As others have said, a really excellent film--intelligent, well-shot and acted, with historical background that mostly seems to be right on the money.\n\nA few minor nits: I'm not sure that the Caine character, or most anyone, would be shouting \"there is no God!\" in the 1630's or 40's. And the humanism espoused by the Sharif character must have been quite rare in that day and age. Also, the ending is perhaps a bit heavy-handed in the way it drives home the moral of the story, about the pointlessness of warfare.\n\nBut all this is more than balanced by an intelligent screenplay and a highly engaging analysis of the dynamic between the peasants of the village and the soldiers. Reminded me quite a bit of The Seven Samurai, in fact, and compares well with the latter film (and *that* constitutes high praise).\n\nHighly recommended.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "During the Thirty Years' War of 1600s, a band of Protestant mercenaries peacefully coexist with German Catholic villagers in a hidden idyllic mountain valley untouched by war.",
+        "duration": "PT2M25S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1752482585",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNWQ5N2YyYjktMDk2ZS00M2E2LTkyOWUtYzlkYTIyMGY0YmUxXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNWQ5N2YyYjktMDk2ZS00M2E2LTkyOWUtYzlkYTIyMGY0YmUxXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2022-02-14T20:34:38.522Z",
+        "url": "https://www.imdb.com/video/vi1752482585/"
+    },
+    "url": "/title/tt0065969/"
+}

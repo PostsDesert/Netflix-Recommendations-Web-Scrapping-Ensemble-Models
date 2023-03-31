@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kevin Kline",
+            "url": "/name/nm0000177/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mary Elizabeth Mastrantonio",
+            "url": "/name/nm0001512/"
+        },
+        {
+            "@type": "Person",
+            "name": "Susan Sarandon",
+            "url": "/name/nm0000215/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 8800,
+        "ratingValue": 5.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007143/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0074647/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Patrick Shanley",
+            "url": "/name/nm0788234/"
+        }
+    ],
+    "datePublished": "1989-01-13",
+    "description": "Two years after being forced out of NYPD, quirky Nick is rehired by the mayor to catch a serial killer after the 11th murder of a woman.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Pat O'Connor",
+            "url": "/name/nm0640466/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Action",
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODNkNzlmZWItNDg5Yi00YmEzLWI4N2ItMWU5MjMwYjY1MGZmXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "serial killer,nude artist model,woman on top,police officer,bordeaux wine",
+    "name": "The January Man",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "imseeg"
+        },
+        "dateCreated": "2019-09-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0097613/"
+        },
+        "name": "Great actors are the ONLY thing keeping this silly romantic detective afloat. They dont act well though and the story is plain silly. Wish I hadnt seen it...",
+        "reviewBody": "A serial killer is being chased by a detective (Kevin Kline). Along the way he has 2 romantic affairs and a quarrel with his brother. That's about it. And that's not a lot, story-wise speaking.\n\nGreat actors are the ONLY thing keeping this silly romantic detective afloat. But only just... However great these actors normally are, they dont act well in this movie, but since they are all great actors anyway their famous names suckered me into watching it. Wish I hadnt...sigh...\n\nBasically all the actors are miscast in this movie. I really cant believe in any of the characters. The story is fluffy and the dialogues are mediocre. There is NO true suspense, which is kind of annoying, since it is a detective. There are few good jokes. The romantic scenes are many and they all are quite ridiculous, because they are not believable.\n\nWhat's there left to like? Well it has got the promise of becoming great, because all these actors are terrific in OTHER movies. Unfortunately they aint terrific in this one. Skip it. Or watch it with the same feeling of promise and hope that it still might turn out to be okay, only to find out that it wont...sigh...",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for The January Man",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi681903385",
+        "name": "The January Man",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTc2MTE4M2MtNDNlNS00MmYzLTgzYjMtZDcyYTA1YTBkYjNhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTc2MTE4M2MtNDNlNS00MmYzLTgzYjMtZDcyYTA1YTBkYjNhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-10-31T06:11:36Z",
+        "url": "https://www.imdb.com/video/vi681903385/"
+    },
+    "url": "/title/tt0097613/"
+}

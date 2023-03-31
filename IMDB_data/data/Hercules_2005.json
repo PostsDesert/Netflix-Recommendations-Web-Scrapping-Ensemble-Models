@@ -1,0 +1,81 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Paul Telfer",
+            "url": "/name/nm1533208/"
+        },
+        {
+            "@type": "Person",
+            "name": "Elizabeth Perkins",
+            "url": "/name/nm0001610/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sean Astin",
+            "url": "/name/nm0000276/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2062,
+        "ratingValue": 5.6,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0069955/"
+        }
+    ],
+    "datePublished": "2005-05-16",
+    "description": "A chronicle of the life of the Greek hero who after killing his three sons must perform five labors to repent.",
+    "genre": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYjkzZjc4ZWQtYjg1Ni00ZGUyLThhYzctYzhmNmE3OTMzYTZjXkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_.jpg",
+    "keywords": "hercules,greece,psychotronic series,drugged,intoxicated",
+    "name": "Hercules",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "El Gato-4"
+        },
+        "dateCreated": "2005-05-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0420408/"
+        },
+        "name": "Throwback to 50's matinées",
+        "reviewBody": "Not as bad as I anticipated. This frequently felt like the matinée movies of my youth with Steve Reeves et al, although a bit bloodier (but not necessarily more violent, however) and, unfortunately, talkier. OTOH there was a more interesting use of sexual politics, IMO a plus.\n\nJudicious use of the mute button would solve the latter problem and make for a fun popcorn movie. Some might call the SFX cheesy - for me they were a nostalgic reminder. There was some abrupt, seemingly abbreviated, editing from time to time. I wonder if we might see an (as they used to say) European version on DVD? (Hey, that beats calling it the much overused \"Unrated\".)",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Lionsgate Home Entertainment",
+        "duration": "PT2M7S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1403453721",
+        "name": "Hercules (2005)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYmEwNmZkODQtNjk4MS00ODQyLThjMTYtYTk3ODI1NTAyMDIwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYmEwNmZkODQtNjk4MS00ODQyLThjMTYtYTk3ODI1NTAyMDIwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:07:46Z",
+        "url": "https://www.imdb.com/video/vi1403453721/"
+    },
+    "url": "/title/tt0420408/"
+}

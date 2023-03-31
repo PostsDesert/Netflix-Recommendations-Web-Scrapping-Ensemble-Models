@@ -1,0 +1,96 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Steve Martin",
+            "url": "/name/nm0000188/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ben Gazzara",
+            "url": "/name/nm0001262/"
+        },
+        {
+            "@type": "Person",
+            "name": "Campbell Scott",
+            "url": "/name/nm0001714/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 25023,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0003988/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0028809/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0115522/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Mamet",
+            "url": "/name/nm0000519/"
+        }
+    ],
+    "datePublished": "1998-05-15",
+    "description": "An employee of a corporation with a lucrative secret process is tempted to betray it. But there's more to it than that.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David Mamet",
+            "url": "/name/nm0000519/"
+        }
+    ],
+    "duration": "PT1H50M",
+    "genre": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzg1NTQ1ZDMtYjBkNS00NTU5LTliNjgtOGVhNGY0ZjYyY2U3XkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_.jpg",
+    "keywords": "con game,con artist,secret,innocence,murder",
+    "name": "The Spanish Prisoner",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bob the moo"
+        },
+        "dateCreated": "2004-04-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120176/"
+        },
+        "name": "Fabulously written but lacking the fireworks needed to make it a big hit",
+        "reviewBody": "Joseph Ross is a researcher for a major corporation. He is in the Caribbean for a business trip to discuss his invention with the heads of the firm - a formula that stands to make the company very, very rich. While on the trip he meets the charismatic Jimmy Dell who he does a favour for and gradually befriends. As Joe starts to realise that his employers are trying to squeeze him out for his just deserves, Jimmy starts to offer him understanding and legal help to secure his end.\n\nI first discovered this film on late night sky about 5 years ago now and was very taken by it. Later I got to see it again when I had a free weekend of FilmFour (this weekend in fact!) and I was happy to see it again. The film is a con, from start to finish it is what the tagline claims - never what it seems. The whole audience know this and therefore are ready for twists and turns and it is to the film's credit that the twists are still gripping and enjoyable even if we expect it. The film has a very slow pace and is quite unshowy all the way.\n\nIn one regard this is to it's detriment but it does create a film that is unassuming and all the more surprising for it. However the lack of fire works also meant that it never got the audience it deserved. I believe that, if it had gone more dramatic and tense that it would have played better in multiplexes and drawn in less patient audiences.\n\nIn a rare (at the time) serious role, Martin is actually very good. He may not have a great character but he does a really good job with the two sides of his performance - even if the darker side is more revealed through Joe's fate than it is through his performance. Scott is good but is forced to play a rather bland simple man - meaning that his performance was rather bland at times. The support cast is good and features several Mamet regulars including the charismatic and distinctive Ricky Jay. Talking of Mamet, he is great as writer and director and this is yet another film that justifies his reputation in my mind.\n\nOverall this is a great film that will engage you and entertain you with it's twisty and enjoyable plot. It may lack the fireworks or heavy slick style of other films of the genre but it is all the better for it. Criminally under seen and deserves to be discovered."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Sony Pictures Home Entertainment",
+        "duration": "PT1M54S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1744044313",
+        "name": "The Spanish Prisoner",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODk3MDljMjItNjI2YS00OWY1LTlkOTYtNzhkNjI2YWM1NGI3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODk3MDljMjItNjI2YS00OWY1LTlkOTYtNzhkNjI2YWM1NGI3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:49:25Z",
+        "url": "https://www.imdb.com/video/vi1744044313/"
+    },
+    "url": "/title/tt0120176/"
+}

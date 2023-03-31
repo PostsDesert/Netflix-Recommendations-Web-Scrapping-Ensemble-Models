@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kevin Costner",
+            "url": "/name/nm0000126/"
+        },
+        {
+            "@type": "Person",
+            "name": "Morgan Freeman",
+            "url": "/name/nm0000151/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mary Elizabeth Mastrantonio",
+            "url": "/name/nm0001512/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 198871,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0033472/"
+        },
+        {
+            "@type": "Person",
+            "name": "Pen Densham",
+            "url": "/name/nm0219720/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Watson",
+            "url": "/name/nm0914709/"
+        }
+    ],
+    "datePublished": "1991-06-14",
+    "description": "Robin Hood decides to fight back as an outlaw when faced with the tyranny of the Sheriff of Nottingham.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Kevin Reynolds",
+            "url": "/name/nm0721817/"
+        }
+    ],
+    "duration": "PT2H23M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjUxMzVhNjgtYTQxNS00Zjg3LThlYjctOGFlZjg0YmI1ZmYyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "robin hood character,jerusalem israel,robin hood,england,modern minstrel",
+    "name": "Robin Hood: Prince of Thieves",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "scarlet caulfield"
+        },
+        "dateCreated": "2002-02-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0102798/"
+        },
+        "name": "Exhilarating Adventure",
+        "reviewBody": "I have seen Robin Hood: Prince of Thieves so many times and yet it still thrills me the 100th time as much as it did the first. I just can't ever get enough of this near perfect adventure film.\n\nI've always cherished films set in medieval times. There's just something about the plights of the oppressed class and the simple heroics of the man who steps forward to fight for honor and better lives for the dismal. Then there are the luxuriant castles, the dashing sword fights, the extravagant costumes, the tragically beautiful princess he's destined to fall in love with, and the evil power-hungry villain who will stop at nothing to be King.\n\nOK, it's a bit of a cliché, but this formula makes for the perfect escapist film and one thrilling and emotional ride. No, it isn't original, but it's just got everything you'd ever want from a film.\n\nThe story of Robin Hood has been done so many times, and (unlike most of his other roles) Kevin Costner is not only believable, but actually quite good this time (well, except for the accent, but nobody's perfect).\n\nAlan Rickman is just flawlessly devious as the Sheriff of Nottingham. Nobody could have done it better, and he also had the best lines (\"Because it's dull, it'll hurt more!\")\n\nThis was sadly Kevin Costner's last great film, as he went on to star in such duds as Waterworld and the dismal The Postman. Christian Slater, Morgan Freeman, Sean Connery, and especially Mary Elizabeth Mastrantonio give their all, creating a truly emotional and powerful film. I don't understand why the ratings are so low.\n\nThe ending is just beautiful. I boo at the sheriff, cheer for Robin, and cry during Robin and Marian's post-sword fight embrace every time, and you will too if you ignore the cynics and give this adventure a chance.\n\n9/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Teaser trailer",
+        "duration": "PT1M12S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2054227737",
+        "name": "Robin Hood: Prince of Thieves",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZWEyMjE2OTQtOGY1Ny00MGMwLTkyNzgtZjU0NTE0NmY2NGYwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZWEyMjE2OTQtOGY1Ny00MGMwLTkyNzgtZjU0NTE0NmY2NGYwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-05-18T15:47:48Z",
+        "url": "https://www.imdb.com/video/vi2054227737/"
+    },
+    "url": "/title/tt0102798/"
+}

@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Fiona Fullerton",
+            "url": "/name/nm0298386/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Jayston",
+            "url": "/name/nm0419785/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hywel Bennett",
+            "url": "/name/nm0071799/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1720,
+        "ratingValue": 5.6,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0119028/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lewis Carroll",
+            "url": "/name/nm0140902/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Sterling",
+            "url": "/name/nm0827597/"
+        }
+    ],
+    "datePublished": "1973-07-13",
+    "description": "Alice (Fiona Fullerton) falls down a rabbit hole and into a magical dream world populated by surreal characters and bewildering adventures. It's a journey of self-discovery for Alice as she searches for a way out of Wonderland and...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "William Sterling",
+            "url": "/name/nm0827597/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDViMDQ4ZWItYjdiZS00MzY0LWFhYTYtNzM2M2E4ZjhmMzFiXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "alice character,lewis carroll character,alice in wonderland,wonderland,anthropomorphic animal",
+    "name": "Alice's Adventures in Wonderland",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "robeykr"
+        },
+        "dateCreated": "2002-05-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0068190/"
+        },
+        "name": "Interesting version.",
+        "reviewBody": "There have been many adaptations of Lewis carol's work. However, I believe this version is the most enjoyable of all. Both children and adults will find this film entertaining. This version has a unique opening/closing envelope. With the ending showing that her dream had actually changed Alice's persona: \"from now on I'll be the me I never knew.\" Unlike Irwin Allen's 1985 version (which amalgamated \"Wonderland\" and \"Looking Glass\" together) or the special-effects over-ridden 1999 version, this film takes the best of the Wonderland story and displays it with a richness that is pleasant and memorable. The addition of John Barry's (better known for his score's to the early James Bond films) music only adds to the sense of wonder that we share with Alice in her adventure. The music indeed elevates this version to the status of art in the truest sense rather than just another movie. Heck, it was better than the one Disney came out with -- that should say a lot.\n\nInteresting fact, this film features Micheal Crawford as the WHITE RABBIT. Better known for his roles, Frank Spencer in \"Some Mothers do Ave Em\" and the Phantom in the stage production of Andrew Lloyd Webber's \"The Phantom of the Opera.\" A curious footnote on his carrier.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Alice's Adventures In Wonderland: Curiouser And Curiouser",
+        "duration": "PT2M14S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1520813081",
+        "name": "Alice's Adventures In Wonderland: Curiouser And Curiouser",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOGExNzczNjUtZDliOC00MTEwLWFlMzQtMDcyNjk5ZWZjYzRiXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGExNzczNjUtZDliOC00MTEwLWFlMzQtMDcyNjk5ZWZjYzRiXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2023-02-17T21:35:25.010Z",
+        "url": "https://www.imdb.com/video/vi1520813081/"
+    },
+    "url": "/title/tt0068190/"
+}

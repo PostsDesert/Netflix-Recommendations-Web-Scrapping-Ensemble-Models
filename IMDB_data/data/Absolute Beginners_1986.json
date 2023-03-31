@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Patsy Kensit",
+            "url": "/name/nm0000475/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eddie O'Connell",
+            "url": "/name/nm0640064/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Bowie",
+            "url": "/name/nm0000309/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3546,
+        "ratingValue": 5.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0045569/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0103598/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0103421/"
+        },
+        {
+            "@type": "Person",
+            "name": "Colin MacInnes",
+            "url": "/name/nm0532818/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Hamlyn",
+            "url": "/name/nm0358300/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Burridge",
+            "url": "/name/nm0123120/"
+        }
+    ],
+    "datePublished": "1986-04-18",
+    "description": "In London in 1958, a young photographer seeks media stardom to keep the love of a beautiful, aspiring fashion designer.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Julien Temple",
+            "url": "/name/nm0854697/"
+        }
+    ],
+    "duration": "PT1H48M",
+    "genre": [
+        "Drama",
+        "Musical",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMGUzZDVlOGItMzBlNy00MTQ2LWI0MjgtOWYwYTI3M2VhZWJmXkEyXkFqcGdeQXVyMTY5MDE5NA@@._V1_.jpg",
+    "keywords": "race riot,year 1958,foreplay,apology,british accent",
+    "name": "Absolute Beginners",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "cinema_universe"
+        },
+        "dateCreated": "2003-11-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0090585/"
+        },
+        "name": "Much Better than Expected....",
+        "reviewBody": "With the great era of musicals long past, it was interesting to see how stylized & clever this little \"musical\" film really was.\n\nThe story line was nil, but then great musicals don't need one, anyway. --Not to say that this was a \"great musical\", but the music WAS pretty good, and the film's use of thoughtful & colorful sets was stunning.\n\n The camera movement, the scene changes, the hypnotic (almost psychedelic) fades, and the simply dazzling use of color, more than made up for the silly dialog and tripey sub-plots.\n\nAll in all, a good looking, well-mounted, and (except for the ending) enjoyable experience. The fast pace of the dream-like musical sequences made this a much better film than I had anticipated seeing.\n\nI rated it 9, -mostly for sets, color, music, costumes, & photography."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "In London in 1958, a young photographer seeks media stardom to keep the love of a beautiful, aspiring fashion designer.",
+        "duration": "PT38S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3240477465",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjFkOTExYjctNjM3OS00Mjc5LThiMTctZWE2MTkyMTUzMjFiXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjFkOTExYjctNjM3OS00Mjc5LThiMTctZWE2MTkyMTUzMjFiXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2022-01-13T16:30:07.098Z",
+        "url": "https://www.imdb.com/video/vi3240477465/"
+    },
+    "url": "/title/tt0090585/"
+}

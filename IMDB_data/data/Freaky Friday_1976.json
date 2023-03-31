@@ -1,0 +1,95 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Barbara Harris",
+            "url": "/name/nm0364455/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jodie Foster",
+            "url": "/name/nm0000149/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Astin",
+            "url": "/name/nm0040014/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 13358,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0098836/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0020670/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0024579/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mary Rodgers",
+            "url": "/name/nm0734742/"
+        }
+    ],
+    "datePublished": "1977-01-21",
+    "description": "A mother and daughter find their personalities switched and have to live each other's lives on one strange Friday.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Gary Nelson",
+            "url": "/name/nm0625379/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Comedy",
+        "Family",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzlmMjVjZTMtNWZmNC00ZDU3LWFkZmEtOTRkMWJhYTc3OTUyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "soul transference,pantyhose,pantyhose legs,body swap,animated opening credits",
+    "name": "Freaky Friday",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Anya-fan"
+        },
+        "dateCreated": "2000-09-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0076054/"
+        },
+        "name": "Disney at it's Best!",
+        "reviewBody": "This is definitely one of the very best of Disney's many comedies. Perhaps it's the great writing from Mary Rodgers, author of the book, or the spectacular acting from the entire cast, especially a young Jodie Foster and Barbara Harris.\n\nThe film is incredibly funny, without being stupid, and it feels very real and authentic, an element that is gone from almost every other Disney film of the era. Although it includes the typical Disney chase scene, the rest of Disney's usual cliches are dropped so that the focus is on the characters and the believable and hilarious situations that they get into.\n\nA definite 10/10! Go rent it! Be sure that you get the 1977 version, though, not the 1995 remake."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M39S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2060173593",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNGVjZjljMWUtNzAyZi00ODY1LWE3NGEtOWEzNWE5NGIxNmU2XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNGVjZjljMWUtNzAyZi00ODY1LWE3NGEtOWEzNWE5NGIxNmU2XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-11-19T23:22:50.839Z",
+        "url": "https://www.imdb.com/video/vi2060173593/"
+    },
+    "url": "/title/tt0076054/"
+}

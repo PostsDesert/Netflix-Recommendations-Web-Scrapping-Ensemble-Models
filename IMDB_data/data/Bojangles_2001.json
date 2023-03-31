@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Gregory Hines",
+            "url": "/name/nm0002138/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Riegert",
+            "url": "/name/nm0726200/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kimberly Elise",
+            "url": "/name/nm0253708/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 361,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "TV-14",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0018357/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0071026/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Wesley",
+            "url": "/name/nm0921759/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Johnson",
+            "url": "/name/nm0426095/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Haskins",
+            "url": "/name/nm0368180/"
+        }
+    ],
+    "datePublished": "2001-02-04",
+    "description": "The life of Bill \"Bojangles\" Robinson, African-American tap-dancing star of stage and screen.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Joseph Sargent",
+            "url": "/name/nm0765121/"
+        }
+    ],
+    "duration": "PT1H41M",
+    "genre": [
+        "Biography",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUzMzY2NTQ0MF5BMl5BanBnXkFtZTcwMzYwMTAyMQ@@._V1_.jpg",
+    "keywords": "tap dancing,based on book",
+    "name": "Bojangles",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "TxMike"
+        },
+        "dateCreated": "2001-07-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0252287/"
+        },
+        "name": "The tapping is the best part, but an overall fine, fine film.",
+        "reviewBody": "This story about the life of Bill \"Bojangles\" Robinson begins in 1916, when after his performance he meets the young pharmacology student who he eventually marries. She was about 20, he was in his early 40s. The film ends about 30 years later, with what looks like original footage of his funeral procession in NYC. To 99% of the people \"Bo\" was a great and generous person and entertainer. To the other 1% who knew him intimately, he was apparently a real S.O.B. \n\n A compulsive gambler and womanizer, his life was pretty close to a happy trainwreck. Dancing professionally until past the age of 65, he suffered with heart problems and died at age 71. During his prime he was the highest-paid black performer, and he was the black dancer in some of the early Shirley Temple movies.\n\nThe film is based on his biography, co-produced by star Gregory Hines, so I assume it is an accurate protrayal. In general I like fact-based films best, and I really like this one. I rate it \"8\" of 10. I also am a big fan of great dancing, and this film has that. I consider Hines not only a superb actor, but also one of the best modern dancers, and his portrayal of \"Bojangles\" seems so perfect. However, the real highlight for me is 1 hour 16 minutes into the film, when the newcomer kid, played by Savion Glover, does a routine that dazzles Bojangles, then they do a routine together in the dingy nightclub. The whole scene with all the tapping only lasts about 3 minutes, but it is a remarkable 3 minutes.\n\nThe DVD is very simple, no access to a menu, no digital sound, no extras. It is a Showtime movie."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Showtime",
+        "duration": "PT1M22S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1639645465",
+        "name": "Bojangles",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYWViOGVkOGUtMjk3Ni00M2NlLTk3ODQtM2ZmMGIyYTJlYzFiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYWViOGVkOGUtMjk3Ni00M2NlLTk3ODQtM2ZmMGIyYTJlYzFiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:44:32Z",
+        "url": "https://www.imdb.com/video/vi1639645465/"
+    },
+    "url": "/title/tt0252287/"
+}

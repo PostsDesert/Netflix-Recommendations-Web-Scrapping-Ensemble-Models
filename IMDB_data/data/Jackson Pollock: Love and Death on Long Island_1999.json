@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVEpisode",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jackson Pollock",
+            "url": "/name/nm0689666/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ed Harris",
+            "url": "/name/nm0000438/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ruth Kligman",
+            "url": "/name/nm1036628/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 115,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "datePublished": "1999-03-09",
+    "description": "A documentary about the life of artist Jackson Pollock.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Teresa Griffiths",
+            "url": "/name/nm1021548/"
+        }
+    ],
+    "duration": "PT46M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTgzNjU2MTUwNF5BMl5BanBnXkFtZTcwMzc2NzMyMQ@@._V1_.jpg",
+    "keywords": "abstract art,abstract painting,abstract expressionism,reference to jackson pollock,alcoholism",
+    "name": "Jackson Pollock: Love and Death on Long Island",
+    "timeRequired": "PT46M",
+    "url": "/title/tt0285237/"
+}

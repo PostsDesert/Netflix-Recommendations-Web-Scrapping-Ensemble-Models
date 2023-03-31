@@ -1,0 +1,77 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dan Aykroyd",
+            "url": "/name/nm0000101/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Belushi",
+            "url": "/name/nm0000004/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve Cropper",
+            "url": "/name/nm0188936/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 441,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0013731/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0045429/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0154792/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dan Aykroyd",
+            "url": "/name/nm0000101/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tom Davis",
+            "url": "/name/nm0205569/"
+        }
+    ],
+    "description": "Dan Aykroyd and friends tell the story of the famous Saturday Night Live recurring musical characters.",
+    "duration": "PT1H",
+    "genre": [
+        "Documentary",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkwNTMyMzAyNF5BMl5BanBnXkFtZTcwNTU4NTEyMQ@@._V1_.jpg",
+    "keywords": "actor playing multiple roles,independent film",
+    "name": "The Best of the Blues Brothers",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "rdyas"
+        },
+        "dateCreated": "2001-03-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0106394/"
+        },
+        "name": "Great Docu About An Act That Brought Blues To A New Age.",
+        "reviewBody": "This documentry has great detail on the history how the ideas came about and the what made them choose the music. It has loads of clips and full videos. The only bad point it trys to rush over john's death and the reasons. But in all a great video."
+    },
+    "url": "/title/tt0106394/"
+}

@@ -1,0 +1,67 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "French Tickner",
+            "url": "/name/nm0862703/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kathleen Barr",
+            "url": "/name/nm0056532/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cathy Weseluck",
+            "url": "/name/nm0921699/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 16,
+        "ratingValue": 5.5,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0202951/"
+        },
+        {
+            "@type": "Person",
+            "name": "Slawomir Grabowski",
+            "url": "/name/nm2970686/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marek Nejman",
+            "url": "/name/nm2359519/"
+        }
+    ],
+    "description": "Once upon a time, there wa a kitty named Gatsby. There was a second kitty named D. Gatsby was young, handsome, and everyone loved him. D was jealous of Gatsby... and hated how everyone fawned over cute little Gatsby. So one day, D...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ireneusz Czesny",
+            "url": "/name/nm1673658/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ryszard Szymczak",
+            "url": "/name/nm2929060/"
+        }
+    ],
+    "duration": "PT28M",
+    "genre": [
+        "Short",
+        "Animation",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk4MDQ2NzM0MF5BMl5BanBnXkFtZTcwNjI4ODMyMQ@@._V1_.jpg",
+    "keywords": "farm,cat",
+    "name": "A Tale of Two Kitties",
+    "url": "/title/tt0211657/"
+}

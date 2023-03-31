@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sharon Stone",
+            "url": "/name/nm0000232/"
+        },
+        {
+            "@type": "Person",
+            "name": "Billy Connolly",
+            "url": "/name/nm0175262/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gil Bellows",
+            "url": "/name/nm0004743/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2356,
+        "ratingValue": 5.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0017377/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0060324/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0016534/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen Metcalfe",
+            "url": "/name/nm0582479/"
+        }
+    ],
+    "datePublished": "2000-06-09",
+    "description": "A bad girl becomes a con artist, gets into trouble with the mob and taps a nice-guy florist for help.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Stephen Metcalfe",
+            "url": "/name/nm0582479/"
+        }
+    ],
+    "duration": "PT1H38M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjE0ZTI3NTctZGQ5Ny00Y2QzLWEzMzQtZjIwMThhMWJjYTM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "seduction,character name as title,nickname as title,two word title,irish",
+    "name": "Beautiful Joe",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ejon49"
+        },
+        "dateCreated": "2005-03-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0200472/"
+        },
+        "name": "Not a bad flick at all",
+        "reviewBody": "I passed over Beautiful Joe at the video store for more than a year as I went through titles of non-first run films that I had not watched. After a year, I grabbed this one off the shelf and was pleasantly surprised by it. I thoroughly enjoyed the warmth that Billy Connolly gave his \"beautiful\" Joe character in his \"adventures\" with Sharon Stone and her two children. He seemed to genuinely enjoy the kids. Stone's \"Hush\" character kept the film consistent and on track. I enjoyed her sex appeal in her youth. I now appreciate the depth she brings to the roles she's been playing as a mature woman. I also liked how the director and screenwriter didn't bury Jurnee Smollett or Dillon Moen, Stone's two children, in the script. They had a closeness about them that made them feel like real brothers and sisters. Not a bad film. It's one I'd watch again.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0200472/"
+}

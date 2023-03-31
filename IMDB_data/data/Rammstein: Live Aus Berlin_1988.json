@@ -1,0 +1,73 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Till Lindemann",
+            "url": "/name/nm0511570/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christoph Schneider",
+            "url": "/name/nm0773750/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Landers",
+            "url": "/name/nm0004574/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1779,
+        "ratingValue": 9.1,
+        "worstRating": 1
+    },
+    "alternateName": "Rammstein: Live in Berlin",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0104239/"
+        }
+    ],
+    "description": "German heavy metal band Rammstein have been remarkably successful all over the world. Extremely loud, hard, and industrial, the band has been together since the mid-1990's. \"Live aus Berlin\" was filmed on August 22nd and 23rd 1998...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Hamish Hamilton",
+            "url": "/name/nm0357895/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Documentary",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA1OTIxNDI3OV5BMl5BanBnXkFtZTcwMTQ2MTkxMQ@@._V1_.jpg",
+    "keywords": "live performance,concert film",
+    "name": "Rammstein: Live aus Berlin",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Agent10"
+        },
+        "dateCreated": "2002-08-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0207697/"
+        },
+        "name": "Hardcore metal in all of its fiery glory",
+        "reviewBody": "Very few live videos can produce the sheer power of what Rammstein can do. With their trademark flamethrowers and high adrenaline stage antics, Rammstein remains one of those cult bands which most people will never get to see in person (like myself). Until the day I get to see them in person, this video will have to be my single concert experience of one of my favorite bands.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0207697/"
+}

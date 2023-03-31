@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tomas Milian",
+            "url": "/name/nm0587401/"
+        },
+        {
+            "@type": "Person",
+            "name": "Manny Perez",
+            "url": "/name/nm0673563/"
+        },
+        {
+            "@type": "Person",
+            "name": "Danny Hoch",
+            "url": "/name/nm0387773/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 406,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0078402/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0055293/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0055967/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nat Moss",
+            "url": "/name/nm1155935/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alfredo Rodriguez de Villa",
+            "url": "/name/nm0212137/"
+        },
+        {
+            "@type": "Person",
+            "name": "Junot Diaz",
+            "url": "/name/nm1155043/"
+        }
+    ],
+    "datePublished": "2002-05-09",
+    "description": "In the Latino neighborhood of New York City's Washington Heights, two sons of immigrants one Dominican, one Irish wrestle with ambition and identity, only to discover that sometimes pursuing one's dreams comes at a heavy cost.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Alfredo Rodriguez de Villa",
+            "url": "/name/nm0212137/"
+        }
+    ],
+    "duration": "PT1H29M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTcxNTU2MzQzNl5BMl5BanBnXkFtZTYwMTAzNzk5._V1_.jpg",
+    "keywords": "new york city,dominican,digital video",
+    "name": "Washington Heights",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "caspian1978"
+        },
+        "dateCreated": "2004-12-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0314871/"
+        },
+        "name": "Several Stories in One",
+        "reviewBody": "Washington Heights is geared toward the Latino community. A nice movie about a small community inside a giant New York city. Much like its audience, the movie itself was made by the efforts of Latinos. While the movie focuses on the main character and his interactions with his friends, enemies, parents, and girlfriend, the movie's strongest link is the side story of the Father. It is the relationship between the Father and the Son that keeps many audience members interested in what is going to happen next. Instead, the story jumps too much between the side stories of the friend who wants to go bowling, his girlfriend who is making dresses, and the neighborhood that jumps in and out of everybody's lives without warning. In the end, a nice story that hits home on many levels. The story about a father and a son who were never Father and Son is the strongest link in this movie's chain.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT1M34S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1576796441",
+        "name": "Washington Heights",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDFmNDJhNTUtNWRhZi00ZTZmLTk3YmYtYzBmZTkyNTA4NTU1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDFmNDJhNTUtNWRhZi00ZTZmLTk3YmYtYzBmZTkyNTA4NTU1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:19:40Z",
+        "url": "https://www.imdb.com/video/vi1576796441/"
+    },
+    "url": "/title/tt0314871/"
+}

@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Wayne",
+            "url": "/name/nm0000078/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Ryan",
+            "url": "/name/nm0752813/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Burton",
+            "url": "/name/nm0000009/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 57115,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0014296/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cornelius Ryan",
+            "url": "/name/nm0752485/"
+        },
+        {
+            "@type": "Person",
+            "name": "Romain Gary",
+            "url": "/name/nm0308900/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Jones",
+            "url": "/name/nm0428296/"
+        }
+    ],
+    "datePublished": "1962-10-04",
+    "description": "The events of D-Day, told on a grand scale from both the Allied and German points of view.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ken Annakin",
+            "url": "/name/nm0002175/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrew Marton",
+            "url": "/name/nm0554249/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gerd Oswald",
+            "url": "/name/nm0652631/"
+        }
+    ],
+    "duration": "PT2H58M",
+    "genre": [
+        "Action",
+        "Drama",
+        "History"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTM1ZjQ2YTktNDM2MS00NGY2LTkzNzItZTU4ODg1ODNkMWYxL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "keywords": "world war two,d day,beach,nazi occupied france,military officer",
+    "name": "The Longest Day",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "sawyertom"
+        },
+        "dateCreated": "2003-03-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0056197/"
+        },
+        "name": "One of the Greatest War Films Ever Bar None!!!",
+        "reviewBody": "The Longest Day is one of the greatest war films ever. Bar none. The acting, the cinematography, the storline and the acuraccy are great. if any of you fans watch AMC watch the Backstory behind this movie. It's amazing that it was even made. This is Zanuck's greatest work. The perspective from the different combatants regardless of their rank is great. Like somebody else said it did not portray the Germans as cartoonish evil doers. It gave a good honest portrayal that I wish more war movies would have. As a history buff I love to see movies from other countries soldier perspectives. This captures it better than every other war movie. The only one that comes close is Tora, Tora, Tora. There is one drawback however and that is the rangers at Pointe De Hoc. They did find the big guns but,they were further inland and later destroyed before they could be used. Zanuck used this to show the futility and waste of war. Other than that is a classic with very few flaws. The comparison between SPR and TLD are well like comparing apples and oranges. Yes, SPR has gritty realism that stuns you, but like another reviewer said, this was 1962 and the movie was about the entire scope of the battle. It was not meant to be up close and personal like SPR. Many of us appreciate movies from different perspctives. This is not a movie you should not rent. You should own it as part of your video collection. This movie may appear to be pro-war and patriotic, but Zanuck himself said he wanted to make an anti-war film. I think he did so magnificantly. He captured the essence of the book where Cornelius Ryan said he wrote about the men,not the battles. That is why Zanucks film is so successful. He captured the men and their feelings, whether they were American, British,German's or French and what they were feeling going into one WW2's most decisive battle. This is a Four Star Classic!!!!"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from 20th Century Fox",
+        "duration": "PT3M8S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1458569497",
+        "name": "The Longest Day",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOWNlZjQ2ODgtMzhmOS00NjA1LTkyMGQtNDU5MjFiZjVhOTIzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOWNlZjQ2ODgtMzhmOS00NjA1LTkyMGQtNDU5MjFiZjVhOTIzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:35:28Z",
+        "url": "https://www.imdb.com/video/vi1458569497/"
+    },
+    "url": "/title/tt0056197/"
+}

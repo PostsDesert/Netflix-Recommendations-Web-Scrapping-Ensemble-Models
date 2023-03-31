@@ -1,0 +1,52 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Teresa Harder",
+            "url": "/name/nm0362142/"
+        },
+        {
+            "@type": "Person",
+            "name": "Florian Lukas",
+            "url": "/name/nm0525518/"
+        },
+        {
+            "@type": "Person",
+            "name": "Axel Prahl",
+            "url": "/name/nm0695127/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6,
+        "ratingValue": 8,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0048049/"
+        },
+        {
+            "@type": "Person",
+            "name": "Norbert Baumgarten",
+            "url": "/name/nm1201923/"
+        }
+    ],
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Norbert Baumgarten",
+            "url": "/name/nm1201923/"
+        }
+    ],
+    "duration": "PT21M",
+    "genre": [
+        "Short"
+    ],
+    "name": "Happy End",
+    "url": "/title/tt0416800/"
+}

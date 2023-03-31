@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jon Heder",
+            "url": "/name/nm1417647/"
+        },
+        {
+            "@type": "Person",
+            "name": "Efren Ramirez",
+            "url": "/name/nm0708293/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jon Gries",
+            "url": "/name/nm0340973/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 225833,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0028932/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0034438/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jared Hess",
+            "url": "/name/nm0381478/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jerusha Hess",
+            "url": "/name/nm1415801/"
+        }
+    ],
+    "datePublished": "2004-08-27",
+    "description": "A listless and alienated teenager decides to help his new friend win the class presidency in their small western high school, while he must deal with his bizarre family life back home.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jared Hess",
+            "url": "/name/nm0381478/"
+        }
+    ],
+    "duration": "PT1H36M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjYwNTA3MDIyMl5BMl5BanBnXkFtZTYwMjIxNjA3._V1_.jpg",
+    "keywords": "family relationships,teenager,high school,idaho,salesman",
+    "name": "Napoleon Dynamite",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "elperrosato"
+        },
+        "dateCreated": "2004-04-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0374900/"
+        },
+        "name": "Best movie of 2004",
+        "reviewBody": "This movie is a genx love fest and it made me feel better than any movie I have ever seen. Essentially, this movie is a remake of \"welcome to the dollhouse\" and a lot of the other slacker-esque movies of that era. The film follows the misadventures of a complete loser (Napoleon Dynamite is a near sighted high school kid with a penchant for medieval warriors and tall tales), his best friend (the new kid in town, a Mexican immigrant who must comprehend life in rural Idaho), their shared love interest (she is deliciously quirky on her own), and a few other random characters (Napoleon's scheming \"get rich quick\" uncle and his internet chatroom obsessed loser 32-year-old-but-still-living-at-home brother). In terms of story, this one is tops. All of the \"good\" characters grow and become much more than they were when the movie began. This film celebrates friendship at it's basest level and demonstrates the triumph of good people above overwhelming odds. The true appeal of this movie though, for me, was the close attention that the director paid to making this movie feel like the early 1990's or late 1980's. Characters wear zubbas and hand out friendship bracelets. Even the vocabulary the actors use comes from this era (when was the last time you called someone \"retarded\", for example), but it is done so in such a genuine manner. The music and the style are very appropriate, and you can really feel the social awkwardness of Napoleon and his friends. While this movie was made in many ways to appeal to those who can most relate to the awkward years of growing up (the unpopular kids, the new kid, the medieval warrior obsessed clique, the metal heads, the stoners, all the general low lifes you probably associated with, or possibly were at school), this will nevertheless appeal to everyone else. The comedy is not made to be knee slapping, but it's sublety is wonderful and I found myself laughing throughout the entire film. If you have ever rooted for the underdog, this is the movie for you. I can't spoil the ending for you, but for real, no movie has ever made me feel as happy and as inspired as this one. I can't wait to see what this director comes up with next!"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A listless and alienated teenager decides to help his new friend win the class presidency in their small western high school, while he must deal with his bizarre family life back home.",
+        "duration": "PT1M15S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1469841689",
+        "name": "Napoleon Dynamite",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzM4NDA5MzMyMF5BMl5BanBnXkFtZTcwNTE2Mjc2MQ@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzM4NDA5MzMyMF5BMl5BanBnXkFtZTcwNTE2Mjc2MQ@@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:24:05Z",
+        "url": "https://www.imdb.com/video/vi1469841689/"
+    },
+    "url": "/title/tt0374900/"
+}

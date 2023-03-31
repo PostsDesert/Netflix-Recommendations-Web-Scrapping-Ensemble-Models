@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Halle Berry",
+            "url": "/name/nm0000932/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Belushi",
+            "url": "/name/nm0000902/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Hunter",
+            "url": "/name/nm0402730/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3268,
+        "ratingValue": 5.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005883/"
+        },
+        {
+            "@type": "Person",
+            "name": "Barry Morrow",
+            "url": "/name/nm0607454/"
+        }
+    ],
+    "datePublished": "1996-03-22",
+    "description": "A bunch of high school misfits in Hawaii, introduced by their new teacher, attend a science fair in which they draw up inspiration to build their own solar car and win a trip to compete in the 1990 World Solar Challenge in Australia.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Charles T. Kanganis",
+            "url": "/name/nm0304395/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZDQ2ZGJlOTAtMmM1Yi00MGNlLWIwMDgtMzkzNTA1NWU3YzhiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "high school student,teenage boy,teenage girl,solar car,building a car",
+    "name": "Race the Sun",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Musiq_One"
+        },
+        "dateCreated": "2004-04-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0117427/"
+        },
+        "name": "Not so much Halle's movie",
+        "reviewBody": "The opening begins with Halle as Sandra Beecher fleeing from a broken marriage and setting up new in a working class section of Hawaii.\n\nThe English teacher takes a job as a Science teacher and at this point I'm thinking \"Dangerous Minds: Hawaiian Style.\" The classroom is similar a working class neighbourhood, run down school and disruptive kids. But Ms Beecher, who takes the lead in the first quarter of the movie tries to inspire the kids and butts heads with James Belushi's Frank Machi. The experienced engineering teacher.\n\nThe rest of the movie really belongs to the kids. After a clash between a rich school at a science fair Ms Beecher makes the kids go to they are inspired to build a solar power car to race in and earn their school a better rep. Leading this pack is outcasted, because he's white, ambitious Daniel Webster superbly played by Casey Affleck and the heartwarming, Gilbert a standout character played by J. Moki Cho (who unfortunatley does not have much of a filmography at this point). Roped in is the troubled sister of Daniel, Cindy with a solid peformance by Eliza Dushku and a whole host of other characters each one memorable and stand out. Together they build their hopes, learn from each other and not too sound cheesy but they really do race the sun.\n\nThis would have been a great family film had it not been for the language. But if that doesn't put you off then I would suggest watching it with them. It really is a a good solid movie. I watched it over a week ago at 3am because i couldn't sleep but it still has stuck with me."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Tristar",
+        "duration": "PT2M25S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1686241561",
+        "name": "Race the Sun",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDVhNzkyOWEtZTJlNC00YTM3LWE1OWQtNDA3ZjY3NzAxMjE5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDVhNzkyOWEtZTJlNC00YTM3LWE1OWQtNDA3ZjY3NzAxMjE5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:48:03Z",
+        "url": "https://www.imdb.com/video/vi1686241561/"
+    },
+    "url": "/title/tt0117427/"
+}

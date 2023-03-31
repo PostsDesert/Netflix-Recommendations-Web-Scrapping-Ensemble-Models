@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Nicolas Cage",
+            "url": "/name/nm0000115/"
+        },
+        {
+            "@type": "Person",
+            "name": "Penélope Cruz",
+            "url": "/name/nm0004851/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Hurt",
+            "url": "/name/nm0000457/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 35000,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0047476/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0022594/"
+        },
+        {
+            "@type": "Person",
+            "name": "Shawn Slovo",
+            "url": "/name/nm0806256/"
+        },
+        {
+            "@type": "Person",
+            "name": "Louis de Bernières",
+            "url": "/name/nm0207408/"
+        }
+    ],
+    "datePublished": "2001-08-17",
+    "description": "When a fisherman leaves to fight with the Greek army during World War II, his fiancée falls in love with the local Italian commander.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Madden",
+            "url": "/name/nm0006960/"
+        }
+    ],
+    "duration": "PT2H11M",
+    "genre": [
+        "Drama",
+        "Music",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzc0MmRmZDAtZWRjYi00ODM3LTllZDEtNjljMjNiMzgxZDcyXkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_.jpg",
+    "keywords": "scene during closing credits,epic war,fiance fiancee relationship,wartime romance,greek",
+    "name": "Captain Corelli's Mandolin",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "officersmess"
+        },
+        "dateCreated": "2001-05-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0238112/"
+        },
+        "name": "Very Watchable",
+        "reviewBody": "Unlike many, I have not read the book and so I watched this purely as a film in its own right. I'm not especially keen on romance dramas, and I expected this to be a bit slushy and/or operatic so I was rather hesitant about going to see it in the first place...\n\nBut I'm glad I did, because it was good. Beautiful, \"feel good\" scenery and with a light touch of humour that made it rather more endearing than a straight drama would have been. The romance was gentle, inoffensive and sufficiently interwoven with enough \"proper\" story-telling to keep my interest, and the score was not too obtrusively operatic.\n\n Overall, the film takes a satisfying circular route from start to finish, inducing a range of emotions as it progresses. It's about 2 hours long, but I didn't find myself fidgeting or looking at my watch once - and that's quite a feat for me!! Very enjoyable.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Universal Studios Home Entertainment",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4206625049",
+        "name": "Captain Corelli's Mandolin",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjRjODI2YTktOGM1Zi00MDY3LThmOTktNmJlZGQwM2NlYjg2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjRjODI2YTktOGM1Zi00MDY3LThmOTktNmJlZGQwM2NlYjg2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:01:26Z",
+        "url": "https://www.imdb.com/video/vi4206625049/"
+    },
+    "url": "/title/tt0238112/"
+}

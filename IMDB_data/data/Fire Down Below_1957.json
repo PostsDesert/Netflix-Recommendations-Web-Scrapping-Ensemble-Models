@@ -1,0 +1,85 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Rita Hayworth",
+            "url": "/name/nm0000028/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Mitchum",
+            "url": "/name/nm0000053/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jack Lemmon",
+            "url": "/name/nm0000493/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1809,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103268/"
+        },
+        {
+            "@type": "Person",
+            "name": "Irwin Shaw",
+            "url": "/name/nm0789758/"
+        },
+        {
+            "@type": "Person",
+            "name": "Max Catto",
+            "url": "/name/nm0146386/"
+        }
+    ],
+    "datePublished": "1957-06-14",
+    "description": "The friendship between two tramp boat owners is threatened by the arrival of a beautiful and seductive passenger.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Parrish",
+            "url": "/name/nm0663577/"
+        }
+    ],
+    "duration": "PT1H56M",
+    "genre": [
+        "Adventure",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTFkODQ2YzItYzRhZi00Y2JhLTgwOGUtMzliOTJiNWFkMzIwXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_.jpg",
+    "keywords": "boat,smuggling,based on novel,hairy chest,homosexual subtext",
+    "name": "Fire Down Below",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "cheathamg"
+        },
+        "dateCreated": "2006-07-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0050397/"
+        },
+        "name": "Too bad it wasn't filmed in black and white.",
+        "reviewBody": "It's interesting that the things that make this film weak would have made it great if only it had been made in the late forties or early fifties and had been made in black and white. The setting is some exotic never-never land where life is cheap and morality is a rare and expensive commodity somewhere in the Caribbean. The acting is stylized. The characterizations are two-dimensional. The story is one of an overheated romance and acts of heroism involving people who are not worthy of respect except that ultimately they do the right thing. Rita Hayworth is a bad girl with a heart of gold, a faded version of Gilda. Robert Mitchum is doing his usual Robert Mitchum imitation, i.e. he's just too tired and bored to give the really good performance of which he was capable. Jack Lemmon is the idealist romantic who is willing to lay everything on the line and winds up learning a bitter lesson about people. As I said earlier, if only this film had been made earlier and in black and white it would have been an archetypal example of film noir. Personally, I like film noir but the genre was highly stylized and too often the actors were required to strike poses rather than develop the personalities of the parts they were playing. Unfortunately this film was made too late to be considered a part of that form and therefore deserves scorn instead of being lauded in Saturday afternoon showings at Parisian film societies.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0050397/"
+}

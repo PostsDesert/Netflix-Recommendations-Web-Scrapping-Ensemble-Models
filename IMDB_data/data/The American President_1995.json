@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Michael Douglas",
+            "url": "/name/nm0000140/"
+        },
+        {
+            "@type": "Person",
+            "name": "Annette Bening",
+            "url": "/name/nm0000906/"
+        },
+        {
+            "@type": "Person",
+            "name": "Martin Sheen",
+            "url": "/name/nm0000640/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 58686,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0040620/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0034515/"
+        },
+        {
+            "@type": "Person",
+            "name": "Aaron Sorkin",
+            "url": "/name/nm0815070/"
+        }
+    ],
+    "datePublished": "1995-11-17",
+    "description": "A widowed U.S. President running for reelection and an environmental lobbyist fall in love. It's all above-board, but \"politics is perception,\" and sparks fly anyway.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Rob Reiner",
+            "url": "/name/nm0001661/"
+        }
+    ],
+    "duration": "PT1H54M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjhkMmU0M2YtZDUwYi00OWE0LWI5NTktODBjNDc1M2ZlMjI4XkEyXkFqcGdeQXVyNDAxNjkxNjQ@._V1_.jpg",
+    "keywords": "president,politics,christmas,dating,reference to franklin d. roosevelt",
+    "name": "The American President",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "michaela-5"
+        },
+        "dateCreated": "2018-01-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0112346/"
+        },
+        "name": "The president America wants",
+        "reviewBody": "Aaron Sorkin's script and pitch-perfect performances by Annette Bening and Michael Douglas create a funny and ultimately poignant movie that makes a viewer happy to be an American.\n\nDouglas portrays a flawed but deeply honest president who knows how to learn from his mistakes. He conducts himself with dignity. Bening is a political lobbyist with a strong commitment to the environment. (Interesting that a film made 23years ago outlines environmental issues more clearly than they would be articulated today!) How can a relationship develop between two people given their very different positions in the political life of the country? How they work through these issues goes from humorous to dramatic and, of course, a happy ending.\n\nAll the minor characters are well fleshed out. In particular, Martin Sheen as Chief of Staff wants happiness for his old friend, but is very aware of the poltiical realities involved. Michael J. Fox wants the president to be the best man he can be, wants him to live up to the highest values of the office.\n\nWatching this film, I am struck by the ability of the Office of the President to create positive change in this world. I hope we can see this reflected at the White House once again some day.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Pictures",
+        "duration": "PT1M35S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2626552089",
+        "name": "The American President",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDVkNWUwZDEtOTM4OC00ZmQ0LWFkNDctODZhYjg4YmI5ZDBmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDVkNWUwZDEtOTM4OC00ZmQ0LWFkNDctODZhYjg4YmI5ZDBmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:29:04Z",
+        "url": "https://www.imdb.com/video/vi2626552089/"
+    },
+    "url": "/title/tt0112346/"
+}

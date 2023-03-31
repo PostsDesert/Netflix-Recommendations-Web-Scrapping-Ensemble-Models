@@ -1,0 +1,94 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kurt Russell",
+            "url": "/name/nm0000621/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cesar Romero",
+            "url": "/name/nm0003110/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joe Flynn",
+            "url": "/name/nm0283499/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5553,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0098836/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joseph L. McEveety",
+            "url": "/name/nm0568539/"
+        }
+    ],
+    "datePublished": "1969-12-24",
+    "description": "At Medfield College, an accident with a donated computer gives Dexter Riley the ability to remember any knowledge learned instantly and perfectly.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Butler",
+            "url": "/name/nm0125111/"
+        }
+    ],
+    "duration": "PT1H31M",
+    "genre": [
+        "Comedy",
+        "Family",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTcwMmEzZWUtMWZjNy00MDE2LWFhYmMtNTQ1NmJmMjE2NGMwXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "body in a trunk,police raid,reference to jefferson airplane,whistler's mother,reference to nude descending a staircase",
+    "name": "The Computer Wore Tennis Shoes",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "HotToastyRag"
+        },
+        "dateCreated": "2021-05-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0065566/"
+        },
+        "name": "Dated, but still Disney fun",
+        "reviewBody": "Though highly successful at the time, I'm not sure the Kurt Russell trilogy starting with The Computer Wore Tennis Shoes has stood the test of time very well. It'll be hard to get kids to understand a movie that features a computer the size of an entire room. In an underfunded college, it's a huge achievement for them to get one computer donated to the campus. In a freak accident, Kurt gets electrocuted and melds his mind with the computer chip. He's a walking encyclopedia!\n\nBut, kids today won't understand how amazing his superpower is. They just whip out their cell phones and Google their questions, finding answers in seconds. They've probably never read an actual encyclopedia in their lives, relying on Wikipedia instead. If you're able to explain it to them, this might be a cute choice for family movie night. It's a classic Disney movie with no real danger anywhere, but with a pseudo-menacing bad guy (Cesar Romero) who wants money and power and chases after the good guy. There are terrible 1960s haircuts, music that will make you roll your eyes, and an extremely silly paint fight.\n\nBefore you feel sorry for big-time actors like Cesar Romero, David Niven, and Fred MacMurray who played in silly Disney movies when they grew older, keep this in mind: Many silver screen actors were disgusted by the inappropriate films after the demise of the Hays Code. Disney movies with banana peels and pies in the face reminded them of the good old days of the 1930s. They were probably very happy to make them!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "At Medfield College, an accident with a donated computer gives Dexter Riley the ability to remember any knowledge learned instantly and perfectly.",
+        "duration": "PT1M14S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi830653209",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYTRhY2Q2MTctOTQyNi00MmI5LThkYzgtOTI4OGIwZDFmMDY4XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTRhY2Q2MTctOTQyNi00MmI5LThkYzgtOTI4OGIwZDFmMDY4XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-10-17T19:03:03.320Z",
+        "url": "https://www.imdb.com/video/vi830653209/"
+    },
+    "url": "/title/tt0065566/"
+}

@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "William Powell",
+            "url": "/name/nm0001635/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carole Lombard",
+            "url": "/name/nm0001479/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alice Brady",
+            "url": "/name/nm0103567/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 24899,
+        "ratingValue": 8,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Person",
+            "name": "Morrie Ryskind",
+            "url": "/name/nm0753452/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eric Hatch",
+            "url": "/name/nm0368719/"
+        },
+        {
+            "@type": "Person",
+            "name": "Zoe Akins",
+            "url": "/name/nm0015399/"
+        }
+    ],
+    "datePublished": "1936-09-06",
+    "description": "A scatterbrained socialite hires a vagrant as a family butler - but there's more to Godfrey than meets the eye.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Gregory La Cava",
+            "url": "/name/nm0478441/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMGEwYmNlNjktOWNmMi00MTgzLWFmNjQtODQzM2UzMGJkZDI3XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg",
+    "keywords": "butler,homelessness,poverty,class differences,great depression",
+    "name": "My Man Godfrey",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "AgedInWood"
+        },
+        "dateCreated": "2000-10-31",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0028010/"
+        },
+        "name": "Classic Screwball Comedy",
+        "reviewBody": "My Man Godfrey is a classic ensemble film with Carole Lombard and William Powell at the helm. The comedic timing is nearly perfect and the script is a winner. Character actors Eugene Palette and Mischa Auer absolutely shine. Lombard defined screwball with her on and off screen antics. Her portrayal of the rich and flighty (yet ultimately wise) Irene Bullock is one of her best performances. Powell's Godfrey matches her step for step, and Powell does one better by showing us depth in his character rather than play straight man to her every madcap move.\n\nThe movie is fast-paced and defines the word zany. What is worth noting though is that in many ways it is a commentary of the times by comparing the 'haves' and 'have nots'. I would encourage everyone to watch with more than a comedic eye. Through Godfrey, director Gregory La Cava's film speaks volumes about the conditions of the 1930s. The U.S. was plunged in a depression that forced thousands to the breadlines. The film opens with a treasure hunt and one of the items to find is a forgotten man. The rich set out to the city dump to locate him with no regard for his plight or his dignity. The man they bring back as the prize is Godfrey, who soon is employed by the Bullock family as their butler. Powell and Gail Patrick as Irene's snooty sister, Cornelia, are the antithesis of each other and some of the best social barbs are exchanged between them. Keeping their esteemed place in society is paramount to the Bullock family, and only the father (Pallette) ever seems to worry about money. However, La Cava does not allow the film to wallow in pity for those less fortunate. The film amuses throughout but it is a real art to weave social commentary into a comedy without banging you over the head. La Cava pulls it off beautifully.\n\nLa Cava, Lombard, Powell, Auer, and Alice Brady all deservedly earned Academy Award nominations. This movie will make you laugh and it should. It is very, very funny. It should also make you think. I suspect if you do both, Mr. La Cava and his wonderful cast will have done their jobs."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for this comedy of a dizzy debutante and her butler",
+        "duration": "PT52S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3249931545",
+        "name": "My Man Godfrey",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzEyMDA0YTYtN2I0Zi00YWYzLWE5YWUtODIyODBjZWVkNmIzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzEyMDA0YTYtN2I0Zi00YWYzLWE5YWUtODIyODBjZWVkNmIzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-10-22T04:49:40Z",
+        "url": "https://www.imdb.com/video/vi3249931545/"
+    },
+    "url": "/title/tt0028010/"
+}

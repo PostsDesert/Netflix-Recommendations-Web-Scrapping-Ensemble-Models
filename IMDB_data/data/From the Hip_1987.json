@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Judd Nelson",
+            "url": "/name/nm0000555/"
+        },
+        {
+            "@type": "Person",
+            "name": "Elizabeth Perkins",
+            "url": "/name/nm0001610/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Hurt",
+            "url": "/name/nm0000457/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2481,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0046277/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0010780/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bob Clark",
+            "url": "/name/nm0163706/"
+        },
+        {
+            "@type": "Person",
+            "name": "David E. Kelley",
+            "url": "/name/nm0005082/"
+        }
+    ],
+    "datePublished": "1987-02-06",
+    "description": "Robin, one year out of law school with one trial, gets set up with an unwinnable murder case for having forced his law firm to make him partner with unethical behavior, tarnishing the firm.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bob Clark",
+            "url": "/name/nm0163706/"
+        }
+    ],
+    "duration": "PT1H51M",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTAzYTQyY2ItOTI1YS00MDQ4LThiNjktZWYyNDJkOTQ4YzMyXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "hot,flirting,rake,teasing,boisterous man",
+    "name": "From the Hip",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "enviro"
+        },
+        "dateCreated": "1999-01-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0093051/"
+        },
+        "name": "80's Hilarious Courtroom Spoof from \"LA Law\" Writer",
+        "reviewBody": "There is no possible way to make a bad movie with Judd Nelson, Elizabeth Perkins, and David Alan Grier in starring roles. This film was written by David E. Kelley, the head writer from LA Law.\n\nThe film spoofs the legal profession, and courtroom drama specifically. The film should be watched by all law students and firm associates. Ignore those who label the humor as sophomoric. The film has a great story and is extremely funny.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Anchor Bay Entertainment",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi480837913",
+        "name": "From The Hip",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODc4MTVmZTUtOTFmMi00Njg4LWE3NDQtNDQ1MTY1MjgzYTlkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODc4MTVmZTUtOTFmMi00Njg4LWE3NDQtNDQ1MTY1MjgzYTlkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:13:58Z",
+        "url": "https://www.imdb.com/video/vi480837913/"
+    },
+    "url": "/title/tt0093051/"
+}

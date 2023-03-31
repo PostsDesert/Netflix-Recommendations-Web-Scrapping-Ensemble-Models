@@ -1,0 +1,70 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Boz Scaggs",
+            "url": "/name/nm0768693/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Cox",
+            "url": "/name/nm0185085/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Bluestein",
+            "url": "/name/nm1822037/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 26,
+        "ratingValue": 8.8,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0141405/"
+        }
+    ],
+    "datePublished": "2004-08-03",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Lawrence Jordan",
+            "url": "/name/nm0975333/"
+        }
+    ],
+    "duration": "PT1H55M",
+    "genre": [
+        "Music"
+    ],
+    "keywords": "non fiction",
+    "name": "Boz Scaggs: Greatest Hits Live",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "crossett"
+        },
+        "dateCreated": "2006-04-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0441847/"
+        },
+        "name": "Great Concert Video",
+        "reviewBody": "Whether one watches this on DVD or via HDTV, the experience is almost as good as being there. Boz Scaggs and his band don't disappoint.\n\nAll the old hits are there, along with some fine performances from his band and backup singers (GO Ms. Monet!).\n\nBoz's voice is as distinctive and fine as ever. A man of few words on-stage in this performance, he lets his songs, his singing and his band do the talking.\n\nThe direction of the film allows the viewer enjoy the crowd and the amazing venue that Boz and band are playing in.\n\nEnjoy!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0441847/"
+}

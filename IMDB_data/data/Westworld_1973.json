@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Yul Brynner",
+            "url": "/name/nm0000989/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Benjamin",
+            "url": "/name/nm0000907/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Brolin",
+            "url": "/name/nm0000981/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 60201,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007143/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Crichton",
+            "url": "/name/nm0000341/"
+        }
+    ],
+    "datePublished": "1973-11-21",
+    "description": "A robot malfunction creates havoc and terror for unsuspecting vacationers at a futuristic, adult-themed amusement park.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Crichton",
+            "url": "/name/nm0000341/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMWY0NzM5MDAtYTg2NC00MDZjLTgwM2UtZjdiOTEzMjQ4MjU0L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "keywords": "computer,vacation,evil robot,future,hovercraft",
+    "name": "Westworld",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "grendelkhan"
+        },
+        "dateCreated": "2004-07-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0070909/"
+        },
+        "name": "Jurassic Park Version 1.0",
+        "reviewBody": "Westworld was the blueprint for what was later Jurassic Park. Here, Michael Crichton first envisoned Disneyland, if the Hall of presidents ran amuck. It provided many of the inspirations for later sci-fi films, like Terminator. It was a great blend of action, horror, and comedy.\n\nRichard Benjamin and James Brolin are the heroes of the film, but Yul Brynner is the star. He portrays a robot, based on his character from \"The Magnificent Seven.\" Brynner is the relentless killing machine who fights until the end. With almost no dialogue, he conveys fear with little more than expression and body language.\n\nThe film explores old themes, the dark side of technology, but it was ahead of its time in depicting the dangers of computers and automated systems. The effects are dated, but the story holds up well. The sequel, Futureworld, tried to add political intrigue, with less success. Definitely one for the sci-fi fan or collector, or cult movie lover."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT3M6S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2605037593",
+        "name": "Westworld",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjlkYWZjNjctMjNhMi00MDg2LWI5Y2YtNWYzMTE0NTZhYjIzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjlkYWZjNjctMjNhMi00MDg2LWI5Y2YtNWYzMTE0NTZhYjIzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2018-05-04T17:22:41Z",
+        "url": "https://www.imdb.com/video/vi2605037593/"
+    },
+    "url": "/title/tt0070909/"
+}

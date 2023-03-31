@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Joe Don Baker",
+            "url": "/name/nm0000833/"
+        },
+        {
+            "@type": "Person",
+            "name": "Elizabeth Hartman",
+            "url": "/name/nm0366946/"
+        },
+        {
+            "@type": "Person",
+            "name": "Leif Garrett",
+            "url": "/name/nm0308161/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6320,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0058998/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mort Briskin",
+            "url": "/name/nm0109858/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen Downing",
+            "url": "/name/nm0047732/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Michael Hayes",
+            "url": "/name/nm0371088/"
+        }
+    ],
+    "datePublished": "1973-02-22",
+    "description": "Based on the life of Tennessee sheriff Buford Pusser, who almost single-handily cleaned up his small town of crime and corruption, but at a personal cost of his family life and nearly his own life.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Phil Karlson",
+            "url": "/name/nm0439597/"
+        }
+    ],
+    "duration": "PT2H5M",
+    "genre": [
+        "Action",
+        "Biography",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNmE1NWQ2OGUtZjkyMS00NTQwLWJhYTctOTc3MmI1NGIwMzAwXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
+    "keywords": "sheriff,small town,tennessee,redneck,criminal syndicate",
+    "name": "Walking Tall",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "wlmlbl"
+        },
+        "dateCreated": "2002-08-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0070895/"
+        },
+        "name": "Buford Pusser is the best!",
+        "reviewBody": "One great movie! Joe Don Baker does a great job portraying Buford Pusser. This movies deals with a man that has just givin up pro wrestlng because he is sick and tired of being controlled by someone else. He returns home to Tennessee, and finds the same thing going on. His mother warns him to ignore it, but by accident, he finds out the hard way how these people operate. His battle is an uphill one. First, he is jailed for robbing the local bar. He acts as his own defense at the trial and wins. Then the local sheriff tries to kill him, and is killed himself. Once Pusser is elected sheriff, the fight really begins. He eventually cleans out the graft and corruption in McNairy County, and then he is ambushed, and his wife is tragically killed. Pusser finally has one last showdown with the people at the Lucky Spot. I would like to have seen Joe Don Baker do the other two movies. This movie is a real tear jerker at the end.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Walking Tall",
+        "duration": "PT1M12S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2483725337",
+        "name": "Walking Tall",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDliYmZmODctOWI2OC00ZDJiLWFjNmQtMWQzOGIyMWY4NzYxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDliYmZmODctOWI2OC00ZDJiLWFjNmQtMWQzOGIyMWY4NzYxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2012-10-20T03:44:12Z",
+        "url": "https://www.imdb.com/video/vi2483725337/"
+    },
+    "url": "/title/tt0070895/"
+}

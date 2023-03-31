@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mark Mothersbaugh",
+            "url": "/name/nm0006205/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gerald Casale",
+            "url": "/name/nm0142810/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carl Reiner",
+            "url": "/name/nm0005348/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 808,
+        "ratingValue": 5.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007950/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0040620/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0270971/"
+        },
+        {
+            "@type": "Person",
+            "name": "Roman Coppola",
+            "url": "/name/nm0178910/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lucas Reiner",
+            "url": "/name/nm0718008/"
+        }
+    ],
+    "datePublished": "1990-10-12",
+    "description": "In 2176, a magnetic storm erases all recorded history, including the U.S. Constitution, so, three time travelers are sent back to July 4, 1776, to retrieve the heritage, but end up in 1976's Bicentennial, while being perceived as ...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Lucas Reiner",
+            "url": "/name/nm0718008/"
+        }
+    ],
+    "duration": "PT1H22M",
+    "genre": [
+        "Comedy",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjY1MzI1OGYtMjkwYy00ODE5LTg2ZmUtODY4NGMyNzk0MTMzXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+    "keywords": "year 1776,year 2176,spoof,satire,year 1976",
+    "name": "The Spirit of '76",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "axraupp"
+        },
+        "dateCreated": "2000-11-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0100670/"
+        },
+        "name": "A campy romp through the 70's...for those of you who can't remember them.",
+        "reviewBody": "I was quite surprised that I liked this B film, as the start is pretty corny. Once you get over that fact, you see a pretty fun film, one which anyone who lived through the 70s will appreciate.\n\nApparently, this film is a 2nd generation's project. The executive producers are Copalla and Riener, the sons of Francis Ford Copalla and Rob Riener. I think that accounts for the relatively large cast of 70s stars. The music was great as there were snippits from many 70s tunes. I went looking for the soundtrack, but, unfortunately, it doesn't exist.\n\nThe main star, David Cassidy, was the lead singer for the Partridge Family, among other things. It would have been very easy for the producers to harp on that topic, but I was pleasantly surprised to see that the film didn't turn into an inside-joke factory.\n\nThis is a fun film to coast back to the 70s on. If you can get over the campiness of the beginning, you're in for a treat. Have a nice day!"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Tristar",
+        "duration": "PT1M45S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1183449369",
+        "name": "Spirit of '76",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjA2MjI0NmItNzU2My00ZGQ2LTk0YWYtNjJkNGIxM2YyZWM5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjA2MjI0NmItNzU2My00ZGQ2LTk0YWYtNjJkNGIxM2YyZWM5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:14:07Z",
+        "url": "https://www.imdb.com/video/vi1183449369/"
+    },
+    "url": "/title/tt0100670/"
+}

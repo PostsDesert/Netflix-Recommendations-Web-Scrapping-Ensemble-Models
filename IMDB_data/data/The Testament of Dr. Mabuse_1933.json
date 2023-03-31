@@ -1,0 +1,95 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Rudolf Klein-Rogge",
+            "url": "/name/nm0459030/"
+        },
+        {
+            "@type": "Person",
+            "name": "Otto Wernicke",
+            "url": "/name/nm0921532/"
+        },
+        {
+            "@type": "Person",
+            "name": "Thomy Bourdelle",
+            "url": "/name/nm0099786/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 13024,
+        "ratingValue": 7.9,
+        "worstRating": 1
+    },
+    "alternateName": "The Testament of Dr. Mabuse",
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0036089/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0069376/"
+        },
+        {
+            "@type": "Person",
+            "name": "Norbert Jacques",
+            "url": "/name/nm0415167/"
+        },
+        {
+            "@type": "Person",
+            "name": "Fritz Lang",
+            "url": "/name/nm0000485/"
+        },
+        {
+            "@type": "Person",
+            "name": "René Sti",
+            "url": "/name/nm0829954/"
+        }
+    ],
+    "datePublished": "1943-03-19",
+    "description": "A criminal mastermind uses hypnosis to rule the rackets after death.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Fritz Lang",
+            "url": "/name/nm0000485/"
+        }
+    ],
+    "duration": "PT2H2M",
+    "genre": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMWU4MDA0OTktMDNlZS00NDE2LTk2NTYtNDQ3YjNmYjJjMjNiXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg",
+    "keywords": "criminal mastermind,german expressionism,based on novel,character name in title,criminal conspiracy",
+    "name": "Das Testament des Dr. Mabuse",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "JohnSeal"
+        },
+        "dateCreated": "1999-11-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0023563/"
+        },
+        "name": "A not to be missed masterpiece of suspense filmmaking",
+        "reviewBody": "Even today The Testament of Dr Mabuse is refreshingly original and at times startling to watch. Lang was truly one of the greats of cinema and along with Alfred Hitchcock basically invented the suspense film. This film is also the reason Lang left Germany, as it wasn't viewed kindly by the newly elected government.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0023563/"
+}

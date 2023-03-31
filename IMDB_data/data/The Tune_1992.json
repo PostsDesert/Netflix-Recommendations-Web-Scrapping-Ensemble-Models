@@ -1,0 +1,90 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Daniel Neiden",
+            "url": "/name/nm0624604/"
+        },
+        {
+            "@type": "Person",
+            "name": "Maureen McElheron",
+            "url": "/name/nm0568394/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marty Nelson",
+            "url": "/name/nm0625595/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 991,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0017323/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Plympton",
+            "url": "/name/nm0687739/"
+        },
+        {
+            "@type": "Person",
+            "name": "Maureen McElheron",
+            "url": "/name/nm0568394/"
+        },
+        {
+            "@type": "Person",
+            "name": "P.C. Vey",
+            "url": "/name/nm0895509/"
+        }
+    ],
+    "datePublished": "2002-12-04",
+    "description": "A songwriter in love with his demanding boss's secretary enters an alternate, wacky world where a much-needed hit tune may be created from his heart.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bill Plympton",
+            "url": "/name/nm0687739/"
+        }
+    ],
+    "duration": "PT1H9M",
+    "genre": [
+        "Animation",
+        "Comedy",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTQyMTVlNjAtMjhkNS00NjM4LWJjNWYtZmQ2MDUyNThkMzFiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "keywords": "waitress,musician,music industry,hot dog,hamburger",
+    "name": "The Tune",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "RiffRaffMcKinley"
+        },
+        "dateCreated": "2007-03-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0105654/"
+        },
+        "name": "Best animated film of all time? Maybe!",
+        "reviewBody": "\"The Tune\" is amazing, a fantastic blend of low-quality animation and hilariously ridiculous songs. The characters are the most amazing ever seen-- doggy Elvis, a cab driver without a nose, a bellhop with a very large streak of sadism... they're all memorable head to toe. Perhaps the best moment in the movie involves Del's girlfriend Didi filing music notes (\"C sharp... B flat....\") What's not to like? Any movie that features a hot dog and a hot dog bun running towards each other in a meadow in slow motion is okay by me. The movie ranks in the pantheon of great cartoons with \"Dilbert,\" \"Family Guy,\" and even \"The Sword in the Stone.\" If you're looking for a safe, boring, sane award-winner, \"The Tune\" is definitely not for you!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0105654/"
+}

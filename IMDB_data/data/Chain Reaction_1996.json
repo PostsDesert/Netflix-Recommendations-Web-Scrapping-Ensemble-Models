@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Keanu Reeves",
+            "url": "/name/nm0000206/"
+        },
+        {
+            "@type": "Person",
+            "name": "Morgan Freeman",
+            "url": "/name/nm0000151/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rachel Weisz",
+            "url": "/name/nm0001838/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 53684,
+        "ratingValue": 5.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0070636/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0044165/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0195234/"
+        },
+        {
+            "@type": "Person",
+            "name": "Arne Schmidt",
+            "url": "/name/nm0772829/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rick Seaman",
+            "url": "/name/nm0780622/"
+        },
+        {
+            "@type": "Person",
+            "name": "Josh Friedman",
+            "url": "/name/nm0295264/"
+        }
+    ],
+    "datePublished": "1996-08-02",
+    "description": "Two researchers in a green alternative energy project are put on the run when they are framed for murder and treason.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Andrew Davis",
+            "url": "/name/nm0001112/"
+        }
+    ],
+    "duration": "PT1H47M",
+    "genre": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTkzZmQxZmQtZmJkMS00YmJlLWI0YmItMjcwYzBhM2E3NGQzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "keywords": "man wears eyeglasses,cia,secrecy,classified,government conspiracy",
+    "name": "Chain Reaction",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dsteve15"
+        },
+        "dateCreated": "2001-07-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0115857/"
+        },
+        "name": "Better than critics moo",
+        "reviewBody": "Has the same improbability clause of other flicks in the same genre. Notwithstanding, Chain Reaction has excellent lighting and set design. There is overall a strong dependency on team acting and multiple scene rotations. This gives the film a docu-drama effect in the beginning. The fast paced scenes may obscure the plot for some. For me the cinemagraphic effects and acting are A-1. Obviously the writing and direction are good, or this film would not hold together at all, and it does. Because there is little character development, the focus is on scene development and approaching plot. This sort of editing technique and direction does not happen by chance and must be recognized as a valid concept. Most certainly a film with character and merit which can be enjoyed by those looking beyond a breadcrumb plot and a gingerbread house script. Good music score (odd, but good) with good sound effects. Forget the trailer, which has little or no correspondence to the film itself, or maybe it does. This is a rather strange film where one has to believe a group of people with unique ideas came together and produced a rather odd film with value. I enjoyed it."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Chain Reaction",
+        "duration": "PT2M18S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1958543641",
+        "name": "Chain Reaction",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYTdjOWE3N2EtMDhlNC00YWY2LWEyYjEtNDM5MTZiNzM1ZDcxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTdjOWE3N2EtMDhlNC00YWY2LWEyYjEtNDM5MTZiNzM1ZDcxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:06:02Z",
+        "url": "https://www.imdb.com/video/vi1958543641/"
+    },
+    "url": "/title/tt0115857/"
+}

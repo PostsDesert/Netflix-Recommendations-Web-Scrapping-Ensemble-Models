@@ -1,0 +1,84 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jamie Bell",
+            "url": "/name/nm1267715/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Stover",
+            "url": "/name/nm0832928/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steven King",
+            "url": "/name/nm1053539/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 160,
+        "ratingValue": 3.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0085700/"
+        },
+        {
+            "@type": "Person",
+            "name": "Don Dohler",
+            "url": "/name/nm0230629/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joe Ripple",
+            "url": "/name/nm1032282/"
+        }
+    ],
+    "datePublished": "2002-10-08",
+    "description": "When Alyssa, the vampire queen and her vicious bodyguards jump from a parallel world to our earth, three determined vampire hunters follow -- and a life-and-death hunt is on.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Joe Ripple",
+            "url": "/name/nm1032282/"
+        }
+    ],
+    "duration": "PT1H23M",
+    "genre": [
+        "Action",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTk4OTdjNjktZjNiMC00MTI1LThkMzktODA2MDRmMzNhYjAyXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+    "keywords": "vampire,psychotronic film,stake,priest,police officer killed",
+    "name": "Stakes",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "kdill-3"
+        },
+        "dateCreated": "2009-03-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0337723/"
+        },
+        "name": "funny & bad",
+        "reviewBody": "Great cult movie with unintentionally funny dialog and acting. I lost tract of the body count.\n\nYes, as others have mentioned, there is a sex/nude scene which doesn't make much sense within the context of the movie. That's a minor problem.\n\nThis is one film you can sit and enjoy - and mock - with impunity. And, thankfully, has a running time of about 83 minutes. \n\nNow, I just wish I could create a stake deadly enough to stick into the heart of this movie.\n\nI'm giving it a 3 out of 10, which may be more than it really deserves but the CGI is pretty good throughout, so there's that.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 3,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0337723/"
+}

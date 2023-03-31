@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Anjelica Huston",
+            "url": "/name/nm0001378/"
+        },
+        {
+            "@type": "Person",
+            "name": "Raul Julia",
+            "url": "/name/nm0000471/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christopher Lloyd",
+            "url": "/name/nm0000502/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 170009,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0001995/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0093765/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Addams",
+            "url": "/name/nm0011623/"
+        },
+        {
+            "@type": "Person",
+            "name": "Caroline Thompson",
+            "url": "/name/nm0003031/"
+        },
+        {
+            "@type": "Person",
+            "name": "Larry Wilson",
+            "url": "/name/nm0933733/"
+        }
+    ],
+    "datePublished": "1991-11-22",
+    "description": "Con artists plan to fleece an eccentric family using an accomplice who claims to be their long-lost uncle.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Barry Sonnenfeld",
+            "url": "/name/nm0001756/"
+        }
+    ],
+    "duration": "PT1H39M",
+    "genre": [
+        "Comedy",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMmJhZTlhNzUtNzAwZC00YjQ2LTkxOGEtNzBmOWVkMmUxNTBiXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+    "keywords": "uncle,black comedy,graveyard,goth,husband wife relationship",
+    "name": "The Addams Family",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "oneloveall"
+        },
+        "dateCreated": "2007-05-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0101272/"
+        },
+        "name": "A morbid joy",
+        "reviewBody": "Extremely enjoyable update to the old t.v. show retains the eccentric spookiness and oddball humor of old, then proceeds to update the warped family familiarity with a rousing sense of decadent glee. The unexpectedly classy affair benefits greatly from the amazing casting that went into choosing all the Addams clan. What is nothing short of ensemble perfection, a sense of fun had by all on set during production remains undeniably infectious throughout, lending the amusing proceedings a distinct level of class.\n\nDirected by easily digestible Barry Sonnenfeld, The Addams Family may be a bit intense for young kids but should stay a delight to all others. A wonderful, gentle perversity that hangs over the entire family might have pushed things a little too far to justify this family film to the younger set, but will stay surprisingly balanced with an outpouring of heart and morality,simply flipped inside out here, for comedic intent.\n\nWonderful set and prop design mixed with it's politely warped sense of humor would have been enough to make Addams Family the success it became, although it was the brilliant casting which continues to uphold a credibility for this film. Led by the outstanding (and sadly missed) Raul Julia, nearly every single family member wears their role with an unreal amount of dignity, making the fairly standard plot completely memorable.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for The Addams Family",
+        "duration": "PT1M2S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1435369753",
+        "name": "The Addams Family",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOGM0YmYwYWUtNjRmOC00ZmM1LWFkMTAtNDg2MGJhZDIyNTZmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGM0YmYwYWUtNjRmOC00ZmM1LWFkMTAtNDg2MGJhZDIyNTZmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:28:23Z",
+        "url": "https://www.imdb.com/video/vi1435369753/"
+    },
+    "url": "/title/tt0101272/"
+}

@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Daniel Day-Lewis",
+            "url": "/name/nm0000358/"
+        },
+        {
+            "@type": "Person",
+            "name": "Winona Ryder",
+            "url": "/name/nm0000213/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Scofield",
+            "url": "/name/nm0006890/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 38800,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Person",
+            "name": "Arthur Miller",
+            "url": "/name/nm0007186/"
+        }
+    ],
+    "datePublished": "1996-11-27",
+    "description": "A Salem resident attempts to frame her ex-lover's wife for being a witch in the middle of the 1692 witchcraft trials.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Nicholas Hytner",
+            "url": "/name/nm0405336/"
+        }
+    ],
+    "duration": "PT2H4M",
+    "genre": [
+        "Drama",
+        "History"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BN2ZhOTQ5NGUtNDJiYy00ZTM5LWI5MDItNDI3OGZhYzlhZDRhXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+    "keywords": "witch hunt,salem witch trial,salem massachusetts,false accusation,witch",
+    "name": "The Crucible",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "zkonedog"
+        },
+        "dateCreated": "2017-02-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0115988/"
+        },
+        "name": "The Magic Of Arthur Miller",
+        "reviewBody": "Sometimes, movies that are designated as \"classic\" suffer from a strange sort of reverse- discrimination. That's probably the reason why it took me so long to actually see this version of \"The Crucible\", as I thought of it as \"old\" or \"not exciting enough\". What I quickly discovered, however, is that Arthur Miller's tale here is truly one for the ages. It's a shame I waited this long to see it!\n\nFor a basic plot summary, \"The Crucible\" is a story set during the Salem Witch Trials of 1692. Abigail Williams (Winona Ryder) and a number of her teenaged female friends are screwing around in the woods one night (typical teenage rebellion kind of stuff) when they are discovered and charged as witches. What Abigail and the gang quickly discover is that in front of Judge Danforth (Paul Scofield), \"acting the part\" of witches gives them a great deal of attention and power. Things get ugly fast and pretty soon the entire community is in an uproar over who may or may not be a witch. Enter John Proctor (Daniel Day-Lewis) and wife Elizabeth (Joan Allen), a common sense-driven couple who seemingly have the best chance to put an end to this madness. Yet, with John having a shady history with Abigail, they all ended up sucked into the lies and deceit, forcing difficult choices to be made regarding character and honesty.\n\nNot being as much of a theater enthusiast as I am of film/TV, this was just the second Arthur Miller work that I had seen (\"Death of a Salesman\" with Dustin Hoffman being the first). That playwright has an incredibly keen sense of universal human themes and how to manipulate them to create high drama. Though \"Crucible\" is set hundreds of years ago, I can confidently say that it will endure (in some form or another) for hundreds of years more. The characters, emotions, and plots feel like they could happen today or tomorrow. This film touches on such common, deep-seated issues as:\n\n-The power of religion (both good and bad) -The effect of mass hysteria on an uneducated community -The propensity of one lie to be followed by more -The lengths humans will go (or the shortcuts we may take) to preserve our names and honor -The conflicting romantic notions of both teenagers and adults\n\nSo, despite carrying a reputation that can get a little \"weighty\", \"The Crucible\" is really quite a simple film, concocting a plausible scenario and then letting human nature take its course. I recently saw the film \"The Witch\", a movie that shares much in theme with this earlier effort, and feel that the two measure up to each other quite well. If you enjoyed one, I think you will feel the same for the other.\n\nOverall, I was blown away by the simple, yet spectacular, quality of the writing and acting in \"The Crucible\". It will stimulate a lot of deep thought on the part of the viewer without getting overly complex or confusing. I think that there will be more Arthur Miller stories in my future!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT2M30S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1519059225",
+        "name": "The Crucible",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTdlZTcxZTQtNjM2OS00ZTY1LWE4YmMtZTFlMGJjYThjMjBiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTdlZTcxZTQtNjM2OS00ZTY1LWE4YmMtZTFlMGJjYThjMjBiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:17:00Z",
+        "url": "https://www.imdb.com/video/vi1519059225/"
+    },
+    "url": "/title/tt0115988/"
+}

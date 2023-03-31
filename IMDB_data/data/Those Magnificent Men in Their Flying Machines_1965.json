@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Stuart Whitman",
+            "url": "/name/nm0926183/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sarah Miles",
+            "url": "/name/nm0587234/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Fox",
+            "url": "/name/nm0289038/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 8843,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103215/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jack Davies",
+            "url": "/name/nm0203766/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ken Annakin",
+            "url": "/name/nm0002175/"
+        }
+    ],
+    "datePublished": "1965-06-16",
+    "description": "Hoping to push Britain to the forefront of aviation, a London publisher organizes an international air race across the English Channel, but must contend with two entrants vying for his daughter, as well as national rivalries and c...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ken Annakin",
+            "url": "/name/nm0002175/"
+        }
+    ],
+    "duration": "PT2H18M",
+    "genre": [
+        "Adventure",
+        "Comedy",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTdlMjk5NjQtMmNiNi00OTE3LTg3MjAtNmQ1MzQ3ZDY2ZTU1XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "keywords": "aviator,risk taking,air race,vintage aircraft,london england",
+    "name": "Those Magnificent Men in Their Flying Machines or How I Flew from London to Paris in 25 Hours 11 Minutes",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "adrian-43767"
+        },
+        "dateCreated": "2017-11-05",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0059797/"
+        },
+        "name": "Since childhood that I always rewatch this flick with pleasure",
+        "reviewBody": "I first watched this movie in a remote part of colonial Mozambique, brought around by a touring Catholic priest, and projected on a bed sheet, with all the local residents sitting on grass.\n\nPerhaps because most locals had never watched a film before, or seen aircraft, what I remember is people laughing throughout, with some kids (including me) trying to imitate what went on the screen. \n\nI remember finding Gert Frobe and Cassel very funny. Since then, I have watched this movie some four times at different points in my life and I've always found it both touchingly absurd and uproariously funny in parts. One can find many loopholes in the story, but that hardly matters in a well-intentioned film clearly determined to get a good laugh out of you.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Hoping to push Britain to the forefront of aviation, a London publisher organizes an international air race across the English Channel, but must contend with two entrants vying for his daughter, as well as national rivalries and cheating.",
+        "duration": "PT3M2S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi226870041",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMWM5NmVhYzItNzgzZi00MmE4LThiZjAtOTJiNDliNDRlZTg3XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMWM5NmVhYzItNzgzZi00MmE4LThiZjAtOTJiNDliNDRlZTg3XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-10-19T21:00:13.166Z",
+        "url": "https://www.imdb.com/video/vi226870041/"
+    },
+    "url": "/title/tt0059797/"
+}

@@ -1,0 +1,38 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kenny Loggins",
+            "url": "/name/nm0517721/"
+        },
+        {
+            "@type": "Person",
+            "name": "Will Ackerman",
+            "url": "/name/nm0010018/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael McDonald",
+            "url": "/name/nm0567909/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 30,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "description": "The Emmy-nominated Outside: From The Redwoods features an intimate set by Kenny Loggins packed with new arrangements of his greatest hits. Includes new versions of Footloose, Celebrate Me Home and This is It with special guest Mic...",
+    "duration": "PT1H21M",
+    "genre": [
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAyMzQyNzY0OF5BMl5BanBnXkFtZTcwODQ4NjEyMQ@@._V1_.jpg",
+    "keywords": "tv special,concert film",
+    "name": "Kenny Loggins: Outside from the Redwoods",
+    "url": "/title/tt0168024/"
+}

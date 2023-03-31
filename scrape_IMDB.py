@@ -9,6 +9,7 @@ import time
 import random
 
 COMPLETED_MOVIE_FILE = 'IMDB_data/completed_movies.csv'
+ERROR_MOVIE_FILE = 'IMDB_data/error_movies.csv'
 
 headers = {
     "Accept": "application/json, text/plain, */*",
@@ -56,6 +57,7 @@ def get_IMDB_data_by_movie(movie):
         # write error string to file
         with open("IMDB_data/error.txt", "a") as f:
             f.write(f"ERROR: Could not find match for: {movie['name']} at url: {url}\n")
+        write_movie_to_file(ERROR_MOVIE_FILE, movie)
         return None
 
 def fix_json(json_str):
@@ -66,8 +68,8 @@ def fix_json(json_str):
     json_str = ''.join(json_str.splitlines())
 
     fields_need_linting = [
-                            [r'"name":"', '(?:",|"})'],
-                            [r'"description":"', r'",'],
+                            [r'"name":"', '(?:","|"})'],
+                            [r'"description":"', '","'],
                             [r'"reviewBody":"', '(","reviewRating":|"},")'],
                             [r'"trailer":"', r'",'],
     ]
@@ -92,8 +94,8 @@ def write_IMDB_data_to_file(movie, IMDB_data):
     with open(f'IMDB_data/{movie["name"]}_{movie["year"]}.json', 'w') as outfile:
         outfile.write(IMDB_data)
 
-def write_completed_movie_to_file(movie):
-    with open(COMPLETED_MOVIE_FILE, 'a', newline='') as csvfile:
+def write_movie_to_file(file, movie):
+    with open(file, 'a', newline='') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=['index', 'year', 'name'])
         writer.writerow({'index': '', 'year': movie['year'], 'name': movie['name']})
 
@@ -103,11 +105,14 @@ def main():
 
     completed_list = read_movies_from_csv(COMPLETED_MOVIE_FILE)
     completed_list = [movie['name'] for movie in completed_list]
+    error_list = read_movies_from_csv(ERROR_MOVIE_FILE)
+    error_list = [movie['name'] for movie in error_list]
+    dont_search_list = completed_list + error_list
     
     
     IMDB_data = []
     for movie in movies:
-        if movie['name'] in completed_list:
+        if movie['name'] in dont_search_list:
             print(f"Skipping movie: {movie['name']} ({movie['year']})")
             continue
         
@@ -116,10 +121,10 @@ def main():
         
         if IMDB_data:
             write_IMDB_data_to_file(movie, IMDB_data)
-            write_completed_movie_to_file(movie)
+            write_movie_to_file(movie)
         
-        # randmize the time interval between each request
-        time.sleep(random.randint(1, 7))
+        # # randmize the time interval between each request
+        # time.sleep(random.randint(1, 7))
 
 if __name__ == '__main__':
     main()

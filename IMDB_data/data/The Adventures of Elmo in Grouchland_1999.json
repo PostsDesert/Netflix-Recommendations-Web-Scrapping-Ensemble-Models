@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kevin Clash",
+            "url": "/name/nm0165159/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mandy Patinkin",
+            "url": "/name/nm0001597/"
+        },
+        {
+            "@type": "Person",
+            "name": "Vanessa Williams",
+            "url": "/name/nm0001853/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3521,
+        "ratingValue": 5.8,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0011817/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0060192/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0012600/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mitchell Kriegman",
+            "url": "/name/nm0471233/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joey Mazzarino",
+            "url": "/name/nm0563505/"
+        }
+    ],
+    "datePublished": "1999-10-01",
+    "description": "A tug-of-war between Elmo and his friend sends his blanket to faraway Grouchland, a place full of grouchy creatures and the villainous Huxley. Elmo embarks on a rescue mission, learning important lessons about sharing and responsi...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Gary Halvorson",
+            "url": "/name/nm0357143/"
+        }
+    ],
+    "duration": "PT1H13M",
+    "genre": [
+        "Adventure",
+        "Comedy",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BM2VmNzU4ZGQtYjY1NS00ZTE3LTk5ODItZDQ3ZDFjNTIxYmQwXkEyXkFqcGdeQXVyNjgxNTAwNjQ@._V1_.jpg",
+    "keywords": "no opening credits,slimehouse,blanket,rescue,sesame street",
+    "name": "The Adventures of Elmo in Grouchland",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Quinoa1984"
+        },
+        "dateCreated": "2000-02-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0159421/"
+        },
+        "name": "A family film for all",
+        "reviewBody": "The Adventures of Elmo in Grouchland is one of the few films to come around this year that is for the whole family. It can be for the kids because the characters are so likable (especially Elmo played by Kevin Klash) and it can be for the parents because they remember the lovable characters they used to watch as a child. Along with a good story, great characters, and better than good songs, this film teaches kids many things (like sharing and friendship) and of course the Sesame Street characters are always a delight to see on the screen.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Columbia Pictures",
+        "duration": "PT2M2S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi394854681",
+        "name": "The Adventures of Elmo In Grouchland",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjUxMzU1YjktN2Q4NC00MDMxLWIxMDAtODU1MDJhOTIxNDYyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjUxMzU1YjktN2Q4NC00MDMxLWIxMDAtODU1MDJhOTIxNDYyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:09:34Z",
+        "url": "https://www.imdb.com/video/vi394854681/"
+    },
+    "url": "/title/tt0159421/"
+}

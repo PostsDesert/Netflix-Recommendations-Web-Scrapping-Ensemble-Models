@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Andre Gregory",
+            "url": "/name/nm0339737/"
+        },
+        {
+            "@type": "Person",
+            "name": "Wallace Shawn",
+            "url": "/name/nm0001728/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jean Lenauer",
+            "url": "/name/nm0501721/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 23076,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0091376/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0070072/"
+        },
+        {
+            "@type": "Person",
+            "name": "Wallace Shawn",
+            "url": "/name/nm0001728/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andre Gregory",
+            "url": "/name/nm0339737/"
+        }
+    ],
+    "datePublished": "1981-10-11",
+    "description": "Two old friends meet for dinner; as one tells anecdotes detailing his experiences, the other notices their differing worldviews.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Louis Malle",
+            "url": "/name/nm0001501/"
+        }
+    ],
+    "duration": "PT1H50M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYWZlMTk2MTYtYTlhMC00MjRiLWJlYzYtMWEzODY0NzFjYjFlXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg",
+    "keywords": "dialogue driven,restaurant,new york city,mysticism,intellectual",
+    "name": "My Dinner with Andre",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "kneiss1"
+        },
+        "dateCreated": "2010-09-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0082783/"
+        },
+        "name": "2 great storytellers keep you entertained through a 2 hours conversation",
+        "reviewBody": "This movie is mainly a conversation between 2 people. There isn't much music, barely any camera work, there actually is barely any acting because both actors play themselves!... it can barely be called a movie, but it still is one - and a very entertaining one at that. Both Actors have a gift for languages and are amazing story tellers. My native language is not English (you probably guessed it while reading this review), but even I have been amazed by the beautiful language and their amazing skill to talk.\n\nFrom a philosophical point of view, there is nothing new. I heard all the thoughts before. - The great strengths of the movie is the way those ideas are expressed. Even the most simple thought is coated by meaningful and beautiful words. You almost feel enlightened while watching this movie! But after the movie is over, you realize, that you actually learned nothing. It still has been a great experience. And I wished that there'd be more movies like this one.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Criterion Trailer",
+        "duration": "PT56S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2991692313",
+        "name": "My Dinner With Andre",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjNiYjYyOTYtYzM5Ny00ZTdhLWE0MmYtZWVmNmEwN2UzNTQwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjNiYjYyOTYtYzM5Ny00ZTdhLWE0MmYtZWVmNmEwN2UzNTQwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-02-19T06:31:33Z",
+        "url": "https://www.imdb.com/video/vi2991692313/"
+    },
+    "url": "/title/tt0082783/"
+}

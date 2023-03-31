@@ -1,0 +1,77 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Suniel Shetty",
+            "url": "/name/nm0792911/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mahima Chaudhry",
+            "url": "/name/nm0154274/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paresh Rawal",
+            "url": "/name/nm0712546/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 914,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0169737/"
+        },
+        {
+            "@type": "Person",
+            "name": "Priyadarshan",
+            "url": "/name/nm0698184/"
+        },
+        {
+            "@type": "Person",
+            "name": "Neeraj Vora",
+            "url": "/name/nm0903423/"
+        }
+    ],
+    "datePublished": "2001-10-12",
+    "description": "In debt; Dayashankar Pandey is forced to go to Bombay to ask his tenants to vacate his house as it is his only means of acquiring money to pay off his loans. But the problem is these people refuse to move forcing Dayashankar to ta...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Priyadarshan",
+            "url": "/name/nm0698184/"
+        }
+    ],
+    "duration": "PT2H55M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYmU5NWUxYTUtYWE4Ny00NGJkLWI2ZjMtZTQyMTk5YTI5Nzc4XkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.jpg",
+    "keywords": "tenant,house,threat,ex convict,feminist",
+    "name": "Yeh Teraa Ghar Yeh Meraa Ghar",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Majid Khan"
+        },
+        "dateCreated": "2004-03-05",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0298606/"
+        },
+        "name": "not as good as hera pheri",
+        "reviewBody": "the movie starts out well , makes you laugh many times but suddenly gets serious and sentimental towards the end. very good comedy acting by sunil shetty and paresh rawal. Mahima is not that good in a deglamorised role and playing a maharashtrian brahmin does not suit her especially with her heavy Delhi accent. songs are decent. overall a good time pass. the movie could have been better."
+    },
+    "url": "/title/tt0298606/"
+}

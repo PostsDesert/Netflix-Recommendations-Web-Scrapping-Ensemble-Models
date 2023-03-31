@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Hugh Grant",
+            "url": "/name/nm0000424/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andie MacDowell",
+            "url": "/name/nm0000510/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Fleet",
+            "url": "/name/nm0281424/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 157456,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0106129/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0103532/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0057311/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Curtis",
+            "url": "/name/nm0193485/"
+        }
+    ],
+    "datePublished": "1994-04-15",
+    "description": "Over the course of five social occasions, a committed bachelor must consider the notion that he may have discovered love.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mike Newell",
+            "url": "/name/nm0001565/"
+        }
+    ],
+    "duration": "PT1H57M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMyNzg2NzgxNV5BMl5BanBnXkFtZTcwMTcxNzczNA@@._V1_.jpg",
+    "keywords": "wedding,funeral,gay,cafe,hotel",
+    "name": "Four Weddings and a Funeral",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jeffvaughn"
+        },
+        "dateCreated": "2006-06-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0109831/"
+        },
+        "name": "wonderfully funny movie",
+        "reviewBody": "I am viewing the movie for my fifth time since its release. I just love this movie and laugh almost endless throughout the movie. My favorite parts of this movie are not the \"Hollywood A List\" actors but the not so well known actors. They are incredibly funny and give wonderful performances. I could easily write a bit about each actor in this movie but time does not permit. These are some very talented people. As a fan of British humor, I am especially pleased with the incredible writing along with the acting. Not to mention some of the scenery. If someone is feeling low, this is a great movie to watch to lift the spirits. I highly recommend this movie to anyone wanting or needing a good laugh.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Gramercy Pictures",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi665321753",
+        "name": "Four Weddings and a Funeral",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzE0YmNhYjYtMjQyYy00MmI1LTgwMTQtYjY5YjUyNzdkMzRiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzE0YmNhYjYtMjQyYy00MmI1LTgwMTQtYjY5YjUyNzdkMzRiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:11:32Z",
+        "url": "https://www.imdb.com/video/vi665321753/"
+    },
+    "url": "/title/tt0109831/"
+}

@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jon Voight",
+            "url": "/name/nm0000685/"
+        },
+        {
+            "@type": "Person",
+            "name": "Scott Baio",
+            "url": "/name/nm0000281/"
+        },
+        {
+            "@type": "Person",
+            "name": "Vanessa Angel",
+            "url": "/name/nm0029502/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 31232,
+        "ratingValue": 1.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0063447/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0002667/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0104236/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Grasmere",
+            "url": "/name/nm0335835/"
+        },
+        {
+            "@type": "Person",
+            "name": "Francisca Matos",
+            "url": "/name/nm0559228/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steven Paul",
+            "url": "/name/nm0666999/"
+        }
+    ],
+    "datePublished": "2004-08-27",
+    "description": "A group of smart-talking toddlers find themselves at the center of a media mogul's experiment to crack the code to baby talk. The toddlers must race against time for the sake of babies everywhere.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bob Clark",
+            "url": "/name/nm0163706/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Comedy",
+        "Family",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjY4NjM3MjQ2OF5BMl5BanBnXkFtZTcwOTc3NzYyMQ@@._V1_.jpg",
+    "keywords": "genius,diaper,numbered sequel,baby,superhero",
+    "name": "Superbabies: Baby Geniuses 2",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jonflottorp"
+        },
+        "dateCreated": "2021-07-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0270846/"
+        },
+        "name": "It is the best movie i have seen in yearsB",
+        "reviewBody": "The babys are not Even babyes they are 5 to 6 years old great acting the superbabyes is movie you should watch right now.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 1,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "grn band,lbx",
+        "duration": "PT1M40S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1670119705",
+        "name": "Superbabies: Baby Geniuses 2",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTE3ZTc2ZjUtNzlmYi00NjgwLWE2NTYtZjM1M2NmMDI3OWI5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTE3ZTc2ZjUtNzlmYi00NjgwLWE2NTYtZjM1M2NmMDI3OWI5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:21:03Z",
+        "url": "https://www.imdb.com/video/vi1670119705/"
+    },
+    "url": "/title/tt0270846/"
+}

@@ -1,0 +1,91 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "James Stewart",
+            "url": "/name/nm0000071/"
+        },
+        {
+            "@type": "Person",
+            "name": "Maureen O'Hara",
+            "url": "/name/nm0000058/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brian Keith",
+            "url": "/name/nm0001417/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3742,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ric Hardman",
+            "url": "/name/nm0362465/"
+        }
+    ],
+    "datePublished": "1966-02-25",
+    "description": "An English woman and her daughter enlist the aid of a cowboy to try and get their hardy hornless bull to mate with the longhorns of Texas, but have to overcome greedy criminals and the natural elements.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Andrew V. McLaglen",
+            "url": "/name/nm0572132/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Western"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjJlN2MzMDYtNWRhNy00OWYzLWJhMDUtYzgwYzM5NzdlNTg5XkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
+    "keywords": "bull,whistling,widow,dodge city kansas,wild scotsman",
+    "name": "The Rare Breed",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "pdwebbsite"
+        },
+        "dateCreated": "2007-12-31",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0060884/"
+        },
+        "name": "Medium Rare",
+        "reviewBody": "This western has much going for it: great stars (Jimmy Stewart, Maureen O'Hara, and Brian Keith), interesting plot twists (is Stewart's character a thief, after all), and some comedic moments (Brian Keith is a hoot as Scottish cattle baron). Take the movie as it is, an old western that is mediocre in script with star power holding it afloat, and you'll enjoy the movie. Start picking it apart for studio shots, etc and of course you'll not enjoy it. The storyline of how Herefords came to replace Texas Longhorns sounds plausible enough. It was cute how Juliet Mills (sister of Hayley) got that Hereford bull to follow her by whistling \"God Save the Queen\". Juliet added quite a bit to the movie, and she was a good balance to the humorous triangle of Keith, O'Hara, and Stewart. Some reviews are harsh, yet the questions remains--How could anyone not enjoy a movie with Jimmy Stewart in it?",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M10S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3718954521",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BY2VjNTZjYzUtNThjMy00N2NmLWI1NzMtNTJmYzgzODJkNDA2XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BY2VjNTZjYzUtNThjMy00N2NmLWI1NzMtNTJmYzgzODJkNDA2XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-03-11T11:28:37.568Z",
+        "url": "https://www.imdb.com/video/vi3718954521/"
+    },
+    "url": "/title/tt0060884/"
+}

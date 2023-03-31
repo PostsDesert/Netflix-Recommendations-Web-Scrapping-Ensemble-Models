@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Judy Davis",
+            "url": "/name/nm0001114/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marcia Gay Harden",
+            "url": "/name/nm0001315/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lili Taylor",
+            "url": "/name/nm0000666/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1162,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0062576/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0009576/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0007417/"
+        },
+        {
+            "@type": "Person",
+            "name": "Barbara Wilson",
+            "url": "/name/nm0996080/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Myhre",
+            "url": "/name/nm0616922/"
+        }
+    ],
+    "datePublished": "2002-05-31",
+    "description": "Alone in a foreign city, Cassandra must solve a family's darkest, deepest secrets before she can confront her own past.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Susan Seidelman",
+            "url": "/name/nm0782384/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZGM2YmRkNDktMjA4OC00MGQ3LTk5OGItOWUyMWQ0YTE1MzdkXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",
+    "keywords": "lesbian,title directed by female,talking on telephone,cigarette smoking,strong female character",
+    "name": "Gaudi Afternoon",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "m67165"
+        },
+        "dateCreated": "2001-12-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0235412/"
+        },
+        "name": "soft weirdness",
+        "reviewBody": "So you want a movie where a heterosexual woman gets inside a detective story set in a queer underworld, so to speak. She is not heavily shocked, but rather bemused, mostly, as the situations and the people she meet are not really very dangerous. If this sounds good, then I suppose this movie is for you, as it has some unusual characters, but it seems friendly to everyone, including the viewer. I found it funny and charming."
+    },
+    "url": "/title/tt0235412/"
+}

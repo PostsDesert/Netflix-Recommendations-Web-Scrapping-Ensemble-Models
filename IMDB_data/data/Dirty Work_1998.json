@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Norm MacDonald",
+            "url": "/name/nm0005172/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jack Warden",
+            "url": "/name/nm0912001/"
+        },
+        {
+            "@type": "Person",
+            "name": "Artie Lange",
+            "url": "/name/nm0005119/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 28573,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007143/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0033486/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0063786/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frank Sebastiano",
+            "url": "/name/nm0780980/"
+        },
+        {
+            "@type": "Person",
+            "name": "Norm MacDonald",
+            "url": "/name/nm0005172/"
+        },
+        {
+            "@type": "Person",
+            "name": "Fred Wolf",
+            "url": "/name/nm0937748/"
+        }
+    ],
+    "datePublished": "1998-06-12",
+    "description": "A loser finds success in the revenge-for-hire business.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bob Saget",
+            "url": "/name/nm0756114/"
+        }
+    ],
+    "duration": "PT1H22M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE0NzkzNDI3Ml5BMl5BanBnXkFtZTcwNjA0NzQzNA@@._V1_.jpg",
+    "keywords": "cameo appearance,deadpan humor,workout video,dog,camera",
+    "name": "Dirty Work",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "rob-236"
+        },
+        "dateCreated": "1999-05-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120654/"
+        },
+        "name": "Guaranteed to make you chuckle",
+        "reviewBody": "Living in the UK I know very little about 'Saturday Night Live' comedy and I went in to this film with very little expectations and was pleasantly surprised with the result. In fact it turned out to be the funniest film that I have seen for a long while. It's laugh a minute stuff, serving up a lot of crude humour with a few daft situations which cannot fail to draw a snigger. The plot is simple:- a loser (Norm MacDonald) has to raise $50,000 to help get a heart donor for his best friends dad (Veteran actor, Jack Warden in fine form) so to do this the buddies set up their own 'revenge for hire' business with hilarious consequences. Watch out for humorous cameos by the likes of Adam Sandler, Chris Farley, John Goodman and Gary Coleman.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M22S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1154138137",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTdiYzQ5MTMtNWRiNC00MTVkLWI0OGItMDZiNmIyYmE4Y2QxXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTdiYzQ5MTMtNWRiNC00MTVkLWI0OGItMDZiNmIyYmE4Y2QxXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-05-21T17:17:24.209Z",
+        "url": "https://www.imdb.com/video/vi1154138137/"
+    },
+    "url": "/title/tt0120654/"
+}

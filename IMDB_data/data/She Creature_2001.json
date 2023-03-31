@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Rufus Sewell",
+            "url": "/name/nm0001722/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carla Gugino",
+            "url": "/name/nm0001303/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Piddock",
+            "url": "/name/nm0682063/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3670,
+        "ratingValue": 5.8,
+        "worstRating": 1
+    },
+    "alternateName": "She Creature",
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0074221/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0000501/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0008693/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sebastian Gutierrez",
+            "url": "/name/nm0349406/"
+        }
+    ],
+    "datePublished": "2001-10-04",
+    "description": "In Ireland, two carnies abduct a mermaid and decide to take her to America. In their sea route, the seductive and mysterious creature reveals an uncontrollable darker side.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Sebastian Gutierrez",
+            "url": "/name/nm0349406/"
+        }
+    ],
+    "duration": "PT1H31M",
+    "genre": [
+        "Fantasy",
+        "Horror",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODM2NzYzOTQwM15BMl5BanBnXkFtZTcwNTM3NzkyMQ@@._V1_.jpg",
+    "keywords": "carnival,man eating monster,sea monster,sea voyage,female frontal nudity",
+    "name": "Mermaid Chronicles Part 1: She Creature",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Kilroy-55"
+        },
+        "dateCreated": "2001-09-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0274659/"
+        },
+        "name": "One of a kind gem",
+        "reviewBody": "Scorsese's mantra 'less money, more power' gets the full workout here as top drawer acting, a compelling story and great visuals all get thrown in a blender to create this clever mini masterpiece. Allegedly shot in 18 days, this made for cabler leaves most so-called theatrical horror movies in the dust by tipping its hat to both Hammer and Lewton in creating a genre all its own: the mermaid pshychological horror movie. Carla Gugino (of Spy Kids and Center Of The World) pulls the whole thing together with an Award-worthy performance, playing one of the sexiest, smartest scream queens ever (with a British accent, no less) and Rufus Sewell's rascally take on her accomplice/betrayer is of equal note. Add to that the stunning Rya Kihlstedt as the creature and you're in creepy movie heaven. It's not usual for movies in this genre to be carried by acting and story, but that's exactly what She Creature does. Stan Winston's monster, Alien's oceanic cousin, is equally impressive.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Pictures",
+        "duration": "PT1M48S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi680657177",
+        "name": "She Creature",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTQxNTMwM2MtNjk2ZC00Y2IyLTk1ZjItMzY3MDdkYjZiNWE5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTQxNTMwM2MtNjk2ZC00Y2IyLTk1ZjItMzY3MDdkYjZiNWE5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:45:59Z",
+        "url": "https://www.imdb.com/video/vi680657177/"
+    },
+    "url": "/title/tt0274659/"
+}

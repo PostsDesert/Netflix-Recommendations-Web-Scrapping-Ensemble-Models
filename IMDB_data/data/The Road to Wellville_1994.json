@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Anthony Hopkins",
+            "url": "/name/nm0000164/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bridget Fonda",
+            "url": "/name/nm0000403/"
+        },
+        {
+            "@type": "Person",
+            "name": "Matthew Broderick",
+            "url": "/name/nm0000111/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 12684,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0064908/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0097246/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Person",
+            "name": "T. Coraghessan Boyle",
+            "url": "/name/nm0102339/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alan Parker",
+            "url": "/name/nm0000570/"
+        }
+    ],
+    "datePublished": "1994-10-28",
+    "description": "A story about the ins and outs of one unusual health facility in the early twentieth century, run by the eccentric Dr. John Harvey Kellogg.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Alan Parker",
+            "url": "/name/nm0000570/"
+        }
+    ],
+    "duration": "PT1H58M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMGMyMWI5ODMtZGFjYS00MjQ0LWI0MDYtYWY2Yzc4MmUwY2YyXkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_.jpg",
+    "keywords": "female nudity,comedy of manners,public nudity,eccentricity,man wears eyeglasses",
+    "name": "The Road to Wellville",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jcsherwood-1"
+        },
+        "dateCreated": "2002-03-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0111001/"
+        },
+        "name": "Don't regard it as historical",
+        "reviewBody": "At the time of the release of \"The Road to Wellville,\" I was the opinion page editor for the Battle Creek, Michigan, newspaper. I also had written a history of the life of work of Will K. Kellogg, founder of Kellogg Co. and brother of the film's hero, Dr. John Harvey Kellogg (played by Anthony Hopkins). I had read and published a review of T.C. Boyle's novel (which I enjoyed, but questioned for its historical inaccuracies). So I suppose I was a natural to be asked by the newspaper and to review the film. As a result, I was in the front row of an audience of Battle Creek residents during the \"Michigan premiere\" of the movie. To put it mildly, the audience was at times shocked and bemused, but overall they were pretty entertained. The most blatant fictions that should be corrected are that the old Battle Creek Sanitarium was *not* a coed facility, that female nurses *never* gave enemas to male guests (or males to females, for that matter), that Dr. Kellogg did *not* die while diving in his 70s (he was 91 and died in bed), and that George Kellogg -- a very real human being -- was *not* a wayward drunk. In fact, the only blatantly factual material is stated in the first five minutes, and then the film becomes fiction. Much is changed from the original novel (particularly how Dr. Kellogg deals with George), and the serio-comic tone of the novel is transformed into stupid, juvenile titillation over bodily fluids and sexual escapades. However, the movie *does* capture the mood and atmosphere of Battle Creek in the first few years of the 20th century -- the charlatans, the fly-by-nights and the ne'er-do-wells are shown for pretty much what they were. The faddists who took advantage of sincere Seventh-day Adventist health doctrine are extremely well depicted, as are there gullible \"patients.\" And -- despite the phony rabbit teeth -- Hopkins is awfully fun as Dr. Kellogg. The satire is well-taken and in many ways successful. Overall, I recommend reading Boyle's novel over seeing this film, but I also recommend reading a serious history of the cereal industry and its antecedents before believing a word of the fictional creations in both the movie and the novel. If you want to watch a great Parker film, rent \"Pink Floyd The Wall\" and skip this one. But if you want to get a feel for Anthony Hopkins' incredible acting range, this is worth seeing. Not for much else, though!"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1089667353",
+        "name": "The Road To Wellville",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTc3YjBhZGItZjg4YS00MTc2LTljMTctNzFmZjcxNjI3YzM2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTc3YjBhZGItZjg4YS00MTc2LTljMTctNzFmZjcxNjI3YzM2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:45:39Z",
+        "url": "https://www.imdb.com/video/vi1089667353/"
+    },
+    "url": "/title/tt0111001/"
+}

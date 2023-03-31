@@ -1,0 +1,83 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Martin Mason",
+            "url": "/name/nm2178404/"
+        },
+        {
+            "@type": "Person",
+            "name": "Doc Bond",
+            "url": "/name/nm2124653/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Howard",
+            "url": "/name/nm1427697/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 112,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "Unrated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0044824/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hazel Merry Hawkins",
+            "url": "/name/nm2125956/"
+        },
+        {
+            "@type": "Person",
+            "name": "Manny Nathan",
+            "url": "/name/nm0353935/"
+        }
+    ],
+    "datePublished": "2003-11-11",
+    "description": "Original Documentary of the horse Seabiscuit, made in 1939 by the horse's owner Charles Howard.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Manny Nathan",
+            "url": "/name/nm0353935/"
+        }
+    ],
+    "duration": "PT50M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc1NDg3MTI3Nl5BMl5BanBnXkFtZTcwNDIyNzQyMQ@@._V1_.jpg",
+    "keywords": "year 1939,20th century,seabiscuit,horse,1930s",
+    "name": "Seabiscuit",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bevo-13678"
+        },
+        "dateCreated": "2020-12-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0384511/"
+        },
+        "name": "Wow",
+        "reviewBody": "Cracking documentary about a horse. An a man who perhaps gets a little bit too close to this horse if you know what I mean.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0384511/"
+}

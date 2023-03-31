@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Meat Loaf",
+            "url": "/name/nm0001533/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kristin Davis",
+            "url": "/name/nm0004862/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lochlyn Munro",
+            "url": "/name/nm0613147/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 656,
+        "ratingValue": 4.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0040305/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0014208/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0054372/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kevin Lund",
+            "url": "/name/nm0526196/"
+        },
+        {
+            "@type": "Person",
+            "name": "T.J. Scott",
+            "url": "/name/nm0779830/"
+        }
+    ],
+    "datePublished": "2000-10-20",
+    "description": "A woman traveling with her comedian boy friend gets fed up with him when he accepts a three night gig in a wayward trucker's bar. Running away, she accepts a ride from a deranged trucker who may be a serial killer of young women.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "T.J. Scott",
+            "url": "/name/nm0779830/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzcwNzE1MzQzM15BMl5BanBnXkFtZTcwMjY5NjUxMQ@@._V1_.jpg",
+    "keywords": "talking to a mirror,bar,shower,diner,cell phone",
+    "name": "Blacktop",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "drpvonbronte"
+        },
+        "dateCreated": "2004-04-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0235235/"
+        },
+        "name": "Duel + Breakdown + Black Dog = BlackTop",
+        "reviewBody": "Duel + Breakdown + Joy Ride + Black Dog = BlackTop\n\nOf course mostly bad elements of Duel, Breakdown and dare I say it Black Dog.\n\nMeatLoaf is overacting, otherwise I would commend him for a job well done. \n\n Lots of teasing, but no actual nudity. This is the kind of film you watch at 430 AM drunk. Suspend logic, disbelief and \"Why doesn't he/she just do x, y or z.\" and you will be fine.\n\nCheck out the others first, especially Duel.\n\nThanks."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from HBO Home Video",
+        "duration": "PT37S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2730098969",
+        "name": "Blacktop",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTY3OGUyMjAtNDI2MC00MGE4LWEwOTgtNzgyMzZkZTIwYzBhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTY3OGUyMjAtNDI2MC00MGE4LWEwOTgtNzgyMzZkZTIwYzBhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:38:02Z",
+        "url": "https://www.imdb.com/video/vi2730098969/"
+    },
+    "url": "/title/tt0235235/"
+}

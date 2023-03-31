@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Peter O'Toole",
+            "url": "/name/nm0000564/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sophia Loren",
+            "url": "/name/nm0000047/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Coco",
+            "url": "/name/nm0168394/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4490,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0013844/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dale Wasserman",
+            "url": "/name/nm0913670/"
+        },
+        {
+            "@type": "Person",
+            "name": "Miguel de Cervantes y Saavedra",
+            "url": "/name/nm0148859/"
+        }
+    ],
+    "datePublished": "1973-09-08",
+    "description": "The funny story of mad but kind and chivalrous elderly nobleman Don Quixote who, aided by his squire Sancho Panza, fights windmills that are seen as dragons to save prostitute Dulcinea who is seen as a noblewoman.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Arthur Hiller",
+            "url": "/name/nm0002137/"
+        }
+    ],
+    "duration": "PT2H12M",
+    "genre": [
+        "Drama",
+        "Fantasy",
+        "Musical"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzYyOTExNWEtODg3YS00NGYzLTg2ZmEtZWIwZDNlZTE1YzY2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "based on stage musical,16th century,remake,don quixote,1500s",
+    "name": "Man of La Mancha",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "majvince"
+        },
+        "dateCreated": "2003-06-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0068909/"
+        },
+        "name": "The Message is More Important...",
+        "reviewBody": "I'll keep it short. The message of this story is infinitely more important than any perceived flaws in casting, makeup, music, singing, etc. The emotions are there in this movie, and quite moving. The message is also there, and as fresh as it was when Cervantes wrote his famous book centuries ago. Don Quixote was a madman, yes, but his \"quest\" is one we should all embrace. Knight errantry, chivalry, compassion, and treating women with kindness and respect may be considered terribly out of sync with todays values, but when I read stories about a 16 year-old boy lured, by the promise of sex, to a savage beating death at the hands of his peers, I seriously question the soundness of those values. In many ways, today's world is every bit as \"base and debauched\" as it was during the Spanish Inquisition. Frankly, I would much rather live in Quixote's \"mad\" version of the world than I would in the reality of this one.\n\nSquash the movie critic in you for a couple of hours and just enjoy the movie for it's wonderful message!\n\nPS: I've been waiting years for Man of La Mancha to come out on DVD. Anybody know when?"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "The funny story of mad but kind and chivalrous elderly nobleman Don Quixote who, aided by his squire Sancho Panza, fights windmills that are seen as dragons to save prostitute Dulcinea who is seen as a noblewoman.",
+        "duration": "PT3M9S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3095839513",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZWNjNTdhOWUtM2Q3Mi00N2U4LTk0Y2MtYzU4MzJkMGY1YzMyXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZWNjNTdhOWUtM2Q3Mi00N2U4LTk0Y2MtYzU4MzJkMGY1YzMyXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-10-21T00:48:58.190Z",
+        "url": "https://www.imdb.com/video/vi3095839513/"
+    },
+    "url": "/title/tt0068909/"
+}

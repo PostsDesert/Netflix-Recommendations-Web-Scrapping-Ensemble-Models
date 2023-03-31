@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Al Pacino",
+            "url": "/name/nm0000199/"
+        },
+        {
+            "@type": "Person",
+            "name": "Colin Farrell",
+            "url": "/name/nm0268199/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bridget Moynahan",
+            "url": "/name/nm0005256/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 138649,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0049348/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0031181/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0166202/"
+        },
+        {
+            "@type": "Person",
+            "name": "Roger Towne",
+            "url": "/name/nm0870013/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kurt Wimmer",
+            "url": "/name/nm0934483/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mitch Glazer",
+            "url": "/name/nm0322248/"
+        }
+    ],
+    "datePublished": "2003-01-31",
+    "description": "A brilliant young CIA trainee is asked by his mentor to help find a mole in the Agency.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Roger Donaldson",
+            "url": "/name/nm0002044/"
+        }
+    ],
+    "duration": "PT1H55M",
+    "genre": [
+        "Action",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE5MDMzOTk3MV5BMl5BanBnXkFtZTYwNTE0NTg2._V1_.jpg",
+    "keywords": "cia central intelligence agency,recruit,training,suspense,cat and mouse",
+    "name": "The Recruit",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dwpollar"
+        },
+        "dateCreated": "2003-06-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0292506/"
+        },
+        "name": "Good spy action thriller with passable performances...",
+        "reviewBody": "1st watched 6/28/2003 - 6 out of 10(Dir-Roger Donaldson): Good spy action thriller with passable performances by the leads Farrell, Pacino and Moynahan. This isn't quite on-the-edge-of-your-seat material but there is a lot of good information given to you about the CIA to almost make it a how-to type of film at least in the first half. The 2nd half wonders more into the action-thriller genre but always keeps you guessing. Farrell is recruited by a CIA agent to be trained as one and we get to see how they are trained in a place called the `Farm', which is a special school for the CIA. Pacino's character constantly is stressing to Farrell and the audience that not everything is as it seems. This becomes kind of the theme throughout the movie as the viewer tries to figure out what's real and what's not. This is quite a challenge in this film considering that being deceptive is part of the job of the CIA agent. Another statement made by Pacino's character is that `everything is a test' also helps in the confusion of the reality issue. After Farrell goes thru the `Farm', he is assigned a special case to investigate someone that he seems to care(Moynahan) about, as a possible double-agent. The truth is twisted a couple of times near the end of the film but we're able to figure it out when it's all over. The 1st half and the 2nd half of this movie could actually each stand alone and that's what weakens the picture is the attempt to put both the CIA drama and the action-thriller together. All in all this is good viewing but could have been much better but it's apparent that the makers were ok with just ok, and that's ok.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "CT #2 Post",
+        "duration": "PT1M7S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi499253529",
+        "name": "The Recruit",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDlhYTM4ZWItOTE3OC00ZjVkLWI0OWMtOTUxZGIxMDljZGU4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDlhYTM4ZWItOTE3OC00ZjVkLWI0OWMtOTUxZGIxMDljZGU4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-08-04T03:59:17Z",
+        "url": "https://www.imdb.com/video/vi499253529/"
+    },
+    "url": "/title/tt0292506/"
+}

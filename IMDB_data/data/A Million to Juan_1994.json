@@ -1,0 +1,110 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Paul Rodriguez",
+            "url": "/name/nm0735467/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tony Plana",
+            "url": "/name/nm0686470/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bert Rosario",
+            "url": "/name/nm0741034/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 881,
+        "ratingValue": 5.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002667/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0020434/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0079484/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Grasmere",
+            "url": "/name/nm0335835/"
+        },
+        {
+            "@type": "Person",
+            "name": "Francisca Matos",
+            "url": "/name/nm0559228/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Rodriguez",
+            "url": "/name/nm0735467/"
+        }
+    ],
+    "datePublished": "1994-05-13",
+    "description": "Romantic comedy about an honest Mexican immigrant who struggles without a green card by selling oranges on a street corner. One day a limousine pulls up and he is handed a check for $1,000,000 with instructions that he is to give ...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Paul Rodriguez",
+            "url": "/name/nm0735467/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjZiMTI0NmMtNDIxZi00ZDUxLWEzMjMtNTM2YjY4ODhiZDY4XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "family relationships,restaurant,money,community,apartment",
+    "name": "A Million to Juan",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jman72485"
+        },
+        "dateCreated": "2003-12-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0110518/"
+        },
+        "name": "Good! Bien Suave",
+        "reviewBody": "I've seen this movie and I thought it was good. I mean I'm Latin and this movie was real true to me. I mean it related to me a lot and it also had a strong message. Don't loose faith, it all pays off in the end. I mean I found it to be funny and in the end it made me think.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Romantic comedy about an honest Mexican immigrant who struggles without a green card by selling oranges on a street corner. One day a limousine pulls up and he is handed a check for $1,000,000 with instructions that he is to give the check back in 30 days.",
+        "duration": "PT2M16S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi748012057",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZWRiZWY5YzQtMzIyMS00OTVlLTliNWQtZTI1MzgwZGU3ZTA2XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZWRiZWY5YzQtMzIyMS00OTVlLTliNWQtZTI1MzgwZGU3ZTA2XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2022-04-27T18:05:31.573Z",
+        "url": "https://www.imdb.com/video/vi748012057/"
+    },
+    "url": "/title/tt0110518/"
+}

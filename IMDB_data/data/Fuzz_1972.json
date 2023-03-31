@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Burt Reynolds",
+            "url": "/name/nm0000608/"
+        },
+        {
+            "@type": "Person",
+            "name": "Raquel Welch",
+            "url": "/name/nm0000079/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jack Weston",
+            "url": "/name/nm0922967/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2042,
+        "ratingValue": 5.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0029738/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0761999/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0065715/"
+        },
+        {
+            "@type": "Person",
+            "name": "Evan Hunter",
+            "url": "/name/nm0402805/"
+        }
+    ],
+    "datePublished": "1972-10-12",
+    "description": "Police in Boston search for a mad bomber trying to extort money from the city.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Richard A. Colla",
+            "url": "/name/nm0171619/"
+        }
+    ],
+    "duration": "PT1H32M",
+    "genre": [
+        "Action",
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BM2JjOThmZGMtZTc4My00MDgzLWJmYzMtNDcxNmUwNjAyMTExXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
+    "keywords": "extortion,blackmail,boston massachusetts,police station,master criminal",
+    "name": "Fuzz",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "udar55"
+        },
+        "dateCreated": "2006-06-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0068617/"
+        },
+        "name": "Nicely done cop comedy-thriller",
+        "reviewBody": "This is billed as a Burt Reynold's vehicle but he is actually part of a great cast in this Ed McBain 87th Precinct comedy-thriller. The police in Boston are searching for an extortionist dubbed \"The Deaf Man\" who is demanding cash or he kills a high ranking city official. Reynolds along with Tom Skeritt and Jack Weston are the cops on the case. The film really has a great ensemble feel and, I hope, accurately predicts the goings on inside a police station. Raquel Welch co-stars as a female detective out to snag a rapist. Yul Brynner, who must have been having lots of fun at this point in his career, is \"The Deaf Man.\" His screen time is minimal but he does a good job. Familiar faces pop up in nearly every other scene with guys like Charles Tyner, Albert Popwell, Tamara Dobson and a very young Charles Martin Smith in small roles. The film's only major problem is that it neatly wraps up everything in the end. Seriously, every crime the cops are investigating is solved in one scene that relies heavily on convenience.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Police in Boston search for a mad bomber trying to extort money from the city.",
+        "duration": "PT3M",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2952119065",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODYzMTg2ZTktMjk3ZC00YjdjLWJmOGYtYTE5MzAzMjM5MTJlXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODYzMTg2ZTktMjk3ZC00YjdjLWJmOGYtYTE5MzAzMjM5MTJlXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-11-02T20:44:24.384Z",
+        "url": "https://www.imdb.com/video/vi2952119065/"
+    },
+    "url": "/title/tt0068617/"
+}

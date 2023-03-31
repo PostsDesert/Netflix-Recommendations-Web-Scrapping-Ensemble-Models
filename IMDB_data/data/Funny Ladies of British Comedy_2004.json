@@ -1,0 +1,48 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bruce Adler",
+            "url": "/name/nm0012115/"
+        },
+        {
+            "@type": "Person",
+            "name": "Woody Allen",
+            "url": "/name/nm0000095/"
+        },
+        {
+            "@type": "Person",
+            "name": "JoAnne Astrow",
+            "url": "/name/nm0040146/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 22,
+        "ratingValue": 4.5,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0081846/"
+        }
+    ],
+    "datePublished": "2004-09-12",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Emma Cahusac",
+            "url": "/name/nm0128745/"
+        }
+    ],
+    "duration": "PT50M",
+    "genre": [
+        "Documentary"
+    ],
+    "name": "Funny Already: A History of Jewish Comedy",
+    "url": "/title/tt0425046/"
+}

@@ -1,0 +1,81 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "David Razowsky",
+            "url": "/name/nm0713666/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Siracusano",
+            "url": "/name/nm0802736/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jason Wolk",
+            "url": "/name/nm0938495/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 79,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0133954/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0036866/"
+        },
+        {
+            "@type": "Person",
+            "name": "Shawn Schepps",
+            "url": "/name/nm0770974/"
+        }
+    ],
+    "description": "In unconventional, high-pressure situations, unpredictable things come up. Mikey and Jay, friends since childhood, are robbing a flat when the owner surprises them: Mikey shoots him dead. The dead man's wife comes home, so the men...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Shawn Schepps",
+            "url": "/name/nm0770974/"
+        }
+    ],
+    "duration": "PT8M",
+    "genre": [
+        "Short",
+        "Comedy",
+        "Crime"
+    ],
+    "keywords": "paranormal phenomenon,psychotronic short,closet,theft,thief",
+    "name": "The Closet",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Afracious"
+        },
+        "dateCreated": "2001-03-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0245059/"
+        },
+        "name": "The Closet is an apt title",
+        "reviewBody": "A man is shot dead in his home by two amateur burglars? One of the burglars is a cowardly hypochondriac. The dead man's wife returns home, so the two crooks hide with the dead body in a closet. The wife then makes love to another man, or does she? Watch it and see. The Closet is an appropriate title for this film.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0245059/"
+}

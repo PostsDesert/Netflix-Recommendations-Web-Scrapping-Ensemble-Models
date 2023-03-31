@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Delta Burke",
+            "url": "/name/nm0004785/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bonnie Bedelia",
+            "url": "/name/nm0000889/"
+        },
+        {
+            "@type": "Person",
+            "name": "Olivia Newton-John",
+            "url": "/name/nm0000556/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3343,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0067970/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0063136/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0044115/"
+        },
+        {
+            "@type": "Person",
+            "name": "Del Shores",
+            "url": "/name/nm0794971/"
+        }
+    ],
+    "datePublished": "2001-05-11",
+    "description": "As three generations of a family in a small Texas town gather for a funeral, we learn the hilarious, sad, trashy truth of their \"Sordid Lives.\"",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Del Shores",
+            "url": "/name/nm0794971/"
+        }
+    ],
+    "duration": "PT1H51M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZDAwZjJhMWYtMjFiNi00OTExLWJiNzctM2VjMWE2ZjRkNzliXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+    "keywords": "vomiting,woman wears eyeglasses,funeral,texas,friend",
+    "name": "Sordid Lives",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "thejdrage"
+        },
+        "dateCreated": "2022-06-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0204640/"
+        },
+        "name": "Lots of actors you know and appreciate in this \"little\" film",
+        "reviewBody": "This is a well-oiled little film that flows back and forth between characters seamlessly. Filled with laughs over things you know you shouldn't be laughing at, but they are so ....\n\nNo slick filming, just down home, small town life and it's filmed that way.\n\nI could have done without the character Olivia Newton-John played, but she was funny while doing it! And it isn't her fault, the character just seems to be something tossed in because she was there.\n\nWhile it's funny, it has some things to say. Enjoy!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Sordid Lives",
+        "duration": "PT2M2S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3944066073",
+        "name": "Sordid Lives",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzQxMTIyMjAtMjg5OC00ZTBiLWEzZmMtNzE0ZTlkMGU1M2ViXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzQxMTIyMjAtMjg5OC00ZTBiLWEzZmMtNzE0ZTlkMGU1M2ViXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2014-08-08T04:54:54Z",
+        "url": "https://www.imdb.com/video/vi3944066073/"
+    },
+    "url": "/title/tt0204640/"
+}

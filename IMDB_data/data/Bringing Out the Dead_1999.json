@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Nicolas Cage",
+            "url": "/name/nm0000115/"
+        },
+        {
+            "@type": "Person",
+            "name": "Patricia Arquette",
+            "url": "/name/nm0000099/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Goodman",
+            "url": "/name/nm0000422/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 72029,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0029978/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0049348/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joe Connelly",
+            "url": "/name/nm0175081/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Schrader",
+            "url": "/name/nm0001707/"
+        }
+    ],
+    "datePublished": "1999-10-22",
+    "description": "Haunted by the patients he failed to save, a monumentally burned-out Manhattan ambulance paramedic fights to maintain his sanity over three increasingly turbulent nights.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Martin Scorsese",
+            "url": "/name/nm0000217/"
+        }
+    ],
+    "duration": "PT2H1M",
+    "genre": [
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDMyMjEyYzEtODVlZC00OWY0LTkxZjItNjJmOWRjNzQxMGNmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "post punk,paramount,disney,timeframe 1990s,medical drama",
+    "name": "Bringing Out the Dead",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Hey_Sweden"
+        },
+        "dateCreated": "2020-06-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0163988/"
+        },
+        "name": "\"No one asked you to suffer. That was your idea.\"",
+        "reviewBody": "Martin Scorsese is rightfully lauded for many fine films, but still doesn't seem to get quite enough credit for this NYC-set character study. Paul Schrader adapts the novel by former EMS worker Joe Connelly, in which paramedic Frank Pierce (Nicolas Cage) has become seriously burnt out. He's spent long years on the mean streets of The City, working hard to save lives. But he is now haunted by the thoughts of those people he could not save, one girl (Cynthia Roman) in particular. Although he makes a connection with Mary (Patricia Arquette), daughter of one of his patients, it remains to be seen just how much this relationship will do for his fragile mind.\n\nThe role of a mentally unbalanced individual tormented by what he's seen and done is a natural for the talented Cage. Here Cage shows just how good he can be when working with strong material. (Although that's not to say that he doesn't have some VERY intense moments.) Scorsese is to be commended for his impressive use of surrealism, and the grim, seedy aesthetic he often applies to the film. It has great atmosphere, and equally fine use of locations.\n\nThe story is episodic in nature, as we see Frank work with a succession of partners: the amiable John Goodman (as Larry), an upbeat and energetic Ving Rhames (as Marcus), and a lively Tom Sizemore (as Tom Wolls). The whole cast does creditable work, and there are a pleasing number of familiar faces and reliable character actors and actresses in supporting roles: Marc Anthony, Mary Beth Hurt, Cliff Curtis, Nestor Serrano, Aida Turturro, Sonja Sohn, Afemo Omilami, Arthur J. Nascarella. Scorsese can be heard as a male dispatcher, Queen Latifah is the voice of a female dispatcher, and that's independent filmmaker Larry Fessenden in a cameo as a cokehead.\n\nWith a very eclectic soundtrack as accompaniment, striking cinematography by Robert Richardson, and some dizzying camera angles, \"Bringing Out the Dead\" proves to be an interesting, provocative, and heartfelt depiction - albeit with memorable comedic elements - of the grim side of life in NYC. Ultimately, it's a long, hard road to finding the strength and faith that Frank needs to carry on.\n\nEight out of 10.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Paramount",
+        "duration": "PT2M24S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1002176793",
+        "name": "Bringing Out the Dead",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjlmMmMxZTYtZjg2MC00OWFlLWI4MjktNDExN2UzYTZlYjM0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjlmMmMxZTYtZjg2MC00OWFlLWI4MjktNDExN2UzYTZlYjM0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:52:12Z",
+        "url": "https://www.imdb.com/video/vi1002176793/"
+    },
+    "url": "/title/tt0163988/"
+}

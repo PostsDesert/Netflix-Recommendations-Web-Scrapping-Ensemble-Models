@@ -1,0 +1,113 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Claudette Colbert",
+            "url": "/name/nm0001055/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jennifer Jones",
+            "url": "/name/nm0428354/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joseph Cotten",
+            "url": "/name/nm0001072/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4760,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0130901/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0005025/"
+        },
+        {
+            "@type": "Person",
+            "name": "Margaret Buell Wilder",
+            "url": "/name/nm0928603/"
+        },
+        {
+            "@type": "Person",
+            "name": "David O. Selznick",
+            "url": "/name/nm0006388/"
+        }
+    ],
+    "datePublished": "1944-07-20",
+    "description": "With her husband away to fight in World War II, a housewife must care for their two daughters alone.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Cromwell",
+            "url": "/name/nm0188669/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edward F. Cline",
+            "url": "/name/nm0166836/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tay Garnett",
+            "url": "/name/nm0307819/"
+        }
+    ],
+    "duration": "PT2H57M",
+    "genre": [
+        "Drama",
+        "Romance",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTcyNDE3MjI0NV5BMl5BanBnXkFtZTgwODg0MTM1MjE@._V1_.jpg",
+    "keywords": "victory garden,all star cast,marriage engagement,high school graduation,u.s. marine",
+    "name": "Since You Went Away",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jarcid-1"
+        },
+        "dateCreated": "2005-01-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0037280/"
+        },
+        "name": "One of the best movies about life on the 'homefront' during war",
+        "reviewBody": "Subtle and nuanced in most places, a bit obvious in others, Since you went away may be the best war movie ever made that doesn't have a war scene. It follows the life of a family in the early days of America's entry into World War II. The coming of age thrust upon young men and women is splendidly captured, but central is the silent pain and worry of those who with loved ones in harm's way. Watch for the scene when Mr. Mahoney leaves the movie theater. There is no dialog, and there need not be.\n\nThis movie is often shown near the Holidays because of a great Christmas scene,it's general warmth, and its theme of Country, God, and Family.\n\nOne of Jennifer Jones' best performances, with strong work by Claudette Colbert, Shirly Temple, Joseph Cotten, Robert Walker, Hattie McDaniel and Monty Woolley. Agnes Moorehead foreshadows her role years later in the series 'Bewtiched', playing the town 'witch'.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "With her husband away to fight in World War II, a housewife must care for their two daughters alone.",
+        "duration": "PT1M40S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4008231705",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjc1NTg0M2UtNmFkNC00ZTY0LTk3ZmMtZGZkZjNlZmMzZjhhXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjc1NTg0M2UtNmFkNC00ZTY0LTk3ZmMtZGZkZjNlZmMzZjhhXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-11-18T21:01:49.716Z",
+        "url": "https://www.imdb.com/video/vi4008231705/"
+    },
+    "url": "/title/tt0037280/"
+}

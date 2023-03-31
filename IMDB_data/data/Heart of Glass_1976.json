@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Josef Bierbichler",
+            "url": "/name/nm0081547/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stefan Güttler",
+            "url": "/name/nm0351668/"
+        },
+        {
+            "@type": "Person",
+            "name": "Clemens Scheitz",
+            "url": "/name/nm0770670/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6316,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "alternateName": "Heart of Glass",
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0039268/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0078814/"
+        },
+        {
+            "@type": "Person",
+            "name": "Herbert Achternbusch",
+            "url": "/name/nm0002157/"
+        },
+        {
+            "@type": "Person",
+            "name": "Werner Herzog",
+            "url": "/name/nm0001348/"
+        }
+    ],
+    "datePublished": "1976-12-17",
+    "description": "The foreman of a small village glassworks dies without revealing the secret to the famous \"Ruby Glass\".",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Werner Herzog",
+            "url": "/name/nm0001348/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDQ0YTk3NzAtMzdiNy00MjVjLTg1N2YtNDhkMzI5Mjk4ZWJjXkEyXkFqcGdeQXVyNzMzMjU5NDY@._V1_.jpg",
+    "keywords": "surrealism,experimental film,yellowstone national park,germany,new german cinema",
+    "name": "Herz aus Glas",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "zetes"
+        },
+        "dateCreated": "2002-03-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0074626/"
+        },
+        "name": "Terribly beautiful - terribly pretentious",
+        "reviewBody": "It's impossible to love this film, and it is as impossible to hate it. The plot is slight and silly, and the dialogue and acting are unintentionally hilarious. Heart of Glass could stand as the archetype of the so-called \"pretentious European cinema,\" you know, the kind you would have seen Mike Meyers make fun of in his \"Sprockets\" sketches on SNL. In fact, I don't know of anything that comes even close to Heart of Glass in its pretentions. The film is as shallow as could be. Perhaps those with overactive imaginations could \"figure it out,\" but I don't want to waste that time.\n\n However, Herzog is an amazingly skilled director. The script may suck, but the visuals, the cinematography and the mise-en-scene, represent some of the greatest moments in all cinema. It's not a non-stop beauty festival, but there are many individual scenes of outrageous splendor. If only Herzog had planned the script as intricately as he searched out locations for the shoot. What this film really reminds me of an Andrei Tarkovsky or Michelangelo Antonioni film with no substance whatsoever. I can't give Heart of Glass more than a 7/10, but, in many ways, it's a must see. If you've never seen a Herzog film before, though, avoid this one. Start with Aguirre the Wrath of God or, my favorite so far, Fitzcarraldo.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0074626/"
+}

@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Judith Brown",
+            "url": "/name/nm1726542/"
+        },
+        {
+            "@type": "Person",
+            "name": "Roberta Collins",
+            "url": "/name/nm0172646/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jennifer Gan",
+            "url": "/name/nm0304060/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1790,
+        "ratingValue": 5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0064409/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0087896/"
+        },
+        {
+            "@type": "Person",
+            "name": "James H. Watkins",
+            "url": "/name/nm0914323/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Osterhout",
+            "url": "/name/nm0652356/"
+        }
+    ],
+    "datePublished": "1973-11-15",
+    "description": "American women prisoners in a foreign country. Sex and action.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Gerardo de Leon",
+            "url": "/name/nm0502479/"
+        }
+    ],
+    "duration": "PT1H21M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMmJlYjEyN2ItYTU0NS00ZDI4LThhMDktMjFjZjcxYjQxM2Q2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "women in prison,prison violence,abused woman,escaped prisoner,rape",
+    "name": "Women in Cages",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "The_Void"
+        },
+        "dateCreated": "2009-09-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0067995/"
+        },
+        "name": "Decent enough women in prison sleaze",
+        "reviewBody": "Women in Cages is yet another sleazy women in prison film from the same people that brought us classics such as The Big Doll House and The Big Bird Cage. This film is nowhere near as good as those two, but it's still an entertaining effort that fans of this sort of trash will surely appreciate. The plot is just your general women in prison sort of story and, naturally, focuses on a bunch of women inside a women's prison. One in particular has been sent to jail after being set up by her boyfriend; meanwhile, another prisoner has been given the task of murdering said unfortunate prisoner. There's also an escape attempt being plotted. This women in prison film stands apart from many of the others simply because it stars Pam Grier in the role of a guard rather than a prisoner. Naturally, she steps into this role well and plays the antagonist with relish. Unfortunately, there's no role for Sid Haig in this one. The film is directed by Gerardo de Leon, and regrettably he doesn't have the same flair as Jack Hill and the film does fall a little flat in that respect. However, it's still decent enough entertainment and at about seventy five minutes, it doesn't outstay its welcome either. Worth a look.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "American women prisoners in a foreign country. Sex and action.",
+        "duration": "PT1M2S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3420046105",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOGM2OGFjNzYtOWE2YS00Y2E4LWE3OTItODE2NWJkODU4OTg3XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGM2OGFjNzYtOWE2YS00Y2E4LWE3OTItODE2NWJkODU4OTg3XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-12-01T19:23:20.828Z",
+        "url": "https://www.imdb.com/video/vi3420046105/"
+    },
+    "url": "/title/tt0067995/"
+}

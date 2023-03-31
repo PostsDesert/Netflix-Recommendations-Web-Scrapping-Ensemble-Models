@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tommy Lee Jones",
+            "url": "/name/nm0000169/"
+        },
+        {
+            "@type": "Person",
+            "name": "Wesley Snipes",
+            "url": "/name/nm0000648/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Downey Jr.",
+            "url": "/name/nm0000375/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 108659,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0044240/"
+        },
+        {
+            "@type": "Person",
+            "name": "Roy Huggins",
+            "url": "/name/nm0400403/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Pogue",
+            "url": "/name/nm0688282/"
+        }
+    ],
+    "datePublished": "1998-03-06",
+    "description": "U.S. Marshal Samuel Gerard and his team of Marshals are assigned to track down Sheridan, who has been accused of a double-murder.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Stuart Baird",
+            "url": "/name/nm0000829/"
+        }
+    ],
+    "duration": "PT2H11M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYmM1MTVhMzctMWVhNi00NDM0LWJlNGItMDE4ZTY0ZTAwODgzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "starbucks coffee,samuel gerard character,scene before opening title,pay off,chicken costume",
+    "name": "U.S. Marshals",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "gbheron"
+        },
+        "dateCreated": "2000-09-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120873/"
+        },
+        "name": "Borderline Good",
+        "reviewBody": "U.S. Marshals is the sequel to The Fugitive, but feels more like a remake. Again a victim of injustice is improperly imprisoned, this time Wesley Snipes in the Harrison Ford role. He's not a surgeon, but a deep undercover spy, the victim of a frame-up of an undisclosed nature. A catastrophic accident frees him (this time a plane crash) and again Tommy Lee Jones is sent to hunt him down. Big-budget, good special effects, A-list actors doing their jobs well; still U.S. Marshals fails to make a big impact. The first quarter starts out great, but by the end of the movie the plot devices are becoming very routine. Not a rip-off, but only C+ to me.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT28S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2598371609",
+        "name": "U.S. Marshals",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjJhNzRhNDQtMTM5ZC00NWYyLThjOWEtZWNhYTNiYTk4MjZhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjJhNzRhNDQtMTM5ZC00NWYyLThjOWEtZWNhYTNiYTk4MjZhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:34:20Z",
+        "url": "https://www.imdb.com/video/vi2598371609/"
+    },
+    "url": "/title/tt0120873/"
+}

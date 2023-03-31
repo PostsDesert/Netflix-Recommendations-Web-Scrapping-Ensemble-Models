@@ -1,0 +1,67 @@
+{
+    "@context": "https://schema.org",
+    "@type": "VideoGame",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mel B",
+            "url": "/name/nm0114256/"
+        },
+        {
+            "@type": "Person",
+            "name": "Victoria Beckham",
+            "url": "/name/nm0065751/"
+        },
+        {
+            "@type": "Person",
+            "name": "Emma Bunton",
+            "url": "/name/nm0001978/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 81,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0147930/"
+        },
+        {
+            "@type": "Person",
+            "name": "Spice Girls",
+            "url": "/name/nm1381694/"
+        }
+    ],
+    "description": "A videogame about Spice Girls.",
+    "genre": [
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOGJmZmFmOWQtYmQ2MS00NDU1LTk2NjAtODU0MzdlOGUyZTYyXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg",
+    "name": "Spice World: The Game",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Bas-7"
+        },
+        "dateCreated": "1999-02-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0181020/"
+        },
+        "name": "For the dance genre and Spice fans - It's great! Hot music, chicks, moves",
+        "reviewBody": "If you'd like to go behind the camera, behind the scenes, or get behind the Spice Girls you'll want this game. You're able to move the girls, mix the music, shoot the video and see what the Spice Girls are really like! For all you Spice Girls, Spielberg and Fat Boy Slim wannabes!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0181020/"
+}

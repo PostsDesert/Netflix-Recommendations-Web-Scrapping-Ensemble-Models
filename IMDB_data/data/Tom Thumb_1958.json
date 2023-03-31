@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Russ Tamblyn",
+            "url": "/name/nm0848560/"
+        },
+        {
+            "@type": "Person",
+            "name": "June Thorburn",
+            "url": "/name/nm0861185/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Sellers",
+            "url": "/name/nm0000634/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2700,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103282/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ladislas Fodor",
+            "url": "/name/nm0283780/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jacob Grimm",
+            "url": "/name/nm0342278/"
+        },
+        {
+            "@type": "Person",
+            "name": "Wilhelm Grimm",
+            "url": "/name/nm0342303/"
+        }
+    ],
+    "datePublished": "1958-12-24",
+    "description": "A boy (Russ Tamblyn), no bigger than a thumb, manages to outwit two thieves (Terry-Thomas and Peter Sellers) determined to make a fortune from him.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "George Pal",
+            "url": "/name/nm0657162/"
+        }
+    ],
+    "duration": "PT1H38M",
+    "genre": [
+        "Family",
+        "Fantasy",
+        "Musical"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIzYTQ5YWMtZGMyZS00YjA0LThmZjgtZjViNDVjODg4YmFkXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+    "keywords": "disappearing woman,tied to a post,false accusation of theft,bag of gold,gold coin",
+    "name": "Tom Thumb",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "gflenard"
+        },
+        "dateCreated": "2011-10-05",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0052427/"
+        },
+        "name": "This is a classic at it's best!",
+        "reviewBody": "I just watched this tonight. The last time I saw this movie was about thirty years ago. If anyone enjoys Dismey movies and/or anything light-hearted and musical...this is a must-see!\n\nThe main character, of course appeared later in \"West Side Story\". He is a fabulous dancer. I'd be afraid to do some of the stunts he did in this film.\n\nAlso, this film was critically acclaimed for the special effects of this time period.\n\nIf your children(or you, for that matter) enjoy fairy tales, movies taken from fairy tales. Or, maybe just a little family fun...give this one a try",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4107583513",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOWVmZDhhNWEtNjQ4ZC00Nzk2LTkyNzctYTU1OTY1ZTBkNGM4XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOWVmZDhhNWEtNjQ4ZC00Nzk2LTkyNzctYTU1OTY1ZTBkNGM4XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-05-04T18:57:53.411Z",
+        "url": "https://www.imdb.com/video/vi4107583513/"
+    },
+    "url": "/title/tt0052427/"
+}

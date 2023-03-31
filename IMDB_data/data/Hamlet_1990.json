@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mel Gibson",
+            "url": "/name/nm0000154/"
+        },
+        {
+            "@type": "Person",
+            "name": "Glenn Close",
+            "url": "/name/nm0000335/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alan Bates",
+            "url": "/name/nm0000869/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 22934,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0073417/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0094459/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0028557/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Shakespeare",
+            "url": "/name/nm0000636/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christopher De Vore",
+            "url": "/name/nm0212246/"
+        },
+        {
+            "@type": "Person",
+            "name": "Franco Zeffirelli",
+            "url": "/name/nm0001874/"
+        }
+    ],
+    "datePublished": "1991-01-18",
+    "description": "Hamlet, Prince of Denmark, finds out that his uncle Claudius killed his father to obtain the throne, and plans revenge.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Franco Zeffirelli",
+            "url": "/name/nm0001874/"
+        }
+    ],
+    "duration": "PT2H15M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjI5OTgwNTc3M15BMl5BanBnXkFtZTgwNDY1NTk4NjE@._V1_.jpg",
+    "keywords": "gertrude character,ophelia character,horatio character,polonius character,claudius character",
+    "name": "Hamlet",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "CitizenKane"
+        },
+        "dateCreated": "1999-04-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0099726/"
+        },
+        "name": "A genius adaptation",
+        "reviewBody": "Zeferelli, although cut some seemingly vital parts to the play, made it his own, and created a beautiful tribute to Shakespeare. I am sure if the Bard had a camera, he would have filmed and wrote the screenplay somewhat the same.\n\nMel Gibson has portrayed Hamlet in the most true-to-human nature as anyone ever has. His brooding and depressing personality is realistic. Gibson doesn't allow the madness to overcome him. He is passionate, powerful and the epitome of the son who has gone through hell over his father's death and incestuous marriage of his mother. His performance brings tears to my eyes.\n\nGlenn Close is amazing; her motherly attitude and sincerity toward Hamlet is so much that one sometimes cannot feel anger towards her. Close gives life to Gertrude that no one has been able to before or after. She is a real character, with traits both despicable and kind.\n\nThe other performances are astounding, especially when it comes to Helena Bonham-Carter's moment of lunacy in Ophelia. Her reaction to her father's death is so convincing and terribly sad that I cry at merely seeing her.\n\nThe interpretation of the story is a perfect one that required surely a great amount of thought and reading of the very play. Zeferelli interprets it so well, that it flows like real life. Every aspect comes together to form a very real event.\n\nZeferelli is a master filmmaker, and I highly suggest this film to anyone who has ever marveled at the human spirit portrayed through film, and literature as well."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M42S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2755969305",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjcxNDRmODEtYmVmNC00ZmMzLWFjM2QtNmM0NjI3ZmMzNDMxXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjcxNDRmODEtYmVmNC00ZmMzLWFjM2QtNmM0NjI3ZmMzNDMxXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-02-15T17:18:25.195Z",
+        "url": "https://www.imdb.com/video/vi2755969305/"
+    },
+    "url": "/title/tt0099726/"
+}

@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Orson Bean",
+            "url": "/name/nm0004730/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Huston",
+            "url": "/name/nm0001379/"
+        },
+        {
+            "@type": "Person",
+            "name": "Theodore Bikel",
+            "url": "/name/nm0000942/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4282,
+        "ratingValue": 5.6,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0063380/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0093733/"
+        },
+        {
+            "@type": "Person",
+            "name": "J.R.R. Tolkien",
+            "url": "/name/nm0866058/"
+        },
+        {
+            "@type": "Person",
+            "name": "Romeo Muller",
+            "url": "/name/nm0612239/"
+        }
+    ],
+    "datePublished": "1980-05-11",
+    "description": "Two Hobbits struggle to destroy the Ring in Mount Doom while their friends desperately fight evil Lord Sauron's forces in a final battle.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jules Bass",
+            "url": "/name/nm0060072/"
+        },
+        {
+            "@type": "Person",
+            "name": "Arthur Rankin Jr.",
+            "url": "/name/nm0710230/"
+        }
+    ],
+    "duration": "PT1H38M",
+    "genre": [
+        "Animation",
+        "Adventure",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDc3NjZlMGQtYTAzZS00YWJhLTgwNWEtZTRlYzJkZWUzYzkwXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_.jpg",
+    "keywords": "hobbit,gloating,singer offscreen,friends who live together,tolkien",
+    "name": "The Return of the King",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "parkerr86302"
+        },
+        "dateCreated": "2008-01-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0079802/"
+        },
+        "name": "It's So Easy Not To Try",
+        "reviewBody": "Having recently seen this version for the first time in a number of years, I can see its faults, but many of the reviewers here are way too hard on it. Tolkien's masterful trilogy was unfilmable in live action before the advent of CGI, but fans were clamoring for film versions anyway, and then hated them when they arrived. Oy veh! While this Rankin/Bass version was not as good as their THE HOBBIT, I still found it to be quite entertaining on its own level, as long as you don't compare it to Peter Jackson's impeccable epics. The voice cast was great, and it was quite ambitious for Rankin/Bass, known chiefly for their animated Christmas specials.\n\nThis film's haters should listen to the lyrics of one of Glenn Yarbrough's---It Is So Easy Not To Try. Rankin/Bass tried, and Tolkien fans who have expressed outrage over this would have been angrier if no one had tried back then. Everyone here needs to take a chill pill."
+    },
+    "url": "/title/tt0079802/"
+}

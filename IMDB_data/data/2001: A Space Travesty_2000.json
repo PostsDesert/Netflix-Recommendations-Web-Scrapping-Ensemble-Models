@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Keir Dullea",
+            "url": "/name/nm0001158/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gary Lockwood",
+            "url": "/name/nm0516972/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Sylvester",
+            "url": "/name/nm0843213/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 679627,
+        "ratingValue": 8.3,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007143/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0038089/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stanley Kubrick",
+            "url": "/name/nm0000040/"
+        },
+        {
+            "@type": "Person",
+            "name": "Arthur C. Clarke",
+            "url": "/name/nm0002009/"
+        }
+    ],
+    "datePublished": "1970-06-24",
+    "description": "After uncovering a mysterious artifact buried beneath the Lunar surface, a spacecraft is sent to Jupiter to find its origins - a spacecraft manned by two men and the supercomputer H.A.L. 9000.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Stanley Kubrick",
+            "url": "/name/nm0000040/"
+        }
+    ],
+    "duration": "PT2H29M",
+    "genre": [
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "keywords": "monolith,human versus computer,star child,famous line,computer",
+    "name": "2001: A Space Odyssey",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Cain47"
+        },
+        "dateCreated": "2001-11-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0062622/"
+        },
+        "name": "Nietzsche and 2001",
+        "reviewBody": "I'm always surprised, given that the famous title track of 2001 is called \"Also sprach Zarathustra\", that nobody (nobody I've read, anyway) has noted the parallels between the movie and Nietzsche's famous work, \"Also sprach Zarathustra\". The idea of man's rebirth into a star child; an infant form of an indescribably more advanced being, is an explicit part of N.'s \"Zarathustra\"; there is a prominent passage called \"On how a camel becomes a lion, and a lion becomes a child\", in which N. describes the first incarnation of the overman as a child, transcending both the ascetic, altruistic side of man (the camel; always asking to bear more weight) and the rapacious, brutish, will-to-power side of man (the lion). The fact that the song plays during the star child sequence can hardly be coincidence. And also, Zarathustra said that \"man is a rope tied between beasts and the overman.\" The structure of the movie fits that description: a brief history of man as beast, until we become truly man by mastering weapons and acquiring reason, then a long sequence about man (the rope, as it were), and then a brief glimpse of the overman. The inscrutability of how these transformations occurred, and the suggestion that an external force caused them, is also Nietzschean; in \"Zarathustra\", he makes it pretty clear that he doesn't have a clue how people are going to be able to enact these changes themselves and suggests that we will have to depend on an outsider (Zarathustra) to show us how to \"go under\". Bowman's psychedelic sequence at the near-end could be seen as Kubrick's best 1960's-style attempt at depicting the mystical \"going under\".\n\nI know these parallels are pretty broad, and almost certainly have been noted elsewhere despite the fact that I have not personally seen it. But I just wanted to mention them, if for no other reason than to try to dispel the myth that Nietzsche was ultimately a gloomy philosopher. Few people find the ending of 2001 to be gloomy, and it is in my opinion, explicitly and unmistakeably Nietzschean. The case could certainly be made that 2001 is above all a dramatization of \"Zarathustra\" updated for the modern age. Feel free to disregard the outright snobbishness of my tying everything to Nietzsche.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Humanity finds a mysterious, obviously artificial object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.",
+        "duration": "PT2M24S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2674767897",
+        "name": "New 70mm Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZGJiOGEyYWQtNWYyMC00MWRiLWIzMzMtNTMxNjVlMGEwZWM3XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZGJiOGEyYWQtNWYyMC00MWRiLWIzMzMtNTMxNjVlMGEwZWM3XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+        "uploadDate": "2018-04-20T21:39:40Z",
+        "url": "https://www.imdb.com/video/vi2674767897/"
+    },
+    "url": "/title/tt0062622/"
+}

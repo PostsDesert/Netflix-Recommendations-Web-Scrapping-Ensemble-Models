@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Susan Hayward",
+            "url": "/name/nm0001333/"
+        },
+        {
+            "@type": "Person",
+            "name": "Simon Oakland",
+            "url": "/name/nm0643000/"
+        },
+        {
+            "@type": "Person",
+            "name": "Virginia Vincent",
+            "url": "/name/nm0898782/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6972,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0035064/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nelson Gidding",
+            "url": "/name/nm0317254/"
+        },
+        {
+            "@type": "Person",
+            "name": "Don Mankiewicz",
+            "url": "/name/nm0542531/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ed Montgomery",
+            "url": "/name/nm0599771/"
+        }
+    ],
+    "datePublished": "1958-12-03",
+    "description": "A prostitute, sentenced to death for murder, pleads her innocence.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Wise",
+            "url": "/name/nm0936404/"
+        }
+    ],
+    "duration": "PT2H",
+    "genre": [
+        "Biography",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY2MzMwNzgzNF5BMl5BanBnXkFtZTcwOTk2MTI0NA@@._V1_.jpg",
+    "keywords": "death row,jazz score,true crime,courtroom drama,death penalty",
+    "name": "I Want to Live!",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Jay09101951"
+        },
+        "dateCreated": "2003-07-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0051758/"
+        },
+        "name": "Susan Hayward at her best!",
+        "reviewBody": "After seeing this movie a few times I was able to get a DVD copy of it. It is one of the best, if not the best movie about death row. The final scenes in the gas chamber are the most realistic i have ever seen of an execution. The movie uses real information supplied by The newsman who followed the case from the start and by Barbra Graham herself. After watching her in the gas chamber,it's very easy ro see why Susan Hayward won the Oscar for best actress."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A prostitute, sentenced to death for murder, pleads her innocence.",
+        "duration": "PT2M19S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3768631321",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMDAxZGQ4NTMtOGExYy00YWViLThlNjctNzA0YzA0OGQyNDg3XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDAxZGQ4NTMtOGExYy00YWViLThlNjctNzA0YzA0OGQyNDg3XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-03-04T11:52:41.670Z",
+        "url": "https://www.imdb.com/video/vi3768631321/"
+    },
+    "url": "/title/tt0051758/"
+}

@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Isaac Hayes",
+            "url": "/name/nm0005002/"
+        },
+        {
+            "@type": "Person",
+            "name": "Yaphet Kotto",
+            "url": "/name/nm0001433/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alan Weeks",
+            "url": "/name/nm0917289/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3373,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0022781/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0449462/"
+        },
+        {
+            "@type": "Person",
+            "name": "Oscar Williams",
+            "url": "/name/nm0931412/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Allin",
+            "url": "/name/nm0021363/"
+        },
+        {
+            "@type": "Person",
+            "name": "Leigh Chapman",
+            "url": "/name/nm0152443/"
+        }
+    ],
+    "datePublished": "1975-02-17",
+    "description": "While tracking a strong-armed pimp who has skipped bail, a bounty hunter discovers a contract has been put out on him and must go on the run.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jonathan Kaplan",
+            "url": "/name/nm0438279/"
+        }
+    ],
+    "duration": "PT1H31M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTJhNWNiNWItOTNkMi00MjZjLTg0MDQtYWRhZGJhYjA2ZThkXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "bounty hunter,year 1973,cat,creme de menthe,child in jeopardy",
+    "name": "Truck Turner",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "boblipton"
+        },
+        "dateCreated": "2021-10-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0072325/"
+        },
+        "name": "Good If Unexceptional Blaxploitation Flick",
+        "reviewBody": "Skip tracer Isaac Hayes tracks down Paul Harris. In the ensuing chase, Harris is killed. His woman, Nichelle Nichols, who runs a stable of prostitutes, offers half her take to whoever kills Hayes.\n\nIt's a decent if unexceptional blaxploitation flick, with its strength being performers like Yaphet Kotto -- he was going through a divorce at the time and needed the cash -- and Scatman Crothers, as well as Hayes doing the film score. To someone who doesn't know, it may sound like typical chik-a-boom music that infested every cop show and movie in the era, but there's a flair and drive to it that lifts it out of the ordinary.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from MGM",
+        "duration": "PT17S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2577728793",
+        "name": "Truck Turner",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNGYyZjg5YzUtZjI1Zi00M2Q5LWFkZDktZTcyMjM2YTRkYWUzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNGYyZjg5YzUtZjI1Zi00M2Q5LWFkZDktZTcyMjM2YTRkYWUzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-10-31T06:38:47Z",
+        "url": "https://www.imdb.com/video/vi2577728793/"
+    },
+    "url": "/title/tt0072325/"
+}

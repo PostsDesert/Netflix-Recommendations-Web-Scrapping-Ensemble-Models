@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Karen Black",
+            "url": "/name/nm0000947/"
+        },
+        {
+            "@type": "Person",
+            "name": "Yvonne De Carlo",
+            "url": "/name/nm0001119/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Sanderson",
+            "url": "/name/nm0761836/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1953,
+        "ratingValue": 5.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0255076/"
+        },
+        {
+            "@type": "Person",
+            "name": "Annette Cascone",
+            "url": "/name/nm0143164/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gina Cascone",
+            "url": "/name/nm0143165/"
+        },
+        {
+            "@type": "Person",
+            "name": "Yuri Zeltser",
+            "url": "/name/nm0954693/"
+        }
+    ],
+    "datePublished": "1990-08-31",
+    "description": "A teenage girl begins receiving black magic power through an antique mirror that drips blood, not realizing the mirror is controlled by demonic forces.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Marina Sargenti",
+            "url": "/name/nm0765154/"
+        }
+    ],
+    "duration": "PT1H44M",
+    "genre": [
+        "Horror",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzFjZmI2Y2YtMjNmNC00ZDY2LWE4ZmUtODMzMTQxNDJmZjZlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "mirror,teenage girl,blood,goth girl,reflection",
+    "name": "Mirror Mirror",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "whammy666"
+        },
+        "dateCreated": "2005-02-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0100156/"
+        },
+        "name": "Underrated film",
+        "reviewBody": "This film is excellent, and it is so underrated. The atmosphere is good. Excellent acting...Rainbow Harvest does a great performance as Megan. Karen Black does a fairly good performance as the wacky mother. The ending to this film is one of the most brilliant endings I have seen in my lifetime. No other ending like it. The film is not really scary, thought I am sure some may find it scary. I like the look of the mirror, also. Special effects are pretty good for the low budget.Film is hard to find to rent, best bet is either to buy the MIRROR, MIRROR COLLECTION (worth the 20 bucks just for the first 2 films, 3 and are crap) or to go to a Ma and Pa Video Store. Recommended for horror fans everywhere! 8/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A teenage girl begins receiving black magic power through an antique mirror that drips blood, not realizing the mirror is controlled by demonic forces.",
+        "duration": "PT2M22S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2744304409",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzczNGMxNWEtNWY4YS00ZjRkLTg5OTItNTAzNTY5NWY1YWE0XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzczNGMxNWEtNWY4YS00ZjRkLTg5OTItNTAzNTY5NWY1YWE0XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-10-04T20:41:10.189Z",
+        "url": "https://www.imdb.com/video/vi2744304409/"
+    },
+    "url": "/title/tt0100156/"
+}

@@ -1,0 +1,86 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Hayden Christensen",
+            "url": "/name/nm0159789/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kevin Kline",
+            "url": "/name/nm0000177/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kristin Scott Thomas",
+            "url": "/name/nm0000218/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 44663,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0049390/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Andrus",
+            "url": "/name/nm0029125/"
+        }
+    ],
+    "datePublished": "2001-11-09",
+    "description": "When a man is diagnosed with terminal cancer, he takes custody of his misanthropic teenage son, for whom quality time means getting high, engaging in small-time prostitution, and avoiding his father.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Irwin Winkler",
+            "url": "/name/nm0005563/"
+        }
+    ],
+    "duration": "PT2H5M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMWVlYTVmZWYtYmVjZi00MDU3LWE2ZTYtMGE4NTAyM2RiNDFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "house,cancer,construction,house construction,dog",
+    "name": "Life as a House",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "lawprof"
+        },
+        "dateCreated": "2001-11-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0264796/"
+        },
+        "name": "From a Different Perspective",
+        "reviewBody": "As predictable as this film is, it moved me in many ways. I am a single father, 58 years old, whose life largely revolves around a wonderful twelve year old boy. He'd better not go down the road of Kevin Kline's teenage kid or I'll kill him! (just kidding-don't call Child Protective Services just yet).\n\nCalifornia Cinematic Dreamin' aside, the people here are real. Their vulnerabilities are in the open and they deal with each other as best they can. Kline's son is confused about more than his sexuality, far more. His first girlfriend accepts him and, more importantly, her own sexuality, with a maturity in no way undermined by a delightfully playful demeanor. \n\n As in similar films, the viewer has to suspend reality when the doomed character accepts his fate with no mention of palliative, much less curative, medical intervention. His condition is never fully described but a quick, distant shot of murmuring doctors examining x-rays (x-rays? No MRIs, CAT scans or PET scans in a CA hospital?) brings home that the architectural model builder has hit a brick wall.\n\nThe cast is first-rate - everyone plays his/her role convincingly.\n\nThe message of the film is, of course, the enduring need for community. And this celluloid community is moving and loving. A truly fine film. (Yep, I cried into my popcorn.)"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT2M17S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1955987737",
+        "name": "Life as a House",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMDJmY2NmNzEtZjA2OC00NDI3LWIwMjEtNGE1Y2Y2ZDZkMGIxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDJmY2NmNzEtZjA2OC00NDI3LWIwMjEtNGE1Y2Y2ZDZkMGIxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:00:59Z",
+        "url": "https://www.imdb.com/video/vi1955987737/"
+    },
+    "url": "/title/tt0264796/"
+}

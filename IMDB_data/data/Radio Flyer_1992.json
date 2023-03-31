@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Lorraine Bracco",
+            "url": "/name/nm0000966/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Heard",
+            "url": "/name/nm0001334/"
+        },
+        {
+            "@type": "Person",
+            "name": "Adam Baldwin",
+            "url": "/name/nm0000284/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 13779,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0014288/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0116435/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Mickey Evans",
+            "url": "/name/nm0262693/"
+        }
+    ],
+    "datePublished": "1992-02-21",
+    "description": "A father recounts a dark period of his childhood when he and his little brother lived in the suburbs.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Richard Donner",
+            "url": "/name/nm0001149/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Mickey Evans",
+            "url": "/name/nm0262693/"
+        }
+    ],
+    "duration": "PT1H54M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYjBiYTgyMWUtNDUzNi00ZmU5LThkOTQtNTg0N2E1MGI4YTliXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "radio flyer,physical abuse,throwing away wedding ring,stepfather stepson relationship,year 1969",
+    "name": "Radio Flyer",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "fertilecelluloid"
+        },
+        "dateCreated": "2006-02-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0105211/"
+        },
+        "name": "Seriously interesting slice of bittersweet magic realism",
+        "reviewBody": "This bittersweet slice of magic realism had a checkered production history (director/writer replaced) and tanked at the box office, but it's a helluva film.\n\nElijah Wood and Joseph Mazzello are pre-teen brothers whose flaky mom (Lorraine Bracco) shacks up with a mean-spirited alcoholic (Adam Baldwin). During his drinking bouts, Baldwin physically abuses Mazzello and manipulates him into remaining silent about his situation. But when Wood cottons on to what's happening, the boys put their heads together and hatch a fantastique solution to Mazzello's devastating dilemma.\n\nI love films that mix fantasy and dark reality. They are rarely successful financially (\"Lawn Dogs\" is a similar example), but they are usually original and intriguing.\n\nThe drunk Baldwin is shot from a low, child's perspective and his head is deliberately lopped off below the top of frame. This device allows us to judge him purely by his actions and as a totally physicalized beast. Both Wood and Mazzello are excellent, and they pull us effortlessly into their dark, frightening world.\n\nThe \"radio flyer\" of the title is a small red wagon kids transport their belongings in. Here it transports a dream.\n\nSeriously interesting stuff.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Pictures",
+        "duration": "PT32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3955229465",
+        "name": "Radio Flyer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTE5MzQ2YTgtMzQ2ZS00MTk3LWIxNzEtN2MzZTBmYjdlNzE2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTE5MzQ2YTgtMzQ2ZS00MTk3LWIxNzEtN2MzZTBmYjdlNzE2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-01-11T07:10:05Z",
+        "url": "https://www.imdb.com/video/vi3955229465/"
+    },
+    "url": "/title/tt0105211/"
+}

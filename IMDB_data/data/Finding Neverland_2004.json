@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Johnny Depp",
+            "url": "/name/nm0000136/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kate Winslet",
+            "url": "/name/nm0000701/"
+        },
+        {
+            "@type": "Person",
+            "name": "Julie Christie",
+            "url": "/name/nm0001046/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 208407,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0022594/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0159642/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0180591/"
+        },
+        {
+            "@type": "Person",
+            "name": "Allan Knee",
+            "url": "/name/nm0460632/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Magee",
+            "url": "/name/nm1341735/"
+        }
+    ],
+    "datePublished": "2004-12-17",
+    "description": "The story of Sir J.M. Barrie's friendship with a family who inspired him to create Peter Pan.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Marc Forster",
+            "url": "/name/nm0286975/"
+        }
+    ],
+    "duration": "PT1H46M",
+    "genre": [
+        "Biography",
+        "Drama",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTVmZWE4NGItZmI3Ny00Nzk3LWIyMzQtOTBlYjc4Y2MzMWNjXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_.jpg",
+    "keywords": "stage play,author,reference to peter pan,dog,playwright",
+    "name": "Finding Neverland",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "lochnessmummy"
+        },
+        "dateCreated": "2004-12-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0308644/"
+        },
+        "name": "Now that we're past the hype... don't miss this movie!",
+        "reviewBody": "Every holiday season Harvey Weinstein and Miramax talk up one of their properties, fully expecting everyone to bow and throw awards at it as soon as it's released. This year it's Finding Neverland, which has produced a lot of buzz in favor of Johnny Depp's sophisticated performance. Although the film deserves all the praise it gets, it is understandable that moviegoers are a little weary with another dramatic period piece, with another \"oscar caliber\" cast, about yet another take on Peter Pan.\n\nThe bottom line is, this movie is phenomenal. Exploring the major theme of Barrie's play (that of a boy who never grows up), Finding Neverland refrains from condemning grown-ups, but exalts the wild magic one can enjoy as a kid. For James, who had to deal with his family's reticence upon the death of his brother, the real tragedy occurs when a child is forced to grow up too fast. \n\nMy favorite idea from this film is this: life finds a way to put into our lives the people we're supposed to be living our lives with. James and Sylvia needed each other, and they needed each other at that particular time. Life took care of them.\n\nThe film does indeed move at a snail's pace. Consider that part of the set design. Just as the characters go about 1905 London in top hats and buttoned-down gowns, so does the movie develop in a manner which would have been fitting for a time which preceded MTV-generation attention spans by about a hundred years.\n\nAs for the acting, it is wonderful. Depp is understated and gallant, Kate Winslet is lovely and tragic, and they're both better than I've ever seen them. Julie Christie is brutally ominous as the matriarch who can gum up everyone's happiness. Dustin Hoffman, although out of place, brings a dry wit as a risk-taking businessman. The boys playing the Davis kids are a lot of fun to watch and play their dramatic parts perfectly.\n\nIf you want something where all the pieces of the magic puzzle that is movie-making come together with grace, charm, and humanity, you won't find a more rewarding film than this.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT2M24S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi955227673",
+        "name": "Finding Neverland",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BY2YyMmQyZmEtYThmOS00NjM3LWFiYmYtMjY1NDFhMDk5MDRhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BY2YyMmQyZmEtYThmOS00NjM3LWFiYmYtMjY1NDFhMDk5MDRhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-10-26T03:21:19Z",
+        "url": "https://www.imdb.com/video/vi955227673/"
+    },
+    "url": "/title/tt0308644/"
+}

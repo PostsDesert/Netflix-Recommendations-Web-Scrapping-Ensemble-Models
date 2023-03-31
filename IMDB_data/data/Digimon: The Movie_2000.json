@@ -1,0 +1,122 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Lara Jill Miller",
+            "url": "/name/nm0330070/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joshua Seth",
+            "url": "/name/nm0293196/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bob Papenbrook",
+            "url": "/name/nm0653071/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7611,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0075704/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0053157/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0049229/"
+        },
+        {
+            "@type": "Person",
+            "name": "Akiyoshi Hongo",
+            "url": "/name/nm0393289/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeff Nimoy",
+            "url": "/name/nm0632383/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bob Buchholz",
+            "url": "/name/nm0118176/"
+        }
+    ],
+    "datePublished": "2000-10-06",
+    "description": "Throughout three different stories, Kari Kamiya and her friends take on explosive adventures involving digital creatures.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bob Buchholz",
+            "url": "/name/nm0118176/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mamoru Hosoda",
+            "url": "/name/nm0396074/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeff Nimoy",
+            "url": "/name/nm0632383/"
+        }
+    ],
+    "duration": "PT1H22M",
+    "genre": [
+        "Animation",
+        "Action",
+        "Adventure"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE2NTAyMjUxMl5BMl5BanBnXkFtZTYwOTAwODQ3._V1_.jpg",
+    "keywords": "neighborhood,whistle,pc,computer code,colorado",
+    "name": "Digimon: The Movie",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "forgottenlord"
+        },
+        "dateCreated": "2002-01-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0259974/"
+        },
+        "name": "Funny, enjoyable, and is really just three episodes",
+        "reviewBody": "It took me forever to figure it out, but after enough searching, I found out why.\n\nI found that the movie was a lot like the show, so close that it seemed like they had just thrown three episodes together. The only reason I put up with this, these three 'episodes' were effectively on their own and were referred to briefely in the series (well, 2 of them were).\n\nIt ends up that I was half right. after searching, I found out that it isn't three episodes strung together, but currently there are some 6 digimon 'movies' released in Japan, and three of them are in this single movie that we saw in the western world. It seems that the Japanese form of a movie is 30 minutes long (how this works is beyond me).\n\nOutside that, it was enjoyable. I had fun watching it, taping it and watching it again, and catching all the jokes they had. It's what makes the series enjoyable, and it sure saved the movie.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from 20th Century Fox Home Entertainment",
+        "duration": "PT1M34S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi432341785",
+        "name": "Digimon: The Movie",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOGRmNzMzYjItYWE0Yy00MGVlLWEzNTgtN2FkM2YxOThhODRlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGRmNzMzYjItYWE0Yy00MGVlLWEzNTgtN2FkM2YxOThhODRlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-01-15T06:25:19Z",
+        "url": "https://www.imdb.com/video/vi432341785/"
+    },
+    "url": "/title/tt0259974/"
+}

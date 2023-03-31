@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Robert De Niro",
+            "url": "/name/nm0000134/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rene Russo",
+            "url": "/name/nm0000623/"
+        },
+        {
+            "@type": "Person",
+            "name": "Piper Perabo",
+            "url": "/name/nm0005305/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 20642,
+        "ratingValue": 4.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0009948/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0076287/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0063961/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jay Ward",
+            "url": "/name/nm0911599/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kenneth Lonergan",
+            "url": "/name/nm0518836/"
+        }
+    ],
+    "datePublished": "2000-06-30",
+    "description": "When enemies Boris, Natasha, and Fearless Leader escape into the real world with a nefarious scheme, Rocky and Bullwinkle do the same, and team up with a young F.B.I. Agent to stop the trio.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Des McAnuff",
+            "url": "/name/nm0005197/"
+        }
+    ],
+    "duration": "PT1H32M",
+    "genre": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNWNiYmIwNjItNTYzNC00NzQyLTlkOTEtM2M4NDg4NTQxYmMzXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_.jpg",
+    "keywords": "live action cgi hybrid,bullwinkle character,rocky the flying squirrel character,boris badenov character,natasha fatale character",
+    "name": "The Adventures of Rocky & Bullwinkle",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "johnnymonsarrat"
+        },
+        "dateCreated": "2002-08-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0131704/"
+        },
+        "name": "Jon Monsarrat review: sub-intellectual, just for kids, and bad",
+        "reviewBody": "Having enjoyed the original cartoon series, I went into this film with a good attitude. I enjoyed \"Airplane!\" and am hardly one of those film school arty types who can't take a joke. If Rocky & Bullwinkle had been campy, dumb, but fun, I think I would have enjoyed it.\n\nUnfortunately, the only good thing I can say is that I was hoping to hear a lot of bad puns, and I did. But there the similarity ended.\n\nTaking Rocky & Bullwinkle out of its cartoon format into a 3D realm didn't work for me. The plot stuttered and didn't make any sense. Even starting from the attitude that this is a cartoon, so things will be wacky and nonsensical, it still didn't make any sense.\n\nWorst of all were the syrupy and melodramatic interactions with Karen Sympathy, the FBI agent. The emotions and decisions of the characters didn't make sense.\n\nFinally, there's something about comedy that involves timing. I don't know what it is. But the build-ups and physical pranks didn't work for me. Something was really askew in the presentation.\n\nWho should see this film:\n\n-- nobody, even kids, and especially if you've seen the original series, it will just make you sad\n\nI'm forced to give The Adventures of Rocky & Bullwinkle a 3 out of 10.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 3,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Universal Pictures",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1183711513",
+        "name": "The Adventures of Rocky and Bullwinkle",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTU3Y2NkMDktZjVlNC00YTE4LTlmZGUtYWRhYmQ3ZmEzYmYyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTU3Y2NkMDktZjVlNC00YTE4LTlmZGUtYWRhYmQ3ZmEzYmYyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:28:36Z",
+        "url": "https://www.imdb.com/video/vi1183711513/"
+    },
+    "url": "/title/tt0131704/"
+}

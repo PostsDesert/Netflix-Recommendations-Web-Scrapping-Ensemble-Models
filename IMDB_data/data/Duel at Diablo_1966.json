@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "James Garner",
+            "url": "/name/nm0001258/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sidney Poitier",
+            "url": "/name/nm0001627/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bibi Andersson",
+            "url": "/name/nm0000761/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3784,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0071153/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0067478/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0765991/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marvin H. Albert",
+            "url": "/name/nm0016549/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael M. Grilikhes",
+            "url": "/name/nm0341981/"
+        }
+    ],
+    "datePublished": "1966-06-18",
+    "description": "In Apache territory, a supply Army column heads for the next fort, an ex-scout searches for the killer of his Indian wife, and a housewife abandons her husband in order to rejoin her Apache lover's tribe.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ralph Nelson",
+            "url": "/name/nm0625680/"
+        }
+    ],
+    "duration": "PT1H43M",
+    "genre": [
+        "Drama",
+        "Thriller",
+        "Western"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNWU0ZTE4MzUtYzBjYS00MGIwLWJjZWEtNDBjOGQzODdhZjVmL2ltYWdlXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
+    "keywords": "torture,apache indian,shot with an arrow,shotgun,actor executive producer",
+    "name": "Duel at Diablo",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "smrgeog"
+        },
+        "dateCreated": "2004-12-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0060355/"
+        },
+        "name": "Unconventional Western",
+        "reviewBody": "What makes this film interesting albeit unconventional are various themes that swirl beneath the main story line. Made at the time when the Civil Rights movement was in full swing, the film subtly touches on issues that were important during the 60s (e.g. racial tolerance, treatment of women and minorities). The film also has a brutal hard edge to it when it comes to the violence, death and the mayhem that takes throughout. The score gives a sense of desperation and inevitability which enhances its hard edge. Unlike many films of the genre, there is no clear cut protagonist or antagonist. The characters are realistic and more than mere two-dimensional cartoon characters for which the viewer could identify with. Overall, it is a thought provoking film that deserves a look in.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT3M9S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi179159065",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMmE1MDhmOTktMWZjNS00YzMxLThiOWQtNjZjM2RjMTJlZjYwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMmE1MDhmOTktMWZjNS00YzMxLThiOWQtNjZjM2RjMTJlZjYwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-03-12T19:30:22.005Z",
+        "url": "https://www.imdb.com/video/vi179159065/"
+    },
+    "url": "/title/tt0060355/"
+}

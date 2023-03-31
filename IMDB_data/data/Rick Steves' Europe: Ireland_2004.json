@@ -1,0 +1,66 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Rick Steves",
+            "url": "/name/nm0829083/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andreas Clemens",
+            "url": "/name/nm6802193/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alfio Di Mauro",
+            "url": "/name/nm10123962/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 587,
+        "ratingValue": 8.6,
+        "worstRating": 1
+    },
+    "contentRating": "TV-G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0239915/"
+        }
+    ],
+    "datePublished": "2000-09-03",
+    "description": "American travel authority Rick Steves guides viewers through his favorite European cities.",
+    "genre": [
+        "Documentary",
+        "Reality-TV"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDI1MDBlYjktYWY1ZS00ZGFiLWI1MzgtMWEyZWM3MWQ3NTM4XkEyXkFqcGdeQXVyODg3NDc1OTE@._V1_.jpg",
+    "keywords": "culture,documentary subject's name in title,art,travel documentary,travel reality tv",
+    "name": "Rick Steves' Europe",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "gmichaelgb"
+        },
+        "dateCreated": "2013-11-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt1243815/"
+        },
+        "name": "Nostalgic for travel shows? Watch this!",
+        "reviewBody": "This show takes on the best aspects of the great travel shows that unfortunately seemed to have disappeared over the past few years from TV.\n\nRick is a great narrator who takes you on journeys throughout Europe whilst providing a comfortable and laid back atmosphere. Unlike most travel documentaries this one takes you more in-depth despite having a short runtime. He manages to squeeze in interesting facts and scenery in a quick but relaxing manner. You will experience landmarks, art, food, and local customs.\n\nThis show is a definitive must see for any travel enthusiast. You will definitely find a way to appreciate it especially in the later seasons.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt1243815/"
+}

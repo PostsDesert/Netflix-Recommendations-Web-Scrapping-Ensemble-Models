@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Emma Samms",
+            "url": "/name/nm0759924/"
+        },
+        {
+            "@type": "Person",
+            "name": "Oliver Reed",
+            "url": "/name/nm0001657/"
+        },
+        {
+            "@type": "Person",
+            "name": "Claire Bloom",
+            "url": "/name/nm0001954/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1180,
+        "ratingValue": 5.5,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103051/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0035035/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0103783/"
+        },
+        {
+            "@type": "Person",
+            "name": "Barbara Cartland",
+            "url": "/name/nm0142073/"
+        },
+        {
+            "@type": "Person",
+            "name": "Terence Feely",
+            "url": "/name/nm0270317/"
+        }
+    ],
+    "datePublished": "1989-01-22",
+    "description": "Swashbuckling tale of romance, betrayal, jealousy, banditry, murder, and court intrigue set in the 1660s, during the Restoration to the English throne of King Charles II.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Hough",
+            "url": "/name/nm0396421/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Adventure",
+        "Drama",
+        "History"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZGNlYzY3MmMtYTVlOS00OTkyLWI3MDYtODIyMzU0NGNlNzAzXkEyXkFqcGdeQXVyOTQxNzM2MjY@._V1_.jpg",
+    "keywords": "mistress,england,royal court,highwayman,duel",
+    "name": "The Lady and the Highwayman",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ignazia"
+        },
+        "dateCreated": "2003-04-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0097707/"
+        },
+        "name": "great bodice-ripper yarn",
+        "reviewBody": "Get a grip you guys - this is not supposed to be great theatre. It's a fun, tongue-in-cheek adaptation of your typical bodice-ripper tale only rather better done than most (I'm thinking of the American equivalent offerings such as \"Black Swan\" (1942) or any of Errol Flynn's efforts). True - the transcription to DVD is about the worst I've ever seen outside of old kung-fu movies but just enjoy it for what it is - an early airing of Hugh Grant's talents with some great supporting actors. Everyone takes their part extremely well - especially Christopher Cazenove as the slimy Rudolph Vyne."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "The Lady and the Highwayman",
+        "duration": "PT2M25S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3376528409",
+        "name": "The Lady and the Highwayman",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTA3ZmFiMWEtODY1Mi00ZjNhLTgzMDgtMWM2MWEwZjkyYmM4XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTA3ZmFiMWEtODY1Mi00ZjNhLTgzMDgtMWM2MWEwZjkyYmM4XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2019-08-11T10:46:19.816Z",
+        "url": "https://www.imdb.com/video/vi3376528409/"
+    },
+    "url": "/title/tt0097707/"
+}

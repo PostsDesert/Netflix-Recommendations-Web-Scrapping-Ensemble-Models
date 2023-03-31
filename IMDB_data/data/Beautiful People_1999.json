@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Thomas Goodridge",
+            "url": "/name/nm0329339/"
+        },
+        {
+            "@type": "Person",
+            "name": "Faruk Pruti",
+            "url": "/name/nm0699306/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tony Peters",
+            "url": "/name/nm0676709/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2547,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103757/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0037450/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0019383/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jasmin Dizdar",
+            "url": "/name/nm0229026/"
+        }
+    ],
+    "datePublished": "1999-09-17",
+    "description": "In London, during October 1993, England is playing Holland in the preliminaries of the World Cup. The Bosnian War is at its height, and refugees from the ex-Yugoslavia are arriving. Football rivals, and political adversaries from ...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jasmin Dizdar",
+            "url": "/name/nm0229026/"
+        }
+    ],
+    "duration": "PT1H47M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA4MjQ3MTI5MV5BMl5BanBnXkFtZTYwMTc4Mjk5._V1_.jpg",
+    "name": "Beautiful People",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "paulcreeden"
+        },
+        "dateCreated": "2001-07-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0159272/"
+        },
+        "name": "Edge and talent.",
+        "reviewBody": "I was excited to find this film on cable, since it whipped through my local art house when it was in theaters so fast I had no chance to get to see it. My excitement was justified. I was moved by the film's edge and its talent. It was truly refreshing to see the combination of hand held camera technique and world class acting, with the likes of Linda Basset, Nicholas Farrell and Charlotte Coleman. As an American, who was shielded, as most of us were, from what was really happening in Europe during the Bosnian war of the mid nineties, I felt like a child who was finally getting the real story about a family secret. The presentation of realistic characters in a vibrant and real collage of parallel and interlaced lives, brought the big issues of ethnic hatred, racism, class prejudice and sexism into painful and sometimes humorous focus. I was very happy with the film's conclusion. It brought all those big issues to the table in a brilliant metaphor for the human condition, as it really exists under all the crap. A wonderful movie.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Trimark",
+        "duration": "PT1M48S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2008613145",
+        "name": "Beautiful People",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYTJhNTNkNDItMWY2YS00ZjlkLWFkYmQtYzA0YzRhMzA1NDUwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTJhNTNkNDItMWY2YS00ZjlkLWFkYmQtYzA0YzRhMzA1NDUwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:26:34Z",
+        "url": "https://www.imdb.com/video/vi2008613145/"
+    },
+    "url": "/title/tt0159272/"
+}

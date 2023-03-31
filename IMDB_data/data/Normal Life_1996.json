@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ashley Judd",
+            "url": "/name/nm0000171/"
+        },
+        {
+            "@type": "Person",
+            "name": "Luke Perry",
+            "url": "/name/nm0000580/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bruce A. Young",
+            "url": "/name/nm0949340/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2443,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0043853/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0046718/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0014612/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peg Haller",
+            "url": "/name/nm0356424/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bob Schneider",
+            "url": "/name/nm0773727/"
+        }
+    ],
+    "datePublished": "1996-10-25",
+    "description": "Chris is young idealistic cop who falls in love and gets married to Pam, a beautiful but emotionally unstable woman who suffers from alcoholism and drug addiction. While Chris is trying hard to have a normal life and some money, P...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John McNaughton",
+            "url": "/name/nm0573796/"
+        }
+    ],
+    "duration": "PT1H41M",
+    "genre": [
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYjlmZjhkZGUtN2JjYy00ZTk3LThiMmMtN2RhZDI2NDg5NjFjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "love,husband wife relationship,self destructiveness,dysfunctional marriage,sex scene",
+    "name": "Normal Life",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jpn"
+        },
+        "dateCreated": "1998-10-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0117202/"
+        },
+        "name": "A decent, modern \"Bonnie and Clyde\"",
+        "reviewBody": "I must admit that seeing 90210's Luke Perry in Normal Life's leading role did not inspire me, but after watching this film I was pleasantly surprised. The foreshadowing scene at the very start of the film gives a sense of foreboding doom that pervades the rest of the story. Pam (Ashley Judd) is a woman torn between living on the edge and having a normal, storybook life. Chris (Luke Perry) longs for such a life, but also seems to be excited by Pam's wild side. He goes from cop to bank robber in a first successful, but then futile attempt to make things right, which only seems to excite Pam more. Eventually their luck runs out, and the inevitable ensues. The last 15 minutes of this film are the best part with some surprising twists right near the end.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Chris is young idealistic cop who falls in love and gets married to Pam, a beautiful but emotionally unstable woman who suffers from alcoholism and drug addiction.",
+        "duration": "PT1M14S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1591001881",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTMzYzg2NWUtOGEwYi00MTM5LTljNDEtMDFkYmVkZGM1MGQ5XkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTMzYzg2NWUtOGEwYi00MTM5LTljNDEtMDFkYmVkZGM1MGQ5XkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+        "uploadDate": "2021-11-25T19:19:01.278Z",
+        "url": "https://www.imdb.com/video/vi1591001881/"
+    },
+    "url": "/title/tt0117202/"
+}

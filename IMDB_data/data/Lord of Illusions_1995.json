@@ -1,0 +1,84 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Scott Bakula",
+            "url": "/name/nm0000836/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kevin J. O'Connor",
+            "url": "/name/nm0640413/"
+        },
+        {
+            "@type": "Person",
+            "name": "J. Trevor Edmond",
+            "url": "/name/nm0249460/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 18303,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0045933/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0058765/"
+        },
+        {
+            "@type": "Person",
+            "name": "Clive Barker",
+            "url": "/name/nm0000850/"
+        }
+    ],
+    "datePublished": "1995-08-25",
+    "description": "A private detective gets more than he bargains for when he encounters Philip Swan, a performer whose amazing illusions captivate the world, but they are not really what everyone thinks.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Clive Barker",
+            "url": "/name/nm0000850/"
+        }
+    ],
+    "duration": "PT1H49M",
+    "genre": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDg1OTc0MDQwNl5BMl5BanBnXkFtZTcwMjQ3NDk0NA@@._V1_.jpg",
+    "keywords": "private detective,neo noir,telekinesis,investigation,violence",
+    "name": "Lord of Illusions",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jack-102"
+        },
+        "dateCreated": "1998-12-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0113690/"
+        },
+        "name": "Barker is still one of the greats",
+        "reviewBody": "Alright, so maybe this wasn't a great adaption of his short story, the Last Illusion, but it was one hell of a ride. The special effects aren't overdone, the acting was up to par, and the direction was marvelous. This movie is so gritty, its tone is perfect. Bakula may have been a bit too emotionless in a scene or two, but overall he was wonderful as the detective who gets caught up in the trickery, and the evil. There is also one or two funny moments, very very well placed. Of course, to fully appreciate the movie, you must watch the directors cut, with a couple extra scenes, that actually add a lot to the plotline, and the surreality of it all. Great stuff Clive!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0113690/"
+}

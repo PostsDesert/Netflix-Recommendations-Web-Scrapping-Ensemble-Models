@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Erica Linz",
+            "url": "/name/nm5000971/"
+        },
+        {
+            "@type": "Person",
+            "name": "Igor Zaripov",
+            "url": "/name/nm5001551/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lutz Halbhubner",
+            "url": "/name/nm1492924/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 8131,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0384130/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0051162/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrew Adamson",
+            "url": "/name/nm0011470/"
+        }
+    ],
+    "datePublished": "2012-12-21",
+    "description": "A young woman is entranced by an Aerialist. When they fall into the dreamlike world of Cirque du Soleil and are separated, they travel through the different tent worlds trying to find each other.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Andrew Adamson",
+            "url": "/name/nm0011470/"
+        }
+    ],
+    "duration": "PT1H31M",
+    "genre": [
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQxMjY0MzgzMl5BMl5BanBnXkFtZTcwNjc0NjQ2OA@@._V1_.jpg",
+    "keywords": "woman wears a bikini,underwater scene,3d,3 dimensional,cirque du soleil",
+    "name": "Cirque du Soleil: Worlds Away",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "pamma09"
+        },
+        "dateCreated": "2012-12-22",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt1792647/"
+        },
+        "name": "enchanting",
+        "reviewBody": "I have seen at least 8 of the Cirque shows - (the most fun are those in the circus tent) - and I look forward to the shows coming to my home each year. Watching the 3D movie was a treat. Since they were able to have cameras in so many different locations - above, below- the effects are really great. I liked the fact that you could hear the smacking of the acrobats shoes on the big wheels - really got the feel and the danger of that act. \n\nI loved the beginning from \"O\" - the water adds to the acts. You are able to really see the actors - and appreciate the talent they have. I would go again - I will buy this DVD - and I will continue to go to the live performances. Even though I am not an Elvis or Beatles fan - I liked the music. Would like to have seen some of Michael Jackson in it - that was a fantastic live show.\n\nThank you for bringing this to the theaters - many people cannot afford the price of the live shows and this brings it to more people. I am glad that others will be able to see it. And I will again.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Two young people journey through the dreamlike worlds of Cirque du Soleil to find each other.",
+        "duration": "PT1M38S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi379234073",
+        "name": "U.S. Version #2",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTM5OTY2OTU0M15BMl5BanBnXkFtZTcwNjQzNjA4OA@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTM5OTY2OTU0M15BMl5BanBnXkFtZTcwNjQzNjA4OA@@._V1_.jpg",
+        "uploadDate": "2012-12-04T14:11:33Z",
+        "url": "https://www.imdb.com/video/vi379234073/"
+    },
+    "url": "/title/tt1792647/"
+}

@@ -1,0 +1,83 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Don Wilson",
+            "url": "/name/nm0933310/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Roundtree",
+            "url": "/name/nm0745780/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gregory McKinney",
+            "url": "/name/nm0571874/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 609,
+        "ratingValue": 4.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0001838/"
+        },
+        {
+            "@type": "Person",
+            "name": "Allison Burnett",
+            "url": "/name/nm0122335/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charlie Mattera",
+            "url": "/name/nm0559817/"
+        }
+    ],
+    "datePublished": "1992-01-03",
+    "description": "Jimmy Boland is a man unjustly accused of a brutal crime. Within the prison he must fight for survival, freedom and justice.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Oley Sassone",
+            "url": "/name/nm0766020/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Action"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTgwMDAwNTIzOV5BMl5BanBnXkFtZTcwOTk4ODAwMQ@@._V1_.jpg",
+    "keywords": "cult film,kung fu,martial arts,racism,racial slur",
+    "name": "Bloodfist III: Forced to Fight",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "GOWBTW"
+        },
+        "dateCreated": "2006-08-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0101481/"
+        },
+        "name": "Watchable!",
+        "reviewBody": "The third installment of \"Bloodfist\" was about like the first one but slightly better than the second. This time instead of the fighting ring of a arena, it's the ultimate fighting ring: Prison! Just watching a juvenile get raped and killed in prison would make any man's blood boil. Then Wilson's character avenges the kid when he let that rapist meet the end of his own knife he used to kill the kid. And it was interesting to see Richard Roundtree play in the movie. Having Wilson's character get switched around form group to group can get confusing, especially when all the prisoners are black and white. Roundtree's character helps him out despite what he sees. And the fight scenes are never-ending. It's a shame that Roundtree's character got hurt, he was tough as nails all the way. He fought for his freedom, now he's going to fight for his friend who was wrongly put there. That maybe fictional, but it gets a glimpse of prison life that will scare the delinquent straight out of his skin. The marital arts is a way of protection, and it can be a lifesaver. I enjoyed it pretty much. 2 out of 5 stars.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0101481/"
+}

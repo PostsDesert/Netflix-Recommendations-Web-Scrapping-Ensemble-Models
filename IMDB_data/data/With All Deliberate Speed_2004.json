@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Vernon Jordan",
+            "url": "/name/nm1594239/"
+        },
+        {
+            "@type": "Person",
+            "name": "Thurgood Marshall Jr.",
+            "url": "/name/nm1594240/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeffrey Wright",
+            "url": "/name/nm0942482/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 68,
+        "ratingValue": 7.8,
+        "worstRating": 1
+    },
+    "contentRating": "Unrated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0086892/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0915610/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nathan Antila",
+            "url": "/name/nm0031067/"
+        }
+    ],
+    "datePublished": "2004-05-14",
+    "description": "Documentary filmmaker Peter Gilbert unearths the legacy of the landmark Supreme Court decision in Brown v. Board of Education -- where it was ruled that \"in the field of public education, the doctrine of 'separate but equal' has n...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Peter Gilbert",
+            "url": "/name/nm0318201/"
+        }
+    ],
+    "duration": "PT1H50M",
+    "genre": [
+        "Documentary",
+        "History"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTgxMDY0ODg3N15BMl5BanBnXkFtZTcwNDY5NzUyMQ@@._V1_.jpg",
+    "keywords": "education,supreme court,national association for the advancement of colored people,virginia,threat",
+    "name": "With All Deliberate Speed",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "planktonrules"
+        },
+        "dateCreated": "2008-12-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0408338/"
+        },
+        "name": "Occasionally loses its focus, but still a powerful documentary",
+        "reviewBody": "I agree with \"dstyb\" that this documentary at times lacks a clear focus, though you can't ignore that despite a few problems this is still a very powerful documentary about simple people who helped change the country for the better. The history of the integration of our country's public schools is a topic too seldom discussed and the film did an exceptional job bringing to light the many sacrifices people made to force change. As Julian Bond said in the film, this movement consisted of \"ordinary people doing extraordinary things\".\n\nI learned a lot from the film about the roots to Brown versus The Topeka Board of Education and using interviews with the actual participants was very touching. I'd say that 90% of the film was as good a documentary as you'll ever see and it's must-see viewing for kids--especially since in interviews in this film, students today didn't think talking about integration was relevant or important! Unfortunately, despite being a very touching documentary, the film seems to bite off too much as it tries to make the connection from 1954 to the state of our present school system. Some of their case is very convincing--kids who are minorities tend to live in poor districts and so the schools tend to be run down and have second-rate standards--much like it was BEFORE integration. This is unacceptable, but somehow society hasn't done anything about this.\n\nHowever, at times, the film uses spurious logic in looking at racism as being the root cause of ALL disparity in schools in America. Early in the film, they discuss the plight of the schools in the District of Columbia (which is run mostly by local Black politicians). But what they don't mention is that the District has the highest per capita spending on students in the nation--with $24,600 per child--the same that is spent on kids in the elite private schools in this same city (Washington Post, April 2008). And, what is also not mentioned is that student safety is a major concern in schools in cities like DC and Detroit. So when one teacher in the film tells asks her class \"why do Whites go to private schools?\" and then indicates it's all because of racism, she's not quite hit the problem on the head. The answer isn't just racism but most likely because White Americans can afford private schooling while most Black Americans can't. I would love to see a film address the whole picture--prejudice, indifference, lack of accountability, drugs, the huge dropout rate, teen pregnancies, etc. to discuss why students fail. As a public school teacher whose children never attended private schools, I am alarmed at some of our schools but hate that racism is always seen as THE root cause. A root cause, yes, but not the only one. And in this respect, the film, at times, seems to have a few stereotypes of their own. Once we can get past these preconceptions on all sides, perhaps we can get to work addressing the problems today.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Clip 1",
+        "duration": "PT2M20S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2481062169",
+        "name": "With All Deliberate Speed",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjllN2NmZmUtNjlmZS00NDg2LWFkZjItNzU4NTBjZGE3NjQyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjllN2NmZmUtNjlmZS00NDg2LWFkZjItNzU4NTBjZGE3NjQyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-18T12:10:42Z",
+        "url": "https://www.imdb.com/video/vi2481062169/"
+    },
+    "url": "/title/tt0408338/"
+}

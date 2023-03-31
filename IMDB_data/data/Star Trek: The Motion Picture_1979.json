@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "William Shatner",
+            "url": "/name/nm0000638/"
+        },
+        {
+            "@type": "Person",
+            "name": "Leonard Nimoy",
+            "url": "/name/nm0000559/"
+        },
+        {
+            "@type": "Person",
+            "name": "DeForest Kelley",
+            "url": "/name/nm0001420/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 92528,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0006081/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0024434/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gene Roddenberry",
+            "url": "/name/nm0734472/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harold Livingston",
+            "url": "/name/nm0515245/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alan Dean Foster",
+            "url": "/name/nm0287669/"
+        }
+    ],
+    "datePublished": "1979-12-08",
+    "description": "When an alien spacecraft of enormous power is spotted approaching Earth, Admiral James T. Kirk resumes command of the overhauled USS Enterprise in order to intercept it.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Wise",
+            "url": "/name/nm0936404/"
+        }
+    ],
+    "duration": "PT2H23M",
+    "genre": [
+        "Adventure",
+        "Mystery",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjk1ZjAyZjktZTY4YS00NDY3LWIwMzktMjZiNGIzODFiZDVmXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "alien,voyager spacecraft,transporter malfunction,u.s.s. enterprise,starship",
+    "name": "Star Trek: The Motion Picture",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "FlickB"
+        },
+        "dateCreated": "2006-12-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0079945/"
+        },
+        "name": "an under-rated film",
+        "reviewBody": "This was an under-rated film in the first version, and it is improved a great deal with the changes that Robert Wise made just a few years before he passed away. There has been a backlash against this picture, mostly for two reasons; it was not Star Wars, and it was not what people expected of Star Trek.\n\nIf you put these expectations aside, and if you also have some attention span and willingness to relax into a picture this is a remarkable experience. I often here people use words like boring, too long etc. Well yes, if we are expecting a quick-hit, film that can be digested in 90 minutes like a TV show, this is not that type of film. If we apply these standards to Lawrence of Arabia, 2001, Blade Runner, Bridge on the River Kwai, or Citzen Kane (which Robert Wise edited, none of these films would have ever been made.\n\nIf you put Star Trek The Motion Picture in context of it's scale and the craftsman involved you start to appreciate it's quality and elegance. Robert Wise does not need qualification. He brings an elegance and texture to work and life in space that StarWars has not put to screen to this day.\n\nStar Wars even now seems like nothing more than an impressive exercise in effects and sound. It is always reminding us that it is a movie. ST-TMP on other hand departed into an \"immersive experience\" developed by Robert Wise, with the amazing talents of Doug Trumbull and John Dykstra, and the enormous contibutions of Jerry Goldsmith. Likewise, the photography, the scale of the sets and the editing of the film all contribute to a immersive world that saturates the viewer into the film.\n\nYou gain a lot of knowledge and appreciation of this film and the experience that they achieved by watching the Director's Edition DVD and listening to Wise, Trumbull, Dykstra, Goldsmith and others discuss the production. This was a uniquely creative and enormous effort, and considering the technological limitations, the demands of the studio, and the many demands of the Star Trek Bible that qualified the creation of the movie. I am pleased to see that other reviewers here have come to appreicate this movie many years later. I encourage the skeptics to find the time to relax and watch it on the biggest screen you can find.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Paramount Home Entertainment",
+        "duration": "PT1M53S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3331522841",
+        "name": "Star Trek: The Motion Picture",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDQ0OTI2YWItMDllZi00ZWZlLTlkZDgtZmU2M2QxNDVkYWRiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDQ0OTI2YWItMDllZi00ZWZlLTlkZDgtZmU2M2QxNDVkYWRiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:53:11Z",
+        "url": "https://www.imdb.com/video/vi3331522841/"
+    },
+    "url": "/title/tt0079945/"
+}

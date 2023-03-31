@@ -1,0 +1,90 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dharmendra",
+            "url": "/name/nm0004429/"
+        },
+        {
+            "@type": "Person",
+            "name": "Zeenat Aman",
+            "url": "/name/nm0023868/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rex Harrison",
+            "url": "/name/nm0001322/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 588,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0040956/"
+        },
+        {
+            "@type": "Person",
+            "name": "Krishna Shah",
+            "url": "/name/nm0787452/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kader Khan",
+            "url": "/name/nm0434318/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stanford Sherman",
+            "url": "/name/nm0792589/"
+        }
+    ],
+    "datePublished": "1978-12-31",
+    "description": "Sir John Locksley, the greatest jewel thief, decides his most prized possession, the Shalimar Ruby, should be passed on to a worthy successor. He invites the best rival jewel thieves to his island estate to participate in a deadly...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Krishna Shah",
+            "url": "/name/nm0787452/"
+        }
+    ],
+    "duration": "PT2H17M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNWQxNTE4YTEtYzhmYy00MzdiLWEyYWItYjRlM2MzNThkMjNkXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+    "keywords": "gold bullion,ruby,chess,cigar smoking,island",
+    "name": "Shalimar",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ravn-3"
+        },
+        "dateCreated": "1999-06-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0078241/"
+        },
+        "name": "Oddly appealing",
+        "reviewBody": "Let's not beat around the bush: this is a bad film.\n\nThe storyline is frankly weird, the pacing is choppy, the cinematographic style is erratic, and the film generally bears all the hallmarks of the Asian film genre - that is, it was obviously produced for an uncritical audience.\n\nAll the same, there is something oddly appealing about it. The sheer awfulness of the acting and the script fade into the background as one is dragged, almost against one's will, into the film's Dungeons-and-Dragons-like storyline.\n\nCamp, curious, captivating. I can't help but like it, in spite of myself.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 3,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0078241/"
+}

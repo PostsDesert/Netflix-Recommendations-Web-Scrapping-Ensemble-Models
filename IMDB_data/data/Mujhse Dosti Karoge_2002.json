@@ -1,0 +1,49 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Salim Amrohi",
+            "url": "/name/nm5663607/"
+        },
+        {
+            "@type": "Person",
+            "name": "Irrfan Khan",
+            "url": "/name/nm0451234/"
+        },
+        {
+            "@type": "Person",
+            "name": "Amit Phalke",
+            "url": "/name/nm0679607/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 42,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0107157/"
+        }
+    ],
+    "datePublished": "1992-01-01",
+    "description": "Mujhse Dosti Karoge Is An Award Winning Hindi Film, Starring Irrfan Khan. Gul Hasan, A Nine Year Old Boy Living In The Desert Of Rann Of Kutch, Aspires For A Better Life. His Dreams And Aspirations Take Him On A Journey That Blurs...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Gopi Desai",
+            "url": "/name/nm0220814/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Drama"
+    ],
+    "name": "Mujhse Dosti Karoge",
+    "url": "/title/tt2895742/"
+}

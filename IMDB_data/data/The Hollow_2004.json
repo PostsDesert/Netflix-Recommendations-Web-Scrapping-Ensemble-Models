@@ -1,0 +1,92 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kevin Zegers",
+            "url": "/name/nm0954225/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kaley Cuoco",
+            "url": "/name/nm0192505/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nick Carter",
+            "url": "/name/nm0141853/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2112,
+        "ratingValue": 4.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0085659/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0278931/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hans Rodionoff",
+            "url": "/name/nm0118566/"
+        }
+    ],
+    "datePublished": "2006-01-18",
+    "description": "After the local ghost story is told to a pre-Halloween crowd, the eve's full of pranks and teenagers disappear at the graveyard. It continues on Halloween. Is the legend true?",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Kyle Newman",
+            "url": "/name/nm1381100/"
+        }
+    ],
+    "duration": "PT1H23M",
+    "genre": [
+        "Fantasy",
+        "Horror",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM0Mzg2Nzg5OV5BMl5BanBnXkFtZTcwMDU4MjQ4MQ@@._V1_.jpg",
+    "keywords": "descendant,reference to ichabod crane,teacher,legend,horseman",
+    "name": "The Hollow",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "rixrex"
+        },
+        "dateCreated": "2006-06-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0367854/"
+        },
+        "name": "Weak acting, but an effective Headless Horseman",
+        "reviewBody": "The acting is what you'd expect from a group of young actors being led by a young director, and probably a production management group of those in their 20's. The older actors, like Keach and Reinholdt do well, but then they've got talent to draw upon. The story is interesting yet lacks a sense of build and suspense. It's unpleasant to see the filmmakers essentially use Washington Irving as a horror character, or I should say use his grave as a horror element. The Headless Horseman is a nice horrific image with an over-sized, hideous looking jack-o-lantern for a head (which should have been slightly smaller). He's not quite as scary as the Christopher Walken horseman in Sleepy Hollow, but still pretty good. He's also a little too sluggish on his horse, not really as quick as one would expect. The climax is weak and could have been better realized. It's a worthy climax in theory, but just not well-handled and with very limited action."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from First Look",
+        "duration": "PT1M20S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3908239641",
+        "name": "The Hollow (2004)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjMwNzlhOTUtNWU0MS00M2NlLTg5OGItMDRlYjBjZTY1ZjRkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjMwNzlhOTUtNWU0MS00M2NlLTg5OGItMDRlYjBjZTY1ZjRkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:47:33Z",
+        "url": "https://www.imdb.com/video/vi3908239641/"
+    },
+    "url": "/title/tt0367854/"
+}

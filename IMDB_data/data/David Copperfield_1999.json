@@ -1,0 +1,83 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Daniel Radcliffe",
+            "url": "/name/nm0705356/"
+        },
+        {
+            "@type": "Person",
+            "name": "Trevor Eve",
+            "url": "/name/nm0263368/"
+        },
+        {
+            "@type": "Person",
+            "name": "Pauline Quirke",
+            "url": "/name/nm0704351/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4734,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "Unrated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0043107/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0041824/"
+        }
+    ],
+    "datePublished": "1999-12-25",
+    "description": "A gentle orphan discovers life and love in an indifferent adult world.",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTIzODA1NDQzNV5BMl5BanBnXkFtZTcwMjEzNzQzMQ@@._V1_.jpg",
+    "keywords": "character name as series title,victorian era,dickensian,british historical setting,19th century",
+    "name": "David Copperfield",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jandesimpson"
+        },
+        "dateCreated": "2002-05-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0167872/"
+        },
+        "name": "Characters they were born to play",
+        "reviewBody": "I am not a great fan of the BBC classic novel serialisation, preferring to experience a drama in its entirety rather than chopped up into weekly doses. Generally a detrimental factor is that, with a greater running time than the average movie at his disposal, the TV adaptor tends to spin things out inordinately so that physical movements are often shown in their entirety, someone walking along a street or climbing a flight of stairs for instance. When it comes to Dickens adaptations the cinema generally wins hands down, those incomparable David Lean versions of \"Great Expectations\" and \"Oliver Twist\" for example and more recently Christine Edzard's masterly \"Little Dorrit\" which, although running for six hours, subtly utilised every minute by telling the tale from different perspectives. I never thought I would experience a TV adaptation to compare with these until three Christmases ago the BBC came up with a \"David Copperfield\" so enchanting that it remains for me the most lovable visual translation of a Dickens novel. Admittedly there is little of the wonderful montage and atmosphere of the Lean films or the profoundly observed social resonances of \"Little Dorrit\", but what makes the 1999 Copperfield such an overwhelming experience is the perfect casting. By some magic alchemy that I cannot begin to understand a cast of familiars was assembled that were somehow born to play their parts. The list extends far beyond the three I have chosen to mention but it is as if Pauline Quirke (Peggotty), Nicholas Lyndhurst (Uriah Heep) and Maggie Smith (Betsey Trotwood) became these characters in a way that noone else ever could. Fine actors that they are, it is difficult to imagine them achieving such perfection in other contexts.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "David Copperfield (German Trailer)",
+        "duration": "PT2M29S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3347364889",
+        "name": "David Copperfield (German Trailer)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BM2YwYmEyZTAtNGI0MC00NWU4LThjNjEtNDU4N2NiZmM2OGIxXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BM2YwYmEyZTAtNGI0MC00NWU4LThjNjEtNDU4N2NiZmM2OGIxXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2019-04-22T22:20:12.165Z",
+        "url": "https://www.imdb.com/video/vi3347364889/"
+    },
+    "url": "/title/tt0167872/"
+}

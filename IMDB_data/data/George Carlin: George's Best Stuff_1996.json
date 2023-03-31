@@ -1,0 +1,76 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "George Carlin",
+            "url": "/name/nm0137506/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nannette Klatt",
+            "url": "/name/nm3315946/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 816,
+        "ratingValue": 8.4,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0042299/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0071878/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Carlin",
+            "url": "/name/nm0137506/"
+        }
+    ],
+    "description": "This special video looks at George Carlin's best comedy material from 1977-1990. This special edition looks at his famous Seven dirty words, baseball and football, losing things, dogs and cats, stuff and monopoly.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Rocco Urbisci",
+            "url": "/name/nm0881759/"
+        }
+    ],
+    "duration": "PT1H27M",
+    "genre": [
+        "Documentary",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkzMTQyNDAyNF5BMl5BanBnXkFtZTcwODU0OTkyMQ@@._V1_.jpg",
+    "keywords": "satire comedy,football,baseball,word,stuff",
+    "name": "George Carlin: George's Best Stuff",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Quinoa1984"
+        },
+        "dateCreated": "2000-06-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0249535/"
+        },
+        "name": "Great retrospective",
+        "reviewBody": "I really liked this video. It showed some of Carlin's best comedy material (some of it I haven't seen in years) and it was still funny. Everything from the Seven dirty words, stuff, baseball and football, cars and driving, monopoly and dogs and cats had me in stitches. There is also a little added bonus for Carlin fans (like me), the stuff bit is not from Carlin on campus, but from the first ever Comic relief. Funny compilation, even if it isn't all perfect. A+",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0249535/"
+}

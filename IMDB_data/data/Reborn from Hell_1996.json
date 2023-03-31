@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Hiroyuki Watanabe",
+            "url": "/name/nm0913812/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tomorô Taguchi",
+            "url": "/name/nm0846630/"
+        },
+        {
+            "@type": "Person",
+            "name": "Yûko Moriyama",
+            "url": "/name/nm0605800/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 88,
+        "ratingValue": 5.8,
+        "worstRating": 1
+    },
+    "alternateName": "Reborn from Hell II: Jubei's Revenge",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0004745/"
+        },
+        {
+            "@type": "Person",
+            "name": "Fûtarô Yamada",
+            "url": "/name/nm0945212/"
+        }
+    ],
+    "description": "Jubei returns to save the world from destruction. He must defeat an evil sorcerer, slay and army of demons, and save his friend from mind control before the end comes.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Kazumasa Shirai",
+            "url": "/name/nm0794177/"
+        }
+    ],
+    "duration": "PT1H20M",
+    "genre": [
+        "Action",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMThiMWE1NTYtYjYzNC00NDYwLTllOWYtNjdmYzVkZWM3NDY2XkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_.jpg",
+    "keywords": "violence,japan,japanese,sword,katana",
+    "name": "Makai tenshô: mado-hen",
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Tokyo Shock",
+        "duration": "PT1M27S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi965738777",
+        "name": "Reborn From Hell II: Jubei's Revenge",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMmUwZjU5MzktNmVmMS00MGQwLWJhZDctMDIzZjRkYmUzZDAzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMmUwZjU5MzktNmVmMS00MGQwLWJhZDctMDIzZjRkYmUzZDAzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:39:42Z",
+        "url": "https://www.imdb.com/video/vi965738777/"
+    },
+    "url": "/title/tt0229548/"
+}

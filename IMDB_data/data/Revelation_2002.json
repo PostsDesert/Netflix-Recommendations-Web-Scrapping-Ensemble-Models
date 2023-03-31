@@ -1,0 +1,39 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Krista Lewis",
+            "url": "/name/nm1806790/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 14,
+        "ratingValue": 3,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0092741/"
+        }
+    ],
+    "datePublished": "2002-10-01",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David Eckelman",
+            "url": "/name/nm0248542/"
+        }
+    ],
+    "genre": [
+        "Crime",
+        "Drama",
+        "Fantasy"
+    ],
+    "name": "Revelation",
+    "url": "/title/tt0353946/"
+}

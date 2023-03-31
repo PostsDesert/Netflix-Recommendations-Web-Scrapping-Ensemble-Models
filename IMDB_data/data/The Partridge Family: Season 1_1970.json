@@ -1,0 +1,80 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Shirley Jones",
+            "url": "/name/nm0429250/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Cassidy",
+            "url": "/name/nm0144180/"
+        },
+        {
+            "@type": "Person",
+            "name": "Susan Dey",
+            "url": "/name/nm0001138/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4363,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "TV-G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0033007/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bernard Slade",
+            "url": "/name/nm0805152/"
+        }
+    ],
+    "datePublished": "1970-09-25",
+    "description": "The humorous adventures of a family of pop musicians.",
+    "genre": [
+        "Comedy",
+        "Family",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIxNzI3OTEzOV5BMl5BanBnXkFtZTcwMDI0MDc4MQ@@._V1_.jpg",
+    "keywords": "singing,singing family,tour bus,family character name as series title,three sons",
+    "name": "The Partridge Family",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dgordon-1"
+        },
+        "dateCreated": "2002-02-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0065333/"
+        },
+        "name": "Brings Back Great Memories!",
+        "reviewBody": "I was 5 years old when this show debuted, and can remember the popularity of it unlike any other show to date. The bubble gum cards, the records, teen magazines-everything to do with \"The Partridge Family\" was a hot commodity! \"I Think I Love You\" was the first song I ever knew all the lyrics to. This was due to my friends and I piling onto the swingset in my backyard, which included a 4 seater lawn swing which we made fit 8 kids, and sing \"I Think I Love You\" over and over again while pumping the lawn swing way into the air. Some of my friends would take the end cones off and sing through the top bar to get a reverb effect! Seeing the show in reruns throughout the '70s & '80s, it still had it's charm. It wasn't mean't to be an emmy award winner, but it served it's purpose-to be lighthearted and funny. The music showcased on the show was memorable too. Try watching an episode, and not have their songs replay in your head long after watching it. To me, \"The Partridge Family\" will always have a special place in my heart because it invokes happy memories from such a great time in my life."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT1M2S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3790668057",
+        "name": "The Partridge Family: The Complete First Season",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNWEyYzZiODAtMjAxMC00NzZiLTliMTYtNWRkMjEzN2NmZGU1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNWEyYzZiODAtMjAxMC00NzZiLTliMTYtNWRkMjEzN2NmZGU1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:41:11Z",
+        "url": "https://www.imdb.com/video/vi3790668057/"
+    },
+    "url": "/title/tt0065333/"
+}

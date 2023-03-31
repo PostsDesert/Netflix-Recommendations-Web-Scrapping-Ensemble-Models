@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Charlize Theron",
+            "url": "/name/nm0000234/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stuart Townsend",
+            "url": "/name/nm0870204/"
+        },
+        {
+            "@type": "Person",
+            "name": "Penélope Cruz",
+            "url": "/name/nm0004851/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 15492,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0097650/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0007263/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0103763/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Duigan",
+            "url": "/name/nm0241090/"
+        }
+    ],
+    "datePublished": "2004-10-30",
+    "description": "From the roaring 1920s to the ruinous Spanish Civil War and Adolf Hitler's rise into power, the lives of an Irish schoolteacher, a provocative heiress and her Spanish muse are intricately interlaced, sharing the same destiny and p...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Duigan",
+            "url": "/name/nm0241090/"
+        }
+    ],
+    "duration": "PT2H12M",
+    "genre": [
+        "Drama",
+        "Romance",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYWEzNzI3MzgtODBlOC00Nzg2LTliNjQtMTBjZThmY2FjZjU3XkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg",
+    "keywords": "year 1944,female frontal nudity,lingerie slip,women dancing together,striptease",
+    "name": "Head in the Clouds",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dianeoban-1"
+        },
+        "dateCreated": "2005-11-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0338097/"
+        },
+        "name": "WWII epic involving three friends",
+        "reviewBody": "This is an absolutely top-rate film, and it's a crime it only has two stars. This finely done epic is perfect in every detail - concept, acting, direction, editing, sound, music, set decoration, costume design and everything else. It is also a crime that Sony didn't get behind it. This is an Academy Award level film that was thrown in the trash by Sony and it's distributors. I can do nothing but complain about the state of the entire American film industry when crappy remakes are pushed to the hilt, and drops of golden genius like this are ignored. Of course, the studio couldn't think of a \"franchise\" to make out of it, and there are no action figures to push. How long with audiences put up with the junk being pushed down our throats, remake after remake? Well, if recent box office is any judge, the public is getting wise. The studios, of course, are clueless.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Sony Pictures Classics",
+        "duration": "PT2M22S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi346489113",
+        "name": "Head in the Clouds",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTI0YmZiYzUtOGZiMy00NDI4LWE0ZjgtNGRkNzVlN2M3NDcxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTI0YmZiYzUtOGZiMy00NDI4LWE0ZjgtNGRkNzVlN2M3NDcxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:06:54Z",
+        "url": "https://www.imdb.com/video/vi346489113/"
+    },
+    "url": "/title/tt0338097/"
+}

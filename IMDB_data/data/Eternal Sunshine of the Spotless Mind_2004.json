@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jim Carrey",
+            "url": "/name/nm0000120/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kate Winslet",
+            "url": "/name/nm0000701/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tom Wilkinson",
+            "url": "/name/nm0929489/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1023554,
+        "ratingValue": 8.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0042399/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0017525/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0017713/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charlie Kaufman",
+            "url": "/name/nm0442109/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michel Gondry",
+            "url": "/name/nm0327273/"
+        },
+        {
+            "@type": "Person",
+            "name": "Pierre Bismuth",
+            "url": "/name/nm1410028/"
+        }
+    ],
+    "datePublished": "2004-03-19",
+    "description": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories for ever.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michel Gondry",
+            "url": "/name/nm0327273/"
+        }
+    ],
+    "duration": "PT1H48M",
+    "genre": [
+        "Drama",
+        "Romance",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_.jpg",
+    "keywords": "memory,loneliness,valentine's day,flashback,nonlinear timeline",
+    "name": "Eternal Sunshine of the Spotless Mind",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "samuellewis48"
+        },
+        "dateCreated": "2004-05-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0338013/"
+        },
+        "name": "A warm hearted original love story",
+        "reviewBody": "After a lukewarm reception in 2001 with \"Human Nature\", Charlie Kaufman has teamed up with director, Michel Gondry again for this romatic fantasy. With a name like Jim Carrey, this second collaboration couldn't go wrong in terms of box office success, and nor should it as this film is quite simply brilliant.\n\n\"Eternal Sunshine\" centres around the life of Joel (Jim Carrey) a shy, mild mannered man who is heart broken after splitting from his feisty, impulsive girlfriend, Clementine (Kate Winslet). A short while after their split, he meets her again while she is working at a library and he is stunned to discover that she doesn't recognise him. He later finds out that the reason for this is that Clementine has had her memory of Joel wiped out completely. Dr Howard Mierwick (Tom Wilkinson) has performed an operation on her brain after Clementine visited his clinic to forget Joel. Much to Joel's distress, he decides to do the same, but during his operation he revisits memories of Clementine that he struggles to let go of.\n\nIf anyone was in doubt as to whether Jim Carrey can act, this is the film that will put all doubt out of the way. He performs with sensitivity and warmth, never once verging on the manic rubber faced lunacy to which he is most well known for. Out of all the perfomances where he has stepped into the dramtic role (The Truman Show, Man on the Moon, The Majestic), this has got to be his best yet. Kate Winslet is also brilliant as his unpredictable, adventurous girlfriend.\n\nKaufman's story of a man going into a surreal dream world is not too dissimilar from his earlier work, \"Being John Malkovich\". You have off the wall images such as Carrey re-enacting his 4 year old self along his journey in his head. The eccentricity of the story, which is Kaufman's trademark, once again works excellently. When watching this you generally care for Carrey and Winslet, in much the same way as Bill Murray and Scarlett Johansson in \"Lost In Translation\". Gondry's diection gives a bittersweet flavour to the tale.\n\nThe sub plots involving the supporting characters who are operating are ingenius. Tom Wilkinson once again proves that he is one of the best British actors of his generation and he is backed up by great performnces from Kirsten Dunst and a post-LOTR Elijah Wood.\n\nThis is a lovely film and if you like originality with a sense of fantasy with a love story, then I suggest you see it. It's one of those films you'll want to see twice.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2292515097",
+        "name": "Eternal Sunshine of the Spotless Mind",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYTA4YjQ5ZjEtMGQ4Mi00NWExLTkxMGQtNzAwYzVmNTU1ODJjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTA4YjQ5ZjEtMGQ4Mi00NWExLTkxMGQtNzAwYzVmNTU1ODJjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:01:47Z",
+        "url": "https://www.imdb.com/video/vi2292515097/"
+    },
+    "url": "/title/tt0338013/"
+}

@@ -1,0 +1,96 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Robin Williams",
+            "url": "/name/nm0000245/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Caviezel",
+            "url": "/name/nm0001029/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mira Sorvino",
+            "url": "/name/nm0000227/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 33579,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0086772/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0018947/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0024345/"
+        },
+        {
+            "@type": "Person",
+            "name": "Omar Naim",
+            "url": "/name/nm0619715/"
+        }
+    ],
+    "datePublished": "2004-11-11",
+    "description": "Set in a world with memory recording implants, Alan Hakman is a cutter, someone with the power of final edit over people's recorded histories. His latest assignment is one that puts him in danger.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Omar Naim",
+            "url": "/name/nm0619715/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjkxNjA4NjM0M15BMl5BanBnXkFtZTcwMTU3MDcyMQ@@._V1_.jpg",
+    "keywords": "suit and tie,revelation,presumed dead,laptop computer,funeral",
+    "name": "The Final Cut",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jrendo"
+        },
+        "dateCreated": "2004-10-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0364343/"
+        },
+        "name": "Intriguing plot, intense acting",
+        "reviewBody": "The plot is timely and intriguing, providing lots of food for thought as to the perhaps not-too-far future prospects of technology and our own legacies.\n\nI agree the relationship between Williams' character and his love interest was too sketchy. With a few extra minutes expanding on those two, the film might have been more fleshed out. Overall, I enjoyed the movie. It really gave us pause to reflect on the pros and cons of the \"Zoe Implant\" and \"rememories.\" Appreciated the intense acting abilities of Williams and Caviezel; otherwise, the movie might have lagged even more. \n\nI thought the angles of the camera shots were interesting."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Lionsgate Home Entertainment",
+        "duration": "PT1M54S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2978742553",
+        "name": "The Final Cut",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTY3ZWU4MjMtN2M2Yi00Y2Y4LThmYTMtNWU1MmZkOGM2MzE1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTY3ZWU4MjMtN2M2Yi00Y2Y4LThmYTMtNWU1MmZkOGM2MzE1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:22:13Z",
+        "url": "https://www.imdb.com/video/vi2978742553/"
+    },
+    "url": "/title/tt0364343/"
+}

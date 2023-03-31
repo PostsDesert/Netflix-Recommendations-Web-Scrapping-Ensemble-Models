@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Rupert Everett",
+            "url": "/name/nm0000391/"
+        },
+        {
+            "@type": "Person",
+            "name": "Colin Firth",
+            "url": "/name/nm0000147/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frances O'Connor",
+            "url": "/name/nm0640323/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 24003,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0022594/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0040024/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0104092/"
+        },
+        {
+            "@type": "Person",
+            "name": "Oscar Wilde",
+            "url": "/name/nm0928492/"
+        },
+        {
+            "@type": "Person",
+            "name": "Oliver Parker",
+            "url": "/name/nm0662529/"
+        }
+    ],
+    "datePublished": "2002-06-21",
+    "description": "In 1890s London, two friends use the same pseudonym (\"Ernest\") for their on-the-sly activities. Hilarity ensues.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Oliver Parker",
+            "url": "/name/nm0662529/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYjMzNmM5MGItMjkyZC00YWQ5LWI5Y2ItYjlmZGQwN2I4OTIyXkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_.jpg",
+    "keywords": "comedy of manners,period drama,false identity,love,farce",
+    "name": "The Importance of Being Earnest",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "unclepete"
+        },
+        "dateCreated": "2003-06-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0278500/"
+        },
+        "name": "I loved it!",
+        "reviewBody": "There do seem to be some scathing reviews here, but I have to say that I loved it!\n\nI first started by reading the play, then watching the 1952 version, and then this latest reworking. The cast were absolutely stellar, though I'd go along with the criticism that they were just a little too deadpan in places. The sheer quantity of wit and wordplay in this script make it difficult to keep up, and it's often only in a reading that you realise that just about every other line is a hilarious gag.\n\nI really can't understand an earlier criticism that a viewer couldn't make out any of the dialogue. I though it was wonderfully recorded with crystal clear diction throughout, but maybe that's an international difference. I'm lucky to make out about one third of anything the children say in 'To Kill a Mockingbird'.\n\nAnyway - it was well filmed, great locations, and wonderful wit delivered by beautiful people. I loved it."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Miramax",
+        "duration": "PT1M37S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi578659865",
+        "name": "The Importance of Being Ernest",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYWZmMWQ0NjUtNjM5My00NTZiLTgzNzktYzMxMjVkNWYwNjBjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYWZmMWQ0NjUtNjM5My00NTZiLTgzNzktYzMxMjVkNWYwNjBjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2013-05-31T04:33:44Z",
+        "url": "https://www.imdb.com/video/vi578659865/"
+    },
+    "url": "/title/tt0278500/"
+}

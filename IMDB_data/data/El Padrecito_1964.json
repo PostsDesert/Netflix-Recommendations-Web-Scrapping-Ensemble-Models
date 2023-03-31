@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Cantinflas",
+            "url": "/name/nm0134594/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ángel Garasa",
+            "url": "/name/nm0304844/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rosa María Vázquez",
+            "url": "/name/nm0904834/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 858,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0051572/"
+        },
+        {
+            "@type": "Person",
+            "name": "Miguel M. Delgado",
+            "url": "/name/nm0217035/"
+        },
+        {
+            "@type": "Person",
+            "name": "Fernando Galiana",
+            "url": "/name/nm0302055/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carlos León",
+            "url": "/name/nm1365877/"
+        }
+    ],
+    "description": "A new priest comes to a little town causing discomfort to parishioners.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Miguel M. Delgado",
+            "url": "/name/nm0217035/"
+        }
+    ],
+    "duration": "PT2H10M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYWYyYmY3ZjAtODg1OC00YzkwLTgwNTMtNDQ1ZGQxNjUzYjYxXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "keywords": "sermon,cup and ball toy,playing cards,catholic church,bullfighting",
+    "name": "El padrecito",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "angeleyez2003"
+        },
+        "dateCreated": "2005-04-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0058438/"
+        },
+        "name": "The Priest",
+        "reviewBody": "In this movie Mario Moreno portrays a new priest that has been sent to a town to begin gaining experience in ministry. When he arrives he does not receive such a great welcome because the towns people and the old priests' family think he was sent to take over the church. As usual Cantinflas has to overcome the greedy villains and stubborn people. The movie is filled with a lot of funny comments made by cantinflas. Although he is a priest he has a mind of his own and he tells people exactly what he is thinking. The DVD is excellent. Both the audio and picture are perfect. Subtitles are optional and there are even a few present day film trailers. You can rest assure that through out the movie you'll encounter the unique charm of Mario Moreno.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0058438/"
+}

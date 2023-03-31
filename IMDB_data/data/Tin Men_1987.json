@@ -1,0 +1,95 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Richard Dreyfuss",
+            "url": "/name/nm0000377/"
+        },
+        {
+            "@type": "Person",
+            "name": "Danny DeVito",
+            "url": "/name/nm0000362/"
+        },
+        {
+            "@type": "Person",
+            "name": "Barbara Hershey",
+            "url": "/name/nm0001347/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9420,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0049348/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0077024/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0071315/"
+        },
+        {
+            "@type": "Person",
+            "name": "Barry Levinson",
+            "url": "/name/nm0001469/"
+        }
+    ],
+    "datePublished": "1987-03-13",
+    "description": "A minor car accident drives two rival aluminum-siding salesmen to the ridiculous extremes of man versus man in 1963 Baltimore.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Barry Levinson",
+            "url": "/name/nm0001469/"
+        }
+    ],
+    "duration": "PT1H52M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOGZhMWY4OTUtMTQ2Ni00NzE3LTk1ZTMtNzdkOGFmZTQ4NjY1XkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
+    "keywords": "aluminum siding,car,year 1963,car dealership,cadillac",
+    "name": "Tin Men",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "drosse67"
+        },
+        "dateCreated": "2003-08-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0094155/"
+        },
+        "name": "Hilarious and touching",
+        "reviewBody": "Few films can be laugh-out-loud funny and ultimately as touching and deep as this film. Most people remember the dialogue, seemingly ad-libbed during the diner scenes by the cast (Danny DeVito, Jackie Gayle, Bruno Kirby)--and that looks like the same diner that Barry Levinson used for his first movie. But the characters and their quirks are totally fleshed out before the conflict (DeVito's stiff neck, Dreyfuss's ladies' man schtick), making for a few truly hilarious lines and scenes (Gayle talking to DeVito about what a great dancer Dreyfuss is comes to mind). The movie really has a sad story underneath about very unhappy people who delight in the misfortunes of others, until Barbara Hershey's character realizes what's going on. All of these characters and story points climax in a rather sweet and yes, believable final sequence. This movie came out during a spate of late '80s blockbusters and never really found its audience, I think. But it is one of the few late '80s movies I rewatch every couple of years and find more to appreciate with each viewing. I would rank it as Levinson's best film."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A minor car accident drives two rival aluminum-siding salesmen to the ridiculous extremes of man versus man in 1963 Baltimore.",
+        "duration": "PT2M28S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1290781465",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjQ4ZWVlYjYtYjM1Mi00N2U3LWIyZjctZGY3YjIzM2E3M2VhXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjQ4ZWVlYjYtYjM1Mi00N2U3LWIyZjctZGY3YjIzM2E3M2VhXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-11-23T17:32:36.244Z",
+        "url": "https://www.imdb.com/video/vi1290781465/"
+    },
+    "url": "/title/tt0094155/"
+}

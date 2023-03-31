@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Judy Garland",
+            "url": "/name/nm0000023/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Goulet",
+            "url": "/name/nm0332587/"
+        },
+        {
+            "@type": "Person",
+            "name": "Red Buttons",
+            "url": "/name/nm0000999/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1948,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0018897/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0658156/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dorothy Jones",
+            "url": "/name/nm0427960/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chuck Jones",
+            "url": "/name/nm0005062/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ralph Wright",
+            "url": "/name/nm0942723/"
+        }
+    ],
+    "datePublished": "1962-10-24",
+    "description": "A farm cat moves to Paris in search of the high life while her wannabe lover from back home tries to reunite.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Abe Levitow",
+            "url": "/name/nm0506187/"
+        }
+    ],
+    "duration": "PT1H25M",
+    "genre": [
+        "Animation",
+        "Comedy",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjlmYzhkZmUtM2UwNi00YWVjLWE3OWEtNjdkMTE0NTUxMDI4XkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_.jpg",
+    "keywords": "deception,cat movie,reference to henri de toulouse lautrec,female protagonist,hyphen in title",
+    "name": "Gay Purr-ee",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ja_kitty_71"
+        },
+        "dateCreated": "2007-10-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0057093/"
+        },
+        "name": "Judy's First (and only) Animated Film",
+        "reviewBody": "I love Judy Garland. I have a few of her films. And I love movies that are set in Paris, like the musical \"An American in Paris\" starring Gene Kelly and also the Pixar animated film \"Ratatouille.\" One last thing to say is that I am a cat lover, as I have said many times.\n\nJudy did a wonderful job as Mewsette, both in speaking and singing for her. And Chuck Jones did an excellent job with the production and animation of the film; Chuck Jones is one of my favorite animators. So overall, this film is an excellent piece of animation. It is colorful and beautifully animated, with songs you will remember and love.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A farm cat moves to Paris in search of the high life while her wannabe lover from back home tries to reunite.",
+        "duration": "PT3M45S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1711457049",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTkzYTRlOTgtMjVhOS00N2JiLWFhYWItYjNlNDI1M2UwZDJhXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTkzYTRlOTgtMjVhOS00N2JiLWFhYWItYjNlNDI1M2UwZDJhXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2022-02-01T15:17:29.312Z",
+        "url": "https://www.imdb.com/video/vi1711457049/"
+    },
+    "url": "/title/tt0057093/"
+}

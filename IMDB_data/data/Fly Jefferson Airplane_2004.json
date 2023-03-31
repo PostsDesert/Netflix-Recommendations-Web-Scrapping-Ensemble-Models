@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Signe Anderson",
+            "url": "/name/nm1764015/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marty Balin",
+            "url": "/name/nm0050246/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jack Casady",
+            "url": "/name/nm0142750/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 137,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0101007/"
+        }
+    ],
+    "datePublished": "2004-07-20",
+    "description": "Thirteen classic perfomances by Rock and Roll Hall of Fame band Jefferson Airplane, augmented by orginal interviews with the band members and photographs by famed photographer Jim Marshall.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bob Sarles",
+            "url": "/name/nm0004247/"
+        }
+    ],
+    "duration": "PT1H21M",
+    "genre": [
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTIxNTU1MjU2MV5BMl5BanBnXkFtZTcwODE3MTcyMQ@@._V1_.jpg",
+    "keywords": "interview,live performance,concert film",
+    "name": "Fly Jefferson Airplane",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ferbs54"
+        },
+        "dateCreated": "2007-12-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0427256/"
+        },
+        "name": "Manna For All JA Fans",
+        "reviewBody": "Jefferson Airplane has long been one of my favorite bands of all time, so a brand-new DVD spotlighting their glorious career was something that I eagerly forked over my $$$ for as soon as the darn thing was released. And am I ever glad that I did! Featuring rare concert footage, early videos, TV appearances from the late '60s and loads of fascinating interviews with every member of the classic lineup, this DVD really does deliver the goods. Although I was a tad disappointed that the complete history of the band was not covered--those interested enough in that should probably pick up Jeff Tamarkin's recent book on the subject--what we do get is way interesting. As a compensation of sorts, there are numerous goodies, such as performances from the '67 Monterey Pop Festival that are NOT in the \"Monterey Pop\" movie. And the rendition of \"The Ballad of You and Me and Pooneil\" from a 1970 gig at the Family Dog is just smokin'; Jack and Jorma really take off on this one! We don't get to see the band perform at Woodstock, Altamont or their final Winterland show (the one preserved on \"Thirty Seconds Over Winterland\"), but again, there are many compensations, including an interview with legendary engineer Pat \"Maurice\" Ieraci and with psychedelic lighting artist Glenn McKay. I just had some of the boys over to my place and we popped this new DVD in, cranked it up and had a fun time. This new disc will be manna for all JA fans!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0427256/"
+}

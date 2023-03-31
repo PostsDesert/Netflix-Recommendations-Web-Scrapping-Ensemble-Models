@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Doris Day",
+            "url": "/name/nm0000013/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rod Taylor",
+            "url": "/name/nm0001792/"
+        },
+        {
+            "@type": "Person",
+            "name": "Arthur Godfrey",
+            "url": "/name/nm0323960/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4901,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007143/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0026936/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0477515/"
+        },
+        {
+            "@type": "Person",
+            "name": "Everett Freeman",
+            "url": "/name/nm0293388/"
+        }
+    ],
+    "datePublished": "1966-06-09",
+    "description": "After a series of misunderstandings, the head of an aerospace research laboratory begins to suspect that his new girlfriend is a Russian spy.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Frank Tashlin",
+            "url": "/name/nm0850895/"
+        }
+    ],
+    "duration": "PT1H50M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYzdiMWViOTQtNzQxNS00ZmNlLWEwNjMtYjY2NDcwNTljOGY5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
+    "keywords": "man in drag,spy spoof,espionage,spy comedy,telephone call",
+    "name": "The Glass Bottom Boat",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jotix100"
+        },
+        "dateCreated": "2006-04-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0060463/"
+        },
+        "name": "The mermaid",
+        "reviewBody": "Frank Tashlin directed this sunny comedy that relies heavily on Doris Day, an actress who was at the height of her popularity back when this film was done. \"The Glass Bottom Boat\" is a fun comedy that mixes science with espionage and mistaken identities that produced a funny movie, even when watched today.\n\nDoris Day in her heyday couldn't do anything wrong, in spite of the silly premises of what was written for her. In this comedy is Jennifer Nelson, a widow, who works in the aerospace industry. The genius scientist, Bruce Templeton, likes what he sees and proceeds to pursue Jennifer, but things get complicated because it appears Mrs. Nelson is a Soviet spy.\n\nThe film's pace never lets up. Doris Day is wonderful as the naive, but resourceful woman who can charm us with one of her wonderful smiles. Rod Taylor is the hunky Bruce Templeton who sees in Jennifer not only a beautiful lady, but the right one for him.\n\nThe supporting cast in this movie is full of familiar faces. Paul Linde provides one of the best laughs in the movie when, as a security guard, and suspecting Jennifer of the worst, dresses in drag and follows her to the ladies' room. Arthur Godfrey is Jennifer's father. John McGiver, Edward Anderson, Dick Martin, Dom DeLuise, Eric Fleming, Alice Pearce and George Tobias contribute to make this a fun movie. The cameo by Robert Vaughn is a surprise.\n\nThe film will not disappoint fans of Doris Day.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A way-out world of space and spies in this trailer",
+        "duration": "PT2M46S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1785201945",
+        "name": "The Glass Bottom Boat",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMmQ0MDAyOGEtY2M5My00YmRmLWEyMGMtNjJjYWMyM2M4NjA3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMmQ0MDAyOGEtY2M5My00YmRmLWEyMGMtNjJjYWMyM2M4NjA3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-11-08T06:35:30Z",
+        "url": "https://www.imdb.com/video/vi1785201945/"
+    },
+    "url": "/title/tt0060463/"
+}

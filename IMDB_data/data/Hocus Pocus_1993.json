@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bette Midler",
+            "url": "/name/nm0000541/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sarah Jessica Parker",
+            "url": "/name/nm0000572/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kathy Najimy",
+            "url": "/name/nm0001562/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 145125,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0008970/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0059172/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Kirschner",
+            "url": "/name/nm0456946/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mick Garris",
+            "url": "/name/nm0308376/"
+        },
+        {
+            "@type": "Person",
+            "name": "Neil Cuthbert",
+            "url": "/name/nm0193854/"
+        }
+    ],
+    "datePublished": "1993-07-16",
+    "description": "A teenage boy named Max and his little sister move to Salem, where he struggles to fit in before awakening a trio of diabolical witches that were executed in the 17th century.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Kenny Ortega",
+            "url": "/name/nm0650905/"
+        }
+    ],
+    "duration": "PT1H36M",
+    "genre": [
+        "Comedy",
+        "Family",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNWM3NmRhMGMtOGE4ZC00MDk0LWI1NjMtMjVlNTEwOTcwZTc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "keywords": "year 1993,halloween,year 1693,17th century,spell",
+    "name": "Hocus Pocus",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "franko1998"
+        },
+        "dateCreated": "2001-11-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0107120/"
+        },
+        "name": "The critics couldn't be more off-target!",
+        "reviewBody": "While I've been enjoying this film for years, I only recently decided to read some reviews for it, and am shocked! The truth is, this film is a wonderfully comical and charming tale of three Salem witches that are resurrected by a teenage boy, who, with the help of his little sister and love interest, must try to stop them from stealing the souls of children. This movie really sparkles in the representations of the witches, who are all cast perfectly. Bette Midler provides for a hilarious and almost frightening Winifred (the leader), Sarah Jessica Parker shines as the sexy, dim-witted Sarah, and Kathy Najimy is marvelous as the funny, perky Mary. What makes the film even better is that there are two stunning musical numbers--Midler's delightful \"I Put a Spell on You\" and Parker's hypnotic \"Come, Little Children.\" Ignore the critics, \"Hocus Pocus\" is perfect not only for Halloween, but for any time of the year!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT1M57S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1763031833",
+        "name": "Hocus Pocus: 25th Anniversary",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BN2UzNDcwMDEtMDM0Yi00YjE3LTgzY2YtNTJjMGY3NGJjZjIzXkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BN2UzNDcwMDEtMDM0Yi00YjE3LTgzY2YtNTJjMGY3NGJjZjIzXkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg",
+        "uploadDate": "2018-08-21T17:08:01.091Z",
+        "url": "https://www.imdb.com/video/vi1763031833/"
+    },
+    "url": "/title/tt0107120/"
+}

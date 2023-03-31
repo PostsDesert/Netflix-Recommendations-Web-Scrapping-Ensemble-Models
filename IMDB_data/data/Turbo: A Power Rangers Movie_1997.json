@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jason David Frank",
+            "url": "/name/nm0290969/"
+        },
+        {
+            "@type": "Person",
+            "name": "Catherine Sutherland",
+            "url": "/name/nm0840059/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hilary Shepard",
+            "url": "/name/nm0005422/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9201,
+        "ratingValue": 3.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0075704/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0053157/"
+        },
+        {
+            "@type": "Person",
+            "name": "Shuki Levy",
+            "url": "/name/nm0506619/"
+        },
+        {
+            "@type": "Person",
+            "name": "Shell Danielson",
+            "url": "/name/nm0200164/"
+        },
+        {
+            "@type": "Person",
+            "name": "Haim Saban",
+            "url": "/name/nm0536805/"
+        }
+    ],
+    "datePublished": "1997-03-28",
+    "description": "A space alien is threatening to bring destruction on Earth, and the Power Rangers are enhanced with turbo powers in order to prevent her plan.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Shuki Levy",
+            "url": "/name/nm0506619/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Winning",
+            "url": "/name/nm0003941/"
+        }
+    ],
+    "duration": "PT1H39M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzAxMDA0MGUtMWJjYy00YWNlLTk1NmEtNTM5Y2FjYjMzNjM5XkEyXkFqcGdeQXVyNDAxNjkxNjQ@._V1_.jpg",
+    "keywords": "shared universe,supervillain,1990s,power rangers,singing row row row your boat",
+    "name": "Turbo: A Power Rangers Movie",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "shakim33"
+        },
+        "dateCreated": "2003-07-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120389/"
+        },
+        "name": "A Masterpiece",
+        "reviewBody": "Simply perfect. What a work of art. A Nobel Peace Prize should be given to Shuki Levy for this AMAZING film. The plot, the cinematograhpy, the dialogue, and everything else in this picture made it a must see for all ages. Arguably the best film in the past millenium."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Unknown",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi65011993",
+        "name": "Turbo: A Power Rangers Movie",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjMxODgxOGMtYWI3Ny00ZWJmLWIyMDAtYTE4NzRjN2EyNTA4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjMxODgxOGMtYWI3Ny00ZWJmLWIyMDAtYTE4NzRjN2EyNTA4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:32:28Z",
+        "url": "https://www.imdb.com/video/vi65011993/"
+    },
+    "url": "/title/tt0120389/"
+}

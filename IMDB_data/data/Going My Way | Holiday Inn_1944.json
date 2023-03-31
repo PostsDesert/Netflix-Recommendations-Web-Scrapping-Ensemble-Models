@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bing Crosby",
+            "url": "/name/nm0001078/"
+        },
+        {
+            "@type": "Person",
+            "name": "Barry Fitzgerald",
+            "url": "/name/nm0280178/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frank McHugh",
+            "url": "/name/nm0570451/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 12514,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "Passed",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frank Butler",
+            "url": "/name/nm0124918/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frank Cavett",
+            "url": "/name/nm0147119/"
+        },
+        {
+            "@type": "Person",
+            "name": "Leo McCarey",
+            "url": "/name/nm0564970/"
+        }
+    ],
+    "datePublished": "1944-10-02",
+    "description": "When young Father O'Malley arrives at St. Dominic's, old Father Fitzgibbon doesn't think much of the church's newest member.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Leo McCarey",
+            "url": "/name/nm0564970/"
+        }
+    ],
+    "duration": "PT2H6M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODU3MDUzMzItNjk4Ni00ODQxLWI2NDUtNDIzMzc5YmYyMTYwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "keywords": "national film registry,title sung by character,parish,playing baseball,breaking a window with a baseball",
+    "name": "Going My Way",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "SinjinSB"
+        },
+        "dateCreated": "2003-11-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0036872/"
+        },
+        "name": "A heartwarming movie without being over-sappy.",
+        "reviewBody": "A very enjoyable film starring Bing Crosby as a progressive Irish Catholic priest who comes to St. Dominick's, a church that is struggling. Initially, he's not very welcome by most, including old Father Fitzgibbon...but with his charm and the song in his heart, he manages to slowly grow on the folks as he finds subtle ways to solve everyone's problems. This is a heartwarming movie without being over-sappy.\n\n*** (Out of 4)",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "When young Father O'Malley arrives at St. Dominic's, old Father Fitzgibbon doesn't think much of the church's newest member.",
+        "duration": "PT2M20S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3818242329",
+        "name": "Blu-ray Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYWRjOWFiYzAtMjE0Yy00ZmQxLWE4NTctZWVkZWZkNTA2YWE3XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYWRjOWFiYzAtMjE0Yy00ZmQxLWE4NTctZWVkZWZkNTA2YWE3XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-09-29T10:38:13.377Z",
+        "url": "https://www.imdb.com/video/vi3818242329/"
+    },
+    "url": "/title/tt0036872/"
+}

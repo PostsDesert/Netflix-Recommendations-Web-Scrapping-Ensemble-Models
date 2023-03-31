@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Damon Wayans",
+            "url": "/name/nm0001834/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stacey Dash",
+            "url": "/name/nm0001107/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marlon Wayans",
+            "url": "/name/nm0005541/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7921,
+        "ratingValue": 5.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0060823/"
+        },
+        {
+            "@type": "Person",
+            "name": "Damon Wayans",
+            "url": "/name/nm0001834/"
+        }
+    ],
+    "datePublished": "1992-07-24",
+    "description": "A petty crook stalks a cute girl into an office building and is taken for a job applicant. Conning gets him the job. It's in the mail room of new credit cards. 2 superiors are worse crooks.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Peter MacDonald",
+            "url": "/name/nm0003423/"
+        }
+    ],
+    "duration": "PT1H29M",
+    "genre": [
+        "Action",
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTg5ZmIxYzEtODYyNS00YzE4LTgxZGMtOTRjYzkwZGM3ODQ4XkEyXkFqcGdeQXVyMTczNjQwOTY@._V1_.jpg",
+    "keywords": "ends with freeze frame,credit card company,con artist,credit card,black american",
+    "name": "Mo' Money",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "michellejenni49"
+        },
+        "dateCreated": "2001-04-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0104897/"
+        },
+        "name": "An all time fave!",
+        "reviewBody": "This movie is one of my all time favourites! If you enjoyed the humour from In Living Color, then you will really appreciate this movie. The movie is so enjoyable to watch because it has a bit of everything in it-action, comedy, romance and of course with the Wayans brothers you are sure to have good time! I liked seeing Damon's softer side towards Stacy Dash, and Marlon's jealousy towards his brother's relationship with this girl. Also, the nightclub scene is a riot! Overall,it is a great movie to watch, especially if you are a fan of the Wayans family, plus it has a wicked soundtrack as well!"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Sony Pictures Home Entertainment",
+        "duration": "PT1M52S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1973027097",
+        "name": "Mo' Money",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYmQ5NDRhZDAtMTdmZC00YjY5LWFlNzctMDBhMWU1YzVmNTcxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYmQ5NDRhZDAtMTdmZC00YjY5LWFlNzctMDBhMWU1YzVmNTcxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:18:14Z",
+        "url": "https://www.imdb.com/video/vi1973027097/"
+    },
+    "url": "/title/tt0104897/"
+}

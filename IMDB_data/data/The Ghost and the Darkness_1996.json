@@ -1,0 +1,96 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Michael Douglas",
+            "url": "/name/nm0000140/"
+        },
+        {
+            "@type": "Person",
+            "name": "Val Kilmer",
+            "url": "/name/nm0000174/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tom Wilkinson",
+            "url": "/name/nm0929489/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 63642,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0078545/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0020967/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0670855/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Goldman",
+            "url": "/name/nm0001279/"
+        }
+    ],
+    "datePublished": "1996-10-11",
+    "description": "A bridge engineer and an experienced old hunter begin a hunt for two lions after they start attacking local construction workers.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Stephen Hopkins",
+            "url": "/name/nm0394280/"
+        }
+    ],
+    "duration": "PT1H50M",
+    "genre": [
+        "Adventure",
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOWIwMDIxMDktZTlhYS00YTU3LTg4ZTItNGI4NTU3ZTMzZTViXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "kiss,darkness,creature feature,timeframe 19th century,nature horror",
+    "name": "The Ghost and the Darkness",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "mallitch"
+        },
+        "dateCreated": "2005-01-15",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0116409/"
+        },
+        "name": "The story of a fine man facing an adventure of his lifetime",
+        "reviewBody": "A story of Col. Patterson building a bridge over the river Tsavo in Africa, and fighting the couple of killer lions and builders scared to death. Firstly it's the views. Africa's all around with yellow, sun burnt, high grown grass moving in the wind (you can smell the scent almost) and the workers who can cast a threat to Patterson if he fails their expectations of killing the lions. Secondly Val Kilmer's performance. He's not acting, he's just there fighting the obstacles. Thirdly Mike Douglas's influential way of telling things. He's more convincing than in 'Basic Instinct' and sorry Oliver, 'The Wall Street'. His macho appearance doesn't interfere with the main plot but comes to be part of it. Last not least it's Jerry Goldsmith's music. I don't know how he did it but he made it perfect. You just have to sense it to feel it. One of my favourites."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Paramount Home Entertainment",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1819325465",
+        "name": "The Ghost and the Darkness",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTc4NjJlYmYtOTY0NS00NjhjLWExZWEtMjc0YTk3MmI1MjhkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTc4NjJlYmYtOTY0NS00NjhjLWExZWEtMjc0YTk3MmI1MjhkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2016-06-03T22:07:30Z",
+        "url": "https://www.imdb.com/video/vi1819325465/"
+    },
+    "url": "/title/tt0116409/"
+}

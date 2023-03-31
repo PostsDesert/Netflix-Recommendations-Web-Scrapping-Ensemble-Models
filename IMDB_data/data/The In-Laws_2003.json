@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Albert Brooks",
+            "url": "/name/nm0000983/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Douglas",
+            "url": "/name/nm0000140/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ryan Reynolds",
+            "url": "/name/nm0005351/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 17451,
+        "ratingValue": 5.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0043393/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0062831/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0002647/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrew Bergman",
+            "url": "/name/nm0000921/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nat Mauldin",
+            "url": "/name/nm0560894/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ed Solomon",
+            "url": "/name/nm0004412/"
+        }
+    ],
+    "datePublished": "2003-05-23",
+    "description": "Right before his daughter's wedding, a mild-mannered foot doctor discovers that his future son-in-law's father is a free-wheeling international spy.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Andrew Fleming",
+            "url": "/name/nm0281598/"
+        }
+    ],
+    "duration": "PT1H38M",
+    "genre": [
+        "Action",
+        "Comedy",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ1MDQ0MTA3NV5BMl5BanBnXkFtZTYwMDQxNDA3._V1_.jpg",
+    "keywords": "fbi federal bureau of investigation,comedy farce,spy spoof,spy action,buddy comedy",
+    "name": "The In-Laws",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bobbylabonte18"
+        },
+        "dateCreated": "2010-08-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0314786/"
+        },
+        "name": "The In-Laws: Michael Douglas and Albert Brooks Give Up the Goods, but Where are the Good Supporting Roles for the Others",
+        "reviewBody": "The In-Laws is a sharp, genuine comedy from director Andrew Fleming. The plot is good, but sometimes, it can feel predictable and completely out of whack, but sometimes it's good to have that in a film. Albert Brooks and Michael Douglas are given the most screen time with what I thought were genuinely funny and deeper characters than they appear, at times though, the Michael Douglas character is predictable with his inner self, but saves it with another great performance. Albert Brooks is funny in this role, in a way, he carries the light spots of this movie on his back due to sharp one liners, which I believe he may have improvised. But the really snores in this film come from the sub plot, a wedding for Douglas' son played by Ryan Reynolds and Brooks' daughter played by Lindsay Sloane. The problem with the sub plot, is it is just not funny or sharp enough, Ryan Reynolds was a complete miss-cast in this role, he just isn't funny. During this subplot, we see Candice Bergen slip into the picture in one of those one liner funny roles that she does so well. Overall, if not with casting of Ryan Reynolds, maybe neglecting the sub plot, with more heavy detail on the comedic action, The In-Laws would be a fantastic comedy, but what is done is done, and you are left wondering what could have been.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1341391129",
+        "name": "The In-Laws",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzk0NTk4MzktN2RmOS00NzY2LTgyMjAtNjg2MjY1ZmIwMDViXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzk0NTk4MzktN2RmOS00NzY2LTgyMjAtNjg2MjY1ZmIwMDViXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:48:54Z",
+        "url": "https://www.imdb.com/video/vi1341391129/"
+    },
+    "url": "/title/tt0314786/"
+}

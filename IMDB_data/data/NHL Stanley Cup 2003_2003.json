@@ -1,0 +1,29 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 30,
+        "ratingValue": 8.4,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "description": "Back to Boston! After a grueling 39 year wait, the Stanley Cup has finally returned to Boston. Relive every moment as captain Zdeno Chara, rugged winger Milan Lucic, crafty center David Krejci, and the unbeatable Tim Thomas embark...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert D. Newman",
+            "url": "/name/nm1357805/"
+        }
+    ],
+    "duration": "PT1H16M",
+    "genre": [
+        "Documentary",
+        "Sport"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZGRkY2QzYzItOTJjNy00NDE5LWJiMzctNDc0Nzg3MGFjYjRmXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+    "keywords": "stanley cup,year in title,2010s,number in title",
+    "name": "NHL Stanley Cup Champions 2011: Boston Bruins",
+    "url": "/title/tt2084901/"
+}

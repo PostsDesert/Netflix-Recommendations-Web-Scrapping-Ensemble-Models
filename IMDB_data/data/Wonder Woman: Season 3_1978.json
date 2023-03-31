@@ -1,0 +1,54 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Gal Gadot",
+            "url": "/name/nm2933757/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lynda Carter",
+            "url": "/name/nm0004812/"
+        }
+    ],
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0283444/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0768206/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        }
+    ],
+    "description": "Plot unknown. Third installment of the 'Wonder Woman' franchise.",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDQyNGY4NDYtYWY2OS00YTg2LWI2MjctMjI5NTAzYzYwMjlhXkEyXkFqcGdeQXVyMzA4OTI5MjE@._V1_.jpg",
+    "keywords": "sequel,third part,based on comic book,based on comic,dc comics",
+    "name": "Wonder Woman 3",
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "New bosses, new heroes, and a hierarchy forever changed, let's break down what DC Studios have in store for 2023 and beyond.",
+        "duration": "PT3M44S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1100662041",
+        "name": "All About DC Studios Movies and Shows",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMWRiMGE2YjMtMzBhYS00ODRlLWJmMGUtZWE4MjFkMWFiOGY4XkEyXkFqcGdeQWFsZWxvZw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMWRiMGE2YjMtMzBhYS00ODRlLWJmMGUtZWE4MjFkMWFiOGY4XkEyXkFqcGdeQWFsZWxvZw@@._V1_.jpg",
+        "uploadDate": "2022-11-07T20:58:20.358Z",
+        "url": "https://www.imdb.com/video/vi1100662041/"
+    },
+    "url": "/title/tt13722802/"
+}

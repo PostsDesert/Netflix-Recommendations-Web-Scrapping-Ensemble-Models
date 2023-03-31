@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Hayley Mills",
+            "url": "/name/nm0001539/"
+        },
+        {
+            "@type": "Person",
+            "name": "Maurice Chevalier",
+            "url": "/name/nm0002001/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Sanders",
+            "url": "/name/nm0001695/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3293,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0098836/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lowell S. Hawley",
+            "url": "/name/nm0370328/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jules Verne",
+            "url": "/name/nm0894523/"
+        }
+    ],
+    "datePublished": "1962-12-21",
+    "description": "In 19th century England, young Mary Grant and her brother, Robert, embark on a dangerous quest to find their missing father, a sea captain who vanished somewhere along the Chilean coast.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Stevenson",
+            "url": "/name/nm0829038/"
+        }
+    ],
+    "duration": "PT1H38M",
+    "genre": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZDc1OTllMTUtMWJjMC00MjExLWJhNGMtOTU4NmE5YmM4YzgzXkEyXkFqcGdeQXVyMjU5OTg5NDc@._V1_.jpg",
+    "keywords": "snow adventure,intergenerational friendship,biblical quote,english,insanity",
+    "name": "In Search of the Castaways",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "moonspinner55"
+        },
+        "dateCreated": "2001-06-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0056095/"
+        },
+        "name": "A thousand thrills...and Hayley Mills!",
+        "reviewBody": "Wonderful Jules Verne fantasy via Walt Disney has jolly, ne'er-do-well Frenchman Maurice Chevalier helping two children convince a ship's captain that the kids' father, a captain lost at sea, is shipwrecked on an island near South America. The journey begins, and soon the whole gang faces every form of a raging Mother Nature trying to reach the castaway. Hayley Mills is near the peak of her ladylike charms here, never lovelier than when singing \"Castaway\" under the stars by guitar or cooking breakfast with Chevalier in a treetop. Maurice himself is a wily coot, and Wilfred Hyde-White is brusquely amusing. Well-produced yarn with fine effects does tail off in the second-half, but there are many requisite Disney-adventure pleasures to be had. Enjoy it! *** from ****",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "In 19th century England, young Mary Grant and her brother, Robert, embark on a dangerous quest to find their missing father, a sea captain who vanished somewhere along the Chilean coast.",
+        "duration": "PT32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2229977881",
+        "name": "Teaser Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYTc0YTZjMTgtYzgzNi00YTQyLWI3ZjMtNThkY2YzMGI0MmRmXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTc0YTZjMTgtYzgzNi00YTQyLWI3ZjMtNThkY2YzMGI0MmRmXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-11-19T21:30:25.057Z",
+        "url": "https://www.imdb.com/video/vi2229977881/"
+    },
+    "url": "/title/tt0056095/"
+}

@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Michael Dudikoff",
+            "url": "/name/nm0001154/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve James",
+            "url": "/name/nm0416944/"
+        },
+        {
+            "@type": "Person",
+            "name": "Judie Aronson",
+            "url": "/name/nm0036978/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 15777,
+        "ratingValue": 5.4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0044937/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0159707/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul De Mielche",
+            "url": "/name/nm0210335/"
+        },
+        {
+            "@type": "Person",
+            "name": "Avi Kleinberger",
+            "url": "/name/nm0459047/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gideon Amir",
+            "url": "/name/nm0024948/"
+        }
+    ],
+    "datePublished": "1985-08-30",
+    "description": "American soldier, obviously very skilled in martial arts, single-handedly takes on mercenaries in the Philippines.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Sam Firstenberg",
+            "url": "/name/nm0278735/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjcxMzc5ZWQtN2Y2OS00NGNiLWE4MDYtMzAyYWJkN2YyODliXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "martial arts action,ninja,murder,one man army,swordsman",
+    "name": "American Ninja",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "sheppypants"
+        },
+        "dateCreated": "2007-07-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0088708/"
+        },
+        "name": "Ninja A-Team",
+        "reviewBody": "If you are watching this movie expecting anything more then action then you're a bit touched in the head. Action indeed, but a special form of action! IT'S 80'S ACTION! All that's missing from this show is \"I love it when a plan comes together\", as offered by the immortal Hannibal Smith from \"The A-Team\" as played by the venerable George Peppard.\n\nMake no mistakes. This movie is le grande fromage, but it is fun. Even the super evil ninja with the cute little star tattooed below his right eye is downright adorable. Who doesn't like cute ninja's? Even those with lasers? Highly recommended (if you have enough booze and detach yourself from any form of realism). Fun.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M38S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2915614745",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDNmNjQ3NGUtZTZlMS00NWM1LWJhYTAtNTI3MTBiMmQ4MDBmXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDNmNjQ3NGUtZTZlMS00NWM1LWJhYTAtNTI3MTBiMmQ4MDBmXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-05-20T11:56:23.083Z",
+        "url": "https://www.imdb.com/video/vi2915614745/"
+    },
+    "url": "/title/tt0088708/"
+}

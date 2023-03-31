@@ -1,0 +1,85 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Josh Thomson",
+            "url": "/name/nm1922569/"
+        },
+        {
+            "@type": "Person",
+            "name": "JuJu Chan Szeto",
+            "url": "/name/nm3634777/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ellary Porterfield",
+            "url": "/name/nm1668219/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 68,
+        "ratingValue": 5.2,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0061080/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0312833/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0150586/"
+        },
+        {
+            "@type": "Person",
+            "name": "Justin Fox",
+            "url": "/name/nm3621183/"
+        }
+    ],
+    "datePublished": "2015-05-27",
+    "description": "Damon, an MMA fighter retires and goes to China to meet his new love, Meili. But things take an immediate turn when he inadvertently takes a package sought by an underground arms dealer. Now he must fight to save himself and his l...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Antony Szeto",
+            "url": "/name/nm0844038/"
+        }
+    ],
+    "duration": "PT1H25M",
+    "genre": [
+        "Action"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTkwYjU3MGItNWVhNi00ZGQxLWE4OGYtY2UxYmIxY2Q5M2ZhXkEyXkFqcGdeQXVyMjA0MDM1MTE@._V1_.jpg",
+    "keywords": "mixed martial arts,martial arts",
+    "name": "Fist of the Dragon",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dctr666"
+        },
+        "dateCreated": "2016-01-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt2646956/"
+        },
+        "name": "Nothing new... a bit boring",
+        "reviewBody": "This movie is boring... plain, and simple. The main character sounds and feels forced, all over the movie. MMA is a great sport, for those who enjoy fighting... but is not easy to create great movies, with MMA as a background-scenario... I, for one, found this movie to be bland, boring... it's something to be seen only when nothing better is on TV, and not to think much about it, for sure. I prefer a more active choreography, and a more compelling story than this. The movie tries (and fails) to resurrected the old 80'feeling in action movies, but fails, miserably. I compared MMA actors to WWE actors... with every other exception, they are not real actors... and fail with their tasks...",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 2,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt2646956/"
+}

@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tom Arnold",
+            "url": "/name/nm0000792/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Paymer",
+            "url": "/name/nm0001601/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rhea Perlman",
+            "url": "/name/nm0674231/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5065,
+        "ratingValue": 5,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007127/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0043831/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Person",
+            "name": "Don Rhymer",
+            "url": "/name/nm0722610/"
+        }
+    ],
+    "datePublished": "1996-08-23",
+    "description": "When his wife falls sick, a father finds himself having to carpool for the neighborhood school children and being taken hostage by a bank robber.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Arthur Hiller",
+            "url": "/name/nm0002137/"
+        }
+    ],
+    "duration": "PT1H29M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYjQ4ZDI4M2UtNmY4OS00YjgxLWFkMjMtZDgzMjg3NThkMzBlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "hostage,ferris wheel,father son relationship,farce,mexican standoff",
+    "name": "Carpool",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "meloda"
+        },
+        "dateCreated": "2016-11-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0115836/"
+        },
+        "name": "It's fair",
+        "reviewBody": "I liked this movie when it came out, but I was a pre-teen. Now, it's fair. No classic and no extreme adventure; and definitely very unrealistic with kid jokes to make matters worse. However, it does have it's exciting parts that keep you on the edge of your seat. A few times it really does get you going. I wouldn't recommend see it without kids around, and would only see it if there really is nothing better to see. However, it is better than a lot of family movies, and is worth a try if you're willing to lower your standards. \n\nAll the more, and on the plus side; it really has a good plot and good moments. If you really give it a fair chance and \"read between the lines,\" there are hidden messages about team work and self-development. The man on the run has a good heart, but is facing lots of problems. People (even the kids and witnesses) like Arnold's character better than the Dad. The Dad, selfish in the beginning, really learns a lot about putting others before himself - while making a new friend and bettering himself. The kids, who argue in the beginning, also form a bond, and have some good learning moments. They all work together as a team, and it leads to a surprise ending.\n\nNo classic, and probably only a 5/10, with just a C grade; but that's better than rock-bottom, and is an all-around adequate movie worth one watch if there truly is nothing better on TV or anything better to do.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "th pre, this summer",
+        "duration": "PT2M23S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi331153689",
+        "name": "Carpool",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjg0YjUwNmUtMmQ4Zi00NTMxLTliYjMtNjE0ZTQwNDk0MzkyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjg0YjUwNmUtMmQ4Zi00NTMxLTliYjMtNjE0ZTQwNDk0MzkyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:02:45Z",
+        "url": "https://www.imdb.com/video/vi331153689/"
+    },
+    "url": "/title/tt0115836/"
+}

@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Cary Grant",
+            "url": "/name/nm0000026/"
+        },
+        {
+            "@type": "Person",
+            "name": "Audrey Hepburn",
+            "url": "/name/nm0000030/"
+        },
+        {
+            "@type": "Person",
+            "name": "Walter Matthau",
+            "url": "/name/nm0000527/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 80371,
+        "ratingValue": 7.9,
+        "worstRating": 1
+    },
+    "contentRating": "Passed",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103368/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Stone",
+            "url": "/name/nm0832099/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marc Behm",
+            "url": "/name/nm0066939/"
+        }
+    ],
+    "datePublished": "1963-12-05",
+    "description": "Romance and suspense ensue in Paris as a woman is pursued by several men who want a fortune her murdered husband had stolen. Whom can she trust?",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Stanley Donen",
+            "url": "/name/nm0002045/"
+        }
+    ],
+    "duration": "PT1H53M",
+    "genre": [
+        "Comedy",
+        "Mystery",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTA0Y2UyMDUtZGZiOS00ZmVkLTg3NmItODQyNTY1ZjU1MWE4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "keywords": "investigation,assumed identity,reference to william shakespeare,deception,murder",
+    "name": "Charade",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "TheLittleSongbird"
+        },
+        "dateCreated": "2010-02-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0056923/"
+        },
+        "name": "Classy and entertaining comedy thriller that deserves a lot more respect",
+        "reviewBody": "I was one of those people who was convinced this was a Hitchcock movie when I first saw \"Charade\". I think this is because the idea of the plot, some of the set pieces and the style of direction are remarkably similar. The director here is Stanley Donan(co-director with Gene Kelly of \"Singin' In The Rain\"), and I thought he did a great job directing.\n\nThe real stars of this classy, entertaining and I think underrated Hitchcockian-like comedy thriller are the clever plot(with an ingenious McGuffin) and the marvellous romantic score from Henry Mancini. The cinematography is skillful enough and the Parisian locations are ravishing. Not to mention some truly wonderful set pieces such as Grant taking a shower fully clothed, Grant and Hepburn falling in love on a river boat, a hair-raising cliffhanger on the roof, the priceless funeral scene and the sequence under the stage.\n\nThe acting is marvellous, with charming, brooding and urbane Cary Grant and lovely and equally charming Audrey Hepburn making a dream pairing and making the most of a crisp, funny and sophisticated script. James Coburn makes a star-making turn, Ned Glass is deliciously obnoxious and Walter Matthau, a wonderful comic actor in his time, in an understated performance here that I personally think is the strongest one of the film. In fact, while I have nothing against George Kennedy, I did feel as though he was slightly phoning in his performance here, but considering how good this film is that is a minor criticism.\n\nOverall, this film is terrific, not the best movie ever made but a long way from the worst. It is such a shame people have to be so derogatory to not only this film in general, but also about Grant, Hepburn and other movie stars like James Stewart when they have a lot more talent than most of the actors working today and that is a fact. Not trying to sound opinionated, but I'd rather watch any Hitchcock or this than any of the Friedberg-Seltzer spoofs or Steven Seagal's most sloppily paced, lazily acted film. 9.5/10 for \"Charade\". Bethany Cox",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Tristar",
+        "duration": "PT3M15S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3418161433",
+        "name": "Charade",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYWY2MmIxYmYtNzMzYS00YmZjLWI5OTktMDYzNDc0NzQ2OTBjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYWY2MmIxYmYtNzMzYS00YmZjLWI5OTktMDYzNDc0NzQ2OTBjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:18:38Z",
+        "url": "https://www.imdb.com/video/vi3418161433/"
+    },
+    "url": "/title/tt0056923/"
+}

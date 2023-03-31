@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bing Crosby",
+            "url": "/name/nm0001078/"
+        },
+        {
+            "@type": "Person",
+            "name": "Donald O'Connor",
+            "url": "/name/nm0640307/"
+        },
+        {
+            "@type": "Person",
+            "name": "Zizi Jeanmaire",
+            "url": "/name/nm0419929/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 990,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "TV-PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Person",
+            "name": "Guy Bolton",
+            "url": "/name/nm0093397/"
+        },
+        {
+            "@type": "Person",
+            "name": "P.G. Wodehouse",
+            "url": "/name/nm0937289/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sidney Sheldon",
+            "url": "/name/nm0791084/"
+        }
+    ],
+    "description": "Bill Benson and Ted Adams are to appear in a Broadway show together and, while in Paris, each discovers the perfect leading lady for the plum female role. Each promises the prize role to the girl they selected without informing th...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Lewis",
+            "url": "/name/nm0507673/"
+        }
+    ],
+    "duration": "PT1H46M",
+    "genre": [
+        "Musical",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjViOTgxZGMtZGRlZC00YTQ1LWI3YzktOTlmZWI4NDU0OGQ0XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "keywords": "remake,stuttering,reference to liberace,song and dance,concertina",
+    "name": "Anything Goes",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "planktonrules"
+        },
+        "dateCreated": "2020-03-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0048954/"
+        },
+        "name": "How much you like this really depends on how much you like modern dance.",
+        "reviewBody": "One of the most polarizing Best Picture winners I can think of is \"An American in Paris\". Some adore it, some hate the very long modern dance portion that seems to go on and on. How much you like modern dance will also play a big part in whether or not you love or dislike \"Anything Goes\". The dancing doesn't go on as long...but there is a ton of it and it's very much unlike a musical of the 1930s or 40s.\n\nSpeaking of 1930s, I should point out that this 1956 film has very little to do with either the 1936 film or the Broadway musical...apart from the music. The plots are completely different...though Bing Crosby stars in both films.\n\nWhen the film begins, you see that Bill (Bing Crosby) is a bit singing star. When he's introduced to newcomer Ted (Donald O'Connor), Bill is very taken with him and wants to partner up with him for a show. After agreeing on this, Bill is supposed to find a leading lady for their show and he finds Patsy (Mitzi Gaynor) and signs her. At about the same time, Ted discovers Gaby (Zizi Jeanmaire) and signs her as well. Ted knows this is Bill's job but KNOWS Bill will love Gaby!! Now, with two leading ladies, the partnership is in for some rocky times!\n\nThis film is well made and the dance numbers are fine. But it's all a matter of taste...and I prefer older fashioned musicals without the modern dance numbers. For me, I'd give it a 6 but perhaps your reaction will be quite different.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0048954/"
+}

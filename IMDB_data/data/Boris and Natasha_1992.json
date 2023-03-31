@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sally Kellerman",
+            "url": "/name/nm0001419/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dave Thomas",
+            "url": "/name/nm0858686/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrea Martin",
+            "url": "/name/nm0551908/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 953,
+        "ratingValue": 4.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0024112/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0325247/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jay Ward",
+            "url": "/name/nm0911599/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Fradin",
+            "url": "/name/nm0289520/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brad Hall",
+            "url": "/name/nm0355357/"
+        }
+    ],
+    "datePublished": "1992-04-17",
+    "description": "The classic cartoon spies, Boris and Natasha, get their very own live-action adventure. Sent to America to find an important microchip, the usually villainous duo begin to question who they're working for and why.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Charles Martin Smith",
+            "url": "/name/nm0001747/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Action",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjU5MzE5Nzg3MV5BMl5BanBnXkFtZTgwMzAxNjU4NzE@._V1_.jpg",
+    "keywords": "close up of eyes,close up of lips,close up of mouth,close up of nose,boris badenov character",
+    "name": "Boris and Natasha",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "AnnieLola"
+        },
+        "dateCreated": "2020-11-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0101500/"
+        },
+        "name": "Silly fun, but pales beside the also-silly 2000 movie",
+        "reviewBody": "I didn't even know this existed until it popped up on cable TV. Had to give it a look, and it's got its moments, but is vastly outclassed by 2000's \"Adventures of Rocky and Bullwinkle\" with Jason Alexander and Renee Russo. At the very least, more effort could have been put into making the principals resemble the cartoon originals with makeup and hairstyling. Note Sally Kellerman as executive producer-- she bankrolled this production. Corey Burton's Narrator doesn't sound as much like the original Narrator, William Conrad, as the 2000 film's Narrator, Keith Scott, who also voiced Bullwinkle and other characters in that production. But what the heck, enjoy what works and ignore the rest.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0101500/"
+}

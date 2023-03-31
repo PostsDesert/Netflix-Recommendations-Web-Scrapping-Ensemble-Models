@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dan Aykroyd",
+            "url": "/name/nm0000101/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jamie Lee Curtis",
+            "url": "/name/nm0000130/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anna Chlumsky",
+            "url": "/name/nm0001043/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 20272,
+        "ratingValue": 5.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0310123/"
+        },
+        {
+            "@type": "Person",
+            "name": "Laurice Elehwany",
+            "url": "/name/nm0253214/"
+        },
+        {
+            "@type": "Person",
+            "name": "Janet Kovalcik",
+            "url": "/name/nm0468293/"
+        }
+    ],
+    "datePublished": "1994-02-11",
+    "description": "Vada Sultenfuss must go to LA to stay with her Uncle Phil to do some research on her mother's life, but finds much more.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Howard Zieff",
+            "url": "/name/nm0956052/"
+        }
+    ],
+    "duration": "PT1H39M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDk3ZTBjZGQtNTVkMi00ZDg5LTkxNzQtZjgyMzI0YjVjMWU2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "numbered sequel,teenage protagonist,female protagonist,teenage girl,small town",
+    "name": "My Girl 2",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "A_Voice"
+        },
+        "dateCreated": "2013-12-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0110613/"
+        },
+        "name": "Better as a standalone film, pretty pointless as a sequel.",
+        "reviewBody": "Well, I certainly enjoyed its predecessor. The previous film had a simple story, but it was more character driven rather than a plot oriented film. That was the reason the audience were left heartbroken at the sudden death of a major character.\n\nThe story continues as Shelly is pregnant and Vada realizes that she barely knows her late mother. Thus, she decides to leave for LA to get to know more of her mother.\n\nMy Girl, focused more upon how Vada grew up in an funeral home with death all around and how she matured. It was a story about growing up. I liked the mystery around the character of her mother and wasn't much curious as to how she actually was. Whereas, this is completely different. It is more of a plot driven story, an adventure as one might say, with little to no character development. For me at least, I think this movie destroys the characters created in the previous film. Vada is now mature, but it was her innocence which made me love the previous film. So it is a pointless sequel i'd say. My Girl should have been left alone.\n\nOn the other hand if you look at it as a standalone film i.e. no connection with the previous film, it is actually a good film. If someone sees this film before the previous one, they might like it.\n\nDirection: Weak.\n\nScript/Story: Average.\n\nActing: Anna is mature, and has acted just fine. Austin is average. Rest of the cast is good.\n\nMusic: Good, refreshing.\n\nA weak and unnecessary sequel.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Pictures",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi932708633",
+        "name": "My Girl 2",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDU0OTU4YWUtYThhYy00OGIwLWExNjYtM2EzZTkwNjNhOGFhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDU0OTU4YWUtYThhYy00OGIwLWExNjYtM2EzZTkwNjNhOGFhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:09:15Z",
+        "url": "https://www.imdb.com/video/vi932708633/"
+    },
+    "url": "/title/tt0110613/"
+}

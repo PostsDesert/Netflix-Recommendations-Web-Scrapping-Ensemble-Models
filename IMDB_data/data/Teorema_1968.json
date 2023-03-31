@@ -1,0 +1,91 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Silvana Mangano",
+            "url": "/name/nm0542146/"
+        },
+        {
+            "@type": "Person",
+            "name": "Terence Stamp",
+            "url": "/name/nm0000654/"
+        },
+        {
+            "@type": "Person",
+            "name": "Massimo Girotti",
+            "url": "/name/nm0320988/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 14289,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0022362/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0122179/"
+        },
+        {
+            "@type": "Person",
+            "name": "Pier Paolo Pasolini",
+            "url": "/name/nm0001596/"
+        }
+    ],
+    "datePublished": "1968-11-27",
+    "description": "A mysterious young man seduces each member of a bourgeois family. When he suddenly leaves, how will their lives change?",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Pier Paolo Pasolini",
+            "url": "/name/nm0001596/"
+        }
+    ],
+    "duration": "PT1H38M",
+    "genre": [
+        "Drama",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODA1ZWZiZWYtYjVhMC00ZGQxLWI1Y2MtM2VmYjg2MzQyMDM3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "sexuality,bourgeoisie,mysterious stranger,homosexuality,allegory",
+    "name": "Teorema",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "eliastrip"
+        },
+        "dateCreated": "2004-09-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0063678/"
+        },
+        "name": "a beautiful poem",
+        "reviewBody": "This is the most gentle and poetic film that Pasolini directed. The characters, the location and the narrative are symbols. Words in poetry can express many emotions, truths and philosophies, and so do the characters in Teorema. The general meaning of this film is open to discussion. In my view The Visitor (Terence Stamp) represents love, and love in this regard can be inspiration, devotion to another person without personal benefit. When The Visitor shows the family another truth, and then abandons them, they are left in dispair, and are unable to return to their former way of living. I think the family represents people living in a capitalist system. Pasolini was a Marxist and he directed this film in 1968, a revolutionary year in which the youth of Western Europe (and a part of Eastern Europe) revolted against their governments and wanted to build a society based on new principles. This is a very relevant film for unpoetic times."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A mysterious young man seduces each member of a bourgeois family. When he suddenly leaves, how will their lives change?",
+        "duration": "PT1M20S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3891118873",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNWQ1MzMwYWUtNTEwOC00NzE3LWJjODQtODVmZmM1NDAxYWQwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNWQ1MzMwYWUtNTEwOC00NzE3LWJjODQtODVmZmM1NDAxYWQwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-11-22T20:53:45.546Z",
+        "url": "https://www.imdb.com/video/vi3891118873/"
+    },
+    "url": "/title/tt0063678/"
+}

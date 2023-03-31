@@ -1,0 +1,96 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Melanie Griffith",
+            "url": "/name/nm0000429/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tom Berenger",
+            "url": "/name/nm0000297/"
+        },
+        {
+            "@type": "Person",
+            "name": "Craig Sheffer",
+            "url": "/name/nm0001729/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1906,
+        "ratingValue": 5.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0080130/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0020491/"
+        },
+        {
+            "@type": "Person",
+            "name": "Myra Byanka",
+            "url": "/name/nm0125688/"
+        },
+        {
+            "@type": "Person",
+            "name": "Raymond De Felitta",
+            "url": "/name/nm0208343/"
+        }
+    ],
+    "datePublished": "1998-04-09",
+    "description": "A billionaire's daughter is murdered in her LA home. A tough top lawyer is up against her assistant DA ex, when she defends a musician suspect.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Randal Kleiser",
+            "url": "/name/nm0459170/"
+        }
+    ],
+    "duration": "PT1H43M",
+    "genre": [
+        "Mystery",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BM2QxNWFjZTUtN2RiYy00MGM2LWE3ODQtNzdkOWJjZWQ0NjAwXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_.jpg",
+    "keywords": "murder of a nude woman,legal,legal thriller,ex husband,attorney",
+    "name": "Shadow of Doubt",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Kirpianuscus"
+        },
+        "dateCreated": "2018-01-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0119989/"
+        },
+        "name": "not so bad",
+        "reviewBody": "Or, more precise, result of good intentions. because it is a proof of decent try from director, actors and scriptwriter to give a reasonable thriller. but the web is too large and too obscure. and the resemblance with many others films, better films, is not a virtue in this case. but , the different pieces from puzzle are enough for a not bad result. Melanie Griffith knows use an old recipe for a conventional character, Tom Berger is a not real bad choice for his role and Nina Foch is an inspired choice for Sylvia Saxon. the only obvious mistake remains Craig Sheffer, in a role who seems be only a poor ornament for a too rich Christmas tree."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Universal Studios Home Entertainment",
+        "duration": "PT2M27S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1300365593",
+        "name": "Shadow of Doubt",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZGQ3OTgyZmQtMmUyOS00YTcyLWIxNmItZjQwMjQyZTZiMjFlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZGQ3OTgyZmQtMmUyOS00YTcyLWIxNmItZjQwMjQyZTZiMjFlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:47:04Z",
+        "url": "https://www.imdb.com/video/vi1300365593/"
+    },
+    "url": "/title/tt0119989/"
+}

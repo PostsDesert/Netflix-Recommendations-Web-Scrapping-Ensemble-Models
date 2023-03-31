@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ally Sheedy",
+            "url": "/name/nm0000639/"
+        },
+        {
+            "@type": "Person",
+            "name": "Beverly D'Angelo",
+            "url": "/name/nm0000350/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Ontkean",
+            "url": "/name/nm0648920/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3532,
+        "ratingValue": 5.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0749348/"
+        },
+        {
+            "@type": "Person",
+            "name": "Amy Holden Jones",
+            "url": "/name/nm0427468/"
+        },
+        {
+            "@type": "Person",
+            "name": "Perry Howze",
+            "url": "/name/nm0398286/"
+        },
+        {
+            "@type": "Person",
+            "name": "Randy Howze",
+            "url": "/name/nm0398287/"
+        }
+    ],
+    "datePublished": "1987-07-31",
+    "description": "A spoiled rich girl is visited by her fairy godmother and turned into a maid.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Amy Holden Jones",
+            "url": "/name/nm0427468/"
+        }
+    ],
+    "duration": "PT1H33M",
+    "genre": [
+        "Fantasy",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzE2YmQ5MzktY2VlNS00MGVlLTk4Y2MtNzk5ZWI4ZjMzYTRhXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_.jpg",
+    "keywords": "woman wears a gas mask,timeframe 1980s,slimehouse,female director,female filmmaker",
+    "name": "Maid to Order",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "sibie"
+        },
+        "dateCreated": "2002-07-15",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0093476/"
+        },
+        "name": "Fantasy Cinderella tale",
+        "reviewBody": "I think this film may have been given too little credit. Although not an Oscar winner by far, it did lead me out of reality for a while and put a smile on my face. It is always nice when a film can do that. The music, by famous film composer Georges Delerue (Steel magnolias) helps cast the spell. Beverly D'angelo is well cast and Ally Sheedy is...well...Ally Sheedy",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A spoiled rich girl is visited by her fairy godmother and turned into a maid.",
+        "duration": "PT2M",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2128921113",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTc3OGI2YTctNmQxNy00YzBlLWFmMDQtM2Y5OTNhMTEyOGQ1XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTc3OGI2YTctNmQxNy00YzBlLWFmMDQtM2Y5OTNhMTEyOGQ1XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2022-06-02T22:59:15.295Z",
+        "url": "https://www.imdb.com/video/vi2128921113/"
+    },
+    "url": "/title/tt0093476/"
+}

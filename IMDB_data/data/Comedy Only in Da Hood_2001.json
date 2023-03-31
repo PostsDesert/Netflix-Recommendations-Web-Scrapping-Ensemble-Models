@@ -1,0 +1,64 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jay Barron",
+            "url": "/name/nm1483123/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sara Contreras",
+            "url": "/name/nm2294507/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eric Butterbean Esch",
+            "url": "/name/nm0125269/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 13,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0119388/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jay Barron",
+            "url": "/name/nm1483123/"
+        },
+        {
+            "@type": "Person",
+            "name": "Samad Davis",
+            "url": "/name/nm1499970/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kool Bubba Ice",
+            "url": "/name/nm0465537/"
+        }
+    ],
+    "datePublished": "2001-11-12",
+    "description": "A collection of sketches detailing hilarious urban adventures only found in da hood! \"Comedy Only in Da Hood, Volume 1,\" dares to ask questions like \"If Eddie Murphy never made it out of da' hood, what would he be doing?\" We'll al...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Samad Davis",
+            "url": "/name/nm1499970/"
+        }
+    ],
+    "duration": "PT1H44M",
+    "genre": [
+        "Comedy"
+    ],
+    "name": "Comedy Only in da Hood",
+    "url": "/title/tt0421997/"
+}

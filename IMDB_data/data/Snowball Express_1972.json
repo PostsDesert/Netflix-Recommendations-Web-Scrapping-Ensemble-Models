@@ -1,0 +1,89 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dean Jones",
+            "url": "/name/nm0427894/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nancy Olson",
+            "url": "/name/nm0647970/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harry Morgan",
+            "url": "/name/nm0604702/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1910,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0098836/"
+        },
+        {
+            "@type": "Person",
+            "name": "Don Tait",
+            "url": "/name/nm0846884/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Parker",
+            "url": "/name/nm0662354/"
+        },
+        {
+            "@type": "Person",
+            "name": "Arnold Margolin",
+            "url": "/name/nm0546746/"
+        }
+    ],
+    "datePublished": "1973-06-22",
+    "description": "When John Baxter inherits a ski resort in the Rocky Mountains, he quits his job in New York and moves west to run it--only to find his \"estate\" in a state of total dilapidation.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Norman Tokar",
+            "url": "/name/nm0865709/"
+        }
+    ],
+    "duration": "PT1H33M",
+    "genre": [
+        "Comedy",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODFiYWVmZjItNGQ2Ni00Yjg4LWI3ZmUtMWU2YTcxMDk5ZGM3XkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_.jpg",
+    "keywords": "slimehouse,rocky mountains,ski resort,new york city,family relationships",
+    "name": "Snowball Express",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "pmtelefon"
+        },
+        "dateCreated": "2019-04-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0069291/"
+        },
+        "name": "Always hits the spot.",
+        "reviewBody": "I liked \"Snowball Express\" when I saw it in the theater (Bellerose,NY) when it first came out and I still like it now. It has some big laughs and some nice stunt work. It also has a bunch of fake looking green screen stuff but that doesn't bother me. It has a nice set of characters played by a very nice cast. It also has a great score. That tune will be in my head for days.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0069291/"
+}

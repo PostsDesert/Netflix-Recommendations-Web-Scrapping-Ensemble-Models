@@ -1,0 +1,78 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Alice Cooper",
+            "url": "/name/nm0004840/"
+        },
+        {
+            "@type": "Person",
+            "name": "Vincent Price",
+            "url": "/name/nm0001637/"
+        },
+        {
+            "@type": "Person",
+            "name": "Linda Googh",
+            "url": "/name/nm0329596/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 300,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "Unrated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0045637/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tony Hudz",
+            "url": "/name/nm0400004/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alan Rudolph",
+            "url": "/name/nm0748928/"
+        }
+    ],
+    "datePublished": "1975-04-25",
+    "description": "Steven, a character from Alice Cooper's album \"Welcome to My Nightmare\", encounters a surreal dream fantasy, guided by the spirit of the nightmare.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jorn H. Winther",
+            "url": "/name/nm0936037/"
+        }
+    ],
+    "duration": "PT1H6M",
+    "genre": [
+        "Horror",
+        "Musical"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYzYxNjdjYWUtMWJlNy00ZTEyLWFiOWQtZWNlNTUzMzExN2M4XkEyXkFqcGdeQXVyMTEwODg2MDY@._V1_.jpg",
+    "keywords": "nightmare,dream,cult music band,low budget film,haunting",
+    "name": "Alice Cooper: The Nightmare",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Out-of-Print-Video"
+        },
+        "dateCreated": "2000-05-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0072624/"
+        },
+        "name": "Alice Cooper The Nightmare (NOT Welcome to myNightmare)",
+        "reviewBody": "is a Classic Performance Video that features ONLY Alice Cooper and Vincent Price, it consists of conceptual videos acted on a stage and has a running time of 66 minutes. So it shouldn't be confused with \"Welcome to my Nightmare\"...which the IMDB is referring to here. The Nightmare is quite Rare but not impossible to find...and it is fantastic fun...14 songs each introduced by Vincent Price. Features great scenes of Cooper and Vincent Price interacting together...the two were made to work together!"
+    },
+    "url": "/title/tt0072624/"
+}

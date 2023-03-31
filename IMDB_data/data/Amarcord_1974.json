@@ -1,0 +1,49 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Vedran Mlikota",
+            "url": "/name/nm1086144/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bozidar Knezevic",
+            "url": "/name/nm1251984/"
+        },
+        {
+            "@type": "Person",
+            "name": "Milan Martic",
+            "url": "/name/nm1269372/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 40,
+        "ratingValue": 8.4,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Person",
+            "name": "Pavle Vranjican",
+            "url": "/name/nm1253664/"
+        }
+    ],
+    "datePublished": "2001-10-31",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Pavle Vranjican",
+            "url": "/name/nm1253664/"
+        }
+    ],
+    "genre": [
+        "Documentary"
+    ],
+    "keywords": "year in title,20th century,1990s,2000s",
+    "name": "Amarcord 1991-2001",
+    "url": "/title/tt0346501/"
+}

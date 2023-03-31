@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Steve Zahn",
+            "url": "/name/nm0001872/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Walker",
+            "url": "/name/nm0908094/"
+        },
+        {
+            "@type": "Person",
+            "name": "Leelee Sobieski",
+            "url": "/name/nm0005447/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 71835,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007127/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0166202/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0021593/"
+        },
+        {
+            "@type": "Person",
+            "name": "Clay Tarver",
+            "url": "/name/nm0850774/"
+        },
+        {
+            "@type": "Person",
+            "name": "J.J. Abrams",
+            "url": "/name/nm0009190/"
+        }
+    ],
+    "datePublished": "2001-10-05",
+    "description": "Three young people on a road trip from Colorado to New Jersey talk to a trucker on their CB radio, then must escape when he turns out to be a psychopathic killer.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Dahl",
+            "url": "/name/nm0001093/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Action",
+        "Mystery",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMWQwOTUwOWYtMjJjYy00Yjg3LThhZTktZmMwN2NmMmMxZTUwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "truck driver,truck,brother brother relationship,kidnapping,irresponsibility",
+    "name": "Joy Ride",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "NickD"
+        },
+        "dateCreated": "2001-10-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0206314/"
+        },
+        "name": "A Disappointing Mess",
+        "reviewBody": "I went to \"Joy Ride\" with high expectations -- having enjoyed the work of Steve Zahn and John Dahl immensely in the past. But what I got was a poorly done by-the-numbers thriller with several numbers missing. \"Joy Ride\" is typical of movies these days that present a few good set-piece scenes but don't make them come together into a satisfying whole.\n\nThe problem here is almost exclusively in the script. The villain is a chillingly evil, faceless trucker who is apparently omniscient. He knows everything about his victims -- who they are, where they are at all times, even where their friends are. But how? This omniscience is never even remotely explained and makes no sense. Without even this semblance of logic, the events in the film have little context and carry little punch. If the kids in the film were dealing with a maniac who, bad as he is, has to play by the same rules of reality as everyone else, and thus can be outsmarted, the film would have some point. As it is, it's just a series of scares that quickly becomes ho-hum.\n\nWhat a disappointing misuse of a great cast and a talented director. Who green lights things like this? I guess audiences are still going to see it, but they deserve much more."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from 20th Century Fox",
+        "duration": "PT2M30S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1754464537",
+        "name": "Joy Ride",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BY2Q1ODUzOTMtOTE5ZS00YzY1LTgyZTMtOTI2YzI3YTRlOWRlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BY2Q1ODUzOTMtOTE5ZS00YzY1LTgyZTMtOTI2YzI3YTRlOWRlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:51:53Z",
+        "url": "https://www.imdb.com/video/vi1754464537/"
+    },
+    "url": "/title/tt0206314/"
+}

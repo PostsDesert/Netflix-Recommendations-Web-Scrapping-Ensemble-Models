@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Keiko Toda",
+            "url": "/name/nm0865078/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kazuhiko Inoue",
+            "url": "/name/nm0409287/"
+        },
+        {
+            "@type": "Person",
+            "name": "Takeshi Watabe",
+            "url": "/name/nm0913780/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 459,
+        "ratingValue": 5.5,
+        "worstRating": 1
+    },
+    "alternateName": "Wrath of the Ninja: The Yotoden Movie",
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Person",
+            "name": "Shô Aikawa",
+            "url": "/name/nm0014556/"
+        },
+        {
+            "@type": "Person",
+            "name": "Takeshi Narumi",
+            "url": "/name/nm1425623/"
+        }
+    ],
+    "datePublished": "1989-05-27",
+    "description": "In the year 1580, a man named Lord Nobunaga Oda sends hoards of unholy armies across Japan, slaying all who stand in their way. A young ninja escapes her villages' destruction with a short sword, one of the three mystical weapons ...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Toshiyuki Sakurai",
+            "url": "/name/nm1339889/"
+        },
+        {
+            "@type": "Person",
+            "name": "Osamu Yamasaki",
+            "url": "/name/nm0945717/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Animation",
+        "Action",
+        "Adventure"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUzMzAyNTMwMV5BMl5BanBnXkFtZTgwNjk1NjgyNzE@._V1_.jpg",
+    "keywords": "anime animation,sword,ninja,destruction,demon",
+    "name": "Yôtôden",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "yy15"
+        },
+        "dateCreated": "2000-06-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0209489/"
+        },
+        "name": "Too many death",
+        "reviewBody": "It's perfectly ok that people dies in an animation, but there are just way too many death in this one. Start from the very beginning, the story is all around battles, fights, death, and revenge. It goes on and on for entire one and a half hour. It was interesting at the beginning, but I grew very tire after before the show was half way through. Unlike other animations, this one is lack of humor. There are not many interactions between the characters either. The good thing about it is the sword fight scene looks pretty good and the characters look nice.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 4,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Central Park Media",
+        "duration": "PT1M4S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi199426329",
+        "name": "Wrath of the Ninja: The Yotoden Movie",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjU2ZmRiZGYtZTIyYS00MGI1LWExMDMtOTYxYzMyMDJhNmNmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjU2ZmRiZGYtZTIyYS00MGI1LWExMDMtOTYxYzMyMDJhNmNmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-18T12:16:57Z",
+        "url": "https://www.imdb.com/video/vi199426329/"
+    },
+    "url": "/title/tt0209489/"
+}

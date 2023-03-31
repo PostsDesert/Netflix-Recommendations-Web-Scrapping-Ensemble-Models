@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Morgan Spurlock",
+            "url": "/name/nm1041597/"
+        },
+        {
+            "@type": "Person",
+            "name": "Daryl Isaacs",
+            "url": "/name/nm1549745/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chemeeka Walker",
+            "url": "/name/nm6354549/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 110569,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0126454/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0215124/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0001218/"
+        },
+        {
+            "@type": "Person",
+            "name": "Morgan Spurlock",
+            "url": "/name/nm1041597/"
+        }
+    ],
+    "datePublished": "2004-06-11",
+    "description": "While examining the influence of the fast food industry, Morgan Spurlock personally explores the consequences on his health of a diet of solely McDonald's food for one month.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Morgan Spurlock",
+            "url": "/name/nm1041597/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTYyOTk4MjIxOF5BMl5BanBnXkFtZTcwMzk1NTUyMQ@@._V1_.jpg",
+    "keywords": "overeating,fast food,experiment,mcdonald's restaurant,nutrition",
+    "name": "Super Size Me",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ferguson-6"
+        },
+        "dateCreated": "2004-05-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0390521/"
+        },
+        "name": "McGurgle",
+        "reviewBody": "Greetings again from the darkness. My daughter and I have been anxiously awaiting the release of this film since first reading about it months ago. Director (and lab rat) Morgan Spurlock takes on a fast food exclusive diet for 30 days and fills us in on the painful steps and sickening conclusion. Many have attacked Spurlock for picking on McDonalds or for not selecting the healthiest thing possible at every meal. These people are missing the point. He explains in the movie that McDonalds is the selection because they so dominate the fast food scene in the world and especially in Manhattan (where he lives). He also explains his meal selection by showing that most McDonalds orders include burgers and fries. Personally, I wondered more about his numerous milk shakes and parfaits. These seem to be the items that were a bit extreme. \n\nFor the most part, Spurlock does an excellent job proving that we eat too much fast food, that it is very harmful to our bodies, and that there is evil at work conditioning kids that fast food is real food. The most frightening part of the story was the school cafeteria segment showing how kids eat when parents are not around and when school administrators pay no attention. This is the crux of our problems. The Georgetown professor compared it to the early candy cigarettes that condition kids that cigarettes create happiness. The same can be said for fast food and its happy meals and playgrounds. I did not agree too much with the doctor's comparison of Spurlock to Nic Cage in \"Leaving Las Vegas\". Cage's character was trying to commit suicide, while Spurlock was running an experiment and even considered quitting when the doctors were begging him to. Overall, a nice documentary without the total disregard for decency and the truth shown by Michael Moore in most of his films. I believe this should be required viewing for all junior high and high school students, as well as all expecting parents. This could be an educational tool to convince people to put a little more effort into their health.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer 1",
+        "duration": "PT1M7S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1787560217",
+        "name": "Super Size Me",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZmE0OWUyZDEtOWNiOC00ZTBkLWEzNGItOWE5MTljZmJiYmJjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZmE0OWUyZDEtOWNiOC00ZTBkLWEzNGItOWE5MTljZmJiYmJjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:20:55Z",
+        "url": "https://www.imdb.com/video/vi1787560217/"
+    },
+    "url": "/title/tt0390521/"
+}

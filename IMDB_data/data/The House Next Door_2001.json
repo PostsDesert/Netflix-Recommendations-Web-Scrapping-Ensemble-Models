@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "William Atherton",
+            "url": "/name/nm0040472/"
+        },
+        {
+            "@type": "Person",
+            "name": "Blythe Auffarth",
+            "url": "/name/nm0041752/"
+        },
+        {
+            "@type": "Person",
+            "name": "Blanche Baker",
+            "url": "/name/nm0048273/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 27428,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0100731/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0184212/"
+        },
+        {
+            "@type": "Person",
+            "name": "Daniel Farrands",
+            "url": "/name/nm0268107/"
+        },
+        {
+            "@type": "Person",
+            "name": "Philip Nutman",
+            "url": "/name/nm0638329/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jack Ketchum",
+            "url": "/name/nm1626482/"
+        }
+    ],
+    "datePublished": "2008-10-17",
+    "description": "Follows the unspeakable torture and abuses committed on a teenage girl in the care of her aunt and the boys who witness and fail to report the crime.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Gregory Wilson",
+            "url": "/name/nm0933471/"
+        }
+    ],
+    "duration": "PT1H31M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUwMDcyNjE1MF5BMl5BanBnXkFtZTcwOTA1Njg0MQ@@._V1_.jpg",
+    "keywords": "physical abuse,cruelty,victim,childhood,teenage boy",
+    "name": "The Girl Next Door",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "gqviet510"
+        },
+        "dateCreated": "2007-11-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0830558/"
+        },
+        "name": "Pushes it genre to the limit",
+        "reviewBody": "Its been a really really long time since I seen a movie this intensely horrifying. This is the type of movie that starts off soft and ends at the climax, leaving viewers breathlessly shocked. I have never before seen children ages probably ranging between 8-13 commit the inhumane acts as seen in this movie. The boy children were given permission by their sick twisted foster mother to torture a beautiful innocent girl. As the torture worsen you feel more and more sympathy for the girl; this is what makes the movie excellent because it captures the audience in a very powerful way. To make this movie even more horrifying is realizing the movie is based on a true story. I would not recommend anyone to watch this movie before they go to bed because it will be hard to sleep having to think about the poor girl being tortured. I have a feeling this movie will be banned because its too explicit for the general public to watch.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from 20th Century Fox",
+        "duration": "PT2M21S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi562888985",
+        "name": "The Girl Next Door",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMGI3ZjVjODgtMDRlNi00NGUwLTkxNGMtOGRjYzg0MjAyNzI2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMGI3ZjVjODgtMDRlNi00NGUwLTkxNGMtOGRjYzg0MjAyNzI2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:24:16Z",
+        "url": "https://www.imdb.com/video/vi562888985/"
+    },
+    "url": "/title/tt0830558/"
+}

@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Peter Woodward",
+            "url": "/name/nm0940974/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rafael Ferrer",
+            "url": "/name/nm0274613/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Cardelle",
+            "url": "/name/nm1794790/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 111,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005015/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0118166/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0741969/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Lindsay",
+            "url": "/name/nm0512241/"
+        }
+    ],
+    "datePublished": "2005-01-25",
+    "description": "Alexander the Great conquered Greece, Turkey, most of Asia (present Lebanon, Syria, Jordan, Iraq, Iran, Afghanistan, Pakistan, parts of others) and Egypt in Africa, before age 32. Even now, his innovations in battle continue to be...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jim Lindsay",
+            "url": "/name/nm0512241/"
+        }
+    ],
+    "duration": "PT2H30M",
+    "genre": [
+        "Documentary",
+        "Biography",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BM2ViMThkNjItZDg0OC00MmJjLTljYzQtN2NjOWE4NWIzODBlXkEyXkFqcGdeQXVyNDYwNTE1MDE@._V1_.jpg",
+    "keywords": "seven word title,battle,macedonia,greece,phalanx",
+    "name": "The True Story of Alexander the Great",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jwwires"
+        },
+        "dateCreated": "2005-09-05",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0455818/"
+        },
+        "name": "Historically-based summary of an influential career.",
+        "reviewBody": "A survey of academic historians recently revealed that Alexander was voted by that group as the most influential person in history. This vote is likely based on Alexander's having not only conquered the known world, but he also left his footprint for centuries to come. He built or re-built major cities of the world, influenced other cities to copy Greek modes of city-planning and architecture, made Greek the primary language of the world, and influenced history from that time on via Greco-Roman or Hellenistic culture.\n\nThis documentary was released at about the same time as the ill-fated Alexander movie starring Brad Pitt. Using the phrase \"The True Story..\" may be a veiled reference to the apparently much less true story told in the feature film.\n\nThe documentary \"True Story\" version of Alexander follows the general outline of the historical facts of his life. It also reveals salient facts of his personality including his self-confidence, exceeding ambition, commanding presence, and global vision. The documentary does not shirk from also revealing his escalating errors in over-reaching his supply-lines, over-stretching his loyal soldiers' devotion, distrust deteriorating into paranoia, and his vicious murder of trusted long-term companions and generals.\n\nThis extended three-hour documentary lets us know why Alexander was voted the most influential person in history, and makes him both believable and unbelievable for his faults.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0455818/"
+}

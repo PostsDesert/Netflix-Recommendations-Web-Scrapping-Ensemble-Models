@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Peter Fonda",
+            "url": "/name/nm0001228/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nancy Sinatra",
+            "url": "/name/nm0005434/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bruce Dern",
+            "url": "/name/nm0001136/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3155,
+        "ratingValue": 5.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0022781/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles B. Griffith",
+            "url": "/name/nm0341458/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Bogdanovich",
+            "url": "/name/nm0000953/"
+        }
+    ],
+    "datePublished": "1966-07-20",
+    "description": "The \"Angels\", a San Pedro motorcycle gang, parties in the Coachella Valley's Palm Springs Indian Canyons, California, and wreaks havoc with the local police.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Roger Corman",
+            "url": "/name/nm0000339/"
+        }
+    ],
+    "duration": "PT1H33M",
+    "genre": [
+        "Action",
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYzM0MTU3NWItMWE1YS00NWRhLWFhMjctMWY4ZDRhYjFlYTU1XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
+    "keywords": "motorcycle,cult director,cult film,biker,kiss",
+    "name": "The Wild Angels",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "moonspinner55"
+        },
+        "dateCreated": "2005-12-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0061189/"
+        },
+        "name": "\"A rape of decency! A parody of pleasure!\"",
+        "reviewBody": "Roger Corman's modestly-budgeted \"wheeler\" for American International Pictures opens brilliantly, with the evocative cinematography from Richard Moore promising more than what Corman, screenwriter Charles Griffith, or the cast can eventually deliver. Plot has Southern California biker gang enjoying rumbles, cycle jousts, hassling the Mexicans, and outrunning the local heat; but when Bruce Dern steals a police-bike and gets shot, gang \"president\" Peter Fonda hatches a plan to break him out of the hospital and thus keep him out of prison. The film looks terrific from start to finish, but the line-readings are sometimes so painful and awkward, one wishes Corman could cut back on the dialogue and just allow the visuals to tell the story. Sort of the older brother to \"Easy Rider\", \"Angels\" was eclipsed in popularity and relevance just a few years later. Supporting cast includes Diane Ladd, Gayle Hunnicutt, Michael J. Pollard, and Nancy Sinatra, whose hospital crying scene is a hoot. *1/2 from ****",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 4,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "The \"Angels\", a San Pedro motorcycle gang, parties in the Coachella Valley's Palm Springs Indian Canyons, California, and wreaks havoc with the local police.",
+        "duration": "PT2M55S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3453666073",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzQzMmY2NGItYTc3Zi00YjIzLThhYmYtY2FlNDdkMWZmNThmXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzQzMmY2NGItYTc3Zi00YjIzLThhYmYtY2FlNDdkMWZmNThmXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-12-02T17:25:18.006Z",
+        "url": "https://www.imdb.com/video/vi3453666073/"
+    },
+    "url": "/title/tt0061189/"
+}

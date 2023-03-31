@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Humphrey Bogart",
+            "url": "/name/nm0000007/"
+        },
+        {
+            "@type": "Person",
+            "name": "José Ferrer",
+            "url": "/name/nm0001207/"
+        },
+        {
+            "@type": "Person",
+            "name": "Van Johnson",
+            "url": "/name/nm0004496/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 28496,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stanley Roberts",
+            "url": "/name/nm0731592/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Blankfort",
+            "url": "/name/nm0087581/"
+        },
+        {
+            "@type": "Person",
+            "name": "Herman Wouk",
+            "url": "/name/nm0941883/"
+        }
+    ],
+    "datePublished": "1954-06-24",
+    "description": "When a U.S. Naval captain shows signs of mental instability that jeopardizes the ship, the first officer relieves him of command and faces court martial for mutiny.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Edward Dmytryk",
+            "url": "/name/nm0229424/"
+        }
+    ],
+    "duration": "PT2H4M",
+    "genre": [
+        "Drama",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ4ODg4NzA3OV5BMl5BanBnXkFtZTgwMDcwODI5MjE@._V1_.jpg",
+    "keywords": "ship captain,court martial,mutiny,u.s. navy,year 1944",
+    "name": "The Caine Mutiny",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "moonspinner55"
+        },
+        "dateCreated": "2007-08-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0046816/"
+        },
+        "name": "Conflicted emotions and loyalties, a conflicted captain, and a conflicted movie...",
+        "reviewBody": "Director Edward Dmytryk and screenwriter Stanlet Roberts, adapting Herman Wouk's novel, certainly didn't set out to make an anti-Navy movie concerning a junkyard Naval ship beset with a paranoid captain, and indeed their \"simple\" dedication at the end is to the entire United States Navy, yet the plot mechanisms are slanted in that direction even if the handling is not. Beginning the picture with a green \"Princeton tiger\" and Naval Academy grad attempting to woo a band singer before duty calls was a safe, stolid move, yet Wouk's story manages to cut much wider and deeper than the Hollywood generalities, and once his plot gets cooking the film is vastly entertaining. Humphrey Bogart is the new by-the-books captain aboard a Naval bottom-feeder, quickly driving his crew and his vessel into the ground with his idiosyncratic behavior. Dymtryk is careful while introducing all the different personalities aboard ship, and he doesn't want us to miss a trick, yet in the film's final stages (after the court martial, when defense attorney José Ferrer has his say), the tone of the picture does an about-face and hopes to show us all sides of the situation. The filmmakers want to have their cake and eat it too, and the resulting epilogue goes down like bad medicine. Still, the performances are first-rate, particularly by Bogart and, in perhaps his finest acting turn, Van Johnson. *** from ****",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Columbia Pictures",
+        "duration": "PT55S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi972030233",
+        "name": "The Caine Mutiny",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTg0NjU4MDctZjAwMi00ZWQ3LTg3ZDktN2M0ZDJiZDZmNjA0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTg0NjU4MDctZjAwMi00ZWQ3LTg3ZDktN2M0ZDJiZDZmNjA0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:34:51Z",
+        "url": "https://www.imdb.com/video/vi972030233/"
+    },
+    "url": "/title/tt0046816/"
+}

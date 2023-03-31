@@ -1,0 +1,89 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Edward James Olmos",
+            "url": "/name/nm0001579/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mary McDonnell",
+            "url": "/name/nm0001521/"
+        },
+        {
+            "@type": "Person",
+            "name": "Katee Sackhoff",
+            "url": "/name/nm0755267/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 77059,
+        "ratingValue": 8.5,
+        "worstRating": 1
+    },
+    "contentRating": "TV-14",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0140197/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0103971/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0107062/"
+        }
+    ],
+    "datePublished": "2003-12-08",
+    "description": "Following the destruction of the Twelve Colonies of Kobol by the Cylons, a rag-tag fugitive fleet of the last remnants of mankind flees the pursuing Cylons while simultaneously searching for their true home: Earth.",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjJlYzgzOWUtZmJlZi00ZGM4LTliNzctNWFkNThlMDJhZDQxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+    "keywords": "woman smokes a cigar,time dilation,woman wears a uniform,cylon,survivor",
+    "name": "Battlestar Galactica",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bishopolis"
+        },
+        "dateCreated": "2006-04-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0314979/"
+        },
+        "name": "Love it or Hate it",
+        "reviewBody": "Viewers either love this programme, or else they completely hate it. It seems there's no middle ground.\n\nThis incarnation does deviate from the standard format of BattleStar Galactica -- and indeed, from every single episode of every series produced in the 80s by Glen A Larson. The first scene has one of the leading roles played by a woman, the source of about half the griping. Apparently, women aren't supposed to be tough, nor fully-dressed, in space.\n\nAlso, no one's perfect. It's hard to faithfully jump in and worship the 2-3 main characters, like we're used to doing as children. Back then, the main characters flashed their CHiPs smiles, fired their blasters from the hip and got all the girls, even if they were blue. The main characters saved the day, reliably and on time, each and every week. By comparison, the characters in this series are barely keeping themselves together and obviously suffering from their environment, let alone trotting out the whitened smiles for the final chuckle at the 44th minute freeze-frame. The characters in this series, faithful to the style of modern scifi series like FireFly, are as realistic, as flawed and ultimately as believable as it gets, warts and all. The stories are generally well-written, well-acted and consistently cruel to the characters we want so dearly to like.\n\nBe forewarned: This new BattleStar Galactica requires thought and some attention to detail. It's not metal chewing gum, and it doesn't suck up to the audience nor offer the safe and predictably mindless entertainment we're used to seeing in a space opera. But if you can stand occasionally hating your heroes, and if saccharine leaves a taste in your mouth, then you may just become a fan.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer 1",
+        "duration": "PT2M5S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1220083993",
+        "name": "Battlestar Galactica",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjU1MDNiNDEtMDMwZC00ZDUyLTlkZWItZjBlYWJiMmY3MDA0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjU1MDNiNDEtMDMwZC00ZDUyLTlkZWItZjBlYWJiMmY3MDA0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:25:33Z",
+        "url": "https://www.imdb.com/video/vi1220083993/"
+    },
+    "url": "/title/tt0314979/"
+}

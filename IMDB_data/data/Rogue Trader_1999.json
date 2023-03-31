@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ewan McGregor",
+            "url": "/name/nm0000191/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anna Friel",
+            "url": "/name/nm0295484/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cristian Solimeno",
+            "url": "/name/nm0813066/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 10354,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103414/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0082027/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Dearden",
+            "url": "/name/nm0213139/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nick Leeson",
+            "url": "/name/nm0498776/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edward Whitley",
+            "url": "/name/nm0926058/"
+        }
+    ],
+    "datePublished": "1999-06-25",
+    "description": "The story of Nick Leeson, an ambitious investment broker who singlehandedly bankrupted one of the oldest and most important banks in Britain.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "James Dearden",
+            "url": "/name/nm0213139/"
+        }
+    ],
+    "duration": "PT1H41M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "History"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZGVkODdhNzQtYmY2YS00OGIwLWJjNDktY2Y0NDNjYTQzOTU2XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_.jpg",
+    "keywords": "hare krishna,corporation,corporate thriller,true crime,bank",
+    "name": "Rogue Trader",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Circe-9"
+        },
+        "dateCreated": "2000-01-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0131566/"
+        },
+        "name": "Pleasantly surprised",
+        "reviewBody": "I knew almost nothing about the Barings Bank collapse and absolutely nothing about futures trading before seeing this movie. Still, I enjoyed it quite a bit. Yes, it is told from Nick Leeson's point of view, so it should probably be taken with a huge grain of salt, but it was still quite enjoyable and interesting. One of Ewan McGregor's strengths as an actor is his ability to make the audience root for his somewhat shady characters. He was wonderful in this movie. Of course, I still don't know a thing about futures trading."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "The story of Nick Leeson, an ambitious investment broker who singlehandedly bankrupted one of the oldest and most important banks in Britain.",
+        "duration": "PT2M11S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi789889817",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzU4MWViMDctZDQ0My00YjlkLWI1OGUtYWRiYWNjNWQzZGRjXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzU4MWViMDctZDQ0My00YjlkLWI1OGUtYWRiYWNjNWQzZGRjXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+        "uploadDate": "2022-01-21T20:45:30.432Z",
+        "url": "https://www.imdb.com/video/vi789889817/"
+    },
+    "url": "/title/tt0131566/"
+}

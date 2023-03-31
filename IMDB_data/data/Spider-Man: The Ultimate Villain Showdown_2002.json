@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dimitra Arliss",
+            "url": "/name/nm0035195/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sara Ballantine",
+            "url": "/name/nm0050547/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christopher Daniel Barnes",
+            "url": "/name/nm0055549/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 235,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "TV-Y7",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000779/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0294057/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0051941/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve Ditko",
+            "url": "/name/nm0228492/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Hoffmeier",
+            "url": "/name/nm0389280/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stan Lee",
+            "url": "/name/nm0498278/"
+        }
+    ],
+    "datePublished": "2002-08-11",
+    "description": "Featuring Green Goblin, Kingpin, and Dr. Octopus.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bob Richardson",
+            "url": "/name/nm0724436/"
+        }
+    ],
+    "duration": "PT1H19M",
+    "genre": [
+        "Animation",
+        "Action",
+        "Adventure"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZmUwY2ExY2ItY2EzNi00MDgyLTlkOTctMGIxZmE3Y2JlZWMwXkEyXkFqcGdeQXVyNjM2NTM3ODA@._V1_.jpg",
+    "keywords": "supernatural power,spiderweb,new york city,superhero action,superhero fantasy",
+    "name": "Spider-Man: The Ultimate Villain Showdown",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "disdressed12"
+        },
+        "dateCreated": "2007-10-31",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0499665/"
+        },
+        "name": "i was not very impressed",
+        "reviewBody": "(this review/comment is my own personal opinion)this DVD really disappointed me.firstly,i found it tediously slow and boring.i don't think it was fun at all,unlike the 1960's cartoon.maybe that was the whole point,but it doesn't work for me.the 1960's cartoon may have been cheesy all around,but it was fun to watch. and had great sound effects.but his particular movie has none of that.i also think the animation is lacklustre.if you are new to Spider-Man,the origin they showed on this feature is not completely in keeping with the mythology.i had to quit watching after about 30 minutes,when i couldn't take any more.for me,this movie is a 2/10 at best",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 2,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0499665/"
+}

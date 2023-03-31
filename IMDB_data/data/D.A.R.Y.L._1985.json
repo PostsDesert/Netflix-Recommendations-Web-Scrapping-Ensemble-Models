@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mary Beth Hurt",
+            "url": "/name/nm0002148/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael McKean",
+            "url": "/name/nm0571106/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kathryn Walker",
+            "url": "/name/nm0907923/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 13477,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0184077/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Ambrose",
+            "url": "/name/nm0024388/"
+        },
+        {
+            "@type": "Person",
+            "name": "Allan Scott",
+            "url": "/name/nm0778819/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeffrey Ellis",
+            "url": "/name/nm1521062/"
+        }
+    ],
+    "datePublished": "1985-06-14",
+    "description": "A seemingly normal young boy is found abandoned on a mountain road and adopted by a family who are increasingly amazed by his abilities before discovering the secret behind his real identity.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Simon Wincer",
+            "url": "/name/nm0934578/"
+        }
+    ],
+    "duration": "PT1H39M",
+    "genre": [
+        "Family",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjQzZTM3NDYtMzdmNS00MWM4LTliNTMtODE2YTAyYmZkM2VjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "young boy,robot,artificial intelligence,boy robot,helicopter",
+    "name": "D.A.R.Y.L.",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "carflo"
+        },
+        "dateCreated": "2003-11-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0088979/"
+        },
+        "name": "Fun and Enjoyable Family Movie",
+        "reviewBody": "I like this movie. It is exactly the type of movie that often makes me so irritated with the critics. I know that it is not a great movie and it doesn't pretend to be. But it is just the type of movie I enjoy watching after a difficult day at work. DARYL and his family and his neighbors are nice decent people. The villains are properly villainous. They humor is light and fun. (I especially like the part where DARYL's mom is telling her friend about all the things DARYL does, like make his bed and iron his cloths.) The ending is wonderful and hilarious. \n\nIf you haven't seen it please do. It is fun and enjoyable and it is an excellent family movie.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT1M32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2540682009",
+        "name": "D.A.R.Y.L.",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMWYyMTI5YzEtY2MyZC00YmU2LTlmNzQtZGM2MjNmZTE5ZWI4XkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMWYyMTI5YzEtY2MyZC00YmU2LTlmNzQtZGM2MjNmZTE5ZWI4XkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg",
+        "uploadDate": "2018-09-11T17:05:11.422Z",
+        "url": "https://www.imdb.com/video/vi2540682009/"
+    },
+    "url": "/title/tt0088979/"
+}

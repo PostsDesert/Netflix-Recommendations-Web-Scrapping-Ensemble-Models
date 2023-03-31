@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Cillian Murphy",
+            "url": "/name/nm0614165/"
+        },
+        {
+            "@type": "Person",
+            "name": "Naomie Harris",
+            "url": "/name/nm0365140/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christopher Eccleston",
+            "url": "/name/nm0001172/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 422349,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "alternateName": "28 Days Later",
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103974/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0104387/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alex Garland",
+            "url": "/name/nm0307497/"
+        }
+    ],
+    "datePublished": "2003-06-27",
+    "description": "Four weeks after a mysterious, incurable virus spreads throughout the UK, a handful of survivors try to find sanctuary.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Danny Boyle",
+            "url": "/name/nm0000965/"
+        }
+    ],
+    "duration": "PT1H53M",
+    "genre": [
+        "Drama",
+        "Horror",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTFkM2ViMmQtZmI5NS00MjQ2LWEyN2EtMTI1ZmNlZDU3MTZjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "keywords": "virus,military,laboratory,london england,epidemic",
+    "name": "28 Days Later...",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "tributarystu"
+        },
+        "dateCreated": "2003-09-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0289043/"
+        },
+        "name": "A Pint of Rage",
+        "reviewBody": "As it so happens, 28 Days Later is the best zombie movie in the last few decades. Probably since Romero's classics, if I recall accurately. It stands up on its own in a genre which is frequently plagued by a sort of innate stupidity, a consequence of one too many dead people. Otherwise how could one explain the fact that the most acclaimed zombie films are parodies of the genre? \n\n28 Days Later shares a striking resemblance with Resident Evil, in that it kind of starts where RE left off: after one of the most exciting intro sequences I have ever witnessed (!), a lonely average-Joe, (Jim in this particular case) wakes up in a deserted London and takes a jolly good walk through the intimidatingly empty streets. Man-kind seems to have been wiped out by a contagious virus which induces a sort of blind rage upon those who fall prey to it. As may have guessed by now, this will be a story of survival.\n\nWhile most horror films will offer a relatively exciting ride with little more than sparse scares, Danny Boyle's movie sheds a new light on the survival instinct of human beings which can damned well spook the living hell out of you - even if not in the traditional sense. Looking at Children of Men might offer some insight into what it feels like to have no future and this itself may clear the way to appreciating 28 Days Later.\n\nI guess it's one of those rare horror films which not only enlighten the viewer with nice, gory slaughters but also with a share of psychological goodies. 28 Days Later doesn't forget \"the Master\" either and offers an obvious and unobtrusive tribute to Dawn of the Dead. All around the movie keeps you going because it is an immersive experience and not just a \"poke-your-finger\" kind of experience.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from 20th Century Fox Home Entertainment",
+        "duration": "PT34S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4071817497",
+        "name": "Home Video Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzkzYjhjMGMtZDYxNC00YTI4LWI2MzctZmY4Mjg4YmUyYjRjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzkzYjhjMGMtZDYxNC00YTI4LWI2MzctZmY4Mjg4YmUyYjRjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T03:10:08Z",
+        "url": "https://www.imdb.com/video/vi4071817497/"
+    },
+    "url": "/title/tt0289043/"
+}

@@ -1,0 +1,67 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Britney Spears",
+            "url": "/name/nm0005453/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sarah Michelle Gellar",
+            "url": "/name/nm0001264/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brandon Henschel",
+            "url": "/name/nm0378063/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 315,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "datePublished": "2001-04-18",
+    "description": "Britney Spears live in Hawaii",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bruce Gowers",
+            "url": "/name/nm0332985/"
+        }
+    ],
+    "duration": "PT1H18M",
+    "genre": [
+        "Music",
+        "Musical"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTIzNDIyNzUyMF5BMl5BanBnXkFtZTcwODA0NDYxMQ@@._V1_.jpg",
+    "keywords": "oceania",
+    "name": "Britney Spears Live and More!",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Smells_Like_Cheese"
+        },
+        "dateCreated": "2005-02-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0298776/"
+        },
+        "name": "One of Britney's best!",
+        "reviewBody": "I'm not afraid to say it. I am a fan of Britney Spears. I must own her DVD's. I don't care what anyone says, everyone has to admit that Britney is an awesome performer. Her concert in Hawaii was amazing. This DVD includes not only her performance, but her music videos \"Oops! I did it again!\", \"Lucky\", and \"Stronger\". Some of her best work is in this video. Her SNL appearance was pretty funny. Even though SNL has gone down hill since the 80's. But we won't discuss that... I could go on. I really enjoyed this DVD and would recommend it to any true Britney fan. It's fun to watch and Britney will win you over with her terrific performance.\n\n10/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0298776/"
+}

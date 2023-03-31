@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Yuliya Vysotskaya",
+            "url": "/name/nm0904574/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sultan Islamov",
+            "url": "/name/nm1248407/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bryan Adams",
+            "url": "/name/nm0001898/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2857,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "alternateName": "House of Fools",
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0024879/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0065791/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0084232/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrey Konchalovskiy",
+            "url": "/name/nm0464846/"
+        }
+    ],
+    "datePublished": "2002-12-06",
+    "description": "In the midst of the Chechen War, a remote psychiatric institution is left without staff leaving the patients to fend for themselves. Based on a true story.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Andrey Konchalovskiy",
+            "url": "/name/nm0464846/"
+        }
+    ],
+    "duration": "PT1H44M",
+    "genre": [
+        "Drama",
+        "Music",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDFlYTRkOGMtMWQ1Yy00NWI2LWI3NzEtNDQ0MTg4MjQ0ZmY3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "falling down stairs in a wheelchair,patient,chechen,soldier,russia",
+    "name": "Dom durakov",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "sunman88"
+        },
+        "dateCreated": "2006-07-15",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0332605/"
+        },
+        "name": "Excellent movie; befitting our time",
+        "reviewBody": "I watched this movie on 7/14/06 with the Middle east ablaze and the Bush Administration still spouting their tired nonsense about democracy while Palestinians are slaughtered by the scores. Folks, the only language we, homosapiens, understand is force. Northern Ireland, Palestine, Chechnya and on and on. Might makes right and the rest is fluff. The movie is not so much, at least I don't think so, a commentary on the war on Chechnya as much as it is on human follies. For those of us who have known the wrath of a woman the scene after the newly-wed husband leaves and she stabs his pictures with a broken glass is so frontal-lobe. And then the silence when he returns! A master piece indeed! Perhaps the moral of the story is that might IS right and love insane! Enjoy.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Paramount Classics",
+        "duration": "PT2M",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4222419225",
+        "name": "House of Fools",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMGIzMjkxYTQtM2MzOS00ZTZhLWI5ZjYtODY3YzRjM2NhOTQwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMGIzMjkxYTQtM2MzOS00ZTZhLWI5ZjYtODY3YzRjM2NhOTQwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:28:16Z",
+        "url": "https://www.imdb.com/video/vi4222419225/"
+    },
+    "url": "/title/tt0332605/"
+}

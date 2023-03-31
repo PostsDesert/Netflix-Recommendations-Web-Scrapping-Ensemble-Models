@@ -1,0 +1,80 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Alex Del Rosario",
+            "url": "/name/nm0215843/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gandong Cervantes",
+            "url": "/name/nm0148886/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lawrence David",
+            "url": "/name/nm0202973/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 298,
+        "ratingValue": 5.5,
+        "worstRating": 1
+    },
+    "alternateName": "Midnight Dancers",
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0078973/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ricardo Lee",
+            "url": "/name/nm0498080/"
+        }
+    ],
+    "datePublished": "1995-09-28",
+    "description": "Three young and good-looking brothers live with and support their parents in Manila; they dance at the male Club Exotica and work as \"call boys.\" Joel has a wife and child; he and Dennis are saving money to buy back lost family la...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mel Chionglo",
+            "url": "/name/nm0158029/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQxMzMxNzcwN15BMl5BanBnXkFtZTcwNjE3NDYxMQ@@._V1_.jpg",
+    "keywords": "male prostitute,transgender woman,money,dancing,university",
+    "name": "Sibak",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "polmac"
+        },
+        "dateCreated": "2019-02-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0111180/"
+        },
+        "name": "Callboy Melodrama",
+        "reviewBody": "A refreshingly honest look at the life of 'gay for pay' hustlers in working class Manila. It's a tad melodramatic but entertaining - and rather erotic too.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0111180/"
+}

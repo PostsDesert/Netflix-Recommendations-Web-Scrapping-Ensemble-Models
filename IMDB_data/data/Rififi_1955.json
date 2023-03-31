@@ -1,0 +1,113 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jean Servais",
+            "url": "/name/nm0785771/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carl Möhner",
+            "url": "/name/nm0617846/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Manuel",
+            "url": "/name/nm0544275/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 35386,
+        "ratingValue": 8.1,
+        "worstRating": 1
+    },
+    "alternateName": "Rififi",
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0016449/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0064288/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0047571/"
+        },
+        {
+            "@type": "Person",
+            "name": "Auguste Le Breton",
+            "url": "/name/nm0494138/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jules Dassin",
+            "url": "/name/nm0202088/"
+        },
+        {
+            "@type": "Person",
+            "name": "René Wheeler",
+            "url": "/name/nm0923941/"
+        }
+    ],
+    "datePublished": "1956-06-05",
+    "description": "Four men plan a technically perfect crime, but the human element intervenes...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jules Dassin",
+            "url": "/name/nm0202088/"
+        }
+    ],
+    "duration": "PT1H58M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjk1NjBkN2ItZTI1Yi00NDcyLTkwN2ItZGQ3MWU1NzU0NjYwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "heist,robbery,burglar,reference to robbery of the sabine women,french noir",
+    "name": "Du rififi chez les hommes",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "SnoopyStyle"
+        },
+        "dateCreated": "2014-03-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0048021/"
+        },
+        "name": "Great heist film",
+        "reviewBody": "Tony le Stéphanois gets out early after 5 years in prison. He has a plan to rob the jewelry store Mappin & Webb with his friends Jo and the Italian Mario Ferrati. He finds his old girlfriend Mado who abandoned him for the gangster Louis Grutter. He viciously beats her. For the job, he wants to hit the safe and gets Cesar the Milanese. The heist goes off perfectly but that's not the end of it.\n\nIt's a French heist film with more realism. It is well done with good intense acting. The most interesting thing is how modern the movie is. The formula is well set now, but it was probably more groundbreaking back then. These are the modern anti-hero protagonists.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Rififi: Restoration",
+        "duration": "PT1M53S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3206461465",
+        "name": "Rififi: Restoration",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTdjYzE3NzctMTQ2Ny00MGFkLWJkNDEtYWQ3ZDkzNTk4MjdmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTdjYzE3NzctMTQ2Ny00MGFkLWJkNDEtYWQ3ZDkzNTk4MjdmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2018-03-21T18:23:31Z",
+        "url": "https://www.imdb.com/video/vi3206461465/"
+    },
+    "url": "/title/tt0048021/"
+}

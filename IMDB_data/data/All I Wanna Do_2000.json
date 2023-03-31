@@ -1,0 +1,55 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ania Bukstein",
+            "url": "/name/nm0119804/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sharon Strimban",
+            "url": "/name/nm13829882/"
+        },
+        {
+            "@type": "Person",
+            "name": "Moni Moshonov",
+            "url": "/name/nm0608701/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 25,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0017901/"
+        },
+        {
+            "@type": "Person",
+            "name": "Shiri Nevo Fridental",
+            "url": "/name/nm7399468/"
+        }
+    ],
+    "datePublished": "2022-09-08",
+    "description": "Reut, a young prosecutor, takes over a sexual assault case, based on the sole testimony of Efrat - a rebellious yet fragile victim, who lives with her wild female partner. Reut is reluctant, but as the trial progresses and Efrat c...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Shiri Nevo Fridental",
+            "url": "/name/nm7399468/"
+        }
+    ],
+    "duration": "PT1H27M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjVkODc5NDEtZThhZC00YjEwLTgwYzAtMGJjZGZjYTBiMjY2XkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1_.jpg",
+    "name": "All I Can Do",
+    "url": "/title/tt21238042/"
+}

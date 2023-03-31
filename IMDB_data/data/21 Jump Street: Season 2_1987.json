@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Johnny Depp",
+            "url": "/name/nm0000136/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dustin Nguyen",
+            "url": "/name/nm0629006/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter DeLuise",
+            "url": "/name/nm0217938/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 13296,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "TV-14",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0056447/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0083950/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0029026/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen J. Cannell",
+            "url": "/name/nm0004798/"
+        },
+        {
+            "@type": "Person",
+            "name": "Patrick Hasburgh",
+            "url": "/name/nm0367895/"
+        }
+    ],
+    "datePublished": "1987-04-12",
+    "description": "The cases of an undercover police unit composed of young-looking officers specializing in youth crime.",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzNiODUyYTQtNDg1Ni00OGQ5LWI5YWMtYWFhMTI1MjYyNmJjXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_.jpg",
+    "keywords": "youth culture,police officer,police captain,teenage boy,teenage girl",
+    "name": "21 Jump Street",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jacktravern"
+        },
+        "dateCreated": "2004-11-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0092312/"
+        },
+        "name": "One of the best shows of the 80's",
+        "reviewBody": "I recently bought the first season and this show is still as good as anything on television today if not better. Its been at least 10 years since I had seen an episode so it was like watching the show for the first time. Great theme song, great actors, and terrific scripts. If it wasn't for some of the 1980's hair and clothing, this show could be airing in prime time today without question. Its makes you want to go back to high school again and walk the halls with immunity because there's nothing that any gang or teacher can do to you. The only problem is even after watching the entire 1st season, I have no idea what town the show takes place in. Oh well, I truly hope that there are plans to release the rest of the seasons real soon."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "21 Jump Street: Season 5",
+        "duration": "PT1M",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2463284505",
+        "name": "21 Jump Street: Season 5",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNGYxZjM5NjQtYTA3Yy00OWVkLThjZWQtNTlkNGRmY2FkYzMzXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNGYxZjM5NjQtYTA3Yy00OWVkLThjZWQtNTlkNGRmY2FkYzMzXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2019-04-05T06:44:59.366Z",
+        "url": "https://www.imdb.com/video/vi2463284505/"
+    },
+    "url": "/title/tt0092312/"
+}

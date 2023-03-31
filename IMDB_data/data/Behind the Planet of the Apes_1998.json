@@ -1,0 +1,115 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Roddy McDowall",
+            "url": "/name/nm0001522/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mort Abrahams",
+            "url": "/name/nm0009025/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charlton Heston",
+            "url": "/name/nm0000032/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1767,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0040304/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0036884/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0010224/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brian Anthony",
+            "url": "/name/nm0030834/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Comtois",
+            "url": "/name/nm0174140/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kevin Burns",
+            "url": "/name/nm0122745/"
+        }
+    ],
+    "datePublished": "1998-09-06",
+    "description": "The story behind the making of the 5 \"Planet of the Apes\" movies.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Kevin Burns",
+            "url": "/name/nm0122745/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Comtois",
+            "url": "/name/nm0174140/"
+        }
+    ],
+    "duration": "PT2H7M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU3MzI3ODMwOV5BMl5BanBnXkFtZTcwMDUyOTIyMQ@@._V1_.jpg",
+    "keywords": "ape,planet of the apes,behind the scenes,psychotronic film,interview",
+    "name": "Behind the Planet of the Apes",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Red-Barracuda"
+        },
+        "dateCreated": "2013-06-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0207332/"
+        },
+        "name": "Lengthy and detailed look at the Apes phenomena",
+        "reviewBody": "This informative documentary looks at the Planet of the Apes franchise in some detail. It covers all five movies, the short-lived TV series and even the kids cartoon. It's a pretty lengthy documentary clocking in at over two hours, although this allows it to cover a lot of ground. The first half looks at the first film, including the difficulties involved in convincing the studio to bring it to the screen. The second half details the subsequent sequels, etc. It is a very informative film but it will admittedly appeal mainly to fans of the series. It isn't really the most critical of docs it has to be admitted. It looks mostly favourably on everything, even though some of the later films weren't especially well received. Nevertheless, it does hone in on what made each instalment different.\n\nLooking back on it, Planet of the Apes was the true precursor to Star Wars with its sequels and focus on tie-in merchandise – toy figures, mugs, games, bins, you name it. It was interesting to see how similar this model was to the subsequent Star Wars one. Admittedly one considerable difference was the fact that the Apes films were reduced in budget every time, leading to the final film Battle for the Planet of the Apes appearing more like a minor skirmish. This progression in the development of the series was interesting though and I have to say that overall it made me want to re-watch them.\n\nIt was presented by the ideal man in Roddy McDowell who appeared in almost all Apes-related stuff. It takes the form of the talking-heads format and so we get interesting input from a number of people involved in the franchise. We also get to see how the first film differed from the novel and understand why it ended up looking the way it did. There was one priceless sequence that showed early test footage, which was effectively a make-or-break moment for the first film. It ultimately convinced the studio execs that the make-up would work and led to the green light being given, however, it's interesting to see how different and primitive the make-up here is in comparison to what would be in the finished movie. There is also a fair amount of fascinating behind the scenes footage and some bits of entertaining chat, such as the way that the orang-utans, gorillas and chimpanzees ended up hanging out together at lunch for no obvious reason but probably an interesting subconscious psychological one.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from 20th Century Fox Home Entertainment",
+        "duration": "PT2M15S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3518562585",
+        "name": "Behind The Planet of the Apes",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjJlZGFkM2ItZTM4ZC00M2YxLTg5OGQtMjY2MmUzZGM3NzY3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjJlZGFkM2ItZTM4ZC00M2YxLTg5OGQtMjY2MmUzZGM3NzY3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:29:33Z",
+        "url": "https://www.imdb.com/video/vi3518562585/"
+    },
+    "url": "/title/tt0207332/"
+}

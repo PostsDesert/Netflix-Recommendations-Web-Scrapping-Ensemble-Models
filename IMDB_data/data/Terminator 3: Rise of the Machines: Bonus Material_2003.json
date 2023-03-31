@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Arnold Schwarzenegger",
+            "url": "/name/nm0000216/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nick Stahl",
+            "url": "/name/nm0001763/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kristanna Loken",
+            "url": "/name/nm0518085/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 405736,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0066021/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0010183/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0109128/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Brancato",
+            "url": "/name/nm0104335/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Ferris",
+            "url": "/name/nm0274905/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tedi Sarafian",
+            "url": "/name/nm0093328/"
+        }
+    ],
+    "datePublished": "2003-07-02",
+    "description": "A machine from a post-apocalyptic future travels back in time to protect a man and a woman from an advanced robotic assassin to ensure they both survive a nuclear attack.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jonathan Mostow",
+            "url": "/name/nm0609236/"
+        }
+    ],
+    "duration": "PT1H49M",
+    "genre": [
+        "Action",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk5NzM1ODgyN15BMl5BanBnXkFtZTcwMzA5MjAzMw@@._V1_.jpg",
+    "keywords": "time travel,skynet,humanoid cyborg,exploding truck,nuclear launch",
+    "name": "Terminator 3: Rise of the Machines",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "RoxanneAndorfer"
+        },
+        "dateCreated": "2003-07-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0181852/"
+        },
+        "name": "The more I think about this movie, the more it grows on me.",
+        "reviewBody": "I didn't go to see this movie with very high expectations, because it has gotten such varied and sometimes disparaging reviews this forum. However, since I am an aspiring screenwriter and true cinema fan rather than simply a moviegoer, I decided to give this movie the benefit of the doubt. At the very least, I could end up writing a scathing attack on it.\n\nInstead, I have found that I enjoyed the movie as I watched it, saw some flaws, but have discovered that the more I think about it, the more I want to give it a higher rating than I initially did (7). The film's two major dramatic flaws, in my opinion, are: (1) An over-the-top chase scene that comes way too early in the script without sufficient build-up in suspense leading up to it; (2) A little too much campy humor recycled from the first two Terminator movies.\n\nThe good outweighs the bad by a large margin. (1) The screenplay has some intriguing plot subtleties that grow on me after awhile, the most notable of which is the actual nature of the safe place. It could be the way it is for several possible reasons, some strategically favoring SkyNet, some the humans. Any of them could be spun into a major plot element for a sequel. The rest you'll just have to find yourself. (2) The character development of both John Connor and Kate Brewster is elegant, believable and moving, and also opens possibilities for future character development. (3) The plot is an interesting variation of the \"Reluctant Hero\" theme, which is a classic in literature and drama and always will be. John Connor is a hero who is almost an anti-hero. True, they could have sharpened his ambivalence a little (sacrificing some chase footage for it would have been an excellent trade, in my opinion). (4) The Terminatrix is a very good villain: She's young, she's sexy, and she's chillingly soulless. She is actually too smoothly sexy and physically perfect, but that makes sense when you consider that she has been created and programmed by other machines who, lacking the real-world experience of humans, can only base her appearance and humanoid behavior on their knowledge of human stereotypes.\n\nThat last leads me to some thoughts about Arnie's character. He is clearly getting a little too old for a reprise of his customary youthful, physically perfect role in any sequel. If he is brought back in a sequel - and I hope he is - a good, imaginative screenwriter could really work with his advancing age and loss of physical perfection. Since he is programmed by humans with real human experience, he could be brought back as a deceptively older and less physically powerful character, but more psychologically sophisticated (more like a true human with a soul), and his deceptive physical appearance combined with his greater psychological sophistication could be his aces in the hole when his strength and nonhuman cyborg qualities are insufficient. In other words, he could be shaped into an amazing supporting hero in any sequel. Maybe I could write his role!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2056585497",
+        "name": "Terminator 3: Rise of the Machines",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTk1OGM3YTctZDhmYy00Y2IwLWExMDgtMDA2Mzg4MWM0YWFkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTk1OGM3YTctZDhmYy00Y2IwLWExMDgtMDA2Mzg4MWM0YWFkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:57:44Z",
+        "url": "https://www.imdb.com/video/vi2056585497/"
+    },
+    "url": "/title/tt0181852/"
+}

@@ -1,0 +1,96 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sinbad",
+            "url": "/name/nm0005435/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brock Pierce",
+            "url": "/name/nm0682302/"
+        },
+        {
+            "@type": "Person",
+            "name": "Blake Boyd",
+            "url": "/name/nm0101711/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 11176,
+        "ratingValue": 5.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0072626/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0008970/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tim Kelleher",
+            "url": "/name/nm0445552/"
+        }
+    ],
+    "datePublished": "1996-08-30",
+    "description": "A former boxer turned Secret Service agent is assigned to protect the President's son, who seems determined to make life difficult for his new protector.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David Mickey Evans",
+            "url": "/name/nm0262693/"
+        }
+    ],
+    "duration": "PT1H41M",
+    "genre": [
+        "Comedy",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNmM1ZjAzODMtMjQ3NS00NmQ4LWI4OWMtYzk4ZWM4MGY2ZDcxXkEyXkFqcGdeQXVyNjc4ODQwNzg@._V1_.jpg",
+    "keywords": "secret service agent,kidnapping,president,first son,secret service",
+    "name": "First Kid",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "r96sk"
+        },
+        "dateCreated": "2020-10-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0116311/"
+        },
+        "name": "The plot is what lets this down",
+        "reviewBody": "My expectations for 'First Kid' were very low, in that regard it's actually marginally better than I thought it would be. Still, it's a film I most certainly wouldn't recommend.\n\nSinbad gives the most noteworthy performance of the cast, in his role as Simms. Even so, it isn't anything great or memorable from him. All of the others aren't worth mentioning, though it is cool to see Rafiki himself, Robert Guillaume, make an appearance - I didn't actually know what he looked like before watching, but in one of his early scenes he laughs and I knew instantly it was that man.\n\nThe plot is what lets this down. Just a quick glance at the cover gives off negative vibes, while the opening few scenes don't give you any more confidence either. It's extremely predictable, as well as being rather messy - you don't see the villain until the final 20-25 minutes, so are waiting for around 70mins for the obvious to come to fruition.\n\nI've seen worse from live-action Disney, but it's still a poor attempt from the studio.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M5S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2626271769",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BN2Y3NmI4Y2YtMTBkYS00MGI1LWI4MTItMjBjYzI1NTQ5ZjVlXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BN2Y3NmI4Y2YtMTBkYS00MGI1LWI4MTItMjBjYzI1NTQ5ZjVlXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+        "uploadDate": "2018-10-29T19:38:23.727Z",
+        "url": "https://www.imdb.com/video/vi2626271769/"
+    },
+    "url": "/title/tt0116311/"
+}

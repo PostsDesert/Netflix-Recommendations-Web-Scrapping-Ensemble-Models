@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bob West",
+            "url": "/name/nm0921946/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Joyner",
+            "url": "/name/nm0431645/"
+        },
+        {
+            "@type": "Person",
+            "name": "Julie Johnson",
+            "url": "/name/nm0425461/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 117,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0106874/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark S. Bernthal",
+            "url": "/name/nm1415022/"
+        },
+        {
+            "@type": "Person",
+            "name": "Donna Cooner",
+            "url": "/name/nm10483497/"
+        },
+        {
+            "@type": "Person",
+            "name": "Perri Verdino-Gates",
+            "url": "/name/nm2414625/"
+        }
+    ],
+    "description": "Compilation video of Barney songs & skits",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Fred Holmes",
+            "url": "/name/nm0391828/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alexander Laughton",
+            "url": "/name/nm2222801/"
+        }
+    ],
+    "duration": "PT55M",
+    "genre": [
+        "Family",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTIzMzAyMDAxOF5BMl5BanBnXkFtZTcwMTAxOTIyMQ@@._V1_.jpg",
+    "keywords": "1990s,barney the dinosaur,song,tyrannosaurus rex,surrealism",
+    "name": "More Barney Songs",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jlangbert"
+        },
+        "dateCreated": "2003-08-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0243424/"
+        },
+        "name": "Not as Grating as Most of the Other Barneys",
+        "reviewBody": "The songs on this one aren't as annoying as on some of the others. The trick to Barney is to have lots of them. We have this one in English and Spanish. And it allows you to immediately start the video -- some of the others don't and that's a big minus when the kids are crying. For example, Bob the Builder has what seems like two hours of forced previews. I threw that DVD out.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from HIT Entertainment",
+        "duration": "PT1M7S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi527479833",
+        "name": "More Barney Songs",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTQ5MjJiNTktNGZiMC00MTMyLTk4MDUtOTIxYjM4YmZhY2RlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTQ5MjJiNTktNGZiMC00MTMyLTk4MDUtOTIxYjM4YmZhY2RlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2016-06-03T21:44:53Z",
+        "url": "https://www.imdb.com/video/vi527479833/"
+    },
+    "url": "/title/tt0243424/"
+}

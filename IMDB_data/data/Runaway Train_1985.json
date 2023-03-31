@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jon Voight",
+            "url": "/name/nm0000685/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eric Roberts",
+            "url": "/name/nm0000616/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rebecca De Mornay",
+            "url": "/name/nm0000360/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 30706,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0206391/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0005986/"
+        },
+        {
+            "@type": "Person",
+            "name": "Akira Kurosawa",
+            "url": "/name/nm0000041/"
+        },
+        {
+            "@type": "Person",
+            "name": "Djordje Milicevic",
+            "url": "/name/nm0587429/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Zindel",
+            "url": "/name/nm0956928/"
+        }
+    ],
+    "datePublished": "1986-01-17",
+    "description": "Two escaped convicts and a female railway worker find themselves trapped on a speeding train with no brakes and nobody driving.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Andrey Konchalovskiy",
+            "url": "/name/nm0464846/"
+        }
+    ],
+    "duration": "PT1H51M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODQyYWU1NGUtNjEzYS00YmNhLTk1YWEtZDdlZGQzMTI4MTI1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "alaska,snow adventure,train,prisoner,freight train",
+    "name": "Runaway Train",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "hitchcockthelegend"
+        },
+        "dateCreated": "2009-11-22",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0089941/"
+        },
+        "name": "Win, lose, what's the difference?",
+        "reviewBody": "Based around a screenplay written by the legendary Akira Kurosawa, Runaway Train simultaneously follows three threads. The escape of two prisoners, Manny & Buck, who jump on a train only to find that the driver has a heart attack, thus it speeds out of control. Then there is the efforts of the train dispatching office to try and safely stop the out-of-control train. And also there's the hunt by the sadistic prison warden who is hellbent on recapturing the fleeing convicts.\n\nRelentless and engrossing action film from start to finish, Runaway Train boasts two Oscar nominated performances from John Voight {Manny} and Eric Roberts {Buck} and no little intelligence with its well scripted characters. The opening quarter is pretty stock routine prison fare, these guys are tough, the warden is a bastard and we just know they are going to escape. But once the guys board the train the whole film shifts in gear and tone. The dynamic that exists between Manny & Buck, partners but very different in life approach, is riveting stuff courtesy of the nifty dialogue exchanges. Things are further enhanced by the appearance of Rebecca DeMornay's also stranded railway worker, Sara, who far from being a shoe-horned token female character, is the crucial piece of the emotional jigsaw. He presence gives the guys room to exorcise their demons and pour out their feelings of anger, bravado and mistrust.\n\nThe action scenes are very well handled by director Andrei Konchalovsky and his crew. As the train hurtles thru the snowy Alaskan wilderness we are treated to a number of crash bang wallops involving the train itself; derring-do from our boys on the icy outside of the locomotive, and a helicopter pursuit chartered by the obsessed John P. Ryan as Warden Ranken particularly stand out. Bona fide action sequences that are executed skilfully. Then we get to the finale, a finale pumped up for emotional impact, both visually and orally it closes the film justly. We even get time for a bit of Will Shakespeare as we go about reflecting on what we have just witnessed. A fine movie it be. 7.5/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from MGM/UA",
+        "duration": "PT2M37S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2946762009",
+        "name": "Runaway Train",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYTIyNWIyYTYtNzgzMC00YTZkLTkzZWQtMDk0NjUyNjM5YTkzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTIyNWIyYTYtNzgzMC00YTZkLTkzZWQtMDk0NjUyNjM5YTkzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-10-31T05:25:37Z",
+        "url": "https://www.imdb.com/video/vi2946762009/"
+    },
+    "url": "/title/tt0089941/"
+}

@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Patrick Muldoon",
+            "url": "/name/nm0005258/"
+        },
+        {
+            "@type": "Person",
+            "name": "Theresa Russell",
+            "url": "/name/nm0000622/"
+        },
+        {
+            "@type": "Person",
+            "name": "Curtis Armstrong",
+            "url": "/name/nm0035664/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 644,
+        "ratingValue": 3.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0017447/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0002667/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0048855/"
+        },
+        {
+            "@type": "Person",
+            "name": "Curtis Joseph",
+            "url": "/name/nm1140271/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Mason",
+            "url": "/name/nm1135028/"
+        }
+    ],
+    "datePublished": "2002-04-20",
+    "description": "A space shuttle crashes containing a lethal prototype organism designed to survive in any environment. The only people who can stop the creature are the Secretary of Defense agent and the female scientist who created it.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jim Wynorski",
+            "url": "/name/nm0691061/"
+        }
+    ],
+    "duration": "PT1H25M",
+    "genre": [
+        "Action",
+        "Horror",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk5MjkxNzk4OV5BMl5BanBnXkFtZTcwMjk1MTIyMQ@@._V1_.jpg",
+    "keywords": "outer space,shootout,exploding car,jail,conspiracy",
+    "name": "Project Viper",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "MartianOctocretr5"
+        },
+        "dateCreated": "2006-07-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0310024/"
+        },
+        "name": "Utterly silly and formulaic",
+        "reviewBody": "Viper is a man-made monster bred by some evil government agency, which is engaged in sinister covert operations etc., etc., you know the drill. Needless to say, the creature gets loose and starts feeding on people, starting with the ones who have few or no speaking lines, later going after credited cast members.\n\nPatrick Muldoon as a government cop who beats up a lot of dudes, is one of the most annoying actors I've ever seen. I was rooting for Viper to hunt him down and shut him up. A scientist, played by pretty Teresa Russel, tries to help the obnoxious cop catch the thing before it eats everybody. She at least tries to act, but her lines are scatterbrained and more like a teen in a zombie flick, rather than a scientist.\n\nThe plot is deranged. The actions of the creature follow no consistent pattern; it does what is needed in any given situation. Sometimes it oozes on to its victim, killing slowly and discreetly, other times it smashes things down to get to its prey. Sometimes it chases people, other times it magically appears out of the ground and seizes them. Sometimes it's looking for water to survive, other times it's trying to sniff out radiation for its sustenance. Sometimes bullets hurt it, some time they don't. Some times it feels like a nut, sometimes it don't.\n\nCorny and ridiculous from end to end, but possessing a so-bad-it's-good personality. It actually is an OK watch, just for the non-stop goofiness and action.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 4,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0310024/"
+}

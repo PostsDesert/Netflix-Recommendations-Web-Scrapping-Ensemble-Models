@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kevin Bacon",
+            "url": "/name/nm0000102/"
+        },
+        {
+            "@type": "Person",
+            "name": "Elisabeth Shue",
+            "url": "/name/nm0000223/"
+        },
+        {
+            "@type": "Person",
+            "name": "Josh Brolin",
+            "url": "/name/nm0000982/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 133769,
+        "ratingValue": 5.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0012600/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gary Scott Thompson",
+            "url": "/name/nm0860155/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrew W. Marlowe",
+            "url": "/name/nm0549256/"
+        }
+    ],
+    "datePublished": "2000-08-04",
+    "description": "A brilliant scientist's discovery renders him invisible, but transforms him into an omnipotent, dangerous megalomaniac.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Paul Verhoeven",
+            "url": "/name/nm0000682/"
+        }
+    ],
+    "duration": "PT1H52M",
+    "genre": [
+        "Action",
+        "Horror",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMmFjMzY0ZjgtMjZhOC00MTRlLWEyM2EtYjBhOGVlMTQ0MTgzXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "invisible man,experiment,breasts,rape,nudity",
+    "name": "Hollow Man",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "AlsExGal"
+        },
+        "dateCreated": "2018-12-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0164052/"
+        },
+        "name": "A great sci-fi horror action film",
+        "reviewBody": "Some viewers complain \"this is not scary\". Well, no, not in the way that a typical horror film is scary. Instead, this is more of a psychological thriller. If you remember the 1933 Universal film \"The Invisible Man\", you only meet the Invisible man after he has already gone insane. What happened before? This film is more about what could have happened beforehand, although the film only takes the basic idea and sets everything in present day.\n\nSebastian Caine (Kevin Bacon) is a brilliant scientist who, unfortunately, is not independently wealthy. Thus he relies on the military for his funding. He manages to make a gorilla invisible then visible again with serums he has invented with said funding, but then lies to the oversight committee about his progress, although this threatens to shut his project down. He convinces two of his team members -Linda McKay (Elizabeth Shue) and Matt Kensington (Josh Brolin) - to go straight to human testing without telling the oversight committee or informing the other team members that they are going rogue. Sebastian says he will be the human test subject.\n\nNow Sebastian is a bit of a creep to begin with . He was formerly involved with McKay, but they broke up and now - unknown to Sebastian - she is seeing Matt. But Sebastian has now become obsessed with McKay once again. So the team makes Sebastian invisible but attempts to make him visible again fail repeatedly. Sebastian goes from at first playing pranks on the team members using his power of invisibility, to growing increasingly agitated, angry, and violent as he is trapped in this invisible state and feels like a lab rat. What makes him lose it completely is when he finds out about Linda and Matt's involvement. Even before he loses it completely, though, he has been taking to the streets and doing some increasingly evil things given that he cannot be seen and therefore be held responsible.\n\nThe concluding half hour is lots of edge-of-your-seat suspense, is somewhat Die-Hardish, and then parts of it are just plain gross. The film makes good use of special effects, especially when Sebastian is transforming between being visible and invisible. Unlike today's films, though, the special effects are used to accentuate the story, not replace it. I'd highly recommend this one and do not understand the current low rating.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Hollow Man",
+        "duration": "PT2M24S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi828351513",
+        "name": "Hollow Man",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTc4MDhlZDYtOGE4NC00YmI5LThmZjktNWVjZDgwMGI0YzE4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTc4MDhlZDYtOGE4NC00YmI5LThmZjktNWVjZDgwMGI0YzE4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2012-11-02T03:16:08Z",
+        "url": "https://www.imdb.com/video/vi828351513/"
+    },
+    "url": "/title/tt0164052/"
+}

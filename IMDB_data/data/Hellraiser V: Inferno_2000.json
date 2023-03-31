@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Odessa A’zion",
+            "url": "/name/nm5570560/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jamie Clayton",
+            "url": "/name/nm3911870/"
+        },
+        {
+            "@type": "Person",
+            "name": "Adam Faison",
+            "url": "/name/nm7606991/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 39420,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0781821/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0858831/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0189844/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ben Collins",
+            "url": "/name/nm2049126/"
+        },
+        {
+            "@type": "Person",
+            "name": "Luke Piotrowski",
+            "url": "/name/nm2431095/"
+        },
+        {
+            "@type": "Person",
+            "name": "David S. Goyer",
+            "url": "/name/nm0275286/"
+        }
+    ],
+    "datePublished": "2022-10-07",
+    "description": "A take on Clive Barker's 1987 horror classic where a young woman struggling with addiction comes into possession of an ancient puzzle box, unaware that its purpose is to summon the Cenobites.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David Bruckner",
+            "url": "/name/nm1410159/"
+        }
+    ],
+    "duration": "PT2H1M",
+    "genre": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYWM1YTgxNjMtNzY2NC00YjVmLWE1ODUtNTdiYTI4YjZhODMwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+    "keywords": "puzzle,demon,reboot,puzzle box,gore",
+    "name": "Hellraiser",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "room102"
+        },
+        "dateCreated": "2022-10-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0887261/"
+        },
+        "name": "Total Failure",
+        "reviewBody": "I guess one should appreciate the fact that they didn't try to make a scene-by-scene remake of the original but that's about the only positive thing I have to say about this movie because it's a total failure.\n\nThe plot has nothing to do with the original movie. It's basically yet another sequel, with Pinhead replaced (again) by a new actor (this time an actress).\n\nThe first half of the movie is a borefest and the second half is just a mess. All the atmosphere of the original movie is just gone. Cinematography is basic and there is almost lack of music (except for hints and tiny cues of Christopher Young's original and superb score). The Cenobites are simple, non-scary and appear like a cheap TV movie.\n\nThe pacing is just awful and the plot is boring. By the time Pinhead finally appears - after more than an hour into the movie - I was already bored and from there it just got worse and I couldn't wait for it to be over.\n\nI have no idea why people praise this movie so much. For me it was yet another failed and boring sequel.\n\nDon't waste your time on this. Better rewatch the original or the first sequel instead.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 3,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "In this reimagining of Clive Barker's seminal Hellraiser franchise, a young woman must confront the sadistic, supernatural forces behind an enigmatic puzzlebox responsible for her brother's disappearance.",
+        "duration": "PT1M50S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4016030233",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjgwNGE4ZWItYmIyZS00Mzk2LWI2YmUtNDAzMDg5OWQ2NGRiXkEyXkFqcGdeQWFybm8@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjgwNGE4ZWItYmIyZS00Mzk2LWI2YmUtNDAzMDg5OWQ2NGRiXkEyXkFqcGdeQWFybm8@._V1_.jpg",
+        "uploadDate": "2022-09-20T16:20:15.928Z",
+        "url": "https://www.imdb.com/video/vi4016030233/"
+    },
+    "url": "/title/tt0887261/"
+}

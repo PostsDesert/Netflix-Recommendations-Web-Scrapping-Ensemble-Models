@@ -1,0 +1,94 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Shah Rukh Khan",
+            "url": "/name/nm0451321/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kajol",
+            "url": "/name/nm0004418/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rani Mukerji",
+            "url": "/name/nm0611552/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 54251,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0078768/"
+        },
+        {
+            "@type": "Person",
+            "name": "Karan Johar",
+            "url": "/name/nm0424103/"
+        }
+    ],
+    "datePublished": "1998-10-16",
+    "description": "During their college years, Anjali was in love with her best-friend Rahul, but he had eyes only for Tina. Years later, Rahul and the now-deceased Tina's eight-year-old daughter attempts to reunite her father and Anjali.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Karan Johar",
+            "url": "/name/nm0424103/"
+        }
+    ],
+    "duration": "PT2H57M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Musical"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNGNhNWMwNTgtZmNlOS00OGM3LWIxYzItOWQwZDJjMzQ3MzRlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+    "keywords": "best friend,tomboy,principal,male female relationship,heartbreak",
+    "name": "Kuch Kuch Hota Hai",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Kingslaay"
+        },
+        "dateCreated": "2017-04-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0172684/"
+        },
+        "name": "Kuch Kuch takes Indian Cinema to new heights",
+        "reviewBody": "Kuch Kuch Hota Hai is a beautifully directed and well made film. For the first time we see love triangles to drive the story. The film was unique in not having violence or a villain and guess what it worked beautifully and wasn't needed. A first for Indian Cinema that is used to applying the same techniques and formula. The plot, cast and songs are exceptional. Everyone hits it out of the park.\n\nThis was Karan Johar's film debut and took the film world by storm with this well made film. Beside having a meaningful love story, it ended well and gave a lot of closure to the audience. The humor also pours out easily as does the drama, the film alternates well between these two. We see a great love story that was meant to be and learn of noble characters who make decisions for the greater good. \n\nThe theme is simply iconic, I will be bold and go as far to say it is as significant in Indian Cinema as Titanic was in Hollywood.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "During their college years, Anjali was in love with her best-friend Rahul, but he had eyes only for Tina. Years later, Rahul and the now-deceased Tina's eight-year-old daughter attempts to reunite her father and Anjali.",
+        "duration": "PT33S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2090842905",
+        "name": "Kuch Kuch Hota Hai trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BN2YxNTY1NDUtOGUwNy00Y2I0LWI1MjQtMjFlMDgzYzczZDQxXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BN2YxNTY1NDUtOGUwNy00Y2I0LWI1MjQtMjFlMDgzYzczZDQxXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+        "uploadDate": "2018-06-07T05:38:46Z",
+        "url": "https://www.imdb.com/video/vi2090842905/"
+    },
+    "url": "/title/tt0172684/"
+}

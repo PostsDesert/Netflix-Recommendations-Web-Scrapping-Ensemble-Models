@@ -1,0 +1,90 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Cher",
+            "url": "/name/nm0000333/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sally Field",
+            "url": "/name/nm0000398/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jodie Foster",
+            "url": "/name/nm0000149/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 667,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0017295/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0017904/"
+        },
+        {
+            "@type": "Person",
+            "name": "Fred A. Rappoport",
+            "url": "/name/nm0710936/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marty Farrell",
+            "url": "/name/nm0268279/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gary Smith",
+            "url": "/name/nm0808278/"
+        }
+    ],
+    "datePublished": "1998-06-16",
+    "description": "The American Film Institute commemorates the first century of American films with this awesome made-for-TV special highlighting the greatest 100 American movies as determined by leaders in the moviemaking business right here in th...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Gary Smith",
+            "url": "/name/nm0808278/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dann Netter",
+            "url": "/name/nm0626692/"
+        }
+    ],
+    "duration": "PT2H18M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk2MTcwNTIwOV5BMl5BanBnXkFtZTcwODA3MzkxMQ@@._V1_.jpg",
+    "keywords": "american film institute,film history",
+    "name": "AFI's 100 Years... 100 Movies: America's Greatest Movies",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "karen-128"
+        },
+        "dateCreated": "2001-07-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0192952/"
+        },
+        "name": "Glossy!",
+        "reviewBody": "And that can be good and bad. This is one of those 'best of!' tv shows that ends up skipping over a LOT of great films, and interviewing people- David Copperfield!?- who really aren't even in the film business. But, it does offer glimpses of Woody Allen and Clint Eastwood and some of those greats, so I guess it's got some credibility. I just got a little bored by it after a while."
+    },
+    "url": "/title/tt0192952/"
+}

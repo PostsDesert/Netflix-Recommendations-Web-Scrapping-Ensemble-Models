@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Richard Gere",
+            "url": "/name/nm0000152/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jennifer Lopez",
+            "url": "/name/nm0000182/"
+        },
+        {
+            "@type": "Person",
+            "name": "Susan Sarandon",
+            "url": "/name/nm0000215/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 48026,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "alternateName": "Shall We Dance",
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0022594/"
+        },
+        {
+            "@type": "Person",
+            "name": "Masayuki Suô",
+            "url": "/name/nm0839397/"
+        },
+        {
+            "@type": "Person",
+            "name": "Audrey Wells",
+            "url": "/name/nm0920108/"
+        }
+    ],
+    "datePublished": "2004-10-15",
+    "description": "A romantic comedy where a bored, overworked Estate Lawyer, upon first sight of a beautiful instructor, signs up for ballroom dancing lessons.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Peter Chelsom",
+            "url": "/name/nm0155093/"
+        }
+    ],
+    "duration": "PT1H46M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTcwODUwMTMxN15BMl5BanBnXkFtZTcwNzc3MjcyMQ@@._V1_.jpg",
+    "keywords": "dance instructor,2000s,dance class,middle aged couple,middle aged man",
+    "name": "Shall We Dance?",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "SimonJack"
+        },
+        "dateCreated": "2017-01-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0358135/"
+        },
+        "name": "Enjoyable film just for the lessons and dancing",
+        "reviewBody": "Miramax made this film after a 1996 Japanese movie of the same title became a huge hit. But this film doesn't have the aura of cultural nonacceptance that the Japanese film had Without that, Richard Gere's John Clark is not so stigmatized to have to hide his taking dance lessons. Of course, he does, but It seems almost awkward and even contrived at times. We know that his wife, Beverly (Susan Sarandon) would not be shocked to find out that he is taking ballroom dancing lessons. Nor would his coworkers. So, it comes across somewhat in this movie as though he doesn't want to advertise it because it's not the male or macho think for a man to do. As I said, it seems implied that way. \n\nOther than that, I think the characters all are good and probably had much fun making this movie. Paulina's character (Jennifer Lopez) may be just a little overboard. She comes on too strong in her dancing, for what she has experienced. The Japanese actress in that film, emoted a sense of emptiness and loss for her experience. And through the duration of the events there, she gradually recovered. \n\nThis film is fun to watch, even if some of the plot is a little hokey. It's nothing special but most people should enjoy it.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT1M48S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi802201113",
+        "name": "Shall We Dance?",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMmYzMzZmNmItZWI3Yy00NTg5LTkzNTgtZGY3YTE3YWUxN2Y4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMmYzMzZmNmItZWI3Yy00NTg5LTkzNTgtZGY3YTE3YWUxN2Y4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-10-26T03:45:19Z",
+        "url": "https://www.imdb.com/video/vi802201113/"
+    },
+    "url": "/title/tt0358135/"
+}

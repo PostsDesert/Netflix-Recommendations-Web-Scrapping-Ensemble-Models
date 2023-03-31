@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jeff Bridges",
+            "url": "/name/nm0000313/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michelle Pfeiffer",
+            "url": "/name/nm0000201/"
+        },
+        {
+            "@type": "Person",
+            "name": "Beau Bridges",
+            "url": "/name/nm0000977/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 24759,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0037323/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0054882/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0020821/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve Kloves",
+            "url": "/name/nm0460141/"
+        }
+    ],
+    "datePublished": "1989-10-13",
+    "description": "The lives of two struggling musicians, who happen to be brothers, inevitably change when they team up with a beautiful, up-and-coming singer.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Steve Kloves",
+            "url": "/name/nm0460141/"
+        }
+    ],
+    "duration": "PT1H54M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZDVlOTY2NGYtMmZmZS00MzdmLWE0ZGEtZGExODMxZmY5MzhkXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "audition,hotel,red dress,dog,nightclub",
+    "name": "The Fabulous Baker Boys",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bkoganbing"
+        },
+        "dateCreated": "2012-05-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0097322/"
+        },
+        "name": "The Sons Of Bridges",
+        "reviewBody": "Beau and Jeff Bridges, the sons of Lloyd Bridges really developed their careers apart from each other. Neither piggybacked on the other's success and while their father's name might have opened a door or two, Beau and Jeff never piggybacked on him either.\n\nWhen they did a joint project each had a well respected career. The Fabulous Baker Boys is about a pair of musician brothers who have a double piano act, something like Ohman&Arden from the Thirties or Jose and Ampara Iturbi, brother and sister in a more classical vein. But they're not anything as successful as the examples I mentioned. They eke out an existence in the clubs in Seattle trying to scratch a living at what they love.\n\nBeau takes a lot of guff to keep them employed as he's married with children and Jeff puts up with nothing. To liven up the act they decide a sexy girl singer is what they need and after some dismal candidates they find Michelle Pheiffer. But Michelle dishes out her own brand of guff and she causes The Fabulous Baker Boys to reexamine themselves and their lives.\n\nPheiffer got a Best Actress nomination one of four categories of Oscar nominations the film received. She dominates the film when she's on and not through sheer beauty. It was a well deserved performance, I love the scenes when she cuts Jeff Bridges down to size. She isn't easy on Beau either.\n\nLots of the kind of music I like, vocal and instrumental, is found in The Fabulous Baker Boys. That's a guarantee right there I would enjoy the film.\n\nIt's only too bad that Beau and Jeff could not work their father into this one.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Extra (Clip) from Live Entertainment",
+        "duration": "PT1M34S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1804337433",
+        "name": "The Fabulous Baker Boys",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDAyNzZmZGUtODYwNi00ZjUzLWE2NjgtMGEwMGIxMjk2NTFmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDAyNzZmZGUtODYwNi00ZjUzLWE2NjgtMGEwMGIxMjk2NTFmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:20:55Z",
+        "url": "https://www.imdb.com/video/vi1804337433/"
+    },
+    "url": "/title/tt0097322/"
+}

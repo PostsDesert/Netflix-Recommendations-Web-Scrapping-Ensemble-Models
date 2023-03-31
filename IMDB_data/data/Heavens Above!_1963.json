@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Peter Sellers",
+            "url": "/name/nm0000634/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cecil Parker",
+            "url": "/name/nm0662116/"
+        },
+        {
+            "@type": "Person",
+            "name": "Isabel Jeans",
+            "url": "/name/nm0419978/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1604,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103294/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frank Harvey",
+            "url": "/name/nm0367519/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Boulting",
+            "url": "/name/nm0099589/"
+        },
+        {
+            "@type": "Person",
+            "name": "Malcolm Muggeridge",
+            "url": "/name/nm0611193/"
+        }
+    ],
+    "datePublished": "1963-05-23",
+    "description": "A minister is accidentally appointed to a snobbish parish.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Boulting",
+            "url": "/name/nm0099589/"
+        },
+        {
+            "@type": "Person",
+            "name": "Roy Boulting",
+            "url": "/name/nm0099592/"
+        }
+    ],
+    "duration": "PT1H45M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTczNTAzMDg5M15BMl5BanBnXkFtZTgwODE0MDkwMzE@._V1_.jpg",
+    "keywords": "cattle grazing,voice over narration,store front,church,television antenna",
+    "name": "Heavens Above!",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "planktonrules"
+        },
+        "dateCreated": "2006-11-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0057134/"
+        },
+        "name": "One of Sellers' best films is all but forgotten today",
+        "reviewBody": "This was a marvelous little comedy that in many ways is reminiscent of the great Alec Guinness film, THE MAN IN THE WHITE SUIT. Like this other film, the movie's main theme is unintended consequences that arise from some selfless and altruistic acts of the leads.\n\nPeter Sellers plays a rather \"straight\" role as a well-meaning and decent Anglican minister. Unlike Inspector Clouseau and Dr. Strangelove, this character is much more subtle and believable. He didn't play the part strictly for laughs but was more of a characterization. Sellers was a truly gifted and amazing man in how he could seemingly become the people he was playing. His gentle manner and working-class accent worked perfectly to create one of the nicest and sincere priests in film history.\n\nThe movie is exceptional in that I think the movie can be enjoyed by religious and non-religious people alike. The film is very cynical and explores human nature in such a way that everyone can take something profound from the film. It is also unusual in that while technically a comedy, it is also serious social commentary. It had a lot to say about the teachings of Jesus and just how impossible it would be to truly implement them in a basically selfish world! Aside from a bad word used here or there, none of this should put off by the film. It isn't heavy-handed or preachy and isn't meant to offend organized religion.\n\nThe only reason the film only merits an 8 is because the ending is a bit of a let-down. It really didn't make much sense and was impossible to believe and because of this it really blunted the overall effect of the movie.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0057134/"
+}

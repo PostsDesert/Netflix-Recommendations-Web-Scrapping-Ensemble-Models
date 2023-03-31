@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Anjelica Huston",
+            "url": "/name/nm0001378/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marion O'Dwyer",
+            "url": "/name/nm0640949/"
+        },
+        {
+            "@type": "Person",
+            "name": "Niall O'Shea",
+            "url": "/name/nm0642678/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2176,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0184102/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0019015/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0124832/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brendan O'Carroll",
+            "url": "/name/nm0639983/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Goldsmith",
+            "url": "/name/nm0326089/"
+        }
+    ],
+    "datePublished": "2000-03-03",
+    "description": "The unexpected death of her husband sends a woman and her seven children, ages 2-14, into emotional turmoil and financial crisis in 1967 Dublin. She is forced to borrow money from a ruthless loan shark to make ends meet. She faces...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Anjelica Huston",
+            "url": "/name/nm0001378/"
+        }
+    ],
+    "duration": "PT1H32M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDYwOTEzMTAtMjM5Mi00YjY5LThhMjgtMjI2MWFkZGRmZmYxXkEyXkFqcGdeQXVyNzA4ODc3ODU@._V1_.jpg",
+    "keywords": "character name as title,two word title,reference to tom jones,timeframe 1960s,money",
+    "name": "Agnes Browne",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "a.sandham"
+        },
+        "dateCreated": "2000-03-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0160509/"
+        },
+        "name": "Poetry, compared to other recent movies about working-class women in Ireland",
+        "reviewBody": "This is an excellent picture of the life of working-class women on the housing estates ('projects' to Americans,probably as true now as in the 'sixties, as well as being a very good movie for women actors. The men are cyphers but the women and children are real enough. The colour is almost real (compared to Angela's Ashes), the dialogue believable, the dress and make-up accurate, in fact the design of the whole piece is convincing and satisfying visually and its sentimentality is not so sweet as to stick to back of the teeth. Anjelica Huston is unselfish. I have my doubts about Tom Jones' scenes at the end, but nothing's perfect. I find it growing on me as I look back on it."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from USA Films",
+        "duration": "PT1M50S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1890910489",
+        "name": "Agnes Browne",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjI4YmVhMzQtOGRkNy00NmQ5LTg3OGEtZjRmNGI1MjU0MjM2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjI4YmVhMzQtOGRkNy00NmQ5LTg3OGEtZjRmNGI1MjU0MjM2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T11:19:17Z",
+        "url": "https://www.imdb.com/video/vi1890910489/"
+    },
+    "url": "/title/tt0160509/"
+}

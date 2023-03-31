@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Bell",
+            "url": "/name/nm4108228/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Blackmon",
+            "url": "/name/nm4107943/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eric Carter",
+            "url": "/name/nm4108539/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 14,
+        "ratingValue": 9.3,
+        "worstRating": 1
+    },
+    "description": "Documentary centered around Athens GA rock & roll band Widespread Panic. Featuring interviews and performances by the band, and friends of the band, including Vic Chesnutt, Col. Bruce Hampton, Taj Mahal, Jerry Joseph, Danny Hutchi...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Christopher Hanson",
+            "url": "/name/nm0361219/"
+        }
+    ],
+    "duration": "PT1H44M",
+    "genre": [
+        "Music",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk2MzAxMDQ2Ml5BMl5BanBnXkFtZTcwNDE1Njk5Mw@@._V1_.jpg",
+    "name": "Widespread Panic: The Earth Will Swallow You",
+    "url": "/title/tt1736672/"
+}

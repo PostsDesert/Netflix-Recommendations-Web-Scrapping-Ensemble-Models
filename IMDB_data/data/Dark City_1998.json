@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Rufus Sewell",
+            "url": "/name/nm0001722/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kiefer Sutherland",
+            "url": "/name/nm0000662/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jennifer Connelly",
+            "url": "/name/nm0000124/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 203716,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0052515/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0046718/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alex Proyas",
+            "url": "/name/nm0001639/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lem Dobbs",
+            "url": "/name/nm0229644/"
+        },
+        {
+            "@type": "Person",
+            "name": "David S. Goyer",
+            "url": "/name/nm0275286/"
+        }
+    ],
+    "datePublished": "1998-02-27",
+    "description": "A man struggles with memories of his past, which include a wife he cannot remember and a nightmarish world no one else ever seems to wake up from.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Alex Proyas",
+            "url": "/name/nm0001639/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Fantasy",
+        "Mystery",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMGExOGExM2UtNWM5ZS00OWEzLTllNzYtM2NlMTJlYjBlZTJkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "neo noir,alien race,memory,beach,experiment",
+    "name": "Dark City",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dracosucks"
+        },
+        "dateCreated": "2006-02-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0118929/"
+        },
+        "name": "Alex Proyas at his best - a brilliantly executed and intelligent film",
+        "reviewBody": "Ever since I first saw the first Crow film with Brandon Lee, I've been an avid fan of Alex Proyas' film making and Dark City is another amazing example of his cinematic expertise. Filmed primarily in Sydney and starring Rufus Sewell, Jennifer Connoly, William Hurt and Keifer Sutherland, Dark City is an incredible piece of work with an intricate and detailed story with an even more amazingly executed motion picture behind it. The sets and visual effects have been so well thought out and performed that together with the impressive acting (including many Australian actors such as Colin Friels and that tall funny looking guy from Mad Max) the film simply sucks you in and you can fully believe that the word Proyas has created exists; which is something that not many film makers can achieve easily. From start to finish, an instant classic that will surely gain cult status as the years progress.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Dark City",
+        "duration": "PT2M14S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2614494745",
+        "name": "Dark City",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODE0NThjNjktOWFjMy00N2YxLWJlOWEtMDlkOWFiMjAyMzY3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODE0NThjNjktOWFjMy00N2YxLWJlOWEtMDlkOWFiMjAyMzY3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-08-17T03:12:21Z",
+        "url": "https://www.imdb.com/video/vi2614494745/"
+    },
+    "url": "/title/tt0118929/"
+}

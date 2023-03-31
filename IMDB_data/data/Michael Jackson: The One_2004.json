@@ -1,0 +1,82 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Michael Jackson",
+            "url": "/name/nm0001391/"
+        },
+        {
+            "@type": "Person",
+            "name": "Shaula Vega",
+            "url": "/name/nm0891913/"
+        },
+        {
+            "@type": "Person",
+            "name": "Beyoncé",
+            "url": "/name/nm0461498/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 854,
+        "ratingValue": 8.3,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0119128/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0007470/"
+        }
+    ],
+    "datePublished": "2004-01-02",
+    "description": "Documentary containing interviews with performers discussing the influence that Michael Jackson had on their career, combined with clips from Jackson's music videos.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jim Gable",
+            "url": "/name/nm0300093/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Hunter",
+            "url": "/name/nm0402995/"
+        }
+    ],
+    "duration": "PT1H",
+    "genre": [
+        "Documentary",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ4MDM4ODY3OF5BMl5BanBnXkFtZTcwMzI1NDc5MQ@@._V1_.jpg",
+    "keywords": "pop singer,singer,pop star,character name in title",
+    "name": "Michael Jackson: The One",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "floydcarey-45342"
+        },
+        "dateCreated": "2018-10-15",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0396122/"
+        },
+        "name": "Iconic collection",
+        "reviewBody": "Amazing collections of iconic short films of the king of pop. This man was another level of genius. He will be truly missed. One of kind. The greatest entertainer that has ever lived. RIP MJ",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0396122/"
+}

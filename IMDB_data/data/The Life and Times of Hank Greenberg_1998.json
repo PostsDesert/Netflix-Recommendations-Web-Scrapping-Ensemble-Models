@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Reeve Brenner",
+            "url": "/name/nm1794670/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hank Greenberg",
+            "url": "/name/nm0338516/"
+        },
+        {
+            "@type": "Person",
+            "name": "Walter Matthau",
+            "url": "/name/nm0000527/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 802,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0077724/"
+        },
+        {
+            "@type": "Person",
+            "name": "Aviva Kempner",
+            "url": "/name/nm0447476/"
+        }
+    ],
+    "datePublished": "2000-07-21",
+    "description": "The life and career of Hank Greenberg, the first major Jewish baseball star in the Major Leagues.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Aviva Kempner",
+            "url": "/name/nm0447476/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Documentary",
+        "Biography",
+        "Sport"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI1NDE3OTY2MV5BMl5BanBnXkFtZTcwNzE2NDIyMQ@@._V1_.jpg",
+    "keywords": "baseball sport,sports documentary,baseball,1930s,jewish community",
+    "name": "The Life and Times of Hank Greenberg",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "pacholeknbnj"
+        },
+        "dateCreated": "2003-07-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0208261/"
+        },
+        "name": "Terrific movie",
+        "reviewBody": "Admittedly, this movie is not for everyone. It is for baseball nuts, people with an interest in Jewish life in America (even if they aren't Jewish themselves), people interested in 20th Century American history, and Tigers fans. I fit the first three categories (I'm a Yankee fan but with a lot of respect for the Tiger franchise), and I thought this movie was terrific. Greenberg was not the first Jewish baseball player, but he was the first to become a star and a hero to non-Jews, paving the way for Sandy Koufax and current Dodger star Shawn Green (as well as Rod Carew, who married a Jewish woman and, as Adam Sandler has pointed out in song, converted). The often terrible anti-Semitism that was often faced in pre-World War II America has been obscured -- it's almost as if the Nazi Holocaust was the only indignity that Jews have suffered. Ms. Kempner did a fantastic job bringing this era of baseball, Jewish life and Detroit life to someone not part of that place, time and faith. And I didn't think this film it was much like the Ken Burns miniseries at all. For one thing, the music was better than in the Burns film, at least until you got to the 1950s songs in \"Seventh Inning\"! And except for covering Ty Cobb thoroughly, Burns paid little attention to the Tigers. He covered Greenberg's 58-homer season (1938) and mentioned that Denny McLain won 31 games in 1968, but that's it. He didn't even mention Al Kaline except in a story that Bill \"Spaceman\" Lee told. He didn't cover post-Black Sox Chicago baseball very well either, or California except to discuss Koufax. But what can you do with over 100 years of baseball in 19 hours? Kempner did very well with 75 years of life, and what amounted to 10 full seasons of baseball, in an hour and a half. Greenberg may not have lasted as long in the game as some of its other stars, but his seasons, in baseball and out, were full indeed, and the movie shows this excellently."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT1M2S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3992256793",
+        "name": "The Life and Times of Hank Greenberg",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNGQyMDA4OWYtNDY2Mi00ZmNlLWE5OTktZDQzZjA0YmJjYmFkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNGQyMDA4OWYtNDY2Mi00ZmNlLWE5OTktZDQzZjA0YmJjYmFkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:54:31Z",
+        "url": "https://www.imdb.com/video/vi3992256793/"
+    },
+    "url": "/title/tt0208261/"
+}

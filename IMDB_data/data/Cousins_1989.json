@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ted Danson",
+            "url": "/name/nm0001101/"
+        },
+        {
+            "@type": "Person",
+            "name": "Isabella Rossellini",
+            "url": "/name/nm0000618/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sean Young",
+            "url": "/name/nm0000707/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4910,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jean-Charles Tacchella",
+            "url": "/name/nm0006621/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen Metcalfe",
+            "url": "/name/nm0582479/"
+        }
+    ],
+    "datePublished": "1989-02-10",
+    "description": "Two couples go to a mutual friend's wedding and end up swapping partners.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Joel Schumacher",
+            "url": "/name/nm0001708/"
+        }
+    ],
+    "duration": "PT1H53M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTc2NzZhOTgtMTBhOC00YzBlLWJlOGQtNmVjY2I5ZjI0Zjc5XkEyXkFqcGdeQXVyMjA4NjIxMjE@._V1_.jpg",
+    "keywords": "extramarital affair,dysfunctional family,dance teacher,car salesman,philandering husband",
+    "name": "Cousins",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "=G="
+        },
+        "dateCreated": "2002-06-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0097116/"
+        },
+        "name": "A diamond in a rhinestone genre",
+        "reviewBody": "\"Cousins\", a pleasing knock-off of Oscar nominated French \"Cousin, Cousine\", tells of a man who has an affair with another woman while their partners are doing the same; concomitant relationships, one carnal and the other romantic. Full of quirky Euro-Am ethnic family members, this lively and sweet blast from the past is a light-hearted blend of sentimental, romantic, funny, and poignant moments well worth a first look or revisit.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT2M39S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4251304217",
+        "name": "Cousins",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzE2OWJmMDMtOGM5OC00NTdiLTk4MDAtZDk4ODJiZmQyZjI5XkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzE2OWJmMDMtOGM5OC00NTdiLTk4MDAtZDk4ODJiZmQyZjI5XkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-01-26T17:02:57.477Z",
+        "url": "https://www.imdb.com/video/vi4251304217/"
+    },
+    "url": "/title/tt0097116/"
+}

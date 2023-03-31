@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Max von Sydow",
+            "url": "/name/nm0001884/"
+        },
+        {
+            "@type": "Person",
+            "name": "Trevor Howard",
+            "url": "/name/nm0002145/"
+        },
+        {
+            "@type": "Person",
+            "name": "Liv Ullmann",
+            "url": "/name/nm0880521/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1822,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "GP",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0027277/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0073876/"
+        },
+        {
+            "@type": "Person",
+            "name": "Guy Elmes",
+            "url": "/name/nm0255425/"
+        },
+        {
+            "@type": "Person",
+            "name": "Samuel Roeca",
+            "url": "/name/nm0736276/"
+        }
+    ],
+    "datePublished": "1973-09-07",
+    "description": "In a Scandinavian insane asylum, murderer Salem sneaks out at night to exact his revenge on those who he deems responsible for his predicament.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Laslo Benedek",
+            "url": "/name/nm0070670/"
+        }
+    ],
+    "duration": "PT1H46M",
+    "genre": [
+        "Crime",
+        "Thriller",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDY0Nzc3YzEtMjgyYi00NTEzLWI1YTctZjI0MGNkMzNhYWJlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "revenge,locked room mystery,murder of sister,snow,asylum",
+    "name": "The Night Visitor",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "kwarbur488"
+        },
+        "dateCreated": "2000-02-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0066141/"
+        },
+        "name": "New Meaning",
+        "reviewBody": "It has been thirty years since I first saw this title, at a drive-in movie theater, with my girlfriend. She and I both had eyes glued to the screen. The \"feeling\" of the setting still lingers and we could almost experience the cold. But what I remember the most is that The Night Visitor gave new meaning to the old line,\n\n\"a little birdy told me...\".\n\nSuperb direction and wonderfully twisting ending!"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for The Night Visitor",
+        "duration": "PT2M26S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1433777177",
+        "name": "The Night Visitor",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZmRlYzMxYTYtYTRmYi00MTI5LTgyMjItMGUwMmIxNDkzMjFlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZmRlYzMxYTYtYTRmYi00MTI5LTgyMjItMGUwMmIxNDkzMjFlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2016-06-04T21:56:42Z",
+        "url": "https://www.imdb.com/video/vi1433777177/"
+    },
+    "url": "/title/tt0066141/"
+}

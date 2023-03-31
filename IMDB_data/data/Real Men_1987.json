@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jim Belushi",
+            "url": "/name/nm0000902/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Ritter",
+            "url": "/name/nm0000615/"
+        },
+        {
+            "@type": "Person",
+            "name": "Barbara Barrie",
+            "url": "/name/nm0057363/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4481,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0026841/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0056556/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dennis Feldman",
+            "url": "/name/nm0271022/"
+        }
+    ],
+    "datePublished": "1987-09-25",
+    "description": "A womanizing CIA agent and an insecure insurance agent are paired together to make sure a deal goes through with aliens for the future of mankind.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Dennis Feldman",
+            "url": "/name/nm0271022/"
+        }
+    ],
+    "duration": "PT1H25M",
+    "genre": [
+        "Action",
+        "Comedy",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BY2M1ZjY5ODAtODNjZi00M2M2LTg2NGItM2Q4NmQyNTc2ODc0XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "the future,female nudity,driving,mullet,two men",
+    "name": "Real Men",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "view_and_review"
+        },
+        "dateCreated": "2019-11-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0093828/"
+        },
+        "name": "Normally Bizarre",
+        "reviewBody": "This was one of those movies that was silly enough to expect anything, but just normal enough to be unsure of what to expect.\n\nBob Wilson (John Ritter) is a perfectly normal guy. He has the fortune (or misfortune) of looking exactly like agent Pillbox who was killed. Agent Pillbox was in charge of making a critical exchange with some aliens (yes, I said some aliens). Being that the aliens would only accept Pillbox for their exchange the CIA hustled Bob into being the guy. Agent Nick Pirandello (James Belushi) was the special agent in charge of acquiring and protecting Bob as they made a cross country journey to Washington D.C. to make the all important trade.\n\nThe movie is funny at times, dull at other times, and you can't ignore the fact that the plot is on the bizarre side. Could I be spending my time doing something better? Yes. Was this movie entertaining enough to fill 90 minutes of empty time? Yes.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A womanizing CIA agent and an insecure insurance agent are paired together to make sure a deal goes through with aliens for the future of mankind.",
+        "duration": "PT1M59S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi110347033",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzdmNjE3NDctYTM4YS00ODEzLWEyOTctOGU3NjU3NGFhYjEzXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzdmNjE3NDctYTM4YS00ODEzLWEyOTctOGU3NjU3NGFhYjEzXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-10-05T00:00:12.766Z",
+        "url": "https://www.imdb.com/video/vi110347033/"
+    },
+    "url": "/title/tt0093828/"
+}

@@ -1,0 +1,66 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Klaus Flouride",
+            "url": "/name/nm0283127/"
+        },
+        {
+            "@type": "Person",
+            "name": "DH Peligro",
+            "url": "/name/nm0670850/"
+        },
+        {
+            "@type": "Person",
+            "name": "East Bay Ray",
+            "url": "/name/nm0712810/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 95,
+        "ratingValue": 8.6,
+        "worstRating": 1
+    },
+    "description": "The Dead Kennedys' performance, June 1984, marked the closing of San Francisco's DMPO's on Broadway Avant-garde Theatre and Nightclub.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Dirk B.G. Driksen",
+            "url": "/name/nm0994285/"
+        }
+    ],
+    "duration": "PT58M",
+    "genre": [
+        "Music",
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ1NTA2NTM5Ml5BMl5BanBnXkFtZTcwNDYxODIyMQ@@._V1_.jpg",
+    "keywords": "punk satire,black comedy,profanity,live concert,punk",
+    "name": "Dead Kennedys: DMPO's on Broadway",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "DrEmmettBrown"
+        },
+        "dateCreated": "2001-08-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0285510/"
+        },
+        "name": "The Best Band Live!",
+        "reviewBody": "Dead Kennedys. The greatest band ever. If you're a fan of Dead Kennedys, you need to get this tape. You'll see how great they are live and you won't be disappointed at all. I got this tape, and I was blown away by this awesome performance. Jello Biafra, East Bay Ray, Klaus Flouride, and D.H. Peligro are geniuses.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0285510/"
+}

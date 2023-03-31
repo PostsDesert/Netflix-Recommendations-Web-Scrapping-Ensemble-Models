@@ -1,0 +1,67 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Cory Poccia",
+            "url": "/name/nm0687834/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anne Marie Stefani",
+            "url": "/name/nm1732627/"
+        },
+        {
+            "@type": "Person",
+            "name": "Craig Parten",
+            "url": "/name/nm1732120/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 21,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0134423/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0134425/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0134424/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ave McLaughlin",
+            "url": "/name/nm1732049/"
+        },
+        {
+            "@type": "Person",
+            "name": "Craig Parten",
+            "url": "/name/nm1732120/"
+        }
+    ],
+    "datePublished": "2004-10-07",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Craig Parten",
+            "url": "/name/nm1732120/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Comedy"
+    ],
+    "keywords": "once upon a time in the title",
+    "name": "Once Upon a Time in New York",
+    "url": "/title/tt0425323/"
+}

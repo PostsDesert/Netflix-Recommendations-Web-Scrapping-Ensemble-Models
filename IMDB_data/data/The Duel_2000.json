@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Andy Lau",
+            "url": "/name/nm0490489/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ekin Cheng",
+            "url": "/name/nm0155562/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nick Cheung",
+            "url": "/name/nm0156533/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1699,
+        "ratingValue": 5.8,
+        "worstRating": 1
+    },
+    "alternateName": "The Duel",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0003221/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0056958/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0050080/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jing Wong",
+            "url": "/name/nm0939147/"
+        },
+        {
+            "@type": "Person",
+            "name": "Manfred Wong",
+            "url": "/name/nm0939236/"
+        }
+    ],
+    "datePublished": "2000-02-03",
+    "description": "After a long absence, a master swordsman of royal blood, Yeh Cool-son, returns to the emperor's palace to challenge Snow, a reclusive master, to a dual on new year's eve. In the days before the dual, strange things happen in the p...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Andrew Lau",
+            "url": "/name/nm0490487/"
+        }
+    ],
+    "duration": "PT1H46M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY0MjE4NjU4Nl5BMl5BanBnXkFtZTcwNjA4MzkxMQ@@._V1_.jpg",
+    "keywords": "wuxia,parody comedy,spoof,ming,martial arts",
+    "name": "Kuet chin chi gam ji din",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "The Spectacular Spider-Man"
+        },
+        "dateCreated": "2003-11-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0243876/"
+        },
+        "name": "Ninety minutes of mild amusement, ten minutes of magic",
+        "reviewBody": "This is an intresting movie, certainly moreso than most Hollywood action/adventures. The action is few and far between as this is not an action movie, but the few fight scenes are effective. The characters are likeable and the acting is good enough. \n\nMost of the movie concerns secret agent Dragon Nine's comedy attempts to solve a murder mystery. This is made up of slapstick, James Bond type gags and gadgets and precious little action. Amusing, but hardly gripping or hilarious. \n\nThen the film suddenly becomes great at the climax. It contains more emotion, imagination, action and characterisation than the rest of the film put together. The mystery is revealed, and becomes more complicated and dramatic than it seemed. The final duel is an excellent, ultra-fast sword fight with superpowers - but it IS still mainly about the clashing of blades. The losing duelist has one final desire, and his attempts to reach it are very sad. \n\nIf the whole movie was of the quality of the last ten minutes this would be a classic.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for The Duel",
+        "duration": "PT1M47S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi227279129",
+        "name": "The Duel (2000)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYWE1YzAyMjUtMDljOS00NjYzLWEzNWYtMDNhM2Q4YTA3ZTBkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYWE1YzAyMjUtMDljOS00NjYzLWEzNWYtMDNhM2Q4YTA3ZTBkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:19:44Z",
+        "url": "https://www.imdb.com/video/vi227279129/"
+    },
+    "url": "/title/tt0243876/"
+}

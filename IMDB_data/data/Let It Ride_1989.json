@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Richard Dreyfuss",
+            "url": "/name/nm0000377/"
+        },
+        {
+            "@type": "Person",
+            "name": "Teri Garr",
+            "url": "/name/nm0000414/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Johansen",
+            "url": "/name/nm0423774/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6550,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0856762/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0726369/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jay Cronley",
+            "url": "/name/nm0188832/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nancy Dowd",
+            "url": "/name/nm0235683/"
+        }
+    ],
+    "datePublished": "1989-08-18",
+    "description": "A nosy cab driver gets a hot tip on a race horse and wins big, but he can't seem to stop gambling. Will he go broke or walk home with a pretty penny?",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Joe Pytka",
+            "url": "/name/nm0701592/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Comedy",
+        "Action"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTQ0ODdiMTItYzkyMS00MzQ4LTljNTktNzVjMDg2M2E1NWQyXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+    "keywords": "gambling,horse,betting,wager,gambler",
+    "name": "Let It Ride",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jayden27"
+        },
+        "dateCreated": "2002-01-22",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0097731/"
+        },
+        "name": "You're not going believe this...",
+        "reviewBody": "but this one is a classic. Its one of those movies that everyone you know either never heard of or makes fun of you for even bringing up. Let me tell you though, stranded on the island with only one movie available, I want it to be this uplifting film. It may not be my favorite, but I can easily watch it beginning to end and start it right over. The cast each grasped the characters to perfection, with one a better loser than the next! Looking for a little pick-me up, give Jay Trotter and Let It Ride one chance. Although you may still be embarrassed to mention you love it in front of your friends, I bet you will!"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A nosy cab driver gets a hot tip on a race horse and wins big, but he can't seem to stop gambling. Will he go broke or walk home with a pretty penny?",
+        "duration": "PT2M22S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi948683545",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODUyNjhjYTAtYTlhZS00ODllLTg1ZmQtNzk1MDU5NWU2OTQwXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODUyNjhjYTAtYTlhZS00ODllLTg1ZmQtNzk1MDU5NWU2OTQwXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-10-25T00:48:26.240Z",
+        "url": "https://www.imdb.com/video/vi948683545/"
+    },
+    "url": "/title/tt0097731/"
+}

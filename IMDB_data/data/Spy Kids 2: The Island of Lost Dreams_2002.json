@@ -1,0 +1,92 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Alexa PenaVega",
+            "url": "/name/nm0891786/"
+        },
+        {
+            "@type": "Person",
+            "name": "Daryl Sabara",
+            "url": "/name/nm0754512/"
+        },
+        {
+            "@type": "Person",
+            "name": "Antonio Banderas",
+            "url": "/name/nm0000104/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 69758,
+        "ratingValue": 5.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0019626/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0035848/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Rodriguez",
+            "url": "/name/nm0001675/"
+        }
+    ],
+    "datePublished": "2002-08-07",
+    "description": "The Cortez siblings set out for a mysterious island, where they encounter a genetic scientist and a set of rival spy kids.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Rodriguez",
+            "url": "/name/nm0001675/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNWM2N2JjYzYtYWIyNS00NDc3LWFkNDctMmYwOWQyZTcxYjZhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "genetic,traitor,machete cortez character,close up of eye,espionage",
+    "name": "Spy Kids 2: Island of Lost Dreams",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Special-K88"
+        },
+        "dateCreated": "2007-04-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0287717/"
+        },
+        "name": "more fun than its occasionally silly predecessor",
+        "reviewBody": "As the story begins, Juni and Carmen Cortez are agents on the rise in the new Spy Kids division of the OSS. Despite all of their skills and accomplishments, they're denied a promotion in the agency as a result of blatant nepotism. Still determined to make their mark—and more importantly to upstage a pair of rival agents—they intervene in a mission to travel to a mysterious island and retrieve a sophisticated thingamajig that could be a potent threat if it falls into the wrong hands. Engaging sequel is far less cheesy than its predecessor, has a much better story, and lots of imaginative visual effects accompanied by exciting, cliffhanger action scenes. Overlong, and still corny at times, but has just enough ingredients to entertain all audiences. ***"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "CT#3",
+        "duration": "PT1M49S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3814195481",
+        "name": "Spy Kids 2: The Island of Lost Dreams",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BY2Y4ODM3MTktYmE1Yi00NmM1LWI2N2ItMjE1NTExZDc1Y2YxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BY2Y4ODM3MTktYmE1Yi00NmM1LWI2N2ItMjE1NTExZDc1Y2YxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-08-13T03:37:48Z",
+        "url": "https://www.imdb.com/video/vi3814195481/"
+    },
+    "url": "/title/tt0287717/"
+}

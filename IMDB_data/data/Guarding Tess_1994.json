@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Shirley MacLaine",
+            "url": "/name/nm0000511/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nicolas Cage",
+            "url": "/name/nm0000115/"
+        },
+        {
+            "@type": "Person",
+            "name": "Austin Pendleton",
+            "url": "/name/nm0671721/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 18257,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0075312/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0005883/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hugh Wilson",
+            "url": "/name/nm0933505/"
+        },
+        {
+            "@type": "Person",
+            "name": "PJ Torokvei",
+            "url": "/name/nm0868242/"
+        }
+    ],
+    "datePublished": "1994-03-11",
+    "description": "A former U.S. First Lady wants a particular Secret Service agent to head her bodyguard detail, even though he can't stand her.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Hugh Wilson",
+            "url": "/name/nm0933505/"
+        }
+    ],
+    "duration": "PT1H36M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzFkM2RiNWQtOWQxNy00ZWNmLWIyZTktNmJjZmY1ZTliZjU1XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "brain tumor,old woman,chauffeur,shot in the foot,buried alive",
+    "name": "Guarding Tess",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "roghache"
+        },
+        "dateCreated": "2006-03-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0109951/"
+        },
+        "name": "Unusual theme, unusual relationship, brilliantly done",
+        "reviewBody": "This is an unexpected pearl of a movie. Neither of the two stars, Shirley MacLaine or Nicholas Cage, are normally high on my list of favorites, but they pull off this odd ball relationship to perfection. There's chemistry here, just not in the usual sense of the word! It's a plot idea unlike any I've previously encountered...\n\nDoug (Nicholas Cage) is a Secret Service man assigned the dubious honor of \"guarding Tess\" Carlisle (Shirley MacLaine), the feisty, aging, crotchety widow of a former American President and friend to the current President (who owes her favors and she doesn't let him forget it!). Nothing Doug does pleases Tess; nothing ANYONE does pleases Tess. Yet, she has an obvious underlying affection for her Secret Service guard, the only agent she'll in fact tolerate, who most of the time wishes he had just about any other job. Tess's own son totally neglects her and she's a lonely lady, caught up in old memories of her past White House days, when she and her husband were objects of great respect, affection, and attention. Tess is a cantankerous character now (of course Shirley MacLaine's a natural for the part!) but altogether sympathetic. I won't give away the story but Doug has his work cut out for him, and not just putting up with her moods, whims, and assorted outrages. The plot thickens and drama awaits...\n\nThere's action and adventure but the movie is much more character driven than plot driven. It's a treat to watch the unfolding relationship between this unlikely pair. Whether it's a realistic scenario or not, it makes for an entertaining, amusing, and touching movie you're bound to enjoy.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Tristar",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1806041369",
+        "name": "Guarding Tess",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDM0NmY5MTMtN2I3Yy00Y2IxLWE3ODQtYWExNWQ1MDc4NDIxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDM0NmY5MTMtN2I3Yy00Y2IxLWE3ODQtYWExNWQ1MDc4NDIxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:04:36Z",
+        "url": "https://www.imdb.com/video/vi1806041369/"
+    },
+    "url": "/title/tt0109951/"
+}

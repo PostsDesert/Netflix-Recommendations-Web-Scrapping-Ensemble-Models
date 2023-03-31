@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Denis Lavant",
+            "url": "/name/nm0491777/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michel Subor",
+            "url": "/name/nm0836977/"
+        },
+        {
+            "@type": "Person",
+            "name": "Grégoire Colin",
+            "url": "/name/nm0171499/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 12675,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "Unrated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0021676/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0011798/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0129898/"
+        },
+        {
+            "@type": "Person",
+            "name": "Claire Denis",
+            "url": "/name/nm0219136/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jean-Pol Fargeau",
+            "url": "/name/nm0267288/"
+        },
+        {
+            "@type": "Person",
+            "name": "Herman Melville",
+            "url": "/name/nm0578479/"
+        }
+    ],
+    "datePublished": "2000-05-03",
+    "description": "An ex-Foreign Legion officer recalls his once-glorious life of leading troops in Djibouti.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Claire Denis",
+            "url": "/name/nm0219136/"
+        }
+    ],
+    "duration": "PT1H32M",
+    "genre": [
+        "Drama",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNGE4NGExNzctYjY2Yy00Nzg4LTkyNjAtNDYzMDQyYWM4ZDFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "military training,legionnaire,french foreign legion,djibouti,discipline",
+    "name": "Beau travail",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Stephen Groenewegen"
+        },
+        "dateCreated": "2000-07-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0209933/"
+        },
+        "name": "Desert Budd that never blooms",
+        "reviewBody": "Beau Travail (\"Good Work\") is loosely based on Herman Melville's classic novella Billy Budd. Billy Budd was a tragedy brought about partly by the strictures of military discipline, but was really a story of masculinity and power; a powerful psychological study of three characters and personalities unable to coexist without damaging or destroying each other.\n\nFrench director Claire Denis transfers the story from the eighteenth century British navy to a unit of the French Foreign Legion in an African outpost. The exotic backdrop of the Foreign legion - with its all-male bonding and strict discipline - is inspired. Having the film narrated by Galoup, the film's Claggart character, is not. Claggart was fascinating to Melville because he could discern no real reason for his hatred of Budd; it was ascribed to his nature and essentially unfathomable. Denis and the actor playing Galoup (Denis Lavant) seem to lack insight into his motives as well, so he's a poor choice to carry the story. Equally frustrating is Denis' lack of focus on Sentain (Gregoire Colin), the charismatic Budd who's supposed to drive the action. Instead, there's a lot of empty posing in the desert. The climax - the first real incident in an overlong film - is over too quickly to be satisfying."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3784162585",
+        "name": "Bande-annonce [OV]",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMWE4ZDgxZDQtMTU4MC00ZDg0LWFhZDgtMDc1YTg1OTU1MWI4XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMWE4ZDgxZDQtMTU4MC00ZDg0LWFhZDgtMDc1YTg1OTU1MWI4XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2019-03-18T14:06:13.613Z",
+        "url": "https://www.imdb.com/video/vi3784162585/"
+    },
+    "url": "/title/tt0209933/"
+}

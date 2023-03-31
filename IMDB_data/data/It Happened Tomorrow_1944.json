@@ -1,0 +1,83 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dick Powell",
+            "url": "/name/nm0694090/"
+        },
+        {
+            "@type": "Person",
+            "name": "Linda Darnell",
+            "url": "/name/nm0001105/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jack Oakie",
+            "url": "/name/nm0642988/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2642,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0031366/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dudley Nichols",
+            "url": "/name/nm0629580/"
+        },
+        {
+            "@type": "Person",
+            "name": "René Clair",
+            "url": "/name/nm0163229/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lord Dunsany",
+            "url": "/name/nm0243004/"
+        }
+    ],
+    "datePublished": "1944-04-07",
+    "description": "A young turn-of-the-century newspaper man finds he can get hold of the next day's paper. This brings more problems than fortune, especially as his new girlfriend is part of a phony clairvoyant act.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "René Clair",
+            "url": "/name/nm0163229/"
+        }
+    ],
+    "duration": "PT1H25M",
+    "genre": [
+        "Comedy",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYzFiZTIyZTYtMGY1NC00YThjLWEyYjEtOWRiOTM0ZTQwOWM1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_.jpg",
+    "keywords": "1890s,wedding anniversary,50th wedding anniversary,flashback,newspaper",
+    "name": "It Happened Tomorrow",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "nicholas.rhodes"
+        },
+        "dateCreated": "2003-08-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0036962/"
+        },
+        "name": "Finally Available on DVD",
+        "reviewBody": "It seems that this is a much sought after and rarely diffused film - and it is now available on DVD. Picture quality not bad at all considering the time it was made and plot generally quite lighthearted if not unduly mystifying. I was expecting something a little more spicy with a bit of time-travel involved - but was not too disappointed in the end as the actors' performances are good and the subject matter is quite original. I would therefore recommend it to all who love comedy fantasiies but without going over the top about it ."
+    },
+    "url": "/title/tt0036962/"
+}

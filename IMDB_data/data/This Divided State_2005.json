@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kay Anderson",
+            "url": "/name/nm1821988/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Bassi",
+            "url": "/name/nm1822011/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sean Vreeland",
+            "url": "/name/nm1925186/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 784,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0146509/"
+        }
+    ],
+    "datePublished": "2005-07-22",
+    "description": "The film follows Micheal Moore's controversial decision to speak at the Utah Valley State College, where a heated debate between protestors and supporters argue Moore's First Amendment freedom of speech rights.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Steven Greenstreet",
+            "url": "/name/nm1481222/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc1NTI3NDUyMl5BMl5BanBnXkFtZTcwMTg2OTAzMQ@@._V1_.jpg",
+    "keywords": "freedom of speech,politics,mormon,religion,protest",
+    "name": "This Divided State",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "fdog9"
+        },
+        "dateCreated": "2005-10-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0444698/"
+        },
+        "name": "This is a well made independent film",
+        "reviewBody": "To be honest---not quite a 10 (probably a 7 or an 8)---but I rated it 10 to offset the all the ones given to it by the anti-Moore crowd. A frightening look at a community trying anything (including bullying, bribery, and law suits) to stop Michael Moore from speaking at a conservative Utah college. It's a peek at the American brand of fascism. The effort is organized by Kay Anderson---who has made many attempts to stop events in the community before. I think all Americans conservative and liberal should agree on one thing---Freedom of Speech. Anderson is quoted as saying \"Free speech works because most of us know when to keep our mouths shut\". This misses the whole point of freedom of speech. The movie is flawed in spots. The segment about the guy who looks like Moore comes to mind. Overall its a very good documentary and it really shows the colliding attitudes in our country today.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0444698/"
+}

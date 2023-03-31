@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Stephen Dorff",
+            "url": "/name/nm0001151/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christa Denton",
+            "url": "/name/nm0219821/"
+        },
+        {
+            "@type": "Person",
+            "name": "Louis Tripp",
+            "url": "/name/nm0873097/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 18099,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0750700/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0750701/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0005210/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Nankin",
+            "url": "/name/nm0002749/"
+        }
+    ],
+    "datePublished": "1987-05-15",
+    "description": "Kids left home alone accidentally unleash a horde of malevolent demons from a mysterious hole in their suburban backyard.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Tibor Takács",
+            "url": "/name/nm0847749/"
+        }
+    ],
+    "duration": "PT1H25M",
+    "genre": [
+        "Fantasy",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMWU4ZmFlMDEtYjExNy00MmQ0LWFjYTUtNWMxNDg0ZjM0OGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "child protagonist,friendship between boys,boy,monster,supernatural power",
+    "name": "The Gate",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "claudio_carvalho"
+        },
+        "dateCreated": "2006-11-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0093075/"
+        },
+        "name": "Underrated Cult-Movie",
+        "reviewBody": "The boy Glen (Stephen Dorff) and his best fried Terry (Louis Tripp) accidentally open a gate to hell when a rotten tree is removed from the backyard of Glen's house. When his dog die and a friend of Glen's sister, the teenager Alexandra (Christa Denton), buries the animal in the hole, demons from an ancient civilization are released, seeking for two human sacrifices to dominate the world. Glen, Al and Terry, who are spending the weekend alone in the house, fight to save their lives and close the hole.\n\nI do not recall how many times I have seen \"The Gate\" on VHS and now on DVD. The funny story has a terrible conclusion, but the special effects were amazing in 1987. This cult-movie is very underrated inclusive in IMDb but who cares? I still love this little gem of the fantastic cinema. My vote is seven.\n\nTitle (Brazil): \"O Portão\" (VHS) / \"O Portal\" (DVD) (\"The Gate\")",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M38S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi234799385",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjMyZGFmZmItMzkyNS00N2MyLTliMTMtZjAyMWFhMGE4ZTUwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjMyZGFmZmItMzkyNS00N2MyLTliMTMtZjAyMWFhMGE4ZTUwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-10-21T21:52:59.534Z",
+        "url": "https://www.imdb.com/video/vi234799385/"
+    },
+    "url": "/title/tt0093075/"
+}
