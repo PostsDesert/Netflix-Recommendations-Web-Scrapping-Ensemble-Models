@@ -91,7 +91,7 @@ def read_movies_from_csv(file_path):
     return movies
 
 def write_IMDB_data_to_file(movie, IMDB_data):
-    with open(f'IMDB_data/{movie["name"]}_{movie["year"]}.json', 'w') as outfile:
+    with open(f'IMDB_data/data/{movie["name"]}_{movie["year"]}.json', 'w') as outfile:
         outfile.write(IMDB_data)
 
 def write_movie_to_file(file, movie):
@@ -121,7 +121,7 @@ def main():
         
         if IMDB_data:
             write_IMDB_data_to_file(movie, IMDB_data)
-            write_movie_to_file(movie)
+            write_movie_to_file(COMPLETED_MOVIE_FILE, movie)
         
         # # randmize the time interval between each request
         # time.sleep(random.randint(1, 7))

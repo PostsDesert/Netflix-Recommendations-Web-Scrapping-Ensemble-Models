@@ -1,0 +1,96 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Josh Charles",
+            "url": "/name/nm0001038/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brandon Hammond",
+            "url": "/name/nm0358650/"
+        },
+        {
+            "@type": "Person",
+            "name": "Serena Lee",
+            "url": "/name/nm0494787/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 298,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0006585/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0052980/"
+        },
+        {
+            "@type": "Person",
+            "name": "LeAlan Jones",
+            "url": "/name/nm1109607/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lloyd Newman",
+            "url": "/name/nm1112849/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Isay",
+            "url": "/name/nm1112844/"
+        }
+    ],
+    "datePublished": "2003-03-12",
+    "description": "The true story of two African-American teen radio reporters and their documentary investigation of a notorious child murder.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ernest R. Dickerson",
+            "url": "/name/nm0225416/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA4ODQ4MDIyOV5BMl5BanBnXkFtZTcwNjYyNzUyMQ@@._V1_.jpg",
+    "keywords": "reporter,radio,teenager,radio reporter,ghetto",
+    "name": "Our America",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Socknspctr01"
+        },
+        "dateCreated": "2007-03-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0303373/"
+        },
+        "name": "Good for what it portrays.",
+        "reviewBody": "The movie is based on a true story of two boys growing up in the projects of Chicago. They get the opportunity to be reporters for NPR. They bring equipment with them to school and around the community to show what goes on in their daily lives. The documentaries they made were controvercial and original. This movie gave an insightful look at the situation and the lack of future image the residents of the inner-city projects experience. One of the boys had no future and the other may have had a future, with help they both had a bright future. Anyone studying a career in Justice or Juvenile Justice should watch this. Related movies of interest if you liked this one include: Fresh, and Boys in the Hood.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0303373/"
+}
