@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Fred Astaire",
+            "url": "/name/nm0000001/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mickey Rooney",
+            "url": "/name/nm0001682/"
+        },
+        {
+            "@type": "Person",
+            "name": "Keenan Wynn",
+            "url": "/name/nm0943978/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 16129,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "TV-G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0093733/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0032578/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0021448/"
+        },
+        {
+            "@type": "Person",
+            "name": "Romeo Muller",
+            "url": "/name/nm0612239/"
+        }
+    ],
+    "datePublished": "1970-12-14",
+    "description": "A mailman reveals the origin of Santa Claus.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jules Bass",
+            "url": "/name/nm0060072/"
+        },
+        {
+            "@type": "Person",
+            "name": "Arthur Rankin Jr.",
+            "url": "/name/nm0710230/"
+        }
+    ],
+    "duration": "PT48M",
+    "genre": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc2NjMxMTU2Ml5BMl5BanBnXkFtZTcwNjg4NTYyMQ@@._V1_.jpg",
+    "keywords": "burgermeister,stop motion animation,villain turns good,winter,winter time",
+    "name": "Santa Claus Is Comin' to Town",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "SnoopyStyle"
+        },
+        "dateCreated": "2014-12-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0066327/"
+        },
+        "name": "has a childlike charm",
+        "reviewBody": "Mailman Special Delivery Kluger (Fred Astaire) introduces the tale of Santa Claus. In the sad city of Sombertown ruled by the grumpy Burgermeister Meisterburger (Paul Frees), a baby named \"Claus\" is left to him to raise but he sends him to the Orphan Asylum. While transporting there, a wind blows the sled with the baby to the mountain of Whispering Winds. The forest creatures hide him from the Winter Warlock (Keenan Wynn) and bring him to the Kringle elf family. They name him Kris. He wants the Kringles to be the royal toy makers again but they can't get pass the Winter Warlock to bring the toys to Sombertown.\n\nThe stop-motion animation is elementary which gives it a childish charm. They're almost like little toy figurines. Even the age adds to its charm. The story is a little weird but it's a good Santa Claus origin story. I'm not that impressed with most of the songs with the exception of the title song \"Santa Claus Is Comin' to Town\". It is one of the classic Christmas TV specials and it still holds up.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Clip: Jessica saves Kris Kringle and the others",
+        "duration": "PT3M27S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3157984025",
+        "name": "Santa Claus Is Comin' To Town",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BN2JhM2MwMjEtNzYyMy00N2RjLWJkMTAtYmI4ZDExNmYxY2M4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BN2JhM2MwMjEtNzYyMy00N2RjLWJkMTAtYmI4ZDExNmYxY2M4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-02-05T07:12:58Z",
+        "url": "https://www.imdb.com/video/vi3157984025/"
+    },
+    "url": "/title/tt0066327/"
+}

@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Warwick Davis",
+            "url": "/name/nm0001116/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charlie Heath",
+            "url": "/name/nm0372587/"
+        },
+        {
+            "@type": "Person",
+            "name": "Shevonne Durkin",
+            "url": "/name/nm0244193/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 10989,
+        "ratingValue": 4.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0286854/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Jones",
+            "url": "/name/nm0428751/"
+        },
+        {
+            "@type": "Person",
+            "name": "Turi Meyer",
+            "url": "/name/nm0583397/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alfredo Septién",
+            "url": "/name/nm0784682/"
+        }
+    ],
+    "datePublished": "1994-04-08",
+    "description": "On his one thousandth birthday, an evil leprechaun selects the descendant of one of his slaves to have as his bride, leaving it up to the girl's boyfriend to save her.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Rodman Flender",
+            "url": "/name/nm0281869/"
+        }
+    ],
+    "duration": "PT1H25M",
+    "genre": [
+        "Comedy",
+        "Fantasy",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYWIyZjQ3NmEtZTE1Ni00YjkyLThiOTEtNTYzYTRlNDViMjJmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "severed finger,bar,1000th birthday,father daughter relationship,ireland",
+    "name": "Leprechaun 2",
+    "original_info": {
+        "id": "Leprechaun 2_1994",
+        "name": "Leprechaun 2",
+        "year": "1994"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jonflottorp"
+        },
+        "dateCreated": "2022-03-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0110329/"
+        },
+        "name": "Pretty Boring.",
+        "reviewBody": "It's the second movie in the franchise, but unlike the first movie this was pretty boring.\n\nMy negatives about the movie is the acting, the acting is awful and Shevonne Durkin sucks as Bridget and she's just annoying the one good actor in the movie is Warwick Davis.\n\nI hate the characters none of them expect the Leprechaun are bad ecpecially Bridget, the plot sucks, but i didn't expect it to be.\n\nThere isn't anything special about the leprechaun except that he's allergic to iron.\n\nMy positives is that Warwick Davis is in it, the kills and scene in the pub.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 3,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT59S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3650224409",
+        "name": "Leprechaun 2",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BM2FmY2FmNzgtZTNjZi00MzQ3LWE4YzMtNjYwZjFlOGRjMzU5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BM2FmY2FmNzgtZTNjZi00MzQ3LWE4YzMtNjYwZjFlOGRjMzU5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:48:44Z",
+        "url": "https://www.imdb.com/video/vi3650224409/"
+    },
+    "url": "/title/tt0110329/"
+}

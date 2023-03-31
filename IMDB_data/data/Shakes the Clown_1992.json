@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bobcat Goldthwait",
+            "url": "/name/nm0001281/"
+        },
+        {
+            "@type": "Person",
+            "name": "Julie Brown",
+            "url": "/name/nm0113935/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bruce Baum",
+            "url": "/name/nm0062070/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5398,
+        "ratingValue": 5.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0074669/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bobcat Goldthwait",
+            "url": "/name/nm0001281/"
+        }
+    ],
+    "datePublished": "1992-03-13",
+    "description": "Shakes is good at his job as party clown - when he's sober and shows up. Five druggy clowns frame him for the murder of his boss.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bobcat Goldthwait",
+            "url": "/name/nm0001281/"
+        }
+    ],
+    "duration": "PT1H27M",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTllOTc2ZDctNGE1ZS00N2Y1LThkMzUtYWI0ZThmOGYyYjNiXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+    "keywords": "clown,party,murder,mime,written and directed by cast member",
+    "name": "Shakes the Clown",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "okronc"
+        },
+        "dateCreated": "1999-06-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0102898/"
+        },
+        "name": "MASTERPIECE--What more can I say?",
+        "reviewBody": "This movie has it all--booze, drugs, murder, sex, clowns and hatred for mimes.\n\nFrom the first scene in the bathroom, this movie enthralls.\n\nGolthwait is a misunderstood genius...despite \"Hot to Trot.\"\n\nCheck your brain at the door and SEE THIS MOVIE NOW!"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Sony Pictures Home Entertainment",
+        "duration": "PT1M49S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1870790937",
+        "name": "Shakes The Clown",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjY4YjAyOTgtMmI1NC00MjY5LWExNzMtYzljYzdkOTZlYTNkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjY4YjAyOTgtMmI1NC00MjY5LWExNzMtYzljYzdkOTZlYTNkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:47:59Z",
+        "url": "https://www.imdb.com/video/vi1870790937/"
+    },
+    "url": "/title/tt0102898/"
+}

@@ -1,0 +1,89 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kimberly J. Brown",
+            "url": "/name/nm0004782/"
+        },
+        {
+            "@type": "Person",
+            "name": "Debbie Reynolds",
+            "url": "/name/nm0001666/"
+        },
+        {
+            "@type": "Person",
+            "name": "Judith Hoag",
+            "url": "/name/nm0387432/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7852,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "contentRating": "TV-G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0022105/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0051162/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Bernbaum",
+            "url": "/name/nm0076602/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dan Berendsen",
+            "url": "/name/nm0073504/"
+        }
+    ],
+    "datePublished": "2004-10-08",
+    "description": "A girl in a magical world bets her family's magic that nothing bad will happen when kids from Halloweentown attend high school in the mortal realm.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mark A.Z. Dippé",
+            "url": "/name/nm0228147/"
+        }
+    ],
+    "duration": "PT1H22M",
+    "genre": [
+        "Comedy",
+        "Family",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDgxMjk3NGItMzRhNi00OGU4LTk3ZWItNTFjZmRhNGE1ZTE4XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg",
+    "keywords": "halloween,monster,horror for children,abominable snowman character,magical purse",
+    "name": "Halloweentown High",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "mwahlq"
+        },
+        "dateCreated": "2006-01-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0414078/"
+        },
+        "name": "Lucas Grabeel, one to watch",
+        "reviewBody": "This Halloween Town was again worth the time. Disney hit a home run with the casting and fine tuned the show for its audience. Lucas Grabeel stood out in this debut as Ethan, a warlock worth watching. He has much to offer the acting world and is going to go places in Hollywood and his newest release, High School Musical may be the launching pad. The show was fun and the Disney audience loved it. The Halloween Town High premise of creatures disguising themselves as high school students and trying to fit in when their peers find it hard to fit in themselves is a refreshing twist from the other roles available. Disney once again found a new vehicle for some talented young actors. Way to go, Disney!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0414078/"
+}

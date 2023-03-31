@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Patrick Swayze",
+            "url": "/name/nm0000664/"
+        },
+        {
+            "@type": "Person",
+            "name": "Randy Travis",
+            "url": "/name/nm0871430/"
+        },
+        {
+            "@type": "Person",
+            "name": "Meat Loaf",
+            "url": "/name/nm0001533/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9540,
+        "ratingValue": 5.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0007500/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0065424/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Mickelberry",
+            "url": "/name/nm0585296/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dan Vining",
+            "url": "/name/nm0898982/"
+        }
+    ],
+    "datePublished": "1998-05-01",
+    "description": "A weapons loaded truck is shadowed by FBI and ATF. It explodes and kills the driver. Jack, just out of prison, is pressured into driving another truck from Atlanta to NJ. Things get rough when hijacking attempts are made.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Kevin Hooks",
+            "url": "/name/nm0393661/"
+        }
+    ],
+    "duration": "PT1H29M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMGNkNGM5MTAtNWVjNy00YjdjLWFkN2QtMjFjODVjOTc5ZmY2XkEyXkFqcGdeQXVyNDAxNjkxNjQ@._V1_.jpg",
+    "keywords": "betrayal by a friend,betrayal,fbi federal bureau of investigation,semi trailer,gun runner",
+    "name": "Black Dog",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "robynh-4"
+        },
+        "dateCreated": "2007-11-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120610/"
+        },
+        "name": "I like this movie, and I ain't afraid to say so.",
+        "reviewBody": "Yes, it has many a plot hole. Yes, the acting isn't Oscar worthy. And yes, it's a cheesy B-grade movie. But guess what? I like it. \"Black Dog\" is a silly trucker action/thriller topped off with comedy, both intentional and unintentional, and a really, really cool country music score. The reason why so many people don't like it is simply 'cause they are taking it far too seriously. If you're like me and have had plenty of warning NOT to take \"Black Dog\" so seriously (thanks to the other IMDb members), then you'll like \"Black Dog\". \n\nIn short, DO NOT expect \"Black Dog\" to be something like \"Donnie Darko\" and/or \"Fight Club\". Don't take it seriously and you may just have a rollicking good time, especially if you are a fan of anyone who stars in it.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0120610/"
+}

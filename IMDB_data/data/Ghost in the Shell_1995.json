@@ -1,0 +1,40 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Shuji Inoue",
+            "url": "/name/nm0409314/"
+        },
+        {
+            "@type": "Person",
+            "name": "Shûichi Kakesu",
+            "url": "/name/nm0435372/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kenji Kawai",
+            "url": "/name/nm0442766/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 19,
+        "ratingValue": 7.9,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "description": "A behind the scenes look at the making of the 1995 classic anime, Ghost in the Shell.",
+    "duration": "PT26M",
+    "genre": [
+        "Documentary",
+        "Animation",
+        "Short"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYWRiYjQyOGItNzQ1Mi00MGI1LWE3NjItNTg1ZDQwNjUwNDM2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "keywords": "six word title,special feature,making of,japanese,interview",
+    "name": "Ghost in the Shell: Production Report",
+    "url": "/title/tt4524812/"
+}

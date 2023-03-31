@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Peter Breck",
+            "url": "/name/nm0106539/"
+        },
+        {
+            "@type": "Person",
+            "name": "Constance Towers",
+            "url": "/name/nm0869927/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gene Evans",
+            "url": "/name/nm0262775/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 12506,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023951/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0024229/"
+        },
+        {
+            "@type": "Person",
+            "name": "Samuel Fuller",
+            "url": "/name/nm0002087/"
+        }
+    ],
+    "datePublished": "1963-09-25",
+    "description": "Bent on winning a Pulitzer Prize, a journalist commits himself to a mental institution to solve a strange and unclear murder.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Samuel Fuller",
+            "url": "/name/nm0002087/"
+        }
+    ],
+    "duration": "PT1H41M",
+    "genre": [
+        "Drama",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzFhZWQzNDctOWEwOC00MjU1LThlZjUtZjA4MDMxZDgxMzkxXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "psychotronic film,voice over narration,independent film,undercover journalist,psychiatrist",
+    "name": "Shock Corridor",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "hitchcockthelegend"
+        },
+        "dateCreated": "2008-03-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0057495/"
+        },
+        "name": "Undercover madness Fuller style.",
+        "reviewBody": "The striking thing about this film is just how unnervingly barmy the characters are, and even more amazing is just how they seem so apt with Sam Fuller's sledgehammer direction. Written, directed and produced by Fuller it weaves a cautionary tale of how faking madness just might bring about the downfall of ones own sanity, and here it begs the question of if the price of fame has no boundaries to those who clamour for glory ?. The film cleverly manages to make the viewer think about the thin line between sanity and insanity and this is shot with such style it lingers long in the memory after the credits role. Some great sequences allied with clever switches to {almost surreal} color make this more than a curiosity piece because of the directors \"American Primitive\" reputation.\n\nInterestingly dark 8/10.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Shock Corridor",
+        "duration": "PT2M53S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3531735321",
+        "name": "Shock Corridor",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNGUyZDdiMmYtNzE1ZC00YjAwLWJiMTAtZmZiOGI2ODQyZDAzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNGUyZDdiMmYtNzE1ZC00YjAwLWJiMTAtZmZiOGI2ODQyZDAzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:49:20Z",
+        "url": "https://www.imdb.com/video/vi3531735321/"
+    },
+    "url": "/title/tt0057495/"
+}

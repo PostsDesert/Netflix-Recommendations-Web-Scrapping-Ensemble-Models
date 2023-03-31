@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Christian Slater",
+            "url": "/name/nm0000225/"
+        },
+        {
+            "@type": "Person",
+            "name": "Patricia Arquette",
+            "url": "/name/nm0000099/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dennis Hopper",
+            "url": "/name/nm0000454/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 231635,
+        "ratingValue": 7.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0033472/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0032081/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0050480/"
+        },
+        {
+            "@type": "Person",
+            "name": "Quentin Tarantino",
+            "url": "/name/nm0000233/"
+        },
+        {
+            "@type": "Person",
+            "name": "Roger Avary",
+            "url": "/name/nm0000812/"
+        }
+    ],
+    "datePublished": "1993-09-10",
+    "description": "In Detroit, a lonely pop culture geek marries a call girl, steals cocaine from her pimp, and tries to sell it in Hollywood. Meanwhile, the owners of the cocaine, the Mob, track them down in an attempt to reclaim it.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Tony Scott",
+            "url": "/name/nm0001716/"
+        }
+    ],
+    "duration": "PT1H59M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYWRhYWJjNGEtMjNhNi00NzFkLTk1ZGUtNjNmM2FlNTNhNWRjXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "keywords": "drugs,suitcase full of money,cocaine,pimp,aspiring actor",
+    "name": "True Romance",
+    "original_info": {
+        "id": "True Romance_1993",
+        "name": "True Romance",
+        "year": "1993"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jhurst444"
+        },
+        "dateCreated": "2004-02-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0108399/"
+        },
+        "name": "praise to a truly great film",
+        "reviewBody": "\"True Romance\" is one of those few movies that has it all: Action, romance, drama and brilliant acting. Not to mention TR has an all-star cast, but many contribute their finest work in this film. Oldman, Arquette and Slater arguably give their best performances. Christopher Walken's scene is nothing short of pure brilliance. I loved him in \"The Dead Zone\" and \"The Deer Hunter\" as well as his brief appearance in \"Pulp\". I was happy with the ending, and I'm glad it ended the way it did. We've come to not expect that type of ending anymore. This along with numerous other reasons too long to explain here is why I truly believe \"True Romance\" is one of the greatest films ever made. Period.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT2M7S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4110352665",
+        "name": "True Romance",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzk4NmJjNTgtNmFkYi00MmJkLTgyOTctNjEzZGFiNzM1NGEwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzk4NmJjNTgtNmFkYi00MmJkLTgyOTctNjEzZGFiNzM1NGEwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:31:52Z",
+        "url": "https://www.imdb.com/video/vi4110352665/"
+    },
+    "url": "/title/tt0108399/"
+}

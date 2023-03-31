@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bing Crosby",
+            "url": "/name/nm0001078/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bob Hope",
+            "url": "/name/nm0001362/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dorothy Lamour",
+            "url": "/name/nm0483787/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5551,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "Passed",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frank Butler",
+            "url": "/name/nm0124918/"
+        },
+        {
+            "@type": "Person",
+            "name": "Don Hartman",
+            "url": "/name/nm0366942/"
+        },
+        {
+            "@type": "Person",
+            "name": "Erik Charell",
+            "url": "/name/nm0152834/"
+        }
+    ],
+    "datePublished": "1943-04-08",
+    "description": "Two carefree castaways on a desert shore find an Arabian Nights city, where they compete for the luscious Princess Shalmar.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David Butler",
+            "url": "/name/nm0124877/"
+        }
+    ],
+    "duration": "PT1H22M",
+    "genre": [
+        "Adventure",
+        "Comedy",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMWIxOTY0YjUtNDhkZC00MGE4LThmYzAtZmQxOWQ5MDYyNGRiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDQzMDg4Nzk@._V1_.jpg",
+    "keywords": "unintentional male to male kiss,singer,arabian stallion,talking camel,slavery",
+    "name": "Road to Morocco",
+    "original_info": {
+        "id": "Road to Morocco_1942",
+        "name": "Road to Morocco",
+        "year": "1942"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "mgirl"
+        },
+        "dateCreated": "2002-12-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0035262/"
+        },
+        "name": "Don't Take It Seriously",
+        "reviewBody": "The Road to Morocco is the best of Crosby/Hope road movies, in my humble opinion. Yes, the plot is paper thin, but the comedy and self-deprecating humor is there. Much of the comedy is slapstick, but this is a movie that's not afraid to say \"It's just a movie, don't take it seriously.\" In the first song, Crosby and Hope allude to it being just another road movie. Naturally they'll meet Dorothy Lamour, and they have nothing to fear, because Paramount will protect them. This is not a movie to have a serious, philosophical discussion about. This is a movie to pop into the VCR on a Saturday night and forget about your worries.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Two carefree castaways on a desert shore find an Arabian Nights city, where they compete for the luscious Princess Shalmar.",
+        "duration": "PT2M12S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3450782233",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTZhMzBmZmItMzk3Ni00MGM5LWI2MWUtZGNlZDdkODk0YTc5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTZhMzBmZmItMzk3Ni00MGM5LWI2MWUtZGNlZDdkODk0YTc5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2022-04-22T15:11:40.319Z",
+        "url": "https://www.imdb.com/video/vi3450782233/"
+    },
+    "url": "/title/tt0035262/"
+}

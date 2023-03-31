@@ -1,0 +1,70 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Makiko Kuno",
+            "url": "/name/nm0475234/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kaori Sakagami",
+            "url": "/name/nm1167391/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 18,
+        "ratingValue": 3.8,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0022792/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hiroyuki Tsuji",
+            "url": "/name/nm1146417/"
+        }
+    ],
+    "description": "After her husband and child are murdered, a woman becomes an assassin for hire.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Akinobu Ishiyama",
+            "url": "/name/nm0411145/"
+        }
+    ],
+    "genre": [
+        "Action",
+        "Thriller"
+    ],
+    "keywords": "assassin,revenge",
+    "name": "Sugar: Howling of Angel",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Rubbed Raw"
+        },
+        "dateCreated": "2005-08-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0284527/"
+        },
+        "name": "Not bad female assassin movie",
+        "reviewBody": "Kind of like other Japanese movies, such as Zero Woman, or the Prisoner Maria. I think it might be trying to be Black Cat (La Femme Nikita), or Naked Killer,but just isn't quite as good. I think it was influenced by the classic Charles Bronson movie, The Mechanic (professional killer makes a friend - or in this case, takes a lover - and then trains him/her to be an assassin). Sugar has a few good moments, and one scene of over the top violence(in which she tortures a gangster to get some information) which is probably worth the price of a rental. It also has a fair bit of nudity and sex, which does help to make it an entertaining film. Some of the subtitles are quite bad, and probably inaccurate. Don't expect the best, and you might enjoy this movie.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0284527/"
+}

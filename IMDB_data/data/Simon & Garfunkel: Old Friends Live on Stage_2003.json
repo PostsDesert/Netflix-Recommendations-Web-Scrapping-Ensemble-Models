@@ -1,0 +1,80 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jameson Parker",
+            "url": "/name/nm0662321/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gerald McRaney",
+            "url": "/name/nm0574468/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mary Carver",
+            "url": "/name/nm0142571/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5668,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "TV-PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0046592/"
+        },
+        {
+            "@type": "Person",
+            "name": "Philip DeGuere Jr.",
+            "url": "/name/nm0214880/"
+        }
+    ],
+    "datePublished": "1981-11-24",
+    "description": "Two brothers of disparate tastes and manners run a private detective agency.",
+    "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZWJkZTc4ZmItMjY0NC00OTg5LTgxYTUtMTgxMzY3Y2Y5ZjMyXkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg",
+    "keywords": "1980s,character names as series title,punctuation in series title,surnames as series title,private detective agency",
+    "name": "Simon & Simon",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "darqueguy"
+        },
+        "dateCreated": "2001-11-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0081930/"
+        },
+        "name": "What a fantastic show!",
+        "reviewBody": "You know, I was too young in the 1980's to really appreciate the show...in fact, I don't recall having seen an episode during it's original run. I've just started watching the reruns at 4 AM (PST) on A&E and I'm amazed at just how fun a show it was. A lot the shows like this from the same era seem a bit dated today (Miami Vice, anybody?), but this remains fresh without showing it's age. Parker and McRaney are perfect as the brothers and hit the right combination of comedy and drama, just like a good show should. This is a new favorite for me."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer 1",
+        "duration": "PT1M18S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi637124377",
+        "name": "Simon & Simon",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTZmYTM1NDEtYWEyMi00ZTc0LWI1ODYtNjcyYTVlNzgyNDNhXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTZmYTM1NDEtYWEyMi00ZTc0LWI1ODYtNjcyYTVlNzgyNDNhXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg",
+        "uploadDate": "2019-10-16T17:02:10.138Z",
+        "url": "https://www.imdb.com/video/vi637124377/"
+    },
+    "url": "/title/tt0081930/"
+}

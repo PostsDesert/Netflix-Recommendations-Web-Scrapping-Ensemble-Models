@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Scott Bakula",
+            "url": "/name/nm0000836/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jasmine Guy",
+            "url": "/name/nm0004982/"
+        },
+        {
+            "@type": "Person",
+            "name": "Natalie Cole",
+            "url": "/name/nm0004831/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7993,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0057460/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0079227/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rick Calabash",
+            "url": "/name/nm0773985/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Lence",
+            "url": "/name/nm0501729/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Dindal",
+            "url": "/name/nm0227540/"
+        }
+    ],
+    "datePublished": "1997-03-26",
+    "description": "Danny, an ambitious singing and dancing cat, goes to Hollywood and overcomes several obstacles to fulfill his dream of becoming a movie star.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mark Dindal",
+            "url": "/name/nm0227540/"
+        }
+    ],
+    "duration": "PT1H15M",
+    "genre": [
+        "Animation",
+        "Comedy",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYjEyNmY0NDItOGZiMS00NjE2LTg5OTItNTRjMzZjMjI5OTUxXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "celebrity caricature,cat,hollywood,child star,spoiled brat",
+    "name": "Cats Don't Dance",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "louisa_animaniac"
+        },
+        "dateCreated": "2002-02-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0118829/"
+        },
+        "name": "The most hyperactive movie I've ever seen!",
+        "reviewBody": "Wow! What a fun movie! I love \"Cats Don't Dance\" with a passion. I found it so refreshing to see animation like this after such a long string of Disney films so bent on realism. Here, the animation is cartooney, way-overblown, and UNBELIEVABLY manic! The story is wonderfully carried out with anthropomorphic animal characters (something you don't often see in features), and the uplifting message is catching. It's very entertaining and very funny! I recommend you view \"Cats Don't Dance\" while feeling very energetic. Otherwise, it'll just make you tired. Probably not everybody's cup of tea, but it sure is MINE! An enthusiastic 10/10 stars!\n\n P.S. Did you know that Scott Bakula can sing? He sure can!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Danny, an ambitious singing and dancing cat, goes to Hollywood and overcomes several obstacles to fulfill his dream of becoming a movie star.",
+        "duration": "PT1M52S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1576649497",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDdhNzBhNDktZDIzMi00NDk3LThiOWEtNGRiNmZjZDI5YjE5XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDdhNzBhNDktZDIzMi00NDk3LThiOWEtNGRiNmZjZDI5YjE5XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-11-05T15:28:25.963Z",
+        "url": "https://www.imdb.com/video/vi1576649497/"
+    },
+    "url": "/title/tt0118829/"
+}

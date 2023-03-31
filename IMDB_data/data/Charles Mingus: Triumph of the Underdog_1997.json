@@ -1,0 +1,58 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Charles Mingus",
+            "url": "/name/nm0591323/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gunther Schuller",
+            "url": "/name/nm0776051/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 167,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "datePublished": "2004-10-24",
+    "description": "Nine years in the making, CHARLES MINGUS - Triumph of the Underdog is the first comprehensive documentary about jazz bassist, bandleader and composer Charles Mingus. A lucid involving portrait showing the many faces and tortured h...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Don McGlynn",
+            "url": "/name/nm0569469/"
+        }
+    ],
+    "duration": "PT1H18M",
+    "genre": [
+        "Documentary",
+        "Biography",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk0MzAxMDY4MV5BMl5BanBnXkFtZTcwNzI2ODYyMQ@@._V1_.jpg",
+    "keywords": "jazz,independent film",
+    "name": "Charles Mingus: Triumph of the Underdog",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Dario"
+        },
+        "dateCreated": "1998-10-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0138357/"
+        },
+        "name": "Great jazz-documentary",
+        "reviewBody": "Great documentary showing a struggling artist. If you're into jazz the soundtrack is superb."
+    },
+    "url": "/title/tt0138357/"
+}

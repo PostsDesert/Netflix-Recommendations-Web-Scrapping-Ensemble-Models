@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Woody Harrelson",
+            "url": "/name/nm0000437/"
+        },
+        {
+            "@type": "Person",
+            "name": "Courtney Love",
+            "url": "/name/nm0001482/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edward Norton",
+            "url": "/name/nm0001570/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 97238,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0111219/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0012496/"
+        },
+        {
+            "@type": "Person",
+            "name": "Scott Alexander",
+            "url": "/name/nm0018735/"
+        },
+        {
+            "@type": "Person",
+            "name": "Larry Karaszewski",
+            "url": "/name/nm0438989/"
+        }
+    ],
+    "datePublished": "1997-01-10",
+    "description": "The story of controversial pornography publisher Larry Flynt, and how he became a defender of free speech.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Milos Forman",
+            "url": "/name/nm0001232/"
+        }
+    ],
+    "duration": "PT2H10M",
+    "genre": [
+        "Biography",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZDlhNjY4NzktN2NkMC00NzkxLTg0N2QtODhlYzFjYzZiNzc1XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg",
+    "keywords": "lawyer,hustler magazine,female nudity,female frontal nudity,1st amendment",
+    "name": "The People vs. Larry Flynt",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "philip_vanderveken"
+        },
+        "dateCreated": "2004-12-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0117318/"
+        },
+        "name": "The rise and fall of a (sex)god",
+        "reviewBody": "\"The People vs. Larry Flynt\" is already 8 years old, and the subject it talks about is even older, but it still hasn't lost anything of it's relevance. This isn't a movie about Larry Flynt, the porn king. It's more a movie about the right to say what you want to say, without having to think of every person's opinion first. \n\nYou may not like the man or what he stands for, but at least he has the guts to stand up for what he believes in. He defends his right to speak freely and doesn't mind kicking against the shins of the ultra conservative Christians. In a way today's America needs more people like him instead of acting like a bunch of sheep being brought to the slaughterhouse by their government...\n\nThe acting in the movie is very good, but especially Woody Harrelson as Larry Flynt and Edward Norton as his lawyer were excellent. Courtney Love isn't really an actress, but still did a good job (not that hard to do when you play a role that you are quite familiar with in your own life.)\n\nAll in all this is a very enjoyable movie that will be loved by some and hated by many. Personally I liked it and I give it a 7.5/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for The People Vs. Larry Flynt",
+        "duration": "PT2M21S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4154103833",
+        "name": "The People vs. Larry Flynt",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BM2RjMWI4MDUtOThiYS00ZTc0LTljNWQtOGQ5ZTI5MTcxNDU5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BM2RjMWI4MDUtOThiYS00ZTc0LTljNWQtOGQ5ZTI5MTcxNDU5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-12-13T06:30:24Z",
+        "url": "https://www.imdb.com/video/vi4154103833/"
+    },
+    "url": "/title/tt0117318/"
+}

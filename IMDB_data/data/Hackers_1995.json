@@ -1,0 +1,92 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jonny Lee Miller",
+            "url": "/name/nm0001538/"
+        },
+        {
+            "@type": "Person",
+            "name": "Angelina Jolie",
+            "url": "/name/nm0001401/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jesse Bradford",
+            "url": "/name/nm0103038/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 71294,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0026841/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0021711/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rafael Moreu",
+            "url": "/name/nm0604360/"
+        }
+    ],
+    "datePublished": "1995-09-15",
+    "description": "Hackers are blamed for making a virus that will capsize five oil tankers.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Iain Softley",
+            "url": "/name/nm0812200/"
+        }
+    ],
+    "duration": "PT1H45M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNmExMTkyYjItZTg0YS00NWYzLTkwMjItZWJiOWQ2M2ZkYjE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "computer,computer virus,cyberpunk,hacker,floppy disk",
+    "name": "Hackers",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "vestan_p"
+        },
+        "dateCreated": "2001-03-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0113243/"
+        },
+        "name": "The best movie EVER!",
+        "reviewBody": "Well, here it is folks, I think it's been long enough since hackers came out (6 years+), so I am going to offer what I think will be the definitive commentary on the film \"Hackers.\" Simply put, Hackers is the finest movie ever. The music, the costumes, the dialog... if you could put FUN in a box (not to mention Johnny Lee Miller and Angelina Jolie) the box would say \"Hackers\" on it. If this movie were a president, it would Hackraham Lincoln. If it were a gum, it would be Hackalicious... you get the picture.\n\nAnyhow, the really important thing I have to say is this:\n\nA.) Hackers is NOT a \"B-movie\"; the budget was large and the actors have major talent; it's a slick production, and it shows.\n\nB.) Contrary to the belief of some cyber-dorks out there (who mainly get their jollies by pretending they know more than other people about computers) it doesn't matter if the computer interface is somewhat unrealistic. Obviously, there are some classic \"movie\" style computer screens (a la 1995's other horrible computer flick \"The Net (of crap)\"), but lest I seem like a broken record, I will repeat for the entertainmentally challenged THIS IS A MOVIE!\n\nC.) Are you kidding me? This stuff is great! I can watch this movie forever (and believe me, I have) and NEVER EVER get tired of it. C'mon, this stuff is just classic, listen here to some dialogue:\n\n(spoken with much gusto:) \"Yeah, it's got a killer refresh rate.\"\n\n\"Risc is good.\"\n\n\"Never fear, I is here.\"\n\nIT'S SO CLASSIC IT HURTS!\n\nBottom line, if you wanna be a nerd, go program something. If you want to be entertained, get this movie, NOW!"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Hackers: The Plague Gets A Trace",
+        "duration": "PT1M38S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi489014553",
+        "name": "Hackers: The Plague Gets A Trace",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYWUwYzM1MWYtOGVjYS00MDEzLTkxZjItYzhlN2Q1OWY2NmZlXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYWUwYzM1MWYtOGVjYS00MDEzLTkxZjItYzhlN2Q1OWY2NmZlXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2023-01-31T21:55:52.179Z",
+        "url": "https://www.imdb.com/video/vi489014553/"
+    },
+    "url": "/title/tt0113243/"
+}

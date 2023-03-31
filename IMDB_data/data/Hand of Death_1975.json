@@ -1,0 +1,83 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Agar",
+            "url": "/name/nm0000730/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paula Raymond",
+            "url": "/name/nm0666358/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen Dunne",
+            "url": "/name/nm0242911/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 497,
+        "ratingValue": 4.6,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0076971/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eugene Ling",
+            "url": "/name/nm0512702/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harry Spalding",
+            "url": "/name/nm0189171/"
+        }
+    ],
+    "description": "Alex Marsh has created a serum combining a hypnotic drug and nerve gas. Unfortunately spills the formula, breathing the vapors and getting some on his hands causing the drug transforms him into a murderous monster.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Gene Nelson",
+            "url": "/name/nm0625383/"
+        }
+    ],
+    "duration": "PT1H",
+    "genre": [
+        "Horror",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZmVmOWI1ZDQtNzFhNi00YzdhLWJjZmItMjY1ZDEyNTllZGI1XkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_.jpg",
+    "keywords": "psychotronic film,deadly touch,dead mice,monster,station wagon",
+    "name": "Hand of Death",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ashew"
+        },
+        "dateCreated": "2006-12-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0056055/"
+        },
+        "name": "To Film Snobs: Lighten Up!!",
+        "reviewBody": "Reading through some of the IMDb reviews, I was truly bewildered by the responses. It was like bullies beating up on the weakling in school...not because he necessarily needed to be beat up, but just because the bullies could. Well, I'm the principal here to tell those folks to lighten up and leave the poor kid alone! My goodness, this movie had a budget of $1.95, yet everyone is expecting \"Lawrence of Arabia\"? Come on.\n\nJohn Agar is a government scientist out in the California desert who thinks he is a few steps away from creating a revolutionary nerve gas agent that will eliminate all wars. His mentor, the mentor's secretary, his scientist buddy, and even his own college intern think it's too dangerous and want him to stop, but John has noble and lofty goals and pushes on. Well, John has an accident, spills one of the liquefied variations on his hands, and slowly turns into a hideous, mutated creature whose touch can kill...and kill he does.\n\nMaybe I was just in the mood for a fun little film like this, but I must say the acting didn't bother me, nor did the production values, the music, the directing, or the monster make-up. Yes, the screenplay is dopey, has holes in the logic, and a rather abrupt and unsatisfying ending, but this is a Z-grade film aimed at kids at a drive-in theater looking for a fun time, not stuffy film critics or pretentious film snobs.\n\nSet your expectations at a reasonable level, have fun, and enjoy a great little throw-back to a bygone age of sci-fi/horror.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0056055/"
+}

@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Matt Frewer",
+            "url": "/name/nm0001242/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mary Gross",
+            "url": "/name/nm0343444/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kevin Mundy",
+            "url": "/name/nm0612775/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 750,
+        "ratingValue": 4.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007207/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tim Garrick",
+            "url": "/name/nm0308260/"
+        },
+        {
+            "@type": "Person",
+            "name": "Scott Russell",
+            "url": "/name/nm0751442/"
+        }
+    ],
+    "datePublished": "2000-04-16",
+    "description": "A popular high-school senior boy is accused of the statutory rape of a high-school sophomore girl.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Allan Moyle",
+            "url": "/name/nm0610496/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Drama",
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDRhYWE1ZWItZmNjMS00NDRiLWI0ZTgtYzEzODc0MTM0NDVjXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+    "keywords": "high school,statutory rape,voice over narration,sex,masturbation",
+    "name": "Jailbait",
+    "original_info": {
+        "id": "Jailbait!_2000",
+        "name": "Jailbait!",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "horsey2336"
+        },
+        "dateCreated": "2000-04-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0226009/"
+        },
+        "name": "This movie was an example of MTV at it's best!",
+        "reviewBody": "Watching this movie makes one realize just what can go wrong when you do a 'naughty' thing. As a comedy, it cracked me up. On the serious end, it made me understand the dangers that 'not waiting' can cause. Definitely a movie to watch!"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from PM Entertainment",
+        "duration": "PT2M39S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3683778841",
+        "name": "Jailbait!",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BN2JlZTk5MDQtN2M4OS00YWU3LWFkYjctODdkNzNhMWFkYzZjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BN2JlZTk5MDQtN2M4OS00YWU3LWFkYjctODdkNzNhMWFkYzZjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:48:44Z",
+        "url": "https://www.imdb.com/video/vi3683778841/"
+    },
+    "url": "/title/tt0226009/"
+}

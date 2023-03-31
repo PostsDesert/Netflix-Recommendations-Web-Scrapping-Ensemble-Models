@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Gene Wilder",
+            "url": "/name/nm0000698/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Pryor",
+            "url": "/name/nm0001640/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jill Clayburgh",
+            "url": "/name/nm0001049/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 20861,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0017399/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0056496/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Person",
+            "name": "Colin Higgins",
+            "url": "/name/nm0383359/"
+        }
+    ],
+    "datePublished": "1976-12-03",
+    "description": "On a long-distance train trip, a man finds romance but also finds himself in danger of being killed, or at least pushed off the train.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Arthur Hiller",
+            "url": "/name/nm0002137/"
+        }
+    ],
+    "duration": "PT1H54M",
+    "genre": [
+        "Action",
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjlmOWEyNDAtNGY1Yi00MDZiLTlkMDYtMWZkY2UwZTJjZjhiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "train,thrown from a train,sexual innuendo,biplane,race relations",
+    "name": "Silver Streak",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "planktonrules"
+        },
+        "dateCreated": "2021-10-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0075223/"
+        },
+        "name": "A bit like \"North By Northwest\"...and not the comedy I expected it to be.",
+        "reviewBody": "When I began watching \"Silver Streak\", I assumed it was a zany comedy. After all, it re-teams Gene Wilder and Richard Pryor. So, imagine my surprise when I found that no comedy at all occurred until Pryor appeared in the film...and this wasn't until over an hour into the movie! Even then, it was still basically a drama with a few comedic scenes. This is NOT a complaint....just trying to adjust your expectations for the film.\n\nGeorge (Wilder) is going cross country by train. Soon after the train leaves, he meets a nice lady, Hilly (Jill Clayburgh) and they REALLY hit it off well....so well they spend the night together in her compartment. But during the night, George thinks he sees a dead man being tossed off the train...but she convinces him he must have imagined it. The next day, it becomes obvious he DID see what he thought....and there's a gang aboard the train that likely will kill him if he keeps digging. At first, they just throw him off the train...and yet again and again George manages to make his way back aboard the train. Along the journey on and off the train, George meets Grover (Pryor) and together they try to solve the crime...a crime now that includes multiple murders!\n\nIn many ways, the film plays like a reworking of the plot to \"North By Northwest\", as an ordinary man gets sucked into all sorts of crazy and life threatening criminal behavior. But as I said above, it's NOT a comedy...at least overall. There are some funny bits (such as the far from politically correct blackface scene...that is pretty funny)....but the film is much more drama than anything else. Overall, a nice and unique film that I do recommend even if it's NOT mostly comedy.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for this off the rails comedy starring Gene Wilder and Richard Pryor",
+        "duration": "PT3M8S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4041933849",
+        "name": "Silver Streak",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzU5MDMwMDYtMDEyOS00NWI0LTlmNmYtN2VkYzc1OThmZDAzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzU5MDMwMDYtMDEyOS00NWI0LTlmNmYtN2VkYzc1OThmZDAzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-01-16T16:17:54Z",
+        "url": "https://www.imdb.com/video/vi4041933849/"
+    },
+    "url": "/title/tt0075223/"
+}

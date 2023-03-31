@@ -51,6 +51,12 @@ def get_IMDB_data_by_movie(movie):
 
         result = json.loads(fixed_json)
 
+        result['original_info'] = {
+            'name': movie['name'],
+            'year': movie['year'],
+            'id': f'{movie["name"].replace("/", "|")}_{movie["year"]}'
+        }
+
         return json.dumps(result, indent=4, sort_keys=True, ensure_ascii=False)
     else:
         print(f"ERROR: Could not find match for: {movie['name']} at url: {url}")
@@ -91,6 +97,7 @@ def read_movies_from_csv(file_path):
     return movies
 
 def write_IMDB_data_to_file(movie, IMDB_data):
+    # we need this tag to match the movie with the IMDB data
     with open(f'IMDB_data/data/{movie["name"].replace("/", "|")}_{movie["year"]}.json', 'w') as outfile:
         outfile.write(IMDB_data)
 

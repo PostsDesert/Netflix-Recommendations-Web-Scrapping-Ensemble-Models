@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Eddie Murphy",
+            "url": "/name/nm0000552/"
+        },
+        {
+            "@type": "Person",
+            "name": "Martin Lawrence",
+            "url": "/name/nm0001454/"
+        },
+        {
+            "@type": "Person",
+            "name": "Obba Babatundé",
+            "url": "/name/nm0044762/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 52427,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0003687/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Ramsey",
+            "url": "/name/nm0709070/"
+        },
+        {
+            "@type": "Person",
+            "name": "Matthew Stone",
+            "url": "/name/nm0832043/"
+        }
+    ],
+    "datePublished": "1999-04-16",
+    "description": "In 1932, two strangers are wrongfully convicted and develop a strong friendship in prison that lasts them through the 20th century.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ted Demme",
+            "url": "/name/nm0001130/"
+        }
+    ],
+    "duration": "PT1H48M",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BN2M0YWM1OTgtMDY1Ni00Y2RkLTkxNzktODUyNDU0YWFkYjQyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "life imprisonment,great depression,friendship between men,prison life,death",
+    "name": "Life",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "lee_eisenberg"
+        },
+        "dateCreated": "2006-04-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0123964/"
+        },
+        "name": "jail actually looks kinda nice all of a sudden",
+        "reviewBody": "In 1999, Eddie Murphy continued his comeback* by starring in two very good comedies: \"Life\" and \"Bowfinger\". The former casts him and Martin Lawrence as 1930s New Yorkers Ray Gibson and Claude Banks, who drive down to Mississippi and get falsely convicted of murder, thereby getting a life sentence in a prison farm. Over the years, they have a series of experiences, sometimes wacky, sometimes revealing new dimensions to their characters. Obviously, the very thought of a movie starring Eddie Murphy and Martin Lawrence sounds like it would have to be pure junk. Looking at the poster, one might think that the whole movie consists of them getting bullied by giant inmates (and there are some scenes like that). But this flick actually has a plot. There's obviously the context of the Jim Crow south - which, believe it or not, leads to a really funny situation at one point. All in all, this is a very well done comedy - silly at times, but definitely worth seeing. We can say with certainty that Ted Demme had a very good track record as a director (he was also behind \"The Ref\" and \"Blow\"); too bad he died so young.\n\n*Unfortunately, his last few years have consisted of fare like \"I Spy\" and \"Daddy Day Care\".",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Universal Studios Home Entertainment",
+        "duration": "PT1M39S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1888878873",
+        "name": "Life (1999)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZGRhNDYxZDAtMmUyNy00YzJhLTg4NjUtN2JlY2QwNWFjMDJjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZGRhNDYxZDAtMmUyNy00YzJhLTg4NjUtN2JlY2QwNWFjMDJjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:00:56Z",
+        "url": "https://www.imdb.com/video/vi1888878873/"
+    },
+    "url": "/title/tt0123964/"
+}

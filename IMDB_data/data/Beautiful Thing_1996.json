@@ -1,0 +1,84 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Glen Berry",
+            "url": "/name/nm0077551/"
+        },
+        {
+            "@type": "Person",
+            "name": "Linda Henry",
+            "url": "/name/nm0377905/"
+        },
+        {
+            "@type": "Person",
+            "name": "Scott Neal",
+            "url": "/name/nm0623673/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 24825,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103532/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0072097/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jonathan Harvey",
+            "url": "/name/nm1281893/"
+        }
+    ],
+    "datePublished": "1996-10-09",
+    "description": "Jamie is a shy teenager, often bullied at school. His neighbour Ste has a rough time at home, being beaten by his father and brother. This issues bring them together and they find that what they feel for each other is more than fr...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Hettie Macdonald",
+            "url": "/name/nm0531751/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTM4OTllMzYtZmQ0YS00MDU3LTliZDktNjMzYmQ4ZjRjMmFjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "sexual attraction,mother son relationship,mother's boyfriend,teenage boy,first gay sexual experience",
+    "name": "Beautiful Thing",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "radioheadvoices"
+        },
+        "dateCreated": "2000-04-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0115640/"
+        },
+        "name": "Two male teenagers discover love.",
+        "reviewBody": "Never have I seen such a simple film that was so satisfying. The screenwriter dealt with the issue of homosexuality among teenagers in a realistic and smart manner. Every time the film becomes a little too dramatic, the director has something funny happen to lighten the atmosphere, which makes for a sweet and touching film. Also, all the characters are complex, so that bad characters do good things and good characters do bad things. Nobody is perfect and nobody is all bad, which makes the film even more realistic. It's similar to the more recent Get Real, but Beautiful Thing is definitely better. This is without a doubt my favorite gay film. Only the British can make a film this good!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0115640/"
+}

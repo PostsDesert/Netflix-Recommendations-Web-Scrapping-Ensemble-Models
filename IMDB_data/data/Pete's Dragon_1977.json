@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sean Marshall",
+            "url": "/name/nm0551171/"
+        },
+        {
+            "@type": "Person",
+            "name": "Helen Reddy",
+            "url": "/name/nm0714761/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Dale",
+            "url": "/name/nm0197715/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 25432,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0098836/"
+        },
+        {
+            "@type": "Person",
+            "name": "Malcolm Marmorstein",
+            "url": "/name/nm0549393/"
+        },
+        {
+            "@type": "Person",
+            "name": "Seton I. Miller",
+            "url": "/name/nm0589316/"
+        },
+        {
+            "@type": "Person",
+            "name": "S.S. Field",
+            "url": "/name/nm0276039/"
+        }
+    ],
+    "datePublished": "1977-11-03",
+    "description": "An orphan boy and his magical dragon come to town with his abusive adoptive parents in pursuit.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Don Chaffey",
+            "url": "/name/nm0149548/"
+        },
+        {
+            "@type": "Person",
+            "name": "Don Bluth",
+            "url": "/name/nm0089940/"
+        }
+    ],
+    "duration": "PT2H8M",
+    "genre": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjJkMjcyOTktYTIwNC00MTY3LWE4ZTAtMTdlODg0NDE3YTQ1XkEyXkFqcGdeQXVyNjM1MTQ0NTQ@._V1_.jpg",
+    "keywords": "live action animated hybrid,combined animation and live action,2d animation,traditional animation,cartoon dragon",
+    "name": "Pete's Dragon",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "TheLittleSongbird"
+        },
+        "dateCreated": "2009-03-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0076538/"
+        },
+        "name": "A childhood memory!",
+        "reviewBody": "This is a very well done film. It isn't quite as memorable as Mary Poppins and Bedknobs and Bedknobs and Broomsticks, but it so deserves to be up there. The protagonist was very well portrayed by Sean Marshall,(despite the lack of singing ability) but my favourite was the animated dragon Elliot. The scene in the schoolroom was priceless. I absolutely loved Helen Reddy as Nora, the way she sang \"Candle in the Water\"(about her lover) was beautiful. Jim Dale was great and very funny as the quack Dr Terminus, but he has been better in the Carry on franchise. The most entertaining were Red Buttons and Mickey Rooney, and I mustn't forget the Gogans Shelley Winters must have had a ball making this film. The film has two minor drawbacks. It is a little too long, but also the songs while very pleasant to hear aren't as memorable as later Disney efforts, though Candle On the Water and There's Room for Everyone are classics. But I agree it is underrated. This film is an 8/10. Bethany Cox",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "An orphan boy and his magical dragon come to town with his abusive adoptive parents in pursuit.",
+        "duration": "PT1M52S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi664715545",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTAzNDhkMTktM2E5NS00NTQwLTllOWEtNjE3NTg2MGYzYWE1XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTAzNDhkMTktM2E5NS00NTQwLTllOWEtNjE3NTg2MGYzYWE1XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-10-02T13:47:20.781Z",
+        "url": "https://www.imdb.com/video/vi664715545/"
+    },
+    "url": "/title/tt0076538/"
+}

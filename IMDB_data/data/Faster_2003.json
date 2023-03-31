@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ewan McGregor",
+            "url": "/name/nm0000191/"
+        },
+        {
+            "@type": "Person",
+            "name": "Valentino Rossi",
+            "url": "/name/nm1387126/"
+        },
+        {
+            "@type": "Person",
+            "name": "Max Biaggi",
+            "url": "/name/nm1384117/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1438,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0116524/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0099845/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Neale",
+            "url": "/name/nm0623715/"
+        }
+    ],
+    "datePublished": "2004-03-07",
+    "description": "Filmed around the world in 2001 and 2002, Faster captures the rise of MotoGP superstar Valentino Rossi amid ferocious competition, especially from his bitter rival Max Biaggi.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mark Neale",
+            "url": "/name/nm0623715/"
+        }
+    ],
+    "duration": "PT1H43M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI2NTE0MDY5MV5BMl5BanBnXkFtZTYwNjcxMjk2._V1_.jpg",
+    "keywords": "motogp,motorcycle,racing",
+    "name": "Faster",
+    "original_info": {
+        "id": "Faster_2003",
+        "name": "Faster",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "gmazza"
+        },
+        "dateCreated": "2004-12-15",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0368721/"
+        },
+        "name": "The \"On Any Sunday\" of our generation...",
+        "reviewBody": "An absolutely stunning piece of film. Manages to capture the feeling of riding a bike right at the edge of it's performance envelope, and shows us the mind-bending consequences of breaking through that envelope. If you don't understand why some of us choose to go as fast as humanly (or inhumanly) possible on two wheels, then this movie might provide some insight. For those who are already familiar with the sport, the interviews with riders both past and present are worth the price of admission alone. Hearing Kevin Schwantz describe how it felt just as good to beat Wayne Rainey to 5th place as it did to win provides some insight into the competitive nature required to push those \"evil\" bikes to the limit. If you have even a passing interest in motorcycles or motor sport, please go watch this movie. Even if only to see how bike racers make four-wheel racers look like a bunch of nancy-boys.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0368721/"
+}

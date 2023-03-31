@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Andy Garcia",
+            "url": "/name/nm0000412/"
+        },
+        {
+            "@type": "Person",
+            "name": "Uma Thurman",
+            "url": "/name/nm0000235/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lance Henriksen",
+            "url": "/name/nm0000448/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 17582,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "alternateName": "Jennifer 8",
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bruce Robinson",
+            "url": "/name/nm0732430/"
+        }
+    ],
+    "datePublished": "1992-11-06",
+    "description": "John Berlin, a former Los Angeles homicide detective, investigates a multiple murder case in San Diego. The only witness is a blind girl to whom he is immediately attracted.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bruce Robinson",
+            "url": "/name/nm0732430/"
+        }
+    ],
+    "duration": "PT2H4M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDNmNDAxYzgtODJjNS00YTRmLTkxOTAtNTliNzdjOWQ2NmI1XkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+    "keywords": "character name in title,serial killer,blind woman,christmas,blindness",
+    "name": "Jennifer Eight",
+    "original_info": {
+        "id": "Jennifer 8_1992",
+        "name": "Jennifer 8",
+        "year": "1992"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "thirdi"
+        },
+        "dateCreated": "2001-10-31",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0104549/"
+        },
+        "name": "A very under-rated movie",
+        "reviewBody": "This is one of those movies that I still pull out every once in a while and just pop in. It's absolutely entertaining, with great performances from pretty much everybody, but especially Andy Garcia and Lance Henrikson.\n\nIt plays out like a good mystery/thriller should: Frustrating twists and turns, brooding atmosphere and music, and layer after layer of clues that you know are building to a big time climax. I really can't find anything to criticize about this film and I'm surprised it's IMDB rating isn't higher. \n\n If you haven't seen it, you'll be doing yourself a favor by bypassing the new releases for just one night at blockbuster, and picking this one up.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "John Berlin, a former Los Angeles homicide detective, investigates a multiple murder case in San Diego. The only witness is a blind girl to whom he is immediately attracted.",
+        "duration": "PT2M17S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1694483225",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNGQwYTcyYmItODM3ZC00OTU3LTllOWQtMjY5Nzg1ZGRjYzk4XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNGQwYTcyYmItODM3ZC00OTU3LTllOWQtMjY5Nzg1ZGRjYzk4XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-11-10T18:15:34.748Z",
+        "url": "https://www.imdb.com/video/vi1694483225/"
+    },
+    "url": "/title/tt0104549/"
+}

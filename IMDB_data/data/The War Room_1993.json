@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "James Carville",
+            "url": "/name/nm0142598/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Stephanopoulos",
+            "url": "/name/nm0826888/"
+        },
+        {
+            "@type": "Person",
+            "name": "Heather Beckel",
+            "url": "/name/nm0065321/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4300,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0234120/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0025958/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0024448/"
+        }
+    ],
+    "description": "A documentary of the Bill Clinton 1992 presidential campaign and the organization who ran it.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Chris Hegedus",
+            "url": "/name/nm0373698/"
+        },
+        {
+            "@type": "Person",
+            "name": "D.A. Pennebaker",
+            "url": "/name/nm0672060/"
+        }
+    ],
+    "duration": "PT1H36M",
+    "genre": [
+        "Documentary",
+        "History"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzU4NThlNmUtMDdiMi00NzgyLTk4MTQtZTI0NjQ2OTg0ZDFjXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg",
+    "keywords": "primary election,on the road,politics documentary,timeframe 1990s,year 1992",
+    "name": "The War Room",
+    "original_info": {
+        "id": "The War Room_1993",
+        "name": "The War Room",
+        "year": "1993"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "caspian1978"
+        },
+        "dateCreated": "2004-05-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0108515/"
+        },
+        "name": "An Interesting Look into one of the last True Campaigns",
+        "reviewBody": "The opening of the War Room is unique. We see Bill Clinton, Governor of Arkansas at the time, looking back into the camera, at the audience, with a baseball cap on his head, and a t-shirt covering his body. About to sit down to have his cereal for breakfast, Clinton is talking casual on the phone to a friend. Like the opening conversation, the War Room is as unique and clever as any political documentary before or after. Most of the world did not known who James Carville was until 1992 / 1993. Most know him as a fast talking, cocky, and brilliant political player. Here, we see a deeper human being with more than just an objective, but a message to America. Behind his tears, we see the truth behind the Clinton Campaign in 1991. Whether you are a fan of politics or don't have the stomach to digest politics, you will enjoy the War Room.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Three Reasons Criterion Trailer for The War Room",
+        "duration": "PT1M39S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4224689177",
+        "name": "The War Room: The Criterion Collection Blu-Ray",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTU4MDRkMDgtM2VmMS00OGQwLWJjYzAtYzUyOTdhMGQ4ZDQ0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTU4MDRkMDgtM2VmMS00OGQwLWJjYzAtYzUyOTdhMGQ4ZDQ0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2012-09-23T03:41:28Z",
+        "url": "https://www.imdb.com/video/vi4224689177/"
+    },
+    "url": "/title/tt0108515/"
+}

@@ -1,0 +1,76 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mike Nichols",
+            "url": "/name/nm0001566/"
+        },
+        {
+            "@type": "Person",
+            "name": "Miranda Richardson",
+            "url": "/name/nm0001669/"
+        },
+        {
+            "@type": "Person",
+            "name": "David de Keyser",
+            "url": "/name/nm0209095/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 364,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0043107/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0103556/"
+        },
+        {
+            "@type": "Person",
+            "name": "Wallace Shawn",
+            "url": "/name/nm0001728/"
+        }
+    ],
+    "datePublished": "1997-05-23",
+    "description": "Jack and Judy are husband and wife, and Howard is Judys father. They live in some fictional undemocratic and repressive country, and tell us a story about their lives, mostly from Jack's point of view.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David Hare",
+            "url": "/name/nm0002376/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY2NDE5NjY4MV5BMl5BanBnXkFtZTcwNzkzNDIyMQ@@._V1_.jpg",
+    "keywords": "vomiting,wealth,vacation,urination,unhappiness",
+    "name": "The Designated Mourner",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Zardok"
+        },
+        "dateCreated": "2000-06-05",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0118964/"
+        },
+        "name": "original, moving film.",
+        "reviewBody": "What does it mean to be an intellectual? is it a facade comprised of book-learned knowledge, some peripheral understanding of poetry, art, and literature that are ultimately the persona known to others as one's self? Or is it the inner core of a person who possesses not simply a mere knowledge, but rather engages in communal understanding with the work of art, living and experiencing it? These are some of the many questions that this film raises. What these three actors -- who sit at a table, talking into the camera -- manage to accomplish is beyond my comprehension. If you like writers like Joyce or Kafka, if you enjoy poetry and intellectual stimulation in general, you will most likely appreciate this picture."
+    },
+    "url": "/title/tt0118964/"
+}

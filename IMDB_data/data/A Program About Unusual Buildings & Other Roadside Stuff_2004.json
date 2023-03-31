@@ -1,0 +1,66 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Rick Sebak",
+            "url": "/name/nm0780904/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Griffith",
+            "url": "/name/nm0341443/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 107,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "TV-G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0055764/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rick Sebak",
+            "url": "/name/nm0780904/"
+        }
+    ],
+    "datePublished": "2004-07-11",
+    "description": "A travelogue featuring oddly-shaped buildings (and the folks who live in, work in, own and admire them) located along USA highways.",
+    "duration": "PT57M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc5MjcwMjMyNV5BMl5BanBnXkFtZTcwNzc1ODkyMQ@@._V1_.jpg",
+    "keywords": "building,travel,small town,roadside attraction,restaurant",
+    "name": "A Program About Unusual Buildings & Other Roadside Stuff",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "planktonrules"
+        },
+        "dateCreated": "2011-09-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0448089/"
+        },
+        "name": "Unabashedly fun...",
+        "reviewBody": "The documentaries Rick Sebak makes for PBS are unusual in that they really are NOT deadly serious or even necessary...at least in a traditional sense. His films celebrate the odd and seemingly mundane things about American life--such as the history of hot dogs, old amusement parks, farmers' markets and the beach. But, here is the secret, this is ALL part of American history and you learn while you think you are just being entertained.\n\nOf all Sebak's films, this is my favorite. That's because I adore tacky and silly architecture businesses have used to attract tourists. Not surprisingly, my favorite book is \"Roadside America\" and this film is in the same fun spirit. Like the rest of his films, his crew visits all the goofy places and just lets people talk. All this is strung together by Sebak's gentle narration and slow pace. Fun and entertaining throughout--see this great film.\n\nMy only complaint? Well, there are LOTS of other goofy places across America--so why not make a sequel?!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0448089/"
+}

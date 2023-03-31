@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Michael Moore",
+            "url": "/name/nm0601619/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charlton Heston",
+            "url": "/name/nm0000032/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marilyn Manson",
+            "url": "/name/nm0001504/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 146008,
+        "ratingValue": 8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0026841/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0054762/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0099642/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Moore",
+            "url": "/name/nm0601619/"
+        }
+    ],
+    "datePublished": "2002-11-15",
+    "description": "Filmmaker Michael Moore explores the roots of America's predilection for gun violence.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Moore",
+            "url": "/name/nm0601619/"
+        }
+    ],
+    "duration": "PT2H",
+    "genre": [
+        "Documentary",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOWY2OWM1ODEtNDU5OS00MjMwLTliYzItZWZlOTEyYmQ2Njg4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "columbine high school killings,firearm,national rifle association,school shooting,gunfire",
+    "name": "Bowling for Columbine",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "shadow-max"
+        },
+        "dateCreated": "2011-11-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0310793/"
+        },
+        "name": "difference feeling about guns in the US and China",
+        "reviewBody": "I like Michael Moore's documentaries. Bowling for Columbine seems a little successful than Fahrenheit 9/11 for me. The background is the shooting violence affair in Columbia High School. Michael figured it out through different attitude of US citizens about this violence affair. He made issues of guns as the original problem in US violence. \n\nIn my personal opinion, this movie revealed that people transit a mood of insecurity. And all these bad things came from guns. Due to the idea throughout seemed to be the inherent evil with guns it was obvious from the questions asked that this isn't really true. Maybe there is a possibility, which shows American gun culture that people have their right and freedom to protect themselves, even they have power to fight against government in order to press somebody powerful. As a Chinese, I think if this gun-allowed policy was used in China, it will be a worse trouble, since Chinese government was controlled by only one party, their policy serviced for themselves, there are a lot of unstable things in society. If people have right to use guns, killing will happen everywhere.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from MGM Home Entertainment",
+        "duration": "PT2M7S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2814050585",
+        "name": "Bowling for Columbine",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDQ5MTU4MDQtOTdkNS00NWQwLWE5ODMtZWQ4Y2QwYzIzMDE0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDQ5MTU4MDQtOTdkNS00NWQwLWE5ODMtZWQ4Y2QwYzIzMDE0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:46:44Z",
+        "url": "https://www.imdb.com/video/vi2814050585/"
+    },
+    "url": "/title/tt0310793/"
+}

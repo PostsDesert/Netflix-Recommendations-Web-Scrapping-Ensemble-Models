@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jack Palance",
+            "url": "/name/nm0001588/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carol Lynley",
+            "url": "/name/nm0528595/"
+        },
+        {
+            "@type": "Person",
+            "name": "Barry Morse",
+            "url": "/name/nm0607579/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1124,
+        "ratingValue": 3.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0061665/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0003795/"
+        },
+        {
+            "@type": "Person",
+            "name": "H.G. Wells",
+            "url": "/name/nm0920229/"
+        },
+        {
+            "@type": "Person",
+            "name": "Martin Lager",
+            "url": "/name/nm0481202/"
+        }
+    ],
+    "description": "Some time in the future, man has set up colonies on the Moon, when Earth becomes uninhabitable. A madman decides to destroy the Moon colonies with his robots and automated ships, and only three people and their robot can stop him.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "George McCowan",
+            "url": "/name/nm0566671/"
+        }
+    ],
+    "duration": "PT1H38M",
+    "genre": [
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYjE3NWI1ZWEtNjk2ZC00YmU0LTliN2QtMGJlYTQzOTI0MWQxXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "computer,resistance,robot sci fi,the future,robot",
+    "name": "The Shape of Things to Come",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "zillabob"
+        },
+        "dateCreated": "2007-05-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0079894/"
+        },
+        "name": "Things that Came and Went...Space:1979",
+        "reviewBody": "Makes a great double feature of bad films paired with Space Mutiny(1988)or Starship Invasions(1977). I remember there being some hype for this film in Starlog and other genre mags of the time, and that Barry Morse was headlining it(along with Jack Palance and Carol Lynley) and that Sylvia Anderson(Space:1999, UFO) was producing it and involved in aspects of the design. Well, Anderson walked early on, signing herself off it, but not after signing on Barry Morse from her Space:1999 haunts, to star in this. The film was to be made in Canada and, to feature some \"top line\" visual effects and miniatures by Brick Price.It's ghastly from the get-go. A disco-inspired theme song opening the show(this was 1979) and we go to a moon base which just happens to be a futuristic(then)office building outside of Toronto and we're told in that casual, expository way, that the \"earth-like\" conditions outside the windows, complete with clouds and trees, are all inside a dome with a \"sunsphere\" providing a familiar view for the people inside. How convenient. Barry Morse puts on an American accent for this, not his familiar grandfatherly British accent. Jack Palance plays \"Omus\" an evil kind of guy(he played the same kind of \"evil guy\" in an episode of Buck Rogers about the same time) who has these walking-garbage can robots who look totally ridiculous and awkward. He also laughs, for no apparent reason only that he's amazed himself, which isn't hard. All of the costumes of the young people look like they just roller boogied to the moon. The same corridor is used again and again for \"chase\" scenes-they just change directions. The miniatures are pretty bad-fighters that have model parts of the \"K-7 Space Station\" on the front end. The FX work is largely some glitzy animation that's passable at first, but just gets more annoying. Landing on another planet, it looks just like some empty lot or tract of land in Canada. Supposedly this was to be a much more ambitious production, with Mike Trim having done some production drawings and miniatures made in England-that all went when Sylvia Anderson walked off it. In fact, that's what Morse was led to believe when he signed on. (I read where he said he was taken aback at the cheapness of everything, but honored his professional commitment and did his job and finished it, as he agreed to do.) Harry Allan Towers (no slouch at cheap films)came in and the quality was replaced by the thrift of just getting the film done. I admit I was pretty shocked it was so low-budget. I'd accepted that it was a Canadian film, for the time, and figured it would be lower end, but this took the cake.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 1,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Blue Underground, Inc",
+        "duration": "PT30S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1559888153",
+        "name": "The Shape of Things to Come",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOGY1NTA1ZTctZTVmMy00MDc0LTg4NGUtZDAzYjhkYTA0YTRlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGY1NTA1ZTctZTVmMy00MDc0LTg4NGUtZDAzYjhkYTA0YTRlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:11:43Z",
+        "url": "https://www.imdb.com/video/vi1559888153/"
+    },
+    "url": "/title/tt0079894/"
+}

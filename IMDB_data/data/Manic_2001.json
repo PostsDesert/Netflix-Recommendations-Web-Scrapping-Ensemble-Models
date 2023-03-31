@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Joseph Gordon-Levitt",
+            "url": "/name/nm0330687/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Bacall",
+            "url": "/name/nm0045209/"
+        },
+        {
+            "@type": "Person",
+            "name": "Zooey Deschanel",
+            "url": "/name/nm0221046/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9828,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0127228/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0070518/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Bacall",
+            "url": "/name/nm0045209/"
+        },
+        {
+            "@type": "Person",
+            "name": "Blayne Weaver",
+            "url": "/name/nm0915814/"
+        }
+    ],
+    "datePublished": "2003-05-23",
+    "description": "After attacking another player with a bat during baseball at school, Lyle's sent to the psych ward. He meets other teenagers with problems. Will group therapy help?",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jordan Melamed",
+            "url": "/name/nm0577332/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMmY4NWJjNTItMjFlNS00NWYxLWE2NzItZTQ5Mzk2NjA1NmE2XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+    "keywords": "teen mental illness,bare chested male,mosh pit,therapy,slam dance",
+    "name": "Manic",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "howard.schumann"
+        },
+        "dateCreated": "2004-02-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0252684/"
+        },
+        "name": "An honest and touching film about the conflicts of life",
+        "reviewBody": "Put in the cinematic dustbin since its screening at Sundance in 2001, Jordan Melamed's Manic is deserving of an audience. It is an honest and touching film about the conflicts of life as seen by patients in Northwoods Mental Institution in California, a psychiatric hospital for adolescents. Brought to life by a brooding and intense performance by former Third Rock from the Sun star Joseph Gordon-Levitt as Lyle, a volatile teen ready to explode, Manic addresses important questions about violence and alienation among young people. Inspired by Albert Camus' \"The Myth of Sisyphus,\" in which a Greek mythological figure is condemned forever to roll a boulder up an incline, only to watch it slide back down, the film questions whether people can find meaning in a seemingly absurd existence without melodrama or unconvincing epiphanies. \n\nLyle has been brought to the facility after brutally assaulting a boy with a baseball bat and the film is about his slow discovery of the reason he is there. Most of the film takes place within the psychiatric ward run by the life-affirming staff psychiatrist, Dr, David Monroe (Don Cheadle). Monroe wrestles with his own demons but treats the teens not as patients with labels but as human beings whose lives have meaning and value. The adolescents are hospitalized for assorted behavior problems and many have endured abuse and neglect at home. In addition to Lyle, the ward contains his bunkmate, 12-year old Kenny (Cody Lightning) a sullen Native American who is alleged to have molested younger children; Mike (Elden Henson), a volatile White rapper who pretends that he is black; Chad (co-writer Michael Bacall), a teen diagnosed with Bipolar illness; and rape victim Tracey (Zooey Deschanel), who wakes up screaming each night. \n\nThe teens have the same problems as many of their peers, only magnified beyond their endurance to cope. In researching the role Gordon-Levitt concluded that, \"the patients are not some strange, alien beings. They are dealing with the same conflicts, struggles, and resolutions that we all have to deal with in life\". Some of the acting is improvised but even when scripted, the film has a documentary feel to it. Shot in digital video, the hand held camera ratchets up the tension, capturing the pent-up emotions that are ready to explode at any moment -- in a basketball match, a pillow fight, or a fist-swinging free-for-all. While the camerawork increases the immediacy, its excessive use detracts from the power of the film, becoming intrusive and distracting. \n\nAlthough our understanding of \"mental illness\" has changed in recent years, the treatment shown does not go much beyond pills or group therapy sessions. There is also no acknowledgment of alternative therapies such as Gestalt or Psychodrama that are geared to deal with this type of anger. David asks the patients to talk about why they are there but he cannot get them to go beyond victimization and have them feel responsible for themselves or each other. Indeed, most cannot articulate their pain or come to terms even with the fact that they need help. It is only when they see the sadness and extreme solitude of Van Gogh's last painting \"Wheatfields With Crows\" that the first awareness of mutual need begins to emerge.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT1M11S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1570242841",
+        "name": "Manic",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZGZhNWU4MTEtMTA3NC00Y2NlLWFiZTQtYTc5MTRhZDliNjNkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZGZhNWU4MTEtMTA3NC00Y2NlLWFiZTQtYTc5MTRhZDliNjNkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:09:35Z",
+        "url": "https://www.imdb.com/video/vi1570242841/"
+    },
+    "url": "/title/tt0252684/"
+}

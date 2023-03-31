@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Judi Dench",
+            "url": "/name/nm0001132/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lory Cahn",
+            "url": "/name/nm1049634/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kurt Fuchel",
+            "url": "/name/nm0297161/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1848,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0041198/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0067445/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0043660/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Jonathan Harris",
+            "url": "/name/nm0365057/"
+        }
+    ],
+    "datePublished": "2000-11-24",
+    "description": "The secret smuggling of 9,300 Jewish children out of Nazi Germany in the late 1930s.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mark Jonathan Harris",
+            "url": "/name/nm0365057/"
+        }
+    ],
+    "duration": "PT2H2M",
+    "genre": [
+        "Documentary",
+        "History",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZmY4OTVmNTYtMTRkZi00MDBiLTlmODUtOGM5ZDdkM2E5M2Q4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "keywords": "national film registry,memory,england,jew,kindertransport",
+    "name": "Into the Arms of Strangers: Stories of the Kindertransport",
+    "original_info": {
+        "id": "Into the Arms of Strangers: Stories of the Kindertransport_2000",
+        "name": "Into the Arms of Strangers: Stories of the Kindertransport",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "davekc"
+        },
+        "dateCreated": "2004-04-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0248912/"
+        },
+        "name": "Extremely Well-done and moving",
+        "reviewBody": "After coming home from a day \"out on the town\" and then sitting down to watch this program on PBS by accident while channel-surfing was an interesting experience. The documentary so vividly told the stories of the experience of the children who where part of the the Kindertransport. What did it mean for them to be separated from their parents? What was it like for the parents who sent them away? How did the children cope with being in a strange land with strangers? How did some children deal with their parents' demise? How did some children deal with being reunited with their parents after the war? The movie was very well-done and very moving. I would definitely recommend owning this movie. Well-deserved Oscar win.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi246350105",
+        "name": "Into the Arms of Strangers: Stories of the Kindertransport",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BM2QzOTk3MWUtMjkxOS00ODQ4LTk2ODQtYjg2OGI2NzQ5ZDFmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BM2QzOTk3MWUtMjkxOS00ODQ4LTk2ODQtYjg2OGI2NzQ5ZDFmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:34:39Z",
+        "url": "https://www.imdb.com/video/vi246350105/"
+    },
+    "url": "/title/tt0248912/"
+}

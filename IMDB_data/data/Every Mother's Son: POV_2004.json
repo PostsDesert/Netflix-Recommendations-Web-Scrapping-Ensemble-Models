@@ -1,0 +1,49 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "description": "In 1999 when Amadou Diallo, an unarmed man, was shot at 41 times by police officers in New York, we felt we had to get out there with a camera and talk to people for our own sanity, to understand what was happening. It was like th...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Kelly Anderson",
+            "url": "/name/nm0027009/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tami Gold",
+            "url": "/name/nm0325088/"
+        }
+    ],
+    "duration": "PT53M",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2E1YjZiMDgtYjgwYy00NjhiLTlkNzQtMGU5NTZkOTg2ODk3XkEyXkFqcGdeQXVyOTgwODkxMTk@._V1_.jpg",
+    "name": "Every Mother's Son",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "yv_es"
+        },
+        "dateCreated": "2020-09-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt1344603/"
+        },
+        "name": "Enough",
+        "reviewBody": "It's absolutely gutting to watch this documentary today and see how little has changed. How for all the talk of police reform over the past twenty plus years, Black and brown men are still being shot and strangled to death by the police.\n\nThis must have been a powerful documentary when it was released. But how can a modern viewer hear one mother's story about the NYPD choking her son to death and not recall George Floyd or Eric Garner? And even though you already know how the story will end, that only makes it all the more gutting when the responsible officer isn't found guilty. I had to take a break. It was too much.\n\nI grew up thinking of the police as the \"good guys\". Frankly even today, I lean \"law and order\" (conceptually, not in the dogwhistle sense). And still, this quiet little documentary upset me like few films ever have. This is absolutely shameful. I am upset and embarrassed by my country's inaction. And while I am firmly against dehumanizing the police and calling them names, this documentary is yet more proof that the problem is far greater than \"a few bad apples\". Our country is broken for many of our fellow citizens, and perhaps the only positive thing about 2020 is that more people than ever now realize this.\n\nYou need to watch this. You need to watch and be mad. And then we need to take our anger and work together to change the system. Because our children cannot be hearing these same stories in 2040. We need to turn this documentary into a historical artifact.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt1344603/"
+}

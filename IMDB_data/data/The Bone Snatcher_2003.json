@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Scott Bairstow",
+            "url": "/name/nm0000282/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rachel Shelley",
+            "url": "/name/nm0791226/"
+        },
+        {
+            "@type": "Person",
+            "name": "Warrick Grier",
+            "url": "/name/nm0340956/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2708,
+        "ratingValue": 4.4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0088410/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0137973/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0088409/"
+        },
+        {
+            "@type": "Person",
+            "name": "Malcolm Kohll",
+            "url": "/name/nm0463325/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gordon Render",
+            "url": "/name/nm1351640/"
+        }
+    ],
+    "datePublished": "2004-02-18",
+    "description": "After miners disappear in the Namib Desert, scientists find their remains and seek to find what killed them.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jason Wulfsohn",
+            "url": "/name/nm0943301/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Horror",
+        "Mystery",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BM2Q3Y2RiYmEtNjJjNC00ZDgwLWFkNGEtMDc4ZmQ4MDZjYzAzXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+    "keywords": "creature feature,desert,bones,swarm,nanotechnology",
+    "name": "The Bone Snatcher",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "GothamGal"
+        },
+        "dateCreated": "2003-10-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0343449/"
+        },
+        "name": "Disappointing",
+        "reviewBody": "The Bone Snatcher is about a group miners who go on a search for a missing crew of miners in the Namib Desert. When the find them, they are nothing more than bones stripped clean and they could not have been dead for more than six hours. The story keeps you interested as to what exactly caused this. The characters are well enough, and the acting is pretty good.\n\n About an hour and ten minutes in when you find out what is causing the bones to be stripped clean, you sigh \"oh, that is really stupid.\" The movie is ruined by bad writing and a non-exciting ending. Up until that point, the movie was pretty good, and it is a shame that it took such a bad turn. So I cannot recommend this movie. I gave it a 4/10.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 4,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from First Look",
+        "duration": "PT1M9S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2629501209",
+        "name": "Bone Snatcher",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZmVjNTdmYTEtYmVjNC00ZWY3LWE5MDAtMTEzNDBjMzI4MmYyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZmVjNTdmYTEtYmVjNC00ZWY3LWE5MDAtMTEzNDBjMzI4MmYyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:44:52Z",
+        "url": "https://www.imdb.com/video/vi2629501209/"
+    },
+    "url": "/title/tt0343449/"
+}

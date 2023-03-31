@@ -1,0 +1,83 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Meryl Streep",
+            "url": "/name/nm0000658/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cloris Leachman",
+            "url": "/name/nm0001458/"
+        },
+        {
+            "@type": "Person",
+            "name": "Henry Dinhofer",
+            "url": "/name/nm0227693/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 12938,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0013899/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0022594/"
+        },
+        {
+            "@type": "Person",
+            "name": "Pamela Gray",
+            "url": "/name/nm0336861/"
+        }
+    ],
+    "datePublished": "1999-10-29",
+    "description": "Story of a schoolteacher's struggle to teach violin to inner-city Harlem kids.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Wes Craven",
+            "url": "/name/nm0000127/"
+        }
+    ],
+    "duration": "PT2H4M",
+    "genre": [
+        "Drama",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTU0ODZiNTktMTI0OC00NzZjLTlhZTMtYTE3ZjVlMmVhMmI4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "violin,teacher,school,female protagonist,musician",
+    "name": "Music of the Heart",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "evanston_dad"
+        },
+        "dateCreated": "2010-06-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0166943/"
+        },
+        "name": "Unabashedly Feel Good -- But What's Wrong with That?",
+        "reviewBody": "Wes Craven (yes, THAT Wes Craven) directed this inspirational biopic about Roberta Guaspari (Meryl Streep), who started a music program in an impoverished inner city middle school that eventually went on to win national attention and acclaim.\n\nThis film treads awfully close to made-for-T.V. territory, but Streep is such a good actress that she keeps a tight grip on the runaway sentimentality that's always present in the screenplay. But in any case, who cares? This IS a feel good story, and it's a good enough movie that you can simply give in to letting it make you feel good without also making you feel guilty by being suckered.\n\nGrade: B+",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0166943/"
+}

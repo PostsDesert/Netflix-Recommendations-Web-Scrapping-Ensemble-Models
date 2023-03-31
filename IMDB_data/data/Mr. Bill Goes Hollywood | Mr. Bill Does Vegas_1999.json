@@ -1,0 +1,35 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jay Leno",
+            "url": "/name/nm0005143/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rita Sever",
+            "url": "/name/nm0005411/"
+        }
+    ],
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0086772/"
+        },
+        {
+            "@type": "Person",
+            "name": "Walter Williams",
+            "url": "/name/nm0931906/"
+        }
+    ],
+    "description": "Mr. Bill hangs with celebrities in Hollywood.",
+    "duration": "PT1H",
+    "genre": [
+        "Comedy"
+    ],
+    "keywords": "slapstick",
+    "name": "Mr. Bill Goes Hollywood",
+    "url": "/title/tt12343722/"
+}

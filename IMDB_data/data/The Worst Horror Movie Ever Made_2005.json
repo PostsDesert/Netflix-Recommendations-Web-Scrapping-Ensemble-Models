@@ -1,0 +1,77 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Elephant Boy",
+            "url": "/name/nm1004079/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Cucciniello",
+            "url": "/name/nm6112368/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jennifer Ligierie",
+            "url": "/name/nm1940234/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 388,
+        "ratingValue": 2.8,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0141551/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Zebub",
+            "url": "/name/nm1754496/"
+        }
+    ],
+    "description": "A group of friends get together for a card game, but within 5 minutes most of them die from every conceivable horror movie monster/villain, but with a new twist.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bill Zebub",
+            "url": "/name/nm1754496/"
+        }
+    ],
+    "duration": "PT1H25M",
+    "genre": [
+        "Comedy",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDFmZTBkMTYtODFjNS00OGRhLThmYTUtOGQ2MzA1N2ViOWI2XkEyXkFqcGdeQXVyMTgxNzg0OQ@@._V1_.jpg",
+    "keywords": "white panties,panties,brother sister incest,handcuffs,fortune teller",
+    "name": "The Worst Horror Movie Ever Made",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "CMRKeyboadist"
+        },
+        "dateCreated": "2006-04-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0462634/"
+        },
+        "name": "It is What it Advertises",
+        "reviewBody": "This movie is truly the worst of the worst. As bad as it is, it is still a lot of fun and for fans of B cinema, I recommend it. I wish I could give you a description of the story but there really is no story. A lot of what happens is completely random and out of the ordinary. The special effects are worse then you could ever imagine and done like that on purpose. The camera work is... well, hard to describe. The acting is pretty bad and over the top at times, but this just adds to it being the worst movie ever made. The only problem I had with this film was I watched it by myself and without a group of friends this movie will get rather repetitive. Still, this was a lot of fun and it's got my vote. 7/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0462634/"
+}

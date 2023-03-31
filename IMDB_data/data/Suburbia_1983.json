@@ -1,0 +1,86 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Chris Pedersen",
+            "url": "/name/nm0669868/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Coyne",
+            "url": "/name/nm0185417/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jennifer Clay",
+            "url": "/name/nm0165531/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5594,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0024271/"
+        },
+        {
+            "@type": "Person",
+            "name": "Penelope Spheeris",
+            "url": "/name/nm0790715/"
+        }
+    ],
+    "datePublished": "1984-10-12",
+    "description": "When household tensions and a sense of worthlessness overcome Evan, he finds escape when he clings with the orphans of a throw-away society.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Penelope Spheeris",
+            "url": "/name/nm0790715/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYzUxNTM5MzQtMjRhZi00MTcxLTlmMjUtODAzNWMzZjg3MWNmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "teenager,punk,punk rock girl,punk rock band,dysfunctional family",
+    "name": "Suburbia",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "XjwalkX"
+        },
+        "dateCreated": "1998-10-31",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0086589/"
+        },
+        "name": "Punk Side Story",
+        "reviewBody": "\"Suburbia\" is the definitive punxploitation film of the 80's, one of Hollywood's few explorations of that counter-culture. Director Spheeris, who also did \"Dudes\" and \"Decline of Western Civilization\" before going mainstream, knows enough to make a perfectly romantic (if not realistic) version of punks and skins living in the 80's: complete with shows (on a rickety sound stage, but there's a better circle pit than you're likely to find today), fights with rednecks, squatting, and dealing with a decade where every jock didn't have an eyebrow ring and green hair. You know what? Chickenbutt."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M52S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi722452761",
+        "name": "Trailer [EN]",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTJmNWQ5MjAtZTNlYi00MWI3LTk4YzItOGJiNmFjY2ZkYmMwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTJmNWQ5MjAtZTNlYi00MWI3LTk4YzItOGJiNmFjY2ZkYmMwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-01-12T18:17:41.950Z",
+        "url": "https://www.imdb.com/video/vi722452761/"
+    },
+    "url": "/title/tt0086589/"
+}

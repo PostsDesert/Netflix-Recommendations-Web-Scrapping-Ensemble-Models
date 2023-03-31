@@ -1,0 +1,82 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "W.C. Fields",
+            "url": "/name/nm0001211/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kathleen Howard",
+            "url": "/name/nm0397427/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jean Rouverol",
+            "url": "/name/nm0746169/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5548,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "Passed",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jack Cunningham",
+            "url": "/name/nm0192325/"
+        },
+        {
+            "@type": "Person",
+            "name": "J.P. McEvoy",
+            "url": "/name/nm0568571/"
+        },
+        {
+            "@type": "Person",
+            "name": "W.C. Fields",
+            "url": "/name/nm0001211/"
+        }
+    ],
+    "datePublished": "1934-11-30",
+    "description": "A henpecked New Jersey grocer makes plans to move to California to grow oranges, despite the resistance of his overbearing wife.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Norman Z. McLeod",
+            "url": "/name/nm0572851/"
+        }
+    ],
+    "duration": "PT1H8M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZmI2MGIwODgtNzQxOS00MzJlLWEyMTgtNTk3MjdlMmMzN2MxXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+    "keywords": "kumquat,california,inheritance,overbearing wife,insurance salesman",
+    "name": "It's a Gift",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "pghmoe"
+        },
+        "dateCreated": "2000-12-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0025318/"
+        },
+        "name": "\" ...but I'll be sober in the morning and you'll be crazy for the rest of your life!\"",
+        "reviewBody": "Fields in top form as Harold Bissonette (pronounced Bee-so-nay), a henpecked New Jersey grocer with dreams of relocateing his family to a California orange grove. Naturally he encounters numerous obstacles along the way from Baby Leroy to an insurance salesman looking for Carl LaFong. The result is 63 minutes of classic comedy, with a great cast, direction and enough memorable oneliners to fill a webpage!"
+    },
+    "url": "/title/tt0025318/"
+}

@@ -1,0 +1,68 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kate Clinton",
+            "url": "/name/nm1083242/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marga Gómez",
+            "url": "/name/nm0351188/"
+        },
+        {
+            "@type": "Person",
+            "name": "Suzanne Westenhoefer",
+            "url": "/name/nm1008460/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 55,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "Unrated",
+    "description": "Documentary film about these 4 ground-breaking lesbian comediennes. Interviews are interspersed with stand-up material.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Andrea Meyerson",
+            "url": "/name/nm1952394/"
+        }
+    ],
+    "duration": "PT1H",
+    "genre": [
+        "Documentary",
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjEzMzgyNTEzN15BMl5BanBnXkFtZTgwMDE4MDA2MDE@._V1_.jpg",
+    "keywords": "reference to dick cheney,female female relationship,sex scene,lesbian,coming out",
+    "name": "Laughing Matters",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "TequilaMockingbird63"
+        },
+        "dateCreated": "2005-12-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0492891/"
+        },
+        "name": "Pretty Funny Women",
+        "reviewBody": "These women are funny. The sixty minute documentary (a first for director Andrea Meyerson) gives us hilarious performance footage blended with behind-the-scenes interviews with comedians Kate Clinton, Karen Williams, Marga Gomez and Suzanne Westenhoefer. They talk about everything from politics, girlfriends, ex-girlfriends, religion, Christmas presents, first jobs, aging, Martha Stewart and of course sex. Laughing Matters will remind everyone why it is so important to laugh and so important to be who you are. Stand-up is best served live with a couple a beers and the energy of the audience laughter but the intelligent and humorous interviews with these four women made it worth the watch. 8 out of 10 stars.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0492891/"
+}

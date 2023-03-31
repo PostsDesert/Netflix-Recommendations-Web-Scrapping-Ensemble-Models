@@ -1,0 +1,67 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Adam Aronson",
+            "url": "/name/nm1602621/"
+        },
+        {
+            "@type": "Person",
+            "name": "Betty DeGeneres",
+            "url": "/name/nm1614806/"
+        },
+        {
+            "@type": "Person",
+            "name": "John J. McNeill",
+            "url": "/name/nm1615629/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 37,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "datePublished": "2004-04-03",
+    "description": "An exploration of the issues surrounding same sex marriages in the USA. 20 gay and lesbian couples recount their experiences and discuss why same sex marriage is needed.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Catherine Gray",
+            "url": "/name/nm1614407/"
+        }
+    ],
+    "duration": "PT59M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTA4ODA4NzcwMTVeQTJeQWpwZ15BbWU3MDE0MTgzNTE@._V1_.jpg",
+    "keywords": "marriage,lesbian couple,claim in title,interracial lesbians,interracial relationship",
+    "name": "I Can't Marry You",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Ellie-23"
+        },
+        "dateCreated": "2004-06-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0410098/"
+        },
+        "name": "Informative glimpse of couples in long term relationships.",
+        "reviewBody": "Some PBS shows programs about gay life styles get to personal and detailed to be comfortabvle to watch. Mrs. DeGeneres is a wonderful host and this program did a beautiful job of presenting several couples in very personal yet polite way. There was balance of men and women, with children and without, young and older. It covered the personal emotions as well as some of the more difficult legal issues that most of us don't think about. I felt a real sorrow for the difficulties some of the people faced because of legal restrictions and social condemnation. I knew those difficulties existed but this made them very real. I recommend this film to anyone who has questions about the need for recognition for gay relationships. I cringed at one point when one of the men remarked about Christians. I hope as Christians we can find a loving way to support these people. I will probably purchase it for our library eventually.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0410098/"
+}

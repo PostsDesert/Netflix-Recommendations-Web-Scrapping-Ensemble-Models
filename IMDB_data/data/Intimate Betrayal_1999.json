@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Monica Calhoun",
+            "url": "/name/nm0004793/"
+        },
+        {
+            "@type": "Person",
+            "name": "Khalil Kain",
+            "url": "/name/nm0435074/"
+        },
+        {
+            "@type": "Person",
+            "name": "Erica Gimpel",
+            "url": "/name/nm0319826/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 108,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0036745/"
+        },
+        {
+            "@type": "Person",
+            "name": "Donna Hill",
+            "url": "/name/nm0384201/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chuck Cummings",
+            "url": "/name/nm0191868/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dianah Wynter",
+            "url": "/name/nm0002990/"
+        }
+    ],
+    "description": "When her brother is murdered, a young reporter sets out to find his killer. She is comforted by his boss, a wealthy computer magnate, until her investigation slowly points to him.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Dianah Wynter",
+            "url": "/name/nm0002990/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Romance",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOWE2YWZmMDctMGI5ZS00NjM3LWFjNDQtNDBlMGJlMDQzMWNlXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+    "keywords": "reporter,f rated,cat and mouse,internet,murder",
+    "name": "Intimate Betrayal",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "sequencechase"
+        },
+        "dateCreated": "2017-02-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0208228/"
+        },
+        "name": "Intimate Betrayal aired Mini-series - Great",
+        "reviewBody": "I saw this when it aired as a mini-series on BET over three nights. It had good cliff-hangers. Calhoun and Kain really steamed up the screen. 2 thumbs up. I really like seeing Monica Calhoun. I guess she is best known as the bride in the \"Best Man\" movies. She is very cute in Intimate Betrayal, but also comes across as intelligent and sexy. A little bit of a ball-breaker, too, but that's okay -- Don't mess with her. Would love to see her in another real leading role. \n\nThis movie has an incredible cast. L Scott Caldwell won a Tony Award on Broadway for an August Wilson play. She plays a detective in this. And character actor Brent Jennings is the grizzled newspaper editor who warns the heroine about getting involved with a suspect in a murder case. Of course, she ignores him. We don't see enough of Jennings either. Erica Gimpel works a lot. She was a series regular on Veronica Mars. She might be recurring on The Chase. We'll have to wait and see on that one.\n\nI'd love the see a series with these characters. The world of journalism could use some \"good press\" in the form a TV series about now. Even though the newspaper medium is changing, maybe a period series set back in the 90s, when they weren't all owned by giant media companies.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from BET",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi212795673",
+        "name": "Intimate Betrayal",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjdlOGQ5NGMtOTJlZi00MWJiLTkxNDktOWI5MzA3MGFjMjkxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjdlOGQ5NGMtOTJlZi00MWJiLTkxNDktOWI5MzA3MGFjMjkxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:34:37Z",
+        "url": "https://www.imdb.com/video/vi212795673/"
+    },
+    "url": "/title/tt0208228/"
+}

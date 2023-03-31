@@ -1,0 +1,91 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Stockwell",
+            "url": "/name/nm0007082/"
+        },
+        {
+            "@type": "Person",
+            "name": "Danielle von Zerneck",
+            "url": "/name/nm0903272/"
+        },
+        {
+            "@type": "Person",
+            "name": "Fisher Stevens",
+            "url": "/name/nm0001770/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6131,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0925713/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0077024/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jonathan R. Betuel",
+            "url": "/name/nm0079471/"
+        }
+    ],
+    "datePublished": "1985-08-09",
+    "description": "A high school student and his friend find a strange, orb-like piece of equipment to use as a science project, but must stop it when it begins to threaten mankind.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jonathan R. Betuel",
+            "url": "/name/nm0079471/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMmYxZWY5ZTEtNDBiNC00N2FiLWJhNzMtOTcxMDM0YWE4ZjVlXkEyXkFqcGdeQXVyMjY3MjUzNDk@._V1_.jpg",
+    "keywords": "psychotronic film,low budget sci fi movie,slimehouse,wearing sunglasses at night,wearing sunglasses indoors",
+    "name": "My Science Project",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "StuOz"
+        },
+        "dateCreated": "2018-02-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0089652/"
+        },
+        "name": "Best 1980s Time Travel Movie (After Star Trek 4: The Voyage Home)",
+        "reviewBody": "A kid makes a strange science project that leads to time travel.\n\nForget the over-rated \"Bill And Ted\", forget the \"Back To The Future\" movies, if you want a 1980s time travel flick you will find it here in \"My Science Project\".\n\nFor the life of me, I will never know why this film is now so forgotten and unknown while the above mentioned movies get free-to-air reruns every six months (atleast in Australia)!!!!????\n\nWhat makes \"My Science Project\" so much better than the above films? I guess it partly comes down to the characters in the movie. From nutty Dennis Hopper, to the kid who keeps referencing all those 1960s/1970s shows/movies, and to the lead character who just comes over as pleasing (in a non Michael J Fox-sort of way).\n\nBut also the ending, which I dare not give away.\n\nGranted, this is missing the mighty opening theme tune of the \"Back To The Future\" movies, but with the exception of the music, \"My Science Project\" wins hands down!"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M39S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2423570713",
+        "name": "Trailer [EN]",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMGQyODQ2OTctMzEzMy00Y2Q5LWIzMDYtMTE0NmU2MDZiMDg5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMGQyODQ2OTctMzEzMy00Y2Q5LWIzMDYtMTE0NmU2MDZiMDg5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-01-14T21:00:20.113Z",
+        "url": "https://www.imdb.com/video/vi2423570713/"
+    },
+    "url": "/title/tt0089652/"
+}

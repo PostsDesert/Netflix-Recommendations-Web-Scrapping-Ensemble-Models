@@ -1,0 +1,113 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Roy Rogers",
+            "url": "/name/nm0001678/"
+        },
+        {
+            "@type": "Person",
+            "name": "Trigger",
+            "url": "/name/nm1022326/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dennis Day",
+            "url": "/name/nm0206376/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6426,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0074039/"
+        },
+        {
+            "@type": "Person",
+            "name": "Winston Hibler",
+            "url": "/name/nm0382548/"
+        },
+        {
+            "@type": "Person",
+            "name": "Erdman Penner",
+            "url": "/name/nm0672093/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harry Reeves",
+            "url": "/name/nm0716206/"
+        }
+    ],
+    "datePublished": "1948-05-27",
+    "description": "An anthology of animated vignettes set to contemporary music.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Clyde Geronimi",
+            "url": "/name/nm0314671/"
+        },
+        {
+            "@type": "Person",
+            "name": "Wilfred Jackson",
+            "url": "/name/nm0414144/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jack Kinney",
+            "url": "/name/nm0455741/"
+        }
+    ],
+    "duration": "PT1H15M",
+    "genre": [
+        "Animation",
+        "Comedy",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDhiMDQzYzYtNWVlMC00YzRkLTg4ZGItN2M2MGNjOTllNWVmXkEyXkFqcGdeQXVyNjI1Mjk4MTg@._V1_.jpg",
+    "keywords": "half dressed cartoon animal,barefoot cartoon animal,jose carioca character,donald duck character,cartoon duck",
+    "name": "Melody Time",
+    "original_info": {
+        "id": "Melody Time_1948",
+        "name": "Melody Time",
+        "year": "1948"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Doylenf"
+        },
+        "dateCreated": "2001-07-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0040580/"
+        },
+        "name": "Nice compilation of Disney musical shorts...",
+        "reviewBody": "'Melody Time' showcases seven classic short stories utilizing the talents of The Andrews Sisters, Dennis Day, Roy Rogers, Sons of the Pioneers and Frances Langford. Highlights include \"Pecos Bill\" and \"Johnny Appleseed\", as well as \"Little Toot\", the tale of a mischievous tugboat. \"Bumble Boogie\" and \"Blame it on the Samba\" are other highlights.\n\nA nice mixture of fun and fantasy with some great music on the soundtrack while the Disney animation dazzles with its highly stylized cartoon art. Although an uneven blend of sketches, it's got plenty of entertainment value. A winter wonderland romance sung by the Andrews Sisters gets it off to a good start. Kids of all ages should love it and adults won't be bored. Highly recommended."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "An anthology of animated vignettes set to contemporary music.",
+        "duration": "PT32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3609183001",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZWJmOGE1YjEtMjgzMS00Njg5LTlmOTAtNzliZGZjNDYxYjVmXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZWJmOGE1YjEtMjgzMS00Njg5LTlmOTAtNzliZGZjNDYxYjVmXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+        "uploadDate": "2022-01-29T22:27:34.805Z",
+        "url": "https://www.imdb.com/video/vi3609183001/"
+    },
+    "url": "/title/tt0040580/"
+}

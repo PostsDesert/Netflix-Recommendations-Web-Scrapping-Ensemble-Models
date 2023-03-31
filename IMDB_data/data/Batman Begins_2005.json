@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Christian Bale",
+            "url": "/name/nm0000288/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Caine",
+            "url": "/name/nm0000323/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ken Watanabe",
+            "url": "/name/nm0913822/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1491498,
+        "ratingValue": 8.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0147954/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0038332/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bob Kane",
+            "url": "/name/nm0004170/"
+        },
+        {
+            "@type": "Person",
+            "name": "David S. Goyer",
+            "url": "/name/nm0275286/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christopher Nolan",
+            "url": "/name/nm0634240/"
+        }
+    ],
+    "datePublished": "2005-06-15",
+    "description": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Christopher Nolan",
+            "url": "/name/nm0634240/"
+        }
+    ],
+    "duration": "PT2H20M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "superhero,social decay,origin of hero,dc comics,gotham",
+    "name": "Batman Begins",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "SnoopyStyle"
+        },
+        "dateCreated": "2014-01-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0372784/"
+        },
+        "name": "Good start to Nolan's trilogy",
+        "reviewBody": "Director Christopher Nolan is rebooting the Dark Knight with a ever darker style. It is faux realism. He starts off with the death of Bruces' parents. After not able to kill their killer, Bruce is in a Chinese prison where he meets the mysterious Ra's Al Ghul. It is the anti-Obi-Wan Kenobi. His message is a dark perversion of Justice. When he returns to Gotham, he invents Batman.\n\nThere are two things that keep this from an even more impressive start of Nolan's Batman Trilogy. The first is Katie Holmes. She is not up to the task. She is still playing that little girl character from Dawson's Creek. She doesn't have the seriousness or gravitas to play this gutsy lawyer character. It's a big character, and not just another girlfriend.\n\nThe second is that Scarecrow (Cillian Murphy) isn't a big enough villain. The evil plan has too much of a silly Bond feeling. It is too unrealistic in a Batman movie that is suppose to be realistic. It leaves a bad taste for the climatic ending. Other than those two, this is still a great start to the trilogy. It sets the tone for the final two.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.",
+        "duration": "PT1M12S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi362988313",
+        "name": "4K Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzJhYTcxYzgtOTI3My00ZTI1LWI3NzAtZTljMTFjM2ViOGYzXkEyXkFqcGdeQWFuaW5vc2M@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzJhYTcxYzgtOTI3My00ZTI1LWI3NzAtZTljMTFjM2ViOGYzXkEyXkFqcGdeQWFuaW5vc2M@._V1_.jpg",
+        "uploadDate": "2021-09-20T04:21:41.311Z",
+        "url": "https://www.imdb.com/video/vi362988313/"
+    },
+    "url": "/title/tt0372784/"
+}

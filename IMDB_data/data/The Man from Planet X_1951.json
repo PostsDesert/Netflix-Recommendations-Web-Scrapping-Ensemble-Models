@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Robert Clarke",
+            "url": "/name/nm0164967/"
+        },
+        {
+            "@type": "Person",
+            "name": "Margaret Field",
+            "url": "/name/nm0275992/"
+        },
+        {
+            "@type": "Person",
+            "name": "Raymond Bond",
+            "url": "/name/nm0094022/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2919,
+        "ratingValue": 5.7,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0148498/"
+        },
+        {
+            "@type": "Person",
+            "name": "Aubrey Wisberg",
+            "url": "/name/nm0936254/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jack Pollexfen",
+            "url": "/name/nm0689565/"
+        }
+    ],
+    "datePublished": "1951-04-27",
+    "description": "As a mysterious planet hurls itself toward Earth, an enigmatic extraterrestrial scout arrives on a remote Scottish island with unknown intentions.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Edgar G. Ulmer",
+            "url": "/name/nm0880618/"
+        }
+    ],
+    "duration": "PT1H11M",
+    "genre": [
+        "Horror",
+        "Romance",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMGY3YWMyNDUtZWU1ZC00NTU1LWE2MzAtNDc1Y2RiYjhiNGU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "alien,scientist,scotland,spaceship,human versus alien",
+    "name": "The Man from Planet X",
+    "original_info": {
+        "id": "The Man from Planet X_1951",
+        "name": "The Man from Planet X",
+        "year": "1951"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Hitchcoc"
+        },
+        "dateCreated": "2014-11-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0043778/"
+        },
+        "name": "You Have to Love It",
+        "reviewBody": "This is wonderful in its own way. An alien has landed in the moors of Scotland and an American reporter comes to visit at the behest of an astronomer who has noticed a planet heading for the Earth. In the mix is a genius scientist who has a few loose screws, played by William Schallert (remember him as Dobie Gillis's teacher and Patty Duke's father, among others). One night the daughter of the scientist is coming back from town when she encounters a space ship. Upon investigating, she sees a face in the window of the ship which terrifies her. The rest of the movie involves a series of efforts to connect with the alien (who is about as unconvincing as is humanly possible). He has no facial movements and a single expression, as if he is paralyzed. They befriend him but Schallert soon screws things up by cutting off the air supply to the poor guy. Schallert seems to think that somehow this creature will make him rich and famous, though we're never sure how that is going to happen. This guy is connected to the planet that is going to launch a full scale invasion. The reporter goes to the local authorities. People have been disappearing and there is a lot of tension. The constable, who looks like he won second place in a Rod Steiger look-alike contest helps out. He is by far the best actor and the most believable character in the movie. All activities from this point on are at best bewildering, but it doesn't matter. Made on a shoestring budget, it's very nice entertainment for those who don't wish to ask any questions.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M57S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1329446681",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDg4ZTQ1ZjItM2FkNy00ZmQ1LTlmZDctNzEwODMzZGQ3MGVmXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDg4ZTQ1ZjItM2FkNy00ZmQ1LTlmZDctNzEwODMzZGQ3MGVmXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2019-12-05T13:30:47.549Z",
+        "url": "https://www.imdb.com/video/vi1329446681/"
+    },
+    "url": "/title/tt0043778/"
+}

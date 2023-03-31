@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Robert Foxworth",
+            "url": "/name/nm0289343/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 165,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0074086/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Casey",
+            "url": "/name/nm0143426/"
+        }
+    ],
+    "description": "When mount st helens erupted and ruined everything even killed many human beings this was a sad and devastating story and time for family and friends not in this eruption. man I was born in Washington but in the year of 2004 and i...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "George Casey",
+            "url": "/name/nm0143426/"
+        }
+    ],
+    "duration": "PT25M",
+    "genre": [
+        "Documentary",
+        "Short"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQyODgzMTYxNl5BMl5BanBnXkFtZTcwNzkyOTIzMQ@@._V1_.jpg",
+    "keywords": "volcanic eruption,volcanic ash,mount st. helens washington,lava,crater lake",
+    "name": "The Eruption of Mount St. Helens!",
+    "original_info": {
+        "id": "The Eruption of Mount St. Helens: IMAX_1980",
+        "name": "The Eruption of Mount St. Helens: IMAX",
+        "year": "1980"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "mrdonleone"
+        },
+        "dateCreated": "2020-07-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0080694/"
+        },
+        "name": "Interesting in a Boring Way",
+        "reviewBody": "Told to us as if we were children at school, it doesn't leave that much of an impression, this film.. too bad. It could have been better.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0080694/"
+}

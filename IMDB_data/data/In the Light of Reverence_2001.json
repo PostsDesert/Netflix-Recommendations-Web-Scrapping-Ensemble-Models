@@ -1,0 +1,52 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 27,
+        "ratingValue": 7.9,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0277705/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jessica Abbe",
+            "url": "/name/nm2863461/"
+        }
+    ],
+    "datePublished": "2001-02-17",
+    "description": "Tells the story of three indigenous communities and the lands they struggle to protect: the Lakota of the Great Plains, the Hopi of the Four Corners area, and the Winnemem Wintu of northern California.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Christopher McLeod",
+            "url": "/name/nm1269444/"
+        }
+    ],
+    "duration": "PT1H13M",
+    "genre": [
+        "Documentary"
+    ],
+    "keywords": "devil's tower,indigenous,wisdom,sacred land,reparations",
+    "name": "In the Light of Reverence",
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "In the Light of Reverence (POV, 2001) explores American culture's relationship to nature in three places considered sacred by native peoples: the Colorado Plateau in the Southwest, Mt. Shasta in California, and Devils Tower in Wyoming. Narrated by Peter Coyote and Tantoo Cardinal.",
+        "duration": "PT3M30S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3656713241",
+        "name": "In the Light of Reverence",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTI3OTQ5ODIxMF5BMl5BanBnXkFtZTcwOTA2NzAxMw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTI3OTQ5ODIxMF5BMl5BanBnXkFtZTcwOTA2NzAxMw@@._V1_.jpg",
+        "uploadDate": "2010-01-08T16:04:49Z",
+        "url": "https://www.imdb.com/video/vi3656713241/"
+    },
+    "url": "/title/tt1463408/"
+}

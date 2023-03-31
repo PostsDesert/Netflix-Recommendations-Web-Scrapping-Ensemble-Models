@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Vincent Price",
+            "url": "/name/nm0001637/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frank Lovejoy",
+            "url": "/name/nm0522481/"
+        },
+        {
+            "@type": "Person",
+            "name": "Phyllis Kirk",
+            "url": "/name/nm0456533/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 18979,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "GP",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0132038/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Person",
+            "name": "Crane Wilbur",
+            "url": "/name/nm0928108/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Belden",
+            "url": "/name/nm0067676/"
+        }
+    ],
+    "datePublished": "1953-04-25",
+    "description": "An associate burns down a wax museum with the owner inside, but he survives only to become vengeful and murderous.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "André De Toth",
+            "url": "/name/nm0211964/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOWRhMTg1NjYtNDA5MS00NDJhLTgzZmQtZmY3NmRjNTExYWE3XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+    "keywords": "reference to joan of arc,psychotronic film,wax works,art critic,starting a fire",
+    "name": "House of Wax",
+    "original_info": {
+        "id": "House of Wax | The Mystery of the Wax Museum_1953",
+        "name": "House of Wax / The Mystery of the Wax Museum",
+        "year": "1953"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Onslow1965"
+        },
+        "dateCreated": "2000-03-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0045888/"
+        },
+        "name": "Classic Vincent Price!!!!",
+        "reviewBody": "Here's the film that put Vincent Price on the horror map and redefined his career. His wonderfully unhinged performance as Professor Jarod is one that you should not miss. Price chews up the scenery and has a great time doing it. It would have been great to see it in 3D but I don't even know if you can get 3D on home video. But don't let that stop you from checking this one out. There is also a fine supporting cast including Frank Lovejoy, Phyllis Kirk, and a very dasterly Roy Roberts. Price plays a scuplter who takes his work just a little too seriously, especially after Roberts sets his wax mueseum on fire with Vinnie in it. The rest of the film focusses on Price's revenge, as it were. Also check out a very young Carolyn Jones (the future Morticia Adams). Check it out, you won't be disappointed."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for House of Wax",
+        "duration": "PT2M2S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi59287577",
+        "name": "House of Wax",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzA1Y2MyYjMtZDVmNC00NzcyLWJlZTItYTczODkyNGU3NmFkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzA1Y2MyYjMtZDVmNC00NzcyLWJlZTItYTczODkyNGU3NmFkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2013-10-12T04:31:45Z",
+        "url": "https://www.imdb.com/video/vi59287577/"
+    },
+    "url": "/title/tt0045888/"
+}

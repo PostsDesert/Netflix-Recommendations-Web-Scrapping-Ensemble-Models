@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Carl Reiner",
+            "url": "/name/nm0005348/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eva Marie Saint",
+            "url": "/name/nm0001693/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alan Arkin",
+            "url": "/name/nm0000273/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9275,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "Unrated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0011112/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nathaniel Benchley",
+            "url": "/name/nm0070360/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Rose",
+            "url": "/name/nm0741740/"
+        }
+    ],
+    "datePublished": "1966-05-25",
+    "description": "Without hostile intent, a Soviet submarine runs aground off New England. Men are sent for a boat, but many villagers go into a tizzy, risking bloodshed.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Norman Jewison",
+            "url": "/name/nm0422484/"
+        }
+    ],
+    "duration": "PT2H6M",
+    "genre": [
+        "Comedy",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZGNlMzJlNWQtZjk3NC00ZDA5LTg0N2MtOTc2NmJkYmI5MjM1XkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
+    "keywords": "soviet submarine,cold war,new england,stranded,soviet navy",
+    "name": "The Russians Are Coming the Russians Are Coming",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "mdm-11"
+        },
+        "dateCreated": "2004-10-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0060921/"
+        },
+        "name": "Human Spirit Overreaches Ideological Boundaries",
+        "reviewBody": "A Cold War \"comedy\" delivers lots of laughs, but also much to think about. Knowing what we know now (years after the fall of Communism), the story seems to foreshadow a brighter future for humankind. Carl Reiner's Masterpiece!\n\nA small New England island town is visited by the crew of a Russian submarine. The submarine has run adrift, and is stuck. The townspeople, through a series of misunderstandings, quickly perpetuate ever-increasing rumors about a Russian paratrouper invasion. Although the town is in a complete panic, the focus on a few characters and their interactions with the \"alien enemies\" reveals a more human side of the global East/West conflict. The final scenes are a heartwarming testimony to the triumph of the human spirit. A wonderful \"Sunday afternoon\" family film",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for this classic comedy",
+        "duration": "PT4M28S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4000187673",
+        "name": "The Russians Are Coming The Russians Are Coming",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNWVkYjQ2NzItYTRmOC00ODMzLTlmYzAtNTBlNWE4OGM0NDIwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNWVkYjQ2NzItYTRmOC00ODMzLTlmYzAtNTBlNWE4OGM0NDIwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-11-12T06:39:44Z",
+        "url": "https://www.imdb.com/video/vi4000187673/"
+    },
+    "url": "/title/tt0060921/"
+}

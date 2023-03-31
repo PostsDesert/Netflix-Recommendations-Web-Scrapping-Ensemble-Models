@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sissy Spacek",
+            "url": "/name/nm0000651/"
+        },
+        {
+            "@type": "Person",
+            "name": "Whoopi Goldberg",
+            "url": "/name/nm0000155/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dwight Schultz",
+            "url": "/name/nm0776239/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4409,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0033679/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0653046/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Cork",
+            "url": "/name/nm0179896/"
+        }
+    ],
+    "datePublished": "1991-04-12",
+    "description": "Two women, black and white, in 1955 Montgomery Alabama, must decide what they are going to do in response to the famous bus boycott led by Martin Luther King.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Richard Pearce",
+            "url": "/name/nm0669004/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Drama",
+        "History"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDdhMWE5NjMtMmFhOC00ZDIyLWFjMzQtNDllOWRiYjhhZTM0XkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg",
+    "keywords": "scene during opening credits,timeframe 1950s,social commentary,animosity,united states of america",
+    "name": "The Long Walk Home",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Ellie-23"
+        },
+        "dateCreated": "2001-02-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0100046/"
+        },
+        "name": "Excellent way to introduce the Civil Right Movement to people to young to remember those days.",
+        "reviewBody": "My mother grew up in the south so I remember going to visit Grandmother and wondering about the cook, Callie. She was silent and frowned at us and we were told to stay away from the kitchen. I think she was at the point of resentment and though my parents didn't like segregation my cousins and aunts and uncles thought it was the only acceptable way. I find in sharing this movie with younger people today they are shocked at the behavior at the party and in the park. They don't realize that life was really like that in some places. I like to improve sensitivity by showing the film and discussing it as groups when we can.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Miramax",
+        "duration": "PT1M45S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi955646233",
+        "name": "The Long Walk Home",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTY5YzQ0MzctYTU2My00YmE1LThhMjYtZTYxMDRiNTc0ZDE4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTY5YzQ0MzctYTU2My00YmE1LThhMjYtZTYxMDRiNTc0ZDE4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:55:06Z",
+        "url": "https://www.imdb.com/video/vi955646233/"
+    },
+    "url": "/title/tt0100046/"
+}

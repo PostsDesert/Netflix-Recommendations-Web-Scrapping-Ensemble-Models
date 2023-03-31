@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Katie Stuart",
+            "url": "/name/nm0835758/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Dorfman",
+            "url": "/name/nm0233562/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gregory Smith",
+            "url": "/name/nm0808376/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2388,
+        "ratingValue": 5.6,
+        "worstRating": 1
+    },
+    "contentRating": "TV-PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0046706/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0127668/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0004720/"
+        },
+        {
+            "@type": "Person",
+            "name": "Susan Shilliday",
+            "url": "/name/nm0793463/"
+        },
+        {
+            "@type": "Person",
+            "name": "Madeleine L'Engle",
+            "url": "/name/nm0478291/"
+        }
+    ],
+    "datePublished": "2004-05-10",
+    "description": "A young girl and her genius kid brother are aided by three curious witches in their search for their missing scientist father, captive of an omnipotent otherworldly villain simply called 'It' whose evil is slowly infecting the uni...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Kent Harrison",
+            "url": "/name/nm0006867/"
+        }
+    ],
+    "duration": "PT4H11M",
+    "genre": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYzExNmI5NTYtNGVkMy00YWQ3LWI1MzAtMmYxNGJjYTdmNTQ4XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+    "keywords": "female misfit,child protagonist,missing scientist,twins,mind control",
+    "name": "A Wrinkle in Time",
+    "original_info": {
+        "id": "A Wrinkle in Time_2003",
+        "name": "A Wrinkle in Time",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jbow"
+        },
+        "dateCreated": "2004-05-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0290382/"
+        },
+        "name": "Adequate.",
+        "reviewBody": "As adaptions go, this movie is adequate. It captures much of the spirit of the original book, and it makes good use of some excellent casting (the three child regulars are exceptional, especially Katie Stuart). Unfortunately, things are bogged down by too much uplifting music, and the modifications to the ending will have L'Engle purists fuming. You can see the evil hand of Disney in the final speech to the people of Camazotz.\n\nNot an actively bad movie, but it's just there. Personally, I'd rather read the book.\n\nBut I will keep my eye out for the next project Ms. Stuart is involved in.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0290382/"
+}

@@ -1,0 +1,94 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Chow Yun-Fat",
+            "url": "/name/nm0000334/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andy Lau",
+            "url": "/name/nm0490489/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alex Man",
+            "url": "/name/nm0504973/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 686,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "alternateName": "Rich and Famous",
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0015592/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0096034/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0106892/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen Shiu",
+            "url": "/name/nm0803314/"
+        },
+        {
+            "@type": "Person",
+            "name": "Manfred Wong",
+            "url": "/name/nm0939236/"
+        }
+    ],
+    "datePublished": "1987-05-28",
+    "description": "To pay off his debt as a gambler, a man drags his sister and step-brother into a life of crime and a violent war between rival gang lords.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Taylor Wong",
+            "url": "/name/nm0939351/"
+        }
+    ],
+    "duration": "PT1H44M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDM3YzhjMTQtYzNmZS00YWFkLTg4NDYtYjU3NDFiODg2YTk2XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
+    "keywords": "gang",
+    "name": "Gong woo ching",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Leofwine_draca"
+        },
+        "dateCreated": "2022-06-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0093306/"
+        },
+        "name": "Does the job nicely",
+        "reviewBody": "Despite the negative reviews I really liked this one, I thought it did the job very nicely. Made at a time when the heroic bloodshed genre was just taking off and with Andy Lau and Chow Yun-Fat as the stars it's impossible to dislike it. The story starts off a little confusing but soon boils down into a tale of rivalry between gangsters, and the cast, which includes Danny Lee and the great Alex Man, is excellent. Plus the vibrant action sequences have a sadistic edge which appeals; the ending in particular is spectacular. A sequel, TRAGIC HERO, followed.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0093306/"
+}

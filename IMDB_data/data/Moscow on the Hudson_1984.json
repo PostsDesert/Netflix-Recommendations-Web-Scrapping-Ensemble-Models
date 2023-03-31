@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Robin Williams",
+            "url": "/name/nm0000245/"
+        },
+        {
+            "@type": "Person",
+            "name": "Maria Conchita Alonso",
+            "url": "/name/nm0000744/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cleavant Derricks",
+            "url": "/name/nm0220598/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 12411,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0011145/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0069509/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Mazursky",
+            "url": "/name/nm0005196/"
+        },
+        {
+            "@type": "Person",
+            "name": "Leon Capetanos",
+            "url": "/name/nm0135117/"
+        }
+    ],
+    "datePublished": "1984-04-06",
+    "description": "A Russian saxophonist visiting New York with a circus troupe suddenly decides to defect from the USSR during a shopping trip to a department store, but he finds adjusting to American life more difficult than he imagined.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Paul Mazursky",
+            "url": "/name/nm0005196/"
+        }
+    ],
+    "duration": "PT1H55M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODNkOTRjY2MtNDMyYS00Njk4LTliZjItYzQ2ZWI5NWU1MDdiXkEyXkFqcGdeQXVyMTQ4NDY5OTc@._V1_.jpg",
+    "keywords": "city name in title,musician,circus,saxophone,russian immigrant",
+    "name": "Moscow on the Hudson",
+    "original_info": {
+        "id": "Moscow on the Hudson_1984",
+        "name": "Moscow on the Hudson",
+        "year": "1984"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "channel_3_tv"
+        },
+        "dateCreated": "2004-03-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0087747/"
+        },
+        "name": "Williams Best Performance!",
+        "reviewBody": "Robin Williams delivers the best performance of his storied career (yes I know he won an Oscar for Good Will Hunting) as Vladimir Ivanoff a Russian musician who takes a chance at freedom in America. Released in 1984 during the height of U.S. Russian tension, director Paul Mazursky doesn't villify Russia instead using it as an opportunity to show how similar the people are to Americans. Noteworthy performances by Maria Conchita Alonso (as his eventual girlfriend) and Cleavant Derricks (as the Bloomingdales security guard who takes an immediate liking to Vladimir). Mazursky walks the line of schmaltz at times but doesn't cross over. Especially evident in a well done scene when Vladimir finds out about the death of his beloved grandfather. Moscow on the Hudson is an often overlooked film that to me stood out as one worth watching again and again.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT2M20S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi706722329",
+        "name": "Moscow on the Hudson",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTJiYzNkNWEtNTUxOS00ZDNmLWE1MzEtMTQxMjY2NWJhMDNlXkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTJiYzNkNWEtNTUxOS00ZDNmLWE1MzEtMTQxMjY2NWJhMDNlXkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg",
+        "uploadDate": "2019-01-19T17:10:15.472Z",
+        "url": "https://www.imdb.com/video/vi706722329/"
+    },
+    "url": "/title/tt0087747/"
+}

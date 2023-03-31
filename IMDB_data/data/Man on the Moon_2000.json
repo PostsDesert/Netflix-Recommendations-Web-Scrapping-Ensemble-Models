@@ -1,0 +1,67 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jim Carrey",
+            "url": "/name/nm0000120/"
+        },
+        {
+            "@type": "Person",
+            "name": "Danny DeVito",
+            "url": "/name/nm0000362/"
+        },
+        {
+            "@type": "Person",
+            "name": "Milos Forman",
+            "url": "/name/nm0001232/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 106,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0021294/"
+        }
+    ],
+    "datePublished": "2000-05-30",
+    "description": "Interviews with the cast from the film Man on the Moon (1999) educate us a bit on the making of the film and also information about Andy Kaufman is mentionned. Though this is yet another Universal promotion, it is still enjoyable ...",
+    "duration": "PT20M",
+    "genre": [
+        "Documentary",
+        "Short",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTc2ZWNlY2YtOTAzNy00MGY2LTk0YjUtOTg0OTRmZjk4YzhhXkEyXkFqcGdeQXVyMjQ0NzE0MQ@@._V1_.jpg",
+    "keywords": "making of,interview,drama filmmaking,comedy filmmaking,biography filmmaking",
+    "name": "Man on the Moon: Behind the Moonlight",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "movieman_kev"
+        },
+        "dateCreated": "2005-05-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0365477/"
+        },
+        "name": "goes on too long, pretty fluffy",
+        "reviewBody": "A little bit on the fluffy side, this featurette is somewhat enjoyable, despite that. It features interviews with a lot of the cast, the Director Milos Forman, Kaufman's one time girlfriend, Lynne Margulies (who is a million times better looking than Courtney Love ever was or ever will be), the Producer, co-producer, any a few others. There's some good insights to be had primarily told by Jim Carrey. Even at only 20 minutes, this still feels a bit on the long side and has too many clips of the movie itself, Plus all the stuff with Courtney Love could have been tossed out. But as far as documentaries go it's not totally horrible.\n\nMy Grade: C-",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 4,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0365477/"
+}

@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tom Cruise",
+            "url": "/name/nm0000129/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ken Watanabe",
+            "url": "/name/nm0913822/"
+        },
+        {
+            "@type": "Person",
+            "name": "Billy Connolly",
+            "url": "/name/nm0175262/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 449045,
+        "ratingValue": 7.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0014925/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0012382/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Logan",
+            "url": "/name/nm0517589/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edward Zwick",
+            "url": "/name/nm0001880/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marshall Herskovitz",
+            "url": "/name/nm0380980/"
+        }
+    ],
+    "datePublished": "2003-12-05",
+    "description": "An American military advisor embraces the Samurai culture he was hired to destroy after he is captured in battle.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Edward Zwick",
+            "url": "/name/nm0001880/"
+        }
+    ],
+    "duration": "PT2H34M",
+    "genre": [
+        "Action",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzkyNzQ1Mzc0NV5BMl5BanBnXkFtZTcwODg3MzUzMw@@._V1_.jpg",
+    "keywords": "samurai,emperor,seppuku,war hero,spirituality",
+    "name": "The Last Samurai",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "murtaza_mma"
+        },
+        "dateCreated": "2009-05-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0325710/"
+        },
+        "name": "A Potpourri of Vestiges Review: Pride and Honour",
+        "reviewBody": "The Last Samurai is a brilliantly crafted aesthetic pleasure, studded with supernal performances from Ken Watanabe and Tom Cruise. In fact, Tom Cruise unarguably gives his best ever performance, surpassing his portrayal of Jerry Maguire in the eponymous flick. His plaintive portrayal of Nathan Algren, not only evokes pathos but also seeks sympathy of the contemporary viewer, who can vicariously relate to Algren's disconcertion, owing to his inner conflicts of patriotism vis-à-vis humanity.\n\nHowever, it is Ken Watanabe, who steals the show with his mesmerizing and poignant portrayal of Katsumoto, the leader of the last clan of Samurai. His screen presence and delivery is truly amazing and even outshines that of Tom Cruise, which is a compliment in itself. The scenes between Watanabe and Cruise are pure gold, depicting fluctuating feelings of hostility, compassion and camaraderie. \n\nWatanabe's intense and powerful performance in which he displays a wide range of emotions, is definitely worthy of the coveted statuette, but the academy never fails to disappoint. Watanabe's brilliant portrayal, not only mesmerizes the viewers, but also convinces the critics of his acting abilities. The tacit adoration between Algren and Taka (subtly played by Koyuki), enormously adds to the beauty of the movie. All this coupled with some brilliant cinematography and a mesmerizing score, makes it a treat to watch and a truly surreal experience.\n\nhttp://www.apotpourriofvestiges.com/",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3381592345",
+        "name": "The Last Samurai",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNGQzZDA4NzctZDJiZC00NDZlLTkxYTItZjJmNzFiNDYwNDIzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNGQzZDA4NzctZDJiZC00NDZlLTkxYTItZjJmNzFiNDYwNDIzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:33:50Z",
+        "url": "https://www.imdb.com/video/vi3381592345/"
+    },
+    "url": "/title/tt0325710/"
+}

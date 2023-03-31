@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Johnny Depp",
+            "url": "/name/nm0000136/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christina Ricci",
+            "url": "/name/nm0000207/"
+        },
+        {
+            "@type": "Person",
+            "name": "Miranda Richardson",
+            "url": "/name/nm0001669/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 367796,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0013922/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0093765/"
+        },
+        {
+            "@type": "Person",
+            "name": "Washington Irving",
+            "url": "/name/nm0410331/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kevin Yagher",
+            "url": "/name/nm0944892/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrew Kevin Walker",
+            "url": "/name/nm0001825/"
+        }
+    ],
+    "datePublished": "1999-11-19",
+    "description": "Ichabod Crane is sent to Sleepy Hollow to investigate the decapitations of three people, with the culprit being the legendary apparition, The Headless Horseman.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Tim Burton",
+            "url": "/name/nm0000318/"
+        }
+    ],
+    "duration": "PT1H45M",
+    "genre": [
+        "Fantasy",
+        "Horror",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ4Yjk5ODEtNGFkOS00OTY1LTgwYTYtOTFkNmU2NzBmNGM2XkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_.jpg",
+    "keywords": "headless horseman,horseman,investigation,sword,legend",
+    "name": "Sleepy Hollow",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ma-cortes"
+        },
+        "dateCreated": "2007-11-05",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0162661/"
+        },
+        "name": "Stunning version of Washington Irving novel with particular Tim Burton style",
+        "reviewBody": "Enjoyable version about known Washington Irving's novel, titled ¨The legend of Sleepy Hollow¨. It concerns on Ichabod Crane(excellently personified by Johnny Depp). He's a N.Y. constable assigned to investigate brutal murders in a little town named Sleepy Hollow. Crane is housed by Balthus Van Tassel(Michael Gambon), whose beautiful daughter(Christina Ricci) falls in love for him. At the beginning Crane denies to believe that a rider without head committing the grisly killings, but he's early convinced when seeing the graphic evidence of his own hands. Meanwhile, wealthy authorities and rich proprietaries (Richard Griffiths,Ian McDiarmid,Michael Gough,Michael Gambon) from village reunite to planning and defending against the amazing beheaded creature.Finally, all it leads to an unexpected twist and breakthrough ending on what's happened before.\n\nThis is an agreeable and effective film, still has shock value from grisly killings .It's proceeded with a Burton style and containing colorful images and wonderful dreams with Burtonized narrative. The movie is plenty on suspense, thriller, grisly terror and sensationalistic set pieces horror when the decapitations take place. Wide use of gore and now famous decapitation , for those who like this kind of things. Casting frankly extraordinary with several famous actors and exceptional secondary cast and special cameos by Martin Landau and Christopher Lee .Glimmer cinematography by Emmanuel Lubezki and sensational musical score by Danny Elffman, both are Burton's usual. The film is lavishly produced by Francis Ford Coppola-Zeotrope studios- and Kevin Yagher-famous makeup expert- .The motion picture is marvellously directed with visual style and fair-play by the great Tim Burton. Rating : Magnificent flick and better than average.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Paramount",
+        "duration": "PT2M24S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi428081433",
+        "name": "Sleepy Hollow",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTQwNzc1YjUtNzQxOS00NGI3LThiM2QtMTczZDA3MDI4YjAwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTQwNzc1YjUtNzQxOS00NGI3LThiM2QtMTczZDA3MDI4YjAwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:53:04Z",
+        "url": "https://www.imdb.com/video/vi428081433/"
+    },
+    "url": "/title/tt0162661/"
+}

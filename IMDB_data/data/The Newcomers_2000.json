@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Christopher McCoy",
+            "url": "/name/nm0566713/"
+        },
+        {
+            "@type": "Person",
+            "name": "Matt McCoy",
+            "url": "/name/nm0566783/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kate Bosworth",
+            "url": "/name/nm0098378/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 471,
+        "ratingValue": 4.8,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0225972/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tony Jiti Gill",
+            "url": "/name/nm0318750/"
+        },
+        {
+            "@type": "Person",
+            "name": "Garrett Clancy",
+            "url": "/name/nm0163357/"
+        }
+    ],
+    "datePublished": "2000-10-01",
+    "description": "A 12-year-old boy and his family start life over in a new town.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "James Allen Bradley",
+            "url": "/name/nm0103262/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Drama",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOWY1ODYwOGQtZjk1Mi00ZWYwLTk5YzEtN2ExNzA5MzIyYWRiXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+    "keywords": "chaste kiss,boy egged,humiliation,egg shampoo,bike",
+    "name": "The Newcomers",
+    "original_info": {
+        "id": "The Newcomers_2000",
+        "name": "The Newcomers",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "refpres"
+        },
+        "dateCreated": "2003-04-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0221431/"
+        },
+        "name": "refreshing",
+        "reviewBody": "This is a refreshing story and film for children and some adults who would like a somewhat \"realistic\" film. This film makes you feel almost as though you were sitting right next to the actors while they go about their lives in the movie. Compared to other films, this one is not always \"smooth,\" and some little acts don't always \"fit,\" but you might appreciate the \"innocence\" and lessons taught by the movie.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from MTI",
+        "duration": "PT2M7S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2012676377",
+        "name": "The Newcomers",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjkwZTIwYzMtNGM0NS00OWRhLTkzNmItNjEwMWZiNjJlM2Q5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjkwZTIwYzMtNGM0NS00OWRhLTkzNmItNjEwMWZiNjJlM2Q5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:59:16Z",
+        "url": "https://www.imdb.com/video/vi2012676377/"
+    },
+    "url": "/title/tt0221431/"
+}

@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bill Bellamy",
+            "url": "/name/nm0004740/"
+        },
+        {
+            "@type": "Person",
+            "name": "Natalie Desselle Reid",
+            "url": "/name/nm0221754/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lark Voorhies",
+            "url": "/name/nm0903397/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9075,
+        "ratingValue": 5.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0043482/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0011996/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0014629/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Brown",
+            "url": "/name/nm0114197/"
+        },
+        {
+            "@type": "Person",
+            "name": "Demetria Johnson",
+            "url": "/name/nm0424937/"
+        }
+    ],
+    "datePublished": "1997-08-06",
+    "description": "A playboy gets the tables turned on him when a party is arranged with all of the women he has been two-timing are in attendance.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Lionel C. Martin",
+            "url": "/name/nm0552693/"
+        }
+    ],
+    "duration": "PT1H33M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOGI1Y2RhMzgtOTRkZC00M2M3LWFmMTYtOGMwZWY3NmFlMjIxXkEyXkFqcGdeQXVyOTQ5Njc0MDU@._V1_.jpg",
+    "keywords": "party,sexist,sexism,infidelity,bachelor",
+    "name": "How to Be a Player",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "DJ Inferno"
+        },
+        "dateCreated": "2001-12-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0119326/"
+        },
+        "name": "Long live those hiphop-babes!!!",
+        "reviewBody": "Lots of hot chicks like in those hiphop-videos on MTV and a plot that doesn´t strain your nerves too much..! Okay, sometimes this shot is pure camp, but who really cares?!? ...No film is perfect!!!\n\nI´d give 6 out of 10..."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Universal Studios Home Entertainment",
+        "duration": "PT32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1621164313",
+        "name": "How To Be A Player",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BY2FjZDE4M2UtNDY0Zi00YzBiLWI4N2UtY2Q4MTcxY2I4OTNhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BY2FjZDE4M2UtNDY0Zi00YzBiLWI4N2UtY2Q4MTcxY2I4OTNhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:49:22Z",
+        "url": "https://www.imdb.com/video/vi1621164313/"
+    },
+    "url": "/title/tt0119326/"
+}

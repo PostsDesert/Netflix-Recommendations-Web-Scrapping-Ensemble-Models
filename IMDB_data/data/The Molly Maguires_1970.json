@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sean Connery",
+            "url": "/name/nm0000125/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Harris",
+            "url": "/name/nm0001321/"
+        },
+        {
+            "@type": "Person",
+            "name": "Samantha Eggar",
+            "url": "/name/nm0002058/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4101,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0155441/"
+        },
+        {
+            "@type": "Person",
+            "name": "Arthur H. Lewis",
+            "url": "/name/nm1054968/"
+        },
+        {
+            "@type": "Person",
+            "name": "Walter Bernstein",
+            "url": "/name/nm0077159/"
+        }
+    ],
+    "datePublished": "1970-05-24",
+    "description": "In 1876 Pennsylvania, a group of Irish immigrant coal miners begin to retaliate against the cruelty of their work environment.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Martin Ritt",
+            "url": "/name/nm0728688/"
+        }
+    ],
+    "duration": "PT2H4M",
+    "genre": [
+        "Drama",
+        "History"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOGJiNmQ4NDAtZjFjYS00YmU5LWJjNGItOTg1NDc5ZjM0OTY4XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "1870s,pennsylvania,sabotage,repression,irish american",
+    "name": "The Molly Maguires",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "brewsmac"
+        },
+        "dateCreated": "2001-08-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0066090/"
+        },
+        "name": "Good story with excellent cast.",
+        "reviewBody": "Good story line. Well played. Excellent cast, with some lesser seen actors. Enjoyed this film throughout. Constantly moving story. Historically accurate as I understand. Good example of Sean Connery's earlier (non-Bond) work.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M52S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi299221273",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNmZjMjZjNTMtMzY3OS00OWI5LTg3ZGEtNjg5ZWYyYjNjZWY0XkEyXkFqcGdeQWdhbWF6b2E@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNmZjMjZjNTMtMzY3OS00OWI5LTg3ZGEtNjg5ZWYyYjNjZWY0XkEyXkFqcGdeQWdhbWF6b2E@._V1_.jpg",
+        "uploadDate": "2020-11-03T14:06:03.293Z",
+        "url": "https://www.imdb.com/video/vi299221273/"
+    },
+    "url": "/title/tt0066090/"
+}

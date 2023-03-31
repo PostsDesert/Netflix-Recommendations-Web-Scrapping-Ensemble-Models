@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Barbra Streisand",
+            "url": "/name/nm0000659/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeff Bridges",
+            "url": "/name/nm0000313/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lauren Bacall",
+            "url": "/name/nm0000002/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 20662,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005883/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0029574/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0073376/"
+        },
+        {
+            "@type": "Person",
+            "name": "André Cayatte",
+            "url": "/name/nm0147158/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gérard Oury",
+            "url": "/name/nm0653620/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard LaGravenese",
+            "url": "/name/nm0481418/"
+        }
+    ],
+    "datePublished": "1996-11-15",
+    "description": "A shy, middle-aged professor enters into a romantic but non-physical relationship with an unlucky-in-love colleague.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Barbra Streisand",
+            "url": "/name/nm0000659/"
+        }
+    ],
+    "duration": "PT2H6M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDFjOWY0YWItZWNhOC00YmQyLWJhNDktMzEzNWZhMTg2YTQ2XkEyXkFqcGdeQXVyNDAxNjkxNjQ@._V1_.jpg",
+    "keywords": "professor,remake of french film,directed by star,dating,lecture",
+    "name": "The Mirror Has Two Faces",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ladymilano"
+        },
+        "dateCreated": "2021-05-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0117057/"
+        },
+        "name": "Never realized that I have watched this 12 years ago",
+        "reviewBody": "Love this movie because it is a how single professor found her love, which I felt so related to my life.\n\nThe surprising fact is when I want to rated it, it turned out I have rated it before! For me now it's an 8, while my previous rating was 7. I think for a movie which had released for almost 30 years ago, it's still so good.\n\nI was curious and checked when I watch this before, because I have no idea during watching. Thankfully IMDB has history record! I found out watched it on February 2009, it's about 12 years ago and the rating getting higher 1 star 😆",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Pictures",
+        "duration": "PT2M28S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4176871705",
+        "name": "The Mirror Has Two Faces",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNmIwNjNhMTEtNTM1OS00MDkwLWFhNGQtOGRmMzVmZmI0MzYzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNmIwNjNhMTEtNTM1OS00MDkwLWFhNGQtOGRmMzVmZmI0MzYzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:57:23Z",
+        "url": "https://www.imdb.com/video/vi4176871705/"
+    },
+    "url": "/title/tt0117057/"
+}

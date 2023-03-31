@@ -1,0 +1,96 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kim Basinger",
+            "url": "/name/nm0000107/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alec Baldwin",
+            "url": "/name/nm0000285/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Loggia",
+            "url": "/name/nm0005162/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5944,
+        "ratingValue": 5.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0076240/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0133018/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0011800/"
+        },
+        {
+            "@type": "Person",
+            "name": "Neil Simon",
+            "url": "/name/nm0800319/"
+        }
+    ],
+    "datePublished": "1991-04-05",
+    "description": "A millionaire playboy goes to Las Vegas and comes out married to a woman he barely knows.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jerry Rees",
+            "url": "/name/nm0715916/"
+        }
+    ],
+    "duration": "PT1H55M",
+    "genre": [
+        "Comedy",
+        "Music",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzQ2MzJkMDAtODM4Mi00NTkxLTgyNjYtYTk0ZTE0MDQ4MGRjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "playboy,nightclub,bachelor party,slapstick comedy,wisecrack humor",
+    "name": "The Marrying Man",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "RRSawdey"
+        },
+        "dateCreated": "2006-07-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0102411/"
+        },
+        "name": "Chemistry!",
+        "reviewBody": "This is the movie where Alec Balwin and Kim Baisinger fall in love, FOR REAL! Their chemistry is potent and obvious... and they were married shortly after!\n\nYes, it's very funny in places, a tribute to human emotional insanity under the influence of love... and OH so true.\n\nLargely, to my mind, because of the REAL emotions between the main characters (they WEREN'T acting) it was fantastic. Alec is the quintessential male victim of love - totally illogical and totally devoted to the female who's totally seduced him. And she comes to believe a man willing to die for her is better than the meal ticket she's got in the mob guy... to everyone's detriment.\n\nWatch it again, people, appreciating it's relation to actual history..."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A millionaire playboy goes into Las Vegas and comes out married to a woman he barely knows.",
+        "duration": "PT3M20S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2962146073",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZmEyNTBkZGMtYTY4ZC00ZGExLWJkOTEtNTk5YTI1NWRmYmE3XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZmEyNTBkZGMtYTY4ZC00ZGExLWJkOTEtNTk5YTI1NWRmYmE3XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-10-27T23:23:36.071Z",
+        "url": "https://www.imdb.com/video/vi2962146073/"
+    },
+    "url": "/title/tt0102411/"
+}

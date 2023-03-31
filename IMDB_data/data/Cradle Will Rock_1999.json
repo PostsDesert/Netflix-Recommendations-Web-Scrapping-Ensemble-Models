@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Hank Azaria",
+            "url": "/name/nm0000279/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rubén Blades",
+            "url": "/name/nm0001952/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joan Cusack",
+            "url": "/name/nm0000349/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9360,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0049348/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0041266/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0023392/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tim Robbins",
+            "url": "/name/nm0000209/"
+        }
+    ],
+    "datePublished": "2000-01-21",
+    "description": "A true story of politics and art in the 1930s U.S., focusing on a leftist musical drama and attempts to stop its production.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Tim Robbins",
+            "url": "/name/nm0000209/"
+        }
+    ],
+    "duration": "PT2H12M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMmJiYmE2ZDctNDQyNS00MjUzLWFmNmUtMWM3OWMxZDJjYWQwXkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_.jpg",
+    "keywords": "reference to franklin d. roosevelt,frida kahlo character,diego rivera character,bertolt brecht character,marion davies character",
+    "name": "Cradle Will Rock",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "heleno84"
+        },
+        "dateCreated": "2004-01-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0150216/"
+        },
+        "name": "Deserves more praise than it gets",
+        "reviewBody": "This may suffer from having a few too many plot lines and characters (Emily Watson, for example, is a role too far), but most of what's there is excellent. Bill Murray is as good as he has been recently in Rushmore and Lost in Translation, and the Cusacks are at their best. This is a film that lingers with you after you've seen it, and gives a fascinating insight into a turbulent time.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A true story of politics and art in the 1930s U.S., focusing on a leftist musical drama and attempts to stop its production.",
+        "duration": "PT2M17S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1070973721",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTgzMDJmMGEtOTA1YS00NjlkLWFjMWEtOTVmMzVlOTY0MmRkXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTgzMDJmMGEtOTA1YS00NjlkLWFjMWEtOTVmMzVlOTY0MmRkXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-11-26T19:26:43.895Z",
+        "url": "https://www.imdb.com/video/vi1070973721/"
+    },
+    "url": "/title/tt0150216/"
+}

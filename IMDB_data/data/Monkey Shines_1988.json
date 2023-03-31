@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jason Beghe",
+            "url": "/name/nm0000892/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Pankow",
+            "url": "/name/nm0659601/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kate McNeil",
+            "url": "/name/nm0573896/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 12331,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0001995/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Stewart",
+            "url": "/name/nm0829664/"
+        },
+        {
+            "@type": "Person",
+            "name": "George A. Romero",
+            "url": "/name/nm0001681/"
+        }
+    ],
+    "datePublished": "1988-07-29",
+    "description": "A quadriplegic man has a trained monkey help him with his paralysis, until the little monkey begins to develop feelings, and rage, against its new master.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "George A. Romero",
+            "url": "/name/nm0001681/"
+        }
+    ],
+    "duration": "PT1H53M",
+    "genre": [
+        "Drama",
+        "Horror",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkxOTk4NDM1Nl5BMl5BanBnXkFtZTcwNzI0ODI1NA@@._V1_.jpg",
+    "keywords": "paralyzed man,quadriplegic man,quadriplegic,nudity,telephone call",
+    "name": "Monkey Shines",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "paulclaassen"
+        },
+        "dateCreated": "2019-05-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0095652/"
+        },
+        "name": "A classic, no doubt!",
+        "reviewBody": "Aah, George A Romero - the master himself - does it again. This is a very stylish thriller and perfect study of how man's apparent progress goes horribly wrong.\n\nThe film captured my attention from the opening moment. Jason Beghe is perfectly cast in this demanding role. It was interesting (if somewhat creepy) to see how things started going wrong, very subtle at first, and how the situation declined to absolute chaos and mayhem. The romance interest felt very natural and enjoyable. Quite often the romance feels forced into a film; here it seemed inevitable given the circumstances.\n\nThis is a true classic!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT1M39S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4269195033",
+        "name": "Monkey Shines",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMDY5MzUyN2ItM2QyZS00MjFlLTgyNjYtYThkYjdjZDFmY2ZlXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDY5MzUyN2ItM2QyZS00MjFlLTgyNjYtYThkYjdjZDFmY2ZlXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-01-10T17:04:06.683Z",
+        "url": "https://www.imdb.com/video/vi4269195033/"
+    },
+    "url": "/title/tt0095652/"
+}

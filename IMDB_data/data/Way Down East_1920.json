@@ -1,0 +1,89 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Lillian Gish",
+            "url": "/name/nm0001273/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Barthelmess",
+            "url": "/name/nm0001932/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mrs. David Landau",
+            "url": "/name/nm0484472/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5672,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "contentRating": "Passed",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0054813/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lottie Blair Parker",
+            "url": "/name/nm0662461/"
+        },
+        {
+            "@type": "Person",
+            "name": "William A. Brady",
+            "url": "/name/nm0103755/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joseph R. Grismer",
+            "url": "/name/nm0342604/"
+        }
+    ],
+    "datePublished": "1920-09-03",
+    "description": "A naive country girl is tricked into a sham marriage by a wealthy womanizer, then must rebuild her life despite the taint of having borne a child out of wedlock.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "D.W. Griffith",
+            "url": "/name/nm0000428/"
+        }
+    ],
+    "duration": "PT2H25M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjI5OTI3NTQ4NV5BMl5BanBnXkFtZTgwNDY3NTAwMjE@._V1_.jpg",
+    "keywords": "blockbuster,fake wedding,country girl,female protagonist,waterfall",
+    "name": "Way Down East",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "evanston_dad"
+        },
+        "dateCreated": "2006-01-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0011841/"
+        },
+        "name": "Gish Suffers Nobly",
+        "reviewBody": "\"Way Down East\" will probably be a hard pill for many filmgoers to swallow, as it's a silent and very long, but I would recommend you give it a try, as it's also pretty entertaining.\n\nLillian Gish gets put through her melodramatic paces by the granddaddy of modern cinema, D.W. Griffith. Griffith was a master at building his movies up to intolerably exciting finales, and this film is no exception. A classic set piece puts Gish trying to escape across a frozen river, jumping from one drifting block of ice to the next. And consider that this was in the day before special effects, and it's even quite possible that Gish did all of the stunts herself.\n\nA slice of early cinema that goes down easily if you give it the chance.\n\nGrade: A-",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0011841/"
+}

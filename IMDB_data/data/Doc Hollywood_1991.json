@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Michael J. Fox",
+            "url": "/name/nm0000150/"
+        },
+        {
+            "@type": "Person",
+            "name": "Julie Warner",
+            "url": "/name/nm0000689/"
+        },
+        {
+            "@type": "Person",
+            "name": "Barnard Hughes",
+            "url": "/name/nm0400464/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 38339,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Person",
+            "name": "Neil B. Shulman",
+            "url": "/name/nm0795743/"
+        },
+        {
+            "@type": "Person",
+            "name": "Laurian Leggett",
+            "url": "/name/nm0499348/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeffrey Price",
+            "url": "/name/nm0696949/"
+        }
+    ],
+    "datePublished": "1991-08-02",
+    "description": "A young doctor on his way across the country to a job interview crashes his car in a small town and is sentenced to work for several days at the town hospital.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Caton-Jones",
+            "url": "/name/nm0001994/"
+        }
+    ],
+    "duration": "PT1H44M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTcwMjZlZTgtM2VlMC00MDZkLWIzODQtMDRhZjE0N2QzMTgwXkEyXkFqcGdeQXVyMjY3MjUzNDk@._V1_.jpg",
+    "keywords": "small town,washington d.c.,fish out of water,surgeon,female frontal nudity",
+    "name": "Doc Hollywood",
+    "original_info": {
+        "id": "Doc Hollywood_1991",
+        "name": "Doc Hollywood",
+        "year": "1991"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Doctor_Bombay"
+        },
+        "dateCreated": "1999-03-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0101745/"
+        },
+        "name": "The little movie that could.",
+        "reviewBody": "The title immediately put me off. The star, Michael J Fox immediately put me off. But once I got past those 2 major obstacles and settled in, I found a little gem of a movie.\n\nFox's young doctor, all full of spit and vinegar, sets off across country to medical nirvana: a highly sought position in a prestigious Beverly Hills plastic surgery practice. On the way, Doc Hollywood is waylaid in definitive small town USA, Grady Ga. on the cusp of the annual squash festival.\n\nAm I boring you? Likely, but this film is never boring, a character driven comedy with superlative performances in each and every nook and cranny-particularly David Ogden Stiers (no Maj Winchester here) and Barnard Hughes. Woody Harrelson and Bridget Fonda have smallish parts. Even George Hamilton is bearable in a cameo.\n\nLiked it so much, I headed out to find director Michael Caton-Jones previous effort, Memphis Belle."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT1M57S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3976509977",
+        "name": "Doc Hollywood",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYmNhYzM5YjgtZThhMS00NGRjLThkM2QtNDM4ZmUxYTU3NDM3XkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYmNhYzM5YjgtZThhMS00NGRjLThkM2QtNDM4ZmUxYTU3NDM3XkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg",
+        "uploadDate": "2019-01-23T17:06:58.270Z",
+        "url": "https://www.imdb.com/video/vi3976509977/"
+    },
+    "url": "/title/tt0101745/"
+}

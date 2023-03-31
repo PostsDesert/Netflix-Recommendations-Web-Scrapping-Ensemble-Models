@@ -1,0 +1,75 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Holly Hunter",
+            "url": "/name/nm0000456/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stellan Skarsgård",
+            "url": "/name/nm0001745/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ted Levine",
+            "url": "/name/nm0505971/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 584,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0052075/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0007424/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Silverman",
+            "url": "/name/nm0798960/"
+        }
+    ],
+    "datePublished": "2000-06-04",
+    "description": "A Kentucky woman whose mine-worker husband is nearly killed in a cave-in, and whose father is slowly dying of black lung disease, joins the picket lines for a long, violent strike.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Tony Bill",
+            "url": "/name/nm0082300/"
+        }
+    ],
+    "duration": "PT1H44M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc2MDkzODMxMl5BMl5BanBnXkFtZTcwMzQyMjcyMQ@@._V1_.jpg",
+    "keywords": "miners' strike,harlan county kentucky,kentucky,united mine workers association,miner",
+    "name": "Harlan County War",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Grover-15"
+        },
+        "dateCreated": "2002-09-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0209013/"
+        },
+        "name": "Honest account of \"class warfare\" in Bloody Harlan Co.",
+        "reviewBody": "In the tradition of \"Norma Rae,\" this honest and commendable account of the on-going \"class warfare\" in Bloody Harlan County between the coal mine workers and the mine owners provides a gritty history lesson, especially for young viewers unfamiliar with this vital chapter in our labor struggles. Holly Hunter is nothing less than magnificent, as is the entire cast superbly directed by Tony Bill. The authetic music of Appallachia aids considerably to this must-see film."
+    },
+    "url": "/title/tt0209013/"
+}

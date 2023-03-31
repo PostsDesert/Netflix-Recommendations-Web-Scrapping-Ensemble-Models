@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Paul Campbell",
+            "url": "/name/nm1353748/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jennifer Copping",
+            "url": "/name/nm0178838/"
+        },
+        {
+            "@type": "Person",
+            "name": "Aimee Garcia",
+            "url": "/name/nm0305083/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 309,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "TV-PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0535363/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0329108/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joel Dovev",
+            "url": "/name/nm3269060/"
+        },
+        {
+            "@type": "Person",
+            "name": "Margaux Froley",
+            "url": "/name/nm0296276/"
+        }
+    ],
+    "datePublished": "2023-03-19",
+    "description": "Follows Alden and Birdie Case, as they find a new way to keep the mystery alive. Alden takes classes in hopes of becoming a private investigator, and Birdie may hold the keys to solve one of his mysteries.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mike Rohl",
+            "url": "/name/nm0737517/"
+        }
+    ],
+    "duration": "PT2H",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYmQyYTE1NDItYTg3MC00ODYwLTlhZGUtMDgzOTJhOGQ1YmZkXkEyXkFqcGdeQXVyMTU4MzQzNDkx._V1_.jpg",
+    "name": "The Cases of Mystery Lane",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "joshua-33177"
+        },
+        "dateCreated": "2023-03-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt26545218/"
+        },
+        "name": "excellent movie",
+        "reviewBody": "I saw this advertised and I knew right away this was going to be good. I dont want to give away too much, but Alden is an accountant, but unsatisfied with his career, but is afraid to step out and become a P. I. Birdie is an excellent lawyer. Alden and Birdie are somewhat drifting apart, but I do love how they rekindle a love for each other, save their marriage and they crack the case. This movie does have a lot of twists and turns and you will be entertained. Just when you think you have it all figured out, you dont see it coming. Normally, some Hallmark movies can be a little boring because you're able to see everything coming a mile away, but this is not one of those times. You will not be disappointed.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Follows Alden and Birdie Case, as they find a new way to keep the mystery alive. Alden takes classes in hopes of becoming a private investigator, and Birdie may hold the keys to solve one of his mysteries.",
+        "duration": "PT35S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi724485145",
+        "name": "Official Teaser",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMGJiYjlhNmYtN2Q2Ny00YzYwLTlkMDctZDk4ODI0ODg5YTQ0XkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMGJiYjlhNmYtN2Q2Ny00YzYwLTlkMDctZDk4ODI0ODg5YTQ0XkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+        "uploadDate": "2023-03-22T15:53:44.149Z",
+        "url": "https://www.imdb.com/video/vi724485145/"
+    },
+    "url": "/title/tt26545218/"
+}

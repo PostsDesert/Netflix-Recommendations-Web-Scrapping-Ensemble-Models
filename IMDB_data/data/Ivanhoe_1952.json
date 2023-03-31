@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Robert Taylor",
+            "url": "/name/nm0001791/"
+        },
+        {
+            "@type": "Person",
+            "name": "Elizabeth Taylor",
+            "url": "/name/nm0000072/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joan Fontaine",
+            "url": "/name/nm0000021/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9760,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007143/"
+        },
+        {
+            "@type": "Person",
+            "name": "Noel Langley",
+            "url": "/name/nm0486538/"
+        },
+        {
+            "@type": "Person",
+            "name": "Æneas MacKenzie",
+            "url": "/name/nm0533418/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marguerite Roberts",
+            "url": "/name/nm0731387/"
+        }
+    ],
+    "datePublished": "1953-02-20",
+    "description": "A knight seeks to free the captive King Richard and put him back on the throne.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Richard Thorpe",
+            "url": "/name/nm0861703/"
+        }
+    ],
+    "duration": "PT1H46M",
+    "genre": [
+        "Adventure",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTFmZDZjMDEtNTFjNi00YWE1LTlhNWUtNDc2NzFmNmQ2YTNjXkEyXkFqcGdeQXVyNTEwNDcxNDc@._V1_.jpg",
+    "keywords": "title same as book,ivanhoe character,dog,yorkshire england,horn the musical instrument",
+    "name": "Ivanhoe",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "hitchcockthelegend"
+        },
+        "dateCreated": "2010-06-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0044760/"
+        },
+        "name": "Before me kneels a nation divided - rise as one man, and that one, for England!",
+        "reviewBody": "Out of MGM, Ivanhoe was spared no expense and became the costliest epic produced in England at the time - though the studio millions that were tied into English banks is more telling than any sort of love for the project one feels...\n\nIt's directed by Richard Thorpe and produced by Pandro S. Berman. The cast features Robert Taylor, Elizabeth Taylor, Joan Fontaine, George Sanders, Emlyn Williams, Finlay Currie and Felix Aylmer. The screenplay is by Æneas MacKenzie, Marguerite Roberts, and Noel Langley who adapts from the novel Ivanhoe by Sir Walter Scott. The score is by Miklós Rózsa and Freddie Young is on Technicolor cinematography duties with the exterior location work at Doune Castle, Stirling, Scotland.\n\nThough the pacing is far from perfect and there's some saggy bits in the script, Ivanhoe remains arguably one of the finest and most under appreciated of MGM's historical epics. Naturally there's some differences from Scott's novel (a given in most genre pieces of this type), but Thorpe and his team come through with the material given and deliver a rousing treat.\n\nIt looks tremendous courtesy of Young's lensing, where he brilliantly brings to life Roger Furse's costumes and Alfred Junge's majestic sets. Taylor (R), Fontaine and Taylor (E) look delightful, (especially Liz who can easily take you out of the movie such is her beauty here) and their romantic triangle makes for an ever watchable romantic spectacle.\n\nThe action is on the money, with the attack on Front de Boeuf castle adroitly constructed (and not skimped on time wise), a jousting competition that vividly comes to life (Ivanhoe so tough he challenges all five knights to a contest!), and a Mano-Mano fight between Taylor's Ivanhoe and Sanders' De Bois-Guilbert that is grisly and adrenalin pumping in equal measure (check out the sound work here too).\n\nIt's also worth acknowledging the anti-semitic part of the story, with the MGM suits thankfully deciding to not ignore this part of Scott's literary source.\n\nThe three handsome lead stars are backed up superbly by a robust Williams, while the trio of villains played by Sanders, Robert Douglas and the excellent Guy Wolfe as weasel Prince John, deliver the requisite quota of boo hiss villainy.\n\nIt made big money for MGM, setting records for the studio at the time. It's not hard to see why. It's a beautiful production across the board, and while it's not without faults per se, it holds up regardless as it firmly engages and stirs the blood of the historical epic loving fan. What a year 1952 was for MGM! 8/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for this epic drama",
+        "duration": "PT1M52S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi531105049",
+        "name": "Ivanhoe",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDdhM2E3NTYtZDFmOS00Y2RlLTgzMGQtODY4ZThhMDAzOTg1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDdhM2E3NTYtZDFmOS00Y2RlLTgzMGQtODY4ZThhMDAzOTg1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-11-01T04:29:50Z",
+        "url": "https://www.imdb.com/video/vi531105049/"
+    },
+    "url": "/title/tt0044760/"
+}

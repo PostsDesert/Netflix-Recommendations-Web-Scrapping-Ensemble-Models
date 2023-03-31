@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jackie Chan",
+            "url": "/name/nm0000329/"
+        },
+        {
+            "@type": "Person",
+            "name": "Owen Wilson",
+            "url": "/name/nm0005562/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lucy Liu",
+            "url": "/name/nm0005154/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 130268,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0049348/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0031181/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0152165/"
+        },
+        {
+            "@type": "Person",
+            "name": "Miles Millar",
+            "url": "/name/nm0587692/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alfred Gough",
+            "url": "/name/nm0332184/"
+        }
+    ],
+    "datePublished": "2000-05-26",
+    "description": "A Chinese man travels to the Wild West to rescue a kidnapped Princess. After teaming up with a train robber, the unlikely duo takes on a Chinese traitor and his corrupt boss.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Tom Dey",
+            "url": "/name/nm0223359/"
+        }
+    ],
+    "duration": "PT1H50M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI0MjE2MzUwOV5BMl5BanBnXkFtZTYwMTk5NjU3._V1_.jpg",
+    "keywords": "snow adventure,jedediah smith character,good versus evil,horseback riding,gang",
+    "name": "Shanghai Noon",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "CMUltra"
+        },
+        "dateCreated": "2003-07-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0184894/"
+        },
+        "name": "Successful and FUNNY melding of East and West",
+        "reviewBody": "Great fun!\n\nJackie Chan brings his brand of physical comedy to Hollywood with another buddy movie. Similar to his \"Rush Hour\" series with Chris Tucker, Chan sets this one in the American old west and chooses Owen Wilson as his partner.\n\nI like these better than the Rush Hours. Tucker and Owen are both excellent playing opposite Chan in both series, but the Shanghai series seems to offer Jackie better venues for his elaborate fight sequences. Saloons, brothels and even wilderness settings are used with great success.\n\nAnd make no mistake, the fight sequences are what make (or break) a Jackie Chan movie. \"Fight sequence\" of course means something different in a Chan movie as opposed to normal action fare. Rather than true violence, Jackie's fight scenes are more Vaudeville than \"Pulp Fiction\". More Chaplin than Jet Li. Each fight is painstakingly choreographed to interact with the set surrounding it. Tables, chairs, vases, antlers, shrubbery... the list goes on. \n\nA successful Jackie Chan movie seems to contain a comedy-oriented story, a lightly delivered moral message, and lots of action. Shanghai Noon certainly delivers here.\n\nI spent the entire movie either chuckling to myself or laughing out loud, and had a very satisfied smile when the credits rolled. Highly recommended.\n\n7 out of 10.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M26S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi12763417",
+        "name": "Shanghai Noon Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzQxODQ5N2YtOWEyNy00MWNlLTk4Y2ItMDA2ZTdjMzU2MWQ1XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzQxODQ5N2YtOWEyNy00MWNlLTk4Y2ItMDA2ZTdjMzU2MWQ1XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-11-13T01:04:55.099Z",
+        "url": "https://www.imdb.com/video/vi12763417/"
+    },
+    "url": "/title/tt0184894/"
+}

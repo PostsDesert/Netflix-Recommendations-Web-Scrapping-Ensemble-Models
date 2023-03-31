@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kevin Costner",
+            "url": "/name/nm0000126/"
+        },
+        {
+            "@type": "Person",
+            "name": "Judd Nelson",
+            "url": "/name/nm0000555/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sam Robards",
+            "url": "/name/nm0730168/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 8327,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0009119/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kevin Reynolds",
+            "url": "/name/nm0721817/"
+        }
+    ],
+    "datePublished": "1985-01-25",
+    "description": "Five college buddies from the University of Texas circa 1971 embark on a final road trip odyssey across the Mexican border before facing up to uncertain futures, in Vietnam and otherwise.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Kevin Reynolds",
+            "url": "/name/nm0721817/"
+        }
+    ],
+    "duration": "PT1H31M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYzUwY2Q1NGEtNmU2Zi00YzViLWI2ZGUtNGY1ZmY1OWJlNjAzL2ltYWdlXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_.jpg",
+    "keywords": "male nudity,road movie,based on short film,car,u.s. car",
+    "name": "Fandango",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "isabel-10"
+        },
+        "dateCreated": "1999-06-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0089126/"
+        },
+        "name": "Wonderful. Absolutely Wonderful.",
+        "reviewBody": "Love it - Even tho it's hard to say exactly WHY...\n\nIt might be the fantastic soundtrack, the great shots, the skydiving scene, the wedding scene that makes me cry, the use of 'Can't Find My Way Home\" by Blind Faith (one of my favorite songs) -- but this film is in my top 5 of all time.\n\nOccasionally you have to suspend your disbelief to the point of it being painful, but the honesty, the great acting, and the unpretentious feeling of the film and the actors completely draws me in every time.\n\nGo rent or buy it. Now. If you ever wanted to throw away all of the pressures and responsibilities of life, only to find yourself choosing to go back to them, you'll love this movie.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Five college buddies from the University of Texas circa 1971 embark on a final road trip odyssey across the Mexican border before facing up to uncertain futures, in Vietnam and otherwise.",
+        "duration": "PT1M41S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi345228057",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNWI1NjBhM2EtNGE0Yi00NDJjLWJiMWItNDk0Mjk4ZjI2YjAxXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNWI1NjBhM2EtNGE0Yi00NDJjLWJiMWItNDk0Mjk4ZjI2YjAxXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-10-04T23:13:57.881Z",
+        "url": "https://www.imdb.com/video/vi345228057/"
+    },
+    "url": "/title/tt0089126/"
+}

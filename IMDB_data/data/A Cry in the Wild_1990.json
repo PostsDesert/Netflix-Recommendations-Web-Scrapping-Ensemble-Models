@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jared Rushton",
+            "url": "/name/nm0750758/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ned Beatty",
+            "url": "/name/nm0000885/"
+        },
+        {
+            "@type": "Person",
+            "name": "Pamela Sue Martin",
+            "url": "/name/nm0552863/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1087,
+        "ratingValue": 5.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0001838/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0024502/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gary Paulsen",
+            "url": "/name/nm0667305/"
+        },
+        {
+            "@type": "Person",
+            "name": "Catherine Cyran",
+            "url": "/name/nm0194274/"
+        }
+    ],
+    "datePublished": "1990-06-01",
+    "description": "Adapted from Gary Paulsen's novel \"Hatchet\", a boy crash-lands in Canada's bear country and survives with a hatchet his divorced mother gave him.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mark Griffiths",
+            "url": "/name/nm0341716/"
+        }
+    ],
+    "duration": "PT1H22M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjExOTgwMDAwMV5BMl5BanBnXkFtZTYwMzY0MTI5._V1_.jpg",
+    "keywords": "survivalist,sole survivor,crash survivor,coming of age film,teenager",
+    "name": "A Cry in the Wild",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "greenmachine715"
+        },
+        "dateCreated": "2002-10-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0099327/"
+        },
+        "name": "awesome movie based on a great book!!!",
+        "reviewBody": "When I first heard this movie was being made, I knew I had to see it. I had read the book many many times. The only thing I was worried about was, along with any other movie, that it didn't follow the book. Well, we were in luck as the writer for the movie was none other than Gary Paulson, author of the book Hatchet, for which the movie was based. So by that I knew that the movie was going to go right along with the book, and I was right. The boy who played Brian did an awesome job, as he portrayed fear and loneliness well. It looked like he was actually experiencing the fear and terror of being alone in the Canadian woods. And covering himself with mud to stop the bugs from eating him alive was great to put in there. Thats real life put into a movie. Anybody that hasn't seen this movie should see it. It was wonderfully made and worldly liked.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A boy crash-lands in Canada bear country and survives with a hatchet his divorced mother gave him.",
+        "duration": "PT1M46S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1989460761",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNmNiNDRjYjItNTc4Ni00MGZhLWJiNzEtNGRhZDcxNDRiZTQ4XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNmNiNDRjYjItNTc4Ni00MGZhLWJiNzEtNGRhZDcxNDRiZTQ4XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-10-05T23:07:37.672Z",
+        "url": "https://www.imdb.com/video/vi1989460761/"
+    },
+    "url": "/title/tt0099327/"
+}

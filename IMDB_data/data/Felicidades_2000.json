@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Luis Machín",
+            "url": "/name/nm0532721/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gastón Pauls",
+            "url": "/name/nm0667282/"
+        },
+        {
+            "@type": "Person",
+            "name": "Silke",
+            "url": "/name/nm0395168/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 702,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0016768/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0264853/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lucho Bender",
+            "url": "/name/nm0070463/"
+        },
+        {
+            "@type": "Person",
+            "name": "Pablo Cedrón",
+            "url": "/name/nm0147834/"
+        },
+        {
+            "@type": "Person",
+            "name": "Pedro Loeb",
+            "url": "/name/nm0517221/"
+        }
+    ],
+    "datePublished": "2003-06-24",
+    "description": "Shows how several characters spend Christmas Eve in Buenos Aires, and how their lives intersect.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Lucho Bender",
+            "url": "/name/nm0070463/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU2MjEwOTI1OF5BMl5BanBnXkFtZTcwMzMzMjEzMQ@@._V1_.jpg",
+    "keywords": "solitude,christmas,holiday,independent film",
+    "name": "Felicidades",
+    "original_info": {
+        "id": "Felicidades_2000",
+        "name": "Felicidades",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "vitariz"
+        },
+        "dateCreated": "2004-01-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0267490/"
+        },
+        "name": "little movie about bizarre Xmas Eve in the middle of nowhere",
+        "reviewBody": "so many odd characters make it impossible not to recognize one at least. or even get identified with your own darkest moments, especially when nothing happens as it is supposed to. to enjoy this delightful movie, it is advised to open up one's mind and strive to see the bright side in this one too.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0267490/"
+}

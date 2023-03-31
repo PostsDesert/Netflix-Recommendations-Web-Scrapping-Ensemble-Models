@@ -1,0 +1,110 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dustin Hoffman",
+            "url": "/name/nm0000163/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tom Cruise",
+            "url": "/name/nm0000129/"
+        },
+        {
+            "@type": "Person",
+            "name": "Valeria Golino",
+            "url": "/name/nm0000420/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 523351,
+        "ratingValue": 8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0026841/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0108873/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0074647/"
+        },
+        {
+            "@type": "Person",
+            "name": "Barry Morrow",
+            "url": "/name/nm0607454/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ron Bass",
+            "url": "/name/nm0060103/"
+        }
+    ],
+    "datePublished": "1988-12-16",
+    "description": "After a selfish L.A. yuppie learns his estranged father left a fortune to an autistic-savant brother in Ohio that he didn't know existed, he absconds with his brother and sets out across the country, hoping to gain a larger inheri...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Barry Levinson",
+            "url": "/name/nm0001469/"
+        }
+    ],
+    "duration": "PT2H13M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzVjNzI4NzYtMjE4NS00M2IzLWFkOWMtOTYwMWUzN2ZlNGVjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "road movie,gambling,travel,autistic savant,portable television",
+    "name": "Rain Man",
+    "original_info": {
+        "id": "Rain Man_1988",
+        "name": "Rain Man",
+        "year": "1988"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "eagle_owl"
+        },
+        "dateCreated": "2005-02-22",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0095953/"
+        },
+        "name": "Shows the way forward for issue driven movies.",
+        "reviewBody": "Tom Cruise stars as a used car salesman, who is angry when his father's inheritance is left to his older autistic brother (Dustin Hoffman), whose existence had not been revealed to him.\n\nThe film is built around its two assured central performances. Hoffman gives an excellent portrayal of a man with autism, totally unable to comprehend the real world around him. Cruise is no less impressive. While he is essentially playing to type, his character's attitude changes so gradually throughout the film that you barely notice, and without Cruise's subtle performance this transformation would be much less credible.\n\nThis is a highly commendable film, which, despite tackling a tricky subject, refuses to succumb to sentimentality. In giving autism such publicity, the film has hopefully helped to lessen the stigma brought on by ignorance of this condition.\n\nRain Man's great success is that it shows the way forward for issue driven movies in Hollywood. Its success at the box office demonstrates that taking a risk can pay off in spades, provided that the film is good enough.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Rain Man",
+        "duration": "PT1M34S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1846975001",
+        "name": "Rain Man: Blu-Ray",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjc2ZTliZTYtOWI4NS00YmYzLWJhZGMtODg0NmUyZmFhMDZhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjc2ZTliZTYtOWI4NS00YmYzLWJhZGMtODg0NmUyZmFhMDZhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-01-27T06:24:58Z",
+        "url": "https://www.imdb.com/video/vi1846975001/"
+    },
+    "url": "/title/tt0095953/"
+}

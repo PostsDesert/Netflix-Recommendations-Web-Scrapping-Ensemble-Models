@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Julie Andrews",
+            "url": "/name/nm0000267/"
+        },
+        {
+            "@type": "Person",
+            "name": "Max von Sydow",
+            "url": "/name/nm0001884/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Harris",
+            "url": "/name/nm0001321/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3336,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002654/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0011112/"
+        },
+        {
+            "@type": "Person",
+            "name": "James A. Michener",
+            "url": "/name/nm0585151/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dalton Trumbo",
+            "url": "/name/nm0874308/"
+        },
+        {
+            "@type": "Person",
+            "name": "Daniel Taradash",
+            "url": "/name/nm0850168/"
+        }
+    ],
+    "datePublished": "1966-12-10",
+    "description": "An American missionary and his wife travel to the exotic island kingdom of Hawaii, intent on converting the natives. But the clash between the two cultures is too great and instead of understanding there comes tragedy.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "George Roy Hill",
+            "url": "/name/nm0001351/"
+        },
+        {
+            "@type": "Person",
+            "name": "Arthur Hiller",
+            "url": "/name/nm0002137/"
+        }
+    ],
+    "duration": "PT3H9M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQyMjc3Mzc5M15BMl5BanBnXkFtZTcwMTc5ODA0NA@@._V1_.jpg",
+    "keywords": "missionary,hawaii,19th century,religion,based on novel",
+    "name": "Hawaii",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "BobLib"
+        },
+        "dateCreated": "2004-07-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0060491/"
+        },
+        "name": "Beautiful with one fatal flaw",
+        "reviewBody": "James A. Michener's mammoth novel, \"Hawaii,\" is the subject of this suitably mammoth film, one with a lot to recommend it. Julie Andrews proves that she can handle a dramatic role as well or better than musical roles. Her Jerusha Bromley Hale captures our sympathy the minute she comes on screen and sustains it for the rest of the film. Likewise, Jocelyn LaGarde, a real-life Tahitian princess with no previous acting experience, gives an equally good performance as Alii Nui Ruth Malama Konakoa, for which she was justifiably nominated for an Oscar. There are also good supporting performances from Carroll O'Connor and Gene Hackman, both just a few years away from stardom when this picture was made. Russell Harlan's cameras capture the islands at their most beautiful, and Elmer Bernstein's haunting, evocative score is one of his best.\n\nThe one fatal flaw in all this is the actor playing the central male character, Reverend Abner Hale. While Max von Sydow was always good in the great Ingmar Bergman films (\"The Seventh Seal\"), in most of his English-language films, with the sole exception of \"The Exorcist,\" he always came off as something of a well-dressed stiff. It's an image he upholds here. Perhaps it's the fact that he's working in a language not his own, perhaps it's just the hopeless nature of the lines he's saddled with, but his is an Abner Hale who could transform the staunchest Christian into a Druid. He, quite simply, generates no sympathy. Plus, as many of the best clergymen seem to know, you can win more converts by stressing the kind, loving qualities of Jesus than by belching out fire and brimstone. It seems to me that, for Andrews's character, choosing between this mannered stiff and Richard Harris's vigorous sea captain shouldn't have been much of a choice at all.\n\nBut this shouldn't drive you away from \"Hawaii.\" For all the good points I mentioned, it's definitely worth seeing at least once."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from MGM",
+        "duration": "PT3M2S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3835823385",
+        "name": "Hawaii",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjlmZWE1NWYtMjdhZC00ZjAwLThlN2EtYjg4OTM5NTE4OGQzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjlmZWE1NWYtMjdhZC00ZjAwLThlN2EtYjg4OTM5NTE4OGQzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-10-30T04:20:42Z",
+        "url": "https://www.imdb.com/video/vi3835823385/"
+    },
+    "url": "/title/tt0060491/"
+}

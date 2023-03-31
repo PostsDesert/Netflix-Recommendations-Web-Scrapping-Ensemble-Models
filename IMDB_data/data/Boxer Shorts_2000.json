@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Alexis Arquette",
+            "url": "/name/nm0000793/"
+        },
+        {
+            "@type": "Person",
+            "name": "Fred Eithel",
+            "url": "/name/nm0252187/"
+        },
+        {
+            "@type": "Person",
+            "name": "Judy Greer",
+            "url": "/name/nm0339460/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 78,
+        "ratingValue": 5,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0101189/"
+        },
+        {
+            "@type": "Person",
+            "name": "Spencer Beglarian",
+            "url": "/name/nm0066762/"
+        },
+        {
+            "@type": "Person",
+            "name": "David C. Hayes",
+            "url": "/name/nm0370977/"
+        }
+    ],
+    "datePublished": "2002-11-26",
+    "description": "Compilation of 5 short gay films previously seen at Gay Film Festivals around the world and 1 bonus clip. 1)Tom Clay Jesus shows a one night stand between Tom and Clay which goes nowhere until Jesus enters the picture... 2)Boychic...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Hoang A. Duong",
+            "url": "/name/nm0387464/"
+        },
+        {
+            "@type": "Person",
+            "name": "Glenn Gaylord",
+            "url": "/name/nm0310935/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christopher Gotschall",
+            "url": "/name/nm1087791/"
+        }
+    ],
+    "duration": "PT1H36M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTExZDZmMmQtMzVlOC00OTQyLTk4YjctOWMzNWI5MDQ0ZThiXkEyXkFqcGdeQXVyMDYxMTUwNg@@._V1_.jpg",
+    "keywords": "gay interest",
+    "name": "Boxer Shorts",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "succotash"
+        },
+        "dateCreated": "2003-12-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0367560/"
+        },
+        "name": "HO HUM",
+        "reviewBody": "Painfully dull. The fact that these films won any awards at all does not speak well for their competition. The final short film of the collection (entitled Caught) has some promise, but only by the skin of its teeth. The other four short films are not worth seeing, unless you specifically want to be annoyed...",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 3,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0367560/"
+}

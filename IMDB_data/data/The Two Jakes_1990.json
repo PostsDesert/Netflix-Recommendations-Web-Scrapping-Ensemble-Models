@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jack Nicholson",
+            "url": "/name/nm0000197/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harvey Keitel",
+            "url": "/name/nm0000172/"
+        },
+        {
+            "@type": "Person",
+            "name": "Meg Tilly",
+            "url": "/name/nm0000672/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 14648,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0137960/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Towne",
+            "url": "/name/nm0001801/"
+        }
+    ],
+    "datePublished": "1990-08-10",
+    "description": "The sequel to Chinatown (1974) finds J.J. \"Jake\" Gittes investigating adultery and murder, and the money that comes from oil.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jack Nicholson",
+            "url": "/name/nm0000197/"
+        }
+    ],
+    "duration": "PT2H17M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ5NjJjNDMtOTg2Zi00Y2Q3LWJhNDMtZTRkODdiYmNhZmJiXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_.jpg",
+    "keywords": "year 1948,1940s,marital infidelity,dysfunctional marriage,unfaithfulness",
+    "name": "The Two Jakes",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "gottogorunning"
+        },
+        "dateCreated": "2005-08-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0100828/"
+        },
+        "name": "It's not the classic Chinatown is, but it's a very good movie.",
+        "reviewBody": "Most reviews pull The Two Jakes to pieces, except for a very well-considered one by Roger Ebert (find it at the Chicago Sun-Times).\n\nOf course, it's not the classic Chinatown is, but it's a damned good movie. It's about the past, how it pervades our lives for the rest of our days, and how we assimilate it into our futures.\n\nMany have complained that the film is convoluted, that when the key revelation comes (I ain't givin' that away) you miss the impact of it. I strongly disagree with this. I for one had actually figured out the revelation before it happened - this didn't bother me because I wanted so much for it to be what I had thought it was going to be. And when it comes, it's so subtle you could almost be forgiven for missing it. It's lovely, so comforting in a very ironic way.\n\nAll I'll say is, pay attention to the scene where Jake (Nicholson) goes to see Kahn (the unmistakable James Hong). Something about the flowers...\n\nAnyway, I'm drifting. The Two Jakes is subtle, well-crafted, and when all is revealed, so very simple. The 'convoluted' events in the plot serve to illustrate what a single, simple desire can cause.\n\nJust watch it. Bear in mind the events and characters from Chinatown, but only so that you have a back story for these characters and not a standard to which they should be compared.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M59S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2976825625",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYTRhMjM5Y2UtZGM4Yy00MWY4LTg1MTktMmY3ODgxNmFhOTM2XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTRhMjM5Y2UtZGM4Yy00MWY4LTg1MTktMmY3ODgxNmFhOTM2XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-02-01T10:44:05.876Z",
+        "url": "https://www.imdb.com/video/vi2976825625/"
+    },
+    "url": "/title/tt0100828/"
+}

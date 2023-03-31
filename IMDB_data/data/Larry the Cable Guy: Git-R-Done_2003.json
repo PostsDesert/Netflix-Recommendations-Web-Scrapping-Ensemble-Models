@@ -1,0 +1,83 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Larry the Cable Guy",
+            "url": "/name/nm1249256/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 716,
+        "ratingValue": 5.4,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0085172/"
+        },
+        {
+            "@type": "Person",
+            "name": "Larry the Cable Guy",
+            "url": "/name/nm1249256/"
+        }
+    ],
+    "datePublished": "2004-05-23",
+    "description": "Larry the Cable Guy from the Blue Collar Comedy tour stars in his first solo stand-up special",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Drumm",
+            "url": "/name/nm1259307/"
+        }
+    ],
+    "duration": "PT1H6M",
+    "genre": [
+        "Documentary",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk1NjE0ODIwN15BMl5BanBnXkFtZTcwMjA4NzUyMQ@@._V1_.jpg",
+    "keywords": "tv special,stand up comedy,redneck,character name in title",
+    "name": "Larry the Cable Guy: Git-R-Done",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "funswngcpl-1"
+        },
+        "dateCreated": "2006-05-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0497633/"
+        },
+        "name": "The only thing wrong with this DVD is that you aren't there in person",
+        "reviewBody": "I have been a Larry the Cable Guy fan for years so this was long over due. Sit back and laugh, it is that simple. He hits the country way of life and everyone can relate to it.\n\nMy dad used to play records (these are plastic things you put on on record player) of Jerry Clower and laugh for hours at the stories he would tell of his family and their antics. Larry the Cable Guy is my generation's Jerry Clower. Don't over analysis his comedy, just sit back and laugh. No hidden jokes or political statements like so many comics are trying to make, just good ole fashion \"I want to hear you laugh comedy\".\n\nIf you don't get it, then, chill out have a beer and listen to it all over again. My dad laughed his ass off listening to this DVD the first time and was so excited that a \"new\" Jerry Clower type humor could make it in this world with out the F-bombs every other word.\n\nLarry's insight into the world is nothing less than a very deep perspective of how we should view this world and that is with just a little humor and a lot of common sense.\n\nAnd NO this isn't politically correct, but then again the world isn't either.\n\nGit R done and check it out.\n\nJC",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Larry The Cable Guy: Git-R-Done",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1955922201",
+        "name": "Larry The Cable Guy: Git-R-Done",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZWU3Mjc1ZmItOTBkYS00YWJiLTg4NTUtNTJmMTRmZTljZWIxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZWU3Mjc1ZmItOTBkYS00YWJiLTg4NTUtNTJmMTRmZTljZWIxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:57:50Z",
+        "url": "https://www.imdb.com/video/vi1955922201/"
+    },
+    "url": "/title/tt0497633/"
+}

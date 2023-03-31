@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Steve Martin",
+            "url": "/name/nm0000188/"
+        },
+        {
+            "@type": "Person",
+            "name": "Madeline Kahn",
+            "url": "/name/nm0001404/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Klein",
+            "url": "/name/nm0458951/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 12555,
+        "ratingValue": 5.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005883/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nora Ephron",
+            "url": "/name/nm0001188/"
+        },
+        {
+            "@type": "Person",
+            "name": "Delia Ephron",
+            "url": "/name/nm0258286/"
+        }
+    ],
+    "datePublished": "1994-12-21",
+    "description": "The events focus around a crisis hotline business on one crazy night during the Christmas holidays.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Nora Ephron",
+            "url": "/name/nm0001188/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BM2Y3OTk4ZmMtYWMwNC00OTQ3LTg4OWEtNDNiNTVlODc0ZDc2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "farce,christmas,veterinarian,christmas eve,remake of french film",
+    "name": "Mixed Nuts",
+    "original_info": {
+        "id": "Mixed Nuts_1994",
+        "name": "Mixed Nuts",
+        "year": "1994"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Iris_Myandowski"
+        },
+        "dateCreated": "2002-03-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0110538/"
+        },
+        "name": "Hilarious! Watched it 10 times over!",
+        "reviewBody": "This is an underrated classic film that utilizes the comic skills of several great actors. I watched it twice through the first day I rented it, just to hear the great one-liners and see the crazy antics of a bunch of neurotic phone counsellors. Praise must go to Madeline Kahn (late), who performs hilariously, especially in the elevator scene, and later gives us a sample of her beautiful operatic voice. Rita Wilson's character is cheerily naive, Juliette Lewis is wacky and fun, and Liev Schriber is scene-stealing as the cross-dresser...the dance scene with him and Steve Martin is one of the highpoints of the film, especially with Liev spinning solo around the room. And Adam Sandler is wonderful as the musical neighbour- his singing 'hello' had me laughing for the rest of the movie. This is ONE wacky film, but unlike recent productions, which seem to scream 'look at me! I'm a wacky film! I've got weird characters and an oddball script!', Mixed Nuts doesn't have to. It just is. And that's good enough reason to watch it."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Sony Pictures Home Entertainment",
+        "duration": "PT2M30S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi144113945",
+        "name": "Mixed Nuts",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNmMyNGVjMmQtYTRkMS00YTExLThlMTktZjQ3OWRmMzMyZjc1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNmMyNGVjMmQtYTRkMS00YTExLThlMTktZjQ3OWRmMzMyZjc1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:04:02Z",
+        "url": "https://www.imdb.com/video/vi144113945/"
+    },
+    "url": "/title/tt0110538/"
+}

@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bubba Smith",
+            "url": "/name/nm0807571/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Graf",
+            "url": "/name/nm0333701/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Winslow",
+            "url": "/name/nm0935498/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 36944,
+        "ratingValue": 4.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Person",
+            "name": "Neal Israel",
+            "url": "/name/nm0411477/"
+        },
+        {
+            "@type": "Person",
+            "name": "Pat Proft",
+            "url": "/name/nm0698493/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen Curwick",
+            "url": "/name/nm0193615/"
+        }
+    ],
+    "datePublished": "1988-03-18",
+    "description": "The Police Academy's commandant will be honored at a police convention in Miami Beach. At the airport he picks a wrong bag with stolen diamonds. The \"owners\" want them back.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Alan Myerson",
+            "url": "/name/nm0002887/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNmJjN2Y2NDgtMDE5Mi00ZWUwLTkyMmQtZTgzZTdiMTM4OGUwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "slapstick comedy,voyeur,commercial air travel,police helicopter,police academy",
+    "name": "Police Academy 5: Assignment: Miami Beach",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Sandcooler"
+        },
+        "dateCreated": "2013-05-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0095882/"
+        },
+        "name": "Not the worst of the bunch",
+        "reviewBody": "\"Assignment: Miami Beach\" is the first one in the franchise that doesn't have Steve Guttenberg, and I've got mixed feelings about that. In one way it's sort of a blessing, because we can finally spend some quality time with Lassard in this one. George Gaynes has always been the best actor of any installment's cast, so it's nice to see a sequel where everything revolves around him. Granted, all he really gets to do is have people fall over a bunch of times, but somehow he still makes it work. On the other hand, the movie clearly misses a decent \"straight man\" to counterbalance all the oddballs. I guess that was new guy Matt McCoy's task, but given that the guy has no screen presence whatsoever and barely made the final cut it doesn't quite work. Overall though, I didn't hate this. I mean, they do the same seven or eight bits they do in all the other ones, but here they do them on a different location! Michael Winslow does his Bruce Lee schtick for the fifth time in five movies, but now on a different location! I was sorta surprised Miami didn't have a Blue Oyster Bar, to be honest. \"Police Academy 5\" is not the greatest movie you'll ever see, but it'll give you about what you would expect.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT1M25S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi866321177",
+        "name": "Police Academy 5: Assignment Miami Beach",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTE3MGQyMjAtNmU2Ny00NjU0LTg1MWYtYjE4Nzc0NjZiZDdkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTE3MGQyMjAtNmU2Ny00NjU0LTg1MWYtYjE4Nzc0NjZiZDdkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-11-27T06:43:47Z",
+        "url": "https://www.imdb.com/video/vi866321177/"
+    },
+    "url": "/title/tt0095882/"
+}

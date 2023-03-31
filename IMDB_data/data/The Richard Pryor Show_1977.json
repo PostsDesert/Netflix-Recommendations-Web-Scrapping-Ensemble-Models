@@ -1,0 +1,64 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Richard Pryor",
+            "url": "/name/nm0001640/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robin Williams",
+            "url": "/name/nm0000245/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edie McClurg",
+            "url": "/name/nm0566052/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 433,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0063687/"
+        }
+    ],
+    "datePublished": "1977-09-13",
+    "description": "An American comedy series hosted by comedian Richard Pryor",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTIwOTk2ODIxNl5BMl5BanBnXkFtZTcwMTkwMjUyMQ@@._V1_.jpg",
+    "keywords": "actor name in series title,actor plays himself,actor plays multiple roles,actress plays multiple roles,four word title",
+    "name": "The Richard Pryor Show",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bronzesrv"
+        },
+        "dateCreated": "2020-11-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0075567/"
+        },
+        "name": "Shocked, It Was Just Four Episodes!",
+        "reviewBody": "Oh my goodness! I cannot believe this was just four episodes. But I sure can understand why. Richard Pryor Touched on topics that was taboo back then, but pretty commonplace today. The four episodes were excellent, a little over-the-top, but again excellent, yet, way ahead of our time. I enjoyed those four episodes I wish he could have made many more.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0075567/"
+}

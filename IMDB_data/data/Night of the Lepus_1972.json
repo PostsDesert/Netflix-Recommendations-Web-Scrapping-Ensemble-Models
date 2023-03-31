@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Stuart Whitman",
+            "url": "/name/nm0926183/"
+        },
+        {
+            "@type": "Person",
+            "name": "Janet Leigh",
+            "url": "/name/nm0001463/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rory Calhoun",
+            "url": "/name/nm0001983/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5123,
+        "ratingValue": 4.1,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0074718/"
+        },
+        {
+            "@type": "Person",
+            "name": "Don Holliday",
+            "url": "/name/nm0391047/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gene R. Kearney",
+            "url": "/name/nm0443934/"
+        },
+        {
+            "@type": "Person",
+            "name": "Russell Braddon",
+            "url": "/name/nm0102936/"
+        }
+    ],
+    "datePublished": "1972-10-04",
+    "description": "Giant mutant rabbits terrorize the south-west.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "William F. Claxton",
+            "url": "/name/nm0165493/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODY1Yjc0M2EtMGVhNi00ZDkzLTkzMTgtYmU4MzJmNWU5MjcxXkEyXkFqcGdeQXVyNDUxMzI1NTA@._V1_.jpg",
+    "keywords": "giant rabbit,mutation,rampage,killer rabbit,giant animal",
+    "name": "Night of the Lepus",
+    "original_info": {
+        "id": "Night of the Lepus_1972",
+        "name": "Night of the Lepus",
+        "year": "1972"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Nightman85"
+        },
+        "dateCreated": "2005-10-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0069005/"
+        },
+        "name": "The glory of B-movies, where else would you see this!",
+        "reviewBody": "Campy, hokey, and oh so hilarious B movie is an unforgettable tale of nature on the rampage.\n\nIn rural New Mexico folks trying to eliminate the rabbit population create a race of huge, killer rabbits that terrorize mankind!\n\nNight of the Lepus is one of those golden B flicks that must be seen to be believe. It's wonderfully tongue-in-cheek in its premise, and builds up some good moments of spookiness despite of its silliness. For a film of its budget, this movie manages to have some pretty decent special FX, it certainly beats the likes of Food of the Gods (1976) or Empire of the Ants (1977).\n\nThe veteran cast is OK in their performances. The late-great Janet Leigh, Rory Calhoun, and Stuard Whitman are the best of the cast. The music score is bland, but in a nicely moody way.\n\nNight of the Lepus is a classic film not to be missed by fans of the B horror genre.\n\n** 1/2 out of ****",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT1M43S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1795800857",
+        "name": "Night of the Lepus",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOGQxMGI0YmItY2RmMC00ZjEzLTg3OTEtMzk1ZjAxNWMyMWQ3XkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGQxMGI0YmItY2RmMC00ZjEzLTg3OTEtMzk1ZjAxNWMyMWQ3XkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2019-12-31T17:04:12.376Z",
+        "url": "https://www.imdb.com/video/vi1795800857/"
+    },
+    "url": "/title/tt0069005/"
+}

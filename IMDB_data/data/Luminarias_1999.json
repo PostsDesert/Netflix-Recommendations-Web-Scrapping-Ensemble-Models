@@ -1,0 +1,83 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Evelina Fernández",
+            "url": "/name/nm0273490/"
+        },
+        {
+            "@type": "Person",
+            "name": "Scott Bakula",
+            "url": "/name/nm0000836/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cheech Marin",
+            "url": "/name/nm0001507/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 628,
+        "ratingValue": 5.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0021603/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0093790/"
+        },
+        {
+            "@type": "Person",
+            "name": "Evelina Fernández",
+            "url": "/name/nm0273490/"
+        }
+    ],
+    "datePublished": "2000-05-05",
+    "description": "Four professional women meet at an East Los Angeles restaurant called Luminarias to share secrets about their careers, love, family, and sex.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "José Luis Valenzuela",
+            "url": "/name/nm0884452/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAwOTEzOTI4N15BMl5BanBnXkFtZTcwNjY1OTkyMQ@@._V1_.jpg",
+    "keywords": "jewish,friend,lent,divorce,restaurant",
+    "name": "Luminarias",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "babcl"
+        },
+        "dateCreated": "2005-06-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0160498/"
+        },
+        "name": "Actually, there was a lot of realism in this movie",
+        "reviewBody": "It was funny and I enjoyed it. I have sat at tables with a group of Latinas and heard similar comments. This movie was about a group of friends whose commonality was their ethnicity. The ladies were letting loose and having fun. And as an audience participant, I was having fun watching them. \n\nI had to disagree with the other reviewer. Just because a woman is a \"professional\" doesn't mean that she has to use the lingo of her trade all the time. And have heard \"professionals\" who, away from the job, revert back to their comfort speech. That is what these ladies were doing.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0160498/"
+}

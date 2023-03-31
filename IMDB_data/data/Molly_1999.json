@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Elisabeth Shue",
+            "url": "/name/nm0000223/"
+        },
+        {
+            "@type": "Person",
+            "name": "Aaron Eckhart",
+            "url": "/name/nm0001173/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jill Hennessy",
+            "url": "/name/nm0005007/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3035,
+        "ratingValue": 5.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0112877/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0016548/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0065205/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Christie",
+            "url": "/name/nm0160305/"
+        }
+    ],
+    "datePublished": "1999-10-29",
+    "description": "A bachelor becomes the unwilling guardian of his autistic, intellectually disabled sister; then an experimental treatment works a dramatic change in her brain and his attitude.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Duigan",
+            "url": "/name/nm0241090/"
+        }
+    ],
+    "duration": "PT1H42M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY0MTUxMjUwNl5BMl5BanBnXkFtZTcwNDczNzA2NA@@._V1_.jpg",
+    "keywords": "baseball game,public nudity,advertising executive,autism,experimental surgery",
+    "name": "Molly",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jwoof-780-670588"
+        },
+        "dateCreated": "2021-01-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0143746/"
+        },
+        "name": "Tough to watch!",
+        "reviewBody": "I couldn't make it through 20 minutes! I put it on because I love Elisabeth Shue but this was just bad! I felt like it was a awful remake of Rain Man and I just wasn't feeling the acting of someone with disability's.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 3,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A bachelor becomes the unwilling guardian of his autistic, intellectually disabled sister; then an experimental treatment works a dramatic change in her brain and his attitude.",
+        "duration": "PT2M17S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi437306137",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTg2YWRkMzQtYTQzZS00NTIyLWIxMGItY2JkMGZmMzIwYjZmXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTg2YWRkMzQtYTQzZS00NTIyLWIxMGItY2JkMGZmMzIwYjZmXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2022-01-20T00:39:51.158Z",
+        "url": "https://www.imdb.com/video/vi437306137/"
+    },
+    "url": "/title/tt0143746/"
+}

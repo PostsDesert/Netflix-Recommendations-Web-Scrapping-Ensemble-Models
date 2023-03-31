@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dan Castellaneta",
+            "url": "/name/nm0144657/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nancy Cartwright",
+            "url": "/name/nm0004813/"
+        },
+        {
+            "@type": "Person",
+            "name": "Yeardley Smith",
+            "url": "/name/nm0810379/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3931,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "TV-PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0161074/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0035761/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0377521/"
+        },
+        {
+            "@type": "Person",
+            "name": "Elisabeth Kiernan Averick",
+            "url": "/name/nm2463299/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jessica Conrad",
+            "url": "/name/nm3165087/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Frink",
+            "url": "/name/nm0295791/"
+        }
+    ],
+    "datePublished": "2021-07-07",
+    "description": "Loki joins forces with Bart Simpson to fight against his toughest opponents in Springfield after he is banished from Asgard yet again.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David Silverman",
+            "url": "/name/nm0798899/"
+        }
+    ],
+    "duration": "PT4M",
+    "genre": [
+        "Animation",
+        "Short",
+        "Action"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTI1NTM0NmYtNzZmMy00ZWJkLTliNDUtZmExMjRlY2ViNmM3XkEyXkFqcGdeQXVyMjMxOTcxOTI@._V1_.jpg",
+    "keywords": "spoof,parody,the simpsons,post credits scene,bart simpson character",
+    "name": "The Good, the Bart, and the Loki",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "IndecentLouie"
+        },
+        "dateCreated": "2021-07-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt14957270/"
+        },
+        "name": "Remember when Simpsons wasn't terrible",
+        "reviewBody": "I remember when Simpsons wasn't terrible, I just want Disney to crash and burn and surely this comment will do just that.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 3,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt14957270/"
+}

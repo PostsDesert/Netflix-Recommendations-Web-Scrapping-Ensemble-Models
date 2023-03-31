@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sophia Loren",
+            "url": "/name/nm0000047/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mira Sorvino",
+            "url": "/name/nm0000227/"
+        },
+        {
+            "@type": "Person",
+            "name": "Deborah Kara Unger",
+            "url": "/name/nm0000679/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1084,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0015516/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0099662/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0022883/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edoardo Ponti",
+            "url": "/name/nm0690642/"
+        }
+    ],
+    "datePublished": "2002-09-13",
+    "description": "Three women confront their pasts which changes their futures.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Edoardo Ponti",
+            "url": "/name/nm0690642/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA0NDgxOTMzN15BMl5BanBnXkFtZTcwODUzNzQyMQ@@._V1_.jpg",
+    "keywords": "reference to angola,man beaten,charcoal drawing,year 2001,photojournalist",
+    "name": "Between Strangers",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "soguns"
+        },
+        "dateCreated": "2002-11-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0289668/"
+        },
+        "name": "Breathtaking",
+        "reviewBody": "It is rare coming from such a young filmmaker to see a film with this maturity and understanding for women. I recommend it to anyone who wishes not only to be moved but also inspired by the story's message: the courage to be yourself no matter what. This film will stay in me for a long long time.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from First Look Home Entertainment",
+        "duration": "PT1M52S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi96076057",
+        "name": "Between Strangers",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNmE4MzI4ZGEtYjQ5Ni00Mjk2LTg1YzUtNzg4NzljY2I1ZmI3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNmE4MzI4ZGEtYjQ5Ni00Mjk2LTg1YzUtNzg4NzljY2I1ZmI3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:32:18Z",
+        "url": "https://www.imdb.com/video/vi96076057/"
+    },
+    "url": "/title/tt0289668/"
+}

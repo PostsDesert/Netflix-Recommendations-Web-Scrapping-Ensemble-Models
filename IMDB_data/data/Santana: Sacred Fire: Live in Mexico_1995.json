@@ -1,0 +1,55 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Carlos Santana",
+            "url": "/name/nm0005396/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 61,
+        "ratingValue": 8.3,
+        "worstRating": 1
+    },
+    "datePublished": "1995-03-12",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Peter Nydrle",
+            "url": "/name/nm1283965/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTczMjk3NzU2MF5BMl5BanBnXkFtZTcwMTUwNzMyMQ@@._V1_.jpg",
+    "keywords": "tv special,concert film",
+    "name": "Santana: Sacred Fire - Live in Mexico",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "wds21921"
+        },
+        "dateCreated": "2007-01-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0323888/"
+        },
+        "name": "Brilliant Performance by one of the great innovators of our day",
+        "reviewBody": "A truly brilliant performance by Carlos and his band which show his guitar genius. While some criticize his collaborations with various other artists, it shows his versatility to mix with any and all types of music and his love of the music. The sound and video quality on this DVD is much better than most you see on the market today. Colorful as you would expect and versatile. This is another \"must have\" in any music collectors library. Great performances include \"Oyo Como Va\", \"Open Invitation\", \"Soul Sacrifice\" and of course \"Europa\". The DVD builds into a powerful crescendo which has made Carlos's Live Performances more than just memorable.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0323888/"
+}

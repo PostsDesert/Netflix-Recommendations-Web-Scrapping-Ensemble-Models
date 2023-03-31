@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Audie Murphy",
+            "url": "/name/nm0001559/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Redgrave",
+            "url": "/name/nm0714878/"
+        },
+        {
+            "@type": "Person",
+            "name": "Claude Dauphin",
+            "url": "/name/nm0202405/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1984,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "TV-PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0044832/"
+        },
+        {
+            "@type": "Person",
+            "name": "Graham Greene",
+            "url": "/name/nm0001294/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joseph L. Mankiewicz",
+            "url": "/name/nm0000581/"
+        }
+    ],
+    "datePublished": "1958-02-08",
+    "description": "A young naive American and a cynical older British diplomat disagree over politics in 1952 Vietnam and over a beautiful young native girl.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Joseph L. Mankiewicz",
+            "url": "/name/nm0000581/"
+        }
+    ],
+    "duration": "PT2H",
+    "genre": [
+        "Drama",
+        "Romance",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMGY3MTMwZTEtOGZjNy00ZGRlLWJiYzAtMmY2YzQ3NjczNWNhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTM3NzQ5NzQ@._V1_.jpg",
+    "keywords": "1950s,written by director,communism,religious leader,southeast asia",
+    "name": "The Quiet American",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "barnabyrudge"
+        },
+        "dateCreated": "2003-11-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0052106/"
+        },
+        "name": "The novel is sometimes hailed as Graham Greene's best, and this film version is suitably impressive too.",
+        "reviewBody": "The Quiet American has a lot to live up to, because it is adapted from possibly the best book that Graham Greene ever wrote. However, it is a very well made and literate film which manages to make a reasonable stab at living up to the forbidding reputation of its source material.\n\n Audie Murphy gives a career-best performance as the title character, an American living in Vietnam during the French incursion into the country. He believes that he can make a difference by providing funding for arms, but his political and economic beliefs often lead to death and destruction. A British journalist named Fowler (Michael Redgrave) befriends him, but soon their friendship is damaged when the young American has an affair with Fowler's Vietnamese mistress. In the end, Fowler ponders whether to betray the American to his enemies as an act of revenge for what the American has done to his love-life.\n\n The film is powerful, absorbing and well-acted. It perhaps could be criticised for the extraordinarily high amount of dialogue (it's one of those films where if you stop listening for 30 seconds, you'll lose the plot) but that is probably the only true weakness. The themes of betrayal, colonialism, and the wisdom of interfering in the affairs of other nations, are handled thought-provokingly, and the moral dilemma facing the characters at the end are emotionally shattering. Redgrave gives a great performance, conveying the pain of his dilemma with aching conviction.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A young naive American and a cynical older British diplomat disagree over politics in 1952 Vietnam and over a beautiful young native girl.",
+        "duration": "PT2M16S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi874824473",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNWY0NWMyZTYtOThlMC00NzM1LWJlZjEtNjJkMWViMzAzMGY4XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNWY0NWMyZTYtOThlMC00NzM1LWJlZjEtNjJkMWViMzAzMGY4XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2022-01-12T17:54:22.782Z",
+        "url": "https://www.imdb.com/video/vi874824473/"
+    },
+    "url": "/title/tt0052106/"
+}

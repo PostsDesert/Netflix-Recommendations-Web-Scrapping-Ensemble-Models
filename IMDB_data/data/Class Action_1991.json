@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Gene Hackman",
+            "url": "/name/nm0000432/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mary Elizabeth Mastrantonio",
+            "url": "/name/nm0001512/"
+        },
+        {
+            "@type": "Person",
+            "name": "Colin Friels",
+            "url": "/name/nm0295506/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7890,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0031772/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carolyn Shelby",
+            "url": "/name/nm0790960/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christopher Ames",
+            "url": "/name/nm0024686/"
+        },
+        {
+            "@type": "Person",
+            "name": "Samantha Shad",
+            "url": "/name/nm0787154/"
+        }
+    ],
+    "datePublished": "1991-03-15",
+    "description": "An attorney representing a traumatized accident victim finds that his opponent is a very familiar defense attorney - his own daughter.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Apted",
+            "url": "/name/nm0000776/"
+        }
+    ],
+    "duration": "PT1H50M",
+    "genre": [
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNWY5Mjk4ZmItMTAzYS00NWE3LWEzYzYtNDgzY2MwMzA3MDIzXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "judicial system,foxvideo,man uses a wheelchair,legal thriller,attorney",
+    "name": "Class Action",
+    "original_info": {
+        "id": "Class Action_1991",
+        "name": "Class Action",
+        "year": "1991"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "markstone001"
+        },
+        "dateCreated": "2006-04-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0101590/"
+        },
+        "name": "Fantastic",
+        "reviewBody": "As a solicitor I normally like lawyer movies, but as a new father I loved this movie.\n\nMost lawyer movies just have hypothetical issues which just raise my interest or remind me of my past.\n\nThis one awakened my imagination to the future.\n\nMy daughter is less than 12 months old and Hackman's character hit the exact note of feeling and pleasure, I feel when holding my daughter in my arms and watching her grow.\n\nI can say that the scene at the end moved me to tears as I think about holding my daughter in my arms.\n\nHackman is by far on of the greatest actors I have ever seen. The others I can say did a fantastic job as well. You hate the villains and love the heroes.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "An attorney representing a traumatized accident victim finds that his opponent is a very familiar defense attorney - his own daughter.",
+        "duration": "PT2M3S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3877880601",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTUwZThiYjQtYzliNS00MzI0LWI0YWItMTBjZWRkMDFjYTI1XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTUwZThiYjQtYzliNS00MzI0LWI0YWItMTBjZWRkMDFjYTI1XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2022-01-12T17:03:07.111Z",
+        "url": "https://www.imdb.com/video/vi3877880601/"
+    },
+    "url": "/title/tt0101590/"
+}

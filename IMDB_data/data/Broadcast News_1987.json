@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "William Hurt",
+            "url": "/name/nm0000458/"
+        },
+        {
+            "@type": "Person",
+            "name": "Albert Brooks",
+            "url": "/name/nm0000983/"
+        },
+        {
+            "@type": "Person",
+            "name": "Holly Hunter",
+            "url": "/name/nm0000456/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 32340,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0022392/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0065783/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0035761/"
+        },
+        {
+            "@type": "Person",
+            "name": "James L. Brooks",
+            "url": "/name/nm0000985/"
+        }
+    ],
+    "datePublished": "1987-12-25",
+    "description": "Take two rival television reporters: one handsome, one talented, both male. Add one producer, female. Mix well, and watch the sparks fly.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "James L. Brooks",
+            "url": "/name/nm0000985/"
+        }
+    ],
+    "duration": "PT2H13M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BN2E1ZmU5NDQtNjdlZC00Y2VhLTk2MWMtMmU0M2YyY2E3MTkyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_.jpg",
+    "keywords": "1980s,television producer,rivalry,fictional tv show,fictional news show",
+    "name": "Broadcast News",
+    "original_info": {
+        "id": "Broadcast News_1987",
+        "name": "Broadcast News",
+        "year": "1987"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "tfrizzell"
+        },
+        "dateCreated": "2000-09-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0092699/"
+        },
+        "name": "Another Winner From James L. Brooks",
+        "reviewBody": "\"Broadcast News\" deals with news journalists who are all trying to keep their sanity in an insane business. William Hurt (Oscar-nominated) is the man who will do anything to become the head news anchor with his television network. He knows that the top anchor (Jack Nicholson) will be retiring soon and he must have that seat in front of the camera. Holly Hunter (also Oscar-nominated) is the smart producer who realizes that not everything in the news business is just black and white. Albert Brooks (Oscar-nominated as well) is the reporter who does not take anything too seriously. He is a great newsman, but does not have the drive or charisma to make a splash like Hurt does. This is definitely a black-comedy because the comedy comes to a screeching halt throughout the film to make way for heartrending drama that is both realistic and sometimes difficult to take. Brooks' screenplay is smart for the most part, but the film is flawed in several areas. Sometimes the direction is not clear. I think that Brooks was going for something like \"Network\". He comes close, but this film is in a lower class than that movie. The performances are top-notch. However, Jack Nicholson's token appearance is somewhat wasted here. He shows up for one or two minutes at a time and his character is never explored. More Jack Nicholson would have provided more insight into Hurt's character and his motives. Though flawed, \"Broadcast News\" is still a very good film that is a winner for the most part. 4 stars out of 5."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from 20th Century Fox Home Entertainment",
+        "duration": "PT2M6S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1052508441",
+        "name": "Broadcast News",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzc1M2JkYjctOTdmNC00MDU1LWIwY2UtMzE3MGQ3Y2Y5MzVlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzc1M2JkYjctOTdmNC00MDU1LWIwY2UtMzE3MGQ3Y2Y5MzVlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:52:18Z",
+        "url": "https://www.imdb.com/video/vi1052508441/"
+    },
+    "url": "/title/tt0092699/"
+}

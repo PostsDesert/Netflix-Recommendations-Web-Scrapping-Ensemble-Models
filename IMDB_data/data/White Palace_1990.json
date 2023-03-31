@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Susan Sarandon",
+            "url": "/name/nm0000215/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Spader",
+            "url": "/name/nm0000652/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jason Alexander",
+            "url": "/name/nm0004517/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 8530,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0038270/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0043539/"
+        },
+        {
+            "@type": "Person",
+            "name": "Glenn Savan",
+            "url": "/name/nm0767430/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ted Tally",
+            "url": "/name/nm0848217/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alvin Sargent",
+            "url": "/name/nm0765091/"
+        }
+    ],
+    "datePublished": "1990-10-26",
+    "description": "Lust turns to love for a 40-ish working-class woman and a 20-ish yuppie adman with little in common.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Luis Mandoki",
+            "url": "/name/nm0001502/"
+        }
+    ],
+    "duration": "PT1H43M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BN2QzNmQ0MzUtNGY5NS00ODVhLWFhMTgtYjM4MmVmNGFlNjFhXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",
+    "keywords": "older woman younger man relationship,love,class differences,age difference,woman over 40",
+    "name": "White Palace",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jertob"
+        },
+        "dateCreated": "2000-12-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0103251/"
+        },
+        "name": "Sarandon, as usual never disappoints",
+        "reviewBody": "Truth to tell I only watched this movie recently because I consider Susan Sarandon one of our finest actors. Also, I'm going add, one of our sexiest actors too. Ms. Sarandon gets the most from this role by underplaying the part with most of her interpretation deriving from her facial expressions. And, I have to admit, that if she can excite a 70 year-old man with her sexual magnetism as she did me, she has it all over some of the so-called younger sexy actresses. There was one scene that bothered me though, the Thanksgiving dinner scene where Spader's Jewish family is depicted as shallow and bigoted, something like Woody Allen's family in one of his films. Also, why the director ended the picture with that hokey table-top nonsense in a crowded restaurant is beyond understanding. It detracted from the reality of the film."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT2M6S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1140654361",
+        "name": "White Palace",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzVhZmMzNTItNGZkNi00NjRkLWI3ZWUtZjJkZDFjNzhmMzQxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzVhZmMzNTItNGZkNi00NjRkLWI3ZWUtZjJkZDFjNzhmMzQxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:23:44Z",
+        "url": "https://www.imdb.com/video/vi1140654361/"
+    },
+    "url": "/title/tt0103251/"
+}

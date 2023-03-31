@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bette Davis",
+            "url": "/name/nm0000012/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Brent",
+            "url": "/name/nm0107575/"
+        },
+        {
+            "@type": "Person",
+            "name": "Humphrey Bogart",
+            "url": "/name/nm0000007/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 11630,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Person",
+            "name": "Casey Robinson",
+            "url": "/name/nm0732452/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Emerson Brewer Jr.",
+            "url": "/name/nm0108108/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bertram Bloch",
+            "url": "/name/nm0088602/"
+        }
+    ],
+    "datePublished": "1939-04-22",
+    "description": "A young socialite is diagnosed with an inoperable brain tumor, and must decide whether or not she'll meet her final days with dignity.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Edmund Goulding",
+            "url": "/name/nm0332539/"
+        }
+    ],
+    "duration": "PT1H44M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYmRlOWMxNGEtMDJmZS00YTkyLTg2MzItNjA4ODM2MmQzZDljXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "keywords": "love,socialite,female protagonist,husband wife relationship,friendship between women",
+    "name": "Dark Victory",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Art-22"
+        },
+        "dateCreated": "2000-01-31",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0031210/"
+        },
+        "name": "A great Bette Davis movie, but I was surprised it had a credit error.",
+        "reviewBody": "I've seen this movie three times (once in a theater) and it seems to get better with each viewing. There is no question that this is one of the best movies Bette Davis had made, with her skill evident in every scene she's in. With an able supporting cast, especially by Geraldine Fitzgerald and George Brent, and a fine Max Steiner score, movies do not get much better. I loved the scene where she orders \"prognosis negative\" in a restaurant just to let Brent and Fitzgerald know that she knows she's been lied to about her condition. It's just a wonderful movie.\n\nI was surprised that such a prestigious film would have a credit error. The end credits list Lottie Williams as playing Lucy, where in fact she plays Agatha. Lucy was played by Diane Bernard.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A young socialite is diagnosed with an inoperable brain tumor, and must decide whether or not she'll meet her final days with dignity.",
+        "duration": "PT3M15S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1611186457",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDczZmM0MGQtZDc2OC00MTYzLTgwMDEtZTg2MGMwZDU0Y2UzXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDczZmM0MGQtZDc2OC00MTYzLTgwMDEtZTg2MGMwZDU0Y2UzXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-01-08T14:22:19.252Z",
+        "url": "https://www.imdb.com/video/vi1611186457/"
+    },
+    "url": "/title/tt0031210/"
+}

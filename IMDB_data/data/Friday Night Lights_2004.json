@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Billy Bob Thornton",
+            "url": "/name/nm0000671/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jay Hernandez",
+            "url": "/name/nm0379596/"
+        },
+        {
+            "@type": "Person",
+            "name": "Derek Luke",
+            "url": "/name/nm1035682/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 64583,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0003687/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0120229/"
+        },
+        {
+            "@type": "Person",
+            "name": "Buzz Bissinger",
+            "url": "/name/nm0084334/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Aaron Cohen",
+            "url": "/name/nm0169173/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Berg",
+            "url": "/name/nm0000916/"
+        }
+    ],
+    "datePublished": "2004-10-08",
+    "description": "Based on H.G. Bissinger's book, which profiled the economically depressed town of Odessa, Texas and their heroic high school football team, The Permian High Panthers.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Peter Berg",
+            "url": "/name/nm0000916/"
+        }
+    ],
+    "duration": "PT1H58M",
+    "genre": [
+        "Action",
+        "Drama",
+        "Sport"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTcxMDI5MTM4Ml5BMl5BanBnXkFtZTcwNjA4MDcyMQ@@._V1_.jpg",
+    "keywords": "texas,coach,high school football,odessa texas,football team",
+    "name": "Friday Night Lights",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "zatz-1"
+        },
+        "dateCreated": "2005-02-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0390022/"
+        },
+        "name": "The Real Varsity Blues",
+        "reviewBody": "This is a very dark sports movie. It's about fanaticism, the great weight of importance certain people place on sports. Sports fans often regard their teams as extensions of themselves. In \"Friday Night Lights,\" the entire town of Odessa, Texas collectively puts their town's reputation on the shoulders of a high school football team. It's basically the same exact plot as \"Varsity Blues,\" except a serious version of high school football in small town Texas.\n\nOne thing the movie does extremely well is taking hackneyed plots of the individual players (because it's all been done before) and putting them all in the background. So the plots play out not in a cheesy, inspirational, in-your-face way. Instead, they are just there with only as much attention as the viewer wants to put on them. The great aspects of sports are enough to keep us interested and makes the movie incredibly real.\n\nThe only character whose plot is really focused on is Boobie, the cocky running back who is injured and tries to defy his own injury. This is a plot in sports movies that has been focused on somewhat - the injured player. But never before has the pain been so real and so powerful.\n\nThis movie is heart-wrenching. Sports movies usually have so many moments of redemption and cheesy happiness that often feel false. This movie only has one such moment and it is incredibly powerful. Nothing about this movie is Hollywood. Billy Bob Thorton gives a great, understated performance as the coach, a man who is simply internal, who can do nothing but sit back and watch events unfold, knowing full well the impact that each game has on himself and his family. All the actors playing the football players do a good job, especially the guy who plays Boobie.\n\nDon't expect this movie to uplift you. But it will show you an interesting side of sports you may have never considered. And, in the end, it shows exactly what is great about sports, and it has nothing to do with winning or making a career out of the game. It's about giving all you have for a teammate."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Based on H.G. Bissinger's book, which profiled the economically depressed town of Odessa, Texas and their heroic high school football team, The Permian High Panthers.",
+        "duration": "PT2M26S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi826065689",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTI3NTYwZjctNGRiNC00NmUxLWI0Y2UtNmI1ZThlMDJiMmE3XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTI3NTYwZjctNGRiNC00NmUxLWI0Y2UtNmI1ZThlMDJiMmE3XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2022-01-06T17:31:35.682Z",
+        "url": "https://www.imdb.com/video/vi826065689/"
+    },
+    "url": "/title/tt0390022/"
+}

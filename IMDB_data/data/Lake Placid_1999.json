@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bridget Fonda",
+            "url": "/name/nm0000403/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Pullman",
+            "url": "/name/nm0000597/"
+        },
+        {
+            "@type": "Person",
+            "name": "Oliver Platt",
+            "url": "/name/nm0001624/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 62869,
+        "ratingValue": 5.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0017497/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0029574/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0064138/"
+        },
+        {
+            "@type": "Person",
+            "name": "David E. Kelley",
+            "url": "/name/nm0005082/"
+        }
+    ],
+    "datePublished": "1999-07-16",
+    "description": "Three people attempt to stop a gigantic crocodile, who is terrorizing residents in Black Lake, Maine.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Steve Miner",
+            "url": "/name/nm0591171/"
+        }
+    ],
+    "duration": "PT1H22M",
+    "genre": [
+        "Action",
+        "Comedy",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNGI2N2RmM2YtYTE5Yy00ZTg2LWI3NTMtODkwZDgwZTVhYjI3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "blonde,cleavage,voyeur,crocodile,eaten alive",
+    "name": "Lake Placid",
+    "original_info": {
+        "id": "Lake Placid_1999",
+        "name": "Lake Placid",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "peter_c"
+        },
+        "dateCreated": "1999-11-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0139414/"
+        },
+        "name": "Amazing",
+        "reviewBody": "As evident from most of the other reviews, people who have connected with this movie, as I have, connected quite solidly. It was one of the funniest movies I have ever seen. I have not been scared by a movie since I was 13 years old, so horror movies that take themselves seriously, like The Blair Witch, are extraordinarily boring and annoying. But a comedy which isn't trying too hard, as a dumb Adam Sandler movie does, to make you laugh but still makes you laugh is an excellent film. Lake Placid is it. The best part was that I couldn't garner a single thing about how good or bad the film was from any of the reviews I had read before I went to see it. Brendan Gleeson as the hic Sheriff really deserves most of the credit for making this film awesome. But, of course, since he is not a big name, you don't ever hear anything about him. Instead you hear about Bill Pullman, who is nothing special in this film."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from 20th Century Fox",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi412221721",
+        "name": "Lake Placid",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDc3ZTIwMTUtZDhhZC00ZWVlLTgzNGQtZWJiYmM0MWJlYTQzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDc3ZTIwMTUtZDhhZC00ZWVlLTgzNGQtZWJiYmM0MWJlYTQzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:45:24Z",
+        "url": "https://www.imdb.com/video/vi412221721/"
+    },
+    "url": "/title/tt0139414/"
+}

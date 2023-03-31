@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Humphrey Bogart",
+            "url": "/name/nm0000007/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gloria Grahame",
+            "url": "/name/nm0002108/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frank Lovejoy",
+            "url": "/name/nm0522481/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 32776,
+        "ratingValue": 7.9,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0053311/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrew Solt",
+            "url": "/name/nm0813584/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edmund H. North",
+            "url": "/name/nm0636002/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dorothy B. Hughes",
+            "url": "/name/nm0400568/"
+        }
+    ],
+    "description": "A potentially violent screenwriter is a murder suspect until his lovely neighbor clears him. However, she soon starts to have her doubts.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Nicholas Ray",
+            "url": "/name/nm0712947/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Drama",
+        "Film-Noir",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjRmZjcwZTQtYWY0ZS00ODAwLTg4YTktZDhlZDMwMTM1MGFkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "keywords": "screenwriter,police investigation,murder,alibi,suspense",
+    "name": "In a Lonely Place",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "fowler1"
+        },
+        "dateCreated": "2001-02-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0042593/"
+        },
+        "name": "Disturbing & Important",
+        "reviewBody": "For all the praise film-noir is lavished with (quite a lot of it valid), the majority of it relies on convention as much as the standard white-picket-fence, happy-ending 'family' film does: just invert the\n\ncliches and bathe them in deep-focus shadows. While this movie, on its surface, resembles the classic-style film noir of DOUBLE INDEMNITY, it's a whole different animal. No calculating evil females or tough guys masking hearts of gold populate IN A LONELY PLACE. It's a much more wrenching and powerfully disturbing film because the murder that draws the protagonists together turns out to be of peripheral importance, while the love story between Humphrey Bogart's troubled screenwriter and Gloria Grahame's B-actress spins inexorably towards damnation completely on its own power. The basic story has him a suspect in a killing and her in love with him yet unsure of his innocence, but director Nicholas Ray stages the proceedings so that WE see it's not the murder that disturbs her but her own conviction that his self-destructive and volatile nature will destroy them both. Yet, Ray never takes the easy way out of having Bogart turn monster on her. You care deeply about these people, hoping desperately (as Bogart's agent does in the film) that some transforming moment will come that will spare these people and allow their deeply felt love to flourish and heal them both, even as the evidence before your own eyes tells you there ain't no way. For 1950 -hell, for any year- such an unsentimental and uncompromising treatment of a tragic adult relationship is a terrible wonder to behold. The shadows suffusing this excellent film come not from UFA-influenced lighting but from moral and spiritual desolation, the death throes of old Hollywood, the coming of McCarthyism and the Black Dahlia murder of 1947. But most of all, they're projected from within the characters themselves. The finest work of Bogart, Grahame and Ray. Special note should be taken of Ray and Grahame, whose own deteriorating relationship formed the template for the doomed lovers; for them, this film is an act of great courage. Bogart himself has taken elements of all his previous romantic loners and blended them with the sour pigments of Fred C Dobbs; as the star and executive producer, his performance is unflinching in its honesty, and as fearless as Grahame and Ray. See this movie."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for this black and white suspense thriller",
+        "duration": "PT2M28S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3890742297",
+        "name": "In A Lonely Place",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTgxZTBiODgtMzYxMy00M2QzLWI3OWYtMzEyMWQ4MTJlMTUyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTgxZTBiODgtMzYxMy00M2QzLWI3OWYtMzEyMWQ4MTJlMTUyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-01-16T15:26:23Z",
+        "url": "https://www.imdb.com/video/vi3890742297/"
+    },
+    "url": "/title/tt0042593/"
+}

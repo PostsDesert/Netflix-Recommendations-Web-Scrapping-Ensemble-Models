@@ -1,0 +1,94 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Michael Moriarty",
+            "url": "/name/nm0605363/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrea Marcovicci",
+            "url": "/name/nm0546004/"
+        },
+        {
+            "@type": "Person",
+            "name": "Garrett Morris",
+            "url": "/name/nm0606541/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 17160,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0077868/"
+        },
+        {
+            "@type": "Person",
+            "name": "Larry Cohen",
+            "url": "/name/nm0169540/"
+        }
+    ],
+    "datePublished": "1985-06-14",
+    "description": "A delicious, mysterious goo that oozes from the earth is marketed as the newest dessert sensation, but the tasty treat rots more than teeth when zombie-like snackers who only want to consume more of the strange substance at any co...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Larry Cohen",
+            "url": "/name/nm0169540/"
+        }
+    ],
+    "duration": "PT1H27M",
+    "genre": [
+        "Comedy",
+        "Horror",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTExOTkyNTMtYjczYS00NWU5LTlkN2ItMTM2MjYzYTVkOWRjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "ice cream,mutation,parasite,army,dynamite",
+    "name": "The Stuff",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "vertigo_14"
+        },
+        "dateCreated": "2004-03-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0090094/"
+        },
+        "name": "From beneath the ground to the frozen food aisle...",
+        "reviewBody": "It came from beneath the ground. The Stuff. It's the new dairy craze that turns it's addicted victims into mutating zombies. The movie is about three people attempting to get to The Stuff before it gets to them.\n\nThe Stuff is a metaphor for drug smuggling/drug addictions, which is obviously evident from the ending. Although, it could be read as metaphorical of any kind of destructive addiction, really. It could also be held as a metaphor of products liability and the lengths companies will go to rack up profits, even in the face of defective products.\n\nThe Stuff, starring Michael Miarity, Paul Sorvino, and those gorgeous Bloom Brothers, is actually not quite as ridiculous as a glance at the box might lead one to believe. In fact, it's actually a rather funny zombie-like tale with Michael Miarity as Moe \"why do they call me Mo? Because when people give me money I always ask for Mo!\" as he repeatedly jokes to his frustrated associates. Moe is the guy sent to find out what The Stuff is by competitor's wishing to jump on the market. But, Moe figures out much more than that. Hence, his mission to try to get rid of it.\n\nPaul Sorvino, always a terrific actor, is funny as the overzealous army commander trying too hard to maintain his position as leader of this coup against that lovable dairy treat. \n\nWhat's more is that the special effects, which in my book are about 80% of a horror film, were, much to my surprise, pretty damned good. In fact, I was actually surprised by the whole thing really, and actually came to enjoy it.\n\nIf you enjoy The Stuff, perhaps you'll enjoy a 1994 Australian horror film of a similar nature entitled 'Body Melt.' Beware, however, that Body Melt is much weirder and tons more gross than the occurrences in The Stuff, if you'd call the Stuff gross at all.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A delicious, mysterious goo that oozes from the earth is marketed as the newest dessert sensation, but the tasty treat rots more than teeth when zombie-like snackers who only want to consume more of the strange substance at any cost begin infesting the world.",
+        "duration": "PT1M39S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3851272473",
+        "name": "Arrow Video Channel Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMDg1ZWMzNGQtYTVmZC00OGI1LWFlMDctMjYyMWZlNDgxNGYwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDg1ZWMzNGQtYTVmZC00OGI1LWFlMDctMjYyMWZlNDgxNGYwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-10-12T16:38:54.995Z",
+        "url": "https://www.imdb.com/video/vi3851272473/"
+    },
+    "url": "/title/tt0090094/"
+}

@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jean Marais",
+            "url": "/name/nm0544786/"
+        },
+        {
+            "@type": "Person",
+            "name": "Josette Day",
+            "url": "/name/nm0196816/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mila Parély",
+            "url": "/name/nm0664186/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 27061,
+        "ratingValue": 7.9,
+        "worstRating": 1
+    },
+    "alternateName": "Beauty and the Beast",
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0033419/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jean Cocteau",
+            "url": "/name/nm0168413/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeanne-Marie Leprince de Beaumont",
+            "url": "/name/nm0207305/"
+        }
+    ],
+    "datePublished": "1947-12-23",
+    "description": "A beautiful young woman takes her father's place as the prisoner of a mysterious beast, who wishes to marry her.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jean Cocteau",
+            "url": "/name/nm0168413/"
+        },
+        {
+            "@type": "Person",
+            "name": "René Clément",
+            "url": "/name/nm0167496/"
+        }
+    ],
+    "duration": "PT1H33M",
+    "genre": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODMwNmZjZmEtZGE5MS00NGIyLTlhNzQtMDNkNzk4ODkxZmI2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "keywords": "beast,cult film,based on fairy tale,surrealism,fairy tale",
+    "name": "La belle et la bête",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "miloc"
+        },
+        "dateCreated": "2002-03-05",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0038348/"
+        },
+        "name": "As beautiful as they come...",
+        "reviewBody": "This might be my nominee for the most beautiful film ever made. It ranks as one of my absolute favorites.\n\nSo many images stick in your head afterwards: the billowing draperies; the beast's flashing eyes when he first appears; the way his ears prick up when a deer moves through the woods-- he's trying to talk to Belle but can't help but be distracted-- one of those perfect moments; the way his hands smoke from the fresh blood when he's returned from the hunt; the living eyes in the carved stone; the hall full of arm/candelabras, turning as Belle passes by; Josette Day (quite an image all by herself); the moment that I can't even describe when she sort of folds into the sheets and vanishes-- so on, so on.\n\nThis is, in short, what film can do, when it tries. This was made long before computer graphics and the accompanying revolution in special effects, but if any of our modern directors deployed their resources as imaginatively, or as sensitively, as Cocteau did in the 40s, film today might be worth the paper it's printed on. But they don't and it isn't. Ah well. Get this and watch it; all due praise to Disney, but this is the fairy tale to see.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Beauty and the Beast",
+        "duration": "PT1M11S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1008515097",
+        "name": "Beauty and the Beast",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTU3YzI3MTQtYWJkYS00YWU3LThlZjMtYmEzODYyYjliYjY4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTU3YzI3MTQtYWJkYS00YWU3LThlZjMtYmEzODYyYjliYjY4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2018-03-21T17:13:49Z",
+        "url": "https://www.imdb.com/video/vi1008515097/"
+    },
+    "url": "/title/tt0038348/"
+}

@@ -1,0 +1,84 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Eric Jungmann",
+            "url": "/name/nm0432657/"
+        },
+        {
+            "@type": "Person",
+            "name": "Justin Urich",
+            "url": "/name/nm0881948/"
+        },
+        {
+            "@type": "Person",
+            "name": "Aimee Brooks",
+            "url": "/name/nm0111846/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4808,
+        "ratingValue": 5.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0073769/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0101037/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Davis",
+            "url": "/name/nm0205157/"
+        }
+    ],
+    "datePublished": "2005-03-11",
+    "description": "Two guys and a female hitchhiker are terrorized by a monstrous looking man driving a giant monster truck.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Davis",
+            "url": "/name/nm0205157/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Adventure",
+        "Comedy",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzI5MzYwODU2M15BMl5BanBnXkFtZTcwMTUxMzcyMQ@@._V1_.jpg",
+    "keywords": "gore,villainess,giant monster,monster truck,hitchhiker",
+    "name": "Monster Man",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "lomticks_of_toast"
+        },
+        "dateCreated": "2005-06-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0365513/"
+        },
+        "name": "I was expecting garbage",
+        "reviewBody": "This was on Showtime the other night, and I figured it was going to be another made-for-video crap fest, like \"Earth vs. the Spider\" or any of those other HBO horror shorts. Instead, I found a comedy/gore classic. It was legitimately funny, and surprisingly, the acting was quite good. Even my wife, an overall horror-hater, agreed and was laughing at parts. In addition, the FX were high-quality.\n\nOverall, the film felt like a parody of Joy Ride/Jeepers Creepers, and the 2 main characters reminded me of the pair from Shaun of the Dead. Definitely worth watching, but don't take it seriously.\n\nThe End.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0365513/"
+}

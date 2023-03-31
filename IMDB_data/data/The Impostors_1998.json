@@ -1,0 +1,96 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Oliver Platt",
+            "url": "/name/nm0001624/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stanley Tucci",
+            "url": "/name/nm0001804/"
+        },
+        {
+            "@type": "Person",
+            "name": "Walker Jones",
+            "url": "/name/nm0429428/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5251,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0073592/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0028932/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stanley Tucci",
+            "url": "/name/nm0001804/"
+        }
+    ],
+    "datePublished": "1998-10-02",
+    "description": "Wrongly accused of physically abusing a fellow actor, starving thespians Arthur and Maurice find themselves pursued by the law aboard a cruise ship.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Stanley Tucci",
+            "url": "/name/nm0001804/"
+        }
+    ],
+    "duration": "PT1H41M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTkxY2ZlZDQtMzczMy00MWU2LWE0OWItMTQzNTg2MDY2NjE2XkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+    "keywords": "timeframe 1930s,ship,actor,singer,written and directed by cast member",
+    "name": "The Impostors",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "lindaz"
+        },
+        "dateCreated": "2011-10-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120823/"
+        },
+        "name": "Pure, tongue-in-cheek, humor from start to finish.",
+        "reviewBody": "Pure, tongue-in-cheek, humor from start to finish.\n\nA near perfect film. Stanley Tucci and Oliver Platt make a great duo in this comedy about two starving actors.\n\nDesperate for food, they decide to con a pastry chef out of some of his pastry. As previously planned, Platt comes to the pastry chef's \"rescue\", but instead of getting pastry, he gets two tickets to see hack stage actor, Jeremy Burtom excellently played by Alfred Molina.\n\nThrough a series of incidents, Burtom threatens the boys with imprisonment if he catches them, The two end up accidentally stowing away on a cruise ship and that's when everything gets complicated.\n\nAn excellent cast was assembled for this superbly funny script. Watch for Campbell Scott, son of George C. Scott. His portrayal of a Nazi-like ship steward is hilarious.\n\nMy hat goes off to Stanley Tucci for doing an excellent job writing and directing this film! I only hope more people can see this jewel.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from 20th Century Fox Home Entertainment",
+        "duration": "PT2M6S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi670302489",
+        "name": "The Impostors",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BN2ZhM2RlNTUtNGUyZS00MTYyLWI4MzQtMTY0YjE1YzVhMTdhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BN2ZhM2RlNTUtNGUyZS00MTYyLWI4MzQtMTY0YjE1YzVhMTdhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:48:37Z",
+        "url": "https://www.imdb.com/video/vi670302489/"
+    },
+    "url": "/title/tt0120823/"
+}

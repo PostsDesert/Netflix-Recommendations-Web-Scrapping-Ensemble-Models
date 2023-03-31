@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jennifer Tilly",
+            "url": "/name/nm0000236/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gina Gershon",
+            "url": "/name/nm0000153/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joe Pantoliano",
+            "url": "/name/nm0001592/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 57264,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0014380/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0025957/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lilly Wachowski",
+            "url": "/name/nm0905152/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lana Wachowski",
+            "url": "/name/nm0905154/"
+        }
+    ],
+    "datePublished": "1996-10-04",
+    "description": "Tough ex-con Corky and her lover Violet concoct a scheme to steal millions of stashed mob money and pin the blame on Violet's crooked boyfriend Caesar.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Lana Wachowski",
+            "url": "/name/nm0905154/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lilly Wachowski",
+            "url": "/name/nm0905152/"
+        }
+    ],
+    "duration": "PT1H49M",
+    "genre": [
+        "Crime",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjcwN2RhYWYtOWY1NC00M2JkLTllYWItYzZhOTg4NjZmMDcwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "lesbian,mafia,stolen money,lesbian lover,lesbian relationship",
+    "name": "Bound",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "camachoborracho"
+        },
+        "dateCreated": "2004-11-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0115736/"
+        },
+        "name": "Stunning directorial debut by Wachowskis",
+        "reviewBody": "Bound is a film for which I have mixed feelings: it looks and feels amazing, the cinematography, acting, directing, costumes, wardrobe, props, colors, moods, etc. feel like a graphic novel brought to life. Yet on the other hand there is something that smacks of \"aren't we cool for doing x?\" - I guess the lesbian scenes and camera work were what did this so as to give it a punk/hip feel (then again, this is not long after Pulp Fiction came out so everyone was doing it).\n\nHaving seen the Matrix 1-3 I can understand and appreciate the camera work on second viewing, but it feels like the Wachowski brothers were pushing the lesbian eroticism for the sake of shock and males in the audience. It definitely seems to be directed by males insofar as the sex scenes go (the female body is both fetishist and problematized as a threat to men throughout the film too, but that's a different subject altogether), but these are more artsy than \"Skinemax\" night flicks in that there is very little nudity, it was tastefully shown for the most part and a lot was told with sounds and shadows. (Personally, I think the lesbians were there for shock since a male lover would have worked just as well, but in general I think some more subtlety could have been used in the sex scenes myself since imagining it is sexier IMHO).\n\nThat said, the first half, which establishes character, does seem to drag quite a bit, but once the caper gets going it never stops. You also feel for all of the characters - surprisingly, I felt the most for Cesar, the \"villain\" of the piece (perhaps because of an amazing shot when he opens the briefcase and then the world seems out of whack as we look up at him).\n\nI can't really find anything \"wrong\" with this film per se and it is a good film although I could have easily fast forwarded the first half and got roughly the same effect. Still I could watch this film over and over again for the way it was shot since it is amazing and there are a lot of techniques and style one can learn from it, plus the story is great too. So for this I give the film\n\n8 out of 10 stars. Definitely worth a watch, although some of you more conservative folks might be a little put off by the lesbian scenes.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Bound",
+        "duration": "PT2M20S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2763718937",
+        "name": "Bound",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjRhMTk4YWQtNjI5Yi00NmFlLTljYjItMDg0M2Q5NDQzMDFlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjRhMTk4YWQtNjI5Yi00NmFlLTljYjItMDg0M2Q5NDQzMDFlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:46:39Z",
+        "url": "https://www.imdb.com/video/vi2763718937/"
+    },
+    "url": "/title/tt0115736/"
+}

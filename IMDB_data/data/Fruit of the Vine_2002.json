@@ -1,0 +1,56 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tony Alva",
+            "url": "/name/nm0023112/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve Bailey",
+            "url": "/name/nm4531348/"
+        },
+        {
+            "@type": "Person",
+            "name": "Glen Charnoski",
+            "url": "/name/nm5392059/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 10,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0283293/"
+        }
+    ],
+    "description": "FRUIT OF THE VINE is a super 8mm film that documents the incredible and often dangerous lengths that skateboarders go to in order to ride deserted, empty swimming pools. It is not a historical documentary, but a collection of stor...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Rick Charnoski",
+            "url": "/name/nm2443063/"
+        },
+        {
+            "@type": "Person",
+            "name": "Coan Nichols",
+            "url": "/name/nm2383566/"
+        }
+    ],
+    "duration": "PT1H14M",
+    "genre": [
+        "Documentary",
+        "Sport"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTIwMTA0NTQ2Nl5BMl5BanBnXkFtZTYwMjU5MDg5._V1_.jpg",
+    "keywords": "skateboard,skateboarding",
+    "name": "Fruit of the Vine",
+    "url": "/title/tt1567739/"
+}

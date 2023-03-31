@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Max von Sydow",
+            "url": "/name/nm0001884/"
+        },
+        {
+            "@type": "Person",
+            "name": "Liv Ullmann",
+            "url": "/name/nm0880521/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gertrud Fridh",
+            "url": "/name/nm0294892/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 21382,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "alternateName": "Hour of the Wolf",
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0054077/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0050989/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ingmar Bergman",
+            "url": "/name/nm0000005/"
+        }
+    ],
+    "datePublished": "1968-04-09",
+    "description": "While vacationing on a remote German island with his younger pregnant wife, an artist has an emotional breakdown while confronting his repressed desires.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ingmar Bergman",
+            "url": "/name/nm0000005/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Drama",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjZiYjRkMjItYTYwMS00OTQ0LTljNDMtOWJhODcxOTg5M2YyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "surrealism,island,artist,diary,corpse in water",
+    "name": "Vargtimmen",
+    "original_info": {
+        "id": "Hour of the Wolf_1968",
+        "name": "Hour of the Wolf",
+        "year": "1968"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "neil-313"
+        },
+        "dateCreated": "2005-07-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0063759/"
+        },
+        "name": "Genuine horror",
+        "reviewBody": "This seems to be one that divides fans of the master, but I loved it. It's easy to see why people see this as being a bit of an odd-one-out in Bergman's output: it's very direct in it's depiction of disturbed states of mind, directly illustrating hallucinatory states rather than just hinting at them. Others have pointed to references to other films of the horror genre, which seem undeniable.\n\nNot that you'd mistake this for a film by anyone but Bergman. It's rich in connections with other of his films and autobiographical references (such as the terrifying description of being locked in a cupboard as a child). It can be reasonably thought of as Bergman's 'horror film' but he takes on the genre very much on his own terms.\n\nIt's a film that lingers long in the mind, with many unforgettable scenes (including the amazing Magic Flute scene) aided by Sven Nykvist's wonderful chiaroscuro photography. The use of music is (as ever with Bergman, the most musical of directors) extremely intelligent: the scene with the boy is set apart from the rest as much by the music as the photography.\n\nGiven the quality of the cast, you'd expect superb performances. As ever, von Sydow and Ullmann are excellent, with equally good supporting performances.\n\nAt times I was reminded of Rilke's only novel, The Notebook of Malte Laurids Brigge. If you don't know this, I urge you to seek out a copy: there's a distinctly Bergmanesque atmosphere to the whole work, but there are specific images that seem to link to this film.\n\nThis is a film that repays repeated viewings. Despite it's extremely disturbing subject matter, to me it's not as emotionally draining as many of Bergman's other films (such as Shame or Winter Light), in spite of (or perhaps because of) the visual horrors on display. Still, I recommend it very highly.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "While vacationing on a remote Scandanavian island with his younger pregnant wife, an artist has an emotional breakdown while confronting his repressed desires.",
+        "duration": "PT2M12S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3297755929",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNGZlNzA2OTktODBhMS00ZWE1LWIxMzUtNzQxMmQxNWIwNTYwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNGZlNzA2OTktODBhMS00ZWE1LWIxMzUtNzQxMmQxNWIwNTYwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-10-28T22:19:23.267Z",
+        "url": "https://www.imdb.com/video/vi3297755929/"
+    },
+    "url": "/title/tt0063759/"
+}

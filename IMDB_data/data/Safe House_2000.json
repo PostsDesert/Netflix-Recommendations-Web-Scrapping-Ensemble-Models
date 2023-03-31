@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ricky Tomlinson",
+            "url": "/name/nm0866870/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paterson Joseph",
+            "url": "/name/nm0430667/"
+        },
+        {
+            "@type": "Person",
+            "name": "Caroline Hayes",
+            "url": "/name/nm0370930/"
+        }
+    ],
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103289/"
+        },
+        {
+            "@type": "Person",
+            "name": "Simon Block",
+            "url": "/name/nm1171030/"
+        }
+    ],
+    "datePublished": "2000-08-31",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Tom Vaughan",
+            "url": "/name/nm0891114/"
+        }
+    ],
+    "duration": "PT1H",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "name": "Safe as Houses",
+    "url": "/title/tt0261490/"
+}

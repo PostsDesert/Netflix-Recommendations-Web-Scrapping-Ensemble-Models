@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Christian Bale",
+            "url": "/name/nm0000288/"
+        },
+        {
+            "@type": "Person",
+            "name": "Justin Theroux",
+            "url": "/name/nm0857620/"
+        },
+        {
+            "@type": "Person",
+            "name": "Josh Lucas",
+            "url": "/name/nm0524197/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 644873,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0220056/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0060306/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0019350/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bret Easton Ellis",
+            "url": "/name/nm0254735/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mary Harron",
+            "url": "/name/nm0366004/"
+        },
+        {
+            "@type": "Person",
+            "name": "Guinevere Turner",
+            "url": "/name/nm0877587/"
+        }
+    ],
+    "datePublished": "2000-04-14",
+    "description": "A wealthy New York City investment banking executive, Patrick Bateman, hides his alternate psychopathic ego from his co-workers and friends as he delves deeper into his violent, hedonistic fantasies.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mary Harron",
+            "url": "/name/nm0366004/"
+        }
+    ],
+    "duration": "PT1H42M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTM2ZGJmNjQtN2UyOS00NjcxLWFjMDktMDE2NzMyNTZlZTBiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "keywords": "narcissism,materialism,serial murder,1980s,sociopath",
+    "name": "American Psycho",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "albertodr07"
+        },
+        "dateCreated": "2008-10-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0144084/"
+        },
+        "name": "Christian Bale the new Peter Cushing",
+        "reviewBody": "Now it all makes sense. Christian Bale was born to play horror characters. I couldn't understand why I was so , so, afraid of him even in films like \"Velvet Goldmine\" He is a poster boy for putrid souls in elegant wrapping. In \"American Psycho\" - a film that deserves much more attention than it's got - he is absolutely terrific. Totally believable. I could sense his delight in playing a monster of this kind. Interestingly enough this manicured monster seems to be asking for sympathy, imagine the nerve! But Christian Bale succeeds in showing us a face we (I) hadn't quite seen before and yet we (I) accept without question. He should have gotten an Oscar nomination but, fortunately, he didn't.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "text os",
+        "duration": "PT32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4060743449",
+        "name": "American Psycho",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzFiZmIwOTUtMmVkNy00YmZkLWE4ODAtYjE4NWUwNzNiZDM0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzFiZmIwOTUtMmVkNy00YmZkLWE4ODAtYjE4NWUwNzNiZDM0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-05-18T14:52:19Z",
+        "url": "https://www.imdb.com/video/vi4060743449/"
+    },
+    "url": "/title/tt0144084/"
+}

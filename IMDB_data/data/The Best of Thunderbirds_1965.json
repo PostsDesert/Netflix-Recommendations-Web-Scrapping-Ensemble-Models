@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "James Marsden",
+            "url": "/name/nm0005188/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michelle Monaghan",
+            "url": "/name/nm1157358/"
+        },
+        {
+            "@type": "Person",
+            "name": "Luke Bracey",
+            "url": "/name/nm3478396/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 74432,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0062957/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0142678/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nicholas Sparks",
+            "url": "/name/nm0817023/"
+        },
+        {
+            "@type": "Person",
+            "name": "Will Fetters",
+            "url": "/name/nm3391497/"
+        },
+        {
+            "@type": "Person",
+            "name": "J. Mills Goodloe",
+            "url": "/name/nm0328987/"
+        }
+    ],
+    "datePublished": "2014-10-17",
+    "description": "A pair of former high school sweethearts reunite after many years when they return to visit their small hometown.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Hoffman",
+            "url": "/name/nm0001355/"
+        }
+    ],
+    "duration": "PT1H58M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzQ5Njg3Njk5N15BMl5BanBnXkFtZTgwODIwODIxMjE@._V1_.jpg",
+    "keywords": "heart transplant,based on novel,adolescent,bare chested male,beating",
+    "name": "The Best of Me",
+    "original_info": {
+        "id": "The Best of Thunderbirds_1965",
+        "name": "The Best of Thunderbirds",
+        "year": "1965"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "tavm"
+        },
+        "dateCreated": "2014-10-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt1972779/"
+        },
+        "name": "The Best of Me was a pretty enjoyable Nicholas Sparks movie",
+        "reviewBody": "So my movie theatre-working friend was getting off from work in the afternoon today and he wanted to see another movie before going to his sister's house to watch the New Orleans-Green Bay football game there. So this was what we ended up seeing. I once again decided to humor him and to tell the truth, this was quite enjoyable despite some familiar clichés like bad boy-liking-good girl-who-he-has-to-break up-with-because-of-his-roots (well, there was more than that but you get the idea). The fact this was filmed and takes place in our home state of Louisiana was a plus for me and my friend as we recognized some town names being mentioned and certain car window stickers in the film. Yes, it's based on a Nicholas Sparks book and it has what you'd possibly expect from him. Still, by the time it all ended, we were both touched by what happened. So on that note, The Best of Me is worth a look.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Watch a trailer for The Best of Me featuring music by Lady Antebellum.",
+        "duration": "PT1M48S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2153688089",
+        "name": "Special Trailer feat. Lady Antebellum",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjI2MTY1NjA4MF5BMl5BanBnXkFtZTgwNzI0OTA2MjE@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjI2MTY1NjA4MF5BMl5BanBnXkFtZTgwNzI0OTA2MjE@._V1_.jpg",
+        "uploadDate": "2014-09-05T08:05:28Z",
+        "url": "https://www.imdb.com/video/vi2153688089/"
+    },
+    "url": "/title/tt1972779/"
+}

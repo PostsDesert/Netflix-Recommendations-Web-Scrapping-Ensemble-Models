@@ -1,0 +1,96 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dan Monahan",
+            "url": "/name/nm0597517/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Herrier",
+            "url": "/name/nm0380628/"
+        },
+        {
+            "@type": "Person",
+            "name": "Wyatt Knight",
+            "url": "/name/nm0461129/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 43973,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0074790/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0005168/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bob Clark",
+            "url": "/name/nm0163706/"
+        }
+    ],
+    "datePublished": "1982-03-19",
+    "description": "In 1954, a group of Florida high-school guys try to help their buddy lose his virginity, which leads them to seek revenge on a sleazy nightclub owner and his redneck sheriff brother for harassing them.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bob Clark",
+            "url": "/name/nm0163706/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTI1MWJhNDgtNDdmNi00ZTI3LTk0NmQtODUyNzMyNmY3Zjk5XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg",
+    "keywords": "female full frontal nudity,female rear nudity,school,revenge,shower",
+    "name": "Porky's",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Chromium_5"
+        },
+        "dateCreated": "2005-10-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0084522/"
+        },
+        "name": "Very fun comedy",
+        "reviewBody": "I am proud to say this is one of my favorite comedies, and I normally don't even like the \"American Pie\" type of sex comedy. The humor is raunchy, but in a good-natured way, and all the actors look like they're having a blast. The odd thing is that there doesn't seem to be any real reason why it's taking place in the 50's, except maybe to get across the message that teenagers have always been, and always will be, horny. Also, to the people who say this is \"dated\"... you guys do realize it's taking place 30 years before it was made, right?\n\nIt's not the funniest movie you'll ever see, except for a few truly hysterical scenes, but you have to love the way it captures the fun irresponsibility of high school. I think a lot of people can relate to this no matter what generation they're from, making it a definite classic. My advice is to steer clear of the upcoming remake, which will undoubtedly be raunchier and ruder, but probably have ten times less heart.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from 20th Century Fox Home Entertainment",
+        "duration": "PT1M33S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1773076761",
+        "name": "Porky's",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjAyNGFjMWEtMGY1Zi00ZTVlLWJlMTAtYjBkODRkMDYzMTE5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjAyNGFjMWEtMGY1Zi00ZTVlLWJlMTAtYjBkODRkMDYzMTE5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:36:25Z",
+        "url": "https://www.imdb.com/video/vi1773076761/"
+    },
+    "url": "/title/tt0084522/"
+}

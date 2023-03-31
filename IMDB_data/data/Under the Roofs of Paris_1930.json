@@ -1,0 +1,95 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Albert Préjean",
+            "url": "/name/nm0699522/"
+        },
+        {
+            "@type": "Person",
+            "name": "Pola Illéry",
+            "url": "/name/nm0407855/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edmond T. Gréville",
+            "url": "/name/nm0344933/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2391,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "alternateName": "Under the Roofs of Paris",
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0012482/"
+        },
+        {
+            "@type": "Person",
+            "name": "René Clair",
+            "url": "/name/nm0163229/"
+        }
+    ],
+    "datePublished": "1930-12-15",
+    "description": "Albert is smitten for Pola but ends up wrongly committed in jail, in the meantime her affections are sought after by his friend, and on his release both love and friendship must be tested.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "René Clair",
+            "url": "/name/nm0163229/"
+        }
+    ],
+    "duration": "PT1H36M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Musical"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZGJiYjkxZTktNDA0OC00MzkxLThjMDgtZTBkZWVjY2Q5ZDM2XkEyXkFqcGdeQXVyNTUyMTMyMDg@._V1_.jpg",
+    "keywords": "fickle woman,love triangle,directed by writer,title as song,stolen key",
+    "name": "Sous les toits de Paris",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "lionel-libson-1"
+        },
+        "dateCreated": "2008-05-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0021409/"
+        },
+        "name": "A cinematic love letter to Paris",
+        "reviewBody": "The great French film actor Jacques Tati made several films that tried to capture a Paris that disappeared even before World WarII. It was a world best seen through the gifted photography of Atget and Brassai. A world of intimacy, silent streets, virtually no traffic, limited means, but unlimited pleasures. A wonderful opening shot glides across rooftops to join a cluster of ordinary Parisians enjoying a singalong, an odd but compelling precursor of karaoke and rock concerts, but untarnished by special effects or hype. There is a sense that we are witnessing a street version of Lautrec's Moulin Rouge.\n\nThe cinematography is extraordinary. It can only be compared to Fritz Lang's \"M\", or the \"Third Man\". Very little actually happens and dialogue is used sporadically. Yet we find ourselves caring very much about the people about whom we know so little.\n\nAn unforgettable film.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Albert is smitten for Pola but ends up wrongly committed in jail, in the meantime her affections are sought after by his friend, and on his release both love and friendship must be tested.",
+        "duration": "PT5M10S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2913649177",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTQxOWIzMTQtNmI0YS00MGMzLTlhNDUtZDc5MjIzMDNmMDIwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTQxOWIzMTQtNmI0YS00MGMzLTlhNDUtZDc5MjIzMDNmMDIwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2022-04-19T20:18:48.038Z",
+        "url": "https://www.imdb.com/video/vi2913649177/"
+    },
+    "url": "/title/tt0021409/"
+}

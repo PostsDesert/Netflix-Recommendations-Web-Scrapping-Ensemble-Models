@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Freddie Prinze Jr.",
+            "url": "/name/nm0005327/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sarah Michelle Gellar",
+            "url": "/name/nm0001264/"
+        },
+        {
+            "@type": "Person",
+            "name": "Matthew Lillard",
+            "url": "/name/nm0000498/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 60455,
+        "ratingValue": 5.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0037759/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Hanna",
+            "url": "/name/nm0360253/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joseph Barbera",
+            "url": "/name/nm0053484/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Gunn",
+            "url": "/name/nm0348181/"
+        }
+    ],
+    "datePublished": "2004-03-26",
+    "description": "The Mystery Inc. gang must save Coolsville from an attack of their past monsters brought to life by an evil masked figure trying to take down the gang.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Raja Gosnell",
+            "url": "/name/nm0331532/"
+        }
+    ],
+    "duration": "PT1H33M",
+    "genre": [
+        "Adventure",
+        "Comedy",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjEzNzk3NTE1Ml5BMl5BanBnXkFtZTYwODM1MTU3._V1_.jpg",
+    "keywords": "monster,strong female character,team spirit,mysterious villain,masked figure",
+    "name": "Scooby-Doo 2: Monsters Unleashed",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "TheLittleSongbird"
+        },
+        "dateCreated": "2009-05-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0331632/"
+        },
+        "name": "A superior sequel to an above average film.",
+        "reviewBody": "The predecessor honestly wasn't that bad at all, but was flawed in terms of story and scripting. I really wan't expecting the sequel to be better, and it was. The plot was better, more focused, and a little more faithful to the Scooby Doo cartoons. One thing I appreciated here was that the director sensibly focused on Shaggy and Scooby, and that added to the film's charm, as nobody could resist Matthew Lilliard's goofiness as Shaggy. Sarah Michelle Gellar, Linda Cardellini and Freddie Pinze Jnr were very good too, there are some decent jokes and there were some very good action sequences. Out of the supporting cast, Seth Green was a standout as Patrick, and Alicia Silverstone is likable too. My only complaints were that one or two of the monsters could have been designed better, and also some scenes felt a bit rushed. Other than that, an enjoyable film, with an 8/10. Bethany Cox.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Scooby Doo 2: Monsters Unleashed",
+        "duration": "PT1M57S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1619441177",
+        "name": "Scooby Doo 2: Monsters Unleashed",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTgxNjgyNTExMV5BMl5BanBnXkFtZTgwNDk3MjUyMDI@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTgxNjgyNTExMV5BMl5BanBnXkFtZTgwNDk3MjUyMDI@._V1_.jpg",
+        "uploadDate": "2016-10-07T04:18:15Z",
+        "url": "https://www.imdb.com/video/vi1619441177/"
+    },
+    "url": "/title/tt0331632/"
+}

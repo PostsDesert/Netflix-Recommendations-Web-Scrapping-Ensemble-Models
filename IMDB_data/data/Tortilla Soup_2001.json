@@ -1,0 +1,113 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Hector Elizondo",
+            "url": "/name/nm0001185/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jacqueline Obradors",
+            "url": "/name/nm0005283/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tamara Mello",
+            "url": "/name/nm0005220/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5079,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0058013/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0002342/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hui-Ling Wang",
+            "url": "/name/nm0910924/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ang Lee",
+            "url": "/name/nm0000487/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Schamus",
+            "url": "/name/nm0770005/"
+        }
+    ],
+    "datePublished": "2001-08-31",
+    "description": "A Mexican-American master chef and father to three daughters has lost his taste for food, but not for life.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Maria Ripoll",
+            "url": "/name/nm0728048/"
+        }
+    ],
+    "duration": "PT1H42M",
+    "genre": [
+        "Comedy",
+        "Romance",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZGJhMmZkOWYtZDI5MC00ODM3LTg5N2ItODhiMDk3NDM0YWUwXkEyXkFqcGdeQXVyMjE4NzUxNDA@._V1_.jpg",
+    "keywords": "foodie movie,female director,female filmmaker,title directed by female,mexican american",
+    "name": "Tortilla Soup",
+    "original_info": {
+        "id": "Tortilla Soup_2001",
+        "name": "Tortilla Soup",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "joelbarrybrandt"
+        },
+        "dateCreated": "2005-01-31",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0255653/"
+        },
+        "name": "A Remake of Eat Drink Man & Woman, both are excellent",
+        "reviewBody": "This is an exact almost word for word copy of Eat Drink Man Woman, a 1994 Twainese production. Both movies are great, but Tortilla soup looses points for lack of originality. \n\nBoth movies offer sharp portrayals of their various cuisines, and your preference may be Mexican vs.Chinese, however if you can tolerate the fast pace Chinese dialog (subtitles), see the original first. I also preferred the scenery of the original (Eat Drink Man Woman), but perhaps that is because Taiwan is the orient and the architecture is spectacular.\n\nFinally, both movies are well acted although the lifestyle portrayed in the story line may be somewhat more believable in the Southern California setting of Tortilla Soup.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Tortilla Soup",
+        "duration": "PT1M49S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2542844185",
+        "name": "Tortilla Soup",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjA3Mjg0OTAtYzg2ZC00Mjc4LWEwMjItMjBlYWQzNGM2YjlhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjA3Mjg0OTAtYzg2ZC00Mjc4LWEwMjItMjBlYWQzNGM2YjlhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2017-05-03T08:10:39Z",
+        "url": "https://www.imdb.com/video/vi2542844185/"
+    },
+    "url": "/title/tt0255653/"
+}

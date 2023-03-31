@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Joey Lauren Adams",
+            "url": "/name/nm0000725/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jacob Fisher",
+            "url": "/name/nm1389345/"
+        },
+        {
+            "@type": "Person",
+            "name": "Emma Roberts",
+            "url": "/name/nm0731075/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 787,
+        "ratingValue": 4.2,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0233424/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0134175/"
+        },
+        {
+            "@type": "Person",
+            "name": "Barry Tubb",
+            "url": "/name/nm0875613/"
+        }
+    ],
+    "datePublished": "2002-03-24",
+    "description": "The tale of a spunky young boy named Buddy and his prize-winning calf, Hokey, as they climb from the underdog position up through the ranks of several Texas stock shows to ultimately fight to win the coveted title of Grand Champion.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Barry Tubb",
+            "url": "/name/nm0875613/"
+        }
+    ],
+    "duration": "PT1H33M",
+    "genre": [
+        "Comedy",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZDEwMjcwOWYtM2EyZC00ZTg3LWEwOTctMzdhOTQ0ZDkxNTFiXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+    "keywords": "child driving car,underdog,texas,calf,steer",
+    "name": "Grand Champion",
+    "original_info": {
+        "id": "Grand Champion_2002",
+        "name": "Grand Champion",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "tracy-454"
+        },
+        "dateCreated": "2009-03-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0335126/"
+        },
+        "name": "a charming family film",
+        "reviewBody": "We all enjoyed the movie. It is a very charming family film with many fun cameos. It was fun to see Austin musicians, Charlie Robison, Joe Ely and Robert Earl Keen in the film as well as turns by famous actors Julia Roberts and Bruce Willis. Emma Roberts is especially cute in the film however all the children are good. The west Texas scenery is great as is the soundtrack full of Texas artists. The last half seemed a bit far fetched to me, however, my son was interested throughout the film which is not so often with him. Something in the storyline was captivating for children. Having shown calves as a child, I really liked the ending. That is definitely not the way it really works unless you have heifers.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "The tale of a spunky young boy named Buddy and his prize-winning calf, Hokey, as they climb from the underdog position up through the ranks of several Texas stock shows to ultimately fight to win the coveted title of Grand Champion.",
+        "duration": "PT2M21S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1668465433",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDVhZjA1MWQtNDljMy00ZjRkLTgzNGEtNTExOGI5Njg4Mjc4XkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDVhZjA1MWQtNDljMy00ZjRkLTgzNGEtNTExOGI5Njg4Mjc4XkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+        "uploadDate": "2022-02-12T22:26:31.598Z",
+        "url": "https://www.imdb.com/video/vi1668465433/"
+    },
+    "url": "/title/tt0335126/"
+}

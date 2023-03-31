@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Vin Diesel",
+            "url": "/name/nm0004874/"
+        },
+        {
+            "@type": "Person",
+            "name": "Timothy Olyphant",
+            "url": "/name/nm0648249/"
+        },
+        {
+            "@type": "Person",
+            "name": "Larenz Tate",
+            "url": "/name/nm0005478/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 48276,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0130509/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0130510/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0046718/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christian Gudegast",
+            "url": "/name/nm0345615/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul T. Scheuring",
+            "url": "/name/nm0771228/"
+        }
+    ],
+    "datePublished": "2003-04-04",
+    "description": "A man known as Diablo emerges to head a drug cartel after the previous leader is imprisoned.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "F. Gary Gray",
+            "url": "/name/nm0336620/"
+        }
+    ],
+    "duration": "PT1H49M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk4NzEwNjk1N15BMl5BanBnXkFtZTYwNTEzNTk5._V1_.jpg",
+    "keywords": "bust,drug cartel,justice,tragic hero,murder of a nude man",
+    "name": "A Man Apart",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "tenten76"
+        },
+        "dateCreated": "2004-10-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0266465/"
+        },
+        "name": "Not spectacular, but pretty good",
+        "reviewBody": "One of those films which I don't think the current IMDb score (5.4) actually captures.\n\nIt's a bit formulaic - ex-bad-boy super-DEA agent gets the bad guy, pays with the life of his nearest & dearest, and goes out for revenge. Even I saw the reveal at the end coming way-off (I rarely do), but I still really enjoyed this film.\n\nI thought it was very well plotted and paced; Vin Diesel played it gruff, but mostly low-key (no huge sobbing moments, or tearful walks on the beach, which was refreshing). His character, along with that of his friend, were fleshed out into more-rounded human beings than the usual action hero & sidekick. The enemies were straight out of 'the Big Book Of Drug Dealers and Cartel lackeys', but Timothy Oliphant was amusing and well played, as ever (also a great turn in The Good Girl).\n\nAnd I found the violence viscerally satisfying & gritty, without being seriously glorified, or venturing (too far) into Bad Boys style Hollywood explosions, helicopter gunships, LA car chases etc.\n\nMost surprising of all (to me) is that Vin agreed to grow his hair out a little - as you would in an extended hospital stay - and roughen up his otherwise clean shaven / macho male model looks. Wandering around with the goatee, he reminded me more of the guy out of Cypress Hill.\n\nKudos also goes to the ending. It could have finished two scenes earlier than it did, but the tying up of loose ends wasn't done in an overly sentimental or triumphant way, which was similarly refreshing.\n\nGood screenplay, good acting (in a pretty standard film like this), and mostly avoiding the really obvious clichés of plot & character. I really enjoyed it. On the scale of revenge movies - it's not as good as Mel Gibson's remake of Payback, or The Rock in the remake of Walking Tall. But it would hold its own alongside them in a collector's box set.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT2M25S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2176057625",
+        "name": "A Man Apart",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzQxMTU0N2YtNzg4NC00MjIzLTg4MWEtMGVkMTY5MTVjMzVmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzQxMTU0N2YtNzg4NC00MjIzLTg4MWEtMGVkMTY5MTVjMzVmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T06:33:44Z",
+        "url": "https://www.imdb.com/video/vi2176057625/"
+    },
+    "url": "/title/tt0266465/"
+}

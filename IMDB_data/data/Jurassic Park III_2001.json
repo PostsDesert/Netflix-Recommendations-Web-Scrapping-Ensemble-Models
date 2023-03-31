@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sam Neill",
+            "url": "/name/nm0000554/"
+        },
+        {
+            "@type": "Person",
+            "name": "William H. Macy",
+            "url": "/name/nm0000513/"
+        },
+        {
+            "@type": "Person",
+            "name": "Téa Leoni",
+            "url": "/name/nm0000495/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 328400,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0009119/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Crichton",
+            "url": "/name/nm0000341/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Buchman",
+            "url": "/name/nm0118224/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alexander Payne",
+            "url": "/name/nm0668247/"
+        }
+    ],
+    "datePublished": "2001-07-18",
+    "description": "A decidedly odd couple with ulterior motives convince Dr. Grant to go to Isla Sorna for a holiday, but their unexpected landing startles the island's new inhabitants.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Joe Johnston",
+            "url": "/name/nm0002653/"
+        }
+    ],
+    "duration": "PT1H32M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZDMyZGJjOGItYjJkZC00MDVlLWE0Y2YtZGIwMDExYWE3MGQ3XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+    "keywords": "dinosaur,jurassic park,spinosaurus,velociraptor,tyrannosaurus rex",
+    "name": "Jurassic Park III",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Dyonus"
+        },
+        "dateCreated": "2003-01-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0163025/"
+        },
+        "name": "A disgrace to Michael Crichton's work.",
+        "reviewBody": "I am a big Crichton fan and I did NOT appreciate this movie. For starters, there was no novel for them to base it off of (even though they wouldn't have followed the novel very well.) Second, the writer obviously knew very little about the subject he wrote about seeing as the paleontologists talk in layman terms throughout the entire film, not giving it the scientific facts that add to its predecesor. Thirdly, and this one isn't all THAT big of deal, but the graphics and robot interaction was terrible. When they changed from one to the other, it wasn't very gradual or subtle. The skin looked way too plastic on the robot. This film should've been made by the original creators, then maybe it would've been better.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "On this IMDbrief, we take a look at how the original dino crew of Jeff Goldblum, Sam Neill, and Laura Freaking Dern might fit into 'Jurassic World 3' and what the film could be about.",
+        "duration": "PT3M5S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1839120153",
+        "name": "How the Original 'Jurassic Park' Cast Fits Into the New 'Jurassic World'",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzNiMTE5ZTItZmZmMC00M2E5LWExZGYtYjAzMDZlMTM5NTkyXkEyXkFqcGdeQW1yb2Njbw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzNiMTE5ZTItZmZmMC00M2E5LWExZGYtYjAzMDZlMTM5NTkyXkEyXkFqcGdeQW1yb2Njbw@@._V1_.jpg",
+        "uploadDate": "2019-09-26T00:45:48.973Z",
+        "url": "https://www.imdb.com/video/vi1839120153/"
+    },
+    "url": "/title/tt0163025/"
+}

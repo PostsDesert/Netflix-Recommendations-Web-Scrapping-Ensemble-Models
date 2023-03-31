@@ -1,0 +1,91 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mark Dacascos",
+            "url": "/name/nm0001092/"
+        },
+        {
+            "@type": "Person",
+            "name": "Emily Lloyd",
+            "url": "/name/nm0000503/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Peña",
+            "url": "/name/nm0671567/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 697,
+        "ratingValue": 5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0013199/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0709113/"
+        },
+        {
+            "@type": "Person",
+            "name": "Craig Hamann",
+            "url": "/name/nm0357326/"
+        }
+    ],
+    "datePublished": "1998-11-17",
+    "description": "A man who has just been released from prison vows to start a new life, but is put to the test when an old cellmate appears.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Craig Hamann",
+            "url": "/name/nm0357326/"
+        }
+    ],
+    "duration": "PT1H44M",
+    "genre": [
+        "Crime",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNThhZWM2N2QtN2FhOC00ZGM1LTkwMzgtYmZjNTliMGY4OWIzXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+    "keywords": "gay love,gay subtext,gay,gay protagonist,sexuality",
+    "name": "Boogie Boy",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Homer-59"
+        },
+        "dateCreated": "1999-05-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0118748/"
+        },
+        "name": "Intense drama with a strong screenplay, strong cast",
+        "reviewBody": "Since Pulp Fiction, you haven't been able to throw a rock without hitting a video box emblazoned with such hyperbole as \"more stunning than Pulp Fiction\", \"in the spirit of Pulp Fiction\" and so on (and on). So it is tempting to ignore BOOGIE BOY, what with its box featuring a very familiar image of a tough guy wielding a pistol, plus the blurb \"from the Producer of Pulp Fiction\". But to pass up this film would be a big mistake. While it is true that BOOGIE BOY does ALMOST fit into the subgenre of Tarantino-esqe action films that have sprung up in recent years, it has an originality and a soul to its story that the Pulp-wannabes on the shelf have no idea how to achieve. Screenwriter/director Craig Hamann presents a world so dirty, so mean, so grounded in reality, that the viewer slowly slips into the story, not immediately realizing that he is being told a tale of almost operatic drama. Elements of good and evil, betrayal and hope, all unfold neatly, aided by the characters, both mundane and off-the-wall, who turn the protagonist's attempt at redemption into an almost Oz-like journey. Viewers wanting a mindless action film should look elsewhere, as there are no car chases or tacked-on gun battles here. The violence in the film is strictly rooted to the story being told, and when it surfaces it is sudden, swift, and brutal, with none of the sanitization or sensationalization that big-budget films so inappropriately prefer. Also present is a strong anti-drug message, delivered without any traditional Hollywood preachy moralizing. Instead, the almost tangible misery involved in the daily lives of several of the characters speaks much more eloquently on the subject. No one will ever mistake any of the drug use scenes in this film of being glamorous.\n\nCraig Hamann, working with a small budget and a cast of mainly less well-known actors (Fredric Forrest being the main exception), has put together a film in which drama and action blend smoothly. It's a production ambitious but without pretention, which sets out to tell its story simply but with style, and succeeds admirably. BOOGIE BOY is a thriller that doesn't let go, and a must-see for viewers who don't mind a little thinking included in an evening's entertainment. One can only hope to see more from the talented Mr. Hamann, as he shows all the signs of being a filmmaker who doesn't feel it necessary to pander to his audience. The Hollywood film community could use more like him."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Imperial Entertainment",
+        "duration": "PT2M24S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2327511321",
+        "name": "Boogie Boy",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODVhNjcxNDMtYWM1ZC00YmJiLWE1MGEtYTEyN2JiMDJkZDI2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODVhNjcxNDMtYWM1ZC00YmJiLWE1MGEtYTEyN2JiMDJkZDI2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:45:19Z",
+        "url": "https://www.imdb.com/video/vi2327511321/"
+    },
+    "url": "/title/tt0118748/"
+}

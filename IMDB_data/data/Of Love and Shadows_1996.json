@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Antonio Banderas",
+            "url": "/name/nm0000104/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jennifer Connelly",
+            "url": "/name/nm0000124/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stefania Sandrelli",
+            "url": "/name/nm0762248/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2270,
+        "ratingValue": 5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0033800/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0074399/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0022594/"
+        },
+        {
+            "@type": "Person",
+            "name": "Isabel Allende",
+            "url": "/name/nm0021196/"
+        },
+        {
+            "@type": "Person",
+            "name": "Donald Freed",
+            "url": "/name/nm0293105/"
+        }
+    ],
+    "datePublished": "1996-05-10",
+    "description": "Chile 1973 is ruled by the dictator Pinochet. The wealthy don't see the violence, terror, executions etc. including Irene. She's engaged to an officer in the fascist military. She meets Francisco who opens her eyes to truth and love.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Betty Kaplan",
+            "url": "/name/nm0438201/"
+        }
+    ],
+    "duration": "PT1H43M",
+    "genre": [
+        "Drama",
+        "Romance",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTIwOTMxMjk4OV5BMl5BanBnXkFtZTcwMzUzODkyMQ@@._V1_.jpg",
+    "keywords": "chile,lust,dictatorship,based on novel,resistance movement",
+    "name": "Of Love and Shadows",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "diogo23"
+        },
+        "dateCreated": "2002-06-22",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0110712/"
+        },
+        "name": "A good movie",
+        "reviewBody": "Isabel Allende is not the greatest writer of all time, still she has a magic touch, of that there is no doubt..A woman that has fought all of her life, gives us the pleasure to enjoy her experience in this beautiful story (as are all of her stories), that brings together two great actors (Antonio and Jennifer), and almost makes us want to be part of it,despite the danger..these were the true heroes of our time, i think that's what she's really stating, by using simplicity as a way of being, a way of life, and showing us that it can also be beautiful.. A true love story.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT1M4S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4142898713",
+        "name": "Of Love and Shadows",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMGYwMjE1YzUtY2MxYi00NzM5LWFlMjctY2RkYTFmYzhhN2M1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMGYwMjE1YzUtY2MxYi00NzM5LWFlMjctY2RkYTFmYzhhN2M1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-10-26T03:39:16Z",
+        "url": "https://www.imdb.com/video/vi4142898713/"
+    },
+    "url": "/title/tt0110712/"
+}

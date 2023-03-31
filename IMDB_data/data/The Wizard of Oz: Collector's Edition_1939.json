@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Judy Garland",
+            "url": "/name/nm0000023/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frank Morgan",
+            "url": "/name/nm0604656/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ray Bolger",
+            "url": "/name/nm0001961/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 407294,
+        "ratingValue": 8.1,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007143/"
+        },
+        {
+            "@type": "Person",
+            "name": "Noel Langley",
+            "url": "/name/nm0486538/"
+        },
+        {
+            "@type": "Person",
+            "name": "Florence Ryerson",
+            "url": "/name/nm0753249/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edgar Allan Woolf",
+            "url": "/name/nm0941138/"
+        }
+    ],
+    "datePublished": "1939-08-25",
+    "description": "Young Dorothy Gale and her dog Toto are swept away by a tornado from their Kansas farm to the magical Land of Oz, and embark on a quest with three new friends to see the Wizard, who can return her to her home and fulfill the other...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Victor Fleming",
+            "url": "/name/nm0281808/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Cukor",
+            "url": "/name/nm0002030/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mervyn LeRoy",
+            "url": "/name/nm0503777/"
+        }
+    ],
+    "duration": "PT1H42M",
+    "genre": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjUyMTc4MDExMV5BMl5BanBnXkFtZTgwNDg0NDIwMjE@._V1_.jpg",
+    "keywords": "witch,wizard of oz,tornado,evil witch,wizard",
+    "name": "The Wizard of Oz",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Snow Leopard"
+        },
+        "dateCreated": "2004-09-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0032138/"
+        },
+        "name": "Still Has Its Magic",
+        "reviewBody": "Judy Garland's portrayal of Dorothy, Dorothy's oddball Oz friends, \"Somewhere Over the Rainbow\", and the rest of this fine production of \"The Wizard of Oz\" have lost little of their magic over the years. While it has become oddly fashionable in recent years to deride this kind of classic, innocent fantasy, the movie itself has aged very well, and it is likely to retain an appreciative audience for some time to come.\n\nThere's no doubt that part of the appeal of the story and the characters comes from them being such old friends to so many cinema fans, but there are also good reasons why they have endured for so long, and have been able to hold up even after becoming so familiar. Although Dorothy is not a particularly complex character, she represents an innocent but deep yearning that is easy to identify with. Likewise, the 'Oz' characters are bizarre enough to remain interesting, but there is a core of substance that again is easy to believe in. Who does not feel that he or she could use at least one of the things that Dorothy's friends want?\n\nThe adaptation from the original story is done quite well, making fine choices for the characters and episodes that would work on film. The settings and visual effects may not impress the devotees of today's computer imagery, but in their time they certainly demonstrated a great deal of skill and planning, and even now, in their own way they are more believable than are most of the computer tricks that have become so overused.\n\nThe popular story has also been used for a number of more recent adaptations, and some of them have had some good points of their own. But this Wizard remains by far the most wonderful of the versions of the classic tale."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer 2 for The Wizard of Oz",
+        "duration": "PT2M20S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2210441241",
+        "name": "The Wizard of Oz: 75th Anniversary",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOWIxZDgyMTgtYWQ0Ny00Y2Y3LTkwMzEtOTY2MTM3ODY0YzkxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOWIxZDgyMTgtYWQ0Ny00Y2Y3LTkwMzEtOTY2MTM3ODY0YzkxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2013-11-07T08:35:15Z",
+        "url": "https://www.imdb.com/video/vi2210441241/"
+    },
+    "url": "/title/tt0032138/"
+}

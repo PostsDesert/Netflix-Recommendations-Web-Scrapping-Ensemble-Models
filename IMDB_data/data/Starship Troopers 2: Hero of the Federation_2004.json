@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Billy Brown",
+            "url": "/name/nm0113117/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Burgi",
+            "url": "/name/nm0121404/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kelly Carlson",
+            "url": "/name/nm1023018/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 23713,
+        "ratingValue": 3.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0101148/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0044098/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edward Neumeier",
+            "url": "/name/nm0627159/"
+        }
+    ],
+    "datePublished": "2004-05-04",
+    "description": "In the sequel to Paul Verhoeven's loved/reviled sci-fi film, a group of troopers taking refuge in an abandoned outpost after fighting alien bugs, failing to realize that more danger lays in wait.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Phil Tippett",
+            "url": "/name/nm0864138/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOWNiNzRlOWMtNzY2Yi00M2MzLWE0MGEtYzM0NmZhODk3NjUyXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_.jpg",
+    "keywords": "cheating boyfriend,bare chested male,tough guy,hero,sole survivor",
+    "name": "Starship Troopers 2: Hero of the Federation",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "superduperdoug"
+        },
+        "dateCreated": "2004-06-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0367093/"
+        },
+        "name": "Dripping with Low-Budget Feel.",
+        "reviewBody": "I mean, really now. Flood the market with a good name... 2 Million people each spending 3 dollars to rent this movie, and you have made your budget. Easy right. Easy for the filmmaker. This movie was the equivalent of putting out a LOTR movie made with stick figures. Just terrible. I'm sorry, but there is something seriously unethical about doing this sort of thing to the consumer... But they don't care, all they want is stupid money.\n\nAnd that's a good hour and 20 minutes of my life I'll never get back... Thanks. Seriously consider not buying, or renting this movie. This movie was quite possibly one of the worst movies I have ever seen in my life. Yet because of this it still lingers in my mind. Not cool. And I will forever remember the horridness of it. Unnecessarily gory, horribly dark action scenes where you can not see more than 3 bugs at a time, and really, really, really cheesy guns... \"Hey, let's fire light at the bugs, maybe that will scare them!!!\" \"OK!!!11!!1!\" Like really, are blanks that expensive?",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 1,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT1M5S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi294912281",
+        "name": "Starship Troopers 2",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMDk5NDcxNDUtOWEyNS00NmU4LWE4NWQtMTVmMTBjMDExMTU2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDk5NDcxNDUtOWEyNS00NmU4LWE4NWQtMTVmMTBjMDExMTU2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:53:39Z",
+        "url": "https://www.imdb.com/video/vi294912281/"
+    },
+    "url": "/title/tt0367093/"
+}

@@ -1,0 +1,96 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Richard E. Grant",
+            "url": "/name/nm0001290/"
+        },
+        {
+            "@type": "Person",
+            "name": "Samantha Mathis",
+            "url": "/name/nm0000526/"
+        },
+        {
+            "@type": "Person",
+            "name": "Judi Dench",
+            "url": "/name/nm0001132/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5399,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0019383/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0028557/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0103414/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tim Sullivan",
+            "url": "/name/nm0003201/"
+        }
+    ],
+    "datePublished": "1996-03-22",
+    "description": "A young American woman becomes a nanny in the home of a recent British widower.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Tim Sullivan",
+            "url": "/name/nm0003201/"
+        }
+    ],
+    "duration": "PT1H50M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTI0YzJjNWQtZjAwZi00OTNmLThiNDgtODY2M2QxZGI4NTAwXkEyXkFqcGdeQXVyMTczNjQwOTY@._V1_.jpg",
+    "keywords": "baby,nanny,lawyer,homeless man,widower",
+    "name": "Jack & Sarah",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "UACW"
+        },
+        "dateCreated": "2001-06-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0113448/"
+        },
+        "name": "Heart-Warming",
+        "reviewBody": "This movie start getting promos about the same time as French Kiss but was held back for release in my area of the world presumably because of the Ryan/Klein comedy which local powers felt would steal its audience. Some half year later I was invited to a preview showing. Most of the audience were little old ladies from 30 on upwards - not that the audience was consistently old, but it definitely had that kind of feeling. The experience was also unique in that the movie got a standing ovation at the end. It's just a comedy, but it's more than that too: It's a very heart-warming comedy, and to my way of thinking is all that the British 'Jurassic Park' (Four Weddings and a Funeral) was supposed to be - very British, but a lot better view. Critics say it's Grant which provides the surprise element, as he never reveals what is coming next, but there are a lot of cute plot twists here as well - not in the least the final closing titles scene."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A young American woman becomes a nanny in the home of a recent British widower.",
+        "duration": "PT29S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2317271833",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzY4ZTViYjMtNTU5Yy00ZWNjLWExYjktMDNiYjhkOWM1ODMyXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzY4ZTViYjMtNTU5Yy00ZWNjLWExYjktMDNiYjhkOWM1ODMyXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2022-01-28T22:36:13.079Z",
+        "url": "https://www.imdb.com/video/vi2317271833/"
+    },
+    "url": "/title/tt0113448/"
+}

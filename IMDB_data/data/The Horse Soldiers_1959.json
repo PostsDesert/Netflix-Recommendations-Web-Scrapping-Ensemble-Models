@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Wayne",
+            "url": "/name/nm0000078/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Holden",
+            "url": "/name/nm0000034/"
+        },
+        {
+            "@type": "Person",
+            "name": "Constance Towers",
+            "url": "/name/nm0869927/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 10911,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0011112/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0060151/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Lee Mahin",
+            "url": "/name/nm0536941/"
+        },
+        {
+            "@type": "Person",
+            "name": "Martin Rackin",
+            "url": "/name/nm0705228/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harold Sinclair",
+            "url": "/name/nm0801623/"
+        }
+    ],
+    "description": "In 1863, a Union outfit is sent behind Confederate lines in Mississippi to destroy enemy railroads but a captive southern belle and the unit's doctor cause frictions within ranks.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Ford",
+            "url": "/name/nm0000406/"
+        }
+    ],
+    "duration": "PT2H",
+    "genre": [
+        "Adventure",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BN2ZjMzUxN2MtOGUwZS00ZTkyLWE2OGUtMGM4MjY3NzNiZDBhXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+    "keywords": "u.s. cavalry,confederate soldier,union army,union soldier,confederate army",
+    "name": "The Horse Soldiers",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "utgard14"
+        },
+        "dateCreated": "2014-05-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0052902/"
+        },
+        "name": "\"With all due respect, ma'am, I'm gonna get the hell outta here.\"",
+        "reviewBody": "Union cavalry officer John Wayne leads his men through Confederate Mississippi hoping to reach Baton Rouge. Along the way, he has to deal with Rebel soldiers and spies, as well as clashing with doctor William Holden. While not one of director John Ford's best, this is an interesting movie for a few reasons. First it's a film about the cavalry's role in the Civil War, which is rarely discussed. Second, it takes place largely in Mississippi. Most Civil War movies that take place in the South generally focus on Georgia, Tennessee, Virginia, etc. This is one of the few that I can think of to deal with the war in Mississippi. Third, this is John Ford's only Civil War film. He did direct a small segment of How the West Was Won that took place during the war and he certainly had many characters affected by their Civil War experiences in his westerns. But this is the only full movie of his that actually takes place during the war itself.\n\nDuke is fine. It's not one of his more memorable roles, though that's more the fault of the script than his performance. William Holden plays an army surgeon Duke is forced to take along with him. In all honesty, Holden's character seems completely tacked-on to the plot. He could've been removed entirely without upsetting the film much. It might have even improved it. Constance Towers is fun as a Southern belle the soldiers have to take with them on their march. At first she seems flighty but soon shows there's more to her. She also has one of the most provocative scenes from any Ford film, where she bends down in front of John Wayne with her cleavage exposed, offering him some chicken and saying \"Would you like a leg or a breast?\" She's probably the only standout in the film. It's not one of Ford's best. It's watchable and interesting enough, but also overlong and familiar in tone to other cavalry movies I've seen, despite the change in locale. Obviously Wayne and Ford buffs will want to check it out.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "In 1863, a Union outfit is sent behind Confederate lines in Mississippi to destroy enemy railroads but a captive southern belle and the unit's doctor cause frictions within ranks.",
+        "duration": "PT1M23S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1701428761",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjFkZDYwZWYtZGM5NC00Mzg4LTkwZTYtNDA2OWI2ZjM0MWQ5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjFkZDYwZWYtZGM5NC00Mzg4LTkwZTYtNDA2OWI2ZjM0MWQ5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-08-04T10:41:48.991Z",
+        "url": "https://www.imdb.com/video/vi1701428761/"
+    },
+    "url": "/title/tt0052902/"
+}

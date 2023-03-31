@@ -1,0 +1,85 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Cary Grant",
+            "url": "/name/nm0000026/"
+        },
+        {
+            "@type": "Person",
+            "name": "Deborah Kerr",
+            "url": "/name/nm0000039/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Mitchum",
+            "url": "/name/nm0000053/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5439,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0151409/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hugh Williams",
+            "url": "/name/nm0930776/"
+        },
+        {
+            "@type": "Person",
+            "name": "Margaret Vyner",
+            "url": "/name/nm0904553/"
+        }
+    ],
+    "datePublished": "1960-12-23",
+    "description": "Victor and Hilary have guided tours in their English mansion. A US oil tycoon \"bumps\" into Hilary during a tour and charms his way into her heart. Meanwhile, Hattie pursues Victor.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Stanley Donen",
+            "url": "/name/nm0002045/"
+        }
+    ],
+    "duration": "PT1H44M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjFlNzJiZjItZDFjNS00YjQ1LWI5ZDktMjFlYmVjMjAwOTQ0XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "keywords": "millionaire,screwball comedy,english estate,butler,poem",
+    "name": "The Grass Is Greener",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "harry-76"
+        },
+        "dateCreated": "2002-12-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0053877/"
+        },
+        "name": "Cast Sparkles",
+        "reviewBody": "Drawing room comedies seem to be a thing of the past. Their demise was apparently one reason Cary Grant decided to thin down his late career: his kind of parts just weren't being written anymore. \n\nBy the time this film version of a stage hit came out in 1960, the genre had just about run its course. \n\nHow fortunate to have four full-fledged stars take on the leading roles. What is Robert Mitchum doing in an English castle, interacting with \"upper class royalty\"? \n\nFor one thing, he plays a Texas millionaire--an impressive entree most places. Then, the rest of the cast are all transported Brits, so long established in America as to be de facto Americans. They can still deliver their clipped English lines, thought, with great flair.\n\n(\"So, now you're a millionare, and I'm growing mushrooms . . . oh well, that's the way the world wags.\")\n\nDeborah Kerr is bright and vulnerable, Jean Simmons, pert and sophisticated, Robert Mitchum, cool and crafty, and Cary Grant urbane and witty. It's fun to see this quartet trading double entendres and quaint quips. \n\n Stanley Donnen does his best with a stagy script, relying on his experienced cast to carry off the humor and action. It succeeds nicely, and its downright fun to follow their stylish jousts.\n\nTea, brandy, or champagne?",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0053877/"
+}

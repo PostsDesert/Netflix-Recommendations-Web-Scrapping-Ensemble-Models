@@ -1,0 +1,56 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Stefanianna Christopherson",
+            "url": "/name/nm0160652/"
+        },
+        {
+            "@type": "Person",
+            "name": "Casey Kasem",
+            "url": "/name/nm0440487/"
+        },
+        {
+            "@type": "Person",
+            "name": "Julie McWhirter",
+            "url": "/name/nm0574768/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 14,
+        "ratingValue": 7.8,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0064773/"
+        },
+        {
+            "@type": "Person",
+            "name": "Larz Bourne",
+            "url": "/name/nm0100072/"
+        }
+    ],
+    "description": "Scooby and his owner have great mischievous mystery as them go with frights and more.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Charles Nichols",
+            "url": "/name/nm0629363/"
+        }
+    ],
+    "duration": "PT2H",
+    "genre": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTAxZmQ4MjQtYWRhYS00NTlhLWI0NzItMzlkNTdjNjk3MDU2XkEyXkFqcGdeQXVyNjkxMzE4NjM@._V1_.jpg",
+    "name": "Scooby-Doo's Spookiest Tales VHS",
+    "url": "/title/tt17009206/"
+}

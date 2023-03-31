@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dwayne Johnson",
+            "url": "/name/nm0425005/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steven Brand",
+            "url": "/name/nm0104526/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Clarke Duncan",
+            "url": "/name/nm0003817/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 141238,
+        "ratingValue": 5.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0049706/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0075836/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen Sommers",
+            "url": "/name/nm0814085/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jonathan Hales",
+            "url": "/name/nm0355054/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Osborne",
+            "url": "/name/nm0651758/"
+        }
+    ],
+    "datePublished": "2002-04-19",
+    "description": "A desert warrior rises up against the evil army that is destroying his homeland. He captures the enemy's key sorcerer, takes her deep into the desert and prepares for a final showdown.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Chuck Russell",
+            "url": "/name/nm0751080/"
+        }
+    ],
+    "duration": "PT1H32M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjkxNTAwNTQ0M15BMl5BanBnXkFtZTYwMTQwMjM3._V1_.jpg",
+    "keywords": "sorceress,desert,king,showdown,white camel",
+    "name": "The Scorpion King",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "lgilbertom"
+        },
+        "dateCreated": "2003-02-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0277296/"
+        },
+        "name": "This is not exactly the best movie in the world but ...",
+        "reviewBody": "Scorpion King is not exactly the best movie in the world but have a good scenes of action is reasonable fun and good to watch. Don't expected a sequel of the Mummy, this movie is more like Connan in the Desert, than the Mummy. However, it's a good movie to see, but i advise you to watch in the cable TV.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0277296/"
+}

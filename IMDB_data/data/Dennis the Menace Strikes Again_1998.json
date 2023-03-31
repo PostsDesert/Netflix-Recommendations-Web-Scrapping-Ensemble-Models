@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Don Rickles",
+            "url": "/name/nm0725543/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Kennedy",
+            "url": "/name/nm0001421/"
+        },
+        {
+            "@type": "Person",
+            "name": "Justin Cooper",
+            "url": "/name/nm0178176/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4756,
+        "ratingValue": 4.3,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0014629/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0064773/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hank Ketcham",
+            "url": "/name/nm0450477/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeff Schechter",
+            "url": "/name/nm0770360/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tim McCanlies",
+            "url": "/name/nm0564827/"
+        }
+    ],
+    "datePublished": "1998-07-14",
+    "description": "After a failed attempt to find the perfect birthday present for Mr Wilson, the mischievous little terror, Dennis, tries to save him from a pair of swindlers and their bogus youth remedies. Will he manage to keep their friendship s...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Charles T. Kanganis",
+            "url": "/name/nm0304395/"
+        }
+    ],
+    "duration": "PT1H15M",
+    "genre": [
+        "Comedy",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc1MzgwNjg5Ml5BMl5BanBnXkFtZTcwNzg3MDIyMQ@@._V1_.jpg",
+    "keywords": "family relationships,problem child,birthday,picnic,dog",
+    "name": "Dennis the Menace Strikes Again!",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "myaddress8248"
+        },
+        "dateCreated": "2002-08-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0129868/"
+        },
+        "name": "not as good as the first",
+        "reviewBody": "The first one was practically a classic. i remember being Mason Gamble ( the person who played Dennis in the first one ) age when it came out. and i always remembered \"Hey mr. wiiiiiilson!\". I saw this one and i was thinking \"um, okay???\". If you've seen the first one starring Gamble, this one won't be as intertaining."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT1M8S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3718316313",
+        "name": "Dennis The Menace Strikes Again",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BN2EzYTNlZTItNGQ4Ny00MjRiLTg1MjYtMDJhYmZjNjlkMGU3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BN2EzYTNlZTItNGQ4Ny00MjRiLTg1MjYtMDJhYmZjNjlkMGU3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:50:17Z",
+        "url": "https://www.imdb.com/video/vi3718316313/"
+    },
+    "url": "/title/tt0129868/"
+}

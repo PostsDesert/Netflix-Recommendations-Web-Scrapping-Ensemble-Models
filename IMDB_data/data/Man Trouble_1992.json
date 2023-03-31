@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jack Nicholson",
+            "url": "/name/nm0000197/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ellen Barkin",
+            "url": "/name/nm0000289/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harry Dean Stanton",
+            "url": "/name/nm0001765/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3335,
+        "ratingValue": 4.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0039152/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0073504/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0069454/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carole Eastman",
+            "url": "/name/nm0247628/"
+        }
+    ],
+    "datePublished": "1992-07-17",
+    "description": "A sleazy but affable guard dog trainer is blackmailed to steal a manuscript for a tell-all book from one of his clients.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bob Rafelson",
+            "url": "/name/nm0706182/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOGUyOWNhNzktZmFmMi00ZTA0LTlmNTQtY2Q1MzE4NjUwODJhXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "neo screwball comedy,looking at oneself in a mirror,seductive behavior,animated opening credits,disney",
+    "name": "Man Trouble",
+    "original_info": {
+        "id": "Man Trouble_1992",
+        "name": "Man Trouble",
+        "year": "1992"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Amnes"
+        },
+        "dateCreated": "2005-06-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0104804/"
+        },
+        "name": "Should have been good...",
+        "reviewBody": "With the talent involved here, it should have been a much better film than it is. Music by Georges Delarue, director Bob Rafelson...\n\nBasically it's a lightweight romantic comedy which is attempting to emulate classics comedies about a rich girl meets non-rich guy (think Katherine Hepburn) but it just doesn't have the class or punch of earlier classics in this genre.\n\nThe cheap looking opening credits/cartoon are the first indication that something is amiss here. The first half is quite OK but after that, you just don't care enough about these people to stay with the film. There's something incredibly shallow about all those involved and the 'comedy' is just too obvious...problem animal, hispanic housekeeper, mismatched/deceived couples.\n\nI don't think it's until Harry Dean Stanton makes an appearance quite late in the film that you think, aaah, now we've got a movie. But it's all too late.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from 20th Century Fox Home Entertainment",
+        "duration": "PT32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi915734809",
+        "name": "Man Trouble",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjJkNDMwODEtMzM5NS00NzAyLTg1NDctMDM1MDVmOTg2MzRmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjJkNDMwODEtMzM5NS00NzAyLTg1NDctMDM1MDVmOTg2MzRmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:57:09Z",
+        "url": "https://www.imdb.com/video/vi915734809/"
+    },
+    "url": "/title/tt0104804/"
+}

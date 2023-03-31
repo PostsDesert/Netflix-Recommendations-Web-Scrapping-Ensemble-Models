@@ -1,0 +1,64 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "David Blaine",
+            "url": "/name/nm0086145/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robin Roles",
+            "url": "/name/nm7308004/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 205,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "TV-14",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0090849/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0090850/"
+        }
+    ],
+    "description": "Fearless is a collection of David Blaine's three TV specials, \"Street Magic,\" \"Magic Man,\" and \"Frozen In Time.\"",
+    "duration": "PT1H50M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTExODA1NTU1NzJeQTJeQWpwZ15BbWU3MDE0NjA0MjE@._V1_.jpg",
+    "keywords": "street magician,endurance,magic,compilation,card trick",
+    "name": "David Blaine: Fearless",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "naturamagyss"
+        },
+        "dateCreated": "2004-07-05",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0349336/"
+        },
+        "name": "Opened my mind and with a magical enigma~",
+        "reviewBody": "Watching this kind of magic, I'm at a loss to know how much of it is trickery and how much is spiritual (real energy magic)). I guess to Blaine, they are one and the same. And that is what gives so much interest and life to this collection of stunts and tricks we witness in this video.\n\nBlaine is quite compelling as a performer, stemming from his own enigmatic character. He looks and acts the part of a \"mind- altering\" powerful magician. \n\nThis is a good introduction to his work; it raised my curiosity to read his book and watch his other performances.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0349336/"
+}

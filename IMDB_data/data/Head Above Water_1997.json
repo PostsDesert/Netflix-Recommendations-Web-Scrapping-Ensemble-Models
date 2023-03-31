@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Harvey Keitel",
+            "url": "/name/nm0000172/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cameron Diaz",
+            "url": "/name/nm0000139/"
+        },
+        {
+            "@type": "Person",
+            "name": "Craig Sheffer",
+            "url": "/name/nm0001729/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7923,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0067785/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0012524/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eirik Ildahl",
+            "url": "/name/nm0407602/"
+        },
+        {
+            "@type": "Person",
+            "name": "Geir Eriksen",
+            "url": "/name/nm0259255/"
+        },
+        {
+            "@type": "Person",
+            "name": "Theresa Marie",
+            "url": "/name/nm0547312/"
+        }
+    ],
+    "datePublished": "1997-06-25",
+    "description": "A prominent judge, his wife, her ex-lover, and their neighbor encounter a dead body that complicates their lives.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jim Wilson",
+            "url": "/name/nm0933604/"
+        }
+    ],
+    "duration": "PT1H32M",
+    "genre": [
+        "Comedy",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNmYwYmFlNGMtZjU2MC00MGVhLWI3OGEtYTQ2YzExZjg1NjFiXkEyXkFqcGdeQXVyMTk2ODQ2OA@@._V1_.jpg",
+    "keywords": "beach house,tied to a chair,gagged with a lime,bound and gagged,cement shoes",
+    "name": "Head Above Water",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "perfectbond"
+        },
+        "dateCreated": "2003-06-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0116502/"
+        },
+        "name": "Very entertaining dark comedy",
+        "reviewBody": "I really enjoyed the performances in this film. Harvey Keitel again proves his tremendous range. Cameron Diaz is a very talented comedic actress and her makeup is very skillfully applied in this film. Billy Zane is again a third wheel (see Dead Calm and Titanic) but this time it's a comedy. The plot twists and turns are great fun to follow. 8/10.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A prominent judge, his wife, her ex-lover, and their neighbor encounter a dead body that complicates their lives.",
+        "duration": "PT1M53S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2234499865",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOGY4YzU1NWUtMWVjYi00ODg4LWFjMmMtOTkwZjM0YTMxODVjXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGY4YzU1NWUtMWVjYi00ODg4LWFjMmMtOTkwZjM0YTMxODVjXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+        "uploadDate": "2022-01-19T20:47:48.033Z",
+        "url": "https://www.imdb.com/video/vi2234499865/"
+    },
+    "url": "/title/tt0116502/"
+}

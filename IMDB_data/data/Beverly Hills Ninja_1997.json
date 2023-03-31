@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Chris Farley",
+            "url": "/name/nm0000394/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nicollette Sheridan",
+            "url": "/name/nm0001733/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robin Shou",
+            "url": "/name/nm0795225/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 42526,
+        "ratingValue": 5.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0070636/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0220969/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0071430/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Feldberg",
+            "url": "/name/nm0270936/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mitchell Klebanoff",
+            "url": "/name/nm0458517/"
+        }
+    ],
+    "datePublished": "1997-01-17",
+    "description": "A man tries to rescue a woman with a little help from his half brother.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Dennis Dugan",
+            "url": "/name/nm0240797/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Action",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNGU1NzQ1ZmItZGVmNC00NWQ4LWEwYTYtOTc4NWE1MmY0YTk2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "ninja,beverly hills california,clumsiness,counterfeiting,adoptive father adopted son relationship",
+    "name": "Beverly Hills Ninja",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Kirpianuscus"
+        },
+        "dateCreated": "2019-06-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0118708/"
+        },
+        "name": "Chris Farley",
+        "reviewBody": "It could be a comedy like many others. Chris Farley performance does the difference. His acting, used by a good script, fascination of Orient and the love story, the rivalry and the kicks inspired used are the good points of this lovely film who gives many, serious occasions of laughing and fascinating easy trip in exotic universe.\n\nSo, Chris Farley. As basic motif for not ignore Beverly Hills Ninja."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT2M10S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi112853273",
+        "name": "Beverly Hills Ninja",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTI0NjBlOGMtYWUwYS00ZjMyLWFlN2YtMjNjNTYyMTYwZWNjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTI0NjBlOGMtYWUwYS00ZjMyLWFlN2YtMjNjNTYyMTYwZWNjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:32:20Z",
+        "url": "https://www.imdb.com/video/vi112853273/"
+    },
+    "url": "/title/tt0118708/"
+}

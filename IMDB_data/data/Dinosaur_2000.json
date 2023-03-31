@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "D.B. Sweeney",
+            "url": "/name/nm0000665/"
+        },
+        {
+            "@type": "Person",
+            "name": "Julianna Margulies",
+            "url": "/name/nm0000523/"
+        },
+        {
+            "@type": "Person",
+            "name": "Samuel E. Wright",
+            "url": "/name/nm0942787/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 63244,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0008970/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0075307/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0074039/"
+        },
+        {
+            "@type": "Person",
+            "name": "Thom Enriquez",
+            "url": "/name/nm0258059/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Harrison",
+            "url": "/name/nm0365666/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Nelson Jacobs",
+            "url": "/name/nm0414608/"
+        }
+    ],
+    "datePublished": "2000-05-19",
+    "description": "An orphaned dinosaur raised by lemurs joins an arduous trek to a sanctuary after a meteorite shower destroys his family home.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Eric Leighton",
+            "url": "/name/nm0500343/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ralph Zondag",
+            "url": "/name/nm0957798/"
+        }
+    ],
+    "duration": "PT1H22M",
+    "genre": [
+        "Animation",
+        "Adventure",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZWQ1NTZjMjUtODNmZS00NTVhLWFhM2ItNWZiOTdjMzdhZTY2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "dinosaur,carnotaurus,lemur,egg,meteor",
+    "name": "Dinosaur",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "SevenStitches"
+        },
+        "dateCreated": "2006-05-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0130623/"
+        },
+        "name": "Could have been the best. As it is, its the prettiest.",
+        "reviewBody": "When i heard that the original screenplay o this film planned no dialogue at all for the characters, i became even more disappointed at the end result. While a very good film Dinosaur certainly is, it could have been incredible. The visual effects alone are a sight to behold, never more so than in the opening sequence. This is probably the best stretch in the whole film for me; it's unsanitised by talking animals and genuinely feels like a prehistoric world (ignoring the multitude of historical inaccuracies like grass in the Mesozoic era, particular dinosaurs living side by side). Once the animals start to talk the film is bogged down by the shortcomings of the script, which is idealistic and morally exposition heavy, for the sake of the target audience. It also detracts from the illusion the film so effortlessly produces on the screen at the start; it all just becomes so standard an routine when it seemed to be so much more. With a weak script, the visuals no longer arrest like they did before and would have done had nobody talked. Without the amazing cgi, this could have almost been straight to video.\n\nI say almost because despite the shortcomings Dinosaur is a good movie; it's at times thrilling, exhilarating, touching and surprisingly intense, for a movie with a such a routine story. Had it had a better script it could have been great. Had it had no dialogue at all it could have been a classic and perhaps one of Disney's finest. The era of risk taking and inventiveness for the company seems to be at an end, or at least under suppression. Damn you Eisner! They were onto something this time.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0130623/"
+}

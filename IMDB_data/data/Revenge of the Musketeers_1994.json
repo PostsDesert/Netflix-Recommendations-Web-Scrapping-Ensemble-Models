@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sophie Marceau",
+            "url": "/name/nm0000521/"
+        },
+        {
+            "@type": "Person",
+            "name": "Philippe Noiret",
+            "url": "/name/nm0634159/"
+        },
+        {
+            "@type": "Person",
+            "name": "Claude Rich",
+            "url": "/name/nm0723623/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3459,
+        "ratingValue": 5.8,
+        "worstRating": 1
+    },
+    "alternateName": "Revenge of the Musketeers",
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0028557/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0008195/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0069857/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michel Léviant",
+            "url": "/name/nm0529706/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jean Cosmos",
+            "url": "/name/nm0181924/"
+        },
+        {
+            "@type": "Person",
+            "name": "Riccardo Freda",
+            "url": "/name/nm0292720/"
+        }
+    ],
+    "datePublished": "1994-08-24",
+    "description": "France, 1654: D'Artagnan's girl grows up in a convent. When the mother superior is murdered, Eloïse suspects a plan to murder the king and hopes to prevent this and revenge the murder by finding her father and the 3 musketeers.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bertrand Tavernier",
+            "url": "/name/nm0851724/"
+        }
+    ],
+    "duration": "PT2H5M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjNiNDExOGMtZTE1Yi00YTJiLTk3YzUtMTc3ODYzNjJiNGZkXkEyXkFqcGdeQXVyMjQzMzQzODY@._V1_.jpg",
+    "keywords": "falling off a horse,old age,sex scene,woman dresses as a man,king",
+    "name": "La fille de d'Artagnan",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "mwlthol"
+        },
+        "dateCreated": "1999-10-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0109798/"
+        },
+        "name": "Delighted",
+        "reviewBody": "This has got to be one of the best French films I have ever seen, the subtitles were pretty easy to read and the cast was supurb. A definite must see for anyone who liked Braveheart or Zorro.\n\nThe entire cast brought out the adventure and the comedy of the film - Great Swordplay, especially the classical beauty Sophie Marceau. This film deserves plenty of awards, the media should be buzzing about \"Revenge of the Musketeers\"."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT37S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi969973273",
+        "name": "Revenge of the Musketeers",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNGVlYmQ0NzMtN2RjZS00YjNjLTg3NzItNDYyNjdhZTBmYjgzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNGVlYmQ0NzMtN2RjZS00YjNjLTg3NzItNDYyNjdhZTBmYjgzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-10-26T03:43:20Z",
+        "url": "https://www.imdb.com/video/vi969973273/"
+    },
+    "url": "/title/tt0109798/"
+}

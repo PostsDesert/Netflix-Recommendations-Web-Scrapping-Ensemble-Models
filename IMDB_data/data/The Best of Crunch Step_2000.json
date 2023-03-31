@@ -1,0 +1,61 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Damon Albarn",
+            "url": "/name/nm0016332/"
+        },
+        {
+            "@type": "Person",
+            "name": "Graham Coxon",
+            "url": "/name/nm0990461/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alex James",
+            "url": "/name/nm0416262/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 243,
+        "ratingValue": 8.3,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0104935/"
+        }
+    ],
+    "datePublished": "2000-11-13",
+    "description": "A collection of Blur's music videos.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Dave Balfe",
+            "url": "/name/nm1597556/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dwight Clarke",
+            "url": "/name/nm1637760/"
+        },
+        {
+            "@type": "Person",
+            "name": "Grant Gee",
+            "url": "/name/nm0311532/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMzNjQ5NjMyM15BMl5BanBnXkFtZTcwNTA3MDM3Mg@@._V1_.jpg",
+    "keywords": "music video collection,singing,english,englishman,four word title",
+    "name": "The Best of Blur",
+    "url": "/title/tt0334944/"
+}

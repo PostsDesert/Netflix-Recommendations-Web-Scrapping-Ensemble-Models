@@ -1,0 +1,51 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 19,
+        "ratingValue": 5,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0365004/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sid Marcus",
+            "url": "/name/nm0546184/"
+        }
+    ],
+    "datePublished": "1936-09-04",
+    "description": "A Color Favorites cartoon from the Charles Mintz animation studios featuring a boy and girl comedy story, with music, set in Venice where the gondolas are seen traversing the Venetian canals.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Arthur Davis",
+            "url": "/name/nm0204190/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sid Marcus",
+            "url": "/name/nm0546184/"
+        }
+    ],
+    "duration": "PT8M",
+    "genre": [
+        "Animation",
+        "Short",
+        "Comedy"
+    ],
+    "keywords": "venetian,gondola,venice italy,surrealism,song",
+    "name": "In My Gondola",
+    "original_info": {
+        "id": "In Living Color: Season 4_1993",
+        "name": "In Living Color: Season 4",
+        "year": "1993"
+    },
+    "url": "/title/tt0148326/"
+}

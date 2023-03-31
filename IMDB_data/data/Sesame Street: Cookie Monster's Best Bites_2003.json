@@ -1,0 +1,76 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Frank Oz",
+            "url": "/name/nm0000568/"
+        },
+        {
+            "@type": "Person",
+            "name": "Caroll Spinney",
+            "url": "/name/nm0818973/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jerry Nelson",
+            "url": "/name/nm0625456/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 28,
+        "ratingValue": 8.1,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0060192/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christine Ferraro",
+            "url": "/name/nm0274160/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dave Johnson",
+            "url": "/name/nm1300142/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Korr",
+            "url": "/name/nm1014186/"
+        }
+    ],
+    "datePublished": "1995-09-12",
+    "description": "Welcome to a song-filled, smile-making, simply scrumptious video starring everyone's favorite Sesame Street connoisseur de crumbs: Cookie Monster!",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Ferraro",
+            "url": "/name/nm0274179/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jon Stone",
+            "url": "/name/nm0831968/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Henson",
+            "url": "/name/nm0001345/"
+        }
+    ],
+    "duration": "PT1H",
+    "genre": [
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTcxOTA1MDYwM15BMl5BanBnXkFtZTgwOTYwNTA2MDE@._V1_.jpg",
+    "name": "Sesame Street: Cookie Monster's Best Bites",
+    "url": "/title/tt1722633/"
+}

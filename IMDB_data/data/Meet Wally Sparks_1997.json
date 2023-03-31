@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Rodney Dangerfield",
+            "url": "/name/nm0001098/"
+        },
+        {
+            "@type": "Person",
+            "name": "Debi Mazar",
+            "url": "/name/nm0000529/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Ogden Stiers",
+            "url": "/name/nm0001773/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3672,
+        "ratingValue": 5.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0080130/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0331845/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0108317/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harry Basil",
+            "url": "/name/nm0059835/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rodney Dangerfield",
+            "url": "/name/nm0001098/"
+        }
+    ],
+    "datePublished": "1997-01-31",
+    "description": "Wally Sparks is a tabloid television show reporter, who's trying to boost ratings on his show. He goes to the Governor's mansion to uncover a sex scandal.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Peter Baldwin",
+            "url": "/name/nm0049975/"
+        }
+    ],
+    "duration": "PT1H45M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYzQxNzhkNzQtNjRiYy00ZGRhLWE0NDEtYzY4ZWEyN2Q1M2ViXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "conservative,crude humor,governor,scandal,screwball comedy",
+    "name": "Meet Wally Sparks",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jaws!"
+        },
+        "dateCreated": "1999-09-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0119644/"
+        },
+        "name": "treated bad by critics and other people",
+        "reviewBody": "i thought it was a funny movie,and a few scenes were very funny. it's never boring or stupid. there are a few,and i do mean few scenes that are unfunny,but not stupid. the plot holes are the only thing that keeps this movie from a bulls-eye,but it still has a number of laughs. i give meet wally sparks **1/2 out of ****"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for this comedy starring Rodney Dangerfield",
+        "duration": "PT1M49S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi954860569",
+        "name": "Meet Wally Sparks",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjJiOWIyNDMtNjllNy00YWJhLThiYTEtMDY2ZTM0ZDFhYjA2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjJiOWIyNDMtNjllNy00YWJhLThiYTEtMDY2ZTM0ZDFhYjA2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-01-16T15:44:12Z",
+        "url": "https://www.imdb.com/video/vi954860569/"
+    },
+    "url": "/title/tt0119644/"
+}

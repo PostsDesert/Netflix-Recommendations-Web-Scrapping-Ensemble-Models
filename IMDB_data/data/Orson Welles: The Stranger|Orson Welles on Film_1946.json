@@ -1,0 +1,69 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Drew Boston",
+            "url": "/name/nm5231557/"
+        },
+        {
+            "@type": "Person",
+            "name": "Zach LaMalfa",
+            "url": "/name/nm4384805/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chris Miller",
+            "url": "/name/nm5232405/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 10,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0391321/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0396984/"
+        },
+        {
+            "@type": "Person",
+            "name": "Drew Boston",
+            "url": "/name/nm5231557/"
+        },
+        {
+            "@type": "Person",
+            "name": "Felix Else",
+            "url": "/name/nm3879515/"
+        },
+        {
+            "@type": "Person",
+            "name": "Zach LaMalfa",
+            "url": "/name/nm4384805/"
+        }
+    ],
+    "description": "The ambiguously gay soul of Orson Welles tries to finish his last film, while trapped in Purgatory with Werner Herzog and a lactose intolerant roommate - all while trying to fend off Klaus Kinski and Satan.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Felix Else",
+            "url": "/name/nm3879515/"
+        }
+    ],
+    "duration": "PT24M",
+    "genre": [
+        "Short",
+        "Comedy"
+    ],
+    "keywords": "gay,mentally challenged man,flatulence,absurdism,anachronism",
+    "name": "Orson Welles's the Other Side of the Wind: A Film by Orson Welles",
+    "url": "/title/tt2354132/"
+}

@@ -1,0 +1,51 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kiri Te Kanawa",
+            "url": "/name/nm0853490/"
+        },
+        {
+            "@type": "Person",
+            "name": "Thomas Allen",
+            "url": "/name/nm0021105/"
+        },
+        {
+            "@type": "Person",
+            "name": "Vladimir Atlantov",
+            "url": "/name/nm0040838/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 13,
+        "ratingValue": 8,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103876/"
+        }
+    ],
+    "description": "Kiri Te Kanawa introduces a selection of some of her personal favorite operatic scenes.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Keith Cheetham",
+            "url": "/name/nm0154930/"
+        }
+    ],
+    "duration": "PT59M",
+    "genre": [
+        "Documentary",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjcyMzc4NDc2NF5BMl5BanBnXkFtZTcwMDMwODEyMQ@@._V1_.jpg",
+    "keywords": "autobiographical,opera,archive footage,narration,character name in title",
+    "name": "Dame Kiri Te Kanawa: My World of Opera",
+    "url": "/title/tt0228618/"
+}

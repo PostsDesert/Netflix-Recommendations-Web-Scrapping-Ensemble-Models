@@ -1,0 +1,83 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Vincent Bugliosi",
+            "url": "/name/nm0119514/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeff Cohen",
+            "url": "/name/nm0169482/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dennis Kucinich",
+            "url": "/name/nm1734811/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1134,
+        "ratingValue": 8,
+        "worstRating": 1
+    },
+    "contentRating": "Unrated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0129843/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tom Blackburn",
+            "url": "/name/nm0085649/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Kane Pappas",
+            "url": "/name/nm0660622/"
+        }
+    ],
+    "datePublished": "2004-11-19",
+    "description": "A documentary analyzing the role of the modern American media and its effects on democracy.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Kane Pappas",
+            "url": "/name/nm0660622/"
+        }
+    ],
+    "duration": "PT1H24M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM4Nzk5Mzk4N15BMl5BanBnXkFtZTcwNTk5OTgyMQ@@._V1_.jpg",
+    "keywords": "media,manufacturing consent,indoctrination,media bias,spin",
+    "name": "Orwell Rolls in His Grave",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "nbabb"
+        },
+        "dateCreated": "2004-07-05",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0410407/"
+        },
+        "name": "Great documentary, more important than Fahrenheit 9/11",
+        "reviewBody": "This is an excellent documentary and, in my view, is more important than Michael Moore's film, Fahrenheit 9/11, in that it points to a fundamental, systemic problem in American society; the free flow of information. The movie paints a frightening picture of influence over the media, exerted by large corporations, and demonstrates that there is indeed a \"vast right-wing conspiracy\", aiming to control the media diet of American citizens. \n\nFed on managed, nutritionally devoid meals of sound-bites, sensationalism, and outright falsehoods, the average American citizen is made to exist in an unreality that is eerily similar to George Orwell's novel '1984'. Because of deregulation started in the Reagan era (if you see the documentary you will find that the word 'deregulation' is a misnomer), large multi-national corporations are now allowed to swallow up monopoly interests in various media outlets, thereby controlling the flow of information. This movie helped to confirm for me that American mainstream news is, at best, useless, and at worst, foisting upon us, an agenda that services the interests of the rich and powerful interests in this country. \n\nSo, go out and see this movie, or buy it online. The guy that made this film deserves a medal. Also, check out the \"Center for Public Integrity\" which is a news organization cited in the documentary. It is a non-partisan organization that is interested in uncovering corruption, wherever it is found.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0410407/"
+}

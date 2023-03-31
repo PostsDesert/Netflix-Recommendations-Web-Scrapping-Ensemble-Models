@@ -1,0 +1,27 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 16,
+        "ratingValue": 8.6,
+        "worstRating": 1
+    },
+    "description": "Produced for the Horizons pavillion at Walt Disney World's Epcot Center. Viewers can choose between a trip in space, under the sea, or through the desert.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David Jones",
+            "url": "/name/nm0427860/"
+        }
+    ],
+    "genre": [
+        "Short",
+        "Family",
+        "Sci-Fi"
+    ],
+    "keywords": "epcot,theme park attraction,interactive,multiple endings,disney park attraction",
+    "name": "Choose Your Tomorrow",
+    "url": "/title/tt0263204/"
+}
