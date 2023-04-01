@@ -1,0 +1,39 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Chuck Norris",
+            "url": "/name/nm0001569/"
+        },
+        {
+            "@type": "Person",
+            "name": "Benny Urquidez",
+            "url": "/name/nm0882054/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 58,
+        "ratingValue": 5.6,
+        "worstRating": 1
+    },
+    "contentRating": "Unrated",
+    "datePublished": "2003-12-07",
+    "description": "Six-time World Karate Champion Chuck Norris takes you through the ultimate in martial arts instruction, workout and demonstration.",
+    "duration": "PT1H38M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg2MzkxNDQ1N15BMl5BanBnXkFtZTcwNDA3NzgxMQ@@._V1_.jpg",
+    "keywords": "self defense,jujitsu,black belt,kicking,punching",
+    "name": "Chuck Norris: Private Lesson",
+    "original_info": {
+        "id": "Chuck Norris: Private Lesson_1997",
+        "name": "Chuck Norris: Private Lesson",
+        "year": "1997"
+    },
+    "url": "/title/tt0218888/"
+}

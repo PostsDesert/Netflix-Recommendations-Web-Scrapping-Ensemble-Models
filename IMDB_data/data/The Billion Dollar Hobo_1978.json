@@ -1,0 +1,90 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Leonard Scheicher",
+            "url": "/name/nm4807677/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marius Ahrendt",
+            "url": "/name/nm10740420/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Waschke",
+            "url": "/name/nm2409219/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9755,
+        "ratingValue": 8,
+        "worstRating": 1
+    },
+    "contentRating": "TV-MA",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0419672/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0313551/"
+        }
+    ],
+    "datePublished": "2021-10-07",
+    "description": "In 1990s Berlin, an artist and a hacker invented a new way to see the world. Years later, they reunite to sue Google for patent infringement on it.",
+    "genre": [
+        "Biography",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZmQxNGE3NzItOTE4YS00ODFjLWJlNDQtMzZmOTU5MTdmMjJiXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+    "keywords": "based on true story,tv mini series,1990s,computer,foundation",
+    "name": "The Billion Dollar Code",
+    "original_info": {
+        "id": "The Billion Dollar Hobo_1978",
+        "name": "The Billion Dollar Hobo",
+        "year": "1978"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "tazulmasud"
+        },
+        "dateCreated": "2021-10-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt15392100/"
+        },
+        "name": "Recommended for every entrepreneurs",
+        "reviewBody": "Recommended for every entrepreneurs. Nice series. I really believe, \"Without Terravision, Google Earth would never have been possible.\"",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Two German computer pioneers who go to court in the fight against an apparently invincible opponent in order to be recognized as the inventor of the Google Earth algorithm. The series illuminates both the hacker scene in post-reunification Berlin in the 90s, as well as the idealistic world of early Silicon Valley and the harsh reality of a multi-million dollar process.",
+        "duration": "PT1M58S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4021142297",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzdkMzMwYzgtZDI1My00Y2ZmLThjZmQtNjMwOWNlOWM5MWU2XkEyXkFqcGdeQWFuaW5vc2M@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzdkMzMwYzgtZDI1My00Y2ZmLThjZmQtNjMwOWNlOWM5MWU2XkEyXkFqcGdeQWFuaW5vc2M@._V1_.jpg",
+        "uploadDate": "2021-09-30T09:59:13.518Z",
+        "url": "https://www.imdb.com/video/vi4021142297/"
+    },
+    "url": "/title/tt15392100/"
+}

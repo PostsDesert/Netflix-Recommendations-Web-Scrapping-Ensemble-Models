@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Cheech Marin",
+            "url": "/name/nm0001507/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tommy Chong",
+            "url": "/name/nm0001045/"
+        },
+        {
+            "@type": "Person",
+            "name": "Evelyn Guerrero",
+            "url": "/name/nm0346186/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 14466,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tommy Chong",
+            "url": "/name/nm0001045/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cheech Marin",
+            "url": "/name/nm0001507/"
+        }
+    ],
+    "datePublished": "1980-07-18",
+    "description": "Cheech and Chong live in a decrepit old house and drive their neighbour crazy with their loud music, weed smoking and general anarchy and slacker view on life. Then Chong meets Cheech's Texan cousin Red and things kick up a notch.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Tommy Chong",
+            "url": "/name/nm0001045/"
+        }
+    ],
+    "duration": "PT1H39M",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODk3YmQxZmYtNTdkMi00MDI2LTg1Y2ItNjVjMzhmNWQwYzA1XkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
+    "keywords": "cheech and chong,best friend,police officer,flatulence,fight",
+    "name": "Cheech and Chong's Next Movie",
+    "original_info": {
+        "id": "Cheech & Chong's The Corsican Brothers_1984",
+        "name": "Cheech & Chong's The Corsican Brothers",
+        "year": "1984"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "gavin6942"
+        },
+        "dateCreated": "2015-04-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0080520/"
+        },
+        "name": "Cheech and Chong Strike Again",
+        "reviewBody": "The two stoners (Cheech Marin and Tommy Chong) and their friends go through another series of crazy, drug-influenced misadventures.\n\nAlmost everyone agrees that this second Cheech and Chong film is not as good as the first (\"Up In Smoke\"). I would have to agree with them. Whereas the first film had so many memorable and classic moments, this one just does not have that level of impact. Still fun and funny, but not the cultural milestone of the first film.\n\nWhere this film excels is in the casting of Paul Reubens, Phil Hartman, Elvira, Edie McClurg and the Groundlings. And, before the Pee-Wee Herman movie did it, the use of the song \"Tequila\". Seeing the Groundlings together in one film before many (most?) of them broke into the big time is a special treat.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Cheech and Chong live in a decrepit old house and drive their neighbour crazy with their loud music, weed smoking and general anarchy and slacker view on life. Then Chong meets Cheech's Texan cousin Red and things kick up a notch.",
+        "duration": "PT2M25S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi949732121",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNmI3ZDNkZjAtZjVjOS00NTA4LTllYWUtZjQ0ZWU0MDQyN2FmXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNmI3ZDNkZjAtZjVjOS00NTA4LTllYWUtZjQ0ZWU0MDQyN2FmXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-10-11T19:46:49.684Z",
+        "url": "https://www.imdb.com/video/vi949732121/"
+    },
+    "url": "/title/tt0080520/"
+}

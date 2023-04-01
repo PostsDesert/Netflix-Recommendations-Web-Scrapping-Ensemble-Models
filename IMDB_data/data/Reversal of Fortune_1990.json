@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jeremy Irons",
+            "url": "/name/nm0000460/"
+        },
+        {
+            "@type": "Person",
+            "name": "Glenn Close",
+            "url": "/name/nm0000335/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ron Silver",
+            "url": "/name/nm0798779/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 17286,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0087376/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0028550/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0071942/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alan Dershowitz",
+            "url": "/name/nm0220641/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nicholas Kazan",
+            "url": "/name/nm0443582/"
+        }
+    ],
+    "datePublished": "1990-11-09",
+    "description": "Wealthy Sunny von Bülow lies brain-dead, husband Claus guilty of attempted murder; but he says he's innocent and hires Alan Dershowitz for his appeal.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Barbet Schroeder",
+            "url": "/name/nm0775447/"
+        }
+    ],
+    "duration": "PT1H51M",
+    "genre": [
+        "Biography",
+        "Drama",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ3MTY0NDM3OV5BMl5BanBnXkFtZTgwMDY1NTk4NjE@._V1_.jpg",
+    "keywords": "courtroom drama,law professor,based on true story,trial,wealth",
+    "name": "Reversal of Fortune",
+    "original_info": {
+        "id": "Reversal of Fortune_1990",
+        "name": "Reversal of Fortune",
+        "year": "1990"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "cdavis-6"
+        },
+        "dateCreated": "2000-10-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0100486/"
+        },
+        "name": "A delightful movie. Bravo!",
+        "reviewBody": "I really enjoyed \"Reversal of Fortune.\" It was a wonderful, satiric (take your pick: black comedy/crime drama/mystery). The acting was tremendous. Jeremy Irons was fantastic and his performance was definitely Oscar-worthy. The movie itself pushed the lines between arguing the truth and arguing the facts. Although the movie was never clear on whether Claus was in fact guilty or not, the movie was actually more enjoyable because of its ambiguity. The tactics used by Dershowitz were very convincing and plausible. One thing I must complain about was the addition of Sarah's relationship with Alan into the film, which wasn't very well done. Otherwise, fun for the whole family, if your family is a sardonic, evil, emotionless wreck.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0100486/"
+}

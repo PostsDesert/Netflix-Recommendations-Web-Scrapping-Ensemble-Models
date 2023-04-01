@@ -1,0 +1,74 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0026848/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0204121/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0047104/"
+        },
+        {
+            "@type": "Person",
+            "name": "Daniel Finkernagel",
+            "url": "/name/nm1492698/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alexander Lück",
+            "url": "/name/nm2597196/"
+        }
+    ],
+    "datePublished": "2006-01-12",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Daniel Finkernagel",
+            "url": "/name/nm1492698/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alexander Lück",
+            "url": "/name/nm2597196/"
+        }
+    ],
+    "duration": "PT1H",
+    "genre": [
+        "Documentary",
+        "Music"
+    ],
+    "name": "Mozart in Salzburg",
+    "original_info": {
+        "id": "Mozart in Salzburg_2000",
+        "name": "Mozart in Salzburg",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "thelmalee"
+        },
+        "dateCreated": "2013-12-15",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0988691/"
+        },
+        "name": "Wonderful documentary. Missed beginning. Please rebroadcast!",
+        "reviewBody": "I was lucky enough to view this on CUNY TV - after just watching AMADEUS. This is a wonderful prequel to that great movie. This documentary is extremely well done, great music (of course) with fascinating insights about the life of Mozart. (At least for someone not too familiar with the details).\n\nAlas I missed the beginning - I tuned into the rebroadcast - and unfortunately the recording was garbled, and the screen went blank often.\n\nI so very much want to see this in its entirety I am praying it will be rebroadcast soon!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0988691/"
+}

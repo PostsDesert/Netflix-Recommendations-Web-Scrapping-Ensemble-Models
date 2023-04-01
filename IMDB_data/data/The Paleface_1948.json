@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bob Hope",
+            "url": "/name/nm0001362/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jane Russell",
+            "url": "/name/nm0000066/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Armstrong",
+            "url": "/name/nm0035877/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4327,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edmund L. Hartmann",
+            "url": "/name/nm0367060/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frank Tashlin",
+            "url": "/name/nm0850895/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jack Rose",
+            "url": "/name/nm0741439/"
+        }
+    ],
+    "datePublished": "1948-12-17",
+    "description": "Calamity Jane is dispatched to find out who's smuggling rifles to the Indians, and winds up married to a hapless correspondence-school dentist as part of her cover.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Norman Z. McLeod",
+            "url": "/name/nm0572851/"
+        }
+    ],
+    "duration": "PT1H31M",
+    "genre": [
+        "Comedy",
+        "Family",
+        "Western"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOGZhMGEwZjYtNjJlNC00YjY0LTg2YjQtNGU4MmM1OTNjYmMyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjQ1MTUzODc@._V1_.jpg",
+    "keywords": "marriage,classical western,american indian,dentist,street shootout",
+    "name": "The Paleface",
+    "original_info": {
+        "id": "The Paleface_1948",
+        "name": "The Paleface",
+        "year": "1948"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bob the moo"
+        },
+        "dateCreated": "2003-06-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0040679/"
+        },
+        "name": "Probably Hope's best film  his comic style in a well structured film",
+        "reviewBody": "Gunslinger and criminal Calamity Jane is released from prison by the Governors in exchange for her help with a problem. Someone is selling guns and dynamite to the Indians and other agents have been killed trying to find out who  only someone like Jane can get close. When her partner is killed she has no-one to act as her husband and help her travel incognito. She happens across a cowardly dentist, Painless Peter Potter, and she marries him in order to get a ride to Buffalo. However, can she keep him out of trouble long enough to find the dynamite?\n\nBob Hope may be 100 years old as I write this but he has been out of movies for quite a few years, also he only tended to make one type of film and play the same part in each one. So the appeal of this film very much depends on whether or not you like that. Personally I love Bob Hope and enjoy him even when he is in a weak film. The Paleface is one of his best films simply because it is a good piece of all round entertainment. It has a good central plot that stops the film just being a vehicle for him to do his stuff and instead is actually going somewhere.\n\nThe songs are quite nice but also there's only really two so it doesn't slow the film down too much. I do like the odd musical number but some Hope films had 5 or more songs in a 90 minute film, which was way too many. Hope is on good form, his asides and jokes work better in a good plot and he is very funny throughout. Some routines work better than others but if you are a fan then you'll like his style even when it isn't as funny as you'd hope. Russell is a good leading lady despite being a bit serious and then softening too quickly. The support cast are all in the background and the Native American clichés can be explained by the period and not racism.\n\nOverall this is a very enjoyable film that works well because it allows Hope to run free within a good film instead of simply letting his performance be the film. He wisecracks his way along and it is easy to see why his light comic style has made him an icon even with a generation who have found him on their television and not the big screen."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M48S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4156670233",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzgzMzg3ZmMtMzdhNi00ZDJmLThjZmQtZjgxZDJjNWMyZjE3XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzgzMzg3ZmMtMzdhNi00ZDJmLThjZmQtZjgxZDJjNWMyZjE3XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-11-12T22:42:58.127Z",
+        "url": "https://www.imdb.com/video/vi4156670233/"
+    },
+    "url": "/title/tt0040679/"
+}

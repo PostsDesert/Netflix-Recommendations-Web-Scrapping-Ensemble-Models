@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Rod Taylor",
+            "url": "/name/nm0001792/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tippi Hedren",
+            "url": "/name/nm0001335/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jessica Tandy",
+            "url": "/name/nm0001788/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 193820,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0137799/"
+        },
+        {
+            "@type": "Person",
+            "name": "Daphne Du Maurier",
+            "url": "/name/nm0238898/"
+        },
+        {
+            "@type": "Person",
+            "name": "Evan Hunter",
+            "url": "/name/nm0402805/"
+        }
+    ],
+    "datePublished": "1963-03-29",
+    "description": "A wealthy San Francisco socialite pursues a potential boyfriend to a small Northern California town that slowly takes a turn for the bizarre when birds of all kinds suddenly begin to attack people.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Alfred Hitchcock",
+            "url": "/name/nm0000033/"
+        }
+    ],
+    "duration": "PT1H59M",
+    "genre": [
+        "Drama",
+        "Horror",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTAxNDA1ODc5MDleQTJeQWpwZ15BbWU4MDg2MDA4OTEx._V1_.jpg",
+    "keywords": "bird attack,california,paranoia,1960s,phone booth",
+    "name": "The Birds",
+    "original_info": {
+        "id": "The Birds_1963",
+        "name": "The Birds",
+        "year": "1963"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "teresa_rosado"
+        },
+        "dateCreated": "2022-01-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0056869/"
+        },
+        "name": "The Enigma of The Birds",
+        "reviewBody": "There is a kind of theory according to which a horror or thriller film would lose all its frightening effect if it did not have a musical support as a backdrop, and its greater or lesser intensity regulates the viewer's tension levels. And this is true, at least in most of these types of movies. But there is always an exception that proves the rule. In The Birds, an iconic film by director Alfred Hitchock (inspired by the eponymous short story by Daphne du Maurier), such musical intrusion was dispensed with, as the director wanted to give voice to these apparently harmless beings that terrorize the population of Bodega Bay (Bernard Herrmann appears in the credits only as sound consultant). The film, which dates from 1963, continues to promote an intense discussion about its meaning and the most varied hypotheses have been put forward, since the ending is left open, with the birds victoriously watching the removal of humans (of course Hitchcock knew that not giving an explanation would contribute to accentuating the mystery and interest that the film arouses, it is not his best film, but it is certainly one of the most enigmatic). Choosing the blonde on duty (one of my favorites) was also a winning bet. Tippi Hedren, the unlikely heroine, perfectly plays the role of the fragile young woman, who is able to stand up to the bloodthirsty bird though. Her image of scared eyes and disheveled hair covering herself with her hand is memorable. As far as I am concerned, the scene dominated by the couple of lovebirds always comes to mind, swinging along the curves, in the convertible on the way to Bodega Bay, inside a cage, without having the right to enjoy the landscape, as a trigger for the revolt of the birds.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for The Birds",
+        "duration": "PT5M13S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2022637849",
+        "name": "The Birds",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNWM5YjNhNzMtMjA2Ni00YTYxLTlmODMtYmE3YjA3YjEzMmEyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNWM5YjNhNzMtMjA2Ni00YTYxLTlmODMtYmE3YjA3YjEzMmEyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:32:19Z",
+        "url": "https://www.imdb.com/video/vi2022637849/"
+    },
+    "url": "/title/tt0056869/"
+}

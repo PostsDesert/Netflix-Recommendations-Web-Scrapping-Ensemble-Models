@@ -1,0 +1,74 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sarah Heinke",
+            "url": "/name/nm1951984/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rachel Ware",
+            "url": "/name/nm1712181/"
+        },
+        {
+            "@type": "Person",
+            "name": "DeJare Barfield",
+            "url": "/name/nm2241090/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 63,
+        "ratingValue": 7.9,
+        "worstRating": 1
+    },
+    "contentRating": "TV-Y",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0018052/"
+        },
+        {
+            "@type": "Person",
+            "name": "Phil Harnage",
+            "url": "/name/nm0363624/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrew Sabiston",
+            "url": "/name/nm0754781/"
+        }
+    ],
+    "datePublished": "2005-02-15",
+    "description": "Strawberry's friend Coco Calypso and her animal friends have a happy life on Seaberry Island. But someone keeps stealing the seaberries Coco harvests! As Strawberry and Coco try to find the thief, they discover a shy girl named Se...",
+    "duration": "PT1H4M",
+    "genre": [
+        "Animation"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkyNDIzMDAwOV5BMl5BanBnXkFtZTcwNTUxNzcyMQ@@._V1_.jpg",
+    "keywords": "five word title,beach party,beach,colon in title,fruit in title",
+    "name": "Strawberry Shortcake: Seaberry Beach Party",
+    "original_info": {
+        "id": "Strawberry Shortcake: Seaberry Beach Party_2005",
+        "name": "Strawberry Shortcake: Seaberry Beach Party",
+        "year": "2005"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from 20th Century Fox Home Entertainment",
+        "duration": "PT16S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3179675929",
+        "name": "Strawberry Shortcake: Seaberry Beach Party",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjcxZTc2YTMtYjM5YS00MjEyLWIxMjUtNTMzN2Y5YmNmNTU5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjcxZTc2YTMtYjM5YS00MjEyLWIxMjUtNTMzN2Y5YmNmNTU5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:01:05Z",
+        "url": "https://www.imdb.com/video/vi3179675929/"
+    },
+    "url": "/title/tt0449651/"
+}

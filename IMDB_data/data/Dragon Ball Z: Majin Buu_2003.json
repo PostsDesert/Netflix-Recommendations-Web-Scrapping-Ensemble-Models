@@ -1,0 +1,94 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Doc Harris",
+            "url": "/name/nm0364629/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christopher Sabat",
+            "url": "/name/nm0754526/"
+        },
+        {
+            "@type": "Person",
+            "name": "Scott McNeil",
+            "url": "/name/nm0573926/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 135340,
+        "ratingValue": 8.8,
+        "worstRating": 1
+    },
+    "contentRating": "TV-PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050796/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0003331/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0062107/"
+        }
+    ],
+    "datePublished": "1996-09-13",
+    "description": "With the help of the powerful Dragonballs, a team of fighters led by the saiyan warrior Goku defend the planet earth from extraterrestrial enemies.",
+    "genre": [
+        "Animation",
+        "Action",
+        "Adventure"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNGM5MTEyZDItZWNhOS00NzNkLTgwZTAtNWIzY2IzZmExOWMxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+    "keywords": "actor voicing multiple characters,antihero,cult favorite,friend,old man",
+    "name": "Dragon Ball Z",
+    "original_info": {
+        "id": "Dragon Ball Z: Majin Buu_2003",
+        "name": "Dragon Ball Z: Majin Buu",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "tworadblue"
+        },
+        "dateCreated": "2006-07-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0214341/"
+        },
+        "name": "Utterly brilliant",
+        "reviewBody": "This won't give you the best impression the first time you see it but it just keeps getting better and better and can eventually become dangerously addictive. It takes action and story to all new levels. A lot of the dialog actually does make sense even if sometimes cliché'd. This is actually one of the few shows that is actually worthy of all the hype and popularity surrounding it. Although it may drag a lot, and the characters spend a lot of time staring at each other, what eventually happens at the end makes up for the waiting. I've only seen this up to the end of the freiza saga and that saga was slightly less impressive than the former few sagas. As the sagas progress, you'd better start seeing the uncut versions instead.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Dragon Ball Z: Season Two",
+        "duration": "PT17S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4248940313",
+        "name": "Dragon Ball Z: Season Two (Blu-Ray)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjg5MzExMGItZDk0NS00ZmI5LTg4YzktYTUzMjY2Zjg1ZjczXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjg5MzExMGItZDk0NS00ZmI5LTg4YzktYTUzMjY2Zjg1ZjczXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2014-12-05T07:22:09Z",
+        "url": "https://www.imdb.com/video/vi4248940313/"
+    },
+    "url": "/title/tt0214341/"
+}

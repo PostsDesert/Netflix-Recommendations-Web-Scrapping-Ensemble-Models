@@ -1,0 +1,83 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Andrew Dice Clay",
+            "url": "/name/nm0001048/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kyle Chrise",
+            "url": "/name/nm6060633/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eleanor Kerrigan",
+            "url": "/name/nm0449855/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 150,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "TV-MA",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0379546/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0380956/"
+        }
+    ],
+    "datePublished": "2012-12-31",
+    "description": "The \"Indestructible\" Andrew Dice Clay is back proving he is in fact the undisputed Heavy Weight King of Comedy in his first stand-up comedy special in over 17 years. The minute the Diceman hits the stage he is on fire staying true...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Scott L. Montoya",
+            "url": "/name/nm1390764/"
+        }
+    ],
+    "duration": "PT57M",
+    "genre": [
+        "Documentary",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk0MzU2NzQ1OF5BMl5BanBnXkFtZTgwNjM0NDYwMTE@._V1_.jpg",
+    "keywords": "stand up comedy,tv special,profanity,vulgarity,shock humor",
+    "name": "Andrew Dice Clay: Indestructible",
+    "original_info": {
+        "id": "Andrew Dice Clay: Dice Rules!_1991",
+        "name": "Andrew Dice Clay: Dice Rules!",
+        "year": "1991"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "arfdawg-1"
+        },
+        "dateCreated": "2020-04-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt2605244/"
+        },
+        "name": "Really Horrible",
+        "reviewBody": "Dice is talented. I really liked that sit com he did for cable. It was funny.\n\nBut his stand up act has become a bore. He now prop ups his completely untalented kids playing really bad crappy music. They SUCK Dice.\n\nHis gross out humor is old new and lodged in the 90's.\n\nThis doc/stand up is just really bad.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 2,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt2605244/"
+}

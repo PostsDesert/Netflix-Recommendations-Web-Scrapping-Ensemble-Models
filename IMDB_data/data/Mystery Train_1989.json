@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Masatoshi Nagase",
+            "url": "/name/nm0619185/"
+        },
+        {
+            "@type": "Person",
+            "name": "Yûki Kudô",
+            "url": "/name/nm0473802/"
+        },
+        {
+            "@type": "Person",
+            "name": "Screamin' Jay Hawkins",
+            "url": "/name/nm0370221/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 29178,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002923/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0058240/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Jarmusch",
+            "url": "/name/nm0000464/"
+        }
+    ],
+    "datePublished": "1989-11-17",
+    "description": "Three stories are connected by a Memphis hotel and the spirit of Elvis Presley.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jim Jarmusch",
+            "url": "/name/nm0000464/"
+        }
+    ],
+    "duration": "PT1H50M",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjcyMDYyM2ItYzFlNy00N2FmLTljNTAtODllZjZhNWIwMTVlXkEyXkFqcGdeQXVyNzM0MTUwNTY@._V1_.jpg",
+    "keywords": "hotel,train,memphis tennessee,ghost,independent film",
+    "name": "Mystery Train",
+    "original_info": {
+        "id": "Mystery Train_1989",
+        "name": "Mystery Train",
+        "year": "1989"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "paranoidandroid-1"
+        },
+        "dateCreated": "2001-12-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0097940/"
+        },
+        "name": "mystery train and all of jarmusch's films",
+        "reviewBody": "jim jarmusch affects his viewers in curious ways. in mystery train, he presents a series of situations, sometimes filled with off-beat humor, sometimes filled with tenderness, and, in one instance, characterized by one violent moment. on the whole, every moment is affecting, every moment is moving. jarmusch sees the world with such sensitivity and humor, such affection; there is no place for cynics or satirists. jarmusch has never emphasized technical virtuosity. his virtuosity, rather, is his ability to place characters who he obviously cares for in situations which endear them to the audience, his ability to show, with simple gestures and moments (like mitzuko's unorthodox cigarette lighting technique) our beauty, humanity's beauty, is our idiosyncracy and differences. steven soderbergh states that technical perfection is not as important as cinematic energy. jarmusch films have energy; it quiet, polite, lovely energy, but energy nonetheless."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Criterion Collection release trailer",
+        "duration": "PT1M12S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4139189785",
+        "name": "Mystery Train",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZmU1NDgyNDUtZTUxMC00MmE4LWE4NjctZGNiNDg2OTIzZmMzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZmU1NDgyNDUtZTUxMC00MmE4LWE4NjctZGNiNDg2OTIzZmMzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-06-20T03:23:18Z",
+        "url": "https://www.imdb.com/video/vi4139189785/"
+    },
+    "url": "/title/tt0097940/"
+}

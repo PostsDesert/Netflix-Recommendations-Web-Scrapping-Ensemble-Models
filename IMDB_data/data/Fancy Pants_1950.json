@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bob Hope",
+            "url": "/name/nm0001362/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lucille Ball",
+            "url": "/name/nm0000840/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bruce Cabot",
+            "url": "/name/nm0127677/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1398,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harry Leon Wilson",
+            "url": "/name/nm0933491/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edmund L. Hartmann",
+            "url": "/name/nm0367060/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert O'Brien",
+            "url": "/name/nm0639787/"
+        }
+    ],
+    "datePublished": "1950-07-19",
+    "description": "An American actor impersonating an English butler is hired by a woman from New Mexico to refine her husband and headstrong daughter. The complications increase when the town believes Arthur to be an Earl, and President Roosevelt d...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "George Marshall",
+            "url": "/name/nm0550892/"
+        }
+    ],
+    "duration": "PT1H32M",
+    "genre": [
+        "Comedy",
+        "Musical",
+        "Western"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTYyNTczOWItMjdmMS00YTExLTg2YjYtY2QxNjNmZmRiYzVlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "keywords": "cricket the sport,english,hunt,handcart,butler",
+    "name": "Fancy Pants",
+    "original_info": {
+        "id": "Fancy Pants_1950",
+        "name": "Fancy Pants",
+        "year": "1950"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "hitchcockthelegend"
+        },
+        "dateCreated": "2011-05-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0042447/"
+        },
+        "name": "Hey fancy pants-you're a pussyfooting critter.",
+        "reviewBody": "Fancy Pants is directed by George Marshall and adapted from the Harry Leon Wilson story by Edmund L. Hartmann & Robert O'Brien. It stars Bob Hope, Lucille Ball, Bruce Cabot, Jack Kirkwood and Lea Penman. A Technicolor production, it's scored by Van Cleave and cinematography is by Charles Lang. Plot is a reworking of Ruggles of Red Gap, which was made into a successful film in 1935, directed by Leo McCarey and starring Charles Laughton. This take finds Bob Hope as a low grade American stage actor who gets hired by a Western family in the hope that his refined manner will rub off on the more rough and tumble members of the family. Finds start to spiral out of control when the town mistake him for a noble lord, bringing the attention of one president Teddy Roosevelt, who plans a visit to the family home. Not only that, but Hope has to contend with town bully Bruce Cabot, who is convinced that Hope is trying to steal his girl, Lucille Ball.\n\nBright and bubbly comedy musical fare, played purely for laughs and given a good quality production. Hope and Ball featured together in a total of five film's, their chemistry a winning formula, even if the material wasn't always that beneficial to their respective comedy leanings. Fancy Pants is one of the better ones, but it's bookended by indifference. The start is laborious, and not really setting the standard for what is to come, but once we land in the Wild West it not only lets Hope shine, but also it brings into play Kirkwood and Cabot (excellent). Then it's a case of letting Hope ponce about as a noble butler/Lord, while Ball and Kirkwood plot to have his nuisance self sent packing back to England. It's during this meaty middle section that we get some genuine laugh out loud moments, briskly constructed by Marshall and scripted as sharp as a razor. We even have time for a couple of tunes, with the quite wonderful \"Home Cookin\" the stand out. Sadly the ending lacks impact and comes all too quickly, which is doubly disappointing since the big build up was great fun.\n\nA good but not great Bob Hope film as a whole, but when it's good it's very good and therefore easily recommended to the comedy classic fan. 6.5/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Public Domain",
+        "duration": "PT2M13S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1168507161",
+        "name": "Fancy Pants",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjYxN2QyMzgtNTIwYi00OTYzLTlmYTAtYThiYmFjNjU3N2ViXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjYxN2QyMzgtNTIwYi00OTYzLTlmYTAtYThiYmFjNjU3N2ViXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:04:21Z",
+        "url": "https://www.imdb.com/video/vi1168507161/"
+    },
+    "url": "/title/tt0042447/"
+}

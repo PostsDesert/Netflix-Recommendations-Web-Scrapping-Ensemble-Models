@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Shirley MacLaine",
+            "url": "/name/nm0000511/"
+        },
+        {
+            "@type": "Person",
+            "name": "R.H. Thomson",
+            "url": "/name/nm0861075/"
+        },
+        {
+            "@type": "Person",
+            "name": "Barry Flatman",
+            "url": "/name/nm0281284/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 457,
+        "ratingValue": 5.8,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0054762/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0045039/"
+        },
+        {
+            "@type": "Person",
+            "name": "Patricia Resnick",
+            "url": "/name/nm0720334/"
+        }
+    ],
+    "datePublished": "2002-10-07",
+    "description": "The film is about two companies who are battling it out for customers, Mary Kay, and one of her workers Lexi Wilcox are fighting it out with Jinger Heath. Who will win? You will have to see.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ed Gernon",
+            "url": "/name/nm0314643/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Biography",
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTg1ZmNiMzktZjJhZi00ZDI0LTk5NDEtOWMyMDIyYWM5OTA4XkEyXkFqcGdeQXVyNDg3OTc4NTA@._V1_.jpg",
+    "keywords": "hot tub,business meeting,corporate meeting,mercedes benz,satire comedy",
+    "name": "Hell on Heels: The Battle of Mary Kay",
+    "original_info": {
+        "id": "Hell on Heels: The Battle of Mary Kay_2002",
+        "name": "Hell on Heels: The Battle of Mary Kay",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "kdm042"
+        },
+        "dateCreated": "2002-10-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0328877/"
+        },
+        "name": "Surprisingly good",
+        "reviewBody": "I decided to tape this movie on a lark. At first, I thought they were going for maximum silliness, but the story sucked me in anyway, and I enjoyed it all the way to the end.\n\nMary Kay's women are passionate about their product. For a lot a good reasons, too -- The lady herself was extremely inspirational. The rival company behaved more like modern entities: its executives rode their stock up, and then the employees hurt the most when the company crashed. Meanwhile, Mary Kay took her company private, kept treating her employees like human beings, and grew ever larger.\n\nThe movie's best line (from Mary Kay): \"Son, you do know it was never about the makeup.\"\n\nShirley MacLaine outdid herself playing Mary Kay. Overall, the film was funny and serious at the same time, and a total treat. It's worth 8 out of 10 stars.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0328877/"
+}

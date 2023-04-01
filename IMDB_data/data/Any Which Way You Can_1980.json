@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Clint Eastwood",
+            "url": "/name/nm0000142/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sondra Locke",
+            "url": "/name/nm0516800/"
+        },
+        {
+            "@type": "Person",
+            "name": "Geoffrey Lewis",
+            "url": "/name/nm0507212/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 20043,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0102264/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stanford Sherman",
+            "url": "/name/nm0792589/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeremy Joe Kronsberg",
+            "url": "/name/nm0472213/"
+        }
+    ],
+    "datePublished": "1980-12-17",
+    "description": "A trucker turned prize fighter, his brother and their pet orangutan have a series of misadventures involving the mob, corrupt cops, motorcycle gangs and pretty dames.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Buddy Van Horn",
+            "url": "/name/nm0887174/"
+        }
+    ],
+    "duration": "PT1H56M",
+    "genre": [
+        "Action",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTUzYmIxM2YtYjBkZC00M2FiLTllMGQtOTQ5N2UzMzc2YTAzL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "keywords": "sequel,machismo,vendetta,farce,abduction",
+    "name": "Any Which Way You Can",
+    "original_info": {
+        "id": "Any Which Way You Can_1980",
+        "name": "Any Which Way You Can",
+        "year": "1980"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "lost-in-limbo"
+        },
+        "dateCreated": "2008-06-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0080377/"
+        },
+        "name": "We're even?",
+        "reviewBody": "A charming, and endearingly goofy follow up to the successfully hearty comedy 'Every Which Way But Loose (1978)', which starred Clint Eastwood as cool-hand, bar-brawling Philo Beddoe along with his alcohol slurping orangutan companion Clyde. Slap-stick galore with the easy-going style of the original picking up the pace and having a variety of cartoon-like characters represented by a more than capably fruitful cast (some who are Eastwood regulars). They're here for a good time and it shows. Geoffrey Lewis, Sondra Locke, Ruth Gordon, William Smith, Harry Guardino, Bill McKinney and Barry Corbin give pleasingly amusing performances. However it's the returning John Quade who's a hilarious hoot as the leader of the haplessly crony bikers 'Black Widows'. Eastwood naturally comes across cool and collected in another winning performance. The drama here feels a little more spontaneous, busy and crazy with much more bare-knuckle, sweaty fist fights (which are well-executed) and a real infantile comical imprint. Streaming through is a heart-warming music score with an appealing country swing and open photography sharply frames some beautiful locations and accordingly gets amongst the action. Is it better than the first I don't think so, but I never grow old of these fun, light-headed features.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Any Which Way You Can",
+        "duration": "PT2M32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2047779865",
+        "name": "Any Which Way You Can",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzZjNDE2ODktNGI4Ny00OWNmLTg0YTQtM2M1OGU2ZDI2OGE2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzZjNDE2ODktNGI4Ny00OWNmLTg0YTQtM2M1OGU2ZDI2OGE2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2012-10-22T03:03:02Z",
+        "url": "https://www.imdb.com/video/vi2047779865/"
+    },
+    "url": "/title/tt0080377/"
+}

@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ashley Olsen",
+            "url": "/name/nm0001580/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mary-Kate Olsen",
+            "url": "/name/nm0001581/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tom Amandes",
+            "url": "/name/nm0023885/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4915,
+        "ratingValue": 5.2,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0018640/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0018522/"
+        },
+        {
+            "@type": "Person",
+            "name": "Maria Jacquemetton",
+            "url": "/name/nm0415111/"
+        }
+    ],
+    "datePublished": "1998-12-25",
+    "description": "Twin girls advertise their single father on a Santa Monica Billboard.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Alan Metter",
+            "url": "/name/nm0582635/"
+        }
+    ],
+    "duration": "PT1H32M",
+    "genre": [
+        "Comedy",
+        "Family",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTIxZWEzMjItNTU2NS00MTljLWI2YzAtMTIwM2E1ZDQzZThjXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_.jpg",
+    "keywords": "twins,single father,billboard,tape recorder,optician",
+    "name": "Billboard Dad",
+    "original_info": {
+        "id": "Billboard Dad_1998",
+        "name": "Billboard Dad",
+        "year": "1998"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "TwzzlrFrk"
+        },
+        "dateCreated": "2000-01-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0167049/"
+        },
+        "name": "The best Olsen Twins movie!",
+        "reviewBody": "After the passing of Full House, a couple of not-so-great kiddie films and a second failed TV show on TGIF, it's good to see that the Olsen Twins can still make the good stuff happen on the screen.\n\nBillboard Dad is the story of two girls who try desperately to hook their single father up with a gorgeous gal. What better way to achieve this by . .. advertising on a billboard? Cheesy? Maybe. Anyway, the course of true love never did run smooth, and so the romance that is to spark between the twins' dad, Max, and his new girlfriend, Brooke, is not free from obstacles. First, there is Brooke's son, Ryan, who at first the twins have trouble getting along with. Later on, the twins befriend Ryan and they team up to tackle the next obstacle - Nigel - Max's maniacal money-minded agent. Together, the three come up with an intelligent scheme and . . . well . . . I don't wanna give away the WHOLE thing!\n\nBottom line . . . this movie doesn't have a cheesy script - it's quite realistic. One can see that the Olsen twins are more than just two cute faces but actually have some talent too. It's a great family movie and I recommend it.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT42S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2042233113",
+        "name": "Billboard Dad",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDg4N2RjN2QtN2NjZi00ZDJlLWE2YmYtZGY4NThmM2RmNmM0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDg4N2RjN2QtN2NjZi00ZDJlLWE2YmYtZGY4NThmM2RmNmM0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:34:57Z",
+        "url": "https://www.imdb.com/video/vi2042233113/"
+    },
+    "url": "/title/tt0167049/"
+}

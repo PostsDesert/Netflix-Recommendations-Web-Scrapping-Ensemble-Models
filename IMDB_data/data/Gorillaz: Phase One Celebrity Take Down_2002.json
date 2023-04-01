@@ -1,0 +1,81 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Damon Albarn",
+            "url": "/name/nm0016332/"
+        },
+        {
+            "@type": "Person",
+            "name": "Phil Cornwell",
+            "url": "/name/nm0180504/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nelson De Freitas",
+            "url": "/name/nm2012356/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 171,
+        "ratingValue": 8.1,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103936/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cass Browne",
+            "url": "/name/nm1564758/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jamie Hewlett",
+            "url": "/name/nm0382114/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mat Wakeham",
+            "url": "/name/nm1561276/"
+        }
+    ],
+    "datePublished": "2002-11-26",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jamie Hewlett",
+            "url": "/name/nm0382114/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cass Browne",
+            "url": "/name/nm1564758/"
+        },
+        {
+            "@type": "Person",
+            "name": "Pete Candeland",
+            "url": "/name/nm0133703/"
+        }
+    ],
+    "duration": "PT2H54M",
+    "genre": [
+        "Documentary",
+        "Animation",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI4NzExNDI2NF5BMl5BanBnXkFtZTcwNjgxOTAwMQ@@._V1_.jpg",
+    "name": "Gorillaz: Phase One - Celebrity Take Down",
+    "original_info": {
+        "id": "Gorillaz: Phase One Celebrity Take Down_2002",
+        "name": "Gorillaz: Phase One Celebrity Take Down",
+        "year": "2002"
+    },
+    "url": "/title/tt0474700/"
+}

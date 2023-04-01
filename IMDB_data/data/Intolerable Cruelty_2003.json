@@ -1,0 +1,122 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "George Clooney",
+            "url": "/name/nm0000123/"
+        },
+        {
+            "@type": "Person",
+            "name": "Catherine Zeta-Jones",
+            "url": "/name/nm0001876/"
+        },
+        {
+            "@type": "Person",
+            "name": "Billy Bob Thornton",
+            "url": "/name/nm0000671/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 99300,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0003687/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0049706/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Ramsey",
+            "url": "/name/nm0709070/"
+        },
+        {
+            "@type": "Person",
+            "name": "Matthew Stone",
+            "url": "/name/nm0832043/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Romano",
+            "url": "/name/nm0738908/"
+        }
+    ],
+    "datePublished": "2003-10-10",
+    "description": "A beautiful gold digger matches wits with a shrewd Beverly Hills divorce lawyer who is increasingly attracted to her.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Joel Coen",
+            "url": "/name/nm0001054/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ethan Coen",
+            "url": "/name/nm0001053/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU2OTc5Mjc0N15BMl5BanBnXkFtZTYwMDYyMjg3._V1_.jpg",
+    "keywords": "woman wears eyeglasses,strong female character,lake tahoe,reference to henry viii,deception",
+    "name": "Intolerable Cruelty",
+    "original_info": {
+        "id": "Intolerable Cruelty_2003",
+        "name": "Intolerable Cruelty",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Isaac5855"
+        },
+        "dateCreated": "2006-08-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0138524/"
+        },
+        "name": "One of Clooney's Best Performances",
+        "reviewBody": "A surprisingly smart comedy from Joel and Ethan Cohen, INTOLERABLE CRUELTY is a deft and entertaining comedy about the relationship that develops between a fast talking attorney (George Clooney) and a man-eating gold digger (Catherine Zeta-Jones)who pretty much eats husbands for lunch. This delightful throwback to the Tracy-Hepburn, Grant-Russell comedies of the 30's and 40's moves at a nice pace and is anchored by a razor sharp performance by Clooney, who has rarely been more appealing on screen. Clooney does everything right here and his performance alone makes this film worth seeing, but Zeta-Jones never allows herself to be overshadowed by him in one of her more venomous characterizations. Worthwhile bits are also contributed by Geoffrey Rush, Billy Bob Thornton, Richard Jenkins, and Edward Herrmann. One of the most underrated comedies ever made which is a definite must-see for Clooney fans.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Universal Pictures",
+        "duration": "PT2M24S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi781320473",
+        "name": "Intolerable Cruelty",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZmYzNTk4NGUtZDQ5My00MDEzLTlkZGMtNDU3MzE3MDQ0ZmI2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZmYzNTk4NGUtZDQ5My00MDEzLTlkZGMtNDU3MzE3MDQ0ZmI2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:46:03Z",
+        "url": "https://www.imdb.com/video/vi781320473/"
+    },
+    "url": "/title/tt0138524/"
+}

@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Therica Wilson-Read",
+            "url": "/name/nm5886893/"
+        },
+        {
+            "@type": "Person",
+            "name": "Klariza Clayton",
+            "url": "/name/nm2877001/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kate Lister",
+            "url": "/name/nm4275773/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 210,
+        "ratingValue": 3.5,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0654861/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0572550/"
+        },
+        {
+            "@type": "Person",
+            "name": "Maximilian von Vier",
+            "url": "/name/nm3293462/"
+        }
+    ],
+    "description": "Locked in her flat for several years, a reclusive young woman stumbles upon a mysterious web community. According to an urban myth, the Suicide Club grants death to those wishing for it. Unless these \"cyber suicides\" are actually ...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Maximilian von Vier",
+            "url": "/name/nm3293462/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Horror",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTY5NGI0ODctMWNhNS00ODE3LWI3MjEtYzQ3NjdiZjU0NmM1XkEyXkFqcGdeQXVyMTcwMDM3NTA@._V1_.jpg",
+    "keywords": "death",
+    "name": "Suicide Club",
+    "original_info": {
+        "id": "Suicide Club_2002",
+        "name": "Suicide Club",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "boowho-26417"
+        },
+        "dateCreated": "2019-07-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt5356318/"
+        },
+        "name": "hands in mouth disease",
+        "reviewBody": "Character Liz couldn't keep her fingers out of her mouth and her hands off her face. The story was unremarkable and fell short on so many levels, it was bad...but hey, tricks are for kids, I'm sure they'll love it.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 1,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Locked in her flat for several years, a reclusive young woman stumbles upon a mysterious web community. According to an urban myth, the Suicide Club grants death to those wishing for it. Unless these \"cyber suicides\" are actually murders.",
+        "duration": "PT1M7S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3993289497",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOWYwNjhjZjUtNmZhMi00ZjQ1LTg4YWQtOWFhMDNhNzUwY2VjXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOWYwNjhjZjUtNmZhMi00ZjQ1LTg4YWQtOWFhMDNhNzUwY2VjXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2022-02-02T20:20:50.565Z",
+        "url": "https://www.imdb.com/video/vi3993289497/"
+    },
+    "url": "/title/tt5356318/"
+}

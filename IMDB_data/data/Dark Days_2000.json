@@ -1,0 +1,82 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Marc Singer",
+            "url": "/name/nm0003786/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6999,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0073284/"
+        }
+    ],
+    "datePublished": "2001-03-09",
+    "description": "A cinematic portrait of the homeless population who live permanently in the underground tunnels of New York City.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Marc Singer",
+            "url": "/name/nm0003786/"
+        }
+    ],
+    "duration": "PT1H22M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA5NjM1NjM0OV5BMl5BanBnXkFtZTcwMjUxMDgyMQ@@._V1_.jpg",
+    "keywords": "living underground,subway system,new york city,amtrak,eviction",
+    "name": "Dark Days",
+    "original_info": {
+        "id": "Dark Days_2000",
+        "name": "Dark Days",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "utzutzutz"
+        },
+        "dateCreated": "2001-05-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0235327/"
+        },
+        "name": "fascinating film with a remarkable story behind it",
+        "reviewBody": "It's nigh-impossible not to be moved by Marc Singer's remarkable first film, about a community of homeless people living in a train tunnel beneath Manhattan. What's even more inspiring is how the film got made. Then-20-year-old Singer, who'd never before run a camera, lived underground with his subjects, recruited them as crew, convinced local merchants to donate equipment and even sold his own bed to buy film. His original goal in making the film was to fund its denizens' move out of the tunnel. The result is a fascinating slice of a part of life most of us have never considered. The characters are gritty, sometimes funny, sometimes tragic and always very real. Dark Days takes homelessness out of the realm of sociological phenomenon and into an almost-visceral engagement with these people and their lives. We look in as the characters decorate their scrap-metal shacks with discarded material, earn their livings, emotionally support each other and ultimately struggle with their homes' demise. Though clearly Singer roots for his subjects, he avoids the temptation to pity them; he simply calls it as he sees it - and has lived it. There's even a happy ending.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Dark Days",
+        "duration": "PT55S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3559829017",
+        "name": "Dark Days",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYWJmNDgxOTUtMDBjMi00NjkwLTk2NGYtNjVkNjQ1NTMwYzExXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYWJmNDgxOTUtMDBjMi00NjkwLTk2NGYtNjVkNjQ1NTMwYzExXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2015-02-06T07:17:45Z",
+        "url": "https://www.imdb.com/video/vi3559829017/"
+    },
+    "url": "/title/tt0235327/"
+}

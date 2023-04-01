@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Chris Stafford",
+            "url": "/name/nm0821256/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tina Holmes",
+            "url": "/name/nm0392073/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andersen Gabrych",
+            "url": "/name/nm0300399/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6826,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0056538/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0001650/"
+        },
+        {
+            "@type": "Person",
+            "name": "Todd Stephens",
+            "url": "/name/nm0827171/"
+        }
+    ],
+    "datePublished": "2000-04-20",
+    "description": "A teenager copes with his sexuality on the last day of school in 1984. It shows him coping with being gay and being with friends.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David Moreton",
+            "url": "/name/nm0604284/"
+        }
+    ],
+    "duration": "PT1H39M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY1YmJjMDQtYTVkMC00Mjc0LWJkOGEtZjcyYTczODNiMzY1XkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_.jpg",
+    "keywords": "gay club,loss of virginity,summer job,gay sex,year 1984",
+    "name": "Edge of Seventeen",
+    "original_info": {
+        "id": "Edge of Seventeen_2000",
+        "name": "Edge of Seventeen",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "mermatt"
+        },
+        "dateCreated": "1999-06-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0138414/"
+        },
+        "name": "Slow but Sweet",
+        "reviewBody": "The film is a coming-out story set in Sandusky, Ohio, in 1984. It moves a bit slowly, but it is nevertheless sweet. The characterizations and performances are genuine and provide sincere laughs and tears. The film is amazingly accurate in showing the whole gamut of coming out.\n\nThe talented cast is wonderful, and the story ultimately is a healing experience."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Strand Releasing",
+        "duration": "PT2M24S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3131310361",
+        "name": "Edge of Seventeen",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMDg3ZDU3MWUtNzczOC00MjY4LWI0ZjQtYzExMmVhYjcyNGQwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDg3ZDU3MWUtNzczOC00MjY4LWI0ZjQtYzExMmVhYjcyNGQwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:59:01Z",
+        "url": "https://www.imdb.com/video/vi3131310361/"
+    },
+    "url": "/title/tt0138414/"
+}

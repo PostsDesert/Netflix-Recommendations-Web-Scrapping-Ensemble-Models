@@ -1,0 +1,39 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ray Charles",
+            "url": "/name/nm0153124/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 32,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0252413/"
+        }
+    ],
+    "description": "This concert was filmed at the Montreux Jazz Festival on July 19, 1997 and features Ray Charles and his orchestra, led by sax player Al Jackson, and of course The Raelettes, performing many of his greatest hits.",
+    "duration": "PT1H13M",
+    "genre": [
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM5NDA1MzkwMV5BMl5BanBnXkFtZTgwNzU5MjA2MDE@._V1_.jpg",
+    "keywords": "live performance,concert film",
+    "name": "Ray Charles: Live at the Montreux Jazz Festival",
+    "original_info": {
+        "id": "Ray Charles: Live at the Montreux Jazz Festival_2002",
+        "name": "Ray Charles: Live at the Montreux Jazz Festival",
+        "year": "2002"
+    },
+    "url": "/title/tt1319584/"
+}

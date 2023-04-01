@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Balthazar Getty",
+            "url": "/name/nm0001267/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tchéky Karyo",
+            "url": "/name/nm0001409/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alice Krige",
+            "url": "/name/nm0000481/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 929,
+        "ratingValue": 4.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0031670/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0025097/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0034041/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rene Daalder",
+            "url": "/name/nm0196350/"
+        }
+    ],
+    "description": "In a future world where Earth's ozone layer has been completely destroyed, a brilliant but obsessed scientist, Hank Symes uses illegally obtained biological materials for an experiment that he hopes will save the world. In the cou...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Rene Daalder",
+            "url": "/name/nm0196350/"
+        }
+    ],
+    "duration": "PT2H",
+    "genre": [
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTE2MTM1MjI2Ml5BMl5BanBnXkFtZTcwODgzMjUyMQ@@._V1_.jpg",
+    "keywords": "future,ozone layer,vision of the future,transformation,sun",
+    "name": "Habitat",
+    "original_info": {
+        "id": "Habitat_1997",
+        "name": "Habitat",
+        "year": "1997"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "pleiades10"
+        },
+        "dateCreated": "2000-08-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0119243/"
+        },
+        "name": "Interesting story with promise.",
+        "reviewBody": "Decent ecological sci-fi film that tells the story of an Earth reduced to a barren wasteland, and a scientist that decides to change all that. An experiment with bacteria, algae, electricity and who knows what else, claims the life of the scientist, but then his family begin to notice their home slowly turning into a rain forest. The teenage son plays his role well, embarrassed by his flower child mother, and his stand off-ish father, he just wants to fit in. But despite being the target of his peers' ridicule, he manages to land the affections of one of the prettiest girls in school. If only that skinny dipping scene could've happen to me in high school! Anyway, as the house keeps growing, the son slowly develops certain powers that allow him to stand up to his oppressors. \n\nHabitat has a good story, but seems to have run short on special effects funds with 25% of the movie left to film. Some of the interior shots of the growing house are both beautiful and grotesque, but then we end up with strange scenes like a certain explosion at the end, that looks like they rigged a train set model with firecrackers, lightly covered it with moss, and let it blow. \n\nAnother one in the \"detach your brain before watching\" genre. I like movies like this. There's so much seriousness in our day to day lives, that when I have the time to watch a movie like Habitat, I like to just sit back, and absorb it. Much like the house did to certain antagonists in this film.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Ardustry Home Entertainment",
+        "duration": "PT1M38S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2175140121",
+        "name": "Habitat",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzA5Y2E1NmItZGE1NC00OGNjLTg2OWEtZWNiMWY0MjEyMTVjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzA5Y2E1NmItZGE1NC00OGNjLTg2OWEtZWNiMWY0MjEyMTVjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:05:00Z",
+        "url": "https://www.imdb.com/video/vi2175140121/"
+    },
+    "url": "/title/tt0119243/"
+}

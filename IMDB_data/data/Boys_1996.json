@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Winona Ryder",
+            "url": "/name/nm0000213/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lukas Haas",
+            "url": "/name/nm0001305/"
+        },
+        {
+            "@type": "Person",
+            "name": "John C. Reilly",
+            "url": "/name/nm0000604/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3752,
+        "ratingValue": 4.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0049348/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0031772/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0030612/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stacy Cochran",
+            "url": "/name/nm0168214/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Salter",
+            "url": "/name/nm0759070/"
+        }
+    ],
+    "datePublished": "1996-05-10",
+    "description": "25 y.o. Patty is thrown off her horse and knocked out. Students from a boys' boarding school find her and smuggle her to John's room at the school as cops are looking for her at home.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Stacy Cochran",
+            "url": "/name/nm0168214/"
+        }
+    ],
+    "duration": "PT1H26M",
+    "genre": [
+        "Drama",
+        "Mystery",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDE5OTEyZWEtMDg3MC00MzY2LTk3NzMtOTIwOTljMWM1ZmZjXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "scene during opening credits,preparatory school,f rated,teenager,teenage boy",
+    "name": "Boys",
+    "original_info": {
+        "id": "Boys_1996",
+        "name": "Boys",
+        "year": "1996"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "BobLib"
+        },
+        "dateCreated": "1999-09-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0115742/"
+        },
+        "name": "Attractive leads, but where's the beef?",
+        "reviewBody": "\"Boys\" is proof positive that two young, attractive leads, Wynona Ryder and Lukas Haas, can't always compensate for a complex, uninvolving plot. Make no mistake, Ryder and Haas are both as good as they can be, given the material, and their love scenes, particularly at the carnival, do generate a goodly ammount of heat. But, on the whole, the story is far too complex and uninvolving. By the time the central mystery is unraveled, you find yourself asking what all the fuss was about. In short, a dynamic team wasted on a trite picture."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Patty is thrown off her horse and knocked out. Students from a boys' boarding school find her and smuggle her to John's room at the school as cops are looking for her at home.",
+        "duration": "PT1M51S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3908551449",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMmQ4YmFmOGEtYjNhMC00NjhjLWI5ZWMtNGRiNDFkZTI0ODkxXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMmQ4YmFmOGEtYjNhMC00NjhjLWI5ZWMtNGRiNDFkZTI0ODkxXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-11-04T14:11:13.733Z",
+        "url": "https://www.imdb.com/video/vi3908551449/"
+    },
+    "url": "/title/tt0115742/"
+}

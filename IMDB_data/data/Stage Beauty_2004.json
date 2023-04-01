@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Billy Crudup",
+            "url": "/name/nm0001082/"
+        },
+        {
+            "@type": "Person",
+            "name": "Claire Danes",
+            "url": "/name/nm0000132/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rupert Everett",
+            "url": "/name/nm0000391/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 10526,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0060306/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0102795/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0063961/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeffrey Hatcher",
+            "url": "/name/nm0368774/"
+        }
+    ],
+    "datePublished": "2004-10-29",
+    "description": "A female theatre dresser creates a stir and sparks a revolution in seventeenth century London theatre by playing Desdemona in Othello. But what will become of the male actor she once worked for and eventually replaced?",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Richard Eyre",
+            "url": "/name/nm0264236/"
+        }
+    ],
+    "duration": "PT1H46M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDNmNDYzNzUtMTZhZi00Y2YzLTg5ZTAtOWM3MDAxZDI5ZTg0XkEyXkFqcGdeQXVyMTEzNjc3MDQ5._V1_.jpg",
+    "keywords": "female frontal nudity,sex,prostitute,orange girl,nudity",
+    "name": "Stage Beauty",
+    "original_info": {
+        "id": "Stage Beauty_2004",
+        "name": "Stage Beauty",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Rogue-32"
+        },
+        "dateCreated": "2006-02-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0368658/"
+        },
+        "name": "\"Who are you now?\"",
+        "reviewBody": "Stage Beauty is an unbelievably ambitious production, and with so many provocative themes running simultaneously it's definitely not boring. What I liked the most was the way the sexual ambiguity was portrayed - most of those scenes had a playful touch, so as not to get drearily heavy-handed, but I also felt a lot of the veering between seriousness and comedy was awkward where it should have been smooth. Rupert Everett's droll turn as the King was perfect, and Claire Danes has never been more passionate and radiant. Billy Crudup's role was the most difficult, of course, and he handled it commendably. My favorite scene is the one where the two of them are in bed, and she's asking, \"who are you now?\" (the man or the woman, based on the position) - a brilliant scene which depicts the ridiculousness of gender-stereotyping with wit and charm to spare.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Lionsgate",
+        "duration": "PT2M25S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3196715289",
+        "name": "Stage Beauty",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTUxZjBjOTctNDBhMi00ZGI0LTk4MjAtZTNjZDdjNWRiMjIzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTUxZjBjOTctNDBhMi00ZGI0LTk4MjAtZTNjZDdjNWRiMjIzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:14:59Z",
+        "url": "https://www.imdb.com/video/vi3196715289/"
+    },
+    "url": "/title/tt0368658/"
+}

@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Eric Schweig",
+            "url": "/name/nm0777760/"
+        },
+        {
+            "@type": "Person",
+            "name": "Graham Greene",
+            "url": "/name/nm0001295/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gary Farmer",
+            "url": "/name/nm0001200/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1501,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0010508/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0002342/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0036702/"
+        },
+        {
+            "@type": "Person",
+            "name": "Adrian C. Louis",
+            "url": "/name/nm1023695/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jennifer D. Lyne",
+            "url": "/name/nm1118869/"
+        }
+    ],
+    "datePublished": "2002-01-14",
+    "description": "An inspirational tale about the relationship between two Sioux Indian brothers living on the Pine Ridge Indian reservation.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Chris Eyre",
+            "url": "/name/nm0264220/"
+        }
+    ],
+    "duration": "PT1H24M",
+    "genre": [
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc5MTg2NjM1NF5BMl5BanBnXkFtZTcwODY0Nzg0MQ@@._V1_.jpg",
+    "keywords": "watching tv,tragedy,rock,vietnam war veteran,caught in a bear trap",
+    "name": "Skins",
+    "original_info": {
+        "id": "Skins_2002",
+        "name": "Skins",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "=G="
+        },
+        "dateCreated": "2003-05-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0284494/"
+        },
+        "name": "Life and death on the rez",
+        "reviewBody": "\"Skins\" is an unabashed low budget indie which tells a meager story about life on South Dakota's impoverished Pine Ridge Indian Reservation. The film centers on an Indian cop/vigilante (Schweig) and his alcoholic Vietnam vet brother (Greene) and manages good character development, a semblance of story, humor, drama, and an obvious proactive Native American agenda. This austere production will be an average watch for most filmgoers while those with specific interest in Native American issues will find depth, substance, and resonance. (C+)\n\nNote - Those interested in \"Skins\" might want to give \"Thunderheart 1992\" (also with Graham Greene) a look.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from First Look Home Entertainment",
+        "duration": "PT2M12S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2357723417",
+        "name": "Skins",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjZlZDRkZWEtYjVmZC00ODBiLWI1MzItNjBiYzA0ODUyM2U5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjZlZDRkZWEtYjVmZC00ODBiLWI1MzItNjBiYzA0ODUyM2U5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:07:34Z",
+        "url": "https://www.imdb.com/video/vi2357723417/"
+    },
+    "url": "/title/tt0284494/"
+}

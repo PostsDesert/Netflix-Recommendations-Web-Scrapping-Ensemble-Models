@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Fred Astaire",
+            "url": "/name/nm0000001/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rita Hayworth",
+            "url": "/name/nm0000028/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Benchley",
+            "url": "/name/nm0070361/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2713,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "Passed",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Fessier",
+            "url": "/name/nm0275255/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ernest Pagano",
+            "url": "/name/nm0656039/"
+        }
+    ],
+    "datePublished": "1941-09-25",
+    "description": "In order to cover up his philandering ways, a married Broadway producer sets one of his dancers up on a date with a chorus girl for whom he had bought a gift, but the two dancers fall in love for real.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Sidney Lanfield",
+            "url": "/name/nm0485647/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDZhYThlOTEtMDJjNS00YTAzLTgzZTgtNTYyN2MwODhmYzdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDQzMDg4Nzk@._V1_.jpg",
+    "keywords": "guardhouse,new york city,u. s. army,gunfire,reprisal",
+    "name": "You'll Never Get Rich",
+    "original_info": {
+        "id": "You'll Never Get Rich_1941",
+        "name": "You'll Never Get Rich",
+        "year": "1941"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "cobrazulu"
+        },
+        "dateCreated": "2005-06-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0034409/"
+        },
+        "name": "Hayworth-Astaire are a perfect match.",
+        "reviewBody": "I have to differ with the viewer who feels that though Rita Hayworth was a marvelous dancer she did not measure up to Ginger Rogers as the partner of Fred Astaire. Rita's dancing was so graceful that she was the perfect match for the stupendous Astaire. Her beauty in this movie is a thing to behold. Now after all these years we can only wish that they included a bunch of other dances instead of all the silliness. How can it be that such a lovely as Rita would have such a difficult life? I wonder if the talented Hayworth ever realized that it would be her early dancing that would really be her lasting legacy and if she did would she have given us more to appreciate for the years. Watching her dance as a young woman is a joy that will be repeated for generations.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT2M7S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2612379161",
+        "name": "You'll Never Get Rich",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzQ5ODMyNzUtZDRiOC00Y2E2LWE0NWYtZTczYmViNGUwMWFkXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzQ5ODMyNzUtZDRiOC00Y2E2LWE0NWYtZTczYmViNGUwMWFkXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-02-25T17:02:07.237Z",
+        "url": "https://www.imdb.com/video/vi2612379161/"
+    },
+    "url": "/title/tt0034409/"
+}

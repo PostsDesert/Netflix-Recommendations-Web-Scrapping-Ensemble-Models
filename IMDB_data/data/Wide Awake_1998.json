@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Joseph Cross",
+            "url": "/name/nm0189200/"
+        },
+        {
+            "@type": "Person",
+            "name": "Timothy Reifsnyder",
+            "url": "/name/nm0717562/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dana Delany",
+            "url": "/name/nm0001127/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4378,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0022594/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0055428/"
+        },
+        {
+            "@type": "Person",
+            "name": "M. Night Shyamalan",
+            "url": "/name/nm0796117/"
+        }
+    ],
+    "datePublished": "1998-03-20",
+    "description": "A 10-year-old boy goes on a search for God after his grandfather dies.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "M. Night Shyamalan",
+            "url": "/name/nm0796117/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMmU1OTcwYTEtZjZhNS00NDU5LWJiMzQtNzdmZTExYmE0ODlkXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+    "keywords": "cardinal,cheating on test,first love,grandfather,injured child",
+    "name": "Wide Awake",
+    "original_info": {
+        "id": "Wide Awake_1998",
+        "name": "Wide Awake",
+        "year": "1998"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "fambright"
+        },
+        "dateCreated": "2000-03-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120510/"
+        },
+        "name": "A Movie Worth Seeing",
+        "reviewBody": "I came upon this movie purely by accident when it was being shown on cable, and found myself riveted to my seat, not wanting to miss a minute of it. The performance by Joseph Cross was captivating, but what was even more compelling was the story itself. I was constantly trying to figure out how it was going to end.\n\nThe ending turned out to be a real surprise, but I was also impressed by the portrayal of boyhood that the audience receives in the process of getting there. It was so true to life that I found myself wondering how much of it was based on the film writer's own experiences. Above all, I was impressed by the amount of respect the movie seems to have for boys, and by its willingness to recognize that 5th graders sometimes think deep thoughts and ask deep questions.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3251674649",
+        "name": "Wide Awake",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjg5MTY4NWItZjVjNi00NTg4LTg5YjUtY2EyY2U3NjhjNmYwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjg5MTY4NWItZjVjNi00NTg4LTg5YjUtY2EyY2U3NjhjNmYwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-10-26T04:02:43Z",
+        "url": "https://www.imdb.com/video/vi3251674649/"
+    },
+    "url": "/title/tt0120510/"
+}

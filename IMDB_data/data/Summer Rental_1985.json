@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Candy",
+            "url": "/name/nm0001006/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Crenna",
+            "url": "/name/nm0001077/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rip Torn",
+            "url": "/name/nm0001800/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 17188,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0332172/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeremy Stevens",
+            "url": "/name/nm0828484/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Reisman",
+            "url": "/name/nm0718459/"
+        }
+    ],
+    "datePublished": "1985-08-09",
+    "description": "An overworked air-traffic controller takes his family on a beach vacation but is soon beset by series of mishaps.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Carl Reiner",
+            "url": "/name/nm0005348/"
+        }
+    ],
+    "duration": "PT1H27M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODkxMjUzYzEtNjA0My00M2Q4LWE0NzEtMDIxYTdhM2Y3ZDgzL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "summer vacation,regatta,family man,sunburned man,man uses crutches",
+    "name": "Summer Rental",
+    "original_info": {
+        "id": "Summer Rental_1985",
+        "name": "Summer Rental",
+        "year": "1985"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "utahdesertkat"
+        },
+        "dateCreated": "2004-03-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0090098/"
+        },
+        "name": "Good, clean, family fun ...",
+        "reviewBody": "John Candy's wit and humor shines through as Jack Chester, the over worked air traffic controller who reluctantly takes a vacation to the beach with his family. The laughs keep coming as Jack and his family spend the summer at the beach with many mishaps occurring throughout the movie. The movie is about family and new friends pulling together, working side by side, believing in a dream and achieving an impossible goal. We've watched this movie many times, but we still laugh and feel good when the movie ends. The standing joke at our home, when we eat dinner out at a restaurant that passes off breaded fish as an expensive seafood item with a fancy name, is \"Look - it's Scully's Catch of the day\"! This movie is good, clean, family fun - entertainment for the entire family!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT1M25S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4113611801",
+        "name": "Summer Rental",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjgzZWJmODgtYTFjZi00YzRmLWIxNDctNzA0MjY1YjNiNDgyXkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjgzZWJmODgtYTFjZi00YzRmLWIxNDctNzA0MjY1YjNiNDgyXkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg",
+        "uploadDate": "2019-06-08T17:16:03.093Z",
+        "url": "https://www.imdb.com/video/vi4113611801/"
+    },
+    "url": "/title/tt0090098/"
+}

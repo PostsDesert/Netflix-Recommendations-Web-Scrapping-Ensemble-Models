@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Gwyneth Paltrow",
+            "url": "/name/nm0000569/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jude Law",
+            "url": "/name/nm0000179/"
+        },
+        {
+            "@type": "Person",
+            "name": "Angelina Jolie",
+            "url": "/name/nm0001401/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 85847,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0131014/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0134409/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kerry Conran",
+            "url": "/name/nm0175775/"
+        }
+    ],
+    "datePublished": "2004-09-17",
+    "description": "After New York City receives a series of attacks from giant flying robots, a reporter teams up with a pilot in search of their origin, as well as the reason for the disappearances of famous scientists around the world.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Kerry Conran",
+            "url": "/name/nm0175775/"
+        }
+    ],
+    "duration": "PT1H46M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM0NDQzMDA1NF5BMl5BanBnXkFtZTcwNTU3ODAzMw@@._V1_.jpg",
+    "keywords": "steampunk,reporter,dieselpunk,mechanical monster,shangri la",
+    "name": "Sky Captain and the World of Tomorrow",
+    "original_info": {
+        "id": "Sky Captain and the World of Tomorrow_2004",
+        "name": "Sky Captain and the World of Tomorrow",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "RmatthewC"
+        },
+        "dateCreated": "2004-11-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0346156/"
+        },
+        "name": "Movie has a very interesting look and feel",
+        "reviewBody": "I had not read about the movie before watching it and was fascinated within the first several minutes and continued to enjoy it through to the end. This movie's unique look and feel is its primary vehicle. \n\nIf you are looking for a sophisticated plot, this movie was not made for you. The plot and acting were adequate enough to avoid ruining the visual picture. The makers applied a comic book feel to the movie that allowed for softer edges and sepia tones, both with the animated sets and the human characters. If a set does not look completely realistic, the viewer is not troubled because the set is consistent with everything you see in the movie.\n\nAnyone who has ever edited video or worked with animation would have to appreciate the visual art and quality of this movie. Otherwise, it contains a decent story that would be worth watching at least once."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer 1",
+        "duration": "PT1M57S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2240282905",
+        "name": "Sky Captain and the World of Tomorrow",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzE0MDQ5NGQtMDNhNS00NjZkLWJkZDUtZjVjNjM1OTExNzQzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzE0MDQ5NGQtMDNhNS00NjZkLWJkZDUtZjVjNjM1OTExNzQzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:07:42Z",
+        "url": "https://www.imdb.com/video/vi2240282905/"
+    },
+    "url": "/title/tt0346156/"
+}

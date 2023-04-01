@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jerry O'Connell",
+            "url": "/name/nm0005278/"
+        },
+        {
+            "@type": "Person",
+            "name": "Megan Ward",
+            "url": "/name/nm0911725/"
+        },
+        {
+            "@type": "Person",
+            "name": "Billy West",
+            "url": "/name/nm0921942/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 13761,
+        "ratingValue": 5.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0120075/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0034438/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0066916/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Payson",
+            "url": "/name/nm0668500/"
+        }
+    ],
+    "datePublished": "1996-07-26",
+    "description": "A nice guy has just moved to New York and discovers that he must share his run-down apartment with a couple thousand singing, dancing cockroaches.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Payson",
+            "url": "/name/nm0668500/"
+        }
+    ],
+    "duration": "PT1H20M",
+    "genre": [
+        "Comedy",
+        "Fantasy",
+        "Musical"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzczODMyNGUtNjRmOS00ZTA3LWIxOTgtOGE2YmYwZDA2YWU1XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "senator,rock band,new york city,apartment,singing",
+    "name": "Joe's Apartment",
+    "original_info": {
+        "id": "Joe's Apartment_1996",
+        "name": "Joe's Apartment",
+        "year": "1996"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "osgrath"
+        },
+        "dateCreated": "2002-08-15",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0116707/"
+        },
+        "name": "Totally off the wall creative genius",
+        "reviewBody": "I had never heard of this movie before my 16 year-old son rented the video. It is hilarious. Think of \"Babe\" as produced by the Marx Brothers, using singing cockroaches instead of mice . Evidently the critics didn't like it much, and I can see how they might not see it as high art, but as entertainment and an enjoyable time in fantasy land, it right up there with the best of them, in my opinion.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0116707/"
+}

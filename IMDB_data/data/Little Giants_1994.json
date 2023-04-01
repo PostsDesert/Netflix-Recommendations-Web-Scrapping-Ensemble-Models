@@ -1,0 +1,117 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Rick Moranis",
+            "url": "/name/nm0001548/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ed O'Neill",
+            "url": "/name/nm0642145/"
+        },
+        {
+            "@type": "Person",
+            "name": "Shawna Waldron",
+            "url": "/name/nm0907323/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 29524,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0009119/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0064773/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Ferguson",
+            "url": "/name/nm0272464/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Shallcross",
+            "url": "/name/nm0787768/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tommy Swerdlow",
+            "url": "/name/nm0842476/"
+        }
+    ],
+    "datePublished": "1994-10-14",
+    "description": "Misfits form their own opposing team to an elite peewee football team, coached by the elite team coach's brother.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Duwayne Dunham",
+            "url": "/name/nm0242271/"
+        }
+    ],
+    "duration": "PT1H47M",
+    "genre": [
+        "Comedy",
+        "Family",
+        "Sport"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTBlNGFmNTktZGJlZi00ZWNkLWI0MGItNjhhNjQyNWM1MmVlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "coach,man wears eyeglasses,american football coach,coming of age,sexism",
+    "name": "Little Giants",
+    "original_info": {
+        "id": "Little Giants_1994",
+        "name": "Little Giants",
+        "year": "1994"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Lady_Jenna"
+        },
+        "dateCreated": "2002-11-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0110364/"
+        },
+        "name": "great movie for girls",
+        "reviewBody": "I loved this movie the first time I saw it in 3rd grade and I still love it. I'm not a big fan of sports based movies, but this movie I adore. Despite being a movie about football, it's a great movie for girls. Icebox kicks butt on the field but still has to deal with crushes. Not to mention it's great how she's discriminated against at first for being a girl, but then comes out on top as the best player in the entire movie, beating every guy who didn't think she could to it. The O'Shea brothers get some good banter going, but mostly it's about Icebox. It's a great movie. I love it to death.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT2M1S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4128224281",
+        "name": "Little Giants",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BN2FhZDRhODYtZmYwMi00ZThhLWI4MzItZDI4ZDI4Mjc3Njc2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BN2FhZDRhODYtZmYwMi00ZThhLWI4MzItZDI4ZDI4Mjc3Njc2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2016-06-03T21:36:26Z",
+        "url": "https://www.imdb.com/video/vi4128224281/"
+    },
+    "url": "/title/tt0110364/"
+}

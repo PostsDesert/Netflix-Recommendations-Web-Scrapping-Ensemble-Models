@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Meg Ryan",
+            "url": "/name/nm0000212/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andy Garcia",
+            "url": "/name/nm0000412/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ellen Burstyn",
+            "url": "/name/nm0000995/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 22766,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0049348/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ron Bass",
+            "url": "/name/nm0060103/"
+        },
+        {
+            "@type": "Person",
+            "name": "Al Franken",
+            "url": "/name/nm0291253/"
+        }
+    ],
+    "datePublished": "1994-05-13",
+    "description": "The seemingly perfect relationship between a man and his wife is tested as a result of her alcoholism.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Luis Mandoki",
+            "url": "/name/nm0001502/"
+        }
+    ],
+    "duration": "PT2H6M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODBhYzRiN2ItYjgxMS00MGUwLTg2ODEtY2UzYWM1NzdlYjQ5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "airline pilot,alcoholism,self centeredness,husband wife relationship,drunkenness",
+    "name": "When a Man Loves a Woman",
+    "original_info": {
+        "id": "When a Man Loves a Woman_1994",
+        "name": "When a Man Loves a Woman",
+        "year": "1994"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Jailynn"
+        },
+        "dateCreated": "1999-10-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0111693/"
+        },
+        "name": "Loved It",
+        "reviewBody": "I saw this movie the first week when it came out and absolutely fell in love with it. My parents were alcoholics and seeing what the little girls had to go through is what made me cry so hard. I could see many reflections of my sister and I in Meg Ryan's daughters. Both her and Andy Garcia's performances were outstanding. I would recommend this movie if you have personally dealt with alcholism, or if you have been the victim of someone's abuse, because it helped me come to terms with some issues that I had been struggling with."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Touchstone Pictures",
+        "duration": "PT1M1S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi234684697",
+        "name": "When a Man Loves a Woman",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZGRiYjc1NjktMTg3ZS00MTdkLTg4MjctNDI0ZWFjYTZmZDhmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZGRiYjc1NjktMTg3ZS00MTdkLTg4MjctNDI0ZWFjYTZmZDhmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:22:50Z",
+        "url": "https://www.imdb.com/video/vi234684697/"
+    },
+    "url": "/title/tt0111693/"
+}

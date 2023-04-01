@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Robert Ri'chard",
+            "url": "/name/nm0722647/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Gallagher",
+            "url": "/name/nm0001251/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gloria Reuben",
+            "url": "/name/nm0005349/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 805,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0010653/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0071584/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0041747/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anne Rice",
+            "url": "/name/nm0723351/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Wilder",
+            "url": "/name/nm0569570/"
+        }
+    ],
+    "datePublished": "2001-11-11",
+    "description": "Set in nineteenth-century New Orleans, the story depicts the gens de couleur libre, or the Free People of Colour, a dazzling yet damned class caught between the world of white privilege and black oppression.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Peter Medak",
+            "url": "/name/nm0575389/"
+        }
+    ],
+    "duration": "PT2H20M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzIwODU5MTA0NF5BMl5BanBnXkFtZTcwNTE4NjAwMQ@@._V1_.jpg",
+    "keywords": "deception,free people of color,family tradition,based on the works of anne rice,white male black female relationship",
+    "name": "The Feast of All Saints",
+    "original_info": {
+        "id": "The Feast of All Saints_2001",
+        "name": "The Feast of All Saints",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ladonnanichole"
+        },
+        "dateCreated": "2005-05-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0255730/"
+        },
+        "name": "a coming of age story",
+        "reviewBody": "Historical drama and coming of age story involving free people of color in pre civil war New Orleans. Starts off slow but picks up steam once you have learned about the main characters and the real action can begin. This is not just a story about the exploitation of black women, because these were free people. They may not have had all the rights of whites but they certainly had more control over their destinies than their slave ancestors. The young men and women in this story must each make their own choice about how to live their lives, whether to give into the depravity of the system or live with optimism and contribute to their community. I enjoyed all of the characters but my favorites were Christophe, Anna Bella, and Marcel.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0255730/"
+}

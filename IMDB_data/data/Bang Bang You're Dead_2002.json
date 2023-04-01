@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tom Cavanagh",
+            "url": "/name/nm0146915/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ben Foster",
+            "url": "/name/nm0004936/"
+        },
+        {
+            "@type": "Person",
+            "name": "Randy Harrison",
+            "url": "/name/nm0365826/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 12925,
+        "ratingValue": 7.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0052980/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0059559/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0089921/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Mastrosimone",
+            "url": "/name/nm0557895/"
+        }
+    ],
+    "datePublished": "2002-06-07",
+    "description": "Trevor is a troubled high school student, thanks to the effects of bullying. This is the story of his fight to break free.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Guy Ferland",
+            "url": "/name/nm0272704/"
+        }
+    ],
+    "duration": "PT1H33M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTU0Zjc4ZTktOWY5ZC00ZTM0LWE5M2QtY2U0ZGYxZjFhMWU3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "columbine,troubled teen,social commentary,attempted suicide by hanging,16 year old boy",
+    "name": "Bang Bang You're Dead",
+    "original_info": {
+        "id": "Bang Bang You're Dead_2002",
+        "name": "Bang Bang You're Dead",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "producer-3"
+        },
+        "dateCreated": "2002-06-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0288439/"
+        },
+        "name": "Some answers of why the Columbine school shooting took place.",
+        "reviewBody": "I saw this film at the Nantucket film festival (2002) with the writer, director and cast member Thomas Cavanagh. It revolves around the school play `Bang Bang You're Dead', and the troubled youth Trevor who is on the brink of a collapse.\n\nThe movie was paced fairly well, and the acting was good. Although, I found the plot to go off track for a while, I was emotionally thrilled throughout the film. Thomas Cavanagh put on a great performance as an educator. Ben Foster, as Trevor, was a good cast for the part. Both performances were well executed.\n\nIt's a very good movie. You don't know what will happen next. It's a good movie to show your kid if he is having social problems in school. It is also a big promotion for the `Bang Bang You're Dead' play.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trevor is a troubled high school student, thanks to the effects of bullying. This is the story of his fight to break free.",
+        "duration": "PT2M33S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1628554009",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjZkZWFjYjMtNjc4Mi00ZDUzLTlmYTMtNTBjZDM2MWU5NzRmXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjZkZWFjYjMtNjc4Mi00ZDUzLTlmYTMtNTBjZDM2MWU5NzRmXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2022-01-20T19:51:21.403Z",
+        "url": "https://www.imdb.com/video/vi1628554009/"
+    },
+    "url": "/title/tt0288439/"
+}

@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Brant Cotton",
+            "url": "/name/nm0183074/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frank Sallo",
+            "url": "/name/nm0962391/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lawrence Monoson",
+            "url": "/name/nm0598413/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 399,
+        "ratingValue": 3.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002572/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0100447/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ross Helford",
+            "url": "/name/nm1062366/"
+        }
+    ],
+    "datePublished": "2003-05-27",
+    "description": "Enlisting the aid of a group of Russian soldiers, a marine colonel must capture a Russian terrorist.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mark Roper",
+            "url": "/name/nm0004161/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Action",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU2OTk4MDI2MF5BMl5BanBnXkFtZTgwMzAwMDA2MDE@._V1_.jpg",
+    "keywords": "russian terrorism,russian terrorist,terrorism,terrorist,soldier",
+    "name": "Marines",
+    "original_info": {
+        "id": "Marines_2003",
+        "name": "Marines",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "debikm"
+        },
+        "dateCreated": "2010-11-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0369705/"
+        },
+        "name": "Geez... really?",
+        "reviewBody": "I'm not even 30 minutes into this movie and I have issues with it. There is the aforementioned brass insignia mistake, the outdated cameo, the juvenile commentary from members of a supposed crack team, not to mention an uncharacteristic aversion by the Marines to using Kalshnikovs (pronounced incorrectly in the movie as \"Kalashnikovs\") \"Adapt or die\" might have come across better if they had used the unofficial Marines mantra of \"improvise, adapt, overcome.\" Any Marine I've ever met would have been all over getting his hands on an AK 47 or any other piece of equipment or Intel that would contribute to accomplishing their mission successfully. Hell, the Russian major got all the best lines. I think they ran out of money early on and couldn't afford proper costumes, military advisers, writers or actors.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 1,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from DEJ",
+        "duration": "PT48S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1939144985",
+        "name": "Marines",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDhlMWQ5ODItMGMzMy00NDkxLWI1NjctZGJmMzIyYmQ4MDY3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDhlMWQ5ODItMGMzMy00NDkxLWI1NjctZGJmMzIyYmQ4MDY3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:57:50Z",
+        "url": "https://www.imdb.com/video/vi1939144985/"
+    },
+    "url": "/title/tt0369705/"
+}

@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Anthony Anderson",
+            "url": "/name/nm0026364/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jerry O'Connell",
+            "url": "/name/nm0005278/"
+        },
+        {
+            "@type": "Person",
+            "name": "Estella Warren",
+            "url": "/name/nm0005535/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 32530,
+        "ratingValue": 4.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0040620/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0026281/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve Bing",
+            "url": "/name/nm0082893/"
+        },
+        {
+            "@type": "Person",
+            "name": "Barry O'Brien",
+            "url": "/name/nm0639434/"
+        },
+        {
+            "@type": "Person",
+            "name": "Scott Rosenberg",
+            "url": "/name/nm0003298/"
+        }
+    ],
+    "datePublished": "2003-01-17",
+    "description": "Two childhood friends, a New York hairstylist and a would-be musician, get caught up with the mob and are forced to deliver $50,000 to Australia, but things go haywire when the money is lost to a wild kangaroo.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David McNally",
+            "url": "/name/nm0573589/"
+        }
+    ],
+    "duration": "PT1H29M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk1Njg5MjAyOV5BMl5BanBnXkFtZTYwNDAxMDg5._V1_.jpg",
+    "keywords": "kangaroo,australia,best friend,wet t shirt,body paint",
+    "name": "Kangaroo Jack",
+    "original_info": {
+        "id": "Kangaroo Jack_2003",
+        "name": "Kangaroo Jack",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "cleeseely"
+        },
+        "dateCreated": "2003-02-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0257568/"
+        },
+        "name": "My 7 year old daughter and I had some laughs",
+        "reviewBody": "Regardless of its faults, my 7 year old daughter and I had fun and enjoyed the movie, which is what counts. Obviously, the movie is not intended to be a masterpiece or believable, but children will find it very funny and adults may enjoy it too."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Kangaroo Jack",
+        "duration": "PT1M48S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1930339353",
+        "name": "Kangaroo Jack",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTE0OWExMDMtMzRlMS00NzI4LWIxZTItODU1ZGJiOTA3ZjRjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTE0OWExMDMtMzRlMS00NzI4LWIxZTItODU1ZGJiOTA3ZjRjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2012-10-22T03:18:21Z",
+        "url": "https://www.imdb.com/video/vi1930339353/"
+    },
+    "url": "/title/tt0257568/"
+}

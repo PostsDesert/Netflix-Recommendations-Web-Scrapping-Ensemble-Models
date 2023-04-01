@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Gene Hackman",
+            "url": "/name/nm0000432/"
+        },
+        {
+            "@type": "Person",
+            "name": "Candice Bergen",
+            "url": "/name/nm0000298/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Coburn",
+            "url": "/name/nm0000336/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5585,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0037434/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0078037/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Brooks",
+            "url": "/name/nm0112218/"
+        }
+    ],
+    "datePublished": "1975-06-25",
+    "description": "A pair of ex-Rough Riders, a former prostitute, a gunfighter, an aging cowboy and an English gentleman enter a 700-mile horse race through the Southwest desert in 1908.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Richard Brooks",
+            "url": "/name/nm0112218/"
+        }
+    ],
+    "duration": "PT2H12M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Western"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZmU3NGQ0OTktN2RmMS00ZjllLWJlOTktYzI3MDcwMjQxNTc3XkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
+    "keywords": "prostitute,motorcycle,colt,animal abuse,barbershop",
+    "name": "Bite the Bullet",
+    "original_info": {
+        "id": "Bite the Bullet_1975",
+        "name": "Bite the Bullet",
+        "year": "1975"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "grendelkhan"
+        },
+        "dateCreated": "2002-11-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0072705/"
+        },
+        "name": "The end of an era",
+        "reviewBody": "\"Bite the Bullet\" is not just a 70's western, it is the showcase for the closing of the American West. We see a dying breed, the cowboys, and their sense of loss as the world moves beyond.\n\nThe performances are great across the board, particularly Gene Hackman, James Coburn, Ben Johnson, and Ian Bannen. Gene Hackman is the former Rough Rider and cowboy, who seems lost in a world he doesn't understand. He can't abide cruelty to an animal, two or four-legged. Coburn is Hackman's friend and former compatriot in the Rough Riders. He's a gambler, but with a sense of honor. Ben Johnson is the old man, who has been on the losing side all of his life. He is looking for his last chance to come out a winner, before he fades away. Bannen is the English sportsman, in awe of the west and the men and women who lived there.\n\nThere are great character performances and beautiful scenery. The story is both inspiring and sad. If I were to fault it, I would say it needed the perspective of the black man. We see prejudices against Mexicans, Native Americans, and, to a lesser extent, women. What about the rest of the oppressed?\n\nAs far as the cruelty to animals, yes, it is a central part of the story, from the reckless and brutal actions of Jan Michael Vincent's character, to the dead mare that Hackman comes across. Hackman says it best: \"What does the horse get?....Broken bones....\" The look in Hackman's eyes as he sees what he has done to his horse at the end of the race says it all."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A group of ex-rough riders, an ex-prostitute and a gunfighter enter a horse race in the desert.",
+        "duration": "PT2M31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1240449305",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYTg5MmU4MzAtNGU0YS00ZDE3LWFhMzEtMTY1YTcxN2E5NjM5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTg5MmU4MzAtNGU0YS00ZDE3LWFhMzEtMTY1YTcxN2E5NjM5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-10-29T16:38:06.968Z",
+        "url": "https://www.imdb.com/video/vi1240449305/"
+    },
+    "url": "/title/tt0072705/"
+}

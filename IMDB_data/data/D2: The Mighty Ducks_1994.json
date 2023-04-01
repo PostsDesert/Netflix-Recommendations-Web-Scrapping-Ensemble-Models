@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Emilio Estevez",
+            "url": "/name/nm0000389/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kathryn Erbe",
+            "url": "/name/nm0002062/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Tucker",
+            "url": "/name/nm0875951/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 41449,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0006702/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0008970/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steven Brill",
+            "url": "/name/nm0109359/"
+        }
+    ],
+    "datePublished": "1994-03-25",
+    "description": "Can Gordon's team win the Junior Goodwill Games in California in spite of all the set-backs?",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Sam Weisman",
+            "url": "/name/nm0918873/"
+        }
+    ],
+    "duration": "PT1H46M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA1YjVjZWQtZTNkYS00NTA2LThhODUtZTI1MzIwMWRjNWMzXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "keywords": "street hockey,second part,campfire,apology,coach",
+    "name": "D2: The Mighty Ducks",
+    "original_info": {
+        "id": "D2: The Mighty Ducks_1994",
+        "name": "D2: The Mighty Ducks",
+        "year": "1994"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "gavin6942"
+        },
+        "dateCreated": "2016-12-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0109520/"
+        },
+        "name": "A Bigger Sequel, But Not Better",
+        "reviewBody": "Gordon Bombay is forced to withdraw from the minor hockey league with a knee injury. Much to his surprise, he is given the job of coach of Team USA Hockey for the Junior Goodwill Games in California. With most of the Ducks and a few new players in tow, he sets forth for LA.\n\nWhen you have a sequel, you have to make it bigger and better. This film is possibly bigger, because now the kids are playing in some sort of Olympic-like setting against a team from Iceland. So the pressure is much greater. But is it better? Not really. It's rather flat with no plot development, character development or surprises.\n\nFans of the first film might like this, especially because it will allow them to just relax for 90 minutes and not have to invest themselves. It's a good movie to play in the background. Also, Leah Lail is in it.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M26S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2181217817",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOGY1ZjE3NGYtNDA2ZC00M2EyLTlmNTgtNGQ0YjI5Y2JjODJkXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGY1ZjE3NGYtNDA2ZC00M2EyLTlmNTgtNGQ0YjI5Y2JjODJkXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-07-07T19:49:39.384Z",
+        "url": "https://www.imdb.com/video/vi2181217817/"
+    },
+    "url": "/title/tt0109520/"
+}

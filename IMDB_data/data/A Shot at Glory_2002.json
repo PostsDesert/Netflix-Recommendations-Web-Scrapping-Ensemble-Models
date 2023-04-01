@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Robert Duvall",
+            "url": "/name/nm0000380/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Keaton",
+            "url": "/name/nm0000474/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andy Gray",
+            "url": "/name/nm0336444/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2363,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0073152/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0209188/"
+        },
+        {
+            "@type": "Person",
+            "name": "Denis O'Neill",
+            "url": "/name/nm0642137/"
+        }
+    ],
+    "datePublished": "2002-07-12",
+    "description": "Gordon McLeod is the manager of a second tier Scottish football team. Faced with pressure from his American owner, he is forced to bring on a marquee player to improve the fortunes of the team and prevents its being moved from the...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Corrente",
+            "url": "/name/nm0180912/"
+        }
+    ],
+    "duration": "PT1H54M",
+    "genre": [
+        "Drama",
+        "Sport"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZDAyMDg1OTMtODhkOS00M2Q5LWIyMjEtMmI2YzMzY2UwZDQzXkEyXkFqcGdeQXVyMTM5ODk3Ng@@._V1_.jpg",
+    "keywords": "glasgow scotland,scotland,glasgow rangers,soccer movie,underdog",
+    "name": "A Shot at Glory",
+    "original_info": {
+        "id": "A Shot at Glory_2002",
+        "name": "A Shot at Glory",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "stuartie_holland"
+        },
+        "dateCreated": "2006-07-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0193854/"
+        },
+        "name": "Not as bad as some make out, not as good either...",
+        "reviewBody": "Well it looks as though, like Marmite, you either love or hate this movie. I saw it in an empty cinema in Edinburgh with a friend of mine who doesn't like football (soccer) but is a huge film buff. It's a shame the theatre was so quiet, as there were some good moments that deserved a higher attendance. Ally McCoist in particular belies his lack of acting experience and shows of his lovable rouge persona that British TV viewers will be familiar with from A Question of Sport.\n\nRobert Duvall for me looked like he was having fun, but his accent is really hit and miss, going from Groundskeeper Willie to Sean Connery via Brigadoon. To be fair to Duvall, the area of Scotland the film is set is known for it's accent, which is different from the main cities of Edinburgh and Glasgow (Scotland has many local dialects and accents so it's difficult to have a true representation of the accent).\n\nSadly Michael Keaton doesn't add anything to the movie other than a name. While it may have helped secure funding, Keaton doesn't do much apart from play the pantomime baddie, and as such his part in the proceedings is minimal. Unless you are a massive Keaton fan it's not worth watching his performance.\n\nIn general though, it's a fun way to spend 90 minutes, certainly more entertaining than watching a real game of Scottish Premier League action. If you are Scottish, you'll have fun spotting the players, ex-players and commentators; if you're a fan of underdog-beats-the-odds movies, you'll get a kick from seeing how the small team gets stronger as the cup goes on and if you just like movies there is enough to keep you watching without reaching for the remote.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Lionsgate Home Entertainment",
+        "duration": "PT1M56S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3451126041",
+        "name": "A Shot at Glory",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDJkOGNkMGQtMTkwZi00Y2ExLWE3YWUtNTQyYTdlMGZmNDE5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDJkOGNkMGQtMTkwZi00Y2ExLWE3YWUtNTQyYTdlMGZmNDE5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T07:49:17Z",
+        "url": "https://www.imdb.com/video/vi3451126041/"
+    },
+    "url": "/title/tt0193854/"
+}

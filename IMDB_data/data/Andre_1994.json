@@ -1,0 +1,113 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tina Majorino",
+            "url": "/name/nm0001499/"
+        },
+        {
+            "@type": "Person",
+            "name": "Keith Carradine",
+            "url": "/name/nm0001018/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chelsea Field",
+            "url": "/name/nm0001210/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7007,
+        "ratingValue": 5.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0094849/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harry Goodridge",
+            "url": "/name/nm0329335/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lew Dietz",
+            "url": "/name/nm0226343/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dana Baratta",
+            "url": "/name/nm0053096/"
+        }
+    ],
+    "datePublished": "1994-08-17",
+    "description": "The true story of how a seal named Andre befriended a little girl named Toni and her family in 1962.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "George Miller",
+            "url": "/name/nm0004305/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Adventure",
+        "Drama",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTAxYTA3NzktYjlhYy00N2NlLTg0YjQtNzA1MTFkODhlODEyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "fisherman,harbor master,seal the animal,year 1962,small town",
+    "name": "Andre",
+    "original_info": {
+        "id": "Andre_1994",
+        "name": "Andre",
+        "year": "1994"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "emm"
+        },
+        "dateCreated": "1998-12-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0109120/"
+        },
+        "name": "Seen once, seen it all!",
+        "reviewBody": "Based on a true story and from a library book, ANDRE shows viewers the love, triumphs, and companionship animals can bring. It does teach the perfect lesson about wild marine animals, too. A lot of \"family\" movies express this kind of idea, making this one more of the same like the rest, which was expected for me. They now suffer from a lack of originality and a very simple plot. I also hate the wasteful oldies put into this and I've heard enough of them already! Andre's characterization will charm and delight the young, though. I had a feeling this was going to rip off FREE WILLY at the time of its release. Actually, this is not that kind of movie. Parents and siblings will appreciate this one before the evening supper. Give the kids something else other than cute little old playful animals for a change!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Andre",
+        "duration": "PT2M1S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1088136729",
+        "name": "Andre",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODFhY2Y5YjItOWJjYS00ZWJkLTlkZDItYTVlZDIzMzk2ZjIyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODFhY2Y5YjItOWJjYS00ZWJkLTlkZDItYTVlZDIzMzk2ZjIyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2013-04-13T04:02:51Z",
+        "url": "https://www.imdb.com/video/vi1088136729/"
+    },
+    "url": "/title/tt0109120/"
+}

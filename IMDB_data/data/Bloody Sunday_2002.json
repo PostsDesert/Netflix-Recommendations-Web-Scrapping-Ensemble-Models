@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "James Nesbitt",
+            "url": "/name/nm0626362/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tim Pigott-Smith",
+            "url": "/name/nm0683116/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nicholas Farrell",
+            "url": "/name/nm0268297/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 25202,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103289/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0019015/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0941954/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Greengrass",
+            "url": "/name/nm0339030/"
+        }
+    ],
+    "datePublished": "2002-04-19",
+    "description": "A dramatization of the Irish civil rights protest march and subsequent massacre by British troops on January 30, 1972.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Paul Greengrass",
+            "url": "/name/nm0339030/"
+        }
+    ],
+    "duration": "PT1H51M",
+    "genre": [
+        "Drama",
+        "History",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTIxMjYwNjY4Ml5BMl5BanBnXkFtZTYwNzMzNjY3._V1_.jpg",
+    "keywords": "army vs civilians,ireland,irish history,northern ireland,1970s",
+    "name": "Bloody Sunday",
+    "original_info": {
+        "id": "Bloody Sunday_2002",
+        "name": "Bloody Sunday",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "mariobc"
+        },
+        "dateCreated": "2006-09-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0280491/"
+        },
+        "name": "A very realistic portrayal of the events in Londonderry 1972.",
+        "reviewBody": "I saw this film about 2 years ago, and was extremely impressed with the realism of the film.Having served with the British Army in Northern Ireland many years later I found the atmosphere and the general appearance and manner of the Paras extremely accurate, as I have seen many films about Ireland when trying to portray British soldiers they unfortunately could of done a little better. I consider myself to be open minded and understood and sympathized with the local catholic population during these events as this is or was pretty much how things are with regards to the catholic population in Northern Ireland.For me, the main good points were that the film was made in a documentary style in which the facts were shown in a straight to the point manner without any fancy computer effects or handsome faces portraying the main players. well done to the production team !!!!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0280491/"
+}

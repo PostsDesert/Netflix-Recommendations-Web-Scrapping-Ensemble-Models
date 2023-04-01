@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Turturro",
+            "url": "/name/nm0001806/"
+        },
+        {
+            "@type": "Person",
+            "name": "Emily Watson",
+            "url": "/name/nm0001833/"
+        },
+        {
+            "@type": "Person",
+            "name": "Geraldine James",
+            "url": "/name/nm0416524/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4569,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0159663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0056755/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0030118/"
+        },
+        {
+            "@type": "Person",
+            "name": "Vladimir Nabokov",
+            "url": "/name/nm0618603/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Berry",
+            "url": "/name/nm0077654/"
+        }
+    ],
+    "datePublished": "2000-09-08",
+    "description": "Two worlds collide when an eccentric genius falls in love with a strong-willed society beauty.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Marleen Gorris",
+            "url": "/name/nm0331296/"
+        }
+    ],
+    "duration": "PT1H49M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjRhYTQwZmQtMDFmOS00NmI4LWEwNzgtMjk5YzdjYTg0NmM0XkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_.jpg",
+    "keywords": "deception,f rated,aleksandr pushkin quotation,female director,chess",
+    "name": "The Luzhin Defence",
+    "original_info": {
+        "id": "The Luzhin Defence_2001",
+        "name": "The Luzhin Defence",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Andy - Cardiff"
+        },
+        "dateCreated": "2000-09-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0211492/"
+        },
+        "name": "A good movie but too much literary baggage",
+        "reviewBody": "'The Luzhin Defence' is a good film with fine central performances, but too much of the novel and not enough of the filmmaker's craft shines through. It felt through most of the film that the characters just helped to push the narrative along. Marlene Gorris could perhaps have examined the psyche of Luzhin, rather than depicting him as a tortured innocent victim torn apart by the cruel motives of others.\n\nAdapting literature for the screen is clearly a difficult task, especially a novel written in the early 20th century. This film does not go deeply enough into the relationship between Luzhin and Natalia. Natalia's rift with her mother comes across a churlish disagreement by the mother rather than a dramatic flashpoint in the film. I felt that I was put through Luzhin's torment and eventual tragic end, without being given the pleasure of having his unusual and complex personality unravelled. However, this was a moving and enjoyable film but certainly not a great one.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Sony Pictures Classics",
+        "duration": "PT2M8S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2029388057",
+        "name": "The Luzhin Defence",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjRmNWZkMzUtZTI1Yi00NDdhLWFjYTktOTU1MmNlMjJkOGRjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjRmNWZkMzUtZTI1Yi00NDdhLWFjYTktOTU1MmNlMjJkOGRjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:55:52Z",
+        "url": "https://www.imdb.com/video/vi2029388057/"
+    },
+    "url": "/title/tt0211492/"
+}

@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Molly Ringwald",
+            "url": "/name/nm0000208/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jon Cryer",
+            "url": "/name/nm0001083/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harry Dean Stanton",
+            "url": "/name/nm0001765/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 84210,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Hughes",
+            "url": "/name/nm0000455/"
+        }
+    ],
+    "datePublished": "1986-02-28",
+    "description": "A poor girl must choose between the affections of dating her childhood sweetheart or a rich but sensitive playboy.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Howard Deutch",
+            "url": "/name/nm0222043/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOGE3ZmVjMzMtMDcxNi00YjM5LTg3NjMtZWMxYjlhNTk2MmZjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "teenage girl,class differences,teen angst,teen romance,opposites attract",
+    "name": "Pretty in Pink",
+    "original_info": {
+        "id": "Pretty in Pink_1986",
+        "name": "Pretty in Pink",
+        "year": "1986"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "drqshadow-reviews"
+        },
+        "dateCreated": "2016-07-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0091790/"
+        },
+        "name": "Deep in the Heart of the Eighties...",
+        "reviewBody": "One last collaboration for John Hughes and Molly Ringwald, whose creative partnership dissolved after this film. Somewhat softer and more self-serious than the preceding teen epics Sixteen Candles and The Breakfast Club, it tackles social cliques and classism from various perspectives. Ringwald and leading man Andrew McCarthy, akin to Romeo and Juliet, find their young relationship stressed by the negative influence of friends who insist they find someone closer to their own status. There really isn't much sparkle to the pairing, though, apart from a few awkward make-out scenes, and they both come off as especially wet noodles in comparison to the vibrant, brash supporting cast. Jon Cryer is most memorable of these as Duckie, a flamboyant mod who's been carrying a torch for Ringwald all his life, and nearly steals the film with an abrupt dance/lip-sync number just before everything gets overly angsty. Most of the third act is wasted on hand-wringing and moping, though, and the ending (changed at the last minute, much to Hughes's chagrin) feels disingenuous even if it does make a better fit for the movie's theme. The window dressings are drowned in '80s flavor, too, from the appropriately synthy soundtrack to the Halloween-grade costume choices. Looks like everyone at this school was either Don Johnson, Sid Vicious or Morrissey.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Molly Ringwald and Jon Cryer star in the 1980s John Hughes classic 'Pretty in Pink.'",
+        "duration": "PT1M30S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2418588185",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMmY2NWE2YmMtNTI0NS00M2M3LTgzYjgtZjk0ZGRjYTA2OGU3XkEyXkFqcGdeQXRzdGFzaWVr._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMmY2NWE2YmMtNTI0NS00M2M3LTgzYjgtZjk0ZGRjYTA2OGU3XkEyXkFqcGdeQXRzdGFzaWVr._V1_.jpg",
+        "uploadDate": "2019-01-04T01:45:01.030Z",
+        "url": "https://www.imdb.com/video/vi2418588185/"
+    },
+    "url": "/title/tt0091790/"
+}

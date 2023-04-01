@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Julian Sands",
+            "url": "/name/nm0001696/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sherilyn Fenn",
+            "url": "/name/nm0000145/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Paxton",
+            "url": "/name/nm0000200/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 12554,
+        "ratingValue": 4.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050521/"
+        },
+        {
+            "@type": "Person",
+            "name": "Philippe Caland",
+            "url": "/name/nm0129310/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jennifer Lynch",
+            "url": "/name/nm0528337/"
+        }
+    ],
+    "datePublished": "1993-09-03",
+    "description": "A surgeon becomes obsessed with the seductive woman he once was in an affair with. Refusing to accept that she has moved on, he amputates her limbs and holds her captive in his mansion.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jennifer Lynch",
+            "url": "/name/nm0528337/"
+        }
+    ],
+    "duration": "PT1H47M",
+    "genre": [
+        "Drama",
+        "Mystery",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYjdhOWE4MDMtZGM5Zi00Mzc1LTkyNWUtYWQ1ODU4NGEyZDhiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "obsessive love,captive woman,unrequited love,obsession,bare chested male",
+    "name": "Boxing Helena",
+    "original_info": {
+        "id": "Boxing Helena_1993",
+        "name": "Boxing Helena",
+        "year": "1993"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "loveatlarge"
+        },
+        "dateCreated": "2004-06-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0106471/"
+        },
+        "name": "Brutal treatment to a brutal film",
+        "reviewBody": "I think I'm tempted to comment more upon the comments than the movie. \n\nThe movie I watched, found interesting, if for nothing more than that it had Art Garfunkels big cool head in it. It's dark, attempts to be psycho-sexual (succeeds in the latter), and ends up just being rather sad. But, I felt something, and that is more of a reaction than most movies inspire in me these days. Those who feel this is the worst film they have ever seen have obviously never seen anything with Keanu Reeves or Steven Segal. Or Ben Affleck. Or...\n\nAnyway, it's more interesting than a disaster film, so, you decide."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "text os",
+        "duration": "PT1M41S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3669688601",
+        "name": "Boxing Helena",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDMxZWM5MTgtY2Q1Zi00NTMyLThhOTItYzExMWZmYWU2NjNkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDMxZWM5MTgtY2Q1Zi00NTMyLThhOTItYzExMWZmYWU2NjNkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:46:51Z",
+        "url": "https://www.imdb.com/video/vi3669688601/"
+    },
+    "url": "/title/tt0106471/"
+}

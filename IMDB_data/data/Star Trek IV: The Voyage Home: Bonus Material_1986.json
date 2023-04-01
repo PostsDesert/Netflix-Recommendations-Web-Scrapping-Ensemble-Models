@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "William Shatner",
+            "url": "/name/nm0000638/"
+        },
+        {
+            "@type": "Person",
+            "name": "Leonard Nimoy",
+            "url": "/name/nm0000559/"
+        },
+        {
+            "@type": "Person",
+            "name": "DeForest Kelley",
+            "url": "/name/nm0001420/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 87720,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0072491/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gene Roddenberry",
+            "url": "/name/nm0734472/"
+        },
+        {
+            "@type": "Person",
+            "name": "Leonard Nimoy",
+            "url": "/name/nm0000559/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harve Bennett",
+            "url": "/name/nm0071790/"
+        }
+    ],
+    "datePublished": "1986-11-26",
+    "description": "To save Earth from an alien probe, Admiral James T. Kirk and his fugitive crew go back in time to San Francisco in 1986 to retrieve the only beings who can communicate with it: humpback whales.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Leonard Nimoy",
+            "url": "/name/nm0000559/"
+        }
+    ],
+    "duration": "PT1H59M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZmU3ZGE3NzEtYTdmYi00YTYxLWIxYTItZGY5YjFlOTA2NWI3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "probe,whale,alien probe,humpback whale,time travel",
+    "name": "Star Trek IV: The Voyage Home",
+    "original_info": {
+        "id": "Star Trek IV: The Voyage Home: Bonus Material_1986",
+        "name": "Star Trek IV: The Voyage Home: Bonus Material",
+        "year": "1986"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "gazzo-2"
+        },
+        "dateCreated": "1999-10-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0092007/"
+        },
+        "name": "Time for some colorful metaphors...",
+        "reviewBody": "This one is great-I remember laughing my butt off the first time I saw it, and it still works now. Very well done, the time travel angle was better handled here then it has been in other Trek films, shows, etc.-and one thing that makes this work is that they didn't take themselves too seriously. What a romp! The crew come back to save the whales so they can save themselves in the future-and make some commentary on 1986, too. \n\nPersonally I donno if this is the best of the run-Undiscovered Country and Khan are its main competition-but I applaud them for doing this; and hope they can lighten up the newer generation too now. It is needed.\n\n*** outta ****, good stuff."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "On this IMDbrief, we break down what writer/director Noah Hawley could bring to the Federation, and why we'd love to see another 'Star Trek IV: The Voyage Home' (1986).",
+        "duration": "PT4M16S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3872046873",
+        "name": "Where 'Star Trek 4' Should Boldly Go",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzA4MzU3OGUtZDE5ZC00YzZhLTllMzctZjUyOTg5NDExODA0XkEyXkFqcGdeQWFsZWxvZw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzA4MzU3OGUtZDE5ZC00YzZhLTllMzctZjUyOTg5NDExODA0XkEyXkFqcGdeQWFsZWxvZw@@._V1_.jpg",
+        "uploadDate": "2019-11-21T01:41:43.825Z",
+        "url": "https://www.imdb.com/video/vi3872046873/"
+    },
+    "url": "/title/tt0092007/"
+}

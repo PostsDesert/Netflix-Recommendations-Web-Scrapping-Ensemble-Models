@@ -1,0 +1,89 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ashok Kumar",
+            "url": "/name/nm0006369/"
+        },
+        {
+            "@type": "Person",
+            "name": "Madhubala",
+            "url": "/name/nm0534870/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anoop Kumar",
+            "url": "/name/nm0474780/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1730,
+        "ratingValue": 8,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0106862/"
+        },
+        {
+            "@type": "Person",
+            "name": "Govind Moonis",
+            "url": "/name/nm0600793/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ramesh Pant",
+            "url": "/name/nm0659760/"
+        }
+    ],
+    "datePublished": "1958-01-01",
+    "description": "Three woman-hating brothers face changes in their respective lifestyles when two of them fall in love.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Satyen Bose",
+            "url": "/name/nm0097899/"
+        }
+    ],
+    "duration": "PT2H53M",
+    "genre": [
+        "Comedy",
+        "Musical",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZWU5NWZkNmUtMzNhMi00NDk2LWI4OTctZTczZjVkYjEwZWE3XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+    "keywords": "animated opening credits,animated credits,garage,mechanic,photograph",
+    "name": "Chalti Ka Naam Gaadi",
+    "original_info": {
+        "id": "Chalti Ka Naam Gaadi_1958",
+        "name": "Chalti Ka Naam Gaadi",
+        "year": "1958"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "hds-24055"
+        },
+        "dateCreated": "2020-09-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0128985/"
+        },
+        "name": "Very well made movie",
+        "reviewBody": "This is a three hour long light hearted story of three brothers. The film has a good storyline and is not a collection of comic situations. This has made the movie last these 60 years. The director stcks to the screenplay, the actors adhere to their director. The music lifts the movie A must watch.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0128985/"
+}

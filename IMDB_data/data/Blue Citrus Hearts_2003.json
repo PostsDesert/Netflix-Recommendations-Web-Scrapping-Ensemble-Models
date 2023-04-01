@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Joshua Peter Laurenzi",
+            "url": "/name/nm1688100/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Foster",
+            "url": "/name/nm1168969/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alex Booth",
+            "url": "/name/nm1687135/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 310,
+        "ratingValue": 4.9,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0392485/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0153804/"
+        },
+        {
+            "@type": "Person",
+            "name": "Morgan Jon Fox",
+            "url": "/name/nm1549145/"
+        }
+    ],
+    "datePublished": "2003-11-13",
+    "description": "A coming-out, coming-of-age tale set in Memphis Tennessee.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Morgan Jon Fox",
+            "url": "/name/nm1549145/"
+        }
+    ],
+    "duration": "PT1H55M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjQ2MzQ0OTEwNl5BMl5BanBnXkFtZTcwNTI4MzczMQ@@._V1_.jpg",
+    "keywords": "memphis tennessee,high school,high school student,coming out,coming of age",
+    "name": "Blue Citrus Hearts",
+    "original_info": {
+        "id": "Blue Citrus Hearts_2003",
+        "name": "Blue Citrus Hearts",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dplante2002"
+        },
+        "dateCreated": "2005-04-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0398791/"
+        },
+        "name": "A familiar story but told with honesty",
+        "reviewBody": "One can't watch this film without the gut feeling that it's a story the writer had to tell. Absent any melodramatic flourishes and self-consciously arty touches or sub-plots, it tells a familiar story with such honesty and immediacy that it's as if you are living among Sam, Julien, their families, and friends. Through the poetry of their inarticulateness and the lack of any artifice both Sam and Julian are iconic: Sam, the popular high school kid who only appears to fit in with his crowd and Julian, the outsider who comes along to light up his life. The beauty of this film is its artistic economy. Unlike the long and embellished Hollywood novel, this is a poem in which every spare word and action communicates much more than pages of explanatory chat.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0398791/"
+}

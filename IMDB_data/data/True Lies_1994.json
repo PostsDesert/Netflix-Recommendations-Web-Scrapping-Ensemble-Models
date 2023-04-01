@@ -1,0 +1,113 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Arnold Schwarzenegger",
+            "url": "/name/nm0000216/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jamie Lee Curtis",
+            "url": "/name/nm0000130/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tom Arnold",
+            "url": "/name/nm0000792/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 266532,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0038663/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Cameron",
+            "url": "/name/nm0000116/"
+        },
+        {
+            "@type": "Person",
+            "name": "Claude Zidi",
+            "url": "/name/nm0956022/"
+        },
+        {
+            "@type": "Person",
+            "name": "Simon Michaël",
+            "url": "/name/nm0584770/"
+        }
+    ],
+    "datePublished": "1994-07-15",
+    "description": "A fearless, globe-trotting, terrorist-battling secret agent has his life turned upside down when he discovers his wife might be having an affair with a used-car salesman while terrorists smuggle nuclear war heads into the United S...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "James Cameron",
+            "url": "/name/nm0000116/"
+        }
+    ],
+    "duration": "PT2H21M",
+    "genre": [
+        "Action",
+        "Comedy",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYzg5YmUyNGMtMThiNS00MjA2LTgwZDctNDlhM2RkZDNmZmRkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "keywords": "secret agent,spy,secret mission,remake,tango",
+    "name": "True Lies",
+    "original_info": {
+        "id": "True Lies_1994",
+        "name": "True Lies",
+        "year": "1994"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Rammstein-2"
+        },
+        "dateCreated": "2000-01-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0111503/"
+        },
+        "name": "Great fun - don't expect anything else",
+        "reviewBody": "Why should one watch this film? It's stupid, without any character developments and is about as believable as any James Bond movie. I'll tell you: It's great fun. When I watch a movie, I try not to confuse art with entertainment, as some commenters clearly have done. True Lies doesn't have a hint of art - but its comic-style spirit and adventurous action is compelling. And please don't be childish - admit you like seeing nukes go off on screen. This film isn't a Great Film. But it is Great Fun.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from 20th Century Fox Home Entertainment",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi284754201",
+        "name": "True Lies",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BY2VjYzU2N2YtZDQ5Yy00MDhhLWJhNDItOWRiODUyZmU1MzJjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BY2VjYzU2N2YtZDQ5Yy00MDhhLWJhNDItOWRiODUyZmU1MzJjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:06:41Z",
+        "url": "https://www.imdb.com/video/vi284754201/"
+    },
+    "url": "/title/tt0111503/"
+}

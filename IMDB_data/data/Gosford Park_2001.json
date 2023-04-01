@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Maggie Smith",
+            "url": "/name/nm0001749/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ryan Phillippe",
+            "url": "/name/nm0000202/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Gambon",
+            "url": "/name/nm0002091/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 90065,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0043969/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0060324/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0104092/"
+        },
+        {
+            "@type": "Person",
+            "name": "Julian Fellowes",
+            "url": "/name/nm0271501/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Altman",
+            "url": "/name/nm0000265/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bob Balaban",
+            "url": "/name/nm0000837/"
+        }
+    ],
+    "datePublished": "2002-01-18",
+    "description": "Set in the 1930s, a group of pretentious rich and famous get together for a weekend of relaxation at a hunting resort. But when a murder occurs, each one of these interesting characters becomes a suspect.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Altman",
+            "url": "/name/nm0000265/"
+        }
+    ],
+    "duration": "PT2H17M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYzM4YzlhZGMtYTI2Yi00OTY4LWE0MzctNDFlYTQ3YmFlOTBjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "keywords": "england,servant,shooting party,country house,ensemble cast",
+    "name": "Gosford Park",
+    "original_info": {
+        "id": "Gosford Park_2001",
+        "name": "Gosford Park",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "oldreekie546"
+        },
+        "dateCreated": "2003-05-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0280707/"
+        },
+        "name": "Right said Bob!",
+        "reviewBody": "Robert Altman's long, fragmented and very hit-or-miss career reaches another of his periodic highs with this clever and beautifully realised dissection of the English class system and skit on the classic Agatha Christie whonunnit.\n\nAltman's preferences for kaleidoscopic social observation has sometimes failed in the past due to the weight of its own ambition: multi-plotted and multi-charactered snapshots of time and place held together by loose ties or a general thematic framework. Sometimes it pays off spectacularly (Nashville); sometimes it flatters to deceive (Short Cuts).\n\nIt works well here due to the necessary discipline of the single location and the greater opportunities for interaction among the characters this affords. Add to that an exemplary cast of (mostly) British character actors and a knowing script by Julian Fellowes that gives Altman's keenly observant camera plenty of time to make its own points.\n\nRightly, Altman is less concerned with the murder mystery, which is almost an aside, than with the opportunity given by a shooting party at a 1930s stately mansion to observe the English aristocracy and their servants in social interaction.\n\nNever happier than when involved in a bit of human anthropology, Altman lightly dissects the complexities and hierarchies which go on both above and below stairs; in which many subtle and unsubtle rituals are played out among groups of people who clearly dislike each other but are forced through circumstance, need or employment to observe the fundamental social practices required.\n\n1932 is also a time of intruding change into the nature of the old English ruling classes, slowly disintegrating in this between-wars period and, in this case, largely reliant on the wealth of one particularly reluctant patron to keep them in furs and flunkies. In on this act comes the (to them) faintly odious whiff of 20th century new money, represented by Hollywood and popular culture. These intruders are kept in their place, but the message is clear - change is coming, and coming fast.\n\nThe muted colours and autumnal setting continue this theme of a world in terminal decline and of a group of characters keenly conscious of place and tradition yet also wearied and exhausted by it. Only at the very end, when fundamental change has occurred and many characters are left to face up to very different destinies do we see a bit of sunshine creeping in, heralding the dawn of a new era.\n\nThe cast are all excellent, with special mention deserving of Maggie Smith's effortless scene stealing as a bitchy but broke old Countess; the ever reliable Jeremy Northam as matinee idol Ivor Novello, well aware of his place in the great scheme of things and young Kelly Macdonald in the pivotal role of Smith's harassed maid who's inquisitiveness rattles a whole load of family skeletons."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT37S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3920232729",
+        "name": "Gosford Park",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDU2ZTM5OGMtZWFhYy00ZDU1LWE5MjEtNWVmNzk5ZjE4MGI5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDU2ZTM5OGMtZWFhYy00ZDU1LWE5MjEtNWVmNzk5ZjE4MGI5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:19:28Z",
+        "url": "https://www.imdb.com/video/vi3920232729/"
+    },
+    "url": "/title/tt0280707/"
+}

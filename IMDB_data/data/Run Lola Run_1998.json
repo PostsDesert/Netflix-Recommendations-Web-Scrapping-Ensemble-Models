@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Franka Potente",
+            "url": "/name/nm0004376/"
+        },
+        {
+            "@type": "Person",
+            "name": "Moritz Bleibtreu",
+            "url": "/name/nm0001953/"
+        },
+        {
+            "@type": "Person",
+            "name": "Herbert Knaup",
+            "url": "/name/nm0460578/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 201644,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "alternateName": "Run Lola Run",
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0055954/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0323020/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0075650/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tom Tykwer",
+            "url": "/name/nm0878756/"
+        }
+    ],
+    "datePublished": "1999-06-18",
+    "description": "After a botched money delivery, Lola has 20 minutes to come up with 100,000 Deutschmarks.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Tom Tykwer",
+            "url": "/name/nm0878756/"
+        }
+    ],
+    "duration": "PT1H20M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMmU5ZjFmYjQtYmNjZC00Yjk4LWI1ZTQtZDJiMjM0YjQyNDU0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "repeated event,fate,running,butterfly effect,race against time",
+    "name": "Lola rennt",
+    "original_info": {
+        "id": "Run Lola Run_1998",
+        "name": "Run Lola Run",
+        "year": "1998"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ecto-3"
+        },
+        "dateCreated": "1999-06-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0130827/"
+        },
+        "name": "Riveting action, dynamic sound track, and brilliant editing had me hooked from the first frame.",
+        "reviewBody": "The concepts are simple. How do our actions affect our own lives, as well as those whom we touch? What part do chance and random events play in determining an outcome? Can we select a different result by making different choices? In short, what is reality? Well, maybe it isn't all that simple, but while others have plowed these same fertile fields, as recently as the film \"Go\", and also in \"The Music of Chance\", based on Paul Auster's novel, no one has dealt with such cosmic existential questions with more brilliant originality, fast paced action, and a pulsing score than in this German cinematic masterpiece.\n\nIn a compact ninety minutes, combining snips of animation, cinema verité, quirky characters, situations and dialogue, and a pace that makes most music videos look like they've been filmed in slow motion, three versions of the same story sequence unfold, and each time conclude with a jolting finish that defies convention, and keeps the viewer guessing until the final frame.\n\nThis is one of those rare cinematic events that is entertaining, satisfying, and absorbing, as well as flawlessly acted, staged, edited, produced and directed. I thought that Lola ran her race with flair and style, and left all others way behind in the dust.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Run Lola Run",
+        "duration": "PT1M24S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi880649753",
+        "name": "Run Lola Run",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjQ2NmNlYmUtN2Q1Mi00NWRhLTgzM2ItMjhhZGE0NjU3ODFiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjQ2NmNlYmUtN2Q1Mi00NWRhLTgzM2ItMjhhZGE0NjU3ODFiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2013-05-31T04:26:19Z",
+        "url": "https://www.imdb.com/video/vi880649753/"
+    },
+    "url": "/title/tt0130827/"
+}

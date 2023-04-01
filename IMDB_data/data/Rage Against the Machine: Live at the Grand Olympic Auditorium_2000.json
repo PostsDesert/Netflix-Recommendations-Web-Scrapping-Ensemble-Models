@@ -1,0 +1,82 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tim Commerford",
+            "url": "/name/nm0173876/"
+        },
+        {
+            "@type": "Person",
+            "name": "Zack De La Rocha",
+            "url": "/name/nm0209371/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tom Morello",
+            "url": "/name/nm0603780/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 210,
+        "ratingValue": 8.3,
+        "worstRating": 1
+    },
+    "contentRating": "Unrated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0046505/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0072831/"
+        }
+    ],
+    "datePublished": "2003-12-09",
+    "description": "Rage Against The Machine return to their hometown of Los Angeles for an uncompromising, incendiary set in Live At The Grand Olympic Auditorium, the final dates of their Battle of Los Angeles tour and the band's last shows until th...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jeff Richter",
+            "url": "/name/nm0725285/"
+        }
+    ],
+    "duration": "PT1H53M",
+    "genre": [
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTgzNjIxNTAwNV5BMl5BanBnXkFtZTgwMzcxMzc1NTE@._V1_.jpg",
+    "keywords": "live performance,concert film",
+    "name": "Rage Against the Machine: Live at the Grand Olympic Auditorium",
+    "original_info": {
+        "id": "Rage Against the Machine: Live at the Grand Olympic Auditorium_2000",
+        "name": "Rage Against the Machine: Live at the Grand Olympic Auditorium",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "timothygartin"
+        },
+        "dateCreated": "2020-08-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0827780/"
+        },
+        "name": "Better than in person",
+        "reviewBody": "This concert recording is really better than being there, if the objective is seeing the band perform. The editing is really great of the band members and the audience. It really adds to the music. The music is awesome as well. I believe this is one of the best concert recordings ever.\n\nA must for RATM fans.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0827780/"
+}

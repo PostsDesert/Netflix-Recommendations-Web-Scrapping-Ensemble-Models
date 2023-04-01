@@ -1,0 +1,92 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Lorenzo di Bonaventura",
+            "url": "/name/nm0225146/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joel Silver",
+            "url": "/name/nm0005428/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Pope",
+            "url": "/name/nm0691084/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4094,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        }
+    ],
+    "datePublished": "2001-11-20",
+    "description": "A DVD-exclusive documentary about the making and production of The Matrix (1999).",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Josh Oreck",
+            "url": "/name/nm0649609/"
+        }
+    ],
+    "duration": "PT2H3M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkzNjg3NjE4N15BMl5BanBnXkFtZTgwNTc3NTAwNzE@._V1_.jpg",
+    "keywords": "making of,actor plays himself,special effects as subject,visual effects as subject,action filmmaking",
+    "name": "The Matrix Revisited",
+    "original_info": {
+        "id": "The Matrix: Revisited_2001",
+        "name": "The Matrix: Revisited",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "joits"
+        },
+        "dateCreated": "2003-08-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0295432/"
+        },
+        "name": "One of the best documentaries made...",
+        "reviewBody": "Long trailer? whoever said that has got to be joking. this has got to be one of the most in depth behind the scenes or making of documentary ever made. how can it be a trailer when several minutes are spent telling the audience how the movie was conceptualized and then brought to the studios? this documentary also spends lots and lots of time detailing how stunts were done and the new technologies created to achieve them. then it shows us how woo ping's team came up with the fight scenes along with blocking tapes that pretty much put to shame the actual scenes with the actors. there is stuff mentioned about matrix reloaded, but there's hardly anything really. if you are a real fan of the matrix, you have to see this documentary. the original documentary in the dvd is good, but incomplete compared to this one. for instance, it never explained why keanu wore a neck brace in the original documentary, but that is explained in Revisited. the Revisited dvd also shows carrie ann moss spraining her ankle during the lobby scene and being really distraught because she feels like she's letting the crew down. and that's just the tip of the iceberg. so ignore that \"just a long trailer\" review and go check it out for yourself. you won't regret it. casual matrix fans need not apply...",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT47S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3522167065",
+        "name": "The Matrix Revisited",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzY5NDcwNTgtNTliZS00NmM2LWJjNmUtZWI4OGRiYjNkMmExXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzY5NDcwNTgtNTliZS00NmM2LWJjNmUtZWI4OGRiYjNkMmExXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:37:12Z",
+        "url": "https://www.imdb.com/video/vi3522167065/"
+    },
+    "url": "/title/tt0295432/"
+}

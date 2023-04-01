@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jamie Foxx",
+            "url": "/name/nm0004937/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gabrielle Union",
+            "url": "/name/nm0005517/"
+        },
+        {
+            "@type": "Person",
+            "name": "Morris Chestnut",
+            "url": "/name/nm0004820/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6210,
+        "ratingValue": 5.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0010568/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0090838/"
+        },
+        {
+            "@type": "Person",
+            "name": "Daniel Taplitz",
+            "url": "/name/nm0850044/"
+        }
+    ],
+    "datePublished": "2004-05-14",
+    "description": "Inspired by his fiancée (who dumped him), a man publishes a break-up hand-book for men, becoming a best-selling author in the process.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Daniel Taplitz",
+            "url": "/name/nm0850044/"
+        }
+    ],
+    "duration": "PT1H25M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMwNDk4NzE4NF5BMl5BanBnXkFtZTcwNzExMzUyMQ@@._V1_.jpg",
+    "keywords": "apostrophe in title,punctuation in title,four word title,best selling author,lingerie slip",
+    "name": "Breakin' All the Rules",
+    "original_info": {
+        "id": "Breakin' All the Rules_2004",
+        "name": "Breakin' All the Rules",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "kairingler"
+        },
+        "dateCreated": "2007-08-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0349169/"
+        },
+        "name": "the break up movie",
+        "reviewBody": "seems to me that this is where they got the idea for HITCH. this is a very good movie, funny, sarcastic, witty. jamie foxx is terrific, so is gabrielle union. i like the way that they wrote the story, the way that they set it up where the one person doesn't know what the other one is doing, and that they think that it's another person, i guess you just have to watch it to see what i mean. i think in real life that the \"break up\" book would be very helpful to a lot of people. now granted this isn't an action movie, so don't expect action, what however you should expect is a lot of laughs, and i don't mean a little, i mean tons of laughs, this movie will keep you in stitches the whole entire time,, my fav. character of course was the dog,, trying to get through the doggie door, then peeing when he get's stuck in the door , i thought that was cute.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Screen Gems",
+        "duration": "PT2M28S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3971678489",
+        "name": "Breakin' all the Rules",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTY5NzBiYmItMWE1OC00MTc3LWJkMDMtMGQyMDc1YTg3ZDE1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTY5NzBiYmItMWE1OC00MTc3LWJkMDMtMGQyMDc1YTg3ZDE1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:48:28Z",
+        "url": "https://www.imdb.com/video/vi3971678489/"
+    },
+    "url": "/title/tt0349169/"
+}

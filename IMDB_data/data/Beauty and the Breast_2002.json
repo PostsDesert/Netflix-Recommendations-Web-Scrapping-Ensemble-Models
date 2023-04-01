@@ -1,0 +1,113 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Emma Watson",
+            "url": "/name/nm0914612/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dan Stevens",
+            "url": "/name/nm1405398/"
+        },
+        {
+            "@type": "Person",
+            "name": "Luke Evans",
+            "url": "/name/nm1812656/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 316374,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0064942/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0008970/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen Chbosky",
+            "url": "/name/nm0154716/"
+        },
+        {
+            "@type": "Person",
+            "name": "Evan Spiliotopoulos",
+            "url": "/name/nm0818746/"
+        },
+        {
+            "@type": "Person",
+            "name": "Linda Woolverton",
+            "url": "/name/nm0941314/"
+        }
+    ],
+    "datePublished": "2017-03-17",
+    "description": "A selfish Prince is cursed to become a monster for the rest of his life, unless he learns to fall in love with a beautiful young woman he keeps prisoner.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bill Condon",
+            "url": "/name/nm0174374/"
+        }
+    ],
+    "duration": "PT2H9M",
+    "genre": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUwNjUxMTM4NV5BMl5BanBnXkFtZTgwODExMDQzMTI@._V1_.jpg",
+    "keywords": "beast,fairy tale,heroine,beast's heart,remake of oscar winner",
+    "name": "Beauty and the Beast",
+    "original_info": {
+        "id": "Beauty and the Breast_2002",
+        "name": "Beauty and the Breast",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "sugeyboo"
+        },
+        "dateCreated": "2017-06-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt2771200/"
+        },
+        "name": "Beautiful",
+        "reviewBody": "A fabulous movie, I enjoyed every moment. So beautifully done that I would watch it again. It's a true musical as they used to be. I cried and laughed, it brought out many emotions. It's a great family film. The artistry and special effects make a great Disney style fantasy come to life. The music and songs were very pleasant in typical Disney fashion.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "As punishment for his actions, a young prince is transformed into a monstrous beast by a mysterious enchantress. Only condition is if he can learn to love someone and earn their love in return, the curse will be lifted. Enter young bookworm Belle, who stumbles upon the castle and is taken prisoner by the Beast while rescuing her father. With help from the Beast's servants, Belle comes to appreciate and love the Beast all while evading a stalking hunter who wants to marry her.",
+        "duration": "PT2M8S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi179222553",
+        "name": "For Your Consideration Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjg2NWY5NjgtMDRhNS00OTNiLWFkZjMtYWFhYWJkZGY1YWExXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjg2NWY5NjgtMDRhNS00OTNiLWFkZjMtYWFhYWJkZGY1YWExXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "uploadDate": "2017-12-05T20:23:12Z",
+        "url": "https://www.imdb.com/video/vi179222553/"
+    },
+    "url": "/title/tt2771200/"
+}

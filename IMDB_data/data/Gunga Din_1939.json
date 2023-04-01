@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Cary Grant",
+            "url": "/name/nm0000026/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joan Fontaine",
+            "url": "/name/nm0000021/"
+        },
+        {
+            "@type": "Person",
+            "name": "Victor McLaglen",
+            "url": "/name/nm0572142/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 12314,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0041421/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joel Sayre",
+            "url": "/name/nm0768540/"
+        },
+        {
+            "@type": "Person",
+            "name": "Fred Guiol",
+            "url": "/name/nm0347451/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ben Hecht",
+            "url": "/name/nm0372942/"
+        }
+    ],
+    "datePublished": "1939-02-17",
+    "description": "In 19th century India, three British soldiers and a native waterbearer must stop a secret mass revival of the murderous Thuggee cult before it can rampage across the land.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "George Stevens",
+            "url": "/name/nm0828419/"
+        }
+    ],
+    "duration": "PT1H57M",
+    "genre": [
+        "Adventure",
+        "Comedy",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNWMzZGEzYjUtNjZiNS00ZjJlLWEwYjMtYTRhOTA3NTMyNGYyXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "keywords": "good versus evil,1880s,thuggee,soldier,temple",
+    "name": "Gunga Din",
+    "original_info": {
+        "id": "Gunga Din_1939",
+        "name": "Gunga Din",
+        "year": "1939"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Ron Oliver"
+        },
+        "dateCreated": "2000-06-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0031398/"
+        },
+        "name": "\"You're A Better Man Than I Am, Gunga Din.\"",
+        "reviewBody": "A trio of buddies, sergeants all in the British Army, carouse & brawl their way across Imperial India. Intensely loyal to each other, they meet their greatest & most deadly challenge when they encounter the resurgence of a hideous cult & its demented, implacable guru. Now they must rely on the lowliest servant of the regiment, the water carrier GUNGA DIN, to save scores of the Queen's soldiers from certain massacre.\n\nBased more on The Three Musketeers than Kipling's classic poem, this is a wonderful adventure epic - a worthy entry in Hollywood's Golden Year of 1939. Filled with suspense & humor, while keeping the romantic interludes to the barest minimum, it grips the interest of the viewer and holds it right up to the (sentimental) conclusion.\n\nIt is practically fruitless to discuss the performance nuances of the three stars, Cary Grant, Victor McLaglen & Douglas Fairbanks Jr., as they are really all thirds of a single organism - inseparable and, to all intents & purposes, indistinguishable. However, this diminishes nothing of the great fun in simply watching them have a glorious time.\n\n(It's interesting to note, parenthetically, that McLaglen boasted of a distinguished World War One military career; Fairbanks would have a sterling record in World War Two - mostly in clandestine affairs & earning himself no fewer than 4 honorary knighthoods after the conflict; while Grant reportedly worked undercover for British Intelligence, keeping an eye on Hollywood Nazi sympathizers.)\n\nThe real acting laurels here should go to Sam Jaffe, heartbreaking in the title role. He infuses the humble man with radiant dignity & enormous courage, making the last line of Kipling's poem ring true. He is unforgettable.\n\nMontague Love is properly stalwart as the regimental major, whilst Eduardo Ciannelli is Evil Incarnate as the Thuggee guru. The rest of the cast, Joan Fontaine, Robert Coote, Lumsden Hare, are effective but have little to do. Movie mavens will recognize Cecil Kellaway in the tiny role of Miss Fontaine's father.\n\nThe film picks its villains well. The demonic Thuggee cult, worshipers of the hideous, blood-soaked Kali, Hindu goddess of destruction, was the bane of Indian life for 6 centuries, ritualistically strangling up to 30,000 victims a year. In 1840 the British military, in cooperation with a number of princely states, succeeded in ultimately suppressing the religion. Henceforth it would remain the stuff of novels & nightmares.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Gunga Din",
+        "duration": "PT2M12S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1516766489",
+        "name": "Gunga Din",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTQ5YTFlOWQtNmQ4YS00Mjk3LWJiNDctZmViMGRlMjVjMWQ4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTQ5YTFlOWQtNmQ4YS00Mjk3LWJiNDctZmViMGRlMjVjMWQ4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-11-08T06:18:32Z",
+        "url": "https://www.imdb.com/video/vi1516766489/"
+    },
+    "url": "/title/tt0031398/"
+}

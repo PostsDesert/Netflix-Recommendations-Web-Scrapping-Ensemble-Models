@@ -1,0 +1,96 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Frank Whaley",
+            "url": "/name/nm0001844/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jennifer Connelly",
+            "url": "/name/nm0000124/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dermot Mulroney",
+            "url": "/name/nm0000551/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 15882,
+        "ratingValue": 5.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0073707/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Hughes",
+            "url": "/name/nm0000455/"
+        }
+    ],
+    "datePublished": "1991-03-29",
+    "description": "Jim is the dorky son of a local cement contractor who lives at home and has no direction. Josie is the gorgeous daughter of a wealthy businessman who dreams of leaving town. They find they have a lot in common.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bryan Gordon",
+            "url": "/name/nm0330057/"
+        }
+    ],
+    "duration": "PT1H23M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTJmMjI5NTktMTE5NS00MWFhLTk5N2UtYjJhMTcxMmRiYWFlXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
+    "keywords": "locked in a store,liar,coming of age,flirting,fired from a job",
+    "name": "Career Opportunities",
+    "original_info": {
+        "id": "Career Opportunities_1991",
+        "name": "Career Opportunities",
+        "year": "1991"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "mcfly-31"
+        },
+        "dateCreated": "1999-07-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0101545/"
+        },
+        "name": "Hughes worst ever",
+        "reviewBody": "Oh John Hughes, my favorite writer. Trying here to return to teen territory with this tale of a night clean up boy at a Target. The guy stumbles into a girl hiding inside and the two have some harmless fun till a couple of robbers show up (sound familiar). There are maybe 2 or 3 laughs in this movie, but many of the 81 minutes majorly suck. Hughes great insights from the 80s are absent here, and Whaley just comes across dull. Conellys gorgeous yes, which is the only thing to keep male viewers going with all that cleavage, but others will doze off. Thought Id never say it, but Hughes has delivered his worst here. Ick."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Career Opportunities",
+        "duration": "PT2M",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3871080729",
+        "name": "Career Opportunities",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZGUxYjEzOTYtMjdhOS00MWFmLTkxNWEtMTc4MGQ0NjgxZjE0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZGUxYjEzOTYtMjdhOS00MWFmLTkxNWEtMTc4MGQ0NjgxZjE0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:02:17Z",
+        "url": "https://www.imdb.com/video/vi3871080729/"
+    },
+    "url": "/title/tt0101545/"
+}

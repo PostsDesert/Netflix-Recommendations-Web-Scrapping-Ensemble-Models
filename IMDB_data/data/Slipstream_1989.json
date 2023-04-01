@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bob Peck",
+            "url": "/name/nm0669629/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Hamill",
+            "url": "/name/nm0000434/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kitty Aldridge",
+            "url": "/name/nm0017733/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2850,
+        "ratingValue": 4.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050921/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tony Kayden",
+            "url": "/name/nm0443249/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Bauer",
+            "url": "/name/nm0061756/"
+        }
+    ],
+    "datePublished": "1989-06-02",
+    "description": "In the near future, where Earth has been devastated by man's pollution and giant winds rule the planet, bounty hunter Matt kidnaps a murderer out of the hands of two police officers, planning to get the bounty himself.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Steven Lisberger",
+            "url": "/name/nm0513974/"
+        }
+    ],
+    "duration": "PT1H42M",
+    "genre": [
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTAzNTk5MzgxMDReQTJeQWpwZ15BbWU4MDY0NzAzNjYx._V1_.jpg",
+    "keywords": "pilot,dystopia,future,future shock,one word title",
+    "name": "Slipstream",
+    "original_info": {
+        "id": "Slipstream_1989",
+        "name": "Slipstream",
+        "year": "1989"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "justaskmonica"
+        },
+        "dateCreated": "2007-08-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0098350/"
+        },
+        "name": "Very interesting, absorbing and visually provocative film.",
+        "reviewBody": "I couldn't agree more (previous post re: underrated) this movie was a truly entertaining surprise and I have been trying to find it ever since my husband and i rented it one night after pretty much working our way thru the other rentals at our local video store. Our expectations were not particularly high but we ended up really enjoying this film. The premise is not particularly new - post apocalyptic and all...but the approach and the vision presented of earth at this point is truly refreshing. I think it's a shame that it just didn't get the kind of studio support and exposure that it deserved. I definitely recommend it - you won't be sorry, it's just a very interesting, very well put together movie.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "In the near future, where Earth has been devastated by man's pollution and giant winds rule the planet, bounty hunter Matt kidnaps a murderer out of the hands of two police officers, planning to get the bounty himself.",
+        "duration": "PT1M47S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2430190361",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMmRkM2QzOWUtZDNiZC00NmUxLWIwZGUtZGU3ZmE5MzkwNjAwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMmRkM2QzOWUtZDNiZC00NmUxLWIwZGUtZGU3ZmE5MzkwNjAwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-12-01T15:49:42.448Z",
+        "url": "https://www.imdb.com/video/vi2430190361/"
+    },
+    "url": "/title/tt0098350/"
+}

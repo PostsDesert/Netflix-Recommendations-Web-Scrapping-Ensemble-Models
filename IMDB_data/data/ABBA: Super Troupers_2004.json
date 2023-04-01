@@ -1,0 +1,60 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dave Ambrose",
+            "url": "/name/nm7631013/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stig Anderson",
+            "url": "/name/nm0027832/"
+        },
+        {
+            "@type": "Person",
+            "name": "Benny Andersson",
+            "url": "/name/nm0027630/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 15,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0837272/"
+        },
+        {
+            "@type": "Person",
+            "name": "Piers Garland",
+            "url": "/name/nm10961397/"
+        }
+    ],
+    "datePublished": "2019-02-19",
+    "description": "Few bands have been able to dominate the industry in the same way as ABBA. Bursting onto the scene at the 1974 Eurovision Song Contest, ABBA took the world by storm, going on to sell over 300 million albums and singles and give bi...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Piers Garland",
+            "url": "/name/nm10961397/"
+        }
+    ],
+    "genre": [
+        "Documentary",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNWQwYTZhNDItMGUwZC00ODMyLTkxZjQtYTk4NGE3ZmNhNjJlXkEyXkFqcGdeQXVyNjc1OTk4NjA@._V1_.jpg",
+    "name": "ABBA: Super Troupe",
+    "original_info": {
+        "id": "ABBA: Super Troupers_2004",
+        "name": "ABBA: Super Troupers",
+        "year": "2004"
+    },
+    "url": "/title/tt14618008/"
+}

@@ -1,0 +1,83 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Peter Sallis",
+            "url": "/name/nm0758608/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jane Freeman",
+            "url": "/name/nm0293429/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kathy Staff",
+            "url": "/name/nm0821220/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3366,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "TV-PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0043107/"
+        },
+        {
+            "@type": "Person",
+            "name": "Roy Clarke",
+            "url": "/name/nm0164983/"
+        }
+    ],
+    "datePublished": "1973-01-04",
+    "description": "Three old men from Yorkshire who have never grown up face the trials of their fellow town citizens and everyday life and stay young by reminiscing about the days of their youth and attempting feats not common to the elderly.",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzdlMzc0ZDUtMDI0OS00NDk4LWE4YjQtYjk1YzRmZjFjMDAzXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_.jpg",
+    "keywords": "northern england,yorkshire england,trio,cafe,library",
+    "name": "Last of the Summer Wine",
+    "original_info": {
+        "id": "Last of the Summer Wine_1973",
+        "name": "Last of the Summer Wine",
+        "year": "1973"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "vibeke-2"
+        },
+        "dateCreated": "1999-11-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0069602/"
+        },
+        "name": "Pure Genius",
+        "reviewBody": "This is by far the best British comedy ever shown in the US. The relationships between the characters are real and the humor of the show comes from this fact. The idea of a show about three old men who come up with such outrageous things to do with their time is pure genius. No wonder it's lasted so long."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Last Of The Summer Wines: Season 6",
+        "duration": "PT2M15S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi235191577",
+        "name": "Last Of The Summer Wines: Season 6",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDQ1YzUzNWEtYmQwZC00NDk4LTg1NmItYTNkY2ExYTJkMTkzXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDQ1YzUzNWEtYmQwZC00NDk4LTg1NmItYTNkY2ExYTJkMTkzXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2019-04-12T04:53:37.521Z",
+        "url": "https://www.imdb.com/video/vi235191577/"
+    },
+    "url": "/title/tt0069602/"
+}

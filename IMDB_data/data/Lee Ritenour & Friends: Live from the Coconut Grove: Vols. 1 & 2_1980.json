@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "The Lee Ritenour Band",
+            "url": "/name/nm11696421/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lee Ritenour",
+            "url": "/name/nm0728655/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 14,
+        "ratingValue": 8.2,
+        "worstRating": 1
+    },
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Stanley Dorfman",
+            "url": "/name/nm0233578/"
+        }
+    ],
+    "duration": "PT1H15M",
+    "genre": [
+        "Documentary",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkwNjA4MDMzNV5BMl5BanBnXkFtZTcwMjA2MzgxMQ@@._V1_.jpg",
+    "keywords": "jazz,concert film,independent film",
+    "name": "Lee Ritenour: RIT/Special - Lee Ritenour Live",
+    "original_info": {
+        "id": "Lee Ritenour & Friends: Live from the Coconut Grove: Vols. 1 & 2_1980",
+        "name": "Lee Ritenour & Friends: Live from the Coconut Grove: Vols. 1 & 2",
+        "year": "1980"
+    },
+    "url": "/title/tt0214873/"
+}

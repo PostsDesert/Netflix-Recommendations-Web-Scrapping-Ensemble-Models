@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kurt Russell",
+            "url": "/name/nm0000621/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mariel Hemingway",
+            "url": "/name/nm0000446/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Jordan",
+            "url": "/name/nm0430151/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4540,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0051510/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0004522/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Katzenbach",
+            "url": "/name/nm0441896/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christopher Crowe",
+            "url": "/name/nm0189610/"
+        }
+    ],
+    "datePublished": "1985-02-15",
+    "description": "When a teenager is shot at the beach, a journalist from The Miami Journal is sent to cover the story. He's called by the murderer and told there'll be four more.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Phillip Borsos",
+            "url": "/name/nm0097491/"
+        }
+    ],
+    "duration": "PT1H43M",
+    "genre": [
+        "Crime",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZmQwMmQwYTgtNDI5Mi00MjczLTgyMzgtMWFlNDlkOTIwNjdhXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_.jpg",
+    "keywords": "serial killer,neo noir,psycho killer,psychopathic killer,florida noir",
+    "name": "The Mean Season",
+    "original_info": {
+        "id": "The Mean Season_1985",
+        "name": "The Mean Season",
+        "year": "1985"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "george.schmidt"
+        },
+        "dateCreated": "2003-04-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0089572/"
+        },
+        "name": "Serviceable cat & mouse thriller",
+        "reviewBody": "THE MEAN SEASON (1985) **1/2 Kurt Russell, Mariel Hemingway, Richard Jordan, Richard Masur, Richard Bradford, Andy Garcia. Not bad suspenser with Russell as a newspaper reporter suddenly caught up in the story of a serial killer and himself in harm's way. Surprise ending."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "When a teenager is shot at the beach, a journalist from The Miami Journal is sent to cover the story. He's called by the murderer and told there'll be four more.",
+        "duration": "PT1M25S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3772498713",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDgzNTI1YjItYWI5MC00MjViLThmYTUtZThjMDJhOWQ4Zjk2XkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDgzNTI1YjItYWI5MC00MjViLThmYTUtZThjMDJhOWQ4Zjk2XkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+        "uploadDate": "2021-12-03T13:51:09.234Z",
+        "url": "https://www.imdb.com/video/vi3772498713/"
+    },
+    "url": "/title/tt0089572/"
+}

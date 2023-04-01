@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Daniel Radcliffe",
+            "url": "/name/nm0705356/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rupert Grint",
+            "url": "/name/nm0342488/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Harris",
+            "url": "/name/nm0001321/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 801747,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0159772/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0046151/"
+        },
+        {
+            "@type": "Person",
+            "name": "J.K. Rowling",
+            "url": "/name/nm0746830/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve Kloves",
+            "url": "/name/nm0460141/"
+        }
+    ],
+    "datePublished": "2001-11-16",
+    "description": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Chris Columbus",
+            "url": "/name/nm0001060/"
+        }
+    ],
+    "duration": "PT2H32M",
+    "genre": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNmQ0ODBhMjUtNDRhOC00MGQzLTk5MTAtZDliODg5NmU5MjZhXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_.jpg",
+    "keywords": "magic,wizard,orphan,school of magic,based on novel",
+    "name": "Harry Potter and the Sorcerer's Stone",
+    "original_info": {
+        "id": "Harry Potter and the Sorcerer's Stone_2001",
+        "name": "Harry Potter and the Sorcerer's Stone",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Cool-Lion14"
+        },
+        "dateCreated": "2018-03-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0241527/"
+        },
+        "name": "The major start of all the magic!",
+        "reviewBody": "Having read the first few Harry Potter books before 2001 and hearing about the hype for the first movie, I was excited. I heard there was going to be an all-British cast (which makes sense, right?) and we'd get to see a live version of one of the defining novels of our generation. From what I remember I went with my family and a family friend to see the movie the day after Christmas and was pleasantly amazed. After the movie was over, I watched the credits and discovered some familiar names (the late Alan Rickman, Sister Act's Maggie Smith, James Bond 007's Robbie Coltrane, and Star Wars' Warwick Davis); others not so familiar (the kids, some of whom had their debut). But it was a good movie and was a party of colors and sights for all to see. This is easily my favorite of all the Harry Potter films. The catalyst of the movie series!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3115057433",
+        "name": "Harry Potter and the Sorcerer's Stone",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjhlM2UyYTEtOThkZS00MTAyLWFlOGQtNzIwNTc5ZmVkOWQwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjhlM2UyYTEtOThkZS00MTAyLWFlOGQtNzIwNTc5ZmVkOWQwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:24:24Z",
+        "url": "https://www.imdb.com/video/vi3115057433/"
+    },
+    "url": "/title/tt0241527/"
+}

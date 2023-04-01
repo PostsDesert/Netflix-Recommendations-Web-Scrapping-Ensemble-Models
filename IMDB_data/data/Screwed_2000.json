@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Norm MacDonald",
+            "url": "/name/nm0005172/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dave Chappelle",
+            "url": "/name/nm0152638/"
+        },
+        {
+            "@type": "Person",
+            "name": "Elaine Stritch",
+            "url": "/name/nm0834626/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9294,
+        "ratingValue": 5.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0033486/"
+        },
+        {
+            "@type": "Person",
+            "name": "Scott Alexander",
+            "url": "/name/nm0018735/"
+        },
+        {
+            "@type": "Person",
+            "name": "Larry Karaszewski",
+            "url": "/name/nm0438989/"
+        }
+    ],
+    "datePublished": "2000-05-12",
+    "description": "A chauffeur kidnaps his rich boss's dog to hold it for ransom, but when she accidentally gets the dog back, she thinks that it's the chauffeur who's been kidnapped.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Scott Alexander",
+            "url": "/name/nm0018735/"
+        },
+        {
+            "@type": "Person",
+            "name": "Larry Karaszewski",
+            "url": "/name/nm0438989/"
+        }
+    ],
+    "duration": "PT1H21M",
+    "genre": [
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZDQwMzlmOGMtYmE5Mi00ZWYwLTkzOTAtMDdjNzgzNzRiN2VkXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_.jpg",
+    "keywords": "slapstick comedy,chauffeur,dog,ransom,cartoon on tv",
+    "name": "Screwed",
+    "original_info": {
+        "id": "Screwed_2000",
+        "name": "Screwed",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "the amorphousmachine"
+        },
+        "dateCreated": "2002-03-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0156323/"
+        },
+        "name": "Good for a laugh.",
+        "reviewBody": "While 'Screwed' is far from the essential comedy, it's definitely worth a rental! Norm Macdonald (The Norm Show) plays Willard, the under-appreciated butler to rich Bakery franchise owner, Miss Crock (Elaine Strich), who finds himself about to lose his job. Willard and his best pal, Rusty (Dave Chappelle) decide to kidnap Miss Crock's dog, but they soon find themselves hilariously over their heads as things go astray.\n\nDanny DeVito also makes a welcome appearance in this film as the weird mortician, Grover- who likes his job a little too much! 'Screwed' is a predictable but fun to watch film with decent performances from the cast. Not a classic as others have suggested, but good for a laugh if you feel like watching something light-hearted! ***1/2 out of *****!"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M26S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3886269209",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMWE4YzliZGUtZTM1Yi00NzA0LWE0MjMtOTczMTAzMjQ0NGFjXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMWE4YzliZGUtZTM1Yi00NzA0LWE0MjMtOTczMTAzMjQ0NGFjXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-09-21T22:11:59.961Z",
+        "url": "https://www.imdb.com/video/vi3886269209/"
+    },
+    "url": "/title/tt0156323/"
+}

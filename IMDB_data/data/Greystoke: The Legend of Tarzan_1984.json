@@ -1,0 +1,110 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Christopher Lambert",
+            "url": "/name/nm0000483/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andie MacDowell",
+            "url": "/name/nm0000510/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ralph Richardson",
+            "url": "/name/nm0724732/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 20546,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0128312/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0043388/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edgar Rice Burroughs",
+            "url": "/name/nm0123194/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Towne",
+            "url": "/name/nm0001801/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Austin",
+            "url": "/name/nm0042472/"
+        }
+    ],
+    "datePublished": "1984-03-30",
+    "description": "A missing heir of respected Scottish family, raised in African jungles by animals, finally returns to his estate only to realize that difference between the two worlds is really significant.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Hugh Hudson",
+            "url": "/name/nm0399853/"
+        }
+    ],
+    "duration": "PT2H23M",
+    "genre": [
+        "Adventure",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BM2NmYjZjOGItYTQ0ZC00YjcyLTk3MWUtYzdmZjY1MGNkMDViXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "tarzan,jungle,year 1885,shipwreck,africa",
+    "name": "Greystoke: The Legend of Tarzan, Lord of the Apes",
+    "original_info": {
+        "id": "Greystoke: The Legend of Tarzan_1984",
+        "name": "Greystoke: The Legend of Tarzan",
+        "year": "1984"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "halstead"
+        },
+        "dateCreated": "2001-07-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0087365/"
+        },
+        "name": "Best yet!!",
+        "reviewBody": "Having seen numerous Tarzan movies over the years, I consider Greystoke, one of the best, if not the best. It played with all emotions. Christopher Lambert's portrayal of Tarzan was excellent. I have never read Borough's book, but this adaptation must, in the least, put any Tarzan movie that Johnny Weismueller or Lex Barker played in to shame. I have seen this movie at least 5 times and would watch it again and again."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A missing heir of respected Scottish family, raised in African jungles by animals, finally returns to his estate only to realize that difference between the two worlds is really significant.",
+        "duration": "PT2M25S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1200997145",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjg3NWI4MmUtY2UzOC00OWUxLTk5MTYtMzNkYzc2MGQyMzU1XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjg3NWI4MmUtY2UzOC00OWUxLTk5MTYtMzNkYzc2MGQyMzU1XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-10-06T19:42:57.245Z",
+        "url": "https://www.imdb.com/video/vi1200997145/"
+    },
+    "url": "/title/tt0087365/"
+}

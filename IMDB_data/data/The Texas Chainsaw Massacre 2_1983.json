@@ -1,0 +1,116 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jessica Biel",
+            "url": "/name/nm0004754/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jonathan Tucker",
+            "url": "/name/nm0006958/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrew Bryniarski",
+            "url": "/name/nm0117420/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 145996,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0046718/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0042399/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0023815/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kim Henkel",
+            "url": "/name/nm0377066/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tobe Hooper",
+            "url": "/name/nm0001361/"
+        },
+        {
+            "@type": "Person",
+            "name": "Scott Kosar",
+            "url": "/name/nm0466925/"
+        }
+    ],
+    "datePublished": "2003-10-17",
+    "description": "After picking up a traumatized young hitchhiker, five friends find themselves stalked and hunted by a deformed chainsaw-wielding loon and his family of equally psychopathic killers.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Marcus Nispel",
+            "url": "/name/nm1197971/"
+        }
+    ],
+    "duration": "PT1H38M",
+    "genre": [
+        "Crime",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZDg2NDJkOGYtMjM3My00Mzc2LWJiYjktODFlMzBjNmQwMTEyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "leatherface character,leatherface,psychopath,sadistic horror,slaughterhouse",
+    "name": "The Texas Chainsaw Massacre",
+    "original_info": {
+        "id": "The Texas Chainsaw Massacre 2_1983",
+        "name": "The Texas Chainsaw Massacre 2",
+        "year": "1983"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Eikonoklast"
+        },
+        "dateCreated": "2005-09-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0324216/"
+        },
+        "name": "Surprisingly good remake.",
+        "reviewBody": "The horror/sci-fi movie critic Richard Scheib coined the term \"Backwoods Brutality\" to describe the slew of low-budget movies that emerged in the 1970s which had as their main theme the violent and abrupt destruction of middle-class serenity. The concept has occasionally found expression outside of the horror genre (Straw Dogs, Deliverance), but since Wes Craven's Last House on the Left (1972), it has been a mainstay of the horror genre. Even thirty years later, the basic idea continues to be remade and re-interpreted. \n\nIn my view, the original Texas Chainsaw Massacre (1974) is the most successful exponent of the genre. As it often is in the American variations of this genre, the TCM takes the so-called blue state/red state dichotomy to a grotesque extreme: the backroads of the Deep South is another country and its inhabitants exhibit uncontained contempt for every unsuspecting wayfarer. Its use of tension, which is meticulously established in the movie's first 45 minutes, and release -- the last 45 minutes -- is almost elegant in its simplicity. Throughout, violence is used in sparing and sudden bursts until the adrenaline-fueled final act, during which it is mercilessly sustained.\n\nWith some minor qualifications, this description also fits Marcus Nispel's 2003 remake. Here the enlarged budget and technical expertise have worked both for and against the film. On the one hand, a variety of new elements have been added to the story. Some, like the mysterious little boy or the ending, are so-so, while others, like Leatherface's skin mask or the \"extended family,\" are effective. On the other hand, the professionalism and attention to detail demonstrated by Nispel and Daniel Pearl (whose cinematography here is magnificent) on down to those responsible for filming locations and set detail, is consistently impressive.\n\nSo the basic \"tension-release\" framework has been lifted from the original but instead of improving on it the filmmakers have saddled it with characters, situations, drama, and violence. (We learn from the DVD extras, happily, that some \"tender moments\" were left on the cutting room floor.) I give it a 7 because ultimately I think it works as a horror movie on its own terms -- in fact, I don't think a better American horror movie has been made since 2000 -- and Nispel/Kosar deserve credit attempting to revise the concept in minor ways for fans of the franchise. On the balance, however, the original's low-budget guerilla-like realism as well as some of its visceral power has been compromised.\n\nOf note, finally, is the performance of Jessica Biel. Having earned her acting chops on the Christian TV show/cheesefest, Seventh Heaven, Biel has as of late found a niche playing physically tough, but likable and intelligent characters. She's quite excellent here; as it was for the original TCM's Marilyn Burns, Biel's performance is exhilarating and intense -- a kind of endurance test. But one easily believes she has the acuity and toughness to survive the ordeal.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for The Texas Chainsaw Massacre",
+        "duration": "PT2M22S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1619047961",
+        "name": "The Texas Chainsaw Massacre",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTUyNTQ3NzE2MF5BMl5BanBnXkFtZTgwMzQyNTkxMDI@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTUyNTQ3NzE2MF5BMl5BanBnXkFtZTgwMzQyNTkxMDI@._V1_.jpg",
+        "uploadDate": "2016-10-01T04:24:50Z",
+        "url": "https://www.imdb.com/video/vi1619047961/"
+    },
+    "url": "/title/tt0324216/"
+}

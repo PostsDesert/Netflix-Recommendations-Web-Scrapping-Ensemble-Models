@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Gary Cooper",
+            "url": "/name/nm0000011/"
+        },
+        {
+            "@type": "Person",
+            "name": "Grace Kelly",
+            "url": "/name/nm0000038/"
+        },
+        {
+            "@type": "Person",
+            "name": "Thomas Mitchell",
+            "url": "/name/nm0593775/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 106258,
+        "ratingValue": 8,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0136675/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carl Foreman",
+            "url": "/name/nm0286025/"
+        },
+        {
+            "@type": "Person",
+            "name": "John W. Cunningham",
+            "url": "/name/nm0192356/"
+        }
+    ],
+    "datePublished": "1952-07-30",
+    "description": "A town Marshal, despite the disagreements of his newlywed bride and the townspeople around him, must face a gang of deadly killers alone at \"high noon\" when the gang leader, an outlaw he \"sent up\" years ago, arrives on the noon tr...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Fred Zinnemann",
+            "url": "/name/nm0003593/"
+        }
+    ],
+    "duration": "PT1H25M",
+    "genre": [
+        "Drama",
+        "Thriller",
+        "Western"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOWIzZGUxZmItOThkMS00Y2QxLTg0MTYtMDdhMjRlNTNlYTI3L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "keywords": "sheriff,one against many,old west,fistfight,frontier town",
+    "name": "High Noon",
+    "original_info": {
+        "id": "High Noon_1952",
+        "name": "High Noon",
+        "year": "1952"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "barnabyrudge"
+        },
+        "dateCreated": "2006-04-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0044706/"
+        },
+        "name": "Remarkably well-organised western in which not one single second is wasted and the tension is built up admirably.",
+        "reviewBody": "John Wayne was totally wrong to call this movie un-American. Courage and cowardice are universal emotions, and the attitudes of the characters in High Noon are, I think, incredibly truthful and telling. I know that if I lived in the Wild West, had a job and family, and was asked to stand up and fight against a gang of gun-toting psychos I would probably not be able to do it. That's why Gary Cooper's Will Kane is such a remarkable character in terms of self-respect, morality and inner strength. It's the way he MUST uphold the law even though it will perhaps cost him his wife and his life. It is the various townfolk with whom most of us will identify, even if it makes us feel shame or unworthiness to admit it. No matter how bravely we act, nor how much we want to think heroically of ourselves, 90% of us would cower in the shadows when the time came to do what Will Kane does in this movie.\n\nOn his wedding day, dependable lawman Will Kane (Gary Cooper) has just handed in his badge and is preparing to leave town with his bride Amy (Grace Kelly) when he receives devastating news. An old adversary, Frank Miller (Ian MacDonald), has been pardoned for crimes that he should have hanged for and is on his way to Kane's town of Hadleyville to get revenge. He is due on the noon train, leaving Kane one hour to either run for his life or make preparations to fight. Kane and Amy set off at full gallop, hoping to put some miles between themselves and danger, but Kane doesn't get far before he feels compelled to turn back. With the new sheriff not due for a day, he just can't let go of the extraordinary sense of duty and responsibility he feels towards his town. However when he gets back to town he gets quite a shock - for no-one has the guts (nor, in some instances, the inclination) to fight alongside him against the Miller gang. As time ticks unstoppably towards noon, Kane gradually realises that if he's going to stop Miller and his boys, he's going to have to do it alone!\n\nCooper's performance is extremely powerful and he received a thoroughly deserved Oscar for it. Kelly is good as his bride, although many viewers will find her character hard to like. Lloyd Bridges has a brilliant early role as Kane's deputy, while the very best of the supporting pack is Katy Jurado as a Latino woman whose \"history\" with most of the men in town puts her in an unenviable position when the shooting starts. Fred Zinnemann directs the film outstandingly, making each scene fit into the grander scheme of things with literate precision. Any aspiring young film-maker wanting to learn how to pace a film correctly should watch High Noon with a close eye, for it is unparallelled as the most perfectly paced film of all-time. The music by Dmitri Tomkin - plus that incredible ballad \"Do Not Forsake Me Oh My Darling\" by Tex Ritter - is just one more element that makes High Noon one of the great masterpieces. There's nothing else to say - if you haven't already, go out and see this film NOW!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer 2",
+        "duration": "PT2M13S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3442326553",
+        "name": "High Noon",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMmViZTI3MTgtZmQxNi00NmNjLWJiMjEtZmIyNzA3NGYxOTc0XkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMmViZTI3MTgtZmQxNi00NmNjLWJiMjEtZmIyNzA3NGYxOTc0XkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg",
+        "uploadDate": "2019-06-28T17:10:48.067Z",
+        "url": "https://www.imdb.com/video/vi3442326553/"
+    },
+    "url": "/title/tt0044706/"
+}

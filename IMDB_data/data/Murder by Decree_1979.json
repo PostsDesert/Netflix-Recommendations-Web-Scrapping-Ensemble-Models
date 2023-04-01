@@ -1,0 +1,117 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Christopher Plummer",
+            "url": "/name/nm0001626/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Mason",
+            "url": "/name/nm0000051/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Hemmings",
+            "url": "/name/nm0376101/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6063,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0051074/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0695373/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0244628/"
+        },
+        {
+            "@type": "Person",
+            "name": "Arthur Conan Doyle",
+            "url": "/name/nm0236279/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Hopkins",
+            "url": "/name/nm0394200/"
+        },
+        {
+            "@type": "Person",
+            "name": "Elwyn Jones",
+            "url": "/name/nm0428034/"
+        }
+    ],
+    "datePublished": "1979-02-09",
+    "description": "Sherlock Holmes investigates the murders commited by Jack the Ripper and discovers a conspiracy to protect the killer.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bob Clark",
+            "url": "/name/nm0163706/"
+        }
+    ],
+    "duration": "PT2H4M",
+    "genre": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDEzOGY1YjItOWZmYy00MDRkLWJjZTAtOTVkMTIyNWQ4YWI3XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_.jpg",
+    "keywords": "jack the ripper,conspiracy,london england,sherlock holmes character,three word title",
+    "name": "Murder by Decree",
+    "original_info": {
+        "id": "Murder by Decree_1979",
+        "name": "Murder by Decree",
+        "year": "1979"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ma-cortes"
+        },
+        "dateCreated": "2004-07-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0079592/"
+        },
+        "name": "Original and nice Sherlock Holmes movie",
+        "reviewBody": "This isn't an adaptation based on Arthur Conan Doyle novels , the plot line is a fictional story . The fable mingles Sherlock Holmes (Christopher Plummer) and Jack the Ripper. In the film appears Doctor Watson (James Mason) and Constable Lestrade (Frank Finlay) but not Doctor Moriarty though there is doubt if he's the murderous ; will be the killer? . The plot has a twisted ending and contains outstanding surprises .\n\nThe movie displays a first-rate set design and is very atmospheric . The shady and spooky slums are pretty well designed . Some shots create creepy and horror moments . The film blends thriller , suspense , detective action , terror and a little gore and is quite interesting . Acting by Christopher Plummer as Sherlock Holmes is excellent , likeness to Peter Cushing and Jeremy Brett as TV Sherlock ; furthermore James Mason as Watson is sublime . Other secondary actors are David Hemmings , Susan Clark , Frank Finlay , Genevieve Bujold , all of them are splendid . In 2002 the Hughes Brothers made a special version with Johnny Depp titled \"From Hell\" . Rating: 7 , above average . Well worth seeing .",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Anchor Bay Entertainment",
+        "duration": "PT4M16S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3684106521",
+        "name": "Murder by Decree",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDJhOGEzOTktNDVkMi00YzNhLTg3YWQtMmUyYjI4MTA4MDcwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDJhOGEzOTktNDVkMi00YzNhLTg3YWQtMmUyYjI4MTA4MDcwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:07:45Z",
+        "url": "https://www.imdb.com/video/vi3684106521/"
+    },
+    "url": "/title/tt0079592/"
+}

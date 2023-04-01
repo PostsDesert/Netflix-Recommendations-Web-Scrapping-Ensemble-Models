@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tom Bosley",
+            "url": "/name/nm0098014/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jenna Elfman",
+            "url": "/name/nm0001184/"
+        },
+        {
+            "@type": "Person",
+            "name": "Howie Mandel",
+            "url": "/name/nm0005177/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 534,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005875/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0108311/"
+        },
+        {
+            "@type": "Person",
+            "name": "Betty Paraskevas",
+            "url": "/name/nm0660971/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Paraskevas",
+            "url": "/name/nm0660973/"
+        }
+    ],
+    "datePublished": "2000-11-01",
+    "description": "A teddy bear with an upside-down smile finds family amongst other misfit toys in the front window of Winkle's Emporium, a discount store.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bert Ring",
+            "url": "/name/nm0727518/"
+        }
+    ],
+    "duration": "PT48M",
+    "genre": [
+        "Animation",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzU5Nzc2MTM0MF5BMl5BanBnXkFtZTYwMzY3Njk4._V1_.jpg",
+    "keywords": "christmas,bear,based on book,character name in title",
+    "name": "The Tangerine Bear: Home in Time for Christmas!",
+    "original_info": {
+        "id": "The Tangerine Bear_2000",
+        "name": "The Tangerine Bear",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "lockwood83-1"
+        },
+        "dateCreated": "2006-01-31",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0268677/"
+        },
+        "name": "Unexpected pleasure",
+        "reviewBody": "My son saw the cover and picked out this movie. I didn't know anything about it, but it is a great movie. He is 5 years old and it really captured his attention. He normally wants to watch movies with the \"good guys\" battling the \"bad guys\", but he chooses this movie over those most of the time. \n\nThe actors chosen to voice the characters are perfect for their roles. I especially enjoy Tom Bosley as the shopkeeper and David Hyde Pierce as the cuckoo. I also appreciate the idea of home being where ever there are people who love each other. I would recommend it highly to anyone with children.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT1M46S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1425735961",
+        "name": "The Tangerine Bear",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzE1NDE0OTgtNmQyNS00NDZiLWFkZDItMDg3YmRiYTBhNDAyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzE1NDE0OTgtNmQyNS00NDZiLWFkZDItMDg3YmRiYTBhNDAyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:14:56Z",
+        "url": "https://www.imdb.com/video/vi1425735961/"
+    },
+    "url": "/title/tt0268677/"
+}

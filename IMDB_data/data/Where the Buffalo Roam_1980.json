@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Peter Boyle",
+            "url": "/name/nm0001967/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Murray",
+            "url": "/name/nm0000195/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bruno Kirby",
+            "url": "/name/nm0456124/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 12185,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hunter S. Thompson",
+            "url": "/name/nm0860219/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Kaye",
+            "url": "/name/nm0443329/"
+        }
+    ],
+    "datePublished": "1980-04-25",
+    "description": "Semi-biographical film based on the experiences of gonzo journalist Hunter S. Thompson.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Art Linson",
+            "url": "/name/nm0513165/"
+        }
+    ],
+    "duration": "PT1H39M",
+    "genre": [
+        "Biography",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDBhNTY3ZGMtZjI2ZC00ZjY3LThmZmEtZTQ1ZDBhZDJkMGNhXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "gonzo journalist,hotel room,super bowl,journalism,presidential election",
+    "name": "Where the Buffalo Roam",
+    "original_info": {
+        "id": "Where the Buffalo Roam_1980",
+        "name": "Where the Buffalo Roam",
+        "year": "1980"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "StanMakitadonuts"
+        },
+        "dateCreated": "2007-01-15",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0081748/"
+        },
+        "name": "Take a walk on the wild side",
+        "reviewBody": "I only recently heard of this movie, and i'm quite surprised that I didn't hear of it earlier. Seeing as I watched and loved Fear and loathing in las vegas with Johnny Depp, I was super stoked to watch this. After seeing the first few scenes, I noticed how well Bill Murray portrays Hunter Thompson. It's completely from the same world as Depp's variation, With more of an 80's feel. This wacky story may not appeal to everyone, people looking for a deep story line or a lot of action won't like this. But if you are into Hunter Thompsons work, or Bill Murray, you will definitely enjoy this walk on the wild side\n\n7/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Semi-biographical film based on the experiences of gonzo journalist Hunter S. Thompson.",
+        "duration": "PT3M19S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1082311449",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTE4N2QwZTEtMGYzMy00M2NlLTg0NTgtZmFjMGI0YjUzOWVjXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTE4N2QwZTEtMGYzMy00M2NlLTg0NTgtZmFjMGI0YjUzOWVjXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-10-17T22:43:16.252Z",
+        "url": "https://www.imdb.com/video/vi1082311449/"
+    },
+    "url": "/title/tt0081748/"
+}

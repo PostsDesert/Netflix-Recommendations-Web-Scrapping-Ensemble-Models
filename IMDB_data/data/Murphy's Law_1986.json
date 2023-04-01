@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Charles Bronson",
+            "url": "/name/nm0000314/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kathleen Wilhoite",
+            "url": "/name/nm0001849/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carrie Snodgress",
+            "url": "/name/nm0811202/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5905,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0853710/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0206391/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gail Morgan Hickman",
+            "url": "/name/nm0382724/"
+        }
+    ],
+    "datePublished": "1986-04-18",
+    "description": "An action-packed thriller starring Charles Bronson as Jack Murphy, a cop who is running to stay alive long enough to even the score with his wife's killer.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "J. Lee Thompson",
+            "url": "/name/nm0496746/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZGU0NTJjOWQtZDNmMy00OTYyLWI1YTItMmQ0NmMwNjBlYWQyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "neo noir,female serial killer,juvenile delinquent,glock,cult film",
+    "name": "Murphy's Law",
+    "original_info": {
+        "id": "Murphy's Law_1986",
+        "name": "Murphy's Law",
+        "year": "1986"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "JoeKarlosi"
+        },
+        "dateCreated": "2008-06-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0091575/"
+        },
+        "name": "Murphy's Law (1986) ***",
+        "reviewBody": "I revisited this for the first time in several years, and I really enjoyed it. It's got a stronger and different Charles Bronson performance in it as he plays a cop who's one of several targets on an insane woman's hit list as she seeks vengeance after getting out of jail. In addition to the good Bronson performance, I thought the female killer (Carrie Snodgress) was a welcome addition and was a fairly formidable villainess. The big problem in the film is the repetitive and childish \"potty-mouth\" name calling by the annoying Kathleen Wilhoite; it's not funny especially after a couple dozen times, nor are the names especially creative. She plays a young car thief who gets mixed up with Bronson and comes close to spoiling the movie; thankfully there is still enough action going on that I'm willing to ignore her and call this a good film of its type. *** out of ****",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1648869657",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BY2M0NTU0YmUtYzViZi00OGYxLTliYzEtMzBjN2ZhZWExZDE3XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BY2M0NTU0YmUtYzViZi00OGYxLTliYzEtMzBjN2ZhZWExZDE3XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-02-17T19:31:20.437Z",
+        "url": "https://www.imdb.com/video/vi1648869657/"
+    },
+    "url": "/title/tt0091575/"
+}

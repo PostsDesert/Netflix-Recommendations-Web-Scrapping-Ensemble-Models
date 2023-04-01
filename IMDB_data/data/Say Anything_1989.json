@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Cusack",
+            "url": "/name/nm0000131/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ione Skye",
+            "url": "/name/nm0001746/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Mahoney",
+            "url": "/name/nm0001498/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 92433,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "alternateName": "Say Anything",
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0035761/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cameron Crowe",
+            "url": "/name/nm0001081/"
+        }
+    ],
+    "datePublished": "1989-04-14",
+    "description": "A noble underachiever and a beautiful valedictorian fall in love the summer before she goes off to college.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Cameron Crowe",
+            "url": "/name/nm0001081/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTcyOWNhMzgtZjk2OC00ODcxLTg2MGQtOTZjM2ViNzUwNDViXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "teenager,teen romance,father daughter relationship,teen movie,two word title",
+    "name": "Say Anything...",
+    "original_info": {
+        "id": "Say Anything_1989",
+        "name": "Say Anything",
+        "year": "1989"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "PyrolyticCarbon"
+        },
+        "dateCreated": "2003-04-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0098258/"
+        },
+        "name": "It's a wonderfully written film, with equal acting, to remind us all of falling in love for the first time without all the hurt, mistrust and disbelief in oneself.",
+        "reviewBody": "A wonderful film which made me laugh, cry and heavily identify with the first time I ever saw it. Then, some 13 years later, after buying it on DVD with faded memories, I watched it again and it all came back.\n\nI laughed; I was moved; I cheered inside when things went well for the hero, and I even remembered things about my first love. Especially the shaking with happiness moment (Judith). This film has survived 13 years with me, and it's not all down to my own memories.\n\nJohn Cusack and Ione Skye give such wonderful performances that are so believable there's not a second that you're thinking of them as actors. Everything they feel and do seems so real. John Mahoney portrays the over protective Father very well, and his understated struggle when he realises this is superbly done.\n\nCameron Crowe has excelled himself in capturing the feelings and moments that you can so easily identify with to make them just right, and seem so natural.\n\nIt's a wonderfully written film, with equal acting, to remind us all of falling in love for the first time without all the hurt, mistrust and disbelief in oneself. It even manages to provide one of the best endings I've ever seen.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi562102553",
+        "name": "Say Anything",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTc0OGYxNDYtMDcwMi00M2E1LTgzZDgtYmRkNWI3ZWM0ODhlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTc0OGYxNDYtMDcwMi00M2E1LTgzZDgtYmRkNWI3ZWM0ODhlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:42:53Z",
+        "url": "https://www.imdb.com/video/vi562102553/"
+    },
+    "url": "/title/tt0098258/"
+}

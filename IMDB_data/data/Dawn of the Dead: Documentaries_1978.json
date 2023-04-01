@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "David Emge",
+            "url": "/name/nm0256361/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ken Foree",
+            "url": "/name/nm0286010/"
+        },
+        {
+            "@type": "Person",
+            "name": "Scott H. Reiniger",
+            "url": "/name/nm0718203/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 123526,
+        "ratingValue": 7.8,
+        "worstRating": 1
+    },
+    "contentRating": "Unrated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0136689/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0607988/"
+        },
+        {
+            "@type": "Person",
+            "name": "George A. Romero",
+            "url": "/name/nm0001681/"
+        }
+    ],
+    "description": "During an escalating zombie epidemic, two Philadelphia SWAT team members, a traffic reporter and his TV executive girlfriend seek refuge in a secluded shopping mall.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "George A. Romero",
+            "url": "/name/nm0001681/"
+        }
+    ],
+    "duration": "PT2H7M",
+    "genre": [
+        "Horror",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzc1YTIyNjctYzhlNy00ZmYzLWI2ZWQtMzk4MmQwYzA0NGQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "zombie apocalypse,cult film,zombie,pennsylvania,shopping mall",
+    "name": "Dawn of the Dead",
+    "original_info": {
+        "id": "Dawn of the Dead: Documentaries_1978",
+        "name": "Dawn of the Dead: Documentaries",
+        "year": "1978"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Scars_Remain"
+        },
+        "dateCreated": "2007-11-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0077402/"
+        },
+        "name": "When There's No More Room in Hell, The Dead Will Go Shopping",
+        "reviewBody": "This movie has always been a big favorite of mine. I went through a zombie phase in high school and this is, hands down, the best zombie film ever made. With all the crap coming out today, it still stands out.\n\nDawn is a great satire of materialistic modern society. All of the performances are spot on, George Romero's writing and direction is flawless as usual, and the gore is brilliant. What could be better than a bunch of zombies taking over a shopping mall? That's right, nothing.\n\nIf you call yourself a horror fan and you haven't seen the original Dawn of the Dead, you need to get with the program immediately! No one messes with Romero, no one!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Dawn Of The Dead",
+        "duration": "PT2M40S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi215942681",
+        "name": "Dawn of the Dead (1978)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzNhMGRlNDEtYzlhMy00MTJkLTkwODAtODhiMDVlNWQ3NTQxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzNhMGRlNDEtYzlhMy00MTJkLTkwODAtODhiMDVlNWQ3NTQxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-08-21T03:10:58Z",
+        "url": "https://www.imdb.com/video/vi215942681/"
+    },
+    "url": "/title/tt0077402/"
+}

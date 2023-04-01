@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Max Gail",
+            "url": "/name/nm0301178/"
+        },
+        {
+            "@type": "Person",
+            "name": "Adam Baldwin",
+            "url": "/name/nm0000284/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mr. T",
+            "url": "/name/nm0001558/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5030,
+        "ratingValue": 5.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050028/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0108873/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Person",
+            "name": "Topper Carew",
+            "url": "/name/nm0136882/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joel Schumacher",
+            "url": "/name/nm0001708/"
+        }
+    ],
+    "datePublished": "1983-12-16",
+    "description": "The misadventures of a group of unfortunate but street-wise cabbies working for a Washington, D.C. decrepit taxicab company.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Joel Schumacher",
+            "url": "/name/nm0001708/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Action",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODNmYjc2ZjYtODc1Ny00Mjk4LWIxMjItOGQwMzkyMDU3ODNiL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "black and white oxford saddle shoes,man tied up,blindfold,boots,black american",
+    "name": "D.C. Cab",
+    "original_info": {
+        "id": "D.C. Cab_1983",
+        "name": "D.C. Cab",
+        "year": "1983"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "zahno"
+        },
+        "dateCreated": "1999-05-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0085387/"
+        },
+        "name": "It ain't Shakespeare.",
+        "reviewBody": "An enjoyable film for 80s buffs and fans of the not-for-everybody 80s screwball comedy. Often juvenile, often exploitative, never meant to be taken seriously, an uneven performance from its lead (particularly an inconsistent accent) and occasional sloppy sentimentality drag the movie down. There are some great turns from bit players, including a young Charlie Barnett and an old Whitman Mayo. Max Gail is solid and Marsha Warfield is thin! The film features some classic lines in addition to allegedly funny lines that will make you cringe. Mostly, the movie is a harmless goof with a touch of idiotic 80s energy. 6.5 out of 10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "The misadventures of a group of unfortunate but street-wise cabbies working for a Washington, D.C. decrepit taxicab company.",
+        "duration": "PT44S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2643968793",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTAxNTUwOTEtZDViNS00OGNmLWEyMmMtMWE1YjIyOTk1MzhhXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTAxNTUwOTEtZDViNS00OGNmLWEyMmMtMWE1YjIyOTk1MzhhXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-10-08T01:10:13.549Z",
+        "url": "https://www.imdb.com/video/vi2643968793/"
+    },
+    "url": "/title/tt0085387/"
+}

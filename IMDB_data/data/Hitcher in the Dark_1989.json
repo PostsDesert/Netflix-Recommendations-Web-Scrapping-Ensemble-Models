@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Joe Balogh",
+            "url": "/name/nm0051036/"
+        },
+        {
+            "@type": "Person",
+            "name": "Josie Bissett",
+            "url": "/name/nm0084327/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jason Saucier",
+            "url": "/name/nm0766541/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 806,
+        "ratingValue": 5,
+        "worstRating": 1
+    },
+    "alternateName": "Hitcher in the Dark",
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0059265/"
+        },
+        {
+            "@type": "Person",
+            "name": "Olga Pehar",
+            "url": "/name/nm0670441/"
+        },
+        {
+            "@type": "Person",
+            "name": "Umberto Lenzi",
+            "url": "/name/nm0502391/"
+        }
+    ],
+    "description": "Sick young man drives around in his daddy's camper, looking for lone stray females to kidnap, torture, rape, and murder.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Umberto Lenzi",
+            "url": "/name/nm0502391/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Horror",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMmQ0ZmE2ODMtM2M3Yy00YmE3LTkzM2UtYmM0NWMyNWFlZTRmXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+    "keywords": "tied feet,euro trash,trash movie,exploitation film,italian exploitation",
+    "name": "Paura nel buio",
+    "original_info": {
+        "id": "Hitcher in the Dark_1989",
+        "name": "Hitcher in the Dark",
+        "year": "1989"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Griking"
+        },
+        "dateCreated": "2021-04-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0098072/"
+        },
+        "name": "Really Feels Like A 70's Flick",
+        "reviewBody": "I love 70s movies and it shocks me that this was released in '89 as if looks and feels like a mid 70's movie. Its not a \"horror\" but more of a thriller about a young man who preys on woman hitchhikers in his dad's camper. Its cheesy and there's nothing new here but its entertaining if you go in not expecting much.\n\nThere's also a small amount of T&A sprinkled in if you're into that.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Filmarage S.r.l.",
+        "duration": "PT2M46S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2209153305",
+        "name": "Hitcher in the Dark (aka. Paura Nel Buio)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjRhY2E3NDQtZjkyMi00NGY2LWFlMWUtZTU1YjIyZTA0ZTRjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjRhY2E3NDQtZjkyMi00NGY2LWFlMWUtZTU1YjIyZTA0ZTRjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:27:19Z",
+        "url": "https://www.imdb.com/video/vi2209153305/"
+    },
+    "url": "/title/tt0098072/"
+}

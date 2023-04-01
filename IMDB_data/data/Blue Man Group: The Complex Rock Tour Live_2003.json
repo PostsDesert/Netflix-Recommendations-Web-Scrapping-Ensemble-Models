@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Blue Man Group",
+            "url": "/name/nm1292489/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 24,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0434712/"
+        }
+    ],
+    "datePublished": "2004-09-01",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Candace Corelli",
+            "url": "/name/nm0179735/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chris Wink",
+            "url": "/name/nm1509861/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTg5OTczOGItNzJjNy00ODU5LTlkYjAtM2UxNTUxNWZlNTEwXkEyXkFqcGdeQXVyODMwMzUyODY@._V1_.jpg",
+    "keywords": "tv special,concert film",
+    "name": "Blue Man Group: The Complex Rock Tour Live",
+    "original_info": {
+        "id": "Blue Man Group: The Complex Rock Tour Live_2003",
+        "name": "Blue Man Group: The Complex Rock Tour Live",
+        "year": "2003"
+    },
+    "url": "/title/tt3006676/"
+}

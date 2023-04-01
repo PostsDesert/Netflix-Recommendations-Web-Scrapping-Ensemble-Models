@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Montgomery Clift",
+            "url": "/name/nm0001050/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anne Baxter",
+            "url": "/name/nm0000879/"
+        },
+        {
+            "@type": "Person",
+            "name": "Karl Malden",
+            "url": "/name/nm0001500/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 21891,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Tabori",
+            "url": "/name/nm0846068/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Archibald",
+            "url": "/name/nm0033780/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Anthelme",
+            "url": "/name/nm0030786/"
+        }
+    ],
+    "datePublished": "1953-02-18",
+    "description": "A priest, who comes under suspicion for murder, cannot clear his name without breaking the seal of the confessional.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Alfred Hitchcock",
+            "url": "/name/nm0000033/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTY0MTJmMmUtNTVkMy00YTBmLWEzNDUtZWQ0Mjc4NzRjZTNhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "keywords": "priest,church,catholic,confessional,safe full of money",
+    "name": "I Confess",
+    "original_info": {
+        "id": "I Confess_1953",
+        "name": "I Confess",
+        "year": "1953"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "gridoon"
+        },
+        "dateCreated": "2005-07-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0045897/"
+        },
+        "name": "Atypical Hitchcock",
+        "reviewBody": "\"I Confess\" is one of Alfred Hitchcock's least famous films, and it's easy to see why: there is no mystery (we know who the killer is right from the start); there is some suspense but no major set-pieces; there is very little humor (no Cary Grant-type wisecracks here). The movie is a somber psychological drama, and the story of a forbidden love, and perhaps a Christ allegory (the priest has to suffer for another man's sins - he has to bear his own cross). I wouldn't rank it among Hitchcock's best, but it certainly has some of the best acting you can find in a Hitchcock film: Montgomery Clift is superb in a difficult role, Anne Baxter is warm and utterly believable as the woman who is consumed by her love for him, and Karl Malden is perfectly cast as the nosy (no pun intended) inspector on the case. (**1/2)",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Warner Bros. Pictures",
+        "duration": "PT2M48S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1538130201",
+        "name": "I Confess",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDAwZTA5ZDAtY2MwMi00ZTk2LWFhN2UtYmNmMzA3ODQxYWQzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDAwZTA5ZDAtY2MwMi00ZTk2LWFhN2UtYmNmMzA3ODQxYWQzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:29:51Z",
+        "url": "https://www.imdb.com/video/vi1538130201/"
+    },
+    "url": "/title/tt0045897/"
+}

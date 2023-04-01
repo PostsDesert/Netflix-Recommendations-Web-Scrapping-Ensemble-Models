@@ -1,0 +1,91 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "La Paquera de Jerez",
+            "url": "/name/nm0208932/"
+        },
+        {
+            "@type": "Person",
+            "name": "Merche Esmeralda",
+            "url": "/name/nm0260714/"
+        },
+        {
+            "@type": "Person",
+            "name": "Manolo Sanlúcar",
+            "url": "/name/nm0762878/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 761,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0071913/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0075568/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0038776/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carlos Saura",
+            "url": "/name/nm0767022/"
+        }
+    ],
+    "datePublished": "1997-04-25",
+    "description": "As a hall fills with performers, a narrator says that flamenco came from Andalucia, a mix of Greek psalms, Mozarabic dirges, Castillian ballads, Jewish laments, Gregorian chants, African rhythms, and Iranian and Romany melodies. T...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Carlos Saura",
+            "url": "/name/nm0767022/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Documentary",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODYyNjQ0ZWUtZDUwYS00ZDkxLTk0ZTAtMmIzNWM3MjA4MjVhXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",
+    "keywords": "dance,flamenco music,flamenco dance",
+    "name": "Flamenco",
+    "original_info": {
+        "id": "Flamenco_1995",
+        "name": "Flamenco",
+        "year": "1995"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "MartinTeller"
+        },
+        "dateCreated": "2012-01-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0113077/"
+        },
+        "name": "Flamenco (de Carlos Saura) (1995)",
+        "reviewBody": "Saura's love for flamenco (and formidable ability for capturing it on film) is well-established, and here he presents it pure and unadorned. Hundreds of musicians, singers and dancers provide an uninterrupted series of flamenco performances in all its forms and styles. The talent is dazzling and the passion is infectious, it's a marvelous tribute with glorious photography by Storaro, backlighting the performers in warm oranges and cool blues on sparse stages. There is one problem, though. For the first 20 minutes, it's electrifying and exhilarating, and I thought I might be watching a new favorite. But then the next 40 minutes are far too ballad-heavy. Although the material is very good, it kind of sucks the energy out of the room. Anyone who's ever sequenced an album, or even made a mixtape, knows you don't clump a bunch of slow songs together. Fortunately, the remainder of the film is more evenly paced with a much better mix of uptempo and downbeat. Although that slow stretch keeps the movie from being a masterpiece for me, overall I was delighted, and it made me want to pick up my guitar.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0113077/"
+}

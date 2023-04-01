@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Robert Carlyle",
+            "url": "/name/nm0001015/"
+        },
+        {
+            "@type": "Person",
+            "name": "Oyanka Cabezas",
+            "url": "/name/nm0127616/"
+        },
+        {
+            "@type": "Person",
+            "name": "Scott Glenn",
+            "url": "/name/nm0001277/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3342,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "TV-MA",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0061958/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0014821/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0103532/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Laverty",
+            "url": "/name/nm0491956/"
+        }
+    ],
+    "datePublished": "1997-05-15",
+    "description": "1987, love in time of war. Bus driver George Lennox meets Carla, a Nicaraguan exile living a precarious, profoundly-sad life in Glasgow. Her back is scarred, her boyfriend missing, her family dispersed; she's suicidal. George take...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ken Loach",
+            "url": "/name/nm0516360/"
+        }
+    ],
+    "duration": "PT2H7M",
+    "genre": [
+        "Drama",
+        "Romance",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU5MjMzMDczN15BMl5BanBnXkFtZTYwOTY3NzI5._V1_.jpg",
+    "keywords": "nicaraguan,bus,bus driver,glasgow scotland,character name in title",
+    "name": "Carla's Song",
+    "original_info": {
+        "id": "Carla's Song_1996",
+        "name": "Carla's Song",
+        "year": "1996"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Back_Row_Babe"
+        },
+        "dateCreated": "2006-05-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0115832/"
+        },
+        "name": "The other side of the story",
+        "reviewBody": "I saw this first at the Watershed in Bristol, a celebration of that city's twinning arrangement with the Nicaraguan town of Puerto Morazan. The town had just been devastated by Hurricane Mitch and the ensuing floods, yet the resourceful people of Morazan had emerged from the disaster without loss of life, and yet again they got on with their lives. They are used to this, after generations of bouncing back from flood, volcano, earthquake, military dictatorship and the hegemony of the global megacorporations backed by the US government. And their representatives tell us that Ken Loach's film gives their small voice a hearing.\n\nThis is my favourite amongst Loach's films. It combines its political message - an important one - with comedy and a touching love story. It should be better known.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Fox Lorber",
+        "duration": "PT1M56S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3887857945",
+        "name": "Carla's Song",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzJmOTBjYzQtOGU5ZC00NTQ3LTkwNWItOTIxY2M0YmQ5NzY2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzJmOTBjYzQtOGU5ZC00NTQ3LTkwNWItOTIxY2M0YmQ5NzY2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:02:19Z",
+        "url": "https://www.imdb.com/video/vi3887857945/"
+    },
+    "url": "/title/tt0115832/"
+}

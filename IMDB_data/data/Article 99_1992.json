@@ -1,0 +1,92 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ray Liotta",
+            "url": "/name/nm0000501/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kiefer Sutherland",
+            "url": "/name/nm0000662/"
+        },
+        {
+            "@type": "Person",
+            "name": "Forest Whitaker",
+            "url": "/name/nm0001845/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3421,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0001995/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ron Cutler",
+            "url": "/name/nm0193955/"
+        }
+    ],
+    "datePublished": "1992-03-13",
+    "description": "Dr. Richard Sturgess leads a team of compassionate doctors at a veteran's hospital. Along with Drs. Morgan, Handleman and Van Dorn, he fights to deliver adequate care to needy veterans in the face of funding cuts and corruption.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Howard Deutch",
+            "url": "/name/nm0222043/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjk2NjM4ZjItNmY3Ny00ZTA5LWI5MmYtYmY3ZWI0OTY0YzVjXkEyXkFqcGdeQXVyMjAxMjEzNzU@._V1_.jpg",
+    "keywords": "vietnam war veteran,medical drama,doctor,hospital,veterans hospital",
+    "name": "Article 99",
+    "original_info": {
+        "id": "Article 99_1992",
+        "name": "Article 99",
+        "year": "1992"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "media_watch_usa"
+        },
+        "dateCreated": "2014-05-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0101371/"
+        },
+        "name": "May 2014 - Here we go again",
+        "reviewBody": "Consider the recent developments of the alleged \"cooked books\", \"deleted patient lists\" and \"dieing patients\" at several VA Facilities through-out the entire United States. In addition, the Inspector General (OIG) in involved in an investigation of \"deleted\" surveillance videos of alleged patient abuse at the Las Vegas VA Emergency Room. With these and many more \"concerns\" about the Department of Veteran Affairs and the on-going problems at their facilities, this movie should be re-released. Perhaps it would be prudent for all Staff at the Department of Veterans Affairs to view this movie as part of their \"Welcome to the VA\". It appears not much has changed at the VA since 1992 - 22 years ago."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Dr. Richard Sturgess leads a team of compassionate doctors at a veteran's hospital. Along with Drs. Morgan, Handleman and Van Dorn, he fights to deliver adequate care to needy veterans in the face of funding cuts and corruption.",
+        "duration": "PT2M40S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1335542553",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzAyNjk3YjctYmFhMy00NzI5LTk2MmUtOTE4ODZjNTRjZTIxXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzAyNjk3YjctYmFhMy00NzI5LTk2MmUtOTE4ODZjNTRjZTIxXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-10-10T23:55:52.522Z",
+        "url": "https://www.imdb.com/video/vi1335542553/"
+    },
+    "url": "/title/tt0101371/"
+}

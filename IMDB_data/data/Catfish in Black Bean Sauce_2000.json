@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Chi Muoi Lo",
+            "url": "/name/nm0516286/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sanaa Lathan",
+            "url": "/name/nm0005125/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Winfield",
+            "url": "/name/nm0934902/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 501,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0053877/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chi Muoi Lo",
+            "url": "/name/nm0516286/"
+        }
+    ],
+    "datePublished": "2000-06-09",
+    "description": "A Vietnamese brother and sister raised by an African American couple are reunited with their birth mother after 22 years.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Chi Muoi Lo",
+            "url": "/name/nm0516286/"
+        }
+    ],
+    "duration": "PT1H59M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMwNzQ3OTg4NV5BMl5BanBnXkFtZTcwNTIxNjQyMQ@@._V1_.jpg",
+    "keywords": "adoptive father adopted son relationship,roommate roommate relationship,adoptive father adopted daughter relationship,adoptive mother adopted son relationship,adoptive mother adopted daughter relationship",
+    "name": "Catfish in Black Bean Sauce",
+    "original_info": {
+        "id": "Catfish in Black Bean Sauce_2000",
+        "name": "Catfish in Black Bean Sauce",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Cobbler"
+        },
+        "dateCreated": "1999-05-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0162903/"
+        },
+        "name": "Amazing Ensemble Acting",
+        "reviewBody": "This a very, very impressive independent film. The story is funny, painful and moving. The characters are extremely well-written and three-dimensional. The ensemble acting is quite amazing; this film has the best casting I've seen in a while, even the smallest parts! I was upset that it had to end. 8/10.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "...raised by an African American couple, a Vietnamese brother and sister are reunited with their birth mother.",
+        "duration": "PT2M8S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi625672217",
+        "name": "Catfish In Black Bean Sauce",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTUzMDA1NjQ1NV5BMl5BanBnXkFtZTcwMTk5MzQwMg@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTUzMDA1NjQ1NV5BMl5BanBnXkFtZTcwMTk5MzQwMg@@._V1_.jpg",
+        "uploadDate": "2008-11-18T13:15:40Z",
+        "url": "https://www.imdb.com/video/vi625672217/"
+    },
+    "url": "/title/tt0162903/"
+}

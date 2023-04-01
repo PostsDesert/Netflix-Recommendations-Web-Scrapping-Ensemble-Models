@@ -1,0 +1,82 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Yolanda Adams",
+            "url": "/name/nm0011444/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marc Anthony",
+            "url": "/name/nm0004711/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kevin Bacon",
+            "url": "/name/nm0000102/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 196,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Person",
+            "name": "Ken Ehrlich",
+            "url": "/name/nm0251368/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Wild",
+            "url": "/name/nm0928329/"
+        }
+    ],
+    "datePublished": "2001-10-02",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ron de Moraes",
+            "url": "/name/nm0210454/"
+        }
+    ],
+    "genre": [
+        "Documentary",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMxMDQzNzEyM15BMl5BanBnXkFtZTcwMzQ0OTAyMQ@@._V1_.jpg",
+    "keywords": "tv special",
+    "name": "Come Together: A Night for John Lennon's Words and Music",
+    "original_info": {
+        "id": "Come Together: A Night for John Lennon's Words and Music_2001",
+        "name": "Come Together: A Night for John Lennon's Words and Music",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "gerrenp"
+        },
+        "dateCreated": "2006-05-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0321744/"
+        },
+        "name": "Decent Performances But Very Lackluster",
+        "reviewBody": "I agree with the post 9/11 argument but I also was not really impressed with all the performances. Until Yoko gets over the issues she has with the surviving Beatles this will continue. If you want to see a tribute concert done correctly, check out the Concert for George, not only did it have Paul and Ringo, it also has higher caliber talent. These concerts should not be made political(between the people involved..not government or causes)and more about the music. I just hope that one day the can do a tribute concert for John with acts such Paul and Ringo as well as other A-list talent. With the influence range of John's music I am just not impressed with the acts on this show.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0321744/"
+}

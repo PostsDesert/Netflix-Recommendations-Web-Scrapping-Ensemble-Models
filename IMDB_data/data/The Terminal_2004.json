@@ -1,0 +1,117 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tom Hanks",
+            "url": "/name/nm0000158/"
+        },
+        {
+            "@type": "Person",
+            "name": "Catherine Zeta-Jones",
+            "url": "/name/nm0001876/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chi McBride",
+            "url": "/name/nm0564277/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 469303,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0819670/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0009119/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0108321/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrew Niccol",
+            "url": "/name/nm0629272/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sacha Gervasi",
+            "url": "/name/nm0315065/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeff Nathanson",
+            "url": "/name/nm0622288/"
+        }
+    ],
+    "datePublished": "2004-06-18",
+    "description": "An Eastern European tourist unexpectedly finds himself stranded in JFK airport, and must take up temporary residence there.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Steven Spielberg",
+            "url": "/name/nm0000229/"
+        }
+    ],
+    "duration": "PT2H8M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYzY3YzNlZjctZTNiNC00MjUzLTlhM2ItNjdkNzAwMDhmYmRmXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_.jpg",
+    "keywords": "airport,man without a country,flight attendant,fish out of water,jazz",
+    "name": "The Terminal",
+    "original_info": {
+        "id": "The Terminal_2004",
+        "name": "The Terminal",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jjll"
+        },
+        "dateCreated": "2004-12-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0362227/"
+        },
+        "name": "Egoless waiting",
+        "reviewBody": "I have to say it is a great one that first shows the meaning and beauty in our life about waiting and promise. Amelia is waiting for her dream to come true for eighteen years, for herself; Navorski's dad was waiting for something he honored so much for his life; and here comes Navorski, who waits for making his father's left dream come true, for fulfilling his promise, for the woman he fell in love, in a \"crack\" between the US and his own country. \n\nHe has done everything for others around him. If there is a great example of \"egoless\", he is one. Letting go ego, is the greatness that even Amelia found out when she gives up and scarifies something most important in her life to help Navorski. \n\nThis simple story conveys some wonderful philosophy for people living in this country busy around everyday for business, families, and so on, to slow down and reflect on something. As the retired officer said to officer Dixon, there is something we can learn from Navorski.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2012938521",
+        "name": "The Terminal",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMGQxYzk3YWEtZGY4Zi00M2YyLWFiMmQtOWExOTg1MDFjZTVkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMGQxYzk3YWEtZGY4Zi00M2YyLWFiMmQtOWExOTg1MDFjZTVkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:15:21Z",
+        "url": "https://www.imdb.com/video/vi2012938521/"
+    },
+    "url": "/title/tt0362227/"
+}

@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tom Cruise",
+            "url": "/name/nm0000129/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cuba Gooding Jr.",
+            "url": "/name/nm0000421/"
+        },
+        {
+            "@type": "Person",
+            "name": "Renée Zellweger",
+            "url": "/name/nm0000250/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 273359,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005883/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0035761/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cameron Crowe",
+            "url": "/name/nm0001081/"
+        }
+    ],
+    "datePublished": "1996-12-13",
+    "description": "When a sports agent has a moral epiphany and is fired for expressing it, he decides to put his new philosophy to the test as an independent agent with the only athlete who stays with him and his former colleague.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Cameron Crowe",
+            "url": "/name/nm0001081/"
+        }
+    ],
+    "duration": "PT2H19M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTM0ZWNmZTUtOTVkZS00MTZiLTg3M2QtZjA0Y2RmOWM1NWEyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "keywords": "agent,sports agent,football,football player,single mother",
+    "name": "Jerry Maguire",
+    "original_info": {
+        "id": "Jerry Maguire_1996",
+        "name": "Jerry Maguire",
+        "year": "1996"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "GilbertAlmond42"
+        },
+        "dateCreated": "2006-04-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0116695/"
+        },
+        "name": "An amazing film",
+        "reviewBody": "I refused to see Jerry Maguire for several years, assuming it was a cheap movie about money, sports and sex. When i finally watched it on TV, i was blown away. This movie is about hope, redemption, love, and finding out the meaning of life. Tom Cruise does a spectacular job playing someone with nothing to loose, and Cuba Gooding's performance brought tears to my eyes. Renee Zellweger fits perfectly by having great chemistry with Jerry, and by having a normal, plain look. This film works because it's so real and easily plausible; its a witty, romantic drama more than a romantic comedy that proves its never too late to start over or take a risk.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT2M28S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2527247897",
+        "name": "Jerry Maguire",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BN2E4YTVlYjgtZDk5My00MDk1LThlMjEtMzVlZTcxYmZmYWVhXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BN2E4YTVlYjgtZDk5My00MDk1LThlMjEtMzVlZTcxYmZmYWVhXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-03-05T17:05:12.220Z",
+        "url": "https://www.imdb.com/video/vi2527247897/"
+    },
+    "url": "/title/tt0116695/"
+}

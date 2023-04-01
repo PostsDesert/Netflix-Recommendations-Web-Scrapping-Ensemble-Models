@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tom Selleck",
+            "url": "/name/nm0000633/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 281,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0053632/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jack Stephens",
+            "url": "/name/nm0827041/"
+        }
+    ],
+    "description": "The Magic of Flight places viewers in the cockpit of a Blue Angels jet aircraft so they can experience the thrill of high performance flight. Narrated by Tom Selleck, The Magic of Flight shows the path of flight starting with the ...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Greg MacGillivray",
+            "url": "/name/nm0532263/"
+        }
+    ],
+    "duration": "PT40M",
+    "genre": [
+        "Short",
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY4NDEzNzQ1NV5BMl5BanBnXkFtZTcwNDYyMDYyMQ@@._V1_.jpg",
+    "keywords": "jet,navy,imax",
+    "name": "The Magic of Flight",
+    "original_info": {
+        "id": "The Magic of Flight: IMAX_1996",
+        "name": "The Magic of Flight: IMAX",
+        "year": "1996"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "rgcustomer"
+        },
+        "dateCreated": "2013-10-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0119595/"
+        },
+        "name": "A piece of its time, but I liked it",
+        "reviewBody": "Despite being nearly two decades old, this is a film I liked. It's certainly US-centric (and I'm not) but who cares? Using the Blue Angels to hold the film together, it touches on a few aspects of flight history, leading up to a thrilling aerobatic display concluding the film. You want to see this in a true IMAX theatre.\n\nAt first I was annoyed that much of the film was not shot in IMAX, using only a small fraction of the screen, but it does really emphasize what you're seeing when it opens up to the full giant IMAX size. The looping and spinning as you ride along is so immersive that you may feel just a bit nauseous (but it's so worth it).\n\nI'd like to see an updated version of this film that doesn't pretend to be a history of flight, and just focuses on the Blue Angels, and other aerobatic acts.\n\nFun fact: the film attributes lift to the Bernoulli principle. While the principle is correct, it is NOT what keeps planes in the air, or they obviously would not be able to fly vertically or upside-down. And we've all seen stealth planes with perfectly flat wings. This part should be edited out.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for The Magic of Flight",
+        "duration": "PT1M39S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2900754713",
+        "name": "The Magic of Flight",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTI5ZWExYjUtOGYwMy00NjgwLThhOWUtY2E5NmYyNjc5NzAwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTI5ZWExYjUtOGYwMy00NjgwLThhOWUtY2E5NmYyNjc5NzAwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-05-30T05:56:04Z",
+        "url": "https://www.imdb.com/video/vi2900754713/"
+    },
+    "url": "/title/tt0119595/"
+}

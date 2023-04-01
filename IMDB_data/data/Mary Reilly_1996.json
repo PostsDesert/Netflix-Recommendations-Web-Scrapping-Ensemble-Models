@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Julia Roberts",
+            "url": "/name/nm0000210/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Malkovich",
+            "url": "/name/nm0000518/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Cole",
+            "url": "/name/nm0170552/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 15337,
+        "ratingValue": 5.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0009879/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0005883/"
+        },
+        {
+            "@type": "Person",
+            "name": "Valerie Martin",
+            "url": "/name/nm0553168/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christopher Hampton",
+            "url": "/name/nm0358960/"
+        }
+    ],
+    "datePublished": "1996-02-23",
+    "description": "A housemaid falls in love with Dr. Henry Jekyll and his darkly mysterious counterpart, Mr. Edward Hyde.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Stephen Frears",
+            "url": "/name/nm0001241/"
+        }
+    ],
+    "duration": "PT1H48M",
+    "genre": [
+        "Drama",
+        "Horror",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZWI5MzBiMjgtNDE2ZC00MTA1LWFmNWItZDQyMDA2NGE0MjQ5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "dr. jekyll and mr. hyde characters,housemaid,servant,laboratory,butler",
+    "name": "Mary Reilly",
+    "original_info": {
+        "id": "Mary Reilly_1996",
+        "name": "Mary Reilly",
+        "year": "1996"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "claudio_carvalho"
+        },
+        "dateCreated": "2014-01-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0117002/"
+        },
+        "name": "Dr. Jekyll and Mr. Hyde through the Eyes of a Housemaid",
+        "reviewBody": "In the nineteen century, in London, the dedicated housemaid Mary Reilly (Julia Roberts) is part of the staff under the command of the butler Mr. Poole (George Cole) that works for Dr. Henry Jekyll (John Malkovich). Mary is a traumatized woman that was abused by her father when she was a child and very devoted to Dr. Jekyll. One day, he gathers Mr. Poole and the servants in a room and tells that his assistant Mr. Edward Hyde will be work in his laboratory with free access to the house. Mary Reilly and her mates are unsuccessful to see the mysterious Mr. Hyde. Dr. Jekyll trusts on Mary Reilly and she helps him, delivering letters to the notorious Mrs. Farraday (Glenn Close) that owns a brothel to clean the mess that Mr. Hyde does in the city. Mary Reilly is seduced by the educated Dr. Jekyll and by the reckless and violent Mr. Hyde.\n\n\"Mary Reilly\" is a dramatic and romantic view of the classic story of Dr. Jekyll and Mr. Hyde through the eyes of a housemaid. The plot is developed in slow pace and is not exactly an horror movie and maybe this is the reason that many viewers did not like this movie. My vote is seven.\n\nTitle (Brazil): \"O Segredo de Mary Reilly\" (\"The Secret of Mary Reilly\")",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Sony Pictures Home Entertainment",
+        "duration": "PT26S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3096969497",
+        "name": "Mary Reilly",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BM2MzYmM2NTEtNDQ0MC00N2U3LWFiZTYtODFlNGE4ZTNlZDA5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BM2MzYmM2NTEtNDQ0MC00N2U3LWFiZTYtODFlNGE4ZTNlZDA5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:10:46Z",
+        "url": "https://www.imdb.com/video/vi3096969497/"
+    },
+    "url": "/title/tt0117002/"
+}

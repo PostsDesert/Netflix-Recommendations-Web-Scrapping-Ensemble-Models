@@ -1,0 +1,91 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Robert Duvall",
+            "url": "/name/nm0000380/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jason Presson",
+            "url": "/name/nm0696320/"
+        },
+        {
+            "@type": "Person",
+            "name": "Glenn Close",
+            "url": "/name/nm0000335/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 795,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0307356/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0126314/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0126272/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gina Berriault",
+            "url": "/name/nm0077348/"
+        }
+    ],
+    "datePublished": "1984-04-04",
+    "description": "A Midwestern farm family faces major emotional adjustment after a tragedy results in the death of an older brother.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Christopher Cain",
+            "url": "/name/nm0128883/"
+        }
+    ],
+    "duration": "PT1H31M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDk5YWJjNDktMmFkYy00Mzk0LTg3YmItOWU3ZjYwOTJmMjdjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDY1NTEyNTU@._V1_.jpg",
+    "keywords": "boy,tragedy,begins with death,married couple,visit",
+    "name": "The Stone Boy",
+    "original_info": {
+        "id": "The Stone Boy_1984",
+        "name": "The Stone Boy",
+        "year": "1984"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "WriterDave"
+        },
+        "dateCreated": "2003-10-05",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0088176/"
+        },
+        "name": "Slow and Thoughtful",
+        "reviewBody": "Here's yet another film from the 80's that most people just don't know exists. This slow, picturesque (the loving shots of the Montana landscapes are breathtaking and reminded me of Costner's recent \"Open Range\", which also starred Robert Duval), and emotionally satisfying film is the perfect type of movie to watch late one night when you can't sleep or on a listless Sunday afternoon. Those in the right mood will be treated to a finely detailed and intimate look at the grief of one family and how they come back together after the youngest son accidentally shoots and kills the eldest son while hunting. The performances are all top notch and quietly nuanced. Glenn Close, Robert Duval, and Wilford Brimley are pitch perfect in their portrayals, as are all the supporting players and young actors. I especially liked how director Cain (who unfortunately hasn't directed anything of note since this except the first \"Young Guns\") gives us quiet little glimpses into everyone's personal grief. We don't just see how the death effects the younger brother or the parents, but also the confused middle sister, the wayward uncle, his crazy wife, and the dead teenager's girlfriend. What we essentially get here is the rural Mid-Western answer to \"Ordinary People.\" There's also shades of David Lynch's \"The Straight Story\" in some of the stoic downhome Mid-West morality of the folks depicted here and also in the lovingly haunting shots of the farmland they inhabit. This is one of the better and more realistic \"tear-jerkers\" of the era, and a nice little find for you quality movie hunters out there.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0088176/"
+}

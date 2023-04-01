@@ -1,0 +1,95 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Carradine",
+            "url": "/name/nm0001017/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jean Parker",
+            "url": "/name/nm0662335/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nils Asther",
+            "url": "/name/nm0039989/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2026,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "Passed",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0013124/"
+        },
+        {
+            "@type": "Person",
+            "name": "Arnold Lipp",
+            "url": "/name/nm0513563/"
+        },
+        {
+            "@type": "Person",
+            "name": "Werner H. Furst",
+            "url": "/name/nm0299124/"
+        },
+        {
+            "@type": "Person",
+            "name": "Pierre Gendron",
+            "url": "/name/nm0312707/"
+        }
+    ],
+    "datePublished": "1944-11-11",
+    "description": "In Paris, an artist hires portrait models, and after he finishes their portraits, he strangles them.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Edgar G. Ulmer",
+            "url": "/name/nm0880618/"
+        }
+    ],
+    "duration": "PT1H12M",
+    "genre": [
+        "Crime",
+        "Horror",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMmZiYzhlYjctMDcwYi00MzQ1LTk0NzMtOWJlYTZkYzJiY2ZjXkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_.jpg",
+    "keywords": "strangulation,obsession,paris france,poverty row film,ulmer lovers cult film",
+    "name": "Bluebeard",
+    "original_info": {
+        "id": "Bluebeard_1944",
+        "name": "Bluebeard",
+        "year": "1944"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bkoganbing"
+        },
+        "dateCreated": "2010-03-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0036653/"
+        },
+        "name": "A Great Gothic Character",
+        "reviewBody": "The French legend of Bluebeard the famed wife killer serves as the background for this film about an artist who paints strikingly realistic female portraits only to kill the models he uses for them. A man with some serious issues. \n\nJohn Carradine is the artist/strangler who has now turned to puppets in an effort to cure himself of this nasty habit. 19th century Paris is as frightened of Bluebeard as London of the same period is frightened of Jack the Ripper.\n\nBluebeard is an independently made film from the small poverty row picture company Producers Releasing Corporation. The film does not have any great production values, but probably the lack of them helps with the murky and moody atmosphere of the film. It certainly contributes to Carradine's portrayal.\n\nThe film borrows liberally from the Jack the Ripper story and the final chase when the French Gendarmes are closing in on Carradine is taken right from Phantom Of The Opera. John Carradine who did not get to star in too many good films creates a great Gothic character. If your taste runs to that kind of cinema, Bluebeard is the film for you.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0036653/"
+}

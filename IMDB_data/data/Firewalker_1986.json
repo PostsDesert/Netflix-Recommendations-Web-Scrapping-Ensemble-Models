@@ -1,0 +1,110 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Chuck Norris",
+            "url": "/name/nm0001569/"
+        },
+        {
+            "@type": "Person",
+            "name": "Louis Gossett Jr.",
+            "url": "/name/nm0001283/"
+        },
+        {
+            "@type": "Person",
+            "name": "Melody Anderson",
+            "url": "/name/nm0000758/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7131,
+        "ratingValue": 5.1,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0853710/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0206391/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0174362/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Gosnell",
+            "url": "/name/nm0331533/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeffrey M. Rosenbaum",
+            "url": "/name/nm0742138/"
+        },
+        {
+            "@type": "Person",
+            "name": "Norman Aladjem",
+            "url": "/name/nm0015792/"
+        }
+    ],
+    "datePublished": "1986-11-21",
+    "description": "A pair of adventurers try to track down an ancient Aztec/Mayan/Egyptian/Apache hoard of gold.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "J. Lee Thompson",
+            "url": "/name/nm0496746/"
+        }
+    ],
+    "duration": "PT1H45M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOGNjYjBhYmItMDI3Ni00MWM2LWE2ZDgtY2U5MGNjNDVmYTc1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "treasure,treasure hunt,adventurer,interracial friendship,martial artist",
+    "name": "Firewalker",
+    "original_info": {
+        "id": "Firewalker_1986",
+        "name": "Firewalker",
+        "year": "1986"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dspires"
+        },
+        "dateCreated": "1999-09-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0091055/"
+        },
+        "name": "An enjoyable adventure",
+        "reviewBody": "The special effects for this one are (what can I say?) missing, but the story-line is interesting, and the cast obviously had fun making this film.\n\nThe problem most viewers would have with this is that it's not a karate flick (sorry). No, this one is an adventure comedy. As for not being Abbott and Costello, nobody but the incomparable Bud Abbott and Lou Costello could be. What we have here are reluctant, but trusting, partners. This story revolves around a long-lost mythical treasure (Romancing the Stone?), guarded by a demigod with supernatural powers (Jewel of the Nile?).\n\nTake the kids and have a good time."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M52S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4182556185",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BN2Q0MzRkMzktM2UyNy00MjZmLWI3ODktOTYxOGYxNTVkMDk3XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BN2Q0MzRkMzktM2UyNy00MjZmLWI3ODktOTYxOGYxNTVkMDk3XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-08-28T18:44:39.042Z",
+        "url": "https://www.imdb.com/video/vi4182556185/"
+    },
+    "url": "/title/tt0091055/"
+}

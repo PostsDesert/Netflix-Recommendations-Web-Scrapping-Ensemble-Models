@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Henry Rollins",
+            "url": "/name/nm0738433/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 186,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0041945/"
+        },
+        {
+            "@type": "Person",
+            "name": "Henry Rollins",
+            "url": "/name/nm0738433/"
+        }
+    ],
+    "datePublished": "2001-11-13",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Cook",
+            "url": "/name/nm0177114/"
+        }
+    ],
+    "duration": "PT1H",
+    "genre": [
+        "Documentary",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZmIwNjVmM2EtYjgxZC00NTRmLTk0Y2YtOTY2MjBmMmEwMjdhXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
+    "keywords": "performer name in title,ku klux klan,word,producer,movie producer",
+    "name": "Henry Rollins: Up for It",
+    "original_info": {
+        "id": "Henry Rollins: Up for It_2001",
+        "name": "Henry Rollins: Up for It",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "VincentLee"
+        },
+        "dateCreated": "2002-05-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0315951/"
+        },
+        "name": "Henry Rollins is still a great stand-up philosopher.",
+        "reviewBody": "Henry, as a spoken work performer, is dynamic. There is something about the sheer intensity of the man that makes his observations compelling. I'm sure that if he got on stage, and read the instruction book for a VCR, it would be fascinating.\n\nIn \"Up for It\", Henry covers topics from the weather in England to memories of wrestling. If there is a highlight, it has to be his tale of auditioning for a role in \"Death to Smoochy\". You have to see the man tell it, in order to believe it.\n\n\"Up for It\" is on par with the other spoken work performances that Henry has recorded. And that means it's pretty damn good.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0315951/"
+}

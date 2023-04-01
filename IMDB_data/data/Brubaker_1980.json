@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Robert Redford",
+            "url": "/name/nm0000602/"
+        },
+        {
+            "@type": "Person",
+            "name": "Yaphet Kotto",
+            "url": "/name/nm0001433/"
+        },
+        {
+            "@type": "Person",
+            "name": "Morgan Freeman",
+            "url": "/name/nm0000151/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 18605,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Person",
+            "name": "W.D. Richter",
+            "url": "/name/nm0725379/"
+        },
+        {
+            "@type": "Person",
+            "name": "Arthur A. Ross",
+            "url": "/name/nm0743232/"
+        },
+        {
+            "@type": "Person",
+            "name": "Thomas O. Murton",
+            "url": "/name/nm0615467/"
+        }
+    ],
+    "datePublished": "1980-06-20",
+    "description": "The new warden of a small prison farm in Arkansas tries to clean it up of corruption after initially posing as an inmate.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Stuart Rosenberg",
+            "url": "/name/nm0742341/"
+        }
+    ],
+    "duration": "PT2H11M",
+    "genre": [
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYzViZjU1ZjUtYjVmMi00ZWE2LWFiNGItOGJkOTliZmFhYWU4XkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
+    "keywords": "prison,abuse of power,undercover,character name as title,corruption",
+    "name": "Brubaker",
+    "original_info": {
+        "id": "Brubaker_1980",
+        "name": "Brubaker",
+        "year": "1980"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "mikedonovan"
+        },
+        "dateCreated": "2002-04-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0080474/"
+        },
+        "name": "Not a Disney feel-good",
+        "reviewBody": "BRUBAKER is my kind of movie; grim, realistic, stimulating and a story based around a great struggle between right and wrong. Robert Redford plays Brubaker (based on the real life story of one Thomas Murton of Arkansas, not to be confused with Thomas Merton, the poet) who tries to bring decency to an Arkansas prison that is corrupt from top to bottom. There are rotten scoundrels among the prisoners and some decent men as well. What is worse, Brubaker has to fight a State bureaucracy full of characters who are even more slimy and despicable than the worst of the prisoners. Along with basic reforms, he is out to uncover a series of murders, prisoners who were murdered and secretly buried. He is really up against it and its tough not to get emotionally involved. The writing and acting is more than ok. Redford is very good in spite of being a little too pretty for the rugged guy part. He's the only one in the movie with the 300-dollar blow dry haircut. This reminds me of the movie MARIE, another flick about a single warrior battling a corrupt state system. The Grape Nuts Guy (W Brimley) and the guy who played Mrs. Robinson's husband (M Hamilton)put in a good performance as despicable bureaucrats. Very little background music is another mature plus.\n\nA good, feel-bad movie; and as a Bostonian, it's hard to hate a film that has a character in it named Fenway Park."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "The new warden of a small prison farm in Arkansas tries to clean it up of corruption after initially posing as an inmate.",
+        "duration": "PT1M35S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi864863001",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTY5NjEyOWYtYzYxNC00YzY1LWExYmUtOGFhMTBmNzkwNzVjXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTY5NjEyOWYtYzYxNC00YzY1LWExYmUtOGFhMTBmNzkwNzVjXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-10-25T23:45:53.135Z",
+        "url": "https://www.imdb.com/video/vi864863001/"
+    },
+    "url": "/title/tt0080474/"
+}

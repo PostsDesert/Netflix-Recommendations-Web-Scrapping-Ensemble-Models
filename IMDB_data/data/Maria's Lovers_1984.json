@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Nastassja Kinski",
+            "url": "/name/nm0000176/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Savage",
+            "url": "/name/nm0001698/"
+        },
+        {
+            "@type": "Person",
+            "name": "Keith Carradine",
+            "url": "/name/nm0001018/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2711,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0159707/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0044937/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gérard Brach",
+            "url": "/name/nm0102722/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrey Konchalovskiy",
+            "url": "/name/nm0464846/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Zindel",
+            "url": "/name/nm0956928/"
+        }
+    ],
+    "description": "After spending the last of WWII in a brutal Japanese POW camp leaving him with nightmares, Ivan returns home to Pennsylvania for his childhood friend, Maria. But he has rivals for her love.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Andrey Konchalovskiy",
+            "url": "/name/nm0464846/"
+        }
+    ],
+    "duration": "PT1H49M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjdkOGYzMzctMDUyZi00NzQ4LThhMjktZTI5NWJkZDRkZGQ3XkEyXkFqcGdeQXVyNTcwNjUwNzk@._V1_.jpg",
+    "keywords": "erotica,woman on top sex,ptsd post traumatic stress disorder,virgin,love",
+    "name": "Maria's Lovers",
+    "original_info": {
+        "id": "Maria's Lovers_1984",
+        "name": "Maria's Lovers",
+        "year": "1984"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Dave Wilson"
+        },
+        "dateCreated": "2006-02-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0087682/"
+        },
+        "name": "Someone call Leslie Bricusse",
+        "reviewBody": "The director is credited with the song \"Maria's Eyes\", but having just seen a theater version of Dr. Dolittle, I heard a song that sounded too similar for coincidence: \"When I Look in Your Eyes\", written by Leslie Bricusse. However, I'll grant that the original lacks something by being sung to a seal instead of Natassja Kinksi.\n\nAside from the musical borrowing, you have to admire Konchalovsky for wanting to tackle the material, revolving around small-town characters and impotence; he really brings out the dignified melancholy of a rust-belt town with steep streets, passing freight trains, weak sunlight and beautiful countryside. The movie is uneven in places, mostly from the performances: Kinski seems unsure whether to play her character modestly or with sashaying allure; Savage has a tough job playing an unsympathetic character, but sometimes makes it worse with explosive histrionics; Mitchum is stuck with bad dialog (\"those eyes\"). Raising the movie above these problems is a good basic story, affecting shots and images, and the majority of Kinski and Savage's scenes together.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "After spending the last of WWII in a brutal Japanese POW camp leaving him with nightmares, Ivan returns home to Pennsylvania for his childhood friend, Maria. But he has rivals for her love.",
+        "duration": "PT1M35S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2246755097",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMDQ4MTllMTMtMmNhYi00NGU1LTljNTctNjJhYTYxMGJlYjIwXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDQ4MTllMTMtMmNhYi00NGU1LTljNTctNjJhYTYxMGJlYjIwXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-11-19T21:33:28.228Z",
+        "url": "https://www.imdb.com/video/vi2246755097/"
+    },
+    "url": "/title/tt0087682/"
+}

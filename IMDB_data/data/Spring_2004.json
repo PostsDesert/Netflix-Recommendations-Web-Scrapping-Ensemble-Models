@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Cassidy Johnson",
+            "url": "/name/nm1985677/"
+        },
+        {
+            "@type": "Person",
+            "name": "Angela Rawna",
+            "url": "/name/nm1543425/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 12,
+        "ratingValue": 5,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Person",
+            "name": "Jessiline Berry",
+            "url": "/name/nm2055076/"
+        }
+    ],
+    "datePublished": "2004-09-05",
+    "description": "A chillingly layered family drama, Spring Cleaning explores the sometimes devastating responsibilities of adult children and the bizarre and psychotic methods with which the main character chooses to deal with those responsibiliti...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jessiline Berry",
+            "url": "/name/nm2055076/"
+        }
+    ],
+    "genre": [
+        "Short",
+        "Drama"
+    ],
+    "name": "Spring Cleaning",
+    "original_info": {
+        "id": "Spring_2004",
+        "name": "Spring",
+        "year": "2004"
+    },
+    "url": "/title/tt1517797/"
+}

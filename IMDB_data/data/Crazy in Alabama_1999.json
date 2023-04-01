@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Melanie Griffith",
+            "url": "/name/nm0000429/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Morse",
+            "url": "/name/nm0001556/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lucas Black",
+            "url": "/name/nm0085407/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7155,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0060770/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0012600/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Childress",
+            "url": "/name/nm0157538/"
+        }
+    ],
+    "datePublished": "1999-10-22",
+    "description": "An abused wife heads to California to become a movie star while her nephew back in Alabama has to deal with a racially-motivated murder involving a corrupt sheriff.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Antonio Banderas",
+            "url": "/name/nm0000104/"
+        }
+    ],
+    "duration": "PT1H51M",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUxNjM0MDA3NV5BMl5BanBnXkFtZTgwMzIwMDYyMjI@._V1_.jpg",
+    "keywords": "murder,police,lie,social injustice,racial issues",
+    "name": "Crazy in Alabama",
+    "original_info": {
+        "id": "Crazy in Alabama_1999",
+        "name": "Crazy in Alabama",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "taruss"
+        },
+        "dateCreated": "2001-09-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0142201/"
+        },
+        "name": "a masterful overlooked achievement",
+        "reviewBody": "I had seen the trailers several times for this movie before running across it in the video store looking through the titles for something I had not seen. After seeing it, I wondered why I had not heard more of it. The trailers did not give away anything about this wonderfully written script. Antonio Banderas did a great job in direction, but Lucas Black stole the show with his acting. After thinking he was masterful in \"Sling Blade,\" it was great seeing him get another role to show off his talents. Steiger was perfect for the role, although anyone could have played the Robert Wagner role. However, seeing such big stars playing cameos, should tell you that the script was a great read. I don't want to give you any insight into the story line, because it is so well interwoven that it has to be seen to understand. It gets nicely tied up in the end from a small statement from Lucas Black. Melody Griffith has not always been a favorite of mine, mostly because she does always pick roles that she fits, but in this one, I cannot imagine anyone else fitting the role. She did an excellent job. I say that, because there were parts where I forgot it was her, and got caught up in the actual character she was playing.\n\nThis is one that is definitely worth a look. The overtones of the era are played nicely and figure greatly in the story line. Why it was overlooked when the big awards came out, I have no idea. This one should have won something. It is that good.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Columbia Pictures",
+        "duration": "PT2M18S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2763981081",
+        "name": "Crazy in Alabama",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDdmMGZjYWYtZTBiZC00ZmMyLTljZTQtMjE2NDM4NjA5Yzk0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDdmMGZjYWYtZTBiZC00ZmMyLTljZTQtMjE2NDM4NjA5Yzk0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:37:00Z",
+        "url": "https://www.imdb.com/video/vi2763981081/"
+    },
+    "url": "/title/tt0142201/"
+}

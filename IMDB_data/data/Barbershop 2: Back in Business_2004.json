@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ice Cube",
+            "url": "/name/nm0001084/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cedric the Entertainer",
+            "url": "/name/nm0147825/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eve",
+            "url": "/name/nm1073992/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 15409,
+        "ratingValue": 5.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007143/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0068765/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0044714/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Brown",
+            "url": "/name/nm0114197/"
+        },
+        {
+            "@type": "Person",
+            "name": "Don D. Scott",
+            "url": "/name/nm1119609/"
+        }
+    ],
+    "datePublished": "2004-02-06",
+    "description": "The owner of an historic South Side Chicago barbershop is pressured to sell out to a land developer, but must face the impact this would have on his close-knit community.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Kevin Rodney Sullivan",
+            "url": "/name/nm0838198/"
+        }
+    ],
+    "duration": "PT1H46M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk4MTA2ODQ4MF5BMl5BanBnXkFtZTYwOTY1Njc3._V1_.jpg",
+    "keywords": "barber shop,barber,land grab,reference to muhammad,barbershop",
+    "name": "Barbershop 2: Back in Business",
+    "original_info": {
+        "id": "Barbershop 2: Back in Business_2004",
+        "name": "Barbershop 2: Back in Business",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "the-movie-guy"
+        },
+        "dateCreated": "2004-02-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0337579/"
+        },
+        "name": "Get your haircut at this barbershop",
+        "reviewBody": "The same crew is back in a sequel to the hilarious comedy about a group of barbers who cut hair and discuss life inside their little barbershop community. Calvin (Ice Cube) is the owner of the barbershop with Cedric The Entertainer as his oldest barber. Queen Latifah has been added to the cast with a beauty shop next door. The south side of Chicago is changing with developers buying up everything and moving everybody out of the old neighborhood. Calvin is about to have new competition from a chain barbershop opening across the street. To fight the new barbershop, Calvin tries to upscale his barbershop with paintings and glass sculptures. Calvin also orders his barbers to be quiet and just cut hair, and stop the tradition of being able to say anything you want inside the barbershop. If you liked the first movie, you will like this one. Some of the discussions are outrageous, especially, the ones with Cedric. I laughed through the entire movie. (MGM, Run Time 1:38, Rated PG-13) (7/10)"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Barbershop 2",
+        "duration": "PT2M6S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1334228505",
+        "name": "Barbershop 2: Back in Business",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzUwNjU5NDY1OF5BMl5BanBnXkFtZTgwNzc0MTUyMDI@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzUwNjU5NDY1OF5BMl5BanBnXkFtZTgwNzc0MTUyMDI@._V1_.jpg",
+        "uploadDate": "2016-10-07T02:06:24Z",
+        "url": "https://www.imdb.com/video/vi1334228505/"
+    },
+    "url": "/title/tt0337579/"
+}

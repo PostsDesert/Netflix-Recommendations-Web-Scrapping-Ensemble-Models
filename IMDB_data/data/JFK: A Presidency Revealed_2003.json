@@ -1,0 +1,52 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Oleg Cassini",
+            "url": "/name/nm0144312/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lyndon B. Johnson",
+            "url": "/name/nm0425696/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Kennedy Jr.",
+            "url": "/name/nm0447882/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 70,
+        "ratingValue": 8.5,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0141366/"
+        },
+        {
+            "@type": "Person",
+            "name": "David C. Taylor",
+            "url": "/name/nm1452913/"
+        }
+    ],
+    "datePublished": "2003-11-16",
+    "description": "An in-depth portrayal of President John F. Kennedy that includes newly released recordings of Kennedy, videos of his family and interviews with those around him.",
+    "genre": [
+        "Documentary"
+    ],
+    "keywords": "1960s,interview,reminiscence,retrospective,president",
+    "name": "JFK: A Presidency Revealed",
+    "original_info": {
+        "id": "JFK: A Presidency Revealed_2003",
+        "name": "JFK: A Presidency Revealed",
+        "year": "2003"
+    },
+    "url": "/title/tt0435671/"
+}

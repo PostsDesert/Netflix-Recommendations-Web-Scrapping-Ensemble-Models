@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kate Capshaw",
+            "url": "/name/nm0001009/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lea Thompson",
+            "url": "/name/nm0000670/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kelly Preston",
+            "url": "/name/nm0000593/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 15353,
+        "ratingValue": 5.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0641809/"
+        },
+        {
+            "@type": "Person",
+            "name": "Clifford Green",
+            "url": "/name/nm0337731/"
+        },
+        {
+            "@type": "Person",
+            "name": "Casey T. Mitchell",
+            "url": "/name/nm0593200/"
+        },
+        {
+            "@type": "Person",
+            "name": "Patrick Bailey",
+            "url": "/name/nm0047436/"
+        }
+    ],
+    "datePublished": "1986-06-06",
+    "description": "The young attendees of a space camp find themselves in space for real when their shuttle is accidentally launched into orbit.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Harry Winer",
+            "url": "/name/nm0934863/"
+        }
+    ],
+    "duration": "PT1H47M",
+    "genre": [
+        "Adventure",
+        "Family",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNWNjZTlkMWYtNDE4ZC00ODkzLWJiZGYtODJiYjY0YzY5NmVkXkEyXkFqcGdeQXVyNzEyNjE5NzM@._V1_.jpg",
+    "keywords": "expression taken literally,ground control,spacewalk,boy,african american",
+    "name": "SpaceCamp",
+    "original_info": {
+        "id": "SpaceCamp_1986",
+        "name": "SpaceCamp",
+        "year": "1986"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "tfrizzell"
+        },
+        "dateCreated": "2002-08-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0091993/"
+        },
+        "name": "Doesn't Quite Hit As High As It Would Have Liked.",
+        "reviewBody": "Four teenagers (Lea Thompson, Larry B. Scott, Kelly Preston and Tate Donovan) and one pre-teen (Joaquin Phoenix) get launched into outer space by a small robot in this above-average adventure movie. Kate Capshaw is along for the ride as the instructor and Tom Skerritt is solid as the one in charge of mission control when the crisis occurs. With the exception of Scott, the other four young stars have all had recognizable careers. Joaquin Phoenix, in particular, steals every scene as the youngest of the five. 3.5 out of 5 stars."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "The young attendees of a space camp find themselves in space for real when their shuttle is accidentally launched into orbit.",
+        "duration": "PT2M4S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2282667545",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjkxYzM5YmMtNjlkMi00YmY4LWEwYWMtZDBmMGE4ZDQyMGQzXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjkxYzM5YmMtNjlkMi00YmY4LWEwYWMtZDBmMGE4ZDQyMGQzXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-07-16T08:27:49.726Z",
+        "url": "https://www.imdb.com/video/vi2282667545/"
+    },
+    "url": "/title/tt0091993/"
+}

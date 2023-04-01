@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Johnny Cash",
+            "url": "/name/nm0143599/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Carter Cash",
+            "url": "/name/nm0143601/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sheryl Crow",
+            "url": "/name/nm0002028/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 47,
+        "ratingValue": 8.5,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0328096/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0802102/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0275348/"
+        }
+    ],
+    "datePublished": "2022-12-05",
+    "description": "At the end of his rope, Johnny Cash stumbled into a cave and laid down in the dark. But death didn't come calling; God did. JOHNNY CASH: THE REDEMPTION OF AN AMERICAN ICON is the untold story of how \"The Man in Black\" saw the light.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ben Smallbone",
+            "url": "/name/nm1351912/"
+        }
+    ],
+    "duration": "PT1H55M",
+    "genre": [
+        "Documentary",
+        "Biography",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjMwYTc2NzktZmU3MC00YjRlLTg2M2UtMDg3ZDVmYWE3YzFkXkEyXkFqcGdeQXVyNjM1MDA1MA@@._V1_.jpg",
+    "keywords": "country music,spiritual crisis,christianity,evangelical,drug addict",
+    "name": "Johnny Cash: The Redemption of an American Icon",
+    "original_info": {
+        "id": "Johnny Cash: The Anthology_2001",
+        "name": "Johnny Cash: The Anthology",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "brandi-28760"
+        },
+        "dateCreated": "2022-12-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt23112636/"
+        },
+        "name": "Amazing legacy",
+        "reviewBody": "This movie was such a blessing to my family! We loved every moment of it and definitely a redemption story. Praise God he used Johnny Cash to bring the word to so many people!\n\nSo many people had nice things to say about Johnny, and what a story and life he lived! It was so refreshing to see another movie in theaters that glorifies Jesus. I went expecting a documentary about a rock star or even just a great movie but it almost felt like I attended a church service by the end of it. I was filled with the Holy Spirit and I hope this movie reaches even more people so that Johnny can continue to lead people to Christ.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "The inspiring true story of how \"The Man in Black\" saw the light. Johnny Cash knew peaks and valleys. The roar of the crowd. The silence of shame. Success took him to the Grand Ole Opry, the Country Music Hall of Fame, and sold-out arenas across the country. It also took him to the edge of death and despair. At the end of his rope, Johnny Cash stumbled into a cave and laid down in the dark. But death didn't come calling...God did.",
+        "duration": "PT2M19S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3265053977",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjA3ZWFjNDYtY2Q1OS00MzkxLWE4ZWItZDEzODc1ZjFmYjAxXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjA3ZWFjNDYtY2Q1OS00MzkxLWE4ZWItZDEzODc1ZjFmYjAxXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+        "uploadDate": "2022-11-09T18:40:52.641Z",
+        "url": "https://www.imdb.com/video/vi3265053977/"
+    },
+    "url": "/title/tt23112636/"
+}

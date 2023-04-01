@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Agar",
+            "url": "/name/nm0000730/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joyce Meadows",
+            "url": "/name/nm0575050/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Fuller",
+            "url": "/name/nm0298333/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1694,
+        "ratingValue": 5.1,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0033455/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ray Buffum",
+            "url": "/name/nm0119409/"
+        }
+    ],
+    "datePublished": "1957-10-01",
+    "description": "An evil alien brain from the planet Arous hijacks the body of an Earth scientist in order to control the Earth.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Nathan Juran",
+            "url": "/name/nm0432846/"
+        }
+    ],
+    "duration": "PT1H11M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOGY4MWI1MzItMGRiMS00ZTM5LTlmM2UtOWQ2ZjM3ODIzNmM4XkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_.jpg",
+    "keywords": "brain,psychotronic film,white dog,cave,criminal mind",
+    "name": "The Brain from Planet Arous",
+    "original_info": {
+        "id": "The Brain from Planet Arous_1958",
+        "name": "The Brain from Planet Arous",
+        "year": "1958"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "yortsnave"
+        },
+        "dateCreated": "2000-01-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0050210/"
+        },
+        "name": "so bad it's good (or at least not complete horrible) ...",
+        "reviewBody": "My friend, who's a John Agar fan, clued me in on this. I saw it on video the other night. It's one of those movies that is so bad, that it's pretty good (or at least not a complete waste of time). I especially like the scene where Agar's character, while driving a jeep through the desert, crashes into a huge rock that he couldn't possibly have missed, then says something like \"well, I guess we walk from here.\" The ending is completely beyond belief; you have to see it to believe anyone would end a movie like that.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "An evil alien brain from the planet Arous hijacks the body of an Earth scientist in order to control the Earth.",
+        "duration": "PT1M51S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2174403097",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzUzYTQ0ZjEtMmNkMC00YzliLWE5ZmItMTQ3MDE1YjdkNjVjXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzUzYTQ0ZjEtMmNkMC00YzliLWE5ZmItMTQ3MDE1YjdkNjVjXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2022-05-02T14:53:05.289Z",
+        "url": "https://www.imdb.com/video/vi2174403097/"
+    },
+    "url": "/title/tt0050210/"
+}

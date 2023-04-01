@@ -1,0 +1,57 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVEpisode",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "James Rolfe",
+            "url": "/name/nm3005544/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mike Matei",
+            "url": "/name/nm3006224/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 13,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "TV-MA",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0239551/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Rolfe",
+            "url": "/name/nm3005544/"
+        }
+    ],
+    "datePublished": "2019-10-02",
+    "description": "Welcome to Monster Madness 2019. Mike and James review one of the worst movies in William Shatner's career. Incubus is a 1966 black-and-white American horror film filmed entirely in the constructed language Esperanto.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "James Rolfe",
+            "url": "/name/nm3005544/"
+        }
+    ],
+    "duration": "PT10M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTIyYjFiMjctZjVjNC00MmE2LWE1ZDgtMGY5ZjY0ODFhYjQzXkEyXkFqcGdeQXVyODE1OTI0Mjg@._V1_.jpg",
+    "name": "Incubus (1966)",
+    "original_info": {
+        "id": "Incubus_1965",
+        "name": "Incubus",
+        "year": "1965"
+    },
+    "timeRequired": "PT10M",
+    "url": "/title/tt11057664/"
+}

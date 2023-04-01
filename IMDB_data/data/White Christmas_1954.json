@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bing Crosby",
+            "url": "/name/nm0001078/"
+        },
+        {
+            "@type": "Person",
+            "name": "Danny Kaye",
+            "url": "/name/nm0001414/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rosemary Clooney",
+            "url": "/name/nm0167041/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 46625,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Person",
+            "name": "Norman Krasna",
+            "url": "/name/nm0469915/"
+        },
+        {
+            "@type": "Person",
+            "name": "Norman Panama",
+            "url": "/name/nm0659085/"
+        },
+        {
+            "@type": "Person",
+            "name": "Melvin Frank",
+            "url": "/name/nm0291035/"
+        }
+    ],
+    "datePublished": "1955-11-18",
+    "description": "A successful song-and-dance team become romantically involved with a sister act and team up to save the failing Vermont inn of their former commanding general.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Curtiz",
+            "url": "/name/nm0002031/"
+        }
+    ],
+    "duration": "PT2H",
+    "genre": [
+        "Comedy",
+        "Musical",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYjI0ZTk0ZjQtZTMzOS00NDdmLTk0YzUtZTQ4NGRkNWFhZTkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "keywords": "christmas,train,war veteran,hotel,ski lodge",
+    "name": "White Christmas",
+    "original_info": {
+        "id": "White Christmas_1954",
+        "name": "White Christmas",
+        "year": "1954"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jotix100"
+        },
+        "dateCreated": "2008-01-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0047673/"
+        },
+        "name": "Merry Christmas thanks to Irving Berlin",
+        "reviewBody": "The music of Irving Berlin, one of America's most distinguished composers of the 20th century, is at the center of this pleasant holiday film, that if one is to judge by the comments submitted to this forum, is a perennial favorite of audiences that discover this charming movie, or just go back to visit from time to time.\n\nDirected by Michael Curtiz, a versatile man; he was at ease with drama as well as comedy, or musicals. He shows a light touch that helps make this a cherished film for movie fans of all ages. Based on material by another great team, Norman Panama, Norman Krasna and Melvin Frank, the movie is light as a feather. The film is sort of a variation on the theme, \"let's put on a show\", or even, \"if we stage it, they will come\", we know how it will end, but we feel good, and enjoy it even though we know the plot by heart.\n\nThe main reason for watching, besides Mr. Berlin's wonderful tunes, is hearing those standard songs delivered by the likes of Bing Crosby and Rosemary Clooney, who were at the top of their careers. They had such wonderful and melodious voices, they enhance the songs they interpret. The story is just a pretext to bring together the talented principals plus Danny Kaye, Vera Ellen, Dean Jagger, and the marvelous Mary Wickes, in a film that will delight anyone, anytime, but especially at Christmas.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Paramount Home Entertainment",
+        "duration": "PT2M11S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1356988697",
+        "name": "White Christmas",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzMwYzdmYTktNjFjMC00MjQwLThhMzItNmQ1MTkxMmM3ZWRhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzMwYzdmYTktNjFjMC00MjQwLThhMzItNmQ1MTkxMmM3ZWRhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-18T12:06:29Z",
+        "url": "https://www.imdb.com/video/vi1356988697/"
+    },
+    "url": "/title/tt0047673/"
+}

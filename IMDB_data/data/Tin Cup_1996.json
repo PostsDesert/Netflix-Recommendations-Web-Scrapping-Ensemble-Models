@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kevin Costner",
+            "url": "/name/nm0000126/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rene Russo",
+            "url": "/name/nm0000623/"
+        },
+        {
+            "@type": "Person",
+            "name": "Don Johnson",
+            "url": "/name/nm0000467/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 51581,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007127/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Norville",
+            "url": "/name/nm0636358/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ron Shelton",
+            "url": "/name/nm0005421/"
+        }
+    ],
+    "datePublished": "1996-08-16",
+    "description": "A washed-up golf pro working at a driving range tries to qualify for the U.S. Open in order to win the heart of his successful rival's girlfriend.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ron Shelton",
+            "url": "/name/nm0005421/"
+        }
+    ],
+    "duration": "PT2H15M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDQxNzY1MzItZmU1Mi00MWI3LTk4ZjYtOTBlM2RmYTk1MTJjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "keywords": "golf,love,rivalry,golf tournament,golf player",
+    "name": "Tin Cup",
+    "original_info": {
+        "id": "Tin Cup_1996",
+        "name": "Tin Cup",
+        "year": "1996"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Brad K."
+        },
+        "dateCreated": "1998-12-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0117918/"
+        },
+        "name": "Very Funny, Costner at his best.",
+        "reviewBody": "Kevin Costner (Dances with Wolves, The Untouchables) is a great actor, in my opinion, but most critics and some people don't like him because he takes too many \"hero\" roles. For those people, Tin Cup is a movie you will like, for those who like Costner, you will love this film. Cosnter plays a local star golfer in Texas who runs a driving range that isn't doing well. He's a good golfer, but because of some poor decisions never turned professional. He has a lazy life goofing around with his friends and caddy, wonderfully played by Cheech Marin (Paulie, From Dusk Til Dawn). One day when a beautiful psychiatrist, played by Rene Russo (Ransom, Major League), comes in to take lessons from him, he decides to go after her. The problem is that she isn't grungy and lazy like he is and she's dating a professional golfer who went to college with Costner. He is well-played by Don Johnson (Dead Bang, Guilty as Sin). Costner and Johnson hate each other and soon get into competitions to impress Russo. Eventually, Costner decides to impress her he'll try and qualify for the US Open golf tournament. This is a very funny film and was not a \"chick-flick\" like I was worried it would be. Costner is excellent in the lead playing a completely likable slob. Russo is solid as his love interest. Highly recommended."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Warner Bros. Pictures",
+        "duration": "PT1M56S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3019309337",
+        "name": "Tin Cup",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYTM0ZjhkYmYtMWFmNC00ZWEyLTk2ZWMtYmViZjcyMWNmOTIyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTM0ZjhkYmYtMWFmNC00ZWEyLTk2ZWMtYmViZjcyMWNmOTIyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:00:02Z",
+        "url": "https://www.imdb.com/video/vi3019309337/"
+    },
+    "url": "/title/tt0117918/"
+}

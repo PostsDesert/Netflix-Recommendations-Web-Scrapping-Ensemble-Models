@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Audrey Hepburn",
+            "url": "/name/nm0000030/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alan Arkin",
+            "url": "/name/nm0000273/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Crenna",
+            "url": "/name/nm0001077/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 31791,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frederick Knott",
+            "url": "/name/nm0461425/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Carrington",
+            "url": "/name/nm0140588/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jane-Howard Hammerstein",
+            "url": "/name/nm0358568/"
+        }
+    ],
+    "datePublished": "1967-10-26",
+    "description": "A recently blinded woman is terrorized by a trio of thugs while they search for a heroin-stuffed doll they believe is in her apartment.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Terence Young",
+            "url": "/name/nm0950109/"
+        }
+    ],
+    "duration": "PT1H48M",
+    "genre": [
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTBiNTZmZGEtZDEwNy00MWNmLWIzZjYtOGI1NThmNzZhMjY0XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "apartment,panic,blind woman,heroin,doll",
+    "name": "Wait Until Dark",
+    "original_info": {
+        "id": "Wait Until Dark_1967",
+        "name": "Wait Until Dark",
+        "year": "1967"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jimbo-38"
+        },
+        "dateCreated": "1999-03-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0062467/"
+        },
+        "name": "I liked this movie- a lot!",
+        "reviewBody": "Recently blinded woman is unwittingly in possession of a doll filled with drugs. A very mean narcotics dealer concocts an elaborate scheme to trick her into handing it over to him. A great psychological thriller with a twist- the audience knows exactly what's happening but gets to watch the heroine try to figure it out. There's almost no explicit violence in this movie, yet there's an underlying current of foreboding and suspense that literally permeates the entire film. You know something very bad is going to happen.Alan Arkin gives the performance of a lifetime as the cool, calm, collected psychopath who truly enjoys hurting people. And Audrey Hepburn is incredibly beautiful. You could pluck her out of this movie, clothes and all, and stick her in the toniest 90's club in New York and she'd still be the height of fashion.\n\nThere's a great `shocking' ending that really doesn't make much sense- but it's still a really good sixties movie."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Wait Until Dark",
+        "duration": "PT2M36S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3019571481",
+        "name": "Wait Until Dark",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjdkOGM1ZjYtYzQ3YS00YTVjLThmODItY2I5ZjM2NTBjOWQyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjdkOGM1ZjYtYzQ3YS00YTVjLThmODItY2I5ZjM2NTBjOWQyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:16:05Z",
+        "url": "https://www.imdb.com/video/vi3019571481/"
+    },
+    "url": "/title/tt0062467/"
+}

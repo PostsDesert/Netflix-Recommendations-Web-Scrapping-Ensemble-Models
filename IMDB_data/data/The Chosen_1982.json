@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kurt Russell",
+            "url": "/name/nm0000621/"
+        },
+        {
+            "@type": "Person",
+            "name": "Wilford Brimley",
+            "url": "/name/nm0000979/"
+        },
+        {
+            "@type": "Person",
+            "name": "Keith David",
+            "url": "/name/nm0202966/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 434172,
+        "ratingValue": 8.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0004522/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0220554/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Lancaster",
+            "url": "/name/nm0484111/"
+        },
+        {
+            "@type": "Person",
+            "name": "John W. Campbell Jr.",
+            "url": "/name/nm0132168/"
+        }
+    ],
+    "datePublished": "1982-06-25",
+    "description": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Carpenter",
+            "url": "/name/nm0000118/"
+        }
+    ],
+    "duration": "PT1H49M",
+    "genre": [
+        "Horror",
+        "Mystery",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "keywords": "isolation,antarctica,paranoia,alien creature,shapeshifting",
+    "name": "The Thing",
+    "original_info": {
+        "id": "The Chosen_1982",
+        "name": "The Chosen",
+        "year": "1982"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "desotowright"
+        },
+        "dateCreated": "2008-05-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0084787/"
+        },
+        "name": "The ultimate in alien terror.",
+        "reviewBody": "A group of explorers in the arctic region have encountered a vicious alien organism that can consume a person and make itself a perfect copy. This is a classic horror film that is loaded with brilliant special effects and graphic violence that is a perfect way to spend a cold evening. Kurt Russel stars as a troubled alcoholic who takes charge and tries to find which person is really the alien creature. One of the most brilliant things about the movie is that it plays with the idea of not knowing who you can trust. I found it interesting that it had an all male cast, something uncommon for many movies. The acting is very natural and very realistic. This movie was surprisingly scary and the graphic scenes were surprisingly horrific. It's a dark, brutal, and claustrophobic sci-fi horror film that has stood the test of time from the genius of John Carpenter."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Scientists in the Antarctic are confronted by a shape-shifting alien that assumes the appearance of the people that it kills.",
+        "duration": "PT1M54S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2298151193",
+        "name": "The Thing",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzBhZmNmYzgtMmZkMC00ODYxLWJiYjctOGFkOTYwMWZhZDk4XkEyXkFqcGdeQWpvaG5oYXJ0._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzBhZmNmYzgtMmZkMC00ODYxLWJiYjctOGFkOTYwMWZhZDk4XkEyXkFqcGdeQWpvaG5oYXJ0._V1_.jpg",
+        "uploadDate": "2008-04-11T17:15:47Z",
+        "url": "https://www.imdb.com/video/vi2298151193/"
+    },
+    "url": "/title/tt0084787/"
+}

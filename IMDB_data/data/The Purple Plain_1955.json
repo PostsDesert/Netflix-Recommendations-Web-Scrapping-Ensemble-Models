@@ -1,0 +1,94 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Gregory Peck",
+            "url": "/name/nm0000060/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bernard Lee",
+            "url": "/name/nm0496866/"
+        },
+        {
+            "@type": "Person",
+            "name": "Win Min Than",
+            "url": "/name/nm0857008/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2281,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0546727/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0103139/"
+        },
+        {
+            "@type": "Person",
+            "name": "H.E. Bates",
+            "url": "/name/nm0060914/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eric Ambler",
+            "url": "/name/nm0001907/"
+        }
+    ],
+    "datePublished": "1954-11-26",
+    "description": "In WW2 Burma, a Canadian bomber pilot becomes reckless after losing his bride in a Luftwaffe air-raid.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Parrish",
+            "url": "/name/nm0663577/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Adventure",
+        "Drama",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjBjZGYwYTUtMjUzNy00YTAzLTliMmYtMmY5MDc4ZGM2YWYyXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
+    "keywords": "killed in an air raid,three word title,bomber pilot,year 1945,china burma india theater",
+    "name": "The Purple Plain",
+    "original_info": {
+        "id": "The Purple Plain_1955",
+        "name": "The Purple Plain",
+        "year": "1955"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "mscott81"
+        },
+        "dateCreated": "2002-04-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0047376/"
+        },
+        "name": "Wonderful human interaction and drama piece.",
+        "reviewBody": "Peck's third best movie. The supporting actors did flesh out the tension and struggle. The story line can be easily followed. The decisions made during the movie are predictable, but the realization that it is life and death struggle overwhelms the predictability.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0047376/"
+}

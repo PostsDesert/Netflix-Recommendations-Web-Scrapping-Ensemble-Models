@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Woody Allen",
+            "url": "/name/nm0000095/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mel Brooks",
+            "url": "/name/nm0000316/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sid Caesar",
+            "url": "/name/nm0128377/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 35,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0053758/"
+        }
+    ],
+    "description": "The writing of \"Your Show of Shows\" and \"Caesar's Hour\" is discussed, featuring several of the original sketches.",
+    "duration": "PT1H4M",
+    "genre": [
+        "Documentary",
+        "Family",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTcwNjQwNTQ5NV5BMl5BanBnXkFtZTcwMDc5MTcxMQ@@._V1_.jpg",
+    "keywords": "character name in title",
+    "name": "The Sid Caesar Collection: Inside the Writer's Room",
+    "original_info": {
+        "id": "The Sid Caesar Collection: Inside the Writer's Room_2000",
+        "name": "The Sid Caesar Collection: Inside the Writer's Room",
+        "year": "2000"
+    },
+    "url": "/title/tt0282970/"
+}

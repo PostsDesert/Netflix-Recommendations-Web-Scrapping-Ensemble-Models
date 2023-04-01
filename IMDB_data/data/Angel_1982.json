@@ -1,0 +1,92 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Veronica Quilligan",
+            "url": "/name/nm0703618/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen Rea",
+            "url": "/name/nm0001653/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alan Devlin",
+            "url": "/name/nm0222752/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 926,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0018776/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0103532/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0049369/"
+        },
+        {
+            "@type": "Person",
+            "name": "Neil Jordan",
+            "url": "/name/nm0001403/"
+        }
+    ],
+    "datePublished": "1984-05-30",
+    "description": "Saxophonist Danny witnesses the murder of his band manager and a deaf-mute girl after a gig. Questioned by the police, he remembers only the orthopedic shoes of the killers' leader. So begins his quest to avenge them.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Neil Jordan",
+            "url": "/name/nm0001403/"
+        }
+    ],
+    "duration": "PT1H32M",
+    "genre": [
+        "Drama",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAzYjk4ZWUtZDFkMy00M2I4LTljM2ItYTEyOWEzZjZkYTc4XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "ireland,saxophonist,band manager,murder,witness",
+    "name": "Angel",
+    "original_info": {
+        "id": "Angel_1982",
+        "name": "Angel",
+        "year": "1982"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "tcheb"
+        },
+        "dateCreated": "2000-01-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0083560/"
+        },
+        "name": "Neil Jordan's first masterpiece",
+        "reviewBody": "In this movie we follow a young Irish sax player who accidentally witnesses the murder of a young mute girl he just met. He decides not to tell anything to the police and track the killers down all by himself. Even if it sounds like one, it is all but an action movie. What it really is, is a great psychological drama which in spite of its pretty amateurish style really embarks us in its story. Stephen Rea is as silent and as good as usual. His cold and severe but at the same time fragile look fits magnificently in this tale of revenge and naïveté. Undoubtedly, only an Irish director could have done a movie with such an atmosphere and as much style. We can almost feel the dirt, despair and disillusion in the Irish suburb as well as the corrupted purity and quietness of the country. Danny is the spokes-man of a disenchanted nation only trying to understand what is going on and hoping for a long-awaited revenge.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0083560/"
+}

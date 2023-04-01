@@ -1,0 +1,116 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Eric Bana",
+            "url": "/name/nm0051509/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jennifer Connelly",
+            "url": "/name/nm0000124/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sam Elliott",
+            "url": "/name/nm0000385/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 271720,
+        "ratingValue": 5.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0095134/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0092570/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stan Lee",
+            "url": "/name/nm0498278/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jack Kirby",
+            "url": "/name/nm0456158/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Schamus",
+            "url": "/name/nm0770005/"
+        }
+    ],
+    "datePublished": "2003-06-20",
+    "description": "Bruce Banner, a genetics researcher with a tragic past, suffers an accident that causes him to transform into a raging green monster when he gets angry.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ang Lee",
+            "url": "/name/nm0000487/"
+        }
+    ],
+    "duration": "PT2H18M",
+    "genre": [
+        "Action",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzQwZDg1MGEtN2E5My00ZDJlLWI4MzItM2U2MjJhYzlkNmEzXkEyXkFqcGdeQXVyNDAxNjkxNjQ@._V1_.jpg",
+    "keywords": "muscle growth,genetic,radiation,monster,scientist",
+    "name": "Hulk",
+    "original_info": {
+        "id": "Hulk_2003",
+        "name": "Hulk",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "SnoopyStyle"
+        },
+        "dateCreated": "2014-04-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0286716/"
+        },
+        "name": "Interesting attempt",
+        "reviewBody": "Bruce Banner (Eric Bana) is a brilliant scientist working with his girlfriend Betty Ross (Jennifer Connelly) on nanomeds and gamma radiation to cure physical ailments. A lab accident causes high exposure of gamma radiation and releases the hulk within him. His father David (Nick Nolte) had experimented on himself and transferred some changes within Bruce. When Bruce was 4, an incident which he can't remember caused Betty's father Gen Ross (Sam Elliott) to lock up David Banner. Now David is back just in time to see the change in Bruce release by the gamma radiation.\n\nDirector Ang Lee definitely put his own mark on this comic book movie. It's probably not what the fans or Marvel was looking for. This is a much more a Greek tragedy than a popcorn summer action flick. While it's the not the best choice, it does make it an uniquely interesting comic book movie.\n\nThe acting from Eric Bana is a little too bland. He's not really a favorite of mine. On the other hand, Jennifer Connelly is superb. She is the heart and soul of this movie. Nick Nolte shows that he can play crazy well. He definitely goes overboard but I sorta like it. Sam Elliott tries a little too hard. He should be able to play this part without trying. He doesn't need to yell and scream.\n\nThen there is all the split screen and other visual tricks. Ang Lee is pulling inspiration from the comic books. However he may be too literal and more importantly overused this style. Luckily, it does make it more visually interesting when the story moves at a slower pace. There is something outside the normal comic book movie going on here. It is fascinating. It doesn't work that well. But it's good enough for me to recommend. It's worthwhile to check out at least once.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Universal Studios Home Entertainment",
+        "duration": "PT32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1139409177",
+        "name": "Hulk",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTQyNGIxMzctM2NkYy00ZWY4LWIwN2MtYzJmNDQ3MDJiNmRjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTQyNGIxMzctM2NkYy00ZWY4LWIwN2MtYzJmNDQ3MDJiNmRjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-06-30T03:41:17Z",
+        "url": "https://www.imdb.com/video/vi1139409177/"
+    },
+    "url": "/title/tt0286716/"
+}

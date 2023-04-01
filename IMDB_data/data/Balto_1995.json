@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kevin Bacon",
+            "url": "/name/nm0000102/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bob Hoskins",
+            "url": "/name/nm0001364/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bridget Fonda",
+            "url": "/name/nm0000403/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 45416,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0228078/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0009119/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cliff Ruby",
+            "url": "/name/nm0748429/"
+        },
+        {
+            "@type": "Person",
+            "name": "Elana Lesser",
+            "url": "/name/nm0504327/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Steven Cohen",
+            "url": "/name/nm0169325/"
+        }
+    ],
+    "datePublished": "1995-12-22",
+    "description": "An outcast Husky risks his life with other sled dogs to prevent a deadly epidemic from ravaging Nome, Alaska.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Simon Wells",
+            "url": "/name/nm0920425/"
+        }
+    ],
+    "duration": "PT1H18M",
+    "genre": [
+        "Animation",
+        "Adventure",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjBhNmFlZjMtMzhlYy00NDBlLWFiMjctMmE0ZjgwOGM2MTNmXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg",
+    "keywords": "dog,nome alaska,alaska,goose,dog sled",
+    "name": "Balto",
+    "original_info": {
+        "id": "Balto_1995",
+        "name": "Balto",
+        "year": "1995"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Jack the Ripper1888"
+        },
+        "dateCreated": "2002-05-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0112453/"
+        },
+        "name": "A great movie! One that will live in your memory forever!",
+        "reviewBody": "This is a great children's movie. But, being a kid's movie doesn't mean that it isn't good for others. This film entertains audiences of all ages. I first saw this movie when I was seven. And to this day, I still love it. Kevin Bacon supplies the voice of Balto, a half-bred wolf who risks his life to travel in the cold of Alaska to retrieve a sled of dogs that were lost while bringing antibiodics back to the town of Nome to stop an epidemic. BALTO is a film to see on a cold, Sunday when you have nothing better to do. You will enjoy this film greatly. After viewing it once, you will want to see it again. I lost track of how many times I have seen this film. But it has been more than thirty times. See this movie. It's well worth seeing. This one is one that I am proud to have in my video collection.....5/5."
+    },
+    "url": "/title/tt0112453/"
+}

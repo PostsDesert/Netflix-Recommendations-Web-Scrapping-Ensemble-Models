@@ -1,0 +1,117 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Halle Berry",
+            "url": "/name/nm0000932/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brent Spiner",
+            "url": "/name/nm0000653/"
+        },
+        {
+            "@type": "Person",
+            "name": "Klaus Maria Brandauer",
+            "url": "/name/nm0001970/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3759,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005861/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0061612/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0090082/"
+        },
+        {
+            "@type": "Person",
+            "name": "Earl Mills",
+            "url": "/name/nm0589974/"
+        },
+        {
+            "@type": "Person",
+            "name": "Shonda Rhimes",
+            "url": "/name/nm0722274/"
+        },
+        {
+            "@type": "Person",
+            "name": "Scott Abbott",
+            "url": "/name/nm0008053/"
+        }
+    ],
+    "datePublished": "1999-08-21",
+    "description": "Dorothy Dandridge's way to fame and fortune as a dancer, singer and actress.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Martha Coolidge",
+            "url": "/name/nm0004838/"
+        }
+    ],
+    "duration": "PT2H",
+    "genre": [
+        "Biography",
+        "Drama",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZWYxZjVlYjQtMTFlMi00ZmQ2LTkwN2UtOGE1ZmRjZWJkMGExXkEyXkFqcGdeQXVyMjcyMjcwNA@@._V1_.jpg",
+    "keywords": "tied feet,tied up while barefoot,racial prejudice,movie star,film star",
+    "name": "Introducing Dorothy Dandridge",
+    "original_info": {
+        "id": "Introducing Dorothy Dandridge_1999",
+        "name": "Introducing Dorothy Dandridge",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "sigure"
+        },
+        "dateCreated": "2002-09-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0172348/"
+        },
+        "name": "Halle's Emmy!",
+        "reviewBody": "Halle Berry shines in her role as the tragic Dorothy Dandridge, for which she received her well-deserved Golden Globe and Emmy. Great supporting cast,(Brent Spiner, Klaus Maris Brandauer,Tamara Taylor), intelligent and witty script, beautiful production values. Takes on Hollywood and racism in an entertaining and insightful way.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT1M22S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi867107097",
+        "name": "Introducing Dorothy Dandridge",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYTNmNWQ4ZjYtNmZhZC00NTVkLThiZDUtYjI5ZmE2ZTk0ZjE2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTNmNWQ4ZjYtNmZhZC00NTVkLThiZDUtYjI5ZmE2ZTk0ZjE2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:34:58Z",
+        "url": "https://www.imdb.com/video/vi867107097/"
+    },
+    "url": "/title/tt0172348/"
+}

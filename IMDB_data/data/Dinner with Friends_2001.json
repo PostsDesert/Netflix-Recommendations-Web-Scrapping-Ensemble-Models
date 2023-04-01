@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dennis Quaid",
+            "url": "/name/nm0000598/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andie MacDowell",
+            "url": "/name/nm0000510/"
+        },
+        {
+            "@type": "Person",
+            "name": "Greg Kinnear",
+            "url": "/name/nm0001427/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3119,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005861/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0008693/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0015134/"
+        },
+        {
+            "@type": "Person",
+            "name": "Donald Margulies",
+            "url": "/name/nm0546869/"
+        }
+    ],
+    "datePublished": "2001-08-11",
+    "description": "Two married couples have their twelve-year bond of friendship put to the test when one couple reveals that they are splitting up.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Norman Jewison",
+            "url": "/name/nm0422484/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNWYyZTEwMWItZDBkNy00ODc1LThmZDMtMjRhZDBiODU1NWRmXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",
+    "keywords": "home cooked dinner,magazine writer,food critic,husband wife relationship,husband wife estrangement",
+    "name": "Dinner with Friends",
+    "original_info": {
+        "id": "Dinner with Friends_2001",
+        "name": "Dinner with Friends",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "fkerr"
+        },
+        "dateCreated": "2001-08-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0271461/"
+        },
+        "name": "Within the wasteland, here is a fine original film.",
+        "reviewBody": "TV may be mostly a wasteland these days, but every once in a while, a fine original film shows up on the tube. `Dinner With Friends' is certainly in that category. It takes the viewer deeply into the relationship between two couples and within each. They were best friends until one of the marriages hits the rocks. We see each side of that split and how it affects the other couple. Initially, sides seem to be taken along gender lines, but that reverses as each member of the separating couple finds new relationships. Is it fatal to the other marriage? Watch and see.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from HBO Home Video",
+        "duration": "PT26S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2090991897",
+        "name": "Dinner With Friends",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOWM4ZmNiYzItMmQ1Mi00N2QwLWJmMjMtYTE5ZWYzYWQ3ZTU5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOWM4ZmNiYzItMmQ1Mi00N2QwLWJmMjMtYTE5ZWYzYWQ3ZTU5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:52:05Z",
+        "url": "https://www.imdb.com/video/vi2090991897/"
+    },
+    "url": "/title/tt0271461/"
+}

@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bret Harrison",
+            "url": "/name/nm0365501/"
+        },
+        {
+            "@type": "Person",
+            "name": "Laura Prepon",
+            "url": "/name/nm0696059/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kevin Gage",
+            "url": "/name/nm0300824/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1346,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0097522/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Hall",
+            "url": "/name/nm0356042/"
+        }
+    ],
+    "datePublished": "2004-04-09",
+    "description": "A drama/thriller, set in the South, about a young boy who longs to escape the misery of his childhood and the misunderstanding of his hometown. A gifted, self-taught, special effects make-up artist, Green dreams of going to Hollyw...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Hall",
+            "url": "/name/nm0356042/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk3NjI3MzQ4Ml5BMl5BanBnXkFtZTcwMDc5MjAzMQ@@._V1_.jpg",
+    "keywords": "halloween mask,mask,homemade haunted house attraction,bare chested male,two word title",
+    "name": "Lightning Bug",
+    "original_info": {
+        "id": "Lightning Bug_2004",
+        "name": "Lightning Bug",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "nemde-1"
+        },
+        "dateCreated": "2019-03-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0363768/"
+        },
+        "name": "Pretty solid movie",
+        "reviewBody": "I know this is based on the writer/ director's real life and I am curious exactly how much detail is as usually some is fictional for theatrical purposes. Either way, this movie has enough going on to hold your interest throughout.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Lightning Bug",
+        "duration": "PT2M36S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3880363033",
+        "name": "Lightning Bug",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODY5OGNhYjgtOGQyZi00MzBkLTllOWEtMWY0NWZkM2FkODRkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODY5OGNhYjgtOGQyZi00MzBkLTllOWEtMWY0NWZkM2FkODRkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2012-11-08T06:19:12Z",
+        "url": "https://www.imdb.com/video/vi3880363033/"
+    },
+    "url": "/title/tt0363768/"
+}

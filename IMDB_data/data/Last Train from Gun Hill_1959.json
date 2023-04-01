@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kirk Douglas",
+            "url": "/name/nm0000018/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anthony Quinn",
+            "url": "/name/nm0000063/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carolyn Jones",
+            "url": "/name/nm0427700/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 8242,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "Passed",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0068126/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0197491/"
+        },
+        {
+            "@type": "Person",
+            "name": "Les Crutchfield",
+            "url": "/name/nm0190185/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Poe",
+            "url": "/name/nm0688117/"
+        }
+    ],
+    "datePublished": "1959-10-23",
+    "description": "A marshal tries to bring the son of an old friend, an autocratic cattle baron, to justice for his role in the rape and murder of the marshal's Native American wife.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Sturges",
+            "url": "/name/nm0836328/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Western"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODkwMDI3ODgtYTg3OS00M2RmLTg4YzMtOGU0ZmU3NzNjZmQxXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_.jpg",
+    "keywords": "monogrammed saddle,rape,revenge,conflict between friends,father son relationship",
+    "name": "Last Train from Gun Hill",
+    "original_info": {
+        "id": "Last Train from Gun Hill_1959",
+        "name": "Last Train from Gun Hill",
+        "year": "1959"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "tbirdman-1"
+        },
+        "dateCreated": "2006-05-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0052993/"
+        },
+        "name": "A great , underrated classic western",
+        "reviewBody": "I just saw this film recently on cable and was reminded of how well made it was. I'm a fan of the late director John Sturges' work and I own both \"The Magnificent Seven\" & \"The Great Escape\" on DVD. \"Last Train from Gun Hill\" does'nt get the same mention along with the well deserved recognition of these other films of the director. I'd rank it among the best classic westerns of the 50's & 60's period of great Hollywood movies. The story benefits from starring two great actors in Kirk Douglas and the late Anthony Quinn. Earl Holliman showed great promise in an early role as the spoiled rotten son of Mr. Belden. I'm surprised that he did not become a bigger star as a character actor throughout his career. And the late Carolyn Jones turned in a strong performance too as Linda. Definitely up there in the same ranking of great classic westerns and one of the best efforts of John Sturges. I will buy this DVD as well to add to my movie library! Lorenzo the tbirdman",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M44S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi127844377",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTRiYmI4ZWUtNzhmOS00OWY2LTgxYTctZDQ3N2QzMzliNmUxXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTRiYmI4ZWUtNzhmOS00OWY2LTgxYTctZDQ3N2QzMzliNmUxXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-03-26T13:31:42.563Z",
+        "url": "https://www.imdb.com/video/vi127844377/"
+    },
+    "url": "/title/tt0052993/"
+}

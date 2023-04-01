@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Cameron Diaz",
+            "url": "/name/nm0000139/"
+        },
+        {
+            "@type": "Person",
+            "name": "Thomas Jane",
+            "url": "/name/nm0005048/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christina Applegate",
+            "url": "/name/nm0000775/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 60224,
+        "ratingValue": 5.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0010901/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nancy M. Pimental",
+            "url": "/name/nm0683726/"
+        }
+    ],
+    "datePublished": "2002-04-12",
+    "description": "Christina Walters spent years avoiding men, then suddenly met her perfect match while hanging with her best friends, Courtney and Jane. When she finds out that he has left town, she and Courtney set out on a trip.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Roger Kumble",
+            "url": "/name/nm0474955/"
+        }
+    ],
+    "duration": "PT1H24M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDIyZTkwOGEtYTFlNC00MTU4LWIyNGItYjBlYmFhNDRmYzcwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "single woman,breaking the fourth wall,lust,nightclub,blonde",
+    "name": "The Sweetest Thing",
+    "original_info": {
+        "id": "The Sweetest Thing_2002",
+        "name": "The Sweetest Thing",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "cafegirl"
+        },
+        "dateCreated": "2002-09-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0253867/"
+        },
+        "name": "Not too shabby",
+        "reviewBody": "I've read many of the comments left by previous viewers. If you glance over them, you will notice a pattern. Most of the scathing, heated comments are left by men, while the praising and positive ones are left by women. That should leave you with this logical conclusion. This is not a movie that most men will enjoy. This is a movie primarily aimed at single women (although I'm married and I found it amusing). Also, I realized that for some reason, people just can't seem to resist comparing this to \"There's Something About Mary.\" I could be wrong, but I don't think this is supposed to be a sequel or anything of the sort, so why compare? It's two different movies. If you're a single female, who likes to have fun and not take things so seriously, I would highly recommend this movie. If you're male or of the Ethan Frome-type movie goer--then this is not for you. Enjoy.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Tristar",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1509622041",
+        "name": "The Sweetest Thing",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzNhNzM4OGMtYTkwZi00MWExLTg4NDUtYTIwZTZiOTE3MWFjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzNhNzM4OGMtYTkwZi00MWExLTg4NDUtYTIwZTZiOTE3MWFjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:14:49Z",
+        "url": "https://www.imdb.com/video/vi1509622041/"
+    },
+    "url": "/title/tt0253867/"
+}

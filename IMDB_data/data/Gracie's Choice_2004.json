@@ -1,0 +1,110 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kristen Bell",
+            "url": "/name/nm0068338/"
+        },
+        {
+            "@type": "Person",
+            "name": "Diane Ladd",
+            "url": "/name/nm0002663/"
+        },
+        {
+            "@type": "Person",
+            "name": "Shedrack Anderson III",
+            "url": "/name/nm0026285/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3720,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "contentRating": "TV-PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0151542/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0041104/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0077049/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rena Dictor Le Blanc",
+            "url": "/name/nm0494096/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joyce Eliason",
+            "url": "/name/nm0253544/"
+        }
+    ],
+    "datePublished": "2004-01-12",
+    "description": "A teenage girl tries to raise her three half-brothers and one half-sister on her own after their drug-addicted mother is sent to jail.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Peter Werner",
+            "url": "/name/nm0921464/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTg3MTVlZmYtMWFiOS00ZjRjLWFhODMtMzU1ODZjOTJhNjdiXkEyXkFqcGdeQXVyMTA1OTAyOTI@._V1_.jpg",
+    "keywords": "teenage girl,half sister,half brother,abusive mother,drugs",
+    "name": "Gracie's Choice",
+    "original_info": {
+        "id": "Gracie's Choice_2004",
+        "name": "Gracie's Choice",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "StephanieGould"
+        },
+        "dateCreated": "2004-01-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0395565/"
+        },
+        "name": "Wow! What an inspirational story!",
+        "reviewBody": "I first saw this movie on the Lifetime Television network after hearing some good reviews and seeing previews. The plot follows Gracie(Kristen Bell), a 17 year old girl who deals with trying to keep her brothers from being taken away from her and put into foster homes due to her drug-addicted and often absent mother Rowena(Anne Heche). With stunning performances from both Bell and Heche as the daughter and mother duo the film has real edge. With the supporting cast including Diane Ladd, this television movie surpasses the stereotypes of a typical movie-of-the-week. I strongly recommend this movie to anyone who wants to be inspired by a true story set to the screen.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3702128921",
+        "name": "Gracie's Choice",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOGM0N2Q0MTctYTNhZi00MTU3LWIzODUtMmM2OThiMzRmZmUyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGM0N2Q0MTctYTNhZi00MTU3LWIzODUtMmM2OThiMzRmZmUyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:18:57Z",
+        "url": "https://www.imdb.com/video/vi3702128921/"
+    },
+    "url": "/title/tt0395565/"
+}

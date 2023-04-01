@@ -1,0 +1,78 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ben Affleck",
+            "url": "/name/nm0000255/"
+        },
+        {
+            "@type": "Person",
+            "name": "Glen Ordway",
+            "url": "/name/nm1381169/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steven Wright",
+            "url": "/name/nm0942833/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 242,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Person",
+            "name": "Steven Stern",
+            "url": "/name/nm0827853/"
+        }
+    ],
+    "datePublished": "2003-09-16",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "George Roy",
+            "url": "/name/nm0747025/"
+        }
+    ],
+    "duration": "PT59M",
+    "genre": [
+        "Documentary",
+        "Sport"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTIzNDgwMzU0MV5BMl5BanBnXkFtZTcwNjY5MjUyMQ@@._V1_.jpg",
+    "keywords": "baseball,new england,fenway park,boston red sox",
+    "name": "The Curse of the Bambino",
+    "original_info": {
+        "id": "The Curse of the Bambino_2003",
+        "name": "The Curse of the Bambino",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "SemperFiMac"
+        },
+        "dateCreated": "2004-04-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0381115/"
+        },
+        "name": "The funniest movie ever...",
+        "reviewBody": "I caught this doc the other day on HBO, and I haven't laughed so hard in a long time. As a life-long Yankee fan, it gave me all the incentive I need to look forward to another season where the BoSox don't measure up.\n\n The best part of this film to me, tho, was the segment on the '86 World Series (the Buckner debacle) Watching 4-5 guys repeating Vin Scully's commentary word for word as the ball rolled haplessly thru Buckner's legs almost made me feel sorry for them. Also great was the shot of Carl Yazstremski sinking to his knees as Bucky Dent's ball sailed over the Green Monster.\n\nKeep hoping, Boston!!!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0381115/"
+}

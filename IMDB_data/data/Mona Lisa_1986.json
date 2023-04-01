@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bob Hoskins",
+            "url": "/name/nm0001364/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cathy Tyson",
+            "url": "/name/nm0879154/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Caine",
+            "url": "/name/nm0000323/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 17468,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103514/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0217649/"
+        },
+        {
+            "@type": "Person",
+            "name": "Neil Jordan",
+            "url": "/name/nm0001403/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Leland",
+            "url": "/name/nm0500896/"
+        }
+    ],
+    "datePublished": "1986-06-13",
+    "description": "A man recently released from prison manages to get a job driving a call girl from customer to customer.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Neil Jordan",
+            "url": "/name/nm0001403/"
+        }
+    ],
+    "duration": "PT1H44M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODQyNTczZmEtYWIyMC00NGFjLTgwNTktM2JlNjZmZTVmNGFiXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_.jpg",
+    "keywords": "unrequited love,doomed romance,london england,teenage prostitution,lesbian",
+    "name": "Mona Lisa",
+    "original_info": {
+        "id": "Mona Lisa_1986",
+        "name": "Mona Lisa",
+        "year": "1986"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Degree7"
+        },
+        "dateCreated": "2013-05-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0091538/"
+        },
+        "name": "Intriguing, edgy mystery thriller with a lot of heart...",
+        "reviewBody": "After seeing Hoskins in \"The Long Good Friday\", I was eager to catch another one of his highly celebrated performances. Filling in a similar role as an ex-con looking for work in 1980s London, I found his relationship with a call-girl to be highly effective in the character's exploration of a world he is simultaneously out of touch, but all too familiar with. It is a story that moves along leisurely, as he is soon employed by his employer's worker to find a vulnerable young girl on the streets, and it is here that the film offers a disparaging outlook on urban prostitution, through the annals of both high and low society. Hoskin's character becomes embroiled in an emotional investment beyond his control, and like any Noir protagonist, is very soon out of his league and receiving the short end of the stick.\n\nThe ending revelation is effective, but slightly underwhelming when one realizes that his journey was doomed from the beginning, but this kind of set up is to be expected from these sorts of tales. The character development and progression between lead actor and actress is simple, but highly effective.\n\nThe cinematography comes across as drab sometimes, but there are many beautiful moments in this film with some detailed choreography and impressive lighting of seedy, smoke filled interiors as Hoskins navigates the Londonian labyrinths. \n\nThe ending does feel slightly rushed, but there are so many great moments, and the film has a lot of untold backstory that gives its characters a lot of depth and very realistic insight into human longing. This is a great example of effective exposition that is relayed naturally and not a distraction or disservice to the film. A few choppy moments, but overall 'Mona Lisa' is more than the sum of its parts, and is an entertaining and atmospheric indie flick from Neil Jordan.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Anchor Bay Entertainment",
+        "duration": "PT2M31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2644115737",
+        "name": "Mona Lisa",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOWVkNjU3YmItYjBmYS00ZjQ0LWFlNTQtMjdmNzY0MDI0NjFhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOWVkNjU3YmItYjBmYS00ZjQ0LWFlNTQtMjdmNzY0MDI0NjFhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:18:32Z",
+        "url": "https://www.imdb.com/video/vi2644115737/"
+    },
+    "url": "/title/tt0091538/"
+}

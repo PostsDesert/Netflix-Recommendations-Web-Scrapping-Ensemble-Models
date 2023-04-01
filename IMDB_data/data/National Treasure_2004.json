@@ -1,0 +1,117 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Nicolas Cage",
+            "url": "/name/nm0000115/"
+        },
+        {
+            "@type": "Person",
+            "name": "Diane Kruger",
+            "url": "/name/nm1208167/"
+        },
+        {
+            "@type": "Person",
+            "name": "Justin Bartha",
+            "url": "/name/nm0058581/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 340629,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0008970/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0026281/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0095025/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Kouf",
+            "url": "/name/nm0467942/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cormac Wibberley",
+            "url": "/name/nm0926727/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marianne Wibberley",
+            "url": "/name/nm0926729/"
+        }
+    ],
+    "datePublished": "2004-11-19",
+    "description": "A historian races to find the legendary Templar Treasure before a team of mercenaries.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jon Turteltaub",
+            "url": "/name/nm0005509/"
+        }
+    ],
+    "duration": "PT2H11M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY3NTc4OTYxMF5BMl5BanBnXkFtZTcwMjk5NzUyMw@@._V1_.jpg",
+    "keywords": "treasure,declaration of independence,treasure hunter,treasure hunt,freemason",
+    "name": "National Treasure",
+    "original_info": {
+        "id": "National Treasure_2004",
+        "name": "National Treasure",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "MLDinTN"
+        },
+        "dateCreated": "2004-12-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0368891/"
+        },
+        "name": "fun adventure",
+        "reviewBody": "This was a fun film, sort of like an Indian Jones movie, but the treasure hunter must figure out clues. I'm sure the reason this was made and released now has a lot to do with the Da Vinci Code. The plot is just like it except instead of involving religious history, the clues center around American history, and namely the founding fathers.\n\nSo Nick Cage, plays Ben Gates, the treasure hunter whose family has been looking for the treasure of the knights templer for years. One of his relatives possessed the last remaining clue from a dying Mason. So, the movie starts with Cage finally solving that clue, and the film goes from there. Of course, we have the evil billionaire guy who wants the treasure for himself and the funny sidekick. But, I think the sidekick failed because he wasn't all that funny. The movie could have used some more humor. And of course, Gates hooks up with a beautiful woman along the way to help him solve the clues, which sounds just like Da Vinci.\n\nIt is unbelievable that someone could just come up with the answer to these difficult clues after thinking about them for 2 minutes, but we don't have time to let the characters ponder them for a few months. It is meant to be fun, so forget about the plot holes. The whole set beneath the church looked very neat, but I would have to think all those wooden stairs would have been rotten by then and no one could walk on them. But who cares, it's fun.\n\nAnd the theft of the Declaration of Independence was reminiscent of Ocean's 11. Funny how anyone can steal anything in a film, forget locked down security.\n\nFINAL VERDICT: If you like adventure films, I recommend it. It is not like Tomb Raider, which some have compared it to. Tomb Raider was horrible. This is more like Indiana Jones.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "CT #4 Post",
+        "duration": "PT2M32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3890151705",
+        "name": "National Treasure",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTZhOThiZWItN2ViMy00NjI5LTlhYjgtNGYyNjY5YjY0N2ZlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTZhOThiZWItN2ViMy00NjI5LTlhYjgtNGYyNjY5YjY0N2ZlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-08-04T03:35:36Z",
+        "url": "https://www.imdb.com/video/vi3890151705/"
+    },
+    "url": "/title/tt0368891/"
+}

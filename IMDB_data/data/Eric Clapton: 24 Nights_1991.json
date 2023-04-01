@@ -1,0 +1,70 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Eric Clapton",
+            "url": "/name/nm0002008/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Kamen",
+            "url": "/name/nm0004383/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alan Clark",
+            "url": "/name/nm0163620/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 143,
+        "ratingValue": 8.2,
+        "worstRating": 1
+    },
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Gavin Taylor",
+            "url": "/name/nm0852389/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Documentary",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQwNzQ0MjY5M15BMl5BanBnXkFtZTcwMDgyNjEyMQ@@._V1_.jpg",
+    "keywords": "london england,tv special,live performance,concert film",
+    "name": "Eric Clapton: 24 Nights",
+    "original_info": {
+        "id": "Eric Clapton: 24 Nights_1991",
+        "name": "Eric Clapton: 24 Nights",
+        "year": "1991"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "kz-2"
+        },
+        "dateCreated": "1999-09-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0191992/"
+        },
+        "name": "IF YOU LOVE CLAPTON'S MUSIC YOU NEED TO GET THIS VIDEO!!",
+        "reviewBody": "We have owned this video for some time, at least 6 years and since it has been in storage for a while, we purchased the new DVD. What a great experience to hear it once again. His \"Wonderful Tonight\" and \"Bell Bottom Blues\" are to be savored at length and often. This is truly a musical experience. If you don't own it you should! kz-2 9/28/99",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0191992/"
+}

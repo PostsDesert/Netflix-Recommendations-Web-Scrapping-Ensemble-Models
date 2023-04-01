@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Rutger Hauer",
+            "url": "/name/nm0000442/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dylan Walsh",
+            "url": "/name/nm0909620/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rya Kihlstedt",
+            "url": "/name/nm0452748/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1078,
+        "ratingValue": 5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0033956/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0067637/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ross LaManna",
+            "url": "/name/nm0482780/"
+        }
+    ],
+    "description": "A man from Los Angeles, California gets a job as ecologist in Alaska's wilderness. He takes part in arresting and transporting a trapper wanted for murder. But the trapper, Ben Corbett (Rutger Hauer), and his friends will do anyth...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Peter Masterson",
+            "url": "/name/nm0557751/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Action",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNmIxNGE3NjgtM2EzMC00ZWE0LThjMzYtODgwOWE0NjU1NTQ3XkEyXkFqcGdeQXVyMTI1NTE2NjA@._V1_.jpg",
+    "keywords": "ecologist,wanted for murder,trapper,female topless nudity,radio",
+    "name": "Arctic Blue",
+    "original_info": {
+        "id": "Arctic Blue_1993",
+        "name": "Arctic Blue",
+        "year": "1993"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "merklekranz"
+        },
+        "dateCreated": "2010-02-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0106303/"
+        },
+        "name": "\"Makes about as much sense as a rat f---ing a grapefruit\"",
+        "reviewBody": "Cinematography of the Alaska wilderness is a real plus, and a couple scenes standout, but for the most part \"Arctic Blue\" is a mess. Rutger Hauer is never going to advance his \"B\" movie career with these types of roles. Here he is nothing but a cardboard character, almost blending into the snowy landscape. The script is never believable, and there appear to be parts cut out that would have helped connect the dots. The ending seems to be sending some type of ecological message, but it is meaningless with the nonsense that precedes it. The two things that I will remember about \"Arctic Blue\" are the above summary \"grapefruit\" quote, and a flying pickax. Other than that the film is very forgettable. - MERK",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 4,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Pictures",
+        "duration": "PT1M34S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3586130713",
+        "name": "Arctic Blue",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BM2RmZjk0NjgtMzAzZS00MWE3LThlZTktYzllZWI3MzhjYTM0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BM2RmZjk0NjgtMzAzZS00MWE3LThlZTktYzllZWI3MzhjYTM0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-01-11T06:07:01Z",
+        "url": "https://www.imdb.com/video/vi3586130713/"
+    },
+    "url": "/title/tt0106303/"
+}

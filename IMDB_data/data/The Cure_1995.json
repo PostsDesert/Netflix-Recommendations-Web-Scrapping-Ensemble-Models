@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Joseph Mazzello",
+            "url": "/name/nm0001515/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brad Renfro",
+            "url": "/name/nm0000605/"
+        },
+        {
+            "@type": "Person",
+            "name": "Aeryk Egan",
+            "url": "/name/nm0250643/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 10204,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0049958/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Kuhn",
+            "url": "/name/nm0002675/"
+        }
+    ],
+    "datePublished": "1995-04-21",
+    "description": "Erik, a loner, finds a friend in Dexter, an eleven-year-old boy with AIDS. They vow to find a cure for AIDS together and save Dexter's life in an eventful summer.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Peter Horton",
+            "url": "/name/nm0005022/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Adventure",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYjIyOGNkNTgtYmM4Mi00NDU4LTgzZTQtYWJlZjUxZjA2NmI4XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_.jpg",
+    "keywords": "young boy,friendship between boys,aids,bare chested male,death of child",
+    "name": "The Cure",
+    "original_info": {
+        "id": "The Cure_1995",
+        "name": "The Cure",
+        "year": "1995"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jjuergen"
+        },
+        "dateCreated": "2005-03-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0112757/"
+        },
+        "name": "Awesome Story, Incredible Production",
+        "reviewBody": "I remember when this film came out, and watched it a few times on VHS. I was so glad when it was FINALLY released on DVD. I was hoping for widescreen, but at the point would take what was available. I love how they used color in the film, the outdoor scenes are so alive with color. The trees are the greenest I've ever seen. Most of the film was shot in Stillwater, Minnesota, a beautiful town located on the St. Croix River. They must have really scouted locations for filming, because they did a great job. The story is well written, and directed. I would rate this as one of Peter Horton's best. I'm also surprised that Andrew Dintenfass (the director of photography) hasn't done more. He did an incredible job. The acting also rates up there. It's amazing to see two actors of such a young age pull off this type of film. Annabella Sciorra did a great job as Dexter's mother. Who wouldn't want her as a mother.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Universal Studios Home Entertainment",
+        "duration": "PT2M7S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi369099545",
+        "name": "The Cure",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzU4OWEwYjUtMjRmZS00NmRlLWFiNWEtMGMzYmIxMjVmNjkzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzU4OWEwYjUtMjRmZS00NmRlLWFiNWEtMGMzYmIxMjVmNjkzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-03-06T07:37:08Z",
+        "url": "https://www.imdb.com/video/vi369099545/"
+    },
+    "url": "/title/tt0112757/"
+}

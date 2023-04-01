@@ -1,0 +1,59 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jean Butler",
+            "url": "/name/nm0124965/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9,
+        "ratingValue": 7.9,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0053248/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0581168/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marina Ní Dhubhain",
+            "url": "/name/nm0639111/"
+        }
+    ],
+    "description": "Jean Butler introduces this look back at the Riverdance phenomenon.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Hugh Farley",
+            "url": "/name/nm0267646/"
+        },
+        {
+            "@type": "Person",
+            "name": "John McColgan",
+            "url": "/name/nm0566092/"
+        }
+    ],
+    "duration": "PT1H55M",
+    "genre": [
+        "Musical"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTVmMTNiNjAtZWIxNC00MDQyLThlYTctOWZjYjdlNmY2MzU4XkEyXkFqcGdeQXVyMjk5MjQ4MzQ@._V1_.jpg",
+    "name": "The Best of Riverdance",
+    "original_info": {
+        "id": "The Best of Riverdance_2005",
+        "name": "The Best of Riverdance",
+        "year": "2005"
+    },
+    "url": "/title/tt5569016/"
+}

@@ -1,0 +1,81 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sigourney Weaver",
+            "url": "/name/nm0000244/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 197,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "contentRating": "Unrated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0064369/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0109002/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paula Deats",
+            "url": "/name/nm0213268/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carol L. Fleisher",
+            "url": "/name/nm0281546/"
+        }
+    ],
+    "description": "Is it human conceit to attribute emotions to animal actions, or are emotions basic to life on earth? Wildlife filmmakers and scientists make a convincing argument for the latter in this gripping film.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Carol L. Fleisher",
+            "url": "/name/nm0281546/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTYzMTM4MjI1NF5BMl5BanBnXkFtZTcwNjYxNjAzMQ@@._V1_.jpg",
+    "keywords": "reenactment,question in title,animal in title,dog,monkey",
+    "name": "Why Dogs Smile & Chimpanzees Cry",
+    "original_info": {
+        "id": "Why Dogs Smile and Chimpanzees Cry_1999",
+        "name": "Why Dogs Smile and Chimpanzees Cry",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "acdebiase"
+        },
+        "dateCreated": "2006-07-15",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0208570/"
+        },
+        "name": "amazing",
+        "reviewBody": "I've seen many docs and this one is truly the best. I feel it's the first movie to really show how similar all species calling this place home really are. From the elephants turning instantly into a well organized army to attend to a baby stuck in the mud to the family dog that throws herself under a car to save a fallen human child, this film will evoke emotions from you that may surprise you. I can't imagine this movie not being put into schools to show our kids that we're not actually alone on this planet. Reasoning, wonder, and even logic are not our exclusive domain. When you see the wolves mourning the lowest member of the pack weeks and even months after her passing, you may just feel a little closer to all members of the \"food chain\". Seriously, I didn't want it to end.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0208570/"
+}

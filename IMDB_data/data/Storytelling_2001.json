@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Selma Blair",
+            "url": "/name/nm0004757/"
+        },
+        {
+            "@type": "Person",
+            "name": "Leo Fitzpatrick",
+            "url": "/name/nm0280559/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Wisdom",
+            "url": "/name/nm0936298/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 17946,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0046718/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0030755/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0007554/"
+        },
+        {
+            "@type": "Person",
+            "name": "Todd Solondz",
+            "url": "/name/nm0001754/"
+        }
+    ],
+    "datePublished": "2001-11-08",
+    "description": "College and high school serve as the backdrop for two stories about dysfunction and personal turmoil.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Todd Solondz",
+            "url": "/name/nm0001754/"
+        }
+    ],
+    "duration": "PT1H27M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjYzNGIyNzUtNzAxZi00NzFhLTg3MDktMzljOGVmMDllNDg0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "black comedy,high school,college,documentary filmmaker,high school student",
+    "name": "Storytelling",
+    "original_info": {
+        "id": "Storytelling_2001",
+        "name": "Storytelling",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "gchristein"
+        },
+        "dateCreated": "2003-01-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0250081/"
+        },
+        "name": "Clearly some liked it....just don't know why?",
+        "reviewBody": "I had seen Todd Solondz' previous work Happiness and thought it clever enough to give Storytelling a try. Total junk. Little if anything of interest through entire jumble of a movie. Didn't care for or feel interest in any character or interaction this movie had to offer. Would clearly appeal to those who found artistic merit, as well enjoyable controversy, in the Virgin Mary covered in Dung. Roger Ebert is quoted as saying that he saw the movie three times. I'm guessing it's because he fell asleep during the first two viewings."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from New Line Home Entertainment",
+        "duration": "PT1M46S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3196780825",
+        "name": "Storytelling",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDZlYjVmZDUtNTU3ZS00NDAzLWE3MGItNWE3YjA0ZWQwMmFiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDZlYjVmZDUtNTU3ZS00NDAzLWE3MGItNWE3YjA0ZWQwMmFiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:18:14Z",
+        "url": "https://www.imdb.com/video/vi3196780825/"
+    },
+    "url": "/title/tt0250081/"
+}

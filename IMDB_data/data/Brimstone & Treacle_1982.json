@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Guy Pearce",
+            "url": "/name/nm0001602/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dakota Fanning",
+            "url": "/name/nm0266824/"
+        },
+        {
+            "@type": "Person",
+            "name": "Emilia Jones",
+            "url": "/name/nm4454223/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 42791,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0306371/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0159596/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0109131/"
+        },
+        {
+            "@type": "Person",
+            "name": "Martin Koolhoven",
+            "url": "/name/nm0465551/"
+        }
+    ],
+    "datePublished": "2017-01-12",
+    "description": "From the moment the new Reverend climbs the pulpit, Liz knows that she and her family are in great danger.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Martin Koolhoven",
+            "url": "/name/nm0465551/"
+        }
+    ],
+    "duration": "PT2H28M",
+    "genre": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNGU0Y2VkMDAtMTA0YS00YzU1LWEwNzMtZDM1MzFiNWZmMDRkXkEyXkFqcGdeQXVyMjU2OTAyMzQ@._V1_.jpg",
+    "keywords": "rape,reverend,mute,retribution,father daughter incest",
+    "name": "Brimstone",
+    "original_info": {
+        "id": "Brimstone & Treacle_1982",
+        "name": "Brimstone & Treacle",
+        "year": "1982"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "brchthethird"
+        },
+        "dateCreated": "2017-04-15",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt1895315/"
+        },
+        "name": "A brutal and harrowing Western",
+        "reviewBody": "Brutal. Harrowing. Unforgiving. Just a few words that come to mind that succinctly describe the experience of watching BRIMSTONE. If you like/don't mind the unsavory and uncompromising in your entertainment you'll probably enjoy this. If you like languidly paced art films, then you'll probably enjoy this. Otherwise, you might lose your patience. The narrative unfolds slowly and methodically, but the payoff is mostly worth the time taken to get there. Aiming to keep this spoiler-free, a brief synopsis is that a new minister (Guy Pearce) comes to a small Western town, and this puts a mute woman (Dakota Fanning) on edge, especially after a miscarriage puts her at odds with her fellow townsfolk. One further important detail is that the film is divided into four chapters, and the first three of these unfold in reverse chronological order. The movie centers around Dakota Fanning and Guy Pearce's characters, and the narrative structure allowed the director to withhold key information until the right time. Of course, like many other films with unique narrative devices, remove it and the film wouldn't be nearly as effective. That being said, there's plenty of stuff that goes on in nearly two and a half hours. A little indulgent? Sure, but all of the narrative elements are good enough to not make this much of a deal-breaker. I will say that the pacing, though slow, was steady and I never got bored. Thematically, Martin Koolhoven (the director) was able to use the period setting effectively to portray a world of religious coercion and the lengths men will go to justify oppressing women. Guy Pearce's character was basically evil incarnate, and it was a scarily brilliant performance. Dakota Fanning also did well, certainly better than I've seen out of her before. Kit Harrington also had a small role as a man that Dakota Fanning's character secretly nurses back to health, and who also teaches her a valuable lesson. From the more technical side, I greatly enjoyed the beautiful cinematography, and the haunting score by Tom Holkenborg (aka, JunkieXL). All things considered, this is one of the best films I've seen in a while, Western or not. For some reason, Europeans seem to do a better job nowadays tackling this genre, and BRIMSTONE is no exception. As long as you're a somewhat patient viewer, and not easily offended, I can highly recommend this.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Wrongly accused of a crime she didn't commit, a frontier woman turned fugitive is hunted by a vengeful preacher in the menacing inferno of the old American West.",
+        "duration": "PT2M2S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi622573081",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMWQwMzFiMWItODUzYi00NmZiLWJlMTQtYjAwNmRmMzQ5YjQzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMWQwMzFiMWItODUzYi00NmZiLWJlMTQtYjAwNmRmMzQ5YjQzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "uploadDate": "2017-01-27T04:33:18Z",
+        "url": "https://www.imdb.com/video/vi622573081/"
+    },
+    "url": "/title/tt1895315/"
+}

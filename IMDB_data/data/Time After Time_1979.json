@@ -1,0 +1,113 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Malcolm McDowell",
+            "url": "/name/nm0000532/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mary Steenburgen",
+            "url": "/name/nm0005460/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Warner",
+            "url": "/name/nm0001831/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 19325,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0001995/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Person",
+            "name": "Karl Alexander",
+            "url": "/name/nm7375907/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve Hayes",
+            "url": "/name/nm0371051/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nicholas Meyer",
+            "url": "/name/nm0583292/"
+        }
+    ],
+    "datePublished": "1979-09-28",
+    "description": "H.G. Wells pursues Jack the Ripper to the 20th Century when the serial murderer uses the future writer's time machine to escape his time period.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Nicholas Meyer",
+            "url": "/name/nm0583292/"
+        }
+    ],
+    "duration": "PT1H52M",
+    "genre": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNmIwMTJmZGYtOWQyMS00NzE4LThiNTctYTU5ZTcwNDQ4MzExXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "h.g. wells character,time travel sci fi,time machine,time travel,bank",
+    "name": "Time After Time",
+    "original_info": {
+        "id": "Time After Time_1979",
+        "name": "Time After Time",
+        "year": "1979"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Theo Robertson"
+        },
+        "dateCreated": "2003-08-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0080025/"
+        },
+        "name": "Very Enjoyable Fantasy",
+        "reviewBody": "Having a premise of HG Wells ( Yes that one ) pursue Jack the ripper ( Ditto ) to the 20th century has all the makings of a really camp and totally crap film , but despite the outrageous idea TIME AFTER TIME is a very enjoyable fantasy .\n\nUnlike most time travel films ( THE TERMINATOR , BACK TO THE FUTURE not to mention several DOCTOR WHO and STAR TREK stories ) TIME AFTER TIME doesn`t really concern itself with concepts like the blinovitch limitation effect ie a temporal paradox , instead it concentrates on how a radical 19th century idealist like Wells would have found 20th century \" Utopia \" and how he would have been sickened by it . It`s here that the film works best with Wells travelling through the time vortex listening to the history of the 20th century and the scene with Wells and Jack watching television . It`s also interesting to note that the movie`s most amusing moments ( And they are genuinely amusing )are when Wells notices the difference in sexual mores of the present day . The film is much weaker when it switches to \" Hero tracks down serial killer \" type thriller but that`s not really what the film is about .",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT3M3S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2403974937",
+        "name": "Time After Time",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTE1ODFkMDgtZWE3Mi00MWNlLWFjNjAtMDg1NjM0ZTlkNGQ0XkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTE1ODFkMDgtZWE3Mi00MWNlLWFjNjAtMDg1NjM0ZTlkNGQ0XkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-02-15T17:10:10.932Z",
+        "url": "https://www.imdb.com/video/vi2403974937/"
+    },
+    "url": "/title/tt0080025/"
+}

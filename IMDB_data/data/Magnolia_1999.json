@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tom Cruise",
+            "url": "/name/nm0000129/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jason Robards",
+            "url": "/name/nm0001673/"
+        },
+        {
+            "@type": "Person",
+            "name": "Julianne Moore",
+            "url": "/name/nm0000194/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 317720,
+        "ratingValue": 8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0027686/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0046718/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0048651/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Thomas Anderson",
+            "url": "/name/nm0000759/"
+        }
+    ],
+    "datePublished": "2000-01-07",
+    "description": "An epic mosaic of interrelated characters in search of love, forgiveness and meaning in the San Fernando Valley.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Paul Thomas Anderson",
+            "url": "/name/nm0000759/"
+        }
+    ],
+    "duration": "PT3H8M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjk3YThkNDktNjZjMS00MTBiLTllNTAtYzkzMTU0N2QwYjJjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "keywords": "coincidence,cancer,abusive father,fictional game show,fictional quiz show",
+    "name": "Magnolia",
+    "original_info": {
+        "id": "Magnolia_1999",
+        "name": "Magnolia",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "planktonrules"
+        },
+        "dateCreated": "2018-03-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0175880/"
+        },
+        "name": "A really creative film that is certainly not for everyone...",
+        "reviewBody": "\"Magnolia\" is an incredibly unusual film...sort of an experimental project in it's style. Because of this and the occasionally extremely graphic language and depressing stories, it's a film that many would find hard to like...though I remember professional critics practically falling all over themselves praising it for its originality. So did I like it? Read on.\n\nAs far as how the film is experimental, it features many different stories that are interwoven throughout the story and it is really not apparently what connects them all during much of \"Magnolia\". There are also many rapid edits and jumps that make it difficult to follow as well as the three hour plus running time.\n\nThere is a prologue where several stories (including at least two urban legends) are all used to illustrate death and that perhaps in life there are no coincidences...and you can only assume the disparate stories that follow must be related to this...maybe. So what are the stories? Well, there are too many and too many parts to tell but they involve a dying man (Jason Robards) and his caregiver (Philip Seymour Hoffman), a woman who appears to be strung out (Julianne Moore), a cop who seems to go from one crisis call to another (John C. Reilly), a man who is dying and wants to reconnect with his angry daughter, an ex-quiz kid who now feels like a loser, a sociopathic motivational speaker (Tom Cruise) and many more. And do they all come together to make any sense? Well, they are mostly pretty depressing...at least I can say that without hurting the viewing experience.\n\nAs I watched, I found \"Magnolia\" very hard to stop watching. Despite not necessarily enjoying much of the film, it sure kept my attention. Much of it was because the film features a lot of great actors and they had some amazing moments in the movie. Is it a film I loved? No. But I do respect it for trying to be different. And, on balance I am glad I saw it. But I agree with the director/writer when he later said the film might have been better had it been pared down a bit.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from New Line Cinema",
+        "duration": "PT2M46S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4237558041",
+        "name": "Magnolia",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzk5NjhkMWYtNTBhNy00MDBmLTg5ODItZmI0ZTE4ZjUzNjZmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzk5NjhkMWYtNTBhNy00MDBmLTg5ODItZmI0ZTE4ZjUzNjZmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:56:16Z",
+        "url": "https://www.imdb.com/video/vi4237558041/"
+    },
+    "url": "/title/tt0175880/"
+}

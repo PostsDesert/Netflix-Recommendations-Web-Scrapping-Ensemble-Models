@@ -1,0 +1,85 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Joanne Whalley",
+            "url": "/name/nm0000695/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sean Patrick Flanery",
+            "url": "/name/nm0001218/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cotter Smith",
+            "url": "/name/nm0807767/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 676,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0013427/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0052980/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0043378/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rodney Patrick Vaccaro",
+            "url": "/name/nm0882867/"
+        }
+    ],
+    "datePublished": "2000-03-05",
+    "description": "The Story of a North Carolina woman and her daughter who take in a mysterious drifter to work their farm while the woman's husband is missing in action during WWII.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Paul A. Kaufman",
+            "url": "/name/nm0442237/"
+        }
+    ],
+    "duration": "PT1H41M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ0OTc1NDU3M15BMl5BanBnXkFtZTcwNjE1NzkxMQ@@._V1_.jpg",
+    "keywords": "based on play",
+    "name": "Run the Wild Fields",
+    "original_info": {
+        "id": "Run the Wild Fields_2000",
+        "name": "Run the Wild Fields",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "halle95"
+        },
+        "dateCreated": "2001-07-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0185651/"
+        },
+        "name": "an emotionally moving film",
+        "reviewBody": "This film is well worth watching for the emotions that are allowed to develop between the main characters. The mysterious stranger has his own secrets, and it may possibly just have happened, (leaving room for artistic license.) I liked being caught into that particular time-frame of the '40's when morality still existed in the American culture, and people (generally) had depth of character. The film does not \"assault\" the viewer, like so many recent releases will assault the senses. Really well acted and directed, I thought."
+    },
+    "url": "/title/tt0185651/"
+}

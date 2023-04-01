@@ -1,0 +1,76 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Fiore",
+            "url": "/name/nm0278468/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christopher Lucas",
+            "url": "/name/nm0524103/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marie Ruffolo",
+            "url": "/name/nm1801283/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 39,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0081756/"
+        }
+    ],
+    "datePublished": "2002-09-24",
+    "description": "A documentary hosted by John Fiore with rare bloopers, private home movies and interviews with \"The Sopranos\" cast members James Gandolfini, Jamie-Lynn Sigler, Vincent Curatola, Dan Grimaldi and Vincent Pastore.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jim Murphy",
+            "url": "/name/nm1793097/"
+        }
+    ],
+    "duration": "PT2H",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMGM2ODNlMDQtNWEyMi00MDU3LTgxY2YtZjJlYjM5NGJmYjkxXkEyXkFqcGdeQXVyMTAzOTc1Nzk3._V1_.jpg",
+    "name": "Sopranos Unauthorized: Shooting Sites Uncovered",
+    "original_info": {
+        "id": "Sopranos Unauthorized: Shooting Sites Uncovered_2002",
+        "name": "Sopranos Unauthorized: Shooting Sites Uncovered",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Travisty"
+        },
+        "dateCreated": "2006-08-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0439819/"
+        },
+        "name": "Infomative but way too cheesy.",
+        "reviewBody": "\"Sopranos Unathorized\" is a behind-the-scenes look at some of the locations used in filming the Sopranos. While it is a thrill to meet the owners of the Tony Soprano home or to see the inside of Pizzaland, the hosting job by John Fiore and Marie Ruffalo is horrible. Fiore plays a mobbed-up version of himself, which is understandable given the topic, but Ruffalo spends the entire time giggling like a nitwit goomah. She is so annoying that I ended up fast-forwarding through the in-between chatter. It's a shame, for no character (goomah or otherwise) acts that way in the Sopranos. Why they made her act like an annoying idiot I will never understand.\n\nRegardless, there are a lot of locations visited, most of which were filmed for exterior shots in the series. The sheer number of them makes it very hit-or-miss. For every Bada Bing or Satriale's you also get yawners like the alley where Meadow wrecked her car or the apartments where Silvo slapped a stripper. It seems as if they really stretched it to make a full two hours. Still, it is a kick to see some of the real like places that inspired David Chase. Now if we could only get rid of the hosts...\n\nOh, one more thing - the music played over the credits is a too-horrible-to-be-true version of \"The Wanderer\" sung by Fiore and Ruffalo. They even tweak the lyrics to things like, \"I shop from town to town,\" and \"I hop right in that Limo of mine.\" Ugh.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0439819/"
+}

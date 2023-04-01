@@ -1,0 +1,73 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Timothy Ferris",
+            "url": "/name/nm2745239/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Butler",
+            "url": "/name/nm0125084/"
+        },
+        {
+            "@type": "Person",
+            "name": "France Cordova",
+            "url": "/name/nm1182951/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 79,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Person",
+            "name": "Timothy Ferris",
+            "url": "/name/nm2745239/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen Most",
+            "url": "/name/nm1713436/"
+        }
+    ],
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTczNDA4OTgwNV5BMl5BanBnXkFtZTcwNDU1MDcyMQ@@._V1_.jpg",
+    "keywords": "outer space,extraterrestrial life",
+    "name": "Life Beyond Earth",
+    "original_info": {
+        "id": "Life Beyond Earth_1999",
+        "name": "Life Beyond Earth",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jcolyer1229"
+        },
+        "dateCreated": "2013-12-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0209101/"
+        },
+        "name": "Life Beyond Earth",
+        "reviewBody": "Timothy Ferris wrote and narrated this documentary. He contends that communication is more effective than exploration in our search for extraterrestrial life. Interstellar travel involves hopelessly vast distances. Radio signals, however, travel at the speed of light. Radio telescopes can be used to detect any advanced civilization that might be broadcasting. Ferris introduces SETI (Search for Extraterrestrial Intelligence) and dedicates his show to Carl Sagan. Ferris recognizes that life requires an energy source (sun), water and organic (carbon-based) compounds. It took a long time for me to see this show, but it cleared up a lot of questions.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0209101/"
+}

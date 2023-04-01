@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Keanu Reeves",
+            "url": "/name/nm0000206/"
+        },
+        {
+            "@type": "Person",
+            "name": "Al Pacino",
+            "url": "/name/nm0000199/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charlize Theron",
+            "url": "/name/nm0000234/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 380622,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0007127/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0044240/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrew Neiderman",
+            "url": "/name/nm0003825/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jonathan Lemkin",
+            "url": "/name/nm0501380/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tony Gilroy",
+            "url": "/name/nm0006904/"
+        }
+    ],
+    "datePublished": "1997-10-17",
+    "description": "An exceptionally-adept Florida lawyer is offered a job at a high-end New York City law firm with a high-end boss--the biggest opportunity of his career to date.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Taylor Hackford",
+            "url": "/name/nm0000431/"
+        }
+    ],
+    "duration": "PT2H24M",
+    "genre": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BM2M2MDJhMDgtMmJkYy00MTgzLTkyZTktODM5NzE1MWUyNDA4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+    "keywords": "deal with the devil,lawyer,the devil,vanity,supernatural power",
+    "name": "The Devil's Advocate",
+    "original_info": {
+        "id": "The Devil's Advocate_1997",
+        "name": "The Devil's Advocate",
+        "year": "1997"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "forever_dream_chaser"
+        },
+        "dateCreated": "2002-04-22",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0118971/"
+        },
+        "name": "wow",
+        "reviewBody": "this movie received many many bad reviews, including personal opinions of friends of mine ... however, the premise, script (although thin at times) and finished product were all amazing ... keanu reeves gives an extremely surprising performance ... when it starts off he is every character he has played, not a bad character actor, but not over the top, just a regular guy... but as the story progresses his ability takes on a transformation and he really astonishes ... of course, al pacino's performance goes without saying; he is a genius in any and all of his movies ... and charlize theron is at her best as she often is in her films ... however, despite both pacino's and theron's talented performances reeves is the one to watch ... look out for the change in him ... it is completely awe-inspiring..."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2728460569",
+        "name": "Devil's Advocate",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNWVmYjE5YTQtN2Y2Yy00NGI4LWE5NTUtYTM3NGUyZTMyN2YzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNWVmYjE5YTQtN2Y2Yy00NGI4LWE5NTUtYTM3NGUyZTMyN2YzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:50:10Z",
+        "url": "https://www.imdb.com/video/vi2728460569/"
+    },
+    "url": "/title/tt0118971/"
+}

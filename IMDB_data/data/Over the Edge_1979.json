@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Matt Dillon",
+            "url": "/name/nm0000369/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Eric Kramer",
+            "url": "/name/nm0469617/"
+        },
+        {
+            "@type": "Person",
+            "name": "Pamela Ludwig",
+            "url": "/name/nm0525041/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7420,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0001995/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles S. Haas",
+            "url": "/name/nm0351919/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tim Hunter",
+            "url": "/name/nm0006853/"
+        }
+    ],
+    "datePublished": "1979-07-07",
+    "description": "A group of bored teenagers rebel against authority in the community of New Granada after the death of one of their own.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jonathan Kaplan",
+            "url": "/name/nm0438279/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY2NTUwOTI2OF5BMl5BanBnXkFtZTgwMTE5MjMyMDE@._V1_.jpg",
+    "keywords": "teenager,small town,fire,vandalism,1970s",
+    "name": "Over the Edge",
+    "original_info": {
+        "id": "Over the Edge_1979",
+        "name": "Over the Edge",
+        "year": "1979"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "JeffG."
+        },
+        "dateCreated": "1999-08-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0079688/"
+        },
+        "name": "A teen movie that gets it right!",
+        "reviewBody": "I generally dislike teen movies. Mainly because they're so unrealistic, romanticized versions of high school and teen life. Usually featuring a bunch of stereotypes and some dumb, superficial plot. \"Over the Edge,\" hovever, is one of the few teen movies that actually gets it right.\n\nThe movie focuses on a bunch of teens living in the boring, lifeless town of New Granada. A place with with nothing to do. No mall, no movie theaters, not even a fast food place. Nothing to give them somewhere to go or something to do. The adults in the movie can't be bothered with them and are more interested in bringing people into New Granada and developing the town rather than meet the needs of the town's youth. This makes the teens restless and bored and they resort to drugs, guns and crime to keep them occupied. The also misbehave in school and frustrate their teachers.\n\nThe local authorities try setting up a curfew, holding meetings and assemblies, and even shut down the local recreation center which provided the teens the only place they can go for fun and social contact. All the while overlooking the real source of the problem. The local sherrif who occasionally harasses the kids (often unfairly) only adds to the problem. The frustration finally builds and builds until the movie's destructive climax.\n\nBased on a true incident, \"Over the Edge\" is a film which, unlike most teen movies, deals with more weighty topics than who's taking who to the prom. This is a much more realistic portrayal of teen life than \"Sixteen Candles\" or \"Can't Hardly Wait.\" While the movie brings its message across, it does so without comming across as preachy.\n\nI'm also amazed at how prophetic this movie ended up being, gieven the recent shootings at Littleton. The nation's media and politicians put the blame on the entertainment industry (movies, TV, videogames, etc.) and are overlooking the real cause of what happened. This is very much like the adults in \"Over the Edge.\" Closing down the rec center and setting up a curfew didn't make the problem go away because they had nothing to do with the cause of the problem. In fact, they just made things worse.\n\n\"Over the Edge\" is a well made and underrated film that sadly rings just as true now as it did in 1979. The next time someone tells you that \"The Breakfast Club\" is the greatest teen movie ever, show them this movie and set them straight.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M47S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3478043417",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTg2ZGI1NjYtZDMyZi00MWFmLWI2YmUtZGNiN2M3MWVlODQ3XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTg2ZGI1NjYtZDMyZi00MWFmLWI2YmUtZGNiN2M3MWVlODQ3XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+        "uploadDate": "2018-09-20T20:11:12.985Z",
+        "url": "https://www.imdb.com/video/vi3478043417/"
+    },
+    "url": "/title/tt0079688/"
+}

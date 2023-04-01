@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Lisa Brenner",
+            "url": "/name/nm0004773/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steven Brand",
+            "url": "/name/nm0104526/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kate Burton",
+            "url": "/name/nm0123632/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3895,
+        "ratingValue": 5.4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0043945/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0062120/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0069713/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen King",
+            "url": "/name/nm0000175/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ridley Pearson",
+            "url": "/name/nm1315467/"
+        }
+    ],
+    "datePublished": "2003-05-12",
+    "description": "The wife of an oil tycoon becomes engrossed in the sinister evil residing within her Seattle mansion home.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Craig R. Baxley",
+            "url": "/name/nm0062644/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Drama",
+        "Horror",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMWYwYTI1YTQtMTJlZS00NWFiLWIzYjQtN2EwNzQ1MTg0ZjBkXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_.jpg",
+    "keywords": "inspired by a true story,reference to sarah winchester,winchester house,reference to winchester house,ghost house",
+    "name": "The Diary of Ellen Rimbauer",
+    "original_info": {
+        "id": "The Diary of Ellen Rimbauer_2003",
+        "name": "The Diary of Ellen Rimbauer",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "claudio_carvalho"
+        },
+        "dateCreated": "2020-07-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0350811/"
+        },
+        "name": "A Huge Disappointment",
+        "reviewBody": "\"The Diary of Ellen Rimbauer\" is a prequel to the Mini-Series \"Rose Red\" (2002). The cinematography and the art direction are excellent, depicting Seattle in 1910 and a few years after. The cast is also great with good performances. However, the story is weak and disclosed in a very slow pace. The great mystery of the disappearances of women is never explained and there is no explanation about the evil entity that torments Ellen Rimbauer. In the end, \"The Diary of Ellen Rimbauer\" is a huge disappointment and never satisfies fans of horror, thriller, drama and romance genres. My vote is five.\n\nTitle (Brazil): \"O Diário de Ellen Rimbauer\" (\"The Diary of Ellen Rimbauer\")",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Lionsgate Home Entertainment",
+        "duration": "PT1M40S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2129723673",
+        "name": "The Diary of Ellen Rimbauer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzYyMzAxZWUtNDk2NS00YzEzLThkMzktZjJmMDhkNzU4YmNlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzYyMzAxZWUtNDk2NS00YzEzLThkMzktZjJmMDhkNzU4YmNlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:39:16Z",
+        "url": "https://www.imdb.com/video/vi2129723673/"
+    },
+    "url": "/title/tt0350811/"
+}

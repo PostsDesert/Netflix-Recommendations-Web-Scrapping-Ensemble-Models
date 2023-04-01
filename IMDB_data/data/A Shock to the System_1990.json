@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Michael Caine",
+            "url": "/name/nm0000323/"
+        },
+        {
+            "@type": "Person",
+            "name": "Elizabeth McGovern",
+            "url": "/name/nm0001527/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Riegert",
+            "url": "/name/nm0726200/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5415,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0011235/"
+        },
+        {
+            "@type": "Person",
+            "name": "Simon Brett",
+            "url": "/name/nm0107969/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrew Klavan",
+            "url": "/name/nm0458461/"
+        }
+    ],
+    "datePublished": "1990-03-23",
+    "description": "When electrocuted by the fuse box at home, Graham gets ideas concerning his nagging wife and the guy, who got Graham's promotion at the office.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jan Egleson",
+            "url": "/name/nm0251057/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYzhhYTJjMzUtMjFkOS00NmUzLWI4NjEtZmZlZDE1MzIyYmMwXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "advertising,new york city,murder,based on novel,city",
+    "name": "A Shock to the System",
+    "original_info": {
+        "id": "A Shock to the System_1990",
+        "name": "A Shock to the System",
+        "year": "1990"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "rupie"
+        },
+        "dateCreated": "2002-08-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0100602/"
+        },
+        "name": "good one",
+        "reviewBody": "Not much to add to the generally favorable reviews contained herein, except to wonder at the relative scarcity of this flick on tv. It's a puzzlement, considering its intelligence and high quality. Michael Caine reeks malevolence and malice as Graham Marshall, the cutthroat executive on the make. He really is one of the great actors of our day. Highly recommended.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from First Look",
+        "duration": "PT1M59S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3434348825",
+        "name": "A Shock To The System",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODc1Yzc3MzgtMDIwZS00OTY0LWE4MmYtMWIwMmU5OTc4ZjQ3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODc1Yzc3MzgtMDIwZS00OTY0LWE4MmYtMWIwMmU5OTc4ZjQ3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T07:47:52Z",
+        "url": "https://www.imdb.com/video/vi3434348825/"
+    },
+    "url": "/title/tt0100602/"
+}

@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sam Neill",
+            "url": "/name/nm0000554/"
+        },
+        {
+            "@type": "Person",
+            "name": "Laura Dern",
+            "url": "/name/nm0000368/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeff Goldblum",
+            "url": "/name/nm0000156/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1005390,
+        "ratingValue": 8.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0009119/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Crichton",
+            "url": "/name/nm0000341/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Koepp",
+            "url": "/name/nm0462895/"
+        }
+    ],
+    "datePublished": "1993-06-11",
+    "description": "A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Steven Spielberg",
+            "url": "/name/nm0000229/"
+        }
+    ],
+    "duration": "PT2H7M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg",
+    "keywords": "dinosaur,scientist,bipedal dinosaur,tyrannosaurus rex,sneeze",
+    "name": "Jurassic Park",
+    "original_info": {
+        "id": "Jurassic Park_1993",
+        "name": "Jurassic Park",
+        "year": "1993"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "sophiebrooks-75145"
+        },
+        "dateCreated": "2018-09-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0107290/"
+        },
+        "name": "Such a classic.",
+        "reviewBody": "This movie is definitely one to remember. Despite being filmed in the 90s, Jurassic Park continues to be a classic to this day. Watching the movie now highlights the contrast between the effects then and the special effects available now. This, along with some acting that is a tad overdone, are the only real critiques I would give this film. The child actors were especially hilarious to me-the young boy, Timmy, has moments that really capture a reaction that a child in real life would have (\"I threw up.\" \"Well that's ok! That happens sometimes\"-Allen-is one of my favorite quotes). Another extremely influential aspect of this film is the music that plays over certain intense scenes and the iconic theme music in the opening/closing. The music combined with the diegetic sound of the dinosaur stomping/approaching builds the suspense and creates an intense tension in the audience. As a classic worldwide, it's no wonder that this movie provided the basis for generations of movies to follow.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": " During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok. ",
+        "duration": "PT2M15S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi177055257",
+        "name": "3D Re-Release Version",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjE2NzI2MTg2Ml5BMl5BanBnXkFtZTgwMzc2MzIyMzE@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjE2NzI2MTg2Ml5BMl5BanBnXkFtZTgwMzc2MzIyMzE@._V1_.jpg",
+        "uploadDate": "2013-03-27T12:42:02Z",
+        "url": "https://www.imdb.com/video/vi177055257/"
+    },
+    "url": "/title/tt0107290/"
+}

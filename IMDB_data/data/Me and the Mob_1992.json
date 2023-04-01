@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Thomas Mann",
+            "url": "/name/nm3287038/"
+        },
+        {
+            "@type": "Person",
+            "name": "RJ Cyler",
+            "url": "/name/nm5518972/"
+        },
+        {
+            "@type": "Person",
+            "name": "Olivia Cooke",
+            "url": "/name/nm4972453/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 134064,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0215519/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0453927/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0028932/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jesse Andrews",
+            "url": "/name/nm5428959/"
+        }
+    ],
+    "datePublished": "2015-07-01",
+    "description": "High schooler Greg, who spends most of his time making parodies of classic movies with his co-worker Earl, finds his outlook forever altered after befriending a classmate who has just been diagnosed with cancer.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Alfonso Gomez-Rejon",
+            "url": "/name/nm0004234/"
+        }
+    ],
+    "duration": "PT1H45M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTA1NzUzNjY4MV5BMl5BanBnXkFtZTgwNDU0MDI0NTE@._V1_.jpg",
+    "keywords": "terminal illness,leukemia,teenage boy,death,aspiring filmmaker",
+    "name": "Me and Earl and the Dying Girl",
+    "original_info": {
+        "id": "Me and the Mob_1992",
+        "name": "Me and the Mob",
+        "year": "1992"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ross-bob"
+        },
+        "dateCreated": "2015-07-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt2582496/"
+        },
+        "name": "An indie well worth seeing",
+        "reviewBody": "I saw it three times. Yes,it was painful because we were all that kid -- geek, awkward, nowhere with girls.\n\nThe movie is honest, funny, and I will see Olivia Cooke's unreal face in front of me for months. (And she did shave her head; I wondered about that.) R.J. Cyler gave perfect balance to the lead actor's awkward role.\n\nThe best thing about this movie is the writing; it crackles at times with insight into the outsider's life.\n\nI am much aggrieved that it only earned four million at the box office nationally. It's worth a lot more.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Greg is a high school senior who avoids deep human relationships as a way to safely navigate the social mine field that is teenage life. In fact he describes his best friend Earl, with whom he makes short-film parodies of classic movies, as being 'more like a co-worker'. But when Greg's mum insists he spends time with Rachel -- a girl in his class who has just been diagnosed with cancer -- Greg discovers just how powerful and important true friendship can be.",
+        "duration": "PT2M27S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1340911641",
+        "name": "Trailer #2",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjE3MzEzNTUxOF5BMl5BanBnXkFtZTgwNTU1MzY3NTE@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjE3MzEzNTUxOF5BMl5BanBnXkFtZTgwNTU1MzY3NTE@._V1_.jpg",
+        "uploadDate": "2015-05-22T06:25:59Z",
+        "url": "https://www.imdb.com/video/vi1340911641/"
+    },
+    "url": "/title/tt2582496/"
+}

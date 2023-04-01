@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Stephen Fry",
+            "url": "/name/nm0000410/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jude Law",
+            "url": "/name/nm0000179/"
+        },
+        {
+            "@type": "Person",
+            "name": "Vanessa Redgrave",
+            "url": "/name/nm0000603/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 17515,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0182558/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0062537/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0055105/"
+        },
+        {
+            "@type": "Person",
+            "name": "Julian Mitchell",
+            "url": "/name/nm0593483/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Ellmann",
+            "url": "/name/nm0255264/"
+        }
+    ],
+    "datePublished": "1998-05-01",
+    "description": "The turmoil in poet/playwright Oscar Wilde's life after he discovers his homosexuality.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Brian Gilbert",
+            "url": "/name/nm0317981/"
+        }
+    ],
+    "duration": "PT1H58M",
+    "genre": [
+        "Biography",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZGRjYWM5YmQtZDBlNC00ZWNjLThkMDMtYWIzZGQwYjA2ZDQ5XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",
+    "keywords": "gay protagonist,hypocrisy,scandal,male pubic hair,male nudity",
+    "name": "Wilde",
+    "original_info": {
+        "id": "Wilde_1997",
+        "name": "Wilde",
+        "year": "1997"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ts_eh"
+        },
+        "dateCreated": "2002-07-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120514/"
+        },
+        "name": "Delicate and crushing",
+        "reviewBody": "The acting in this film was superb. As had many viewers--I suspect-- I had only seen Stephen Fry in the Blackadder and Wodehouse series. How delightful to find another actor intelligent and flexible enough to range from Melchett to Oscar Wilde! One cannot help but watch his face very carefully, waiting to see the mask slip. He seems strangely delicate in his huge, crushing frame...A nice follow-up movie to Velvet Goldmine, especially once you know that some of the dialogue from the latter was lifted from the works of Oscar Wilde."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT1M44S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3672292121",
+        "name": "Wilde",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODM3ZTY4OTUtYWFkNS00NWIzLTlkMzYtNGE4OWRlZDYxZjQxXkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODM3ZTY4OTUtYWFkNS00NWIzLTlkMzYtNGE4OWRlZDYxZjQxXkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg",
+        "uploadDate": "2018-06-28T17:17:57.003Z",
+        "url": "https://www.imdb.com/video/vi3672292121/"
+    },
+    "url": "/title/tt0120514/"
+}

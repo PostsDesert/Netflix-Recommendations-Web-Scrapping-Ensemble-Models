@@ -1,0 +1,83 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Helen Steel",
+            "url": "/name/nm1668861/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dave Morris",
+            "url": "/name/nm1668596/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bruce Alexander",
+            "url": "/name/nm0018297/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2132,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0131176/"
+        }
+    ],
+    "datePublished": "2005-05-20",
+    "description": "McLibel is the story of two ordinary people who humiliated McDonald's in the biggest corporate PR disaster in history.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ken Loach",
+            "url": "/name/nm0516360/"
+        },
+        {
+            "@type": "Person",
+            "name": "Franny Armstrong",
+            "url": "/name/nm1671943/"
+        }
+    ],
+    "duration": "PT1H25M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg4MzgxNDQ3NF5BMl5BanBnXkFtZTcwNjY5NjAzMQ@@._V1_.jpg",
+    "keywords": "capitalism,brainwashing,legal case,advertisement,court case",
+    "name": "McLibel",
+    "original_info": {
+        "id": "McLibel_2005",
+        "name": "McLibel",
+        "year": "2005"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "JoeB131"
+        },
+        "dateCreated": "2009-01-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0458425/"
+        },
+        "name": "Enjoyable compared to other documentaries",
+        "reviewBody": "This movie was fun compared to other documentaries. I think it did a very good job of humanizing its protagonists, who were a couple of grassroots organizers who took on a huge corporation, and won.\n\nBritish Libel law is used by big corporations and individuals to do things they would never be allowed to get away with anywhere else - actually sue people for stating their opinions. The plaintiffs actually had to prove that fast food is bad for us, which is kind of like having to prove the sky is blue...\n\nMcDonald's is like a drug pusher, and we the public are like junkies. Let's be honest, we'd all be better off if we lived a vegan lifestyle, and would have less impact on the planet, but where would the fun in that be? Like Mephistopheles, McDonald's and their ilk give us what we want, and we hate them for it. But let's point out the devil is still a devil, even if we give in to his temptations.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0458425/"
+}

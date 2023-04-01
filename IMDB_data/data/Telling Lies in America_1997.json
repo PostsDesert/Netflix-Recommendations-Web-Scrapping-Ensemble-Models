@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kevin Bacon",
+            "url": "/name/nm0000102/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brad Renfro",
+            "url": "/name/nm0000605/"
+        },
+        {
+            "@type": "Person",
+            "name": "Maximilian Schell",
+            "url": "/name/nm0001703/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2334,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0070311/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0004967/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0008576/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joe Eszterhas",
+            "url": "/name/nm0000390/"
+        }
+    ],
+    "datePublished": "1997-10-15",
+    "description": "A loner befriends a local celebrity, Billy Magic, but he soon begins to tell lies in order to maintain the friendship and the newfound status.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Guy Ferland",
+            "url": "/name/nm0272704/"
+        }
+    ],
+    "duration": "PT1H41M",
+    "genre": [
+        "Drama",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzE3NTUxMzItNmNhYy00MzQ3LWE5ODUtY2RhYzJmMjgzODgyXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "timeframe 1960s,radio,money,hall of fame,1960s",
+    "name": "Telling Lies in America",
+    "original_info": {
+        "id": "Telling Lies in America_1997",
+        "name": "Telling Lies in America",
+        "year": "1997"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "williamecook"
+        },
+        "dateCreated": "2001-11-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120303/"
+        },
+        "name": "Under-promoted Gem",
+        "reviewBody": "Yes, the movie deals tangentially with the payola scandals of the 50's (truly a big problem in the entertainment industry), but only as one of the many lies hinted at in the title.\n\nThe two main characters (Renfro and Bacon) do *nothing* but lie. They are balanced by the purity of the other characters (Flockhart and Schell).\n\nSchell's character was a little underwhelming and the work by Renfro was, at times, uneven, but both were generally excellent. My only other quibble was with the settings of the film. As a Clevelander (where the story takes place and the film was shot), it's easy to understand the where the scenes took place and how the story was built around them, but I'm not sure that an \"outsider\" would understand the implications to the story of those different locations (the neighborhoods, the market, etc.).\n\nThe real find is Calista Flockhart. She gives a wonderfully nuanced performance, sweeter and deeper than anything you'll see on Ally McBeal. Interestingly, Flockhart spent time working on stage at the Cleveland Playhouse, so was well-suited for the role in a way.\n\nJoe Eszterhas is not exactly known for his subtlety, but this movie is a small triumph for him and portends better things from his pen in the future."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Banner Entertainment",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3314352409",
+        "name": "Telling Lies in America",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOWFiNjhmNjktZDJlNS00OWVlLWI5MzMtYWMwNmQxOTczZGM2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOWFiNjhmNjktZDJlNS00OWVlLWI5MzMtYWMwNmQxOTczZGM2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:26:48Z",
+        "url": "https://www.imdb.com/video/vi3314352409/"
+    },
+    "url": "/title/tt0120303/"
+}

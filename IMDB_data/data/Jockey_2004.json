@@ -1,0 +1,58 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 84,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0037614/"
+        }
+    ],
+    "datePublished": "2004-04-02",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Kate Davis",
+            "url": "/name/nm0204934/"
+        }
+    ],
+    "duration": "PT1H25M",
+    "genre": [
+        "Documentary"
+    ],
+    "keywords": "title directed by female",
+    "name": "Jockey",
+    "original_info": {
+        "id": "Jockey_2004",
+        "name": "Jockey",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jazzest"
+        },
+        "dateCreated": "2004-05-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0390144/"
+        },
+        "name": "Decent Documentary to Reveal the Inside of Horse Racing",
+        "reviewBody": "This decently made HBO documentary reveals the inside of one of the most popular and profitable sports in the US: Horse Racing. It covers the terrible labor conditions that riders have to suffer, including the weight control that forces them to keep \"heaving,\" and the power structure that the management and horse owners exploit the jocks, who can't negotiate on collective bargaining without a union.\n\nBecause the documentary exclusively focuses on the issues directly related to the sports, it may not gain the mass appeal as Hoop Dreams, whose argument expands to sociopolitical concerns, has done. But it will fulfill its goal, to trigger the insiders' and fans' awareness, and hopefully will bring the entire sports environment to next stage.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0390144/"
+}

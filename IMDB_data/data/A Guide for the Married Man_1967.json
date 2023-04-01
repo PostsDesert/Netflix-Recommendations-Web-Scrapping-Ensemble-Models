@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Walter Matthau",
+            "url": "/name/nm0000527/"
+        },
+        {
+            "@type": "Person",
+            "name": "Inger Stevens",
+            "url": "/name/nm0828447/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sue Ane Langdon",
+            "url": "/name/nm0486057/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2778,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frank Tarloff",
+            "url": "/name/nm0850514/"
+        }
+    ],
+    "datePublished": "1967-05-25",
+    "description": "A man gives his friend a series of lessons on how to cheat on his wife without being caught.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Gene Kelly",
+            "url": "/name/nm0000037/"
+        }
+    ],
+    "duration": "PT1H29M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZDcyNzNmZjktYTM3ZC00ZWQ2LWFmODctNTA3OGEzNmM4YzhjXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "keywords": "infidelity,philanderer,marriage,husband wife relationship,unfaithfulness",
+    "name": "A Guide for the Married Man",
+    "original_info": {
+        "id": "A Guide for the Married Man_1967",
+        "name": "A Guide for the Married Man",
+        "year": "1967"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "rupie"
+        },
+        "dateCreated": "2000-09-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0061736/"
+        },
+        "name": "excellent sex farce",
+        "reviewBody": "This entertaining bit of froth stands up well, as Robert Morse, the neighborhood Lothario, attempts to instruct Walter Matthau in the How-To's of philandery (why he should be interested in philandery when he is married to the incredibly built Inger Stevens is an unexplained mystery). Of course the many delicious cameos by such as Phil Silvers, Sid Caesar, Jack Benny, Joey Bishop, et. al. keep the film bouncing merrily along. Well worth a see.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M43S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1797505049",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNmQxNDExZWItYjJiZS00ODlmLWFkYjQtYTUwYmQ0NjVjNjJlXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNmQxNDExZWItYjJiZS00ODlmLWFkYjQtYTUwYmQ0NjVjNjJlXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-06-11T21:04:42.215Z",
+        "url": "https://www.imdb.com/video/vi1797505049/"
+    },
+    "url": "/title/tt0061736/"
+}

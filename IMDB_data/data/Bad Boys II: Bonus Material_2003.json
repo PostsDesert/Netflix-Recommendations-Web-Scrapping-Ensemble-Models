@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Will Smith",
+            "url": "/name/nm0000226/"
+        },
+        {
+            "@type": "Person",
+            "name": "Martin Lawrence",
+            "url": "/name/nm0001454/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gabrielle Union",
+            "url": "/name/nm0005517/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 256614,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0102770/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Gallo",
+            "url": "/name/nm0303032/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marianne Wibberley",
+            "url": "/name/nm0926729/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cormac Wibberley",
+            "url": "/name/nm0926727/"
+        }
+    ],
+    "datePublished": "2003-07-18",
+    "description": "Two loose-cannon narcotics cops investigate the flow of Ecstasy into Florida from a Cuban drug cartel.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Bay",
+            "url": "/name/nm0000881/"
+        }
+    ],
+    "duration": "PT2H27M",
+    "genre": [
+        "Action",
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZmU4NzVkZjEtZmQxMi00ZDY5LWI3ZDYtMWRmZjE5YmYwZjQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "cuba,police,miami florida,sequel,anti hero",
+    "name": "Bad Boys II",
+    "original_info": {
+        "id": "Bad Boys II: Bonus Material_2003",
+        "name": "Bad Boys II: Bonus Material",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "MrHeraclius"
+        },
+        "dateCreated": "2020-02-22",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0172156/"
+        },
+        "name": "Good film I enjoyed!",
+        "reviewBody": "Bad Boys II doesn't reinvent the wheel, it just makes it bigger, faster, and more attractive. The film is little more than a collection of high intensity action scenes with a tons of irreverent humor and mild characterization tossed in between. It's slick, high energy fun and a huge success for what it is and wants to be, which is, essentially, the quintessential Michael Bay experience."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Tristar",
+        "duration": "PT2M31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2360869145",
+        "name": "Bad Boys 2",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjEzY2QyYzItZjBmYS00MzgzLTllYmEtNzZhYjEwNGRlNjljXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjEzY2QyYzItZjBmYS00MzgzLTllYmEtNzZhYjEwNGRlNjljXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:19:15Z",
+        "url": "https://www.imdb.com/video/vi2360869145/"
+    },
+    "url": "/title/tt0172156/"
+}

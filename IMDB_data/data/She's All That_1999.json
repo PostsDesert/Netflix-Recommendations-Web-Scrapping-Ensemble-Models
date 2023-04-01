@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Freddie Prinze Jr.",
+            "url": "/name/nm0005327/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rachael Leigh Cook",
+            "url": "/name/nm0000337/"
+        },
+        {
+            "@type": "Person",
+            "name": "Matthew Lillard",
+            "url": "/name/nm0000498/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 98792,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0022594/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0018522/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0159642/"
+        },
+        {
+            "@type": "Person",
+            "name": "R. Lee Fleming Jr.",
+            "url": "/name/nm0281592/"
+        }
+    ],
+    "datePublished": "1999-01-29",
+    "description": "A high school jock makes a bet that he can turn an unattractive girl into the school's prom queen.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Iscove",
+            "url": "/name/nm0410769/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BY2Y0N2YyOTQtMGNiYy00ZDViLTgxYmItODkxNzlkMWVjNTFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "high school,prom,prom queen,single father,teenage boy",
+    "name": "She's All That",
+    "original_info": {
+        "id": "She's All That_1999",
+        "name": "She's All That",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "series_of_moments"
+        },
+        "dateCreated": "2005-01-05",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0160862/"
+        },
+        "name": "It had its moments, nothing spectacular.",
+        "reviewBody": "I'd actually recommend seeing it if you don't feel like a heavy movie and just want to watch something fun. The movie is 'another teen movie\" but does have some unique aspects to it, some pretty funny quotes (\"what is this, the dork outreach program?\")and moments, but unfortunately, a lot of that average teen movie drama and a few overly two-dimensional characters (Zach's friends and girlfriend). Cool dance scene though, and Freddie Prinze Jr. is bearable Rachel Leigh Cook is likable (I personally thought she was pretty good in it) and notably talented actors like Kevin Pollak, Kieran Culkin, and Anna Paquin give the movie some supporting foundation. Not a bad movie, not a great movie, just simply what it is:'another teen movie'.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for She's All That",
+        "duration": "PT1M47S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi679323161",
+        "name": "She's All That",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZmZiYjg3ODQtZmM0YS00M2MyLTgwZmMtZTFkMTA1NDlhNmUwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZmZiYjg3ODQtZmM0YS00M2MyLTgwZmMtZTFkMTA1NDlhNmUwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2013-05-31T04:27:46Z",
+        "url": "https://www.imdb.com/video/vi679323161/"
+    },
+    "url": "/title/tt0160862/"
+}

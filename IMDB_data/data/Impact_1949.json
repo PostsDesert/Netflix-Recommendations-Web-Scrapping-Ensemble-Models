@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Brian Donlevy",
+            "url": "/name/nm0002046/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ella Raines",
+            "url": "/name/nm0707048/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Coburn",
+            "url": "/name/nm0002013/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4193,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0291555/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dorothy Davenport",
+            "url": "/name/nm0202590/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jay Dratler",
+            "url": "/name/nm0237225/"
+        }
+    ],
+    "datePublished": "1949-04-01",
+    "description": "A unfaithful wife plots with her lover to kill her husband, but the lover is accidentally killed instead. The husband stays in hiding and lets his wife be charged with conspiracy.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Arthur Lubin",
+            "url": "/name/nm0523893/"
+        }
+    ],
+    "duration": "PT1H51M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Film-Noir"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BN2QyMzg1MDItYWY5Mi00ZTZmLWJhYmEtZmRlYzU1ZDBmYTk2XkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
+    "keywords": "small town,concussion,corporation,prayer,female mechanic",
+    "name": "Impact",
+    "original_info": {
+        "id": "Impact_1949",
+        "name": "Impact",
+        "year": "1949"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dbdumonteil"
+        },
+        "dateCreated": "2002-10-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0041503/"
+        },
+        "name": "Film noir meets Frank Capra.",
+        "reviewBody": "Although the final third gets in the way and is finally disappointing,it does not keep \"impact\" from being absorbing and entertaining.One of the rare film noirs -maybe the only one - which takes a look on the brighter side of the road:sandwiched between two very dark parts,the second one has Capra accents:the country town is some Shangri-la where time stood still ,with its very nice people ,the girl who owns a garage but of course does not know anything about mechanics(woman's lib supporters will cringe),the young father proud of his new-born son ,the Sunday service,the old lady cooking tasty little dishes.All of this is unusual in a film noir.Some might say that \"shadow of a doubt\"(1942) had already that ,but evil could enter this world,as the heroine 's uncle came to town.Here,the evil is elsewhere ,in San Francisco.Only in San Francisco.Or on the dark road where anything can happen:first part is effective,and shows some \"Postman always rings twice\" (1946) influence."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M46S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3884826905",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjU5MmYwMTMtYzYyMi00MTQ1LWI2OWMtMTA4ZjZjMWNiMjg5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjU5MmYwMTMtYzYyMi00MTQ1LWI2OWMtMTA4ZjZjMWNiMjg5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-10-12T16:46:43.353Z",
+        "url": "https://www.imdb.com/video/vi3884826905/"
+    },
+    "url": "/title/tt0041503/"
+}

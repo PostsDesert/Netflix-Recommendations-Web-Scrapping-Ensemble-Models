@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Rita Hayworth",
+            "url": "/name/nm0000028/"
+        },
+        {
+            "@type": "Person",
+            "name": "Deborah Kerr",
+            "url": "/name/nm0000039/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Niven",
+            "url": "/name/nm0000057/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 8108,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0083880/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0017534/"
+        },
+        {
+            "@type": "Person",
+            "name": "Terence Rattigan",
+            "url": "/name/nm0711905/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Gay",
+            "url": "/name/nm0310775/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Michael Hayes",
+            "url": "/name/nm0371088/"
+        }
+    ],
+    "datePublished": "1959-02-11",
+    "description": "The stories of several people are told as they stay at a seaside hotel in Bournemouth which features dining at \"Separate Tables.\"",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Delbert Mann",
+            "url": "/name/nm0542720/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjEyMzUwNzY0OV5BMl5BanBnXkFtZTcwNDcyMTM4NA@@._V1_.jpg",
+    "keywords": "reference to horace,reference to aristotle,snobbishness,seaside resort,screenplay adapted by author",
+    "name": "Separate Tables",
+    "original_info": {
+        "id": "Separate Tables_1958",
+        "name": "Separate Tables",
+        "year": "1958"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "deexsocalygal"
+        },
+        "dateCreated": "2020-08-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0052182/"
+        },
+        "name": "This is now my favorite movie",
+        "reviewBody": "It's 2020 I'm 59 & I just finished watching this for the first time. I immediately had to watch it over again it was so good. This is one of those movies that you'll want to see over & over. The acting was superb. I was so touched by the personalities dynamics of every single character in this film. My favorite genre is drama & I prefer black and white so this was right up my alley. At the end I held my breath & when The End came up on the screen I started crying. I had to watch the whole thing a second time & I will be purchasing the DVD for sure. There wasn't a boring moment and the ending was the best part. I wish there was a sequel! I would of loved to of seen the Major and the shy gal get together slowly as they talk and share moments at the hotel. It would have made a great romance!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for this film based on the stage play",
+        "duration": "PT2M40S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3916301593",
+        "name": "Separate Tables",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDlhYzVjNjItODQ1Zi00OWEzLTg3M2QtMGY1MGNjODYwZjk5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDlhYzVjNjItODQ1Zi00OWEzLTg3M2QtMGY1MGNjODYwZjk5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-11-12T06:31:32Z",
+        "url": "https://www.imdb.com/video/vi3916301593/"
+    },
+    "url": "/title/tt0052182/"
+}

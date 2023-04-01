@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "James Avery",
+            "url": "/name/nm0043041/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sara Ballantine",
+            "url": "/name/nm0050547/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Beard",
+            "url": "/name/nm0063906/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 94,
+        "ratingValue": 8.5,
+        "worstRating": 1
+    },
+    "alternateName": "Spider-Man Venom Saga",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0051941/"
+        },
+        {
+            "@type": "Person",
+            "name": "Avi Arad",
+            "url": "/name/nm0032696/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stan Berkowitz",
+            "url": "/name/nm0075487/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve Ditko",
+            "url": "/name/nm0228492/"
+        }
+    ],
+    "datePublished": "2005-06-05",
+    "description": "A story arc from the 1994 animated series Spider-Man that focused on Venom.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bob Richardson",
+            "url": "/name/nm0724436/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Animation"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZWEwMjgxMGMtNzc0NS00ZTc5LTliZTctODg1N2VhMmY0NTE2XkEyXkFqcGdeQXVyMTE5NTE1OTY4._V1_.jpg",
+    "name": "Spider-Man: The Venom Saga",
+    "original_info": {
+        "id": "Spider-Man: The Venom Saga_2005",
+        "name": "Spider-Man: The Venom Saga",
+        "year": "2005"
+    },
+    "url": "/title/tt13154232/"
+}

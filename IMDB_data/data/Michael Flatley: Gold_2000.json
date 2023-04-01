@@ -1,0 +1,57 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Michael Flatley",
+            "url": "/name/nm0004924/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 62,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "description": "The story on how legendary Irish dancer Michael Flatley started out as a soloist and became the world's most favorite dancer.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David Mallet",
+            "url": "/name/nm0539950/"
+        }
+    ],
+    "duration": "PT2H11M",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkxMjQ0NDA1OV5BMl5BanBnXkFtZTcwMDI5NjAyMQ@@._V1_.jpg",
+    "keywords": "character name in title",
+    "name": "Michael Flatley - Gold: A Celebration of Michael Flatley",
+    "original_info": {
+        "id": "Michael Flatley: Gold_2000",
+        "name": "Michael Flatley: Gold",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "lololsn"
+        },
+        "dateCreated": "2002-03-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0285719/"
+        },
+        "name": "Worth watching even if you're not a fan.",
+        "reviewBody": "I've never seen Riverdance. I've never seen the Lord of the Dance. I had only heard of Michael Flatley, but knew nothing about him or his work. I enjoyed the movie despite all this. Worth watching if you like dance of any kind.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0285719/"
+}

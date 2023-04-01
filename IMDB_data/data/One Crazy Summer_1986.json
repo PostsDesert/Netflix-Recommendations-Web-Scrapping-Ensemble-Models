@@ -1,0 +1,92 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Cusack",
+            "url": "/name/nm0000131/"
+        },
+        {
+            "@type": "Person",
+            "name": "Demi Moore",
+            "url": "/name/nm0000193/"
+        },
+        {
+            "@type": "Person",
+            "name": "Linda Warren",
+            "url": "/name/nm1721070/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 15884,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0062005/"
+        },
+        {
+            "@type": "Person",
+            "name": "Savage Steve Holland",
+            "url": "/name/nm0390822/"
+        }
+    ],
+    "datePublished": "1986-08-08",
+    "description": "An aspiring teenage cartoonist and his friends come to the aid of a singer trying to save her family property from developers.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Savage Steve Holland",
+            "url": "/name/nm0390822/"
+        }
+    ],
+    "duration": "PT1H33M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMGNjN2ZmM2UtZjQzMS00NmM1LWJkZjUtMzg5Njc5OWQwODEyL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "summer,basketball,motorcycle gang,bikini,vacation",
+    "name": "One Crazy Summer",
+    "original_info": {
+        "id": "One Crazy Summer_1986",
+        "name": "One Crazy Summer",
+        "year": "1986"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "brwntide"
+        },
+        "dateCreated": "1998-10-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0091680/"
+        },
+        "name": "Hoop's crazy summer adventure",
+        "reviewBody": "I love this movie. Why you ask, it's because this movie has a very basic storyline: guy finds girl, guy disses girl, guy wins boat race so she can buy back her home, girl and guy find romance. Bobcat Goldwaith steals this show. Rare that I can say that, but his Godzilla impression really magnifies the wild humor to fantastic movie. Rent it now."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Extra (Clip) from Warner Home Video",
+        "duration": "PT1M15S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3013214489",
+        "name": "One Crazy Summer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjZjODc2ZDYtYzlhZi00NTRkLWFlNDMtNGRmMjY5YTRjYzBlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjZjODc2ZDYtYzlhZi00NTRkLWFlNDMtNGRmMjY5YTRjYzBlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:19:01Z",
+        "url": "https://www.imdb.com/video/vi3013214489/"
+    },
+    "url": "/title/tt0091680/"
+}

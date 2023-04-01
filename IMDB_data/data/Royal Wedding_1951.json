@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Fred Astaire",
+            "url": "/name/nm0000001/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jane Powell",
+            "url": "/name/nm0007225/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Lawford",
+            "url": "/name/nm0492444/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5723,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007143/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alan Jay Lerner",
+            "url": "/name/nm0503585/"
+        }
+    ],
+    "datePublished": "1951-03-23",
+    "description": "A brother and sister dance act encounter challenges and romance when booked in London during the Royal Wedding.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Stanley Donen",
+            "url": "/name/nm0002045/"
+        }
+    ],
+    "duration": "PT1H33M",
+    "genre": [
+        "Comedy",
+        "Music",
+        "Musical"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BY2FlZmMyMjktOTAzYy00ZmYzLWJhNjMtMjljOWY1ZjVhZjM3XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
+    "keywords": "sitting on a throne,feather duster,crown,stage show,applause",
+    "name": "Royal Wedding",
+    "original_info": {
+        "id": "Royal Wedding_1951",
+        "name": "Royal Wedding",
+        "year": "1951"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "tfrizzell"
+        },
+        "dateCreated": "2003-10-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0043983/"
+        },
+        "name": "More Fun Than Any Wedding I Have Ever Been To.",
+        "reviewBody": "After their act is broken up in New York, a brother/sister tap dance team (Fred Astaire and Jane Powell) travel to England and immediately fall in love with new acquaintances. Powell goes after royalty in the form of Peter Lawford and Astaire sets his eyes on Sarah Churchill. Which will win out in the end, their old dance routine or their new romantic interests? Pure Hollywood fluff here, but enjoyable for the time period nonetheless. One of the more under-rated musicals of the early-1950s. Astaire, getting up in years here, still shows amazing athleticism through the dance sequences. Not a bad time passer. 4 stars out of 5."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Watch the trailer for the musical Royal Wedding, starring Fred Astaire and Jane Powell. ",
+        "duration": "PT2M42S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1457823001",
+        "name": "Royal Wedding: Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTcyNTc0NzE4NV5BMl5BanBnXkFtZTgwNzQzNTcyMzE@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTcyNTc0NzE4NV5BMl5BanBnXkFtZTgwNzQzNTcyMzE@._V1_.jpg",
+        "uploadDate": "2011-03-31T13:27:51Z",
+        "url": "https://www.imdb.com/video/vi1457823001/"
+    },
+    "url": "/title/tt0043983/"
+}

@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "D.B. Sweeney",
+            "url": "/name/nm0000665/"
+        },
+        {
+            "@type": "Person",
+            "name": "Diane Farr",
+            "url": "/name/nm0268007/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chad Donella",
+            "url": "/name/nm0232414/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 386,
+        "ratingValue": 5.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0037052/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0030178/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0017013/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Preston Jr.",
+            "url": "/name/nm0696376/"
+        },
+        {
+            "@type": "Person",
+            "name": "Douglas Preston",
+            "url": "/name/nm0696409/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Vickerman",
+            "url": "/name/nm0895995/"
+        }
+    ],
+    "datePublished": "2002-04-20",
+    "description": "A firefighter pilot blames himself for the death of his previous colleagues and gets a new assignment with a raging forest fire in Portland, Oregon, that has the whole city in jeopardy.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Steven Quale",
+            "url": "/name/nm0702797/"
+        }
+    ],
+    "duration": "PT3H30M",
+    "genre": [
+        "Action",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTIyNzgzNDE0NF5BMl5BanBnXkFtZTcwOTc2NzE3MQ@@._V1_.jpg",
+    "keywords": "portland oregon,oregon,forest fire,race against time",
+    "name": "Superfire",
+    "original_info": {
+        "id": "SuperFire_2002",
+        "name": "SuperFire",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "mightyjak"
+        },
+        "dateCreated": "2008-05-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0303110/"
+        },
+        "name": "More awful than awful",
+        "reviewBody": "If there was any way to rate this with negative numbers, I would. I can't even begin to describe the awful depths to which this movie descends. I am constantly amazed at the utter schlock created by people who actually get paid. I can only hope anyone involved in this movie is blacklisted forever.\n\nThe magnitude of sheer ignorance in making this film is astounding and inexcusable. It's not like there aren't people who do this for a living every day who could advise as to how fire is actually fought. This is an embarrassment to my profession and to others who fight fire. Damn you all for making such a terrible movie.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 1,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0303110/"
+}

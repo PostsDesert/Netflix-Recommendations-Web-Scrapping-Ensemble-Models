@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "William Shatner",
+            "url": "/name/nm0000638/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harry Hamlin",
+            "url": "/name/nm0002122/"
+        },
+        {
+            "@type": "Person",
+            "name": "Scott Rinker",
+            "url": "/name/nm0727692/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 259,
+        "ratingValue": 5,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0074499/"
+        },
+        {
+            "@type": "Person",
+            "name": "J. Randall Argue",
+            "url": "/name/nm0034544/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve Catanzaro",
+            "url": "/name/nm2438317/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alistair Salton",
+            "url": "/name/nm2439203/"
+        }
+    ],
+    "datePublished": "2002-01-25",
+    "description": "An escaped mental patient holds a film crew hostage and forces them to film his screenplay.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "J. Randall Argue",
+            "url": "/name/nm0034544/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUwNDUzNTYwNl5BMl5BanBnXkFtZTcwMjQwNTUyMQ@@._V1_.jpg",
+    "keywords": "bare chested male,hairy chest,long haired male,movie director,writing a screenplay",
+    "name": "Shoot or Be Shot",
+    "original_info": {
+        "id": "Shoot or Be Shot_2002",
+        "name": "Shoot or Be Shot",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Lechuguilla"
+        },
+        "dateCreated": "2009-10-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0253688/"
+        },
+        "name": "Creative Writers As Psychopaths?",
+        "reviewBody": "Some of the secondary actors try, really hard. And camera shots in the desert are quite lovely. Otherwise, this film is horrible.\n\nWilliam Shatner's character, Harvey, is an amateur screenwriter. He's also a psychopath, a man who quite literally escapes from a mental institution. Is the point of this film that amateur screenwriters are psychopaths? Harvey will do anything to get his script read and turned into a movie, even if that means taking a film crew hostage. Do amateur screenwriters ... grovel? Maybe they do.\n\nThe film's setup is way too long. We don't get to the point of the story until well into the second half. The first half darts and flits among assorted characters.\n\n\"Shoot Or Be Shot\" is touted as a comedy, but I found it totally not funny. Dialogue contains no subtext. None of the characters are believable as real people. They're all stick figures that perform \"action\" in a way that resembles cartoon characters. Indeed, the film is basically a cartoon for adults: silly, inane, birdbrained.\n\nI can understand why some actors are in this film. They need the money or the exposure. But what are insiders Shatner and Harry Hamlin doing here? Maybe Shatner wants more comedy roles. Is this the best he can do? Is Hamlin that desperate for money? He used to be a respected actor. What happened?\n\nEven though the story is supposed to be a satire, it comes across more as a put-down of amateur screenwriters. Maybe that wasn't the intent. But that's certainly how the film can be interpreted. As such, the script was very, very poorly written.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 3,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT1M15S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3246522649",
+        "name": "Shoot or Be Shot",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BN2M1NTFjMzgtMjQzNy00ZDJiLWIyZmItYmYzN2IxNjY2MjBjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BN2M1NTFjMzgtMjQzNy00ZDJiLWIyZmItYmYzN2IxNjY2MjBjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:49:32Z",
+        "url": "https://www.imdb.com/video/vi3246522649/"
+    },
+    "url": "/title/tt0253688/"
+}

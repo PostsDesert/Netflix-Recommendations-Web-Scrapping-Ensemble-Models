@@ -1,0 +1,77 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Maksim Emelyanov",
+            "url": "/name/nm1748219/"
+        },
+        {
+            "@type": "Person",
+            "name": "Aleksey Guskov",
+            "url": "/name/nm0348888/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mikhail Porechenkov",
+            "url": "/name/nm0691717/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 84,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Person",
+            "name": "Igor Muzhzhukhin",
+            "url": "/name/nm0610619/"
+        }
+    ],
+    "description": "A well intentioned boy's mischief gets him in plenty of trouble but makes him some interesting friends too.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Igor Muzhzhukhin",
+            "url": "/name/nm0610619/"
+        }
+    ],
+    "duration": "PT1H36M",
+    "genre": [
+        "Comedy",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNWJjMDliZTktN2RkMi00MjMwLTgyZDQtMjhiOTlhZGQyMjIxXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg",
+    "name": "Vovochka",
+    "original_info": {
+        "id": "Vovochka_2002",
+        "name": "Vovochka",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dr_midnight32"
+        },
+        "dateCreated": "2007-10-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0430748/"
+        },
+        "name": "Nowhere near Home Alone",
+        "reviewBody": "Supposedly there have been a lot of comparisons drawn between this movie and Home Alone, but beyond the lead character being a boy, I really don't see it. A snapshot of life and the Dennis the Menace type situations that this young boy falls into or creates himself is not what you expect. Almost flippant at the beginning and then gaining a conscience at the end, the character of Vovochika shows many of his sides and entertains well. The parents are believable and likable even through their punishments and frustrations. The love interest and class divide were interesting to watch play out. Overall, an enjoyable experience that those looking to take a look at other cultures could watch and appreciate all the way through.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0430748/"
+}

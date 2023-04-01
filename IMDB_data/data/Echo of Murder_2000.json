@@ -1,0 +1,89 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVEpisode",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Buddy Ebsen",
+            "url": "/name/nm0001171/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lee Meriwether",
+            "url": "/name/nm0580886/"
+        },
+        {
+            "@type": "Person",
+            "name": "Wayne Rogers",
+            "url": "/name/nm0737257/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 90,
+        "ratingValue": 8.4,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0068009/"
+        },
+        {
+            "@type": "Person",
+            "name": "Calvin Clements Jr.",
+            "url": "/name/nm0166186/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edward Hume",
+            "url": "/name/nm0401742/"
+        }
+    ],
+    "datePublished": "1973-09-30",
+    "description": "At the request of his late son Hal's friend, Barnaby investigates a lodge owner who is suspected of murdering his wife. Even though he finds conclusive evidence to exonerate the man, Jones suspects that all is not as it appears.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Walter Grauman",
+            "url": "/name/nm0336139/"
+        }
+    ],
+    "duration": "PT1H",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMmRiZTM3Y2MtOGRhMy00N2ZhLWJkZTYtZGM4MzUzOTZiYjgyXkEyXkFqcGdeQXVyMTE0MzgwNQ@@._V1_.jpg",
+    "name": "Echo of a Murder",
+    "original_info": {
+        "id": "Echo of Murder_2000",
+        "name": "Echo of Murder",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "FloridaFred"
+        },
+        "dateCreated": "2021-04-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0518864/"
+        },
+        "name": "Great supporting cast, and an intriguing situation for Barnaby Jones.",
+        "reviewBody": "An intriguing story that features 70's TV star heavyweights Stefanie Powers (character Sharon Renford) and Wayne Rogers (character Gil Atkens). Also in the forefront is actor Daniel J. Travanti, who is perfectly cast as \"Lon Stevens\".\n\nAs the IMDb summary says, even with what appears to be conclusive evidence that Gil Atkens is innocent, Barnaby Jones has a hunch that something else is afoot. Can he find out what, if anything, is going on here?\n\nI rate \"Echo of a Murder\" 10 stars.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "timeRequired": "PT1H",
+    "url": "/title/tt0518864/"
+}

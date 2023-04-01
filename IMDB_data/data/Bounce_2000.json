@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ben Affleck",
+            "url": "/name/nm0000255/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gwyneth Paltrow",
+            "url": "/name/nm0000569/"
+        },
+        {
+            "@type": "Person",
+            "name": "Natasha Henstridge",
+            "url": "/name/nm0000449/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 21203,
+        "ratingValue": 5.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0022594/"
+        },
+        {
+            "@type": "Person",
+            "name": "Don Roos",
+            "url": "/name/nm0740400/"
+        }
+    ],
+    "datePublished": "2000-11-17",
+    "description": "A man switches plane tickets with another man who dies in that plane in a crash. The man falls in love with the deceased one's wife.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Don Roos",
+            "url": "/name/nm0740400/"
+        }
+    ],
+    "duration": "PT1H46M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDhjMmJiOWUtYzU5Yy00YWYzLTg3MzItNDFjYTVmMGFkMWQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "love,widow,airport,mourning,diner",
+    "name": "Bounce",
+    "original_info": {
+        "id": "Bounce_2000",
+        "name": "Bounce",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "imdb_joe"
+        },
+        "dateCreated": "2007-08-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0186894/"
+        },
+        "name": "Was that really Jennifer Grey?",
+        "reviewBody": "Why, why, why did Jennifer Grey have to go and get a nose job? I hardly recognized her in this movie. IMHO, she looked rather attractive just the way she was.\n\nOK, having got that off my chest, I am one of those who like Bounce, despite Affleck's limitations as an actor and the somewhat predictable plot. A bittersweet, tender romance movie is not really meant to move mountains artistically, nor should it be expected to. But this one does draw you in, emotionally, for better or for worse. Case in point: Look at all the IMDb comments posted on it! And as for those who would have liked more sizzle in the romance between Affleck and Paltrow, remember, this is a film that also has the death of Abby's husband as its constant backdrop, hence, the film's rather understated treatment of their romance, I think.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "CT #3",
+        "duration": "PT1M34S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2548997657",
+        "name": "Bounce",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYWM4ZWFlNjctNzY2Yy00YjlhLWE5YzgtNDA5OWU1MzQ0MDcwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYWM4ZWFlNjctNzY2Yy00YjlhLWE5YzgtNDA5OWU1MzQ0MDcwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-10-26T03:10:45Z",
+        "url": "https://www.imdb.com/video/vi2548997657/"
+    },
+    "url": "/title/tt0186894/"
+}

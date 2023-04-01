@@ -1,0 +1,113 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Wayne",
+            "url": "/name/nm0000078/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Attenborough",
+            "url": "/name/nm0000277/"
+        },
+        {
+            "@type": "Person",
+            "name": "Judy Geeson",
+            "url": "/name/nm0002096/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5997,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0019351/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0035953/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christopher Trumbo",
+            "url": "/name/nm0874307/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Butler",
+            "url": "/name/nm0125060/"
+        },
+        {
+            "@type": "Person",
+            "name": "William P. McGivern",
+            "url": "/name/nm0569423/"
+        }
+    ],
+    "datePublished": "1975-03-26",
+    "description": "Chicago Police Lieutenant Jim Brannigan is sent to the U.K. to escort organized crime boss Ben Larkin back to the U.S., but Larkin's hitmen prepare an ambush for Brannigan.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Douglas Hickox",
+            "url": "/name/nm0382779/"
+        }
+    ],
+    "duration": "PT1H51M",
+    "genre": [
+        "Action",
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTQyYTM0NjktZjk0NS00MWNmLWJjMzMtOGFjNjMyZmViY2ZjXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
+    "keywords": "mailbox,car,counterfeiting,character name as title,female police officer",
+    "name": "Brannigan",
+    "original_info": {
+        "id": "Brannigan_1975",
+        "name": "Brannigan",
+        "year": "1975"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "utgard14"
+        },
+        "dateCreated": "2015-08-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0072732/"
+        },
+        "name": "\"It's too damn simple.\"",
+        "reviewBody": "Tough Chicago cop Brannigan (John Wayne) goes to London to extradite an American criminal named Larkin (John Vernon) but the bad guy is seemingly kidnapped before Brannigan can get to him. That's not enough to deter our hero, though. He's determined to get his man, no matter how many British toes he has to step on to do so, including those of a stuffy police commander (Richard Attenborough).\n\nA fun 'fish out of water' movie for John Wayne; his second attempt to duplicate Clint Eastwood's success at moving from westerns to police thrillers. It's a better movie than Wayne's previous attempt at a Dirty Harry-style cop flick the year before, the underwhelming McQ. It moves quicker and there are some funny lines here and there. Plus everyone in the cast seems like they want to make this work, unlike McQ where nobody seemed that into it. Duke is clearly having a good time and appears more at ease with this mostly British cast than he did with many of his later films. Vets Attenborough, Vernon, and Mel Ferrer deliver as they usually do. Judy Geeson has a nice chemistry with Duke. Thankfully (given their age difference) the film never goes \"there\" beyond mild flirting. Lesley Anne Down plays a prostitute and Daniel Pilon is the hit man hired to kill Duke. It's not an exceptional film in any way but it is enjoyable, especially for Wayne fans who might like to see him in different surroundings than the western plateau or the battlefield.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Chicago Police Lieutenant Jim Brannigan is sent to the U.K. to escort organized crime boss Ben Larkin back to the U.S., but Larkin's hitmen prepare an ambush for Brannigan.",
+        "duration": "PT2M23S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi317702937",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjkwM2U0M2UtZDEwOC00MDQ3LTg1MGQtOTRlNzJiYjRmMzEwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjkwM2U0M2UtZDEwOC00MDQ3LTg1MGQtOTRlNzJiYjRmMzEwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-11-23T16:30:56.959Z",
+        "url": "https://www.imdb.com/video/vi317702937/"
+    },
+    "url": "/title/tt0072732/"
+}

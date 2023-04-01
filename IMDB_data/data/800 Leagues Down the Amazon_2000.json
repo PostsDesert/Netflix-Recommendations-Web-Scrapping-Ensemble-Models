@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Carlos López Moctezuma",
+            "url": "/name/nm0529876/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rafael Bertrand",
+            "url": "/name/nm0078413/"
+        },
+        {
+            "@type": "Person",
+            "name": "Elvira Quintana",
+            "url": "/name/nm0704101/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 46,
+        "ratingValue": 5.4,
+        "worstRating": 1
+    },
+    "alternateName": "800 Leagues Over the Amazon",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000051/"
+        },
+        {
+            "@type": "Person",
+            "name": "Julio Alejandro",
+            "url": "/name/nm0017855/"
+        },
+        {
+            "@type": "Person",
+            "name": "Emilio Gómez Muriel",
+            "url": "/name/nm0350947/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jaime Salvador",
+            "url": "/name/nm0759232/"
+        }
+    ],
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Emilio Gómez Muriel",
+            "url": "/name/nm0350947/"
+        }
+    ],
+    "duration": "PT1H44M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjk2YWU1MjMtZWI1ZC00ZDI4LTkxNTAtMzZjZmNlNTI3ZjcyXkEyXkFqcGdeQXVyNzA4ODc3ODU@._V1_.jpg",
+    "keywords": "whipping someone,map reading,post office,hair dresser,brazilian man",
+    "name": "800 leguas por el Amazonas o (La jangada)",
+    "original_info": {
+        "id": "800 Leagues Down the Amazon_2000",
+        "name": "800 Leagues Down the Amazon",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "RodrigAndrisan"
+        },
+        "dateCreated": "2020-11-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0236942/"
+        },
+        "name": "Not bad at all!",
+        "reviewBody": "Oh, my childhood movies, how nostalgic I am! The huge pleasure to discover Jules Verne on the big screen, through some Mexican artists! I saw this movie when I was very young, less than 10 years old, and I wanted all my life to see it again as an adult. I found it now in 2020 on YouTube: it stands the test of time. Elvira Quintana was so beautiful and died at only 32 years old!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0236942/"
+}

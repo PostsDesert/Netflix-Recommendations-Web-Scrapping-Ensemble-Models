@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Henry Fonda",
+            "url": "/name/nm0000020/"
+        },
+        {
+            "@type": "Person",
+            "name": "Linda Darnell",
+            "url": "/name/nm0001105/"
+        },
+        {
+            "@type": "Person",
+            "name": "Victor Mature",
+            "url": "/name/nm0001514/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 24451,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "Passed",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Person",
+            "name": "Samuel G. Engel",
+            "url": "/name/nm0257143/"
+        },
+        {
+            "@type": "Person",
+            "name": "Winston Miller",
+            "url": "/name/nm0588003/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sam Hellman",
+            "url": "/name/nm0375500/"
+        }
+    ],
+    "description": "After their cattle are stolen and their brother murdered, the Earp brothers have a score to settle with the Clanton family.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Ford",
+            "url": "/name/nm0000406/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Drama",
+        "Romance",
+        "Western"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTQ5MTc1NzYtZmIyYi00YzdjLTk4OWEtMDQyNmU1MTQ2MzkzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "keywords": "gunfight at the o.k. corral,arizona territory,arizona,reference to tombstone arizona,stagecoach driver",
+    "name": "My Darling Clementine",
+    "original_info": {
+        "id": "My Darling Clementine_1946",
+        "name": "My Darling Clementine",
+        "year": "1946"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Coxer99"
+        },
+        "dateCreated": "1999-07-22",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0038762/"
+        },
+        "name": "My Darling Clementine",
+        "reviewBody": "John Ford's exquisite film about marshall of Tombstone, Wyatt Earp and Doc Holliday and their incredible gunfight against the Clantons at the O.K.Corral. Dramatic and wonderfully brooding, Ford employs it all here; perfect lighting, superb photography and as always, a fabulous and unmatched use of the camera. Many other films have been made on this subject, but you need look no further than this cinematic masterpiece."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M24S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4131372825",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTM1ZjAxMTQtYzFiMC00ZmMyLTgzNDQtYzVhNGM1NTgwZWNmXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTM1ZjAxMTQtYzFiMC00ZmMyLTgzNDQtYzVhNGM1NTgwZWNmXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2019-12-06T19:08:07.850Z",
+        "url": "https://www.imdb.com/video/vi4131372825/"
+    },
+    "url": "/title/tt0038762/"
+}

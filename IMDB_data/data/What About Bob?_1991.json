@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bill Murray",
+            "url": "/name/nm0000195/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Dreyfuss",
+            "url": "/name/nm0000377/"
+        },
+        {
+            "@type": "Person",
+            "name": "Julie Hagerty",
+            "url": "/name/nm0353546/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 71609,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0049348/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0059172/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alvin Sargent",
+            "url": "/name/nm0765091/"
+        },
+        {
+            "@type": "Person",
+            "name": "Laura Ziskin",
+            "url": "/name/nm0957205/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tom Schulman",
+            "url": "/name/nm0776114/"
+        }
+    ],
+    "datePublished": "1991-05-17",
+    "description": "A successful psychotherapist loses his mind after one of his most dependent patients, an obsessive-compulsive neurotic, tracks him down during his family vacation.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Frank Oz",
+            "url": "/name/nm0000568/"
+        }
+    ],
+    "duration": "PT1H39M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQxMjU2ODk4N15BMl5BanBnXkFtZTgwODQzNTcxMTE@._V1_.jpg",
+    "keywords": "heimlich maneuver,surprise birthday party,neurosis,psychiatrist,tv interview",
+    "name": "What About Bob?",
+    "original_info": {
+        "id": "What About Bob?_1991",
+        "name": "What About Bob?",
+        "year": "1991"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "planktonrules"
+        },
+        "dateCreated": "2008-05-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0103241/"
+        },
+        "name": "Only a 6.7?!",
+        "reviewBody": "Gee,...considering this is probably Bill Murray's funniest comedy and it is rated so poorly, no wonder he's recently taken to making odd and very unfunny movies. After all, with WHAT ABOUT BOB?, GROUNDHOG DAY and THE MAN WHO KNEW TOO LITTLE, he was responsible for probably three of the top comedies of the 1990s...yet all are rated relatively low on IMDb. I just don't get it.\n\nBob is one of the most annoying and compulsive patients any psychiatrist can have. He's needy, histrionic and sneaky, so when his brand-new therapist goes on vacation, Bob connives to find Dr. Monroe and vacation with him and the family! Now this stalking behavior isn't particularly funny, but what makes this such a great comedy is that Dr. Monroe is a sanctimonious and pompous jerk and it's fun to watch Bob make Monroe's life miserable!! Plus, unlike some comedies that let up, in this film every time you think things can't get worse for Dr. Monroe--they do!! This makes for a funny and deliciously black film--one that can't help much make you chuckle.\n\nBy the way, I was a psychotherapist and now teach psychology instead of work with patients. When the film came out, many of my colleagues were scared to death by the film because it did hit close to home, while others thought it hilarious. Having never had a patient like Bob, I guess it was pretty easy for me to laugh at the whole thing!\n\nI have to go now--I'm about to teach my class about \"death therapy\".",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Buena Vista Home Entertainment",
+        "duration": "PT1M2S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi971112729",
+        "name": "What About Bob?",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZmFlNDJmYWMtOGFhMC00NTliLTlkYTItMDg4YjI0NTA5ZThkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZmFlNDJmYWMtOGFhMC00NTliLTlkYTItMDg4YjI0NTA5ZThkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-18T12:04:38Z",
+        "url": "https://www.imdb.com/video/vi971112729/"
+    },
+    "url": "/title/tt0103241/"
+}

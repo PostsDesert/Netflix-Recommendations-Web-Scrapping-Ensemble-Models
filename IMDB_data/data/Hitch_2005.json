@@ -1,0 +1,96 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Will Smith",
+            "url": "/name/nm0000226/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eva Mendes",
+            "url": "/name/nm0578949/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kevin James",
+            "url": "/name/nm0416673/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 323184,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0072775/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kevin Bisch",
+            "url": "/name/nm1358355/"
+        }
+    ],
+    "datePublished": "2005-02-11",
+    "description": "A smooth-talking man falls for a hardened columnist while helping a shy accountant woo a beautiful heiress.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Andy Tennant",
+            "url": "/name/nm0855035/"
+        }
+    ],
+    "duration": "PT1H58M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzYyNzM2NzM2NF5BMl5BanBnXkFtZTcwNjg5NTQzMw@@._V1_.jpg",
+    "keywords": "gossip,quitting a job,newspaper,friendship,advice",
+    "name": "Hitch",
+    "original_info": {
+        "id": "Hitch_2005",
+        "name": "Hitch",
+        "year": "2005"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "botner"
+        },
+        "dateCreated": "2005-02-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0386588/"
+        },
+        "name": "Pleasantly surprised...",
+        "reviewBody": "I saw this movie screened last night, and you know what? I liked it. For the most part, it's a by the numbers 'chick flick', but makes no pretensions to be more than that, and in fact, is very good for what it is.\n\nThe easy thing to do would be to take potshots at this film; throw out things like 'Fresh Prince', 'getting jiggy with it', and even throw around the whole 'black dude making a white dude cool' angle; but that's too easy isn't it? Like shooting fish in a barrel.\n\nNo, this isn't a Wes Anderson film. The humor is rather broad, though much it very funny. Of course you won't see it up for an Oscar (what a tired joke that is); nor does it contain Quientin Tarantion-esquire dialogue or groundbreaking visuals.\n\nBut taken for what it is, a romantic comedy, it really is very good. Great chemistry between all the leads. Eve Mendes is gorgeous. And Kevin James steals nearly every scene he's in. It gets a bit sappy towards the end (don't all mainstream romantic comedies though?), but if you're looking for a above average date movie with more than a few belly laughs, this is your film.\n\nA solid B+."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer 2 for Hitch",
+        "duration": "PT2M26S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi811574297",
+        "name": "Hitch",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDlhZTM4MjQtMzEyNC00ODg4LWIxYzYtMmRmMjc3NGQ5MTYyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDlhZTM4MjQtMzEyNC00ODg4LWIxYzYtMmRmMjc3NGQ5MTYyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2012-11-02T03:16:03Z",
+        "url": "https://www.imdb.com/video/vi811574297/"
+    },
+    "url": "/title/tt0386588/"
+}

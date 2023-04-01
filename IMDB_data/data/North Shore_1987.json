@@ -1,0 +1,113 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Matt Adler",
+            "url": "/name/nm0012208/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nia Peeples",
+            "url": "/name/nm0001604/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gregory Harrison",
+            "url": "/name/nm0002129/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2784,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0059725/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Phelps",
+            "url": "/name/nm0679853/"
+        },
+        {
+            "@type": "Person",
+            "name": "Randal Kleiser",
+            "url": "/name/nm0459170/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tim McCanlies",
+            "url": "/name/nm0564827/"
+        }
+    ],
+    "datePublished": "1987-08-14",
+    "description": "After learning how to surf by using the local wave tanks, Arizona resident Rick uses his winnings from a recent contest to fly to Hawaii and try to make a living for himself as a professional wave rider.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "William Phelps",
+            "url": "/name/nm0679853/"
+        }
+    ],
+    "duration": "PT1H36M",
+    "genre": [
+        "Action",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTcxMmQxZGItZDE3Yy00NGZkLTljMTAtZTEyYTdmZjRkNjE2XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "bikini,surf movie,outdoor sport,surfing,surfer",
+    "name": "North Shore",
+    "original_info": {
+        "id": "North Shore_1987",
+        "name": "North Shore",
+        "year": "1987"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "kurtisle"
+        },
+        "dateCreated": "2014-06-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0093648/"
+        },
+        "name": "Great Surf Flick...but",
+        "reviewBody": "It is a fun Hawaii film. Lots of home footage, lots of true to life ...interactions with locals and Hawaii itself. Good footage of the sea and the island. Though they don't show the traffic jams, long lines of JOJ Tourist whales at the Shave Ice Shack, who flock to see the famous North Shore and lay around on the sand smelling of Hawaiian Tropics cocoanut oil. My gripe is, the time frame. They make it look like you can become a pro class surfer in a few months. Folks, it taked years of hard surfing to become that good. No one learns it in a summer...The real surfers, \"Soul Surfers\" live and breathe salt water, on good and bad days. It HAS to be your life. There is no other way.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "After learning how to surf by using the local wave tanks, Arizona resident Rick uses his winnings from a recent contest to fly to Hawaii and try to make a living for himself as a professional wave rider.",
+        "duration": "PT1M27S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi966443801",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODM0MjJiNTItNjY1MC00ZjRlLWI1YTUtMGFiNDY3NGZkNzNkXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODM0MjJiNTItNjY1MC00ZjRlLWI1YTUtMGFiNDY3NGZkNzNkXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-10-10T20:24:13.065Z",
+        "url": "https://www.imdb.com/video/vi966443801/"
+    },
+    "url": "/title/tt0093648/"
+}
