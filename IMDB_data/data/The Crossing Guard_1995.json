@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jack Nicholson",
+            "url": "/name/nm0000197/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Morse",
+            "url": "/name/nm0001556/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anjelica Huston",
+            "url": "/name/nm0001378/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 13963,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0022594/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sean Penn",
+            "url": "/name/nm0000576/"
+        }
+    ],
+    "datePublished": "1995-11-16",
+    "description": "Freddy Gale is a seedy jeweller who has sworn to kill the drunk driver who killed his little girl.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Sean Penn",
+            "url": "/name/nm0000576/"
+        }
+    ],
+    "duration": "PT1H51M",
+    "genre": [
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjkwNWMyZjQtNmU5MS00ZWE1LWE3NzMtNGZjNTlhYzcwNjIzXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_.jpg",
+    "keywords": "hit and run,tragic event,crossing guard,car accident,haunted by the past",
+    "name": "The Crossing Guard",
+    "original_info": {
+        "id": "The Crossing Guard_1995",
+        "name": "The Crossing Guard",
+        "year": "1995"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "PyrolyticCarbon"
+        },
+        "dateCreated": "2003-04-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0112744/"
+        },
+        "name": "A powerful and compelling story, filmed well and with some great performances.",
+        "reviewBody": "A powerful and compelling story, filmed well and with some great performances.\n\nSean Penn seems to have managed to level the actors here, with David Morse, Anjelica Huston and Jack Nicholson putting in great performances and none of them stealing the scenes from the other. I found this very surprising as I expected Nicholson to flood the screen, as he so often does with such little difficulty.\n\nHowever, the emotion between Huston and Nicholson in the latter half of the film during the coffee shop scene is so powerful to watch. Huston is such a wonderful actress, and Nicholson shows some emotional depth that I haven't seen before, or rather, not felt with his performance before.\n\nThe story is written and planned extremely well, with tension rising slowly and almost imperceptibly, until the final day. I found myself caught from the opening scenes of the counselling session cut with the drunken, partying Nicholson, right through to the pivotal moments of the main characters lives.\n\nIt is a fantastic way to address this subject. To examine it from both sides, and keep each side with its own sympathies and understandings. Cleverly your sympathies and hatred are swapped throughout the story.\n\nI hope there's more to come like this.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT2M5S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2563808793",
+        "name": "The Crossing Guard",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDMyNDQ0ZWQtNmZkYS00MjUzLTg3OTktNDFlZmUxNDgwZWVlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDMyNDQ0ZWQtNmZkYS00MjUzLTg3OTktNDFlZmUxNDgwZWVlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-10-26T03:51:34Z",
+        "url": "https://www.imdb.com/video/vi2563808793/"
+    },
+    "url": "/title/tt0112744/"
+}

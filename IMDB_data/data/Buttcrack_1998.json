@@ -1,0 +1,84 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Doug Ciskowski",
+            "url": "/name/nm0162822/"
+        },
+        {
+            "@type": "Person",
+            "name": "Caleb Kreischer",
+            "url": "/name/nm0470680/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rob Hayward",
+            "url": "/name/nm0371793/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 713,
+        "ratingValue": 3.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0053353/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Larsen",
+            "url": "/name/nm0488788/"
+        }
+    ],
+    "datePublished": "1998-12-08",
+    "description": "The gun-totin', Bible-thumpin' Preacher Man Bob must right the universal karma accidently set wrong when Brian inadvertantlty kills his obnoxious butt-cleavaged roommate, Wade.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jim Larsen",
+            "url": "/name/nm0488788/"
+        }
+    ],
+    "duration": "PT1H8M",
+    "genre": [
+        "Comedy",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjI5NTk5NDE3OF5BMl5BanBnXkFtZTgwNzQ3MDU1NjE@._V1_.jpg",
+    "keywords": "parody comedy,accident,curse,voodoo,troma",
+    "name": "Buttcrack",
+    "original_info": {
+        "id": "Buttcrack_1998",
+        "name": "Buttcrack",
+        "year": "1998"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "djfabush"
+        },
+        "dateCreated": "2003-02-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0191019/"
+        },
+        "name": "It was so bad it was good!",
+        "reviewBody": "I happen to like this movie for the sheer joy of watching an indi. film that looks like it was made for $15 or so. the roommate's voice makes you want to kill him and the girlfriend is a total pain in the ass. i kinda hope the make part two, i would watch it out of pure morbid curiosity.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0191019/"
+}

@@ -1,0 +1,83 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dimple Kapadia",
+            "url": "/name/nm0438092/"
+        },
+        {
+            "@type": "Person",
+            "name": "Vinod Khanna",
+            "url": "/name/nm0451396/"
+        },
+        {
+            "@type": "Person",
+            "name": "Deepti Naval",
+            "url": "/name/nm0622732/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 157,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0016290/"
+        },
+        {
+            "@type": "Person",
+            "name": "Somnath Sen",
+            "url": "/name/nm1077901/"
+        }
+    ],
+    "datePublished": "2002-11-01",
+    "description": "Leela is a film based on the South Asian-American experience. By providing a dynamic expression of the struggles and celebrations of the expatriate lifestyle, Leela has the potential to be a crossover film - popular among expatria...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Somnath Sen",
+            "url": "/name/nm1077901/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjQwZjkxYWUtMzdjOC00MWMzLWFhZjUtMmY5YWExZWI3ZWM0XkEyXkFqcGdeQXVyMTEyMDcwNw@@._V1_.jpg",
+    "keywords": "character name as title,one word title,professor,basketball,intergenerational friendship",
+    "name": "Leela",
+    "original_info": {
+        "id": "Leela_2002",
+        "name": "Leela",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "samabc-31952"
+        },
+        "dateCreated": "2019-09-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0300115/"
+        },
+        "name": "A delicious cocktail....",
+        "reviewBody": "The ravishing, beautiful Dimple Kapadia (she looks absolutely gorgeous) and the equally charming Dipti Naval give commendable performances... the Ghazal by Jagjitsinghji is by far an icing on cake... on parallel lines to Namesake or Mitra and absolutely not a cliche.. coming of an age... where East meets West, a delicious cocktail ...",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0300115/"
+}

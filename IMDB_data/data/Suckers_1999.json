@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Joe Yannetty",
+            "url": "/name/nm0945937/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jake Johannsen",
+            "url": "/name/nm0423750/"
+        },
+        {
+            "@type": "Person",
+            "name": "Daniel Benzali",
+            "url": "/name/nm0073137/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1082,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0803148/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0064505/"
+        },
+        {
+            "@type": "Person",
+            "name": "Roger Nygard",
+            "url": "/name/nm0638630/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joe Yannetty",
+            "url": "/name/nm0945937/"
+        }
+    ],
+    "datePublished": "2001-08-16",
+    "description": "Ever bought a used car from a dealer before? Want to know what REALLY happens behind the scenes? This movie offers some insight through the eyes of one of the dealers.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Roger Nygard",
+            "url": "/name/nm0638630/"
+        }
+    ],
+    "duration": "PT1H27M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTAwYWQyNzAtZjVhYy00ZmM1LTg3MGQtMTI3ZjEzMDUxYTc1XkEyXkFqcGdeQXVyMDg1ODIxMQ@@._V1_.jpg",
+    "keywords": "used car salesman,sex in a car,one word title,workplace,car",
+    "name": "Suckers",
+    "original_info": {
+        "id": "Suckers_1999",
+        "name": "Suckers",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "pekak62"
+        },
+        "dateCreated": "2003-07-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0199054/"
+        },
+        "name": "Good but could have been better.",
+        "reviewBody": "As an expose of one of the seediest 'professions' around, it works. But just. A bit stilted focused on the selling side of the used car business. Pity they didn't take the time to look at the shonky practices of rewinding the odometer, cosmetic repairs, and the such. Also, the 'Lock Stock and 2 Smoking Barrels' ending seemed out of place. Also, shouldn't have Bobby stolen all the loot, after all, even if he had, who would have known?",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Ever bought a used car from a dealer before? Want to know what Really happens behind the scenes? This movie offers some insight through the eyes of one of the dealers.",
+        "duration": "PT1M38S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4053647897",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjY1MTU5MjMtNjg4Ni00YjhmLWJhMjgtMzZlOTRkMjZlYTRjXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjY1MTU5MjMtNjg4Ni00YjhmLWJhMjgtMzZlOTRkMjZlYTRjXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+        "uploadDate": "2022-05-04T19:15:58.264Z",
+        "url": "https://www.imdb.com/video/vi4053647897/"
+    },
+    "url": "/title/tt0199054/"
+}

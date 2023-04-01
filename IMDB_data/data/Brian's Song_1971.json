@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "James Caan",
+            "url": "/name/nm0001001/"
+        },
+        {
+            "@type": "Person",
+            "name": "Billy Dee Williams",
+            "url": "/name/nm0001850/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jack Warden",
+            "url": "/name/nm0912001/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 8294,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0033007/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Blinn",
+            "url": "/name/nm0088479/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gale Sayers",
+            "url": "/name/nm0768469/"
+        },
+        {
+            "@type": "Person",
+            "name": "Al Silverman",
+            "url": "/name/nm0798878/"
+        }
+    ],
+    "datePublished": "1971-11-30",
+    "description": "Based on the real-life relationship between teammates Brian Piccolo and Gale Sayers and the bond established when Piccolo discovers that he is dying.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Buzz Kulik",
+            "url": "/name/nm0474539/"
+        }
+    ],
+    "duration": "PT1H13M",
+    "genre": [
+        "Biography",
+        "Drama",
+        "Sport"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDUzMzE1MmItZDA2Mi00YzI3LWEwMjctMDVlOGI5NTU4ZTJkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+    "keywords": "male friendship,gale sayers character,brian piccolo character,football movie,nfl",
+    "name": "Brian's Song",
+    "original_info": {
+        "id": "Brian's Song_1971",
+        "name": "Brian's Song",
+        "year": "1971"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "MichaelMovieLoft"
+        },
+        "dateCreated": "2003-04-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0068315/"
+        },
+        "name": "It was an honor to cry at such a fine film",
+        "reviewBody": "This is one of the best football films ever made. Yes, it's not that long, but it is great. Billy Dee Williams and James Caan were just starting out their careers and TV movies were still fairly new. This is a story of two opposites, one who was shy and kept to himself and the other who was cocky and confident. There would eventually see past their differences and become the best of friends. I like the chemistry that Williams and Caan had in this film. They made you belive they were Sayers and Pic. What was the part that made me cry? It was the scene where Gale has to tell the team before a game that Brian has cancer. Even if I have to force it, I love to cry at that scene. It's the best part of the film. The musical score is also great. The theme has a tone to it I can't describe. I tried watching the remake when it came out, and couldn't make it through the first 15 minutes. It was Disneytized for my viewing displeasure. In my heart, Williams and Caan will always be Sayers and Pic. No doubt about it.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Based on the real-life relationship between teammates Brian Piccolo and Gale Sayers and the bond established when Piccolo discovers that he is dying.",
+        "duration": "PT2M38S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi218219033",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjI3NTQzMDAtMDA4MS00NDMzLWE3ZTgtMDBlZGY2ODkxZjM3XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjI3NTQzMDAtMDA4MS00NDMzLWE3ZTgtMDBlZGY2ODkxZjM3XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2022-08-04T22:33:27.797Z",
+        "url": "https://www.imdb.com/video/vi218219033/"
+    },
+    "url": "/title/tt0068315/"
+}

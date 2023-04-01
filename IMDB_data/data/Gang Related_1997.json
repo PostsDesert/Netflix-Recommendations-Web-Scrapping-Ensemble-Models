@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jim Belushi",
+            "url": "/name/nm0000902/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tupac Shakur",
+            "url": "/name/nm0000637/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lela Rochon",
+            "url": "/name/nm0005375/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9385,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0001995/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0153710/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0042650/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Kouf",
+            "url": "/name/nm0467942/"
+        }
+    ],
+    "datePublished": "1997-10-08",
+    "description": "After murdering an undercover DEA agent, two corrupt cops scramble to cover up what they've done.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jim Kouf",
+            "url": "/name/nm0467942/"
+        }
+    ],
+    "duration": "PT1H51M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMWFhYTNlMGEtNDRiZS00YzM0LWIxOTctZjc3MGNjYzZhNWNkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "stripper,rogue cop,bald man,judge,murder of a police officer",
+    "name": "Gang Related",
+    "original_info": {
+        "id": "Gang Related_1997",
+        "name": "Gang Related",
+        "year": "1997"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "view_and_review"
+        },
+        "dateCreated": "2020-10-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0118900/"
+        },
+        "name": "Tupac Steps Up His Game",
+        "reviewBody": "I'm surprised that I actually liked this movie. Tupac made some good music, but his acting left a lot to be desired. I didn't like \"Juice\" or \"Above the Rim\" and I simply tolerated \"Poetic Justice.\" \"Gang Related\" showed a maturation. I'm not ready to hand Tupac the Oscar, but it was refreshing to see him in a role other than a mere thug.\n\nAs for Jim Belushi: he's not high on my list of quality actors either.\n\nBelushi and Tupac play two cops: Frank Divinci and Rodriguez. The movie begins with them killing a guy they just sold drugs to. It was a ruse they set up in order to rob drug dealers. Their plan was to simply brand the murder gang related and be done with it--no one cares about drug dealers and gang bangers anyway right? Well, it turns out that the suspected drug dealer was a DEA agent and the case wasn't going to be so easily dismissed. Now Divinci and Rodriguez needed a patsy to pin the murder on. Divinci thought he hit the jackpot when he found a homeless man (Dennis Quaid) outside his girlfriend's house. He could pin the rap on him, get his GF, Cynthia Watt (Lela Rochon), to be a witness and everything would be OK, right? Wrong!\n\nThis tale of police corruption in an anonymous metropolitan city got on one track and didn't fall off. It remained consistent and committed to the plot it latched onto. The two main characters, while corrupt and deserving of any ill-fate that came their way, were still somewhat likeable. A tiny part of me wanted to see the two of them escape their perilous predicament. The movie wasn't incredibly suspenseful, but it was intriguing and able to hold my attention which is much better than a lot of movies.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Orion Pictures",
+        "duration": "PT33S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1772421401",
+        "name": "Gang Related",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzVkNWUwY2ItNzA4MC00MmU4LWE5ODAtNGRmZTEzZGFkZDM2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzVkNWUwY2ItNzA4MC00MmU4LWE5ODAtNGRmZTEzZGFkZDM2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:01:23Z",
+        "url": "https://www.imdb.com/video/vi1772421401/"
+    },
+    "url": "/title/tt0118900/"
+}

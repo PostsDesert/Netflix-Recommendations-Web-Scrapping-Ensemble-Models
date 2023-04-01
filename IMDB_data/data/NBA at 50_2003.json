@@ -1,0 +1,89 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kareem Abdul-Jabbar",
+            "url": "/name/nm0000717/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marv Albert",
+            "url": "/name/nm0016548/"
+        },
+        {
+            "@type": "Person",
+            "name": "Red Auerbach",
+            "url": "/name/nm0041728/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 78,
+        "ratingValue": 8,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0018803/"
+        },
+        {
+            "@type": "Person",
+            "name": "Larry Weitzman",
+            "url": "/name/nm0919391/"
+        }
+    ],
+    "description": "Denzel Washington hosts this golden anniversary look at the game, players and coaches who help create NBA history. From Mikan, to Russell, to Chamberlain, to Dr. J, to Bird, to Magic to Jordan..",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Joseph Cortina",
+            "url": "/name/nm1754446/"
+        },
+        {
+            "@type": "Person",
+            "name": "Glenn Lazzaro",
+            "url": "/name/nm0493798/"
+        }
+    ],
+    "duration": "PT2H",
+    "genre": [
+        "Documentary",
+        "History",
+        "Sport"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzA1MmQwZjUtZDgyZC00NjZiLTlkMDgtNjM0NzgxMjJjZDNkXkEyXkFqcGdeQXVyNDkwMzY5NjQ@._V1_.jpg",
+    "keywords": "nba,anniversary,acronym in title,50th anniversary,basketball",
+    "name": "NBA at 50",
+    "original_info": {
+        "id": "NBA at 50_2003",
+        "name": "NBA at 50",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "view_and_review"
+        },
+        "dateCreated": "2021-07-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0431277/"
+        },
+        "name": "Now the NBA is 75!",
+        "reviewBody": "I found a blurry, poorly cropped recording of this gem on YouTube. The poor quality wasn't enough to get in the way of me enjoying this treasure.\n\nI remember when the NBA named its 50 greatest players in 1996. I can't remember exactly when, but I believe the NBA introduced them all during the All-Star game. They named 10 players for each position spanning the decades. I was too young then to question any of the players named with the exception of one: Shaquille O'Neal. I know what you're thinking: how could I not consider Shaq as one of the ten best centers all-time? Simple, because at that time he only had four years in the league. I guess it was a testament to how dominant he was even as a four-year player that he made such an illustrious list. Today, there is no question that he is one of the top centers all-time.\n\n\"NBA at 50\" is a brief history of the NBA, a quick highlight of its best players, and a wrap up with the fifty greatest players of all-time (from 1946 to 1996). For a few it will be a walk down memory lane, whereas for many it will be a great history lesson. Now that it is 2021 I wonder who'd be on their list of 75 greatest players of all-time for the NBA's 75th birthday.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0431277/"
+}

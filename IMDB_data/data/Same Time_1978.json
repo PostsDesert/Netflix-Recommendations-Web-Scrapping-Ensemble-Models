@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Alan Alda",
+            "url": "/name/nm0000257/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ellen Burstyn",
+            "url": "/name/nm0000995/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ivan Bonar",
+            "url": "/name/nm0093780/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6372,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0011112/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bernard Slade",
+            "url": "/name/nm0805152/"
+        }
+    ],
+    "datePublished": "1979-03-08",
+    "description": "A married man and a married woman end up sleeping with each other, and decide to meet at the same place every year on the anniversary of their one night stand. As the years go by, they observe changes in each other and their relat...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Mulligan",
+            "url": "/name/nm0612322/"
+        }
+    ],
+    "duration": "PT1H59M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzFmY2ZiZjctYjZiMy00NTI4LWFhNzMtYWFjMGJlMDAwMDYyXkEyXkFqcGdeQXVyMzU4Nzk4MDI@._V1_.jpg",
+    "keywords": "reference to catcher in the rye,reference to jewish guilt,reference to catholic guilt,ocean,cabin",
+    "name": "Same Time, Next Year",
+    "original_info": {
+        "id": "Same Time_1978",
+        "name": "Same Time",
+        "year": "1978"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Jim B-2"
+        },
+        "dateCreated": "1999-08-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0078199/"
+        },
+        "name": "Comedy of the times - but still excellent.",
+        "reviewBody": "This film is a great tale of the 50s,60s and 70s. It is another in the films which have made a wonderful transition from Broadway to Hollywood. It is undoubtedly schmaltzy. But Alda and Burstyn make up for any sentimentality with star performances. I have heard it called a chick flick, but here is one guy who believes it is a simply absorbing comedy/romance. Hand me a hankie and let me see it again!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A married man and a married woman end up sleeping with each other, and decide to meet at the same place every year on the anniversary of their one night stand. As the years go by, they observe changes in each other and their relationship.",
+        "duration": "PT2M21S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1787675417",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMmYzMTgwMDQtNjE5OC00NTIwLWI4NzYtZWFhM2E0ZDA5MGJhXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMmYzMTgwMDQtNjE5OC00NTIwLWI4NzYtZWFhM2E0ZDA5MGJhXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-10-26T22:28:12.708Z",
+        "url": "https://www.imdb.com/video/vi1787675417/"
+    },
+    "url": "/title/tt0078199/"
+}

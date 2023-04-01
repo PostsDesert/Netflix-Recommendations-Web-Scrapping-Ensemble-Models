@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ian McCulloch",
+            "url": "/name/nm0567135/"
+        },
+        {
+            "@type": "Person",
+            "name": "Louise Marleau",
+            "url": "/name/nm0549087/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marino Masé",
+            "url": "/name/nm0166706/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4948,
+        "ratingValue": 5.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0039405/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0184611/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0093385/"
+        },
+        {
+            "@type": "Person",
+            "name": "Luigi Cozzi",
+            "url": "/name/nm0172826/"
+        },
+        {
+            "@type": "Person",
+            "name": "Erich Tomek",
+            "url": "/name/nm0121113/"
+        }
+    ],
+    "datePublished": "1982-06-11",
+    "description": "A former astronaut helps a government agent and a police detective track the source of mysterious alien pod spores, filled with lethal flesh-dissolving acid, to a South American coffee plantation controlled by alien pod clones.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Luigi Cozzi",
+            "url": "/name/nm0172826/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Horror",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYzIzZWM3ZjAtM2E2OC00OGMzLWI4YjgtYjU3MDBlYTM0YTNmXkEyXkFqcGdeQXVyMjAwODEzNTY@._V1_.jpg",
+    "keywords": "alien knock off,space sci fi,extreme violence,italian horror,german horror",
+    "name": "Contamination",
+    "original_info": {
+        "id": "Contamination_1980",
+        "name": "Contamination",
+        "year": "1980"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Ninja Thunderbolt"
+        },
+        "dateCreated": "1999-11-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0082000/"
+        },
+        "name": "Classic McCulloch",
+        "reviewBody": "Ian McCulloch shines, as he did in 'Zombie Flesh-eaters', this time as an alcoholic former NASA astronaut who is dismissed as mad when he talks of the threat of an alien invasion from Mars (as is par for the course in these space capers).\n\nIf you enjoy lame acting, poorly dubbed voices, cheesy 80's gore effects and an implausible plot, then this is the film for you.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 3,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Blue Underground, Inc",
+        "duration": "PT3M12S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1908343065",
+        "name": "Contamination",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYTM4Y2RhNDctNmI0NC00NTVkLWJkY2ItNGYwYmNhMDQ4NWU3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTM4Y2RhNDctNmI0NC00NTVkLWJkY2ItNGYwYmNhMDQ4NWU3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:32:47Z",
+        "url": "https://www.imdb.com/video/vi1908343065/"
+    },
+    "url": "/title/tt0082000/"
+}

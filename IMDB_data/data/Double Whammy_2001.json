@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Denis Leary",
+            "url": "/name/nm0001459/"
+        },
+        {
+            "@type": "Person",
+            "name": "Elizabeth Hurley",
+            "url": "/name/nm0000167/"
+        },
+        {
+            "@type": "Person",
+            "name": "Luis Guzmán",
+            "url": "/name/nm0350079/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3835,
+        "ratingValue": 5.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0072799/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0076476/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0001698/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tom DiCillo",
+            "url": "/name/nm0001139/"
+        }
+    ],
+    "datePublished": "2001-08-03",
+    "description": "A world-weary police detective who fails to stop a fast-food restaurant massacre struggles to regain his departmental reputation, public image and self-worth.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Tom DiCillo",
+            "url": "/name/nm0001139/"
+        }
+    ],
+    "duration": "PT1H33M",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTAyMTI0NTkxNjBeQTJeQWpwZ15BbWU4MDE2NjU4MDMx._V1_.jpg",
+    "keywords": "female nudity,brief breast,nipples visible through clothing,detective,chiropractor",
+    "name": "Double Whammy",
+    "original_info": {
+        "id": "Double Whammy_2001",
+        "name": "Double Whammy",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dominodeluca"
+        },
+        "dateCreated": "2002-08-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0250347/"
+        },
+        "name": "Disappointing",
+        "reviewBody": "If you've seen Living in Oblivion or Box of Moonlight, you'll be amazed that this pile comes from the same writer/director. I didn't believe any of this even for a second, nor did I like any of the characters. There are a couple funny moments, but the movie dragged on and eventually went nowhere."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT2M17S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1654849817",
+        "name": "Double Whammy",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzJmZTY3ZmQtNjhjMS00NWNlLTliM2YtNzcyOGYyMmFlYWY2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzJmZTY3ZmQtNjhjMS00NWNlLTliM2YtNzcyOGYyMmFlYWY2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:55:34Z",
+        "url": "https://www.imdb.com/video/vi1654849817/"
+    },
+    "url": "/title/tt0250347/"
+}

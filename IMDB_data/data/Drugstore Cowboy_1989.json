@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Matt Dillon",
+            "url": "/name/nm0000369/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kelly Lynch",
+            "url": "/name/nm0001488/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Le Gros",
+            "url": "/name/nm0001457/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 38296,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0240889/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Fogle",
+            "url": "/name/nm0283942/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gus Van Sant",
+            "url": "/name/nm0001814/"
+        },
+        {
+            "@type": "Person",
+            "name": "Daniel Yost",
+            "url": "/name/nm0949127/"
+        }
+    ],
+    "datePublished": "1989-10-20",
+    "description": "A pharmacy-robbing dope fiend and his crew pop pills and evade the law.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Gus Van Sant",
+            "url": "/name/nm0001814/"
+        }
+    ],
+    "duration": "PT1H41M",
+    "genre": [
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDljYTNjNWItZjFjNy00OGZhLWFjNjMtZjgyZjYxZGE0NTliXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "drugs,ambush,amphetamine,ashtray,bed",
+    "name": "Drugstore Cowboy",
+    "original_info": {
+        "id": "Drugstore Cowboy_1989",
+        "name": "Drugstore Cowboy",
+        "year": "1989"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "nova_caine"
+        },
+        "dateCreated": "2006-01-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0097240/"
+        },
+        "name": "Matt Dillon's best work",
+        "reviewBody": "Matt Dillon igives his best performance in this movie, gives an minimalistic, sympathetic portrayal of a junk addict trying to go straight.\n\nThe subject matter may be a bit dark for those that like to see life from the \"sunny side\". It is set after all, in gray, gray, Portland Oregon in the 70's. It deals with a crew of four, two couples, that go around ripping off drugstores for opiates. It does not attempt to judge or condemn this behavior, it just tells the story of a group of junkies, and one of their attempts to go clean and find out what the straight life is like.\n\nThose of you that have experience with any form of substance abuse may find that this movie rings true. I loved the quote by Bob something to the effect of: \"In life, you never know one minute to the next how you're going to feel. But a dope fiend just has to look at the labels on the bottles.\" By no means does this movie glamorize drug use. In fact, it shows it for what it is, a temporary fix that leads nowhere but destruction.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Drugstore Cowboy",
+        "duration": "PT30S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1470365977",
+        "name": "Drugstore Cowboy",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZWVmZDU2NmMtNDBiZS00MmRjLTgzYzItMGM3MjExYWFlMWQ3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZWVmZDU2NmMtNDBiZS00MmRjLTgzYzItMGM3MjExYWFlMWQ3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:58:02Z",
+        "url": "https://www.imdb.com/video/vi1470365977/"
+    },
+    "url": "/title/tt0097240/"
+}

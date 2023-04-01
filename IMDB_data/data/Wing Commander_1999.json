@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Freddie Prinze Jr.",
+            "url": "/name/nm0005327/"
+        },
+        {
+            "@type": "Person",
+            "name": "Matthew Lillard",
+            "url": "/name/nm0000498/"
+        },
+        {
+            "@type": "Person",
+            "name": "Saffron Burrows",
+            "url": "/name/nm0004787/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 17064,
+        "ratingValue": 4.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0265744/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0377882/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0078794/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chris Roberts",
+            "url": "/name/nm0730932/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kevin Droney",
+            "url": "/name/nm0238256/"
+        }
+    ],
+    "datePublished": "1999-03-12",
+    "description": "Blair, a fighter pilot, joins an interstellar war to fight the evil Kilrathi who are trying to destroy the universe.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Chris Roberts",
+            "url": "/name/nm0730932/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZWYzY2JjZjItMWE0Ni00NzY5LTgwYTMtNTg1MjY0ODBkYTdiXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+    "keywords": "fictional war,alien,based on video game,space fighter pilot,space fighter",
+    "name": "Wing Commander",
+    "original_info": {
+        "id": "Wing Commander_1999",
+        "name": "Wing Commander",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "schrimp"
+        },
+        "dateCreated": "1999-07-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0131646/"
+        },
+        "name": "Not The Best But Its Definetly Not Boring",
+        "reviewBody": "People are way too hard on this movie. The acting is better than average and action is awesome. This alone makes up for the weak plot and so so special effects. And it moves at such a pace that it is impossible to be bored unlike Star Wars Episode 1 where I sat through that entire pod race scene wondering when it was going to end. I'm not saying that this is better than Star Wars but I could watch this movie over and over which is something I couldn't say for Star Wars. (***/****)",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from 20th Century Fox Home Entertainment",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1658978585",
+        "name": "Wing Commander",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTdiYmMyODMtMWIxZS00ZjE5LThkMzYtMjAzNjhmZmQzMGUyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTdiYmMyODMtMWIxZS00ZjE5LThkMzYtMjAzNjhmZmQzMGUyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-18T12:09:30Z",
+        "url": "https://www.imdb.com/video/vi1658978585/"
+    },
+    "url": "/title/tt0131646/"
+}

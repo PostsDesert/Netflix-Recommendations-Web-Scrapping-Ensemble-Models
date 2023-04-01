@@ -1,0 +1,125 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "James Marsden",
+            "url": "/name/nm0005188/"
+        },
+        {
+            "@type": "Person",
+            "name": "Amy Smart",
+            "url": "/name/nm0005442/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frederick Lawrence",
+            "url": "/name/nm0492764/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4224,
+        "ratingValue": 5.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0039620/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0038037/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0077734/"
+        },
+        {
+            "@type": "Person",
+            "name": "Martin Kunert",
+            "url": "/name/nm0003209/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eric Manes",
+            "url": "/name/nm0541989/"
+        },
+        {
+            "@type": "Person",
+            "name": "Matt Cooper",
+            "url": "/name/nm0178251/"
+        }
+    ],
+    "description": "A group of teens entertain themselves by telling an anthology of famous urban legends with a modern twist; including make-out-point, monsters, psychopaths, and ghosts.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Matt Cooper",
+            "url": "/name/nm0178251/"
+        },
+        {
+            "@type": "Person",
+            "name": "Martin Kunert",
+            "url": "/name/nm0003209/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Semel",
+            "url": "/name/nm0783751/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Horror",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMGYxZGJhNmUtYTc2Zi00ZTdiLTg0NTYtNGNhMjQ2MjQyMGM1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "psychotronic film,highway,silent woman,rainy night,prankster",
+    "name": "Campfire Tales",
+    "original_info": {
+        "id": "Campfire Tales_1997",
+        "name": "Campfire Tales",
+        "year": "1997"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "LondonOnMyMind"
+        },
+        "dateCreated": "2005-05-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0115813/"
+        },
+        "name": "An interesting urban legend collection",
+        "reviewBody": "Definitely not only for urban legend aficionados, Campfire Tales is an often scary and always fun ride through several popular stories. It is also a film that exceeded the (low) expectations I had. A horror film I had never heard or read about, a straight-to-video release (granted, the latter often presents us with a pleasant surprise, but with horror films nowadays it can be all or nothing), a cast of mostly unknowns... well, I'll leave the math to you.\n\nThe film proves to be an entertaining, suspenseful and overall very enjoyable experience. The four stories are well-paced and satisfying. The only one I felt was a little weaker was \"The Locket\", for the simple reason that it offers almost no explanation for its plot or the characters' actions; however, I still loved the tale, its atmosphere and ending. My favorite one was the third story, \"People Can Lick Too\" - the suspense in it is not only palpable, but also educational.\n\nI found Campfire Tales to be one of those horror gems one discovers by chance, and then goes on recommending it to everyone.\n\n7/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A group of teens entertain themselves by telling an anthology of famous urban legends with a modern twist; including make-out-point, monsters, psychopaths, and ghosts.",
+        "duration": "PT1M32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4143563545",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNGRjNTIyYWMtM2ZhZS00OTFmLThiNTUtOTE3ZmQ2YTZlYmU3XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNGRjNTIyYWMtM2ZhZS00OTFmLThiNTUtOTE3ZmQ2YTZlYmU3XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-11-05T21:57:42.567Z",
+        "url": "https://www.imdb.com/video/vi4143563545/"
+    },
+    "url": "/title/tt0115813/"
+}

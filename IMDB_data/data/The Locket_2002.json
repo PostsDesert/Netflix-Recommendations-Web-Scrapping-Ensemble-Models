@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Vanessa Redgrave",
+            "url": "/name/nm0000603/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chad Willett",
+            "url": "/name/nm0929814/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marguerite Moreau",
+            "url": "/name/nm0603413/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 654,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0078555/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Paul Evans",
+            "url": "/name/nm0263162/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ron Raley",
+            "url": "/name/nm0707696/"
+        }
+    ],
+    "datePublished": "2002-12-08",
+    "description": "A young man taking care of his dying mother is distraught and grief-stricken when she finally passes away. On the advice of his doctor, he takes a job in an upscale nursing home, and is assigned to take care of an elderly woman na...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Karen Arthur",
+            "url": "/name/nm0037790/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDBmODNmZWEtMWU3Ny00OWY3LWI0NmEtMGQ3YjU2ZDViYzM1XkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_.jpg",
+    "keywords": "caregiver,college scholarship,boyfriend girlfriend relationship,nursing home,nurse's aide",
+    "name": "The Locket",
+    "original_info": {
+        "id": "The Locket_2002",
+        "name": "The Locket",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Melissa Alice"
+        },
+        "dateCreated": "2002-12-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0327016/"
+        },
+        "name": "Another winner from Hallmark",
+        "reviewBody": "This story, set in a nursing home, is more than it at first appears. With a thickening plot and emotional turmoil building, a young man named Michael (played well by Chad Willet) cares for an elderly woman named Esther (played very well by Vanessa Redgrave). Or is it that Esther cares for Michael? One part I didn't like much was in a dance setting (kissing), but overall it was a very decent film with no swearing. With great acting a touching story, this is another winner from Hallmark Hall of Fame.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0327016/"
+}

@@ -1,0 +1,86 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bob Carter",
+            "url": "/name/nm1115778/"
+        },
+        {
+            "@type": "Person",
+            "name": "Masami Kikuchi",
+            "url": "/name/nm0452844/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert McCollum",
+            "url": "/name/nm0566147/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1771,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "TV-PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0514149/"
+        }
+    ],
+    "datePublished": "2001-01-08",
+    "description": "Baki Hanma competes in an underground fighting tournament organized by Tokugawa. Masters of various fighting styles come from all over the world in order to determine who is the strongest fighter on Earth.",
+    "genre": [
+        "Animation",
+        "Action",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjc2ODBlMjYtZWI2Mi00OWJhLTk4NDQtYzlkZjg2MDlkZTAyXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg",
+    "keywords": "three word title,baki character,based on manga,first part,character name as title",
+    "name": "Baki the Grappler",
+    "original_info": {
+        "id": "Baki the Grappler_2005",
+        "name": "Baki the Grappler",
+        "year": "2005"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "laucorn_god"
+        },
+        "dateCreated": "2007-08-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0981456/"
+        },
+        "name": "BAKI A GREAT SHOW but not for all fans",
+        "reviewBody": "I for one love this Anime but going over 48 episodes it may drag out for some fans BUT in my eyes it only helps understand all the people who take part in the show.\n\nBaki is a very interesting hero in this as he is a very troubled young warrior and his father takes the cake in evil bad a55 father awards.\n\nI tell any fans of anime to check this out because it is well worth it but to clear things up this isn't the most blood gory anime out there and yes there is A LOT OF FIGHTING and blood but not on the same level as many other anime titles.\n\nBaki is well worth watching and even though the ending may upset many fans there is always room for more Baki however they decide to go.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for this animated fighting series",
+        "duration": "PT47S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3806331417",
+        "name": "Baki The Grappler: The Complete Series",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjlmMDFhMGEtZDU4ZS00MTAxLTlkZDMtNzk3YmYyMTUyZDFmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjlmMDFhMGEtZDU4ZS00MTAxLTlkZDMtNzk3YmYyMTUyZDFmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-06-25T03:15:19Z",
+        "url": "https://www.imdb.com/video/vi3806331417/"
+    },
+    "url": "/title/tt0981456/"
+}

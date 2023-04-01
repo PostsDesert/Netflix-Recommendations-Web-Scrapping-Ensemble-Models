@@ -1,0 +1,117 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Neville",
+            "url": "/name/nm0627453/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eric Idle",
+            "url": "/name/nm0001385/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sarah Polley",
+            "url": "/name/nm0001631/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 54745,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0204698/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0079109/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0052092/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles McKeown",
+            "url": "/name/nm0571650/"
+        },
+        {
+            "@type": "Person",
+            "name": "Terry Gilliam",
+            "url": "/name/nm0000416/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gottfried August Bürger",
+            "url": "/name/nm0119279/"
+        }
+    ],
+    "datePublished": "1989-03-10",
+    "description": "An account of Baron Munchausen's supposed travels and fantastical experiences across late 18th-century Europe with his band of misfits.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Terry Gilliam",
+            "url": "/name/nm0000416/"
+        }
+    ],
+    "duration": "PT2H6M",
+    "genre": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYzNkMjZmMGItY2YzMC00ZGY5LWFlOTktOTg4NTNiOTQ2NWFiXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",
+    "keywords": "1700s,sea monster,siege,journey to the moon,goddess",
+    "name": "The Adventures of Baron Munchausen",
+    "original_info": {
+        "id": "The Adventures of Baron Munchausen_1989",
+        "name": "The Adventures of Baron Munchausen",
+        "year": "1989"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "juubei-2"
+        },
+        "dateCreated": "2006-08-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0096764/"
+        },
+        "name": "Wonderful Nonsense (a forgotten classic?)",
+        "reviewBody": "A young Sarah Polly is swept on a grand storybook adventure when her father's theater is visited by the source of its drama; the real Baron himself (perfectly played by John Neville). The town is under siege by the Turks and only Munchausen and his band of curious adventurers can save it, so long as Death or a doctor doesn't catch him.\n\nTerry Gilliam, having hit his stride with the 1984-and-a-half classic Brazil, went on to fulfill his ultimate fantasy film with a great cast of actors (Jonathan Price included), beautifully detailed sets and costumes, and a very strange yarn of a tale indeed. Bit parts are filled out by Robin Williams, the late Oliver Reed (seen most recently as Proximo in Gladiator) serving up a fiery Vulcan - husband to a young (not to mention stunning) Uma Thurman as Venus.\n\nA great deal of the magic that sparkled in Brazil seems to have been rekindled here, and while it may have been panned at the time of its release, time has treated it well. The effects have that pre-cg feeling that makes me warm and fuzzy inside, and while its a little slow to get started, it surprises around every turn. \n\nFans of Gilliam's work (and those who still possess that curious inner child) will find much to enjoy here - even if it is nothing more than wonderful nonsense.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "An account of Baron Munchausen's supposed travels and fantastical experiences across late 18th-century Europe with his band of misfits.",
+        "duration": "PT1M51S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3192570649",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTg4YWI5OTItZTAzZi00Njk3LWI0MTctOGRhYjg3OGUyYjIzXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTg4YWI5OTItZTAzZi00Njk3LWI0MTctOGRhYjg3OGUyYjIzXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2022-03-22T20:55:12.943Z",
+        "url": "https://www.imdb.com/video/vi3192570649/"
+    },
+    "url": "/title/tt0096764/"
+}

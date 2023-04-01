@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Michael Jordan",
+            "url": "/name/nm0003044/"
+        },
+        {
+            "@type": "Person",
+            "name": "Phil Jackson",
+            "url": "/name/nm0413944/"
+        },
+        {
+            "@type": "Person",
+            "name": "Doug Collins",
+            "url": "/name/nm0172283/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2309,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0082191/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0058949/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0072293/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jonathan Hock",
+            "url": "/name/nm0387890/"
+        }
+    ],
+    "datePublished": "2000-05-05",
+    "description": "A documentary that follows Michael Jordan's basketball career, stint in baseball, and his last championship season with the Chicago Bulls in 1998.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Don Kempf",
+            "url": "/name/nm0447437/"
+        },
+        {
+            "@type": "Person",
+            "name": "James D. Stern",
+            "url": "/name/nm0827726/"
+        }
+    ],
+    "duration": "PT46M",
+    "genre": [
+        "Documentary",
+        "Sport"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTIyMDg2NTAyM15BMl5BanBnXkFtZTcwMzg3MDU1MQ@@._V1_.jpg",
+    "keywords": "nba player,professional athlete,actor name in title,micheal jordan character,five word title",
+    "name": "Michael Jordan to the Max",
+    "original_info": {
+        "id": "Michael Jordan to the Max: IMAX_2000",
+        "name": "Michael Jordan to the Max: IMAX",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "fallout-ag"
+        },
+        "dateCreated": "2000-05-31",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0245280/"
+        },
+        "name": "Well-done, but not overdone",
+        "reviewBody": "As an employee of IMAX theatres, which are the sole venues carrying Michael Jordan to the Max, I have had plenty of exposure to the film. It could have very easily been the bloated and overhyped media we are used to seeing about Jordan, but this film was tastefully done and contains entertaining elements for everyone, even someone who is not a sports fan. I would recommend it to anyone who's interested in Jordan, but don't expect too much action - it's a documentary.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from 20th Century Fox Home Entertainment",
+        "duration": "PT32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1438843673",
+        "name": "Michael Jordan To the Max",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDZiNGZjZjktZmI1MC00MGVhLTlhOTktMTEwMmE0ZjkwNDNiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDZiNGZjZjktZmI1MC00MGVhLTlhOTktMTEwMmE0ZjkwNDNiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-01-14T06:57:57Z",
+        "url": "https://www.imdb.com/video/vi1438843673/"
+    },
+    "url": "/title/tt0245280/"
+}

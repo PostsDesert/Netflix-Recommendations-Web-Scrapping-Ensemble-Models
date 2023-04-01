@@ -1,0 +1,83 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bruce Boxleitner",
+            "url": "/name/nm0000310/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jerry Doyle",
+            "url": "/name/nm0236381/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeff Conaway",
+            "url": "/name/nm0001063/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5747,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "TV-PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0039264/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0009512/"
+        },
+        {
+            "@type": "Person",
+            "name": "J. Michael Straczynski",
+            "url": "/name/nm0833089/"
+        }
+    ],
+    "datePublished": "1999-01-03",
+    "description": "The Drakh, allies of the Shadows, seek revenge against humanity after the Second Shadow War.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Vejar",
+            "url": "/name/nm0892144/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYWJmMzMwMzItYTc2OC00OTUxLThlYTMtYWY5NjMwODA3OWQ0XkEyXkFqcGdeQXVyMzYyMzU2OA@@._V1_.jpg",
+    "keywords": "woman wears a gas mask,sequel,fourth part,gas mask,space opera",
+    "name": "Babylon 5: A Call to Arms",
+    "original_info": {
+        "id": "Babylon 5: A Call to Arms_1999",
+        "name": "Babylon 5: A Call to Arms",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Op_Prime"
+        },
+        "dateCreated": "2000-09-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0146455/"
+        },
+        "name": "The best of the lot",
+        "reviewBody": "A Call to Arms is by far the best of the B5 movies. They had a great story, excellent effects and okay music. A Call to Arms acts like something as a send off to the old characters from B5. The movie also had a spine tingling ending that set the pace for Crusade, the B5 spin off TNT cancelled for no good reason. Thumbs way up on this one."
+    },
+    "url": "/title/tt0146455/"
+}

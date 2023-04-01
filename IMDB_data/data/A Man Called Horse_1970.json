@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Richard Harris",
+            "url": "/name/nm0001321/"
+        },
+        {
+            "@type": "Person",
+            "name": "Judith Anderson",
+            "url": "/name/nm0000752/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jean Gascon",
+            "url": "/name/nm0309070/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9004,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0114899/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0004937/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0091365/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jack DeWitt",
+            "url": "/name/nm0223207/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dorothy M. Johnson",
+            "url": "/name/nm0424986/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gregory Crosby",
+            "url": "/name/nm2125481/"
+        }
+    ],
+    "datePublished": "1970-05-01",
+    "description": "In 1825, an English aristocrat is captured by Native Americans. He lives with them and begins to understand their way of life. Eventually, he is accepted as part of the tribe and aspires to become their leader.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Elliot Silverstein",
+            "url": "/name/nm0799033/"
+        }
+    ],
+    "duration": "PT1H54M",
+    "genre": [
+        "Adventure",
+        "Drama",
+        "Western"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMGNmOTA4NjUtNTY5Ny00Nzk1LTkyNTEtMWFhYmE5NzZiOTJmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
+    "keywords": "horseback riding,native american,1820s,warrior,marriage",
+    "name": "A Man Called Horse",
+    "original_info": {
+        "id": "A Man Called Horse_1970",
+        "name": "A Man Called Horse",
+        "year": "1970"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "e-blowers"
+        },
+        "dateCreated": "2003-09-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0066049/"
+        },
+        "name": "2nd Time Around",
+        "reviewBody": "Although this film appeared to be a western for the 1970's, the story was not new. The writer, Dorothy M. Johnson, originally wrote it for the T.V. series Wagon Train (1957-65). Ralph Meeker was cast then in the Richard Harris role, and an excellent job he made of it, in his quiet way. A good story will always stand the test of time, as this proves."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "In 1825, an English aristocrat is captured by Native Americans. He lives with them and begins to understand their way of life. Eventually, he is accepted as part of the tribe and aspires to become their leader.",
+        "duration": "PT2M52S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2229322521",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYWNkZjU1NjYtYjcwMy00ZDU5LWFjZGUtYmIwNjYyY2FmYWFiXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYWNkZjU1NjYtYjcwMy00ZDU5LWFjZGUtYmIwNjYyY2FmYWFiXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-11-11T13:36:36.760Z",
+        "url": "https://www.imdb.com/video/vi2229322521/"
+    },
+    "url": "/title/tt0066049/"
+}

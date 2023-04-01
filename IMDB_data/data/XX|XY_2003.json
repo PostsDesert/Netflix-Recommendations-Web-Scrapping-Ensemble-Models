@@ -1,0 +1,38 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 15,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0043117/"
+        }
+    ],
+    "datePublished": "2003-10-20",
+    "description": "Interview with \"Jake\" a young transgendered Brit who is undergoing the process of changing from female to male.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Emily Atef",
+            "url": "/name/nm1477692/"
+        }
+    ],
+    "duration": "PT18M",
+    "genre": [
+        "Short"
+    ],
+    "keywords": "transgender interest,ftm,lesbian,lesbian interest,gender reassignment",
+    "name": "XX to XY: Fighting to Be Jake",
+    "original_info": {
+        "id": "XX|XY_2003",
+        "name": "XX/XY",
+        "year": "2003"
+    },
+    "url": "/title/tt0385347/"
+}

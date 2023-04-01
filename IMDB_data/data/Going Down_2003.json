@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jay Michael Ferguson",
+            "url": "/name/nm0272473/"
+        },
+        {
+            "@type": "Person",
+            "name": "Josh Blake",
+            "url": "/name/nm0086609/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christine Lakin",
+            "url": "/name/nm0003115/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 352,
+        "ratingValue": 4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0092101/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0100792/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joey Velazquez",
+            "url": "/name/nm1320366/"
+        },
+        {
+            "@type": "Person",
+            "name": "Wade Warren",
+            "url": "/name/nm1321664/"
+        }
+    ],
+    "description": "A blow out party...one trashed house, two teenage misfits, three hot girls, four dumb jocks, a hooker, a dead body and three hours to clean up the mess.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Alfonso Pineda Ulloa",
+            "url": "/name/nm1319852/"
+        }
+    ],
+    "duration": "PT1H24M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjk0MmM1NDQtZmYzNi00ZDM3LTkzYjUtNWNhZDgwYmM5MDQ2XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+    "keywords": "dead",
+    "name": "Going Down",
+    "original_info": {
+        "id": "Going Down_2003",
+        "name": "Going Down",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "thegoldenboy21"
+        },
+        "dateCreated": "2005-02-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0352375/"
+        },
+        "name": "Absolute garbage",
+        "reviewBody": "This has to be one of the worst movies I've ever seen in my life. I can't believe people actually a) write scripts like this b) have a budget to make a film c) actually expect it to be successful. Words can't even describe how horrible this film is. I enjoy my fair share of teen movies, but this didn't even come close to being funny. In fact, it was funny for the sole reason that it was so horrible. I can probably count one (maybe two) parts in the film where I even managed to squeeze out a chuckle (other than the laughs regarding how bad it was).\n\nRenting this was one of the biggest mistakes I've ever made. Its been a day since I've seen the film, and I'm still in shock regarding how horrible it was. Avoid at all costs.\n\n2/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 2,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Ardustry Home Entertainment",
+        "duration": "PT1M23S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2829713689",
+        "name": "Going Down",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZGZjMGNhNTctNTg0OS00NTI2LWFmZjktMGVmYzM2NmQ5ZGRlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZGZjMGNhNTctNTg0OS00NTI2LWFmZjktMGVmYzM2NmQ5ZGRlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:18:44Z",
+        "url": "https://www.imdb.com/video/vi2829713689/"
+    },
+    "url": "/title/tt0352375/"
+}

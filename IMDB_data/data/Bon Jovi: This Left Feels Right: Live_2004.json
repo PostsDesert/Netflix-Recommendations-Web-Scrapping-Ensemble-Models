@@ -1,0 +1,55 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bon Jovi",
+            "url": "/name/nm1654945/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jon Bon Jovi",
+            "url": "/name/nm0000954/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hugh McDonald",
+            "url": "/name/nm2212764/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 73,
+        "ratingValue": 8.5,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0077973/"
+        }
+    ],
+    "datePublished": "2004-09-10",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Anthony M. Bongiovi",
+            "url": "/name/nm1271332/"
+        }
+    ],
+    "duration": "PT1H44M",
+    "genre": [
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTYyOTIxYWYtYWM1NC00MDJiLWE2MjAtZGIwZTQxZWM2ZGNlXkEyXkFqcGdeQXVyNTk1NTMyNzM@._V1_.jpg",
+    "keywords": "live performance,concert film",
+    "name": "Bon Jovi: This Left Feels Right - Live",
+    "original_info": {
+        "id": "Bon Jovi: This Left Feels Right: Live_2004",
+        "name": "Bon Jovi: This Left Feels Right: Live",
+        "year": "2004"
+    },
+    "url": "/title/tt0939595/"
+}

@@ -1,0 +1,82 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Nick Whitaker",
+            "url": "/name/nm0924293/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rick Macy",
+            "url": "/name/nm0534423/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jan Broberg",
+            "url": "/name/nm0306967/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 184,
+        "ratingValue": 5.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0034933/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eric Hendershot",
+            "url": "/name/nm0376301/"
+        }
+    ],
+    "description": "Three young boys must crack a voice-mail code and figure out what the message is before they are discovered by desperate men who'll stop at nothing to destroy the cell phone.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Eric Hendershot",
+            "url": "/name/nm0376301/"
+        }
+    ],
+    "duration": "PT1H25M",
+    "genre": [
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjExMDE0OTg1Nl5BMl5BanBnXkFtZTcwODgxNTAzMQ@@._V1_.jpg",
+    "keywords": "voice mail,code,cell phone,drug dealer,independent film",
+    "name": "Message in a Cell Phone",
+    "original_info": {
+        "id": "Message in a Cell Phone_2000",
+        "name": "Message in a Cell Phone",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "fourpuke"
+        },
+        "dateCreated": "2018-01-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0248180/"
+        },
+        "name": "A nicely paced Family & Kids Comedy-Action-Crime-Drama movie",
+        "reviewBody": "Chase's father, a policeman, is wrongly imprisoned. A few month's later, during Summer break, Chase (Nick Whitaker) answers a call on a mislaid cell phone and an adventure begins, aided by his two pals, Mac and Jeremy (James Laub & Robbi Merrill). Conveniently for the plot, the owner of the cell phone is tied up with the baddies responsible for Chase's dad being in prison, and someone is desperate to get the phone back because of the incriminating information it can access.\n\nThis is a well-made children's comedy-action-crime-drama, well-paced, good acting (particularly young Nick Whitaker in the lead role), and some decent moments of suspense and tension. It is suitable as a family movie, otherwise it should keep a wide range of kids happy for the duration.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0248180/"
+}

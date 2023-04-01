@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mary-Kate Olsen",
+            "url": "/name/nm0001581/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ashley Olsen",
+            "url": "/name/nm0001580/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eugene Levy",
+            "url": "/name/nm0506405/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 24094,
+        "ratingValue": 4.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0018640/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0062957/"
+        },
+        {
+            "@type": "Person",
+            "name": "Emily Fox",
+            "url": "/name/nm1428524/"
+        },
+        {
+            "@type": "Person",
+            "name": "Adam Cooper",
+            "url": "/name/nm0177836/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Collage",
+            "url": "/name/nm0171651/"
+        }
+    ],
+    "datePublished": "2004-05-07",
+    "description": "Jane and Roxy Ryan are teenage Long Island twins who find themselves on numerous misadventures when they trek into Manhattan on a school day.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Dennie Gordon",
+            "url": "/name/nm0330140/"
+        }
+    ],
+    "duration": "PT1H31M",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI2Mjc0OTc0MV5BMl5BanBnXkFtZTcwMjM4MzUyMQ@@._V1_.jpg",
+    "keywords": "dog,dream,rebellious girl,new york city,city",
+    "name": "New York Minute",
+    "original_info": {
+        "id": "New York Minute_2004",
+        "name": "New York Minute",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "SajeevaS"
+        },
+        "dateCreated": "2004-10-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0363282/"
+        },
+        "name": "Counting the minutes!!!!",
+        "reviewBody": "Well what can you expect from 2 teenagers who have obviously never participated in 'serious' acting and whose credits have been a series of obnoxious TV movies which barely received any good ratings?\n\nWell you can expect the worst and hope for the best. This movie was definitely NOT GOOD - but in comparison to all the Olsen twin's movie's, this stands out. The same typical Olsen sequences of twins with different personalities is well captured even in this movie- and unfortunately i believe that this is the limit. Even before watching this movie,the fact that earning the title of the lowest box office grossing for a film opening in over 3000 theaters, basically leashes the impending movie experience. So well that just reveals that the Olsen twins should just be participators of the modeling industry - as for their contribution to the film industry- well they are cute and they not impressive at all, so let them not contribute...please.\n\nI believe if they should continue acting - get rid of the twin act and surprise people with something new. As for 'New york minute' you can watch it if you just wanna see the twins shake their behinds - but besides - SERIOUSLY...DON'T BOTHER!!!!"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for New York Minute",
+        "duration": "PT2M15S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2105914905",
+        "name": "New York Minute",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTY0MjY4NzA4OV5BMl5BanBnXkFtZTgwODM3MTQyMDI@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTY0MjY4NzA4OV5BMl5BanBnXkFtZTgwODM3MTQyMDI@._V1_.jpg",
+        "uploadDate": "2016-10-06T03:50:06Z",
+        "url": "https://www.imdb.com/video/vi2105914905/"
+    },
+    "url": "/title/tt0363282/"
+}

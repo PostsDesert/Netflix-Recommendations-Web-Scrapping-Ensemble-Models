@@ -1,0 +1,117 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Matthew Lillard",
+            "url": "/name/nm0000498/"
+        },
+        {
+            "@type": "Person",
+            "name": "Freddie Prinze Jr.",
+            "url": "/name/nm0005327/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sarah Michelle Gellar",
+            "url": "/name/nm0001264/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 117688,
+        "ratingValue": 5.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0037759/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0028338/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Gunn",
+            "url": "/name/nm0348181/"
+        },
+        {
+            "@type": "Person",
+            "name": "Craig Titley",
+            "url": "/name/nm0864471/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Hanna",
+            "url": "/name/nm0360253/"
+        }
+    ],
+    "datePublished": "2002-06-14",
+    "description": "After an acrimonious break up, the Mystery Inc. gang are individually brought to an island resort to investigate strange goings on.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Raja Gosnell",
+            "url": "/name/nm0331532/"
+        }
+    ],
+    "duration": "PT1H26M",
+    "genre": [
+        "Adventure",
+        "Comedy",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg4MzMzMTY0OF5BMl5BanBnXkFtZTYwNzM3MTg2._V1_.jpg",
+    "keywords": "strong female character,fart joke,island,amusement park,motorcycle",
+    "name": "Scooby-Doo",
+    "original_info": {
+        "id": "Scooby-Doo_2002",
+        "name": "Scooby-Doo",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "edo-sofic"
+        },
+        "dateCreated": "2018-10-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0267913/"
+        },
+        "name": "Hidden stoner movie gem",
+        "reviewBody": "It's been 16 years since this movie came out, and I decided to watch it after browsing the Netflix library while being high. I was looking for the dumbest possible movie to watch, and thought Scooby Doo should do. \n\nBoy, like, how wrong was I? Never knew this was actually a stoner movie. I think it's silly enough to be fun if you watch it sober, but if you're high - it's awesome. Just stack up on scooby snacks and enjoy the ride!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Scooby-Doo",
+        "duration": "PT1M46S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi510503193",
+        "name": "Scooby-Doo",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMDkwNzM2NTEtYWRlMi00YjAyLWJjMDQtOWRkMDUyODZiN2ZjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDkwNzM2NTEtYWRlMi00YjAyLWJjMDQtOWRkMDUyODZiN2ZjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2013-09-14T04:55:05Z",
+        "url": "https://www.imdb.com/video/vi510503193/"
+    },
+    "url": "/title/tt0267913/"
+}

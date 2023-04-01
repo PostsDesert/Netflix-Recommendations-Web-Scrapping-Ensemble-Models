@@ -1,0 +1,90 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 923,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "alternateName": "The Way Things Go",
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0074586/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Fischli",
+            "url": "/name/nm0279212/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Weiss",
+            "url": "/name/nm0918956/"
+        }
+    ],
+    "description": "Inside a warehouse, a precarious 70-100 feet long structure has been constructed using various items. When this is set in motion, a chain reaction ensues. Fire, water, law of gravity as well as chemistry determine the life-cycle o...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Peter Fischli",
+            "url": "/name/nm0279212/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Weiss",
+            "url": "/name/nm0918956/"
+        }
+    ],
+    "duration": "PT30M",
+    "genre": [
+        "Documentary",
+        "Short"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMwMzk0OTI0MV5BMl5BanBnXkFtZTcwNTYyNzUxMQ@@._V1_.jpg",
+    "keywords": "chain reaction,art,rube goldberg machine,performance art,modern art",
+    "name": "Der Lauf der Dinge",
+    "original_info": {
+        "id": "The Way Things Go_1987",
+        "name": "The Way Things Go",
+        "year": "1987"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jamesdlee"
+        },
+        "dateCreated": "1999-02-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0094300/"
+        },
+        "name": "Mr. Science on acid...",
+        "reviewBody": "Perhaps the most mesmerizing film without actors since Ballet Mecanique. Swiss pranksters Fischli and Weiss once again present their own peculiar take on art, this time as a recorded demonstration of simple physics and chemical reactions. Gotta see it to believe it.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT3M25S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi934458137",
+        "name": "DER LAUF DER DINGE = THE WAY THINGS GO Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTYwMzQ3NTU2Ml5BMl5BanBnXkFtZTgwMzM2MjIyNjE@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTYwMzQ3NTU2Ml5BMl5BanBnXkFtZTgwMzM2MjIyNjE@._V1_.jpg",
+        "uploadDate": "2015-07-11T04:18:05Z",
+        "url": "https://www.imdb.com/video/vi934458137/"
+    },
+    "url": "/title/tt0094300/"
+}

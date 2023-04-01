@@ -1,0 +1,34 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 11,
+        "ratingValue": 5.3,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0391203/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0103561/"
+        }
+    ],
+    "datePublished": "2023-01-02",
+    "description": "Features \"food talented\" contestants aged from 18 to 25 as their skills are put to the test by a panel of expert judges and celebrity guests.",
+    "genre": [
+        "Game-Show"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYWFmNTYzMWQtMGQwZi00ODg4LWJhNzEtYjI0MWRlNDg0NjFlXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_.jpg",
+    "name": "Young MasterChef",
+    "original_info": {
+        "id": "Young Master_1980",
+        "name": "Young Master",
+        "year": "1980"
+    },
+    "url": "/title/tt18183160/"
+}

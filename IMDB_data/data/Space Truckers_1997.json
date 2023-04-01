@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tim Loane",
+            "url": "/name/nm0516385/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ian Beattie",
+            "url": "/name/nm0064155/"
+        },
+        {
+            "@type": "Person",
+            "name": "Olwen Fouéré",
+            "url": "/name/nm0288260/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 8139,
+        "ratingValue": 5.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0045569/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0078216/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0156955/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ted Mann",
+            "url": "/name/nm1949279/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stuart Gordon",
+            "url": "/name/nm0002340/"
+        }
+    ],
+    "description": "A space trucker and his cute fiancee are on their way from a space station to Earth with an unknown cargo. When space pirates hijack them, 5000 disintegrator robots are found in the cargo.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Stuart Gordon",
+            "url": "/name/nm0002340/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYjZkMzkxMzgtNmZhMC00ODc3LTllMmYtMTRlODhiZjBjOWU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "robot sci fi,b movie,triton,neptune,defensive line",
+    "name": "Space Truckers",
+    "original_info": {
+        "id": "Space Truckers_1997",
+        "name": "Space Truckers",
+        "year": "1997"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "emm"
+        },
+        "dateCreated": "1999-02-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120199/"
+        },
+        "name": "Offbeat sci-fier carries a different truckload of fun.",
+        "reviewBody": "What an unusual, but never before thought of idea! It gets big points for originality by reviving the old days of 70s \"truckin' man\" flicks and updating the genre into a sci-fi visual feast that compares closely to STARSHIP TROOPERS! Imagine if Bo and Luke Duke were flying around in their orange coaster without jumping over obstacles, and avoiding capture by Sheriff Roscoe! There has to be a good sense of fantasy surrounding this old fad. Well, I'm not gonna get all hyped up about SPACE TRUCKERS, which is mainly your regular dosage of outer space mayhem. The simple action looks as good as the rich visual quality, but don't take it too hard. It plunges into the offbeat stage, and loses its sci-fi luster to some needless \"hot\" sexuality (added by the lack of gravity), and a captivity scene. I can tell that the minds of script writers skirted around the explicit subject matter, just to prevent any further boiling on the offensive side. You know, the two lovebirds running and floating around in their undies. And could it be that there are two different endings? Campy as it will sound, there is reason to have fun with it after all. Okay by me.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Sterling Home Entertainment",
+        "duration": "PT1M19S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2610102553",
+        "name": "Space Truckers",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDlmNDRiMDgtYmVmNy00MGU1LWI2MGMtYTZmMWMzYTBhODVkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDlmNDRiMDgtYmVmNy00MGU1LWI2MGMtYTZmMWMzYTBhODVkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:52:07Z",
+        "url": "https://www.imdb.com/video/vi2610102553/"
+    },
+    "url": "/title/tt0120199/"
+}

@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ron Perlman",
+            "url": "/name/nm0000579/"
+        },
+        {
+            "@type": "Person",
+            "name": "Doug Jones",
+            "url": "/name/nm0427964/"
+        },
+        {
+            "@type": "Person",
+            "name": "Selma Blair",
+            "url": "/name/nm0004757/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 336155,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0003580/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0041635/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0186753/"
+        },
+        {
+            "@type": "Person",
+            "name": "Guillermo del Toro",
+            "url": "/name/nm0868219/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Briggs",
+            "url": "/name/nm1486009/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mike Mignola",
+            "url": "/name/nm0586005/"
+        }
+    ],
+    "datePublished": "2004-04-02",
+    "description": "A demon raised from infancy after being conjured by and rescued from the Nazis, grows up to become a defender against the forces of darkness.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Guillermo del Toro",
+            "url": "/name/nm0868219/"
+        }
+    ],
+    "duration": "PT2H2M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTc1ZWY0ZTEtZTVmNi00MTg0LTg4NmQtZTI4OWNiMmQ0MWZkXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+    "keywords": "nazi,demon,hellboy character,hero,assassin",
+    "name": "Hellboy",
+    "original_info": {
+        "id": "Hellboy_2004",
+        "name": "Hellboy",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "MrHeraclius"
+        },
+        "dateCreated": "2020-02-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0167190/"
+        },
+        "name": "Good",
+        "reviewBody": "I've been slowly making my way through Guillermo del Toro's catalogue of movies and this is my first time watching Hell Boy. If you're a Del Toro fan, then this one won't disappoint. He's such a superior director - he adds artistry to this action film through his use of shot making, pacing and colour. At times, the dialogue attempts to be a bit too cute and the love story adds little to the plot, but overall, it's a fun movie that doesn't try to overextend itself."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Hellboy",
+        "duration": "PT16S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3615007769",
+        "name": "Hellboy",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNThjYmNkZDQtMzZlOC00MDBjLWE2NjQtMWJlNThiOTNjZWE2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNThjYmNkZDQtMzZlOC00MDBjLWE2NjQtMWJlNThiOTNjZWE2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2012-10-27T03:16:20Z",
+        "url": "https://www.imdb.com/video/vi3615007769/"
+    },
+    "url": "/title/tt0167190/"
+}

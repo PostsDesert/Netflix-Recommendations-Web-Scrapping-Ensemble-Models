@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Greg Evigan",
+            "url": "/name/nm0263760/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nancy Everhard",
+            "url": "/name/nm0263583/"
+        },
+        {
+            "@type": "Person",
+            "name": "Taurean Blacque",
+            "url": "/name/nm0086000/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 12428,
+        "ratingValue": 5.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0078176/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0094459/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lewis Abernathy",
+            "url": "/name/nm0008656/"
+        },
+        {
+            "@type": "Person",
+            "name": "Geof Miller",
+            "url": "/name/nm0588387/"
+        }
+    ],
+    "datePublished": "1989-01-13",
+    "description": "A team of navy personnel stationed at a temporary base at the bottom of the ocean and tasked with setting up nuclear missiles discovers a huge underwater cavern which houses a giant prehistoric creature.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Sean S. Cunningham",
+            "url": "/name/nm0192446/"
+        }
+    ],
+    "duration": "PT1H39M",
+    "genre": [
+        "Action",
+        "Horror",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOGZmMTBjNDAtMWUxNi00NDM5LTlhMDItOWNhNzliMmUxNGZmXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "scientist,survival horror,self sacrifice,fear,race against time",
+    "name": "DeepStar Six",
+    "original_info": {
+        "id": "DeepStar Six_1989",
+        "name": "DeepStar Six",
+        "year": "1989"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "disdressed12"
+        },
+        "dateCreated": "2008-07-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0097179/"
+        },
+        "name": "a B movie with underwritten story and characters",
+        "reviewBody": "the first 30 minutes of this movie are fairly boring,with not much happening.the film begins to pick up after that.it's basically Alien underwater,though nowhere near as good as that movie.the characters are not as complex,nor is the storyline.it's a B movie,in every respect.when the creature is finally revealed,it's a disappointment.at least i thought it was.unlike Alien,where you get to know the characters,here you really don't,so there's nothing invested in their fates.when they died,the only reaction i could come up with was a yawn.they're all underwritten.the movie is also predictable from the get go.still,it's not the worst movie of the genre,so i give DeepStar Six a 5/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from TriStar Pictures",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2124480793",
+        "name": "DeepStar Six",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZWFmMDQxNWQtNDVkOS00NTFlLTliMjctM2QyY2Y4MWNlYjRmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZWFmMDQxNWQtNDVkOS00NTFlLTliMjctM2QyY2Y4MWNlYjRmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:49:08Z",
+        "url": "https://www.imdb.com/video/vi2124480793/"
+    },
+    "url": "/title/tt0097179/"
+}

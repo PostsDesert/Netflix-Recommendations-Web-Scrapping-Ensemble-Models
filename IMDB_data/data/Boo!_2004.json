@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVEpisode",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kelsey Grammer",
+            "url": "/name/nm0001288/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jane Leeves",
+            "url": "/name/nm0005137/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Hyde Pierce",
+            "url": "/name/nm0001383/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 788,
+        "ratingValue": 8.4,
+        "worstRating": 1
+    },
+    "contentRating": "TV-PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0024983/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0066107/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0053559/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Angell",
+            "url": "/name/nm0029628/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Casey",
+            "url": "/name/nm0143517/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Lee",
+            "url": "/name/nm0497115/"
+        }
+    ],
+    "datePublished": "2004-03-02",
+    "description": "Frasier accidentally gives Martin a mild heart attack by scaring him dressed as a clown, holding a knife.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Katy Garretson",
+            "url": "/name/nm0005601/"
+        }
+    ],
+    "duration": "PT23M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzQwNTc3NjAwNF5BMl5BanBnXkFtZTgwNTQ4MzM0MjE@._V1_.jpg",
+    "keywords": "heart attack,clown,fear of clowns,clown costume,knife",
+    "name": "Boo!",
+    "original_info": {
+        "id": "Boo!_2004",
+        "name": "Boo!",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bevo-13678"
+        },
+        "dateCreated": "2020-11-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0582354/"
+        },
+        "name": "Ha ha",
+        "reviewBody": "I like the bit where he scared the woman in the lift. If it wasn't funny the first time it surely was the third time",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "timeRequired": "PT23M",
+    "url": "/title/tt0582354/"
+}

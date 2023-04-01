@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Randall Batinkoff",
+            "url": "/name/nm0000871/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dylan Haggerty",
+            "url": "/name/nm0353630/"
+        },
+        {
+            "@type": "Person",
+            "name": "J.E. Freeman",
+            "url": "/name/nm0293422/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 61,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0057454/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Moores",
+            "url": "/name/nm0602077/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bryan W. Simon",
+            "url": "/name/nm0800086/"
+        }
+    ],
+    "datePublished": "2001-02-17",
+    "description": "Two estranged brothers are forced to take a surreal and heartfelt journey to understanding, when they pick up the body of their deceased father in Mexico. A father they haven't seen in over 20 years.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bryan W. Simon",
+            "url": "/name/nm0800086/"
+        }
+    ],
+    "duration": "PT1H39M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTNjYzY3ZDktZThlZi00ZDcxLWI4NTQtODNiOTdlMWQzNWU1XkEyXkFqcGdeQXVyOTcyOTM2Mw@@._V1_.jpg",
+    "keywords": "road movie",
+    "name": "Along for the Ride",
+    "original_info": {
+        "id": "Along for the Ride_2000",
+        "name": "Along for the Ride",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "DeyeJoe"
+        },
+        "dateCreated": "2002-02-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0206545/"
+        },
+        "name": "Story, characters and photography overcome the obvious low budget.",
+        "reviewBody": "I enjoyed this film for its \"slow\" development. The background of the characters and their relationship to one another is revealed the way one peels an onion: one thin layer at a time.\n\nThe plot, characters and photography overcome the obvious budget limitations to the point where one can forgive the occasional \"roughness.\" In fact, this rugged (ragged) motif, set against the Mexican Desert, actually helps propel the story.\n\nThere were brave attempts on the part of the Cinematographer to give visual distinction to the \"fantasy\" sequences. These touches, perhaps a bit too subtle for the average viewer, would have been greatly improved with more money and resources, I am sure. It does, however, demonstrate the spirit of the overall film: This was obviously a work of passionate storytelling.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0206545/"
+}

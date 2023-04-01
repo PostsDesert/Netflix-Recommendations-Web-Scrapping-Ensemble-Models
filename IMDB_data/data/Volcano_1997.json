@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tommy Lee Jones",
+            "url": "/name/nm0000169/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anne Heche",
+            "url": "/name/nm0000162/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gaby Hoffmann",
+            "url": "/name/nm0000451/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 78536,
+        "ratingValue": 5.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0116435/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0016278/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jerome Armstrong",
+            "url": "/name/nm0035749/"
+        },
+        {
+            "@type": "Person",
+            "name": "Billy Ray",
+            "url": "/name/nm0712753/"
+        }
+    ],
+    "datePublished": "1997-04-25",
+    "description": "A volcano erupts in downtown Los Angeles and a city official and a seismologist try to stop its inevitable flow through the city.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mick Jackson",
+            "url": "/name/nm0413875/"
+        }
+    ],
+    "duration": "PT1H44M",
+    "genre": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BY2I2MTFiOWMtY2YzOC00MTZjLTg0NWUtMmZjZWJlZDYwZDZkXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+    "keywords": "natural disaster,los angeles california,self sacrifice,explosion,volcanic eruption",
+    "name": "Volcano",
+    "original_info": {
+        "id": "Volcano_1997",
+        "name": "Volcano",
+        "year": "1997"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "BA_Harrison"
+        },
+        "dateCreated": "2013-10-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120461/"
+        },
+        "name": "Spews out the usual disaster movie clichés.",
+        "reviewBody": "In the mid-90s, the disaster movie experienced a revival thanks to the advancement of CGI technology, which made creating scenes of destruction on a massive scale far easier and more convincing than ever before; 1997 was the year of the volcano, seeing both the release of Universal's Dante's Peak, and this rather unimaginatively titled effort from 20th Century Fox, which starred Tommy Lee Jones as Office of Emergency Management director Mike Roark, who must try and prevent downtown LA from being entirely engulfed by lava that erupts from the La Brea tar pits.\n\nA slick, major studio, big-budget summer blockbuster, Volcano naturally benefits from a solid cast and state of the art special effects, but proves less thrilling than the premise suggests thanks to a lack of genuinely exciting or particularly innovative set-pieces: too much of the action centres around Jones's attempts to stem the flow of lava, which travels at walking pace thereby presenting little danger to anyone but the elderly and the infirm; meanwhile, director Mick Jackson ticks off the expected clichés from his disaster movie checklist—personal dramas, heroic sacrifices, a sexy scientist, even a cute dog in peril—before wrapping matters up rather too neatly with a finale that delivers far too low a death toll to be truly satisfying.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from 20th Century Fox Home Entertainment",
+        "duration": "PT2M26S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi836829465",
+        "name": "Volcano",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNGI3MjMzMWEtMTM1YS00NmM2LTk1YTEtNzVjYThhOTQzZmUyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNGI3MjMzMWEtMTM1YS00NmM2LTk1YTEtNzVjYThhOTQzZmUyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:41:36Z",
+        "url": "https://www.imdb.com/video/vi836829465/"
+    },
+    "url": "/title/tt0120461/"
+}

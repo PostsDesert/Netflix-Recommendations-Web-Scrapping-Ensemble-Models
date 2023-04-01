@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Eamonn Walker",
+            "url": "/name/nm0907708/"
+        },
+        {
+            "@type": "Person",
+            "name": "Laurence Fishburne",
+            "url": "/name/nm0000401/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gregory Hines",
+            "url": "/name/nm0002138/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 779,
+        "ratingValue": 5.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0061254/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0022461/"
+        },
+        {
+            "@type": "Person",
+            "name": "Laurence Fishburne",
+            "url": "/name/nm0000401/"
+        }
+    ],
+    "datePublished": "2000-10-27",
+    "description": "Street hustler Mike cooks up a drug rip-off with his estranged half-brother Torch. Simple robbery turns fatal bloodbath, so they hide out in a claustrophobic rat hole waiting for Mike's buddy Tony, who's \"out of the life,\" or so h...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Laurence Fishburne",
+            "url": "/name/nm0000401/"
+        }
+    ],
+    "duration": "PT1H47M",
+    "genre": [
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTVmZWNmNjktYjU1Ny00MWI3LWI4MTktNDVlM2MxY2RiYmZjXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+    "keywords": "half brother,vomiting,new york city,written and directed by cast member,voice over narration",
+    "name": "Once in the Life",
+    "original_info": {
+        "id": "Once in the Life_2000",
+        "name": "Once in the Life",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "tonyfredianellimusic"
+        },
+        "dateCreated": "2018-10-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0177068/"
+        },
+        "name": "Awesome movie.",
+        "reviewBody": "LF does a fantastic job with this movie of drawing you into the characters. The scenes of long dialouge have a special theatrical effect. Don't believe anyone trying to say different. I like this movie more than Matrix. This movie is something Mr Fishbourne should be tremendously proud. 10 stars.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0177068/"
+}

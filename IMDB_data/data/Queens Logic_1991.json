@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kevin Bacon",
+            "url": "/name/nm0000102/"
+        },
+        {
+            "@type": "Person",
+            "name": "Linda Fiorentino",
+            "url": "/name/nm0000400/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Malkovich",
+            "url": "/name/nm0000518/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1729,
+        "ratingValue": 5.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0094459/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0046718/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0653046/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tony Spiridakis",
+            "url": "/name/nm0819045/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joseph W. Savino",
+            "url": "/name/nm0767755/"
+        }
+    ],
+    "datePublished": "1991-02-01",
+    "description": "A group of lifelong friends meet again in Queens for Ray's (Ken Olin) bachelor party and wedding.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Steve Rash",
+            "url": "/name/nm0711114/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BM2IzNzBlZGQtM2U0Yy00MzVmLWFmOTYtYTI5YTZhNjc4NWI5XkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+    "keywords": "straight actor gay character,gay character,cadillac convertible,climbing a rope,anniversary gift",
+    "name": "Queens Logic",
+    "original_info": {
+        "id": "Queens Logic_1991",
+        "name": "Queens Logic",
+        "year": "1991"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "pk-2"
+        },
+        "dateCreated": "1999-04-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0102741/"
+        },
+        "name": "Unknown movie that's on my top 25 list..",
+        "reviewBody": "The only non famous movie on my top 25 list is Queens logic. I dont know why I relate to this movie. Its got a little of everything I like in a movie- comedy, male bonding or whatever you call it, good music, romance, fighting, pain, and a host of other things. Not to mention the incredible cast."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A group of lifelong friends meet again in Queens for Ray's bachelor party and wedding.",
+        "duration": "PT3M11S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2859909913",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTZkY2MzNGQtZjQzMC00NzQ4LTgyNTItMTVlZWE5ZDk1Y2E3XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTZkY2MzNGQtZjQzMC00NzQ4LTgyNTItMTVlZWE5ZDk1Y2E3XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2022-02-16T15:04:17.309Z",
+        "url": "https://www.imdb.com/video/vi2859909913/"
+    },
+    "url": "/title/tt0102741/"
+}

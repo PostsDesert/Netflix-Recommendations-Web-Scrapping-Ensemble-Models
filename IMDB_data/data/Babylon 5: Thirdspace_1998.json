@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bruce Boxleitner",
+            "url": "/name/nm0000310/"
+        },
+        {
+            "@type": "Person",
+            "name": "Claudia Christian",
+            "url": "/name/nm0160004/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mira Furlan",
+            "url": "/name/nm0001245/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5584,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0039264/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0009512/"
+        },
+        {
+            "@type": "Person",
+            "name": "J. Michael Straczynski",
+            "url": "/name/nm0833089/"
+        }
+    ],
+    "datePublished": "1998-07-19",
+    "description": "The crew of Babylon 5 discover an ancient artifact floating in hyperspace.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jesús Salvador Treviño",
+            "url": "/name/nm0872442/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTIwODAxNTM2MV5BMl5BanBnXkFtZTYwNjY4NDE5._V1_.jpg",
+    "keywords": "second part,space opera,23rd century,telepathy,alien invasion",
+    "name": "Babylon 5: Thirdspace",
+    "original_info": {
+        "id": "Babylon 5: Thirdspace_1998",
+        "name": "Babylon 5: Thirdspace",
+        "year": "1998"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bakchu"
+        },
+        "dateCreated": "2006-10-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0121804/"
+        },
+        "name": "Symphonic film",
+        "reviewBody": "The basic story of \"Thirdspace\" is rather straight and simple, it could have been told in the time span of a regular B5 episode without being hasty. So, what makes \"Thirdspace\" interesting to watch, if you like this kind of sci-fi movie, more than the story or the not-too-overwhelming quality of acting, is its strong symphonic side - the synthesis of (CGI) images and Franke's score into a \"space symphony\" sometimes even resembling \"Star Trek: The Motion Picture\". It's not as elegant, though. \"Thirdspace\" is faster and somehow rougher, there is less sheer grandeur (well, it's a TV movie), but still... one can enjoy much of it indeed, literally, as a moving picture with music. What I also would like to mention, though, is Patricia Tallman's performance - distinctly more inspired and refined than what we saw in the preceding B5 episodes.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0121804/"
+}

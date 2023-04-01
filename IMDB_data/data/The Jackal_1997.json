@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bruce Willis",
+            "url": "/name/nm0000246/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Gere",
+            "url": "/name/nm0000152/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sidney Poitier",
+            "url": "/name/nm0001627/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 119859,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0007500/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0049706/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kenneth Ross",
+            "url": "/name/nm0743584/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chuck Pfarrer",
+            "url": "/name/nm0679326/"
+        }
+    ],
+    "datePublished": "1997-11-14",
+    "description": "An imprisoned I.R.A. fighter is freed to help stop a brutal, seemingly \"faceless\" assassin from completing his next job.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Caton-Jones",
+            "url": "/name/nm0001994/"
+        }
+    ],
+    "duration": "PT2H4M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOWY2ZDFiOTktNzk0OC00NTc5LTkzOWItMTZhZTdjOTBmYzU5XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "mariachi band,scantily clad female,bikini,man with no name,gun for hire",
+    "name": "The Jackal",
+    "original_info": {
+        "id": "The Jackal_1997",
+        "name": "The Jackal",
+        "year": "1997"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Leofwine_draca"
+        },
+        "dateCreated": "2021-09-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0119395/"
+        },
+        "name": "Poor remake, okay as a stand alone",
+        "reviewBody": "I saw this back in the day. Unrecognisable from THE DAY OF THE JACKAL, of course, and not a patch on it, but serviceable enough for a late 1990s suspense/action/thriller. You can tell Willis is really enjoying something other than his jaded action star role and the Jack Black scene is worth the price of admission alone.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Universal Studios Home Entertainment",
+        "duration": "PT1M18S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2952003865",
+        "name": "The Jackal",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZmY4NmMyYjMtZjc4Ni00NDRjLWE4NmMtYTkwNzQxMDYyZjcyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZmY4NmMyYjMtZjc4Ni00NDRjLWE4NmMtYTkwNzQxMDYyZjcyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:50:18Z",
+        "url": "https://www.imdb.com/video/vi2952003865/"
+    },
+    "url": "/title/tt0119395/"
+}

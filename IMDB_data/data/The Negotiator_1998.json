@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Samuel L. Jackson",
+            "url": "/name/nm0000168/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kevin Spacey",
+            "url": "/name/nm0000228/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Morse",
+            "url": "/name/nm0001556/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 146727,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007127/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0064942/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0007127/"
+        },
+        {
+            "@type": "Person",
+            "name": "James DeMonaco",
+            "url": "/name/nm0218621/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kevin Fox",
+            "url": "/name/nm0289100/"
+        }
+    ],
+    "datePublished": "1998-07-29",
+    "description": "In a desperate attempt to prove his innocence, a skilled police negotiator accused of corruption and murder takes hostages in a government office to gain the time he needs to find the truth.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "F. Gary Gray",
+            "url": "/name/nm0336620/"
+        }
+    ],
+    "duration": "PT2H20M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOGE1YTI2NjItNDAyYy00YzI3LTlmNDUtYWU0ZmFlNWE3N2ViL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "keywords": "police conspiracy,opening action scene,police shootout,last film role for actor,fbi federal bureau of investigation",
+    "name": "The Negotiator",
+    "original_info": {
+        "id": "The Negotiator_1998",
+        "name": "The Negotiator",
+        "year": "1998"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Sandcooler"
+        },
+        "dateCreated": "2009-08-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120768/"
+        },
+        "name": "Edge of the seat",
+        "reviewBody": "Samuel L. Jackson is probably one of the most awesome actors that ever lived, and his pure uncut awesomeness is captured perfectly in this well thought-out thriller. He's angry. He's looking for justice. Don't get in his way. The plot moves at a breakneck pace, and the length of the running time will probably go completely unnoticed because the direction looks so compact. This movie is over two hours long? I really have a hard time believing that. It just flies by, even though most of it happens in and around one location. With a build-up this exciting, the conclusion is usually a disappointment, but even that's not the case here. This is a rush of adrenaline captured on celluloid.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT33S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1157038361",
+        "name": "The Negotiator",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTNjMjI1YWEtNjU4YS00N2E0LTlhMzEtOWZiYzFlNzc5ODIwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTNjMjI1YWEtNjU4YS00N2E0LTlhMzEtOWZiYzFlNzc5ODIwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:59:05Z",
+        "url": "https://www.imdb.com/video/vi1157038361/"
+    },
+    "url": "/title/tt0120768/"
+}

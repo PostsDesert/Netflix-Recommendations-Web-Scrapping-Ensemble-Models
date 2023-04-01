@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Frank Sinatra",
+            "url": "/name/nm0000069/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dean Martin",
+            "url": "/name/nm0001509/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sammy Davis Jr.",
+            "url": "/name/nm0002035/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5426,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0352994/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0039921/"
+        },
+        {
+            "@type": "Person",
+            "name": "David R. Schwartz",
+            "url": "/name/nm0777202/"
+        }
+    ],
+    "datePublished": "1964-06-24",
+    "description": "In Prohibition-era Chicago, two rival gangs compete for control of the city's rackets.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Gordon Douglas",
+            "url": "/name/nm0235066/"
+        }
+    ],
+    "duration": "PT2H3M",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Musical"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM5ZDEwMzQtNDYwZC00ZDFhLWFlMTMtMWE4YzJmNmM0MmU2XkEyXkFqcGdeQXVyNDQzMDg4Nzk@._V1_.jpg",
+    "keywords": "dancing,singing,rat pack,bootlegger,crime boss",
+    "name": "Robin and the 7 Hoods",
+    "original_info": {
+        "id": "Robin and the 7 Hoods_1964",
+        "name": "Robin and the 7 Hoods",
+        "year": "1964"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Michael_Elliott"
+        },
+        "dateCreated": "2008-06-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0058529/"
+        },
+        "name": "Too Long",
+        "reviewBody": "Robin and the 7 Hoods (1964) \n\n** 1/2 (out of 4) \n\nThe Rat Pack take on gangsters in the 1920's Chicago in this spoof of the genre, which is also mixed with the Robin Hood story. After the top gangster is killed at his birthday party, Guy Gisborne (Peter Falk) takes over the mob with the help of a corrupt cop but this doesn't sit well with Robbo (Frank Sinatra). Instead of joining up with the other mobs, Robbo decides to team up with some buddies (Dean Martin, Sammy Davis, Jr., Bing Crosby) and take the city over with charity work. This movie starts off very well but slowly runs out of gas and in the end it becomes a rather drag, which is a shame since the movie started off so well. I think the biggest problem is the running time, which just keeps the moving going and going when it should have probably ran only 90 or 100 minutes. The first half of the film is extremely fast, loose and fun and it offers up plenty of nice laughs including a hilarious cameo by Edward G. Robinson. Sinatra, rumored to have had mob connections, fits his role extremely well and delivers a fine performance of \"My Kind of Town\". Sammy Davis, Jr. is also very good in the film and gives one of the highlights in his performance of \"Bang, Bang\" and he also does a great impression of James Cagney. Martin is also very funny as is Crosby but Falk really steals the show as the rival gangster. For the most part the music is good, although I think the song \"Mr. Booze\" runs too long and really brings the film to a standstill. The history behind the making of this film is rather interesting since Kennedy was assassinated during production and Sinatra's own son was kidnapped and held for ransom, which also had the filmmakers cut a kidnapping scene from the film. There's a joke early in the film about the Lincoln assassination and I'm shocked this was left in the film after what happened to Kennedy. At any point, this is a fairly entertaining comedy that has a lot going for it but an editor really would have helped things."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT3M27S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1850062873",
+        "name": "Robin and the 7 Hoods",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTZkMDQwMGEtNmFhYi00MWMxLWI3MWYtMzVlYzY4MzAwYzI2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTZkMDQwMGEtNmFhYi00MWMxLWI3MWYtMzVlYzY4MzAwYzI2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2018-05-04T17:15:54Z",
+        "url": "https://www.imdb.com/video/vi1850062873/"
+    },
+    "url": "/title/tt0058529/"
+}

@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jon Voight",
+            "url": "/name/nm0000685/"
+        },
+        {
+            "@type": "Person",
+            "name": "JoBeth Williams",
+            "url": "/name/nm0001851/"
+        },
+        {
+            "@type": "Person",
+            "name": "Annabeth Gish",
+            "url": "/name/nm0001272/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1048,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0001938/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0082000/"
+        },
+        {
+            "@type": "Person",
+            "name": "Linda Remy",
+            "url": "/name/nm0719074/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eugene Corr",
+            "url": "/name/nm0180644/"
+        }
+    ],
+    "datePublished": "1986-04-18",
+    "description": "The story involves Rose Chismore's youth. She flashes back and remembers her coming-of-age. Her recollections are sometimes less than sweet, particularly those of her troubled and alcoholic stepfather. Her memories of Robin, her f...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Eugene Corr",
+            "url": "/name/nm0180644/"
+        }
+    ],
+    "duration": "PT1H45M",
+    "genre": [
+        "Drama",
+        "Family",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYjZlNWFlYzQtOGI4NS00MmJjLWE5NTAtMzg0ZjkyYTJmMDVjXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+    "keywords": "girl wears eyeglasses,eyeglasses,nuclear weapon,ptsd post traumatic stress disorder,timeframe 1950s",
+    "name": "Desert Bloom",
+    "original_info": {
+        "id": "Desert Bloom_1986",
+        "name": "Desert Bloom",
+        "year": "1986"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "WendyOh!"
+        },
+        "dateCreated": "2001-07-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0090934/"
+        },
+        "name": "Wonderful film.",
+        "reviewBody": "Very underrated 1950's story, basically about a messed up family. But boy oh boy are they messed up. Featuring outstanding performances by Ellen Barkin and Jon Voight, and nearly stolen by newcomer Annabeth Gish, this is a haunting provocative story of a family in crisis, just as the nation was in crisis. Beautifully done."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT1M13S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2933178137",
+        "name": "Desert Bloom",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNWYzMjJiODktMDNiOS00ZTYxLThlZTEtOWUwODc0NGZhZWIwXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNWYzMjJiODktMDNiOS00ZTYxLThlZTEtOWUwODc0NGZhZWIwXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg",
+        "uploadDate": "2019-11-05T17:03:37.327Z",
+        "url": "https://www.imdb.com/video/vi2933178137/"
+    },
+    "url": "/title/tt0090934/"
+}

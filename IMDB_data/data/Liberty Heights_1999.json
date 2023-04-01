@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Adrien Brody",
+            "url": "/name/nm0004778/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bebe Neuwirth",
+            "url": "/name/nm0001564/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joe Mantegna",
+            "url": "/name/nm0001505/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6857,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0038108/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0114242/"
+        },
+        {
+            "@type": "Person",
+            "name": "Barry Levinson",
+            "url": "/name/nm0001469/"
+        }
+    ],
+    "datePublished": "1999-12-31",
+    "description": "Baltimore, Fall 1954: Schools implement the new integration law. Ben finds the \"colored\" girl in his class cute - upsetting his Jewish mom and granny. Ben talks to her while his brother looks for his WASP dream girl.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Barry Levinson",
+            "url": "/name/nm0001469/"
+        }
+    ],
+    "duration": "PT2H7M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQyNDY5MzczMF5BMl5BanBnXkFtZTYwMjY4MzQ3._V1_.jpg",
+    "keywords": "smashed pumpkin,1950s,high school,party,racial integration",
+    "name": "Liberty Heights",
+    "original_info": {
+        "id": "Liberty Heights_1999",
+        "name": "Liberty Heights",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ladder2thestars"
+        },
+        "dateCreated": "2002-12-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0165859/"
+        },
+        "name": "Reality at its Best",
+        "reviewBody": "This movie is sort of like the concept of the TV show Seinfeld-- it's about nothing. By this I don't mean that it lacks substance, in fact, it has plenty, but I mean rather that it does not involve an intense plot line. It's more like a series of snapshots taken out of one family's album, like a brief recording of one year in their lives. It's as if these people were real, simply going about their lives in their times, and we got to peek in on them, and it is acted in just that way. I think it's very true to director Barry Levinson's vision, a vision that is clear upon viewing his other films that he includes with Liberty Heights as his \"Baltimore\" films. These include Diner, Avalon, and Tin Men. Because this is not the typical problem arises-conflict ensues-climax is reached-conclusion is found film, Levinson shows us that these people's lives were a series of ups and downs, joys and losses, that summarize American middle-class youth in all ages in history. There connections between the different walks of life and the idea of growing up and discovering diversity around you is what makes this film universal and beautiful, all without handing you morals and themes on a silver platter. This film takes a wonderfully objective viewpoint that allows you to make meaning of it rather than spelling it out for you."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3400139033",
+        "name": "Liberty Heights",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzQyYTRlODQtYjA3ZS00NjA0LWI2MjAtMWU2NTBkMzIxZWZhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzQyYTRlODQtYjA3ZS00NjA0LWI2MjAtMWU2NTBkMzIxZWZhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:19:06Z",
+        "url": "https://www.imdb.com/video/vi3400139033/"
+    },
+    "url": "/title/tt0165859/"
+}

@@ -1,0 +1,80 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ned Beatty",
+            "url": "/name/nm0000885/"
+        },
+        {
+            "@type": "Person",
+            "name": "David F. Friedman",
+            "url": "/name/nm0293354/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mildred Horn",
+            "url": "/name/nm0394890/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 140,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0091985/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0123653/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sam Harrison",
+            "url": "/name/nm0365861/"
+        }
+    ],
+    "description": "Actor Ned Beatty hosts a look at the genre known as \"exploitation\" films. Interviews with some of the producers and directors of these films are shown, along with scenes from and trailers for some of these films.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Sam Harrison",
+            "url": "/name/nm0365861/"
+        }
+    ],
+    "duration": "PT1H14M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE1ODQ2NjE5Nl5BMl5BanBnXkFtZTcwODYyNjkyMQ@@._V1_.jpg",
+    "keywords": "producer,interview,host,director,actor",
+    "name": "Sex and Buttered Popcorn",
+    "original_info": {
+        "id": "sex_1989",
+        "name": "sex",
+        "year": "1989"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "horn-5"
+        },
+        "dateCreated": "2007-05-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0158942/"
+        },
+        "name": "Wait....there's more.",
+        "reviewBody": "In fact, there is 338 minutes, which is a tad bit more than the 74 minutes shown on site as the running time. This comes from a three-volume VHS set released in 2001 by Kit Parker and VCI Entertainment.\n\nVolume 1 \"Sex and Buttered Popcorn: \"Tease, Sleaze and Social Disease\" begins with trailers, images of the lobby cards and posters, Ned Beatty doing a carnival barker introduction, and then the nearly full-length presentation of 1934's \"Tomorrow's Children'\", followed by 1943's \"The Story of DE 733 (The Ship of Shame.\" )113 minutes running time.\n\nVolume 2 \"Sex and Buttered Popcorn: \"Sex, Sin and Salvation\" begins with (different)trailers, images of the lobby cards and posters, Ned Beatty doing a carnival barker introduction, followed by full versions of 1940's \"Mad Youth\" and 1949's \"Wild Weed. 143 minutes running time.\n\nVolume 3 \"Sex and Buttered Popcorn: \"The Story of the Hollywood Exploiteers\", is basically the version shown on site, minus Beatty's carnival spiel but narrated throughout by Mr. Beatty and as described in most of the Reviews and Comments on this page. 82 Minutes running time."
+    },
+    "url": "/title/tt0158942/"
+}

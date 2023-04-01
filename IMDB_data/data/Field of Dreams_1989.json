@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kevin Costner",
+            "url": "/name/nm0000126/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Earl Jones",
+            "url": "/name/nm0000469/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ray Liotta",
+            "url": "/name/nm0000501/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 122003,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0119038/"
+        },
+        {
+            "@type": "Person",
+            "name": "W.P. Kinsella",
+            "url": "/name/nm0455875/"
+        },
+        {
+            "@type": "Person",
+            "name": "Phil Alden Robinson",
+            "url": "/name/nm0004675/"
+        }
+    ],
+    "datePublished": "1989-05-05",
+    "description": "Iowa farmer Ray Kinsella is inspired by a voice he can't ignore to pursue a dream he can hardly believe. Supported by his wife, Ray begins the quest by turning his ordinary cornfield into a place where dreams can come true.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Phil Alden Robinson",
+            "url": "/name/nm0004675/"
+        }
+    ],
+    "duration": "PT1H47M",
+    "genre": [
+        "Drama",
+        "Family",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzk5OWY0YjAtYWU3ZS00Y2Q4LWFlNjItMzgwMTQ2MjIyMDFmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "baseball,baseball field,farmer,hearing voices,ghost",
+    "name": "Field of Dreams",
+    "original_info": {
+        "id": "Field of Dreams_1989",
+        "name": "Field of Dreams",
+        "year": "1989"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "josh-hall"
+        },
+        "dateCreated": "2004-12-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0097351/"
+        },
+        "name": "Without a doubt the most magical vibe to ever come on the screen!",
+        "reviewBody": "I have now seen this film around 12 times in two months and i can safely say this is one of my all time favourite pictures!It has everything1 excellent acting from Costner,Earl Jones and the great late Burt Lancaster in one of his last film roles which is definably one of his finest.Ray Liotta also was amazing for one of his first roles as Shoeless Joe Jackson which i felt could not of gone to anyone else but Liotta.The storyline is dazzling as well as the acting and the dialogue.This movie is an incredible and a times comical experience.Every actor in this film should feel more than proud they were in this amazing feel good movie which has never deserved a bad review. This for me is definitely a 10 out of 10 picture which i might watch again tonight actually even though i only saw it yesterday."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Universal Pictures",
+        "duration": "PT2M22S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi459472921",
+        "name": "Field of Dreams",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTJhZGVjNWYtMTdlMS00YjkzLTk5YTItOGJiMDY4MTNkMTU1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTJhZGVjNWYtMTdlMS00YjkzLTk5YTItOGJiMDY4MTNkMTU1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-10-18T03:17:26Z",
+        "url": "https://www.imdb.com/video/vi459472921/"
+    },
+    "url": "/title/tt0097351/"
+}

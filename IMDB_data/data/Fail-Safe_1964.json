@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Henry Fonda",
+            "url": "/name/nm0000020/"
+        },
+        {
+            "@type": "Person",
+            "name": "Walter Matthau",
+            "url": "/name/nm0000527/"
+        },
+        {
+            "@type": "Person",
+            "name": "Fritz Weaver",
+            "url": "/name/nm0915851/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 22978,
+        "ratingValue": 8,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Person",
+            "name": "Walter Bernstein",
+            "url": "/name/nm0077159/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eugene Burdick",
+            "url": "/name/nm0120969/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harvey Wheeler",
+            "url": "/name/nm0923838/"
+        }
+    ],
+    "datePublished": "1964-10-07",
+    "description": "A technical malfunction sends American planes to Moscow to deliver a nuclear attack. Can all-out war be averted?",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Sidney Lumet",
+            "url": "/name/nm0001486/"
+        }
+    ],
+    "duration": "PT1H52M",
+    "genre": [
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjcyZjA1NzktYmNmYy00M2UwLWFmNTktNzRmNjNiZWUyZGI1XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "keywords": "nuclear attack,russia,bomber,u.s. air force,nuclear war",
+    "name": "Fail Safe",
+    "original_info": {
+        "id": "Fail-Safe_1964",
+        "name": "Fail-Safe",
+        "year": "1964"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "XRANDY"
+        },
+        "dateCreated": "2001-11-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0058083/"
+        },
+        "name": "Brilliant",
+        "reviewBody": "I saw this movie via two instances of serendipity. First I just happened to be living in an area that offered The Disney Channel in the basic cable package (which is all I ever get) and that as a Bruce Springsteen fan I was excited that the Disney Channel was going to broadcast a special concert short on The Boss. Of course I'm an older Springsteen fan, so instead of staying up late to watch it I just put a tape in and pressed record. The next day I enjoyed the concert, but forgot to hit stop when it ended. What followed next was \"Fail Safe\". After a few minutes it caught my interest, and now is one of my favorite films.\n\nI'm not sure if this was a precursor to \"Strangelove\" or vice versa, for they are both listed as 1964 releases. Oddly they both have the same texture about them which leads me to believe that there was more than coincidence in their respective productions. Both are piece de resistances in Cold War studies. The main sundering is that where \"Strangelove\" excels in parody, \"Fail Safe\" is rich in tension.\n\nOf course an anxious film about nuclear war on the brink can easily invoke tension (remember \"War Games\"?), but this film exceeds a good plot. The filmmakers use a backdrop of soceital depravity to create neurasthenia and presentiment; as shown by the strange and erotic scene with Walter Matthau and the woman in the car (kind of a mass-sadisim, lust thing) and the implied domestic violence in the apartment scene. The movie is also deliciously philosophical (the clever \"criminals and file clerks will survive\" theory) as well as adroit phsycological character development for all the main characters.\n\nThe picture is also darkly filmed, remarkedly minimalist and low-budget as if to show the limits of technology, in order to symbolize the sophistry of our trust in it. BTW I love the Matthau character's (the political science professor) line as he explains the faults of missles that have no human intuition. \"The rockets have the defect of their virtues\" he says in explaining how they cannot make a conscious decision to abort after receiving an order. But the message in this film is clear; even if technology breaks down it is only a symptom of our doom, ultimately it is humans who are responsible."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M56S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi400931865",
+        "name": "Trailer [OV]",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjExYTg4YzctNGIwZC00ZWUwLWFhOWItNTJhYjRiY2UzZjk4XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjExYTg4YzctNGIwZC00ZWUwLWFhOWItNTJhYjRiY2UzZjk4XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2019-05-10T17:11:30.491Z",
+        "url": "https://www.imdb.com/video/vi400931865/"
+    },
+    "url": "/title/tt0058083/"
+}

@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kathy Bates",
+            "url": "/name/nm0000870/"
+        },
+        {
+            "@type": "Person",
+            "name": "Garry Chalk",
+            "url": "/name/nm0149942/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tabitha St. Germain",
+            "url": "/name/nm0319308/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 280,
+        "ratingValue": 5.5,
+        "worstRating": 1
+    },
+    "contentRating": "TV-G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0150906/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0010588/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0035460/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Reiser",
+            "url": "/name/nm0001663/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Hardison",
+            "url": "/name/nm0362428/"
+        }
+    ],
+    "datePublished": "2004-11-09",
+    "description": "Popeye, Olive and Bluto head out to find Popeye's long lost Pappy.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ezekiel Norton",
+            "url": "/name/nm0002923/"
+        }
+    ],
+    "duration": "PT44M",
+    "genre": [
+        "Animation",
+        "Short",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUzNzA5ODM4NV5BMl5BanBnXkFtZTcwNjg1NjYyMQ@@._V1_.jpg",
+    "keywords": "popeye the sailor character,olive oyl character,bluto character,poopdeck pappy character,swee'pea character",
+    "name": "Popeye's Voyage: The Quest for Pappy",
+    "original_info": {
+        "id": "Popeye's Voyage: Quest for Pappy_2004",
+        "name": "Popeye's Voyage: Quest for Pappy",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "stevenpdilworth"
+        },
+        "dateCreated": "2006-03-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0400743/"
+        },
+        "name": "This version of Popeye Nailed it right on the head!!",
+        "reviewBody": "I loved this Popeye adventure. From the voice renditions, to the off-hand muttering by Popeye, right down to Pappy's scrappy lovable nature, Bluto's rough and tumble ignorance, Olive Oyl's firm-handed yet loyal nature, Sweet Pea's way of communicating without actual words and Wimpy's gad-about hand-out always hungry silliness, this movie had all the flavor of the great black and white classics!! Mainstream entertainment should be proud of this accomplishment. With beautiful textures, picture perfect models and beautiful atmospherics, they managed to capture everything I loved about Popeye as a boy. My hat is off to Paul Reiser and everyone else involved.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT1M32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi914424089",
+        "name": "Popeye's Voyage: The Quest For Pappy",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzA4ZTI4ODQtNDA4My00NGFjLWEzOTUtZWQ1ODYzMWUzZTg4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzA4ZTI4ODQtNDA4My00NGFjLWEzOTUtZWQ1ODYzMWUzZTg4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:42:38Z",
+        "url": "https://www.imdb.com/video/vi914424089/"
+    },
+    "url": "/title/tt0400743/"
+}

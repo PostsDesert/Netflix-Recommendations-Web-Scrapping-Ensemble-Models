@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Hugh Grant",
+            "url": "/name/nm0000424/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lizzy McInnerny",
+            "url": "/name/nm0570569/"
+        },
+        {
+            "@type": "Person",
+            "name": "Valentine Pelka",
+            "url": "/name/nm0670893/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1084,
+        "ratingValue": 5.7,
+        "worstRating": 1
+    },
+    "alternateName": "Rowing with the Wind",
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0059468/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0072795/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0071049/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gonzalo Suárez",
+            "url": "/name/nm0840779/"
+        }
+    ],
+    "datePublished": "1989-07-01",
+    "description": "Lord Byron, poet Percy Shelley, his future wife, Mary Shelley (writing Frankenstein) and others spend the summer of 1816 together.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Gonzalo Suárez",
+            "url": "/name/nm0840779/"
+        }
+    ],
+    "duration": "PT1H45M",
+    "genre": [
+        "Drama",
+        "Horror",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTYwZWMzMjgtNThmYi00ZmM2LTg0N2EtYTNhZDE2YjhlMTRhXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",
+    "keywords": "horseback riding,killing an animal,dog,poisoning an animal,lord byron character",
+    "name": "Remando al viento",
+    "original_info": {
+        "id": "Rowing with the Wind_1988",
+        "name": "Rowing with the Wind",
+        "year": "1988"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "joanriba"
+        },
+        "dateCreated": "2001-11-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0093840/"
+        },
+        "name": "Good film",
+        "reviewBody": "I disagree with most of the critics, I think it's an excellent film. Camera, music, colors, everything is an harmonic combination. The only possible critic might be, the film can be a little be pretentious, but I would never describe it as tedious. You like it or hate it, I am of the fortunate ones.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Remando Al Viento: Sing With Me",
+        "duration": "PT1M52S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3143484697",
+        "name": "Remando Al Viento: Sing With Me",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMDczZjEyMzQtZWY2Ny00OGQ1LWFjMDYtOWEyNGRlZDIyOTgwXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDczZjEyMzQtZWY2Ny00OGQ1LWFjMDYtOWEyNGRlZDIyOTgwXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2023-02-14T21:09:23.477Z",
+        "url": "https://www.imdb.com/video/vi3143484697/"
+    },
+    "url": "/title/tt0093840/"
+}

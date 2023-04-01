@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Chevy Chase",
+            "url": "/name/nm0000331/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joe Don Baker",
+            "url": "/name/nm0000833/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dana Wheeler-Nicholson",
+            "url": "/name/nm0923984/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 54985,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0794075/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gregory McDonald",
+            "url": "/name/nm0567780/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrew Bergman",
+            "url": "/name/nm0000921/"
+        },
+        {
+            "@type": "Person",
+            "name": "Phil Alden Robinson",
+            "url": "/name/nm0004675/"
+        }
+    ],
+    "datePublished": "1985-05-31",
+    "description": "Irwin M. \"Fletch\" Fletcher is a newspaper reporter being offered a large sum to off a cancerous millionaire, but is on the run, risking his job and finding clues when it's clear the man is healthy.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Ritchie",
+            "url": "/name/nm0006916/"
+        }
+    ],
+    "duration": "PT1H38M",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzQ4MWI3YTYtNzlkNS00Zjc0LWI5MWItMTQwZDYzMzc1MzQ2XkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
+    "keywords": "investigation,undercover,character name in title,car chase,voice over narration",
+    "name": "Fletch",
+    "original_info": {
+        "id": "Fletch_1985",
+        "name": "Fletch",
+        "year": "1985"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Coxer99"
+        },
+        "dateCreated": "1999-03-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0089155/"
+        },
+        "name": "Classic Chevy",
+        "reviewBody": "Chevy Chase's finest comedy. It's the part that he really sunk his teeth into. It's a perfect blend of humor, mystery and drama. Although Chase gets more mileage out of it because of the laughs, it's an intriguing character in all respects.\n\nMichael Ritchie directs nicely and the supporting cast works well, particularly Libertini as Fletch's noisy and brassy editor in chief. This is a film that is filled with more classic one liners than any film in the 1980's. It's one that makes us miss the old Chase and wonder why he's planning to make yet another \"Vacation\" movie.\n\nWe miss you, Chevy!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0089155/"
+}

@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Alex Wolff",
+            "url": "/name/nm1842974/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stefania LaVie Owen",
+            "url": "/name/nm2901344/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chris Cooper",
+            "url": "/name/nm0177933/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1029,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0604555/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0279529/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0524443/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Steven Sadwith",
+            "url": "/name/nm0005610/"
+        }
+    ],
+    "datePublished": "2016-10-14",
+    "description": "In 1969, the Holden Caulfield-obsessed Jamie Schwartz runs away from boarding school to find the reclusive author J.D. Salinger. Inspired by actual events, Jamie's search is a journey into the meaning of friendship, love and loss.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "James Steven Sadwith",
+            "url": "/name/nm0005610/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Drama",
+        "History"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTU4NzQ5MDgxNF5BMl5BanBnXkFtZTgwMzE3Njk3NzE@._V1_.jpg",
+    "keywords": "reference to j.d. salinger,year 1969,1960s,timeframe 1960s,reference to holden caulfield",
+    "name": "Coming Through the Rye",
+    "original_info": {
+        "id": "Coming Through_1985",
+        "name": "Coming Through",
+        "year": "1985"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "kevnbethp"
+        },
+        "dateCreated": "2016-04-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt4048168/"
+        },
+        "name": "Great movie based on reality and the book",
+        "reviewBody": "Spoiler alert! This movie was so exciting for me to watch. I am a longtime fan of JD Salinger and the only one in my high school English class who didn't write Holden Caulfield off as crazy. I have read other stories of journalists going on treks to locate the reclusive Salinger only to make it as far as his driveway or front door to be turned away. When the filmmaker said 99% of the dialogue between himself and Salinger was true, I couldn't believe a KID had made it through the fortress! I loved the parallels between the young director's life and Holden's portrayed in the movie. He plays Mercutio in a prep school play and the students cheer his death. \"But everyone loves Mercutio\" he bemoans. You may remember Mercutio was Holden's favorite character in Romeo and Juliet. The alienation he feels from the other kids also parallels Holden's feelings of isolation. I loved the addition of Dee Dee a freckled curly haired cute and wonderfully insightful and kind girl who has an obvious crush on Jamie, the young director. She has her own strong feelings about the book Catcher In The Rye, pointing out that Holden always wanted to save kids from making mistakes and dangerous fates. Perhaps that is even why in reality the famous writer met the young playwright head on and even though he discouraged his play of Catcher in the Rye did encourage his creative endeavors generally.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for the film 'Coming Through The Rye'",
+        "duration": "PT1M54S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4036081177",
+        "name": "'Coming Through The Rye': Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjI3NDY2OTQ4N15BMl5BanBnXkFtZTgwMDUxMTkwMDI@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjI3NDY2OTQ4N15BMl5BanBnXkFtZTgwMDUxMTkwMDI@._V1_.jpg",
+        "uploadDate": "2016-09-21T05:19:50Z",
+        "url": "https://www.imdb.com/video/vi4036081177/"
+    },
+    "url": "/title/tt4048168/"
+}

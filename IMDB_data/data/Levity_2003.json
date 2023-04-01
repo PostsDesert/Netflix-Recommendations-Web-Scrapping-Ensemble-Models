@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Billy Bob Thornton",
+            "url": "/name/nm0000671/"
+        },
+        {
+            "@type": "Person",
+            "name": "Morgan Freeman",
+            "url": "/name/nm0000151/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kirsten Dunst",
+            "url": "/name/nm0000379/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6573,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0047476/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0014453/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0159642/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ed Solomon",
+            "url": "/name/nm0004412/"
+        }
+    ],
+    "datePublished": "2003-08-29",
+    "description": "After two decades in prison for murder, a man is released on parole and returns to his hometown seeking redemption.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ed Solomon",
+            "url": "/name/nm0004412/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjIwZWNlOWYtNzAzNy00Y2YwLTkzY2QtMDBhODEwNWE4MzBlXkEyXkFqcGdeQXVyMjA5MTIzMjQ@._V1_.jpg",
+    "keywords": "fbi federal bureau of investigation,man with long hair,release from prison,redemption,community house",
+    "name": "Levity",
+    "original_info": {
+        "id": "Levity_2003",
+        "name": "Levity",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "baho2"
+        },
+        "dateCreated": "2003-01-22",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0304328/"
+        },
+        "name": "Don't Believe the Title",
+        "reviewBody": "An Ed Solomon film starring Billy Bob Thornton, Morgan Freeman, Holly Hunter and Kirsten Dunst. This is a very personal film by the writer of Bill & Ted's Excellent Adventure and Men in Black. Too slow-moving for mainstream acceptance, this is nevertheless a movie of depth and compassion. It grapples with the issue of redemption, and leaves the audience with uncertainty that is nonetheless remarkably calming-hope without moralism. Thornton was . Thornton. He has the range of a tetherball. I don't think Morgan Freeman is at his best in this film. And we don't see enough of Holly Hunter to appreciate her. The film had some very funny moments, but I can't think of a less appropriate title. Having said all that, this movie is worth the trip because it is thought-provoking, subtle and oddly inspiring."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Sony Pictures Home Entertainment",
+        "duration": "PT2M6S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1402339609",
+        "name": "Levity",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMDIwN2NiODktNjJkZC00NGQ5LThjMTEtMWQ2ZjNkYzIxNmVjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDIwN2NiODktNjJkZC00NGQ5LThjMTEtMWQ2ZjNkYzIxNmVjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:00:36Z",
+        "url": "https://www.imdb.com/video/vi1402339609/"
+    },
+    "url": "/title/tt0304328/"
+}

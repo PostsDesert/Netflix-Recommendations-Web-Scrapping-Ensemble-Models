@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Emeril Lagasse",
+            "url": "/name/nm0991849/"
+        },
+        {
+            "@type": "Person",
+            "name": "Heather Headley",
+            "url": "/name/nm0372186/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kevin Clash",
+            "url": "/name/nm0165159/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 29,
+        "ratingValue": 8.1,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0058596/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0060012/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joey Mazzarino",
+            "url": "/name/nm0563505/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sara Compton",
+            "url": "/name/nm1014173/"
+        },
+        {
+            "@type": "Person",
+            "name": "G. Ross Parker",
+            "url": "/name/nm1376076/"
+        }
+    ],
+    "datePublished": "2001-03-13",
+    "description": "Join Elmo and his Sesame Street pals on their most magical adventure ever! The action begins when they encounter the wish-granting Genie of the Magic Cookbook!",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Lisa Simon",
+            "url": "/name/nm1016686/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ted May",
+            "url": "/name/nm0562137/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jon Stone",
+            "url": "/name/nm0831968/"
+        }
+    ],
+    "duration": "PT48M",
+    "genre": [
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTA0NDgwNjkwNDleQTJeQWpwZ15BbWU3MDA4NDU2MjE@._V1_.jpg",
+    "keywords": "sesame street,the muppets,food,educational film,cooking",
+    "name": "Elmo's Magic Cookbook",
+    "original_info": {
+        "id": "Elmo's Magic Cookbook_2001",
+        "name": "Elmo's Magic Cookbook",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "oddharmonic"
+        },
+        "dateCreated": "2005-06-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0371660/"
+        },
+        "name": "It's not the best Sesame video release, but it's not too bad.",
+        "reviewBody": "The plot's a little thin, but Elmo's Magic Cookbook doesn't rely on using previously produced clips as much as some Sesame Street straight-to-video releases. Instead, it uses the clips to tie together cooking segments where the kids make some easy food dishes with supervision from a Muppet genie that came from the titular magic cookbook, Alan ('zapped' over from Hooper's Store for his appearance), and the celebrity guests.\n\nFor the adults, the video has a couple of great running gags and two celebrity appearances -- Emeril Legasse, who makes pizza with the kids and talks about where cheese comes from, and singer Heather Headley, who teaches the kids about pocket foods and makes a summer roll for Elmo to try.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0371660/"
+}

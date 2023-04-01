@@ -1,0 +1,81 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "María Rojo",
+            "url": "/name/nm0737938/"
+        },
+        {
+            "@type": "Person",
+            "name": "José Alonso",
+            "url": "/name/nm0022200/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 802,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "alternateName": "Homework",
+    "contentRating": "Unrated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0016526/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jaime Humberto Hermosillo",
+            "url": "/name/nm0379445/"
+        }
+    ],
+    "datePublished": "1991-08-23",
+    "description": "Virginia (Maria Rojo) is taking a class at film school, and has decided on her solo project for the class. She will film herself and her ex-husband Marcelo (Jose Alonso) (who likes to leave the light on) while they make love. She ...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jaime Humberto Hermosillo",
+            "url": "/name/nm0379445/"
+        }
+    ],
+    "duration": "PT1H25M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjc1MGViNjMtZmM0Mi00NmE4LWE3MmYtYmZkMWFlOTYwMWZmXkEyXkFqcGdeQXVyMzIzNjc0NDc@._V1_.jpg",
+    "keywords": "female frontal nudity,female pubic hair,female rear nudity,doggystyle sex,videotaping sex",
+    "name": "La tarea",
+    "original_info": {
+        "id": "Homework_1991",
+        "name": "Homework",
+        "year": "1991"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "erick_castaway"
+        },
+        "dateCreated": "2001-12-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0100746/"
+        },
+        "name": "Actor´s film",
+        "reviewBody": "This is an actor´s film, and Hermosillo did his work by directing them in the right path. The camera and photo are just a way of keeping it real most of the time, so the true feelings and force of the film comes from the actor´s performances.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0100746/"
+}

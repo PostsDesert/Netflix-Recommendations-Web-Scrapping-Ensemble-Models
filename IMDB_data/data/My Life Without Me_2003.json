@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sarah Polley",
+            "url": "/name/nm0001631/"
+        },
+        {
+            "@type": "Person",
+            "name": "Scott Speedman",
+            "url": "/name/nm0005454/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Ruffalo",
+            "url": "/name/nm0749263/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 25380,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0006440/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0092623/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0062576/"
+        },
+        {
+            "@type": "Person",
+            "name": "Isabel Coixet",
+            "url": "/name/nm0170043/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nanci Kincaid",
+            "url": "/name/nm1563090/"
+        }
+    ],
+    "datePublished": "2003-03-07",
+    "description": "A young woman conceals the fact of her terminal cancer to live her life with a passion she never had before.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Isabel Coixet",
+            "url": "/name/nm0170043/"
+        }
+    ],
+    "duration": "PT1H46M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTkxNWE5NzUtZWNkMy00NjQ2LTkwZjAtOGZjYWI4NWE2NDcwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "keywords": "panties,underwear,adultery,candy,bucket list",
+    "name": "My Life Without Me",
+    "original_info": {
+        "id": "My Life Without Me_2003",
+        "name": "My Life Without Me",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Billy_Crash"
+        },
+        "dateCreated": "2004-10-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0314412/"
+        },
+        "name": "A Truly Wonderful Dramatic Film",
+        "reviewBody": "This film was such a wonderful surprise. Great acting, writing and direction at a perfect pace. I can't believe this movie went by as quickly as it did.\n\nIt sounds corny and cliché, but \"My Life\" truly spoke to me. Both endearing and engaging, the story took me on a fulfilling emotional journey.\n\nThe cast is brilliant, and Sarah Polley has proved beyond a doubt that she is an actor extraordinaire. Her performance is well worth high praise.\n\nYou will not be disappointed.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Sony Pictures Classics",
+        "duration": "PT1M59S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi748159257",
+        "name": "My Life Without Me",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BM2E2OTY2MWUtMTA4Yi00OGJiLTljNjQtZDBkNjU2N2QxZTkxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BM2E2OTY2MWUtMTA4Yi00OGJiLTljNjQtZDBkNjU2N2QxZTkxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:09:19Z",
+        "url": "https://www.imdb.com/video/vi748159257/"
+    },
+    "url": "/title/tt0314412/"
+}

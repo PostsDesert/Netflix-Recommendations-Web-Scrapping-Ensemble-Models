@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Harrison Ford",
+            "url": "/name/nm0000148/"
+        },
+        {
+            "@type": "Person",
+            "name": "Josh Hartnett",
+            "url": "/name/nm0001326/"
+        },
+        {
+            "@type": "Person",
+            "name": "Isaiah Washington",
+            "url": "/name/nm0913460/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 38155,
+        "ratingValue": 5.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0003580/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0177995/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0034610/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Souza",
+            "url": "/name/nm1226736/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ron Shelton",
+            "url": "/name/nm0005421/"
+        }
+    ],
+    "datePublished": "2003-06-13",
+    "description": "Two LAPD detectives who moonlight in other fields investigate the murder of an up-and-coming rap group.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ron Shelton",
+            "url": "/name/nm0005421/"
+        }
+    ],
+    "duration": "PT1H56M",
+    "genre": [
+        "Action",
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU5Mjk1NzQ4Nl5BMl5BanBnXkFtZTYwMTYxNzk5._V1_.jpg",
+    "keywords": "criminal investigation,murder investigation,feet on table,murder,hollywood california",
+    "name": "Hollywood Homicide",
+    "original_info": {
+        "id": "Hollywood Homicide_2003",
+        "name": "Hollywood Homicide",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "PhilmGuru"
+        },
+        "dateCreated": "2003-12-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0329717/"
+        },
+        "name": "So many people have missed the point",
+        "reviewBody": "Anyone who has seen this movie and commented on it as a serious action film should be shot.\n\nFrom the very start it is fairly obvious it crosses the cheese line into a parody. From the totally pointless/unrelated cheesy opening scene of HF on a shooting range, the lake chase scene, the whole buddy buddy chemistry (or total deliberate lack thereof) to the non stop annoying phone ringing or maybe the complete lack of an interesting plot? Some of these should have given away to most people the real intentions of this film.\n\nThe 'love' scene with Harrison Ford should be the last clue to anyone blind enough, that this is really not to be taken seriously and can be considered made specially for Mystery Science Theatre.\n\nThe film is called 'Hollywood Homicide', I believe, so titled as to ruffle some Hollywood feathers with the notion that Hollywood has been killed by the never ending rain of terrible buddy cop movies. The real joke is that some suit somewhere probably OK'd this as a real action movie.\n\nIn fact, the funniest thing is that some people took it seriously and enjoyed it as a serious action movie.\n\nThe chases are deliberately over the top lame (I mean really, really bad), the dialogue is so silly and pointless it just makes you laugh, the character development is totally non-existant, the cliches flow non-stop, the whole side plot of internal affairs is placed there because it's in every buddy cop movie, etc, etc. How anyone took this movie as a serious action film is beyond me.\n\nI give it 6/10 because, it's hilarious in places (in a MST kind of way), I agree with their intentions (THE COP FILMS MUST END!!!). Just please, don't take it anything more than a parody.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Sony Pictures Home Entertainment",
+        "duration": "PT2M30S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2091712793",
+        "name": "Hollywood Homicide",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjU4NWNlZGEtMzQ3Yi00MzNiLTkxNTEtMDVhNTI4YTMwYzYzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjU4NWNlZGEtMzQ3Yi00MzNiLTkxNTEtMDVhNTI4YTMwYzYzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:26:37Z",
+        "url": "https://www.imdb.com/video/vi2091712793/"
+    },
+    "url": "/title/tt0329717/"
+}

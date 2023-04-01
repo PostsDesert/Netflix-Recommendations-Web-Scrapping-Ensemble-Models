@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Alex Rocco",
+            "url": "/name/nm0733678/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hari Rhodes",
+            "url": "/name/nm0722440/"
+        },
+        {
+            "@type": "Person",
+            "name": "Vonetta McGee",
+            "url": "/name/nm0569144/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1089,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0059898/"
+        },
+        {
+            "@type": "Person",
+            "name": "Orville H. Hampton",
+            "url": "/name/nm0359034/"
+        }
+    ],
+    "datePublished": "1975-06-13",
+    "description": "After a fundraiser for a black politician is robbed, Detroit police put two detectives, one white and one black, on the case, who try to work together under boiling political pressure.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Arthur Marks",
+            "url": "/name/nm0548769/"
+        }
+    ],
+    "duration": "PT1H46M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZGRmYmUzY2UtZGRhNC00NzM5LWI0MjAtZDc2ZDVjODA1YWFiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "woman uses a wheelchair,woman undresses,street shootout,suitcase full of money,cruise ship",
+    "name": "Detroit 9000",
+    "original_info": {
+        "id": "Detroit 9000_1973",
+        "name": "Detroit 9000",
+        "year": "1973"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "thecrimsonghost2003"
+        },
+        "dateCreated": "2003-11-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0069966/"
+        },
+        "name": "Slow and Boring",
+        "reviewBody": "Of all the blaxpoitation films I have seen, this is one of the worst. There was no real redeeming quality to this movie. The shoot em' up scenes were lame. The music was repetitive. When the movie ended I couldn't have been more happy."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT1M20S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4176387609",
+        "name": "Detroit 9000",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTlkYjNlYzAtMGQzMC00NDBlLWE3Y2QtODk5M2M0MmYwZjhiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTlkYjNlYzAtMGQzMC00NDBlLWE3Y2QtODk5M2M0MmYwZjhiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-10-26T03:16:54Z",
+        "url": "https://www.imdb.com/video/vi4176387609/"
+    },
+    "url": "/title/tt0069966/"
+}

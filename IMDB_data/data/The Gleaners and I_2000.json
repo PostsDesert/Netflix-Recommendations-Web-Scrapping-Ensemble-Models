@@ -1,0 +1,84 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "François Wertheimer",
+            "url": "/name/nm0921608/"
+        },
+        {
+            "@type": "Person",
+            "name": "Agnès Varda",
+            "url": "/name/nm0889513/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jean La Planche",
+            "url": "/name/nm11222310/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7986,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "alternateName": "The Gleaners & I",
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0017285/"
+        },
+        {
+            "@type": "Person",
+            "name": "Agnès Varda",
+            "url": "/name/nm0889513/"
+        }
+    ],
+    "datePublished": "2000-07-07",
+    "description": "Varda films and interviews gleaners in France in all forms, from those picking fields after the harvest to those scouring the dumpsters of Paris.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Agnès Varda",
+            "url": "/name/nm0889513/"
+        }
+    ],
+    "duration": "PT1H22M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjBlYTUzOTgtNjZlMC00NWNjLWJhMzQtYzllMjg0ZThhNGMzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "france,harvest,food industry,garbage,french countryside",
+    "name": "Les glaneurs et la glaneuse",
+    "original_info": {
+        "id": "The Gleaners and I_2000",
+        "name": "The Gleaners and I",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dmaxl"
+        },
+        "dateCreated": "2001-03-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0247380/"
+        },
+        "name": "A great film maker examines the role of the artist in society",
+        "reviewBody": "This film is a feast for anyone who loves film, photography or art in general. Agnes Varda takes the viewer along on a very personal exploration about what it means to be an artist. To glean means to gather whatever crops have been left in the field after a harvest and the film is on one level a straight documentary about gleaners in France, exploring the various reasons why they glean - survival, to feed the poor, for fun. But gleaning is revealed to be an apt metaphor for the process of making art, and so, perhaps on a deeper level, Varda is examining her role as a film maker, a \"gleaner\" of images and life moments. Regardless of why you might watch this film, I recommend it for the playfulness and beauty of the photography, and the complex and personal depth of Varda's narrative.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0247380/"
+}

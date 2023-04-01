@@ -1,0 +1,85 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Walker",
+            "url": "/name/nm0907867/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alex Goldie",
+            "url": "/name/nm1468133/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ai Yamamoto",
+            "url": "/name/nm1469095/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 97,
+        "ratingValue": 7.9,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0148543/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0006414/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Walker",
+            "url": "/name/nm0907867/"
+        }
+    ],
+    "description": "A fairy is a tiny being with wings that looks like a person but possesses powers of magic and enchantment. According to legend, fairies can change the weather, alter aspects of nature and bestow magical gifts such as intelligence ...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Walker",
+            "url": "/name/nm0907867/"
+        }
+    ],
+    "duration": "PT1H15M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg0OTkxNjkzNV5BMl5BanBnXkFtZTcwMTc5MDAyMQ@@._V1_.jpg",
+    "keywords": "micmac indian indian,nova scotia canada,ireland,fairy,scotland",
+    "name": "The Fairy Faith",
+    "original_info": {
+        "id": "The Fairy Faith_2000",
+        "name": "The Fairy Faith",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "JohnSeal"
+        },
+        "dateCreated": "2003-08-05",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0276123/"
+        },
+        "name": "Would have been better with Tinkerbell",
+        "reviewBody": "Call me churlish, but if Canadian director John Walker isn't amongst the most credulous filmmakers ever, I don't know who is. Oliver Stone, perhaps. This documentary about big people who believe in invisible little people is actually quite sad, assuming said big people aren't simply looking for publicity. Walker, who admits to believing in 'something' himself, takes everything at face value, and doesn't bother consulting a single rational person in the course of his film. That undoubtedly was his intent, but this is essentially a puff piece for people who live in cloud cuckoo land. At least they all seem like thoroughly nice folk.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0276123/"
+}

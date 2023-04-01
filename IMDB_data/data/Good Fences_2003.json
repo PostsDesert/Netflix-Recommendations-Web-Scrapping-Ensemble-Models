@@ -1,0 +1,83 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Danny Glover",
+            "url": "/name/nm0000418/"
+        },
+        {
+            "@type": "Person",
+            "name": "Whoopi Goldberg",
+            "url": "/name/nm0000155/"
+        },
+        {
+            "@type": "Person",
+            "name": "Zachary Simmons Glover",
+            "url": "/name/nm0323187/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 848,
+        "ratingValue": 5.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0029134/"
+        },
+        {
+            "@type": "Person",
+            "name": "Erika Ellis",
+            "url": "/name/nm11679253/"
+        },
+        {
+            "@type": "Person",
+            "name": "Trey Ellis",
+            "url": "/name/nm0255133/"
+        }
+    ],
+    "datePublished": "2003-02-02",
+    "description": "Good Fences is about an upwardly-mobile Black family for whom the American dream becomes a nightmare. In the 1970s, Tom Spader is an attorney who is determined to end what he has dubbed \"the colored man's losing streak.\" When his ...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ernest R. Dickerson",
+            "url": "/name/nm0225416/"
+        }
+    ],
+    "duration": "PT1H59M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ0MDA4NTI1NV5BMl5BanBnXkFtZTcwMTQ1NjI3MQ@@._V1_.jpg",
+    "keywords": "sex,suburb,boy,mother son relationship,father son relationship",
+    "name": "Good Fences",
+    "original_info": {
+        "id": "Good Fences_2003",
+        "name": "Good Fences",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "drednm"
+        },
+        "dateCreated": "2003-02-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0326901/"
+        },
+        "name": "Blah Blah Blah",
+        "reviewBody": "Nothing new is this tired serio-comedy that wastes the talents of Danny Glover and Whoopi Goldberg. Considering that this was produced by the stars and Spike Lee, it's pretty tame and tired stuff. And how come the Whoop never changes her hair or glasses over the many years this film covers? Blah!"
+    },
+    "url": "/title/tt0326901/"
+}

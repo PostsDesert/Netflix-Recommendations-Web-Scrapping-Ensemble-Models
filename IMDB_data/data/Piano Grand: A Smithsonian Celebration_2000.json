@@ -1,0 +1,56 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Toshiko Akiyoshi",
+            "url": "/name/nm0015441/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cyrus Chestnut",
+            "url": "/name/nm0156368/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eliane Elias",
+            "url": "/name/nm8018174/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7,
+        "ratingValue": 10,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0253604/"
+        }
+    ],
+    "datePublished": "2000-06-01",
+    "description": "A musical tribute to the piano's 300th anniversary celebrates the legacy, grandeur and showmanship of this instrument. Hosted by \"Piano Man\" Billy Joel and taped before a live audience in Washington, D.C., this special mesmerizes ...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Matthew Diamond",
+            "url": "/name/nm0224683/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTc0OTZkYTMtNjQ4Mi00MDYxLWJjZDEtYjdkYWY3YWRjMjZjXkEyXkFqcGdeQXVyNjU5ODYxMzg@._V1_.jpg",
+    "keywords": "tv special",
+    "name": "Piano Grand! A Smithsonian Celebration",
+    "original_info": {
+        "id": "Piano Grand: A Smithsonian Celebration_2000",
+        "name": "Piano Grand: A Smithsonian Celebration",
+        "year": "2000"
+    },
+    "url": "/title/tt1327789/"
+}

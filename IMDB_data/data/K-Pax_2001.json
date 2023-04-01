@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kevin Spacey",
+            "url": "/name/nm0000228/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeff Bridges",
+            "url": "/name/nm0000313/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mary McCormack",
+            "url": "/name/nm0005203/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 187120,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0019266/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0010183/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0041635/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gene Brewer",
+            "url": "/name/nm0108150/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Leavitt",
+            "url": "/name/nm0495378/"
+        }
+    ],
+    "datePublished": "2001-10-26",
+    "description": "PROT is a patient at a mental hospital who claims to be from a faraway planet named K-PAX. His psychiatrist tries to help him, only to begin to doubt his own explanations.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Iain Softley",
+            "url": "/name/nm0812200/"
+        }
+    ],
+    "duration": "PT2H",
+    "genre": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjE2Mjc4Y2EtN2QyNy00YTI5LWFlMjUtYjkwOTdhYTliMTliXkEyXkFqcGdeQXVyMjA0MzYwMDY@._V1_.jpg",
+    "keywords": "extraterrestrial,science,alien,planet,patient",
+    "name": "K-PAX",
+    "original_info": {
+        "id": "K-Pax_2001",
+        "name": "K-Pax",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "tv_pikachu"
+        },
+        "dateCreated": "2001-10-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0272152/"
+        },
+        "name": "Heart Warming and Funny",
+        "reviewBody": "K-PAX is exactly what a heart warming film should be. The story is about a mysterious mental patient Prot, played by Kevin Spacey, and his unbelieving psychiatrist Dr. Powel, played by Jeff Bridges. The two have a very friendly bond, and as their relationship grows Dr. Powel can't help but wonder whether or not there is more to his mysterious patient, who insists he is from another planet called K-PAX. This film is very funny, and Kevin Spacey pulls of well placed one liners as if it was his second nature. K-PAX is a smart film, and I wasn't expecting it to go where it did. In the end, I found myself thinking about the small things in life, and the wonder and magic of the every day life we so often take for granted. I left the theater with a warm fuzzy feeling inside, and for families and couples on a date, K-PAX is a splendid film, that will not disappoint. I highly recommend this film to anyone interested in something more than the monotonous releases of glossy, action packed, gore fests.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Universal Studios Home Entertainment",
+        "duration": "PT2M46S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3969122585",
+        "name": "K-PAX",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYmI5YmE3MTctMzI2YS00NGFlLThhMzMtNGRiY2Y3M2YzMDQ0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYmI5YmE3MTctMzI2YS00NGFlLThhMzMtNGRiY2Y3M2YzMDQ0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:56:26Z",
+        "url": "https://www.imdb.com/video/vi3969122585/"
+    },
+    "url": "/title/tt0272152/"
+}

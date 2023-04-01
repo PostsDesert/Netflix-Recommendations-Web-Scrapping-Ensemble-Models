@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mickey Rourke",
+            "url": "/name/nm0000620/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bob Hoskins",
+            "url": "/name/nm0001364/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alan Bates",
+            "url": "/name/nm0000869/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5333,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0016710/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jack Higgins",
+            "url": "/name/nm0383396/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edmund Ward",
+            "url": "/name/nm0911517/"
+        },
+        {
+            "@type": "Person",
+            "name": "Martin Lynch",
+            "url": "/name/nm0528391/"
+        }
+    ],
+    "datePublished": "1987-09-11",
+    "description": "Martin, an I.R.A. hitman, is seen by a Catholic priest while carrying out a hit. He grows a bond with the priest and his niece. But his past and his former employers put all their lives in danger.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mike Hodges",
+            "url": "/name/nm0388198/"
+        }
+    ],
+    "duration": "PT1H47M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTRmNjdmZjEtNmQyYi00ZmVmLWI2YzUtYTU2MTJmZjVhMzVlL2ltYWdlXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_.jpg",
+    "keywords": "time bomb,scene of the crime,bare chested male,male nudity,man forced to strip",
+    "name": "A Prayer for the Dying",
+    "original_info": {
+        "id": "A Prayer for the Dying_1987",
+        "name": "A Prayer for the Dying",
+        "year": "1987"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "gridoon"
+        },
+        "dateCreated": "2001-11-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0093771/"
+        },
+        "name": "Maybe worth a look.",
+        "reviewBody": "Completely (and rather unjustly) forgotten today, this is an offbeat, interesting dramatic thriller based on a book that seems to lift its basic idea from Alfred Hitchcock's \"I Confess\" (actually, I haven't seen \"I Confess\" yet, but everybody knows its premise). The movie has a great cast and makes an earnest attempt to combine psychodrama with more traditional thriller elements. The main problem is that, once the basic situation has been (elaborately) set up, the story seems to get stalled and has nowhere to go. There is also a subplot, involving Liam Neeson in an early role as Mickey Rourke's old comrade in the IRA, that's ultimately just a waste of time. (**)",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Martin, an I.R.A. hitman, is seen by a Catholic priest while carrying out a hit. He grows a bond with the priest and his niece. But his past and his former employers put all their lives in danger.",
+        "duration": "PT1M53S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi570671897",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZWNjODQyNzMtYzlmMS00ZjU2LTg2YTYtYTFiZDhkMmVkYzMwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZWNjODQyNzMtYzlmMS00ZjU2LTg2YTYtYTFiZDhkMmVkYzMwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2022-02-01T21:14:02.453Z",
+        "url": "https://www.imdb.com/video/vi570671897/"
+    },
+    "url": "/title/tt0093771/"
+}

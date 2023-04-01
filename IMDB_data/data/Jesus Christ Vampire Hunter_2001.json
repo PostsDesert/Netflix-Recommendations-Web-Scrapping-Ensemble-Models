@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Phil Caracas",
+            "url": "/name/nm0135843/"
+        },
+        {
+            "@type": "Person",
+            "name": "Murielle Varhelyi",
+            "url": "/name/nm1142966/"
+        },
+        {
+            "@type": "Person",
+            "name": "Maria Moulton",
+            "url": "/name/nm1142195/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4457,
+        "ratingValue": 4.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0008183/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ian Driscoll",
+            "url": "/name/nm0238018/"
+        }
+    ],
+    "datePublished": "2002-01-15",
+    "description": "Kung-Fu Action / Comedy / Horror / Musical about the second coming.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Lee Demarbre",
+            "url": "/name/nm0218080/"
+        }
+    ],
+    "duration": "PT1H25M",
+    "genre": [
+        "Action",
+        "Comedy",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTcwMjY5NzY4OV5BMl5BanBnXkFtZTcwNTk5NjAwMQ@@._V1_.jpg",
+    "keywords": "bisexual,bisexuality,bisexual woman,2000s,psychotronic film",
+    "name": "Jesus Christ Vampire Hunter",
+    "original_info": {
+        "id": "Jesus Christ Vampire Hunter_2001",
+        "name": "Jesus Christ Vampire Hunter",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jmanovcanada"
+        },
+        "dateCreated": "2005-10-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0311361/"
+        },
+        "name": "Now here's a good religious movie!",
+        "reviewBody": "This certainly was a B movie, you can tell that the budget was very small. It is quite surprising what they managed to accomplish with so little. I find it ironic that many of the blockbuster Hollywood pushes out these days are almost unwatchable despite huge multi million dollar budgets. I would say that before watching this movie I probably couldn't have named a B movie, but I'm glad I saw this one. The special effects and fighting are pretty terrible but, that gives it a lot of it's charm and makes for a really funny watch. I guess it could depend on your sense of humor but, I thought it was a really funny movie, well worth watching at least once.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M4S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1010615065",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZmQxNDQzOGItOWEwMi00YmYyLTk5OGUtYWQzODA0NmEzODAzXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZmQxNDQzOGItOWEwMi00YmYyLTk5OGUtYWQzODA0NmEzODAzXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+        "uploadDate": "2022-01-06T17:19:42.965Z",
+        "url": "https://www.imdb.com/video/vi1010615065/"
+    },
+    "url": "/title/tt0311361/"
+}

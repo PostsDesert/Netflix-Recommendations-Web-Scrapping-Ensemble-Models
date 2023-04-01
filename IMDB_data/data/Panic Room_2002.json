@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jodie Foster",
+            "url": "/name/nm0000149/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kristen Stewart",
+            "url": "/name/nm0829576/"
+        },
+        {
+            "@type": "Person",
+            "name": "Forest Whitaker",
+            "url": "/name/nm0001845/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 284865,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0030084/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0036309/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Koepp",
+            "url": "/name/nm0462895/"
+        }
+    ],
+    "datePublished": "2002-03-29",
+    "description": "A divorced woman and her diabetic daughter take refuge in their newly-purchased house's safe room when three men break-in, searching for a missing fortune.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David Fincher",
+            "url": "/name/nm0000399/"
+        }
+    ],
+    "duration": "PT1H52M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNmY4ZGFjYTYtMDNmYi00ZDM4LWFjYTgtNmNlZjBmMzg0MzQ3XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "keywords": "panic,panic room,cat and mouse,secret room,female protagonist",
+    "name": "Panic Room",
+    "original_info": {
+        "id": "Panic Room_2002",
+        "name": "Panic Room",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Pjtaylor-96-138044"
+        },
+        "dateCreated": "2018-03-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0258000/"
+        },
+        "name": "A gritty, claustrophobic and tense suspense thriller that's directed with flair.",
+        "reviewBody": "This claustrophobic suspense thriller sets itself up well with a remarkable, if digitally enhanced, one-shot that neatly and necessarily establishes the geography of the central location, while also planting the seeds for the seedy uses of various tools laying about the house, so that the action that comes later is clean and clear without ever needing to slow down for the sake of audience reorientation. 'Panic Room (2002)' is pretty pacy and nicely gritty to boot, being unusually violent for pictures of the kind but never less tense either. It manages to make a compelling home-invasion seem suitably layered, presenting the bad guys as rounded individuals with differing yet believable motives and personalities. It still feels immediately dangerous, though, never losing sight of its protagonists and the escalating peril they're placed in, until it finally reaches its truly edge-of-your-seat and slightly unexpected finale. 7/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Columbia Tristar",
+        "duration": "PT2M31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2896101657",
+        "name": "Panic Room",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODJiZmU2ODAtYWQ1My00ZjM3LWJmYzAtODNlNzE2OTc4ZjI3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODJiZmU2ODAtYWQ1My00ZjM3LWJmYzAtODNlNzE2OTc4ZjI3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:36:43Z",
+        "url": "https://www.imdb.com/video/vi2896101657/"
+    },
+    "url": "/title/tt0258000/"
+}

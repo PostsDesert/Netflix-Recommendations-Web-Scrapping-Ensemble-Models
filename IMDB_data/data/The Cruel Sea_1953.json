@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jack Hawkins",
+            "url": "/name/nm0370144/"
+        },
+        {
+            "@type": "Person",
+            "name": "Donald Sinden",
+            "url": "/name/nm0801786/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Stratton",
+            "url": "/name/nm0833652/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5057,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0040024/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0179865/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nicholas Monsarrat",
+            "url": "/name/nm0598622/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eric Ambler",
+            "url": "/name/nm0001907/"
+        }
+    ],
+    "datePublished": "1953-08-19",
+    "description": "The World War II adventures of a British convoy escort ship and its officers.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Charles Frend",
+            "url": "/name/nm0294243/"
+        }
+    ],
+    "duration": "PT2H6M",
+    "genre": [
+        "Drama",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOGE3YjRkMDAtZjdkNS00MGZmLWJmYmMtYmU3OWU2ZGVkNzZhXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg",
+    "keywords": "ship sinking,war at sea,german submarine,nazi u boat,anti submarine warfare",
+    "name": "The Cruel Sea",
+    "original_info": {
+        "id": "The Cruel Sea_1953",
+        "name": "The Cruel Sea",
+        "year": "1953"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Rob Fox"
+        },
+        "dateCreated": "1999-02-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0045659/"
+        },
+        "name": "Torpedos off Starboard Bow",
+        "reviewBody": "Archetypal British WW2 fare which is very clearly a cut above the rest. Jack Hawkins steers HMS Compass Rose, a small escort ship, through the perils of convoy duty and the ever present risk of U-boats.\n\nHawkins excels as the exhausted Captain in this no frills account of men battling against a constant and ruthless enemy - the sea. A melancholic soundtrack and the distinct lack of jingoism create a forlorn atmosphere as the ship's company endures periods of grinding boredom interrupted only by the sudden terror of U-boat attacks. In the tensest of scenes, during a rare heady pursuit, the radar gives Hawkins his firmest ever indication of an enemy submarine. \"There are men in the water just there\" he murmurs, realising that as Captain he is alone in making an agonising decision - whether to drop depth charges and risk killing a group of British survivors floating ahead of him. The attack is pressed home, killing the defenceless men but failing to hit the U-boat, and leads to a moving scene where Hawkins' resolute professionalism crumbles in a brief but heartfelt show of drunken emotion.\n\nThe trips to sea are punctuated by tableaux scenes on shore, where the tribulations of officers and crew are no less fraught with threats and worry. In a country under siege there can be no escape from air-raids or even an adulterous wife. \"It's no-ones fault\" says Hawkins \"It's the war, the whole bloody war.\" A strong supporting cast, includes 'youngsters' Denholm Elliot, Donald Sinden and Stanley Baker.\n\nThis is a film that succeeds in telling how dangerously close to the edge the British came during the Battle of the Atlantic and of the enormous impact it had on ordinary individuals. The closing scene leaves the audience with a real sense of how, after five long years of war, a nation was left exhausted and emotionally drained."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Extra (Clip) from Anchor Bay Entertainment",
+        "duration": "PT2M17S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2783969561",
+        "name": "The Cruel Sea",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BY2YxMTU2YzItYmExYy00M2Q2LTg2NTktMmEzOWIzNWY5ZTEyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BY2YxMTU2YzItYmExYy00M2Q2LTg2NTktMmEzOWIzNWY5ZTEyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:36:59Z",
+        "url": "https://www.imdb.com/video/vi2783969561/"
+    },
+    "url": "/title/tt0045659/"
+}

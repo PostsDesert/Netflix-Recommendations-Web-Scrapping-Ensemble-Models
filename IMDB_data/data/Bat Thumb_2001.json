@@ -1,0 +1,78 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Steve Oedekerk",
+            "url": "/name/nm0644203/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Greenberg",
+            "url": "/name/nm0338569/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rob Paulsen",
+            "url": "/name/nm0667326/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1047,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0009845/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve Oedekerk",
+            "url": "/name/nm0644203/"
+        }
+    ],
+    "datePublished": "2001-01-01",
+    "description": "The Bat Thumb must stop another villian from taking over his precious city, only this time he will have to stop No Face in the hardest battle to date.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David Bourla",
+            "url": "/name/nm0100027/"
+        }
+    ],
+    "duration": "PT28M",
+    "genre": [
+        "Comedy",
+        "Short"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY3ODc3MjMzM15BMl5BanBnXkFtZTcwMjIwNzIyMQ@@._V1_.jpg",
+    "keywords": "superhero,dc comics,slimehouse,parody comedy,spoof",
+    "name": "Bat Thumb",
+    "original_info": {
+        "id": "Bat Thumb_2001",
+        "name": "Bat Thumb",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "DeRaiLer"
+        },
+        "dateCreated": "2003-03-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0331189/"
+        },
+        "name": "Hilarious",
+        "reviewBody": "Blue Jay had to be the funniest thing about this movie! I mean when he follows bat thumb using his sisters bicycle was too funny. And the whole thing about everyone finding the sidekick a bit on the \"funny\" side while bat thumb is denying his relationship with a fruity sidekick.\n\nTrue, not as funny as thumb wars, but still a good watch."
+    },
+    "url": "/title/tt0331189/"
+}

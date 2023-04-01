@@ -1,0 +1,40 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Norris",
+            "url": "/name/nm0975336/"
+        },
+        {
+            "@type": "Person",
+            "name": "Danny Roberts",
+            "url": "/name/nm0730979/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6,
+        "ratingValue": 8.2,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023307/"
+        }
+    ],
+    "genre": [
+        "News"
+    ],
+    "keywords": "non fiction",
+    "name": "MTV News: Out in the Real World",
+    "original_info": {
+        "id": "MTV: The Real World: Hook-Ups_2003",
+        "name": "MTV: The Real World: Hook-Ups",
+        "year": "2003"
+    },
+    "url": "/title/tt0489222/"
+}

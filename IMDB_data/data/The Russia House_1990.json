@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sean Connery",
+            "url": "/name/nm0000125/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michelle Pfeiffer",
+            "url": "/name/nm0000201/"
+        },
+        {
+            "@type": "Person",
+            "name": "Roy Scheider",
+            "url": "/name/nm0001702/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 16671,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0150400/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0007143/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0150401/"
+        },
+        {
+            "@type": "Person",
+            "name": "John le Carré",
+            "url": "/name/nm0494170/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tom Stoppard",
+            "url": "/name/nm0001779/"
+        }
+    ],
+    "datePublished": "1990-12-21",
+    "description": "An expatriate British publisher unexpectedly finds himself working for British intelligence to investigate people in Russia.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Fred Schepisi",
+            "url": "/name/nm0770961/"
+        }
+    ],
+    "duration": "PT2H3M",
+    "genre": [
+        "Drama",
+        "Romance",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM4NDAxMjQ5M15BMl5BanBnXkFtZTcwMzI0NzI5NA@@._V1_.jpg",
+    "keywords": "east west,american actor playing russian character,foreigner playing russian character,kgb agent,soviet citizen",
+    "name": "The Russia House",
+    "original_info": {
+        "id": "The Russia House_1990",
+        "name": "The Russia House",
+        "year": "1990"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Lupercali"
+        },
+        "dateCreated": "2004-05-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0100530/"
+        },
+        "name": "Last of the Cold War dramas? (Not for the easily distracted.)",
+        "reviewBody": "The Russia House is a superior spy romance movie which falls short of being great. Additionally a couple of factors have been unkind to it over time.\n\nConnery and Pfeiffer are excellant; the large cast are almost uniformly outstanding (except perhaps Roy Scheider, who I usually like, but who seems a bit over the top in his role here); the Moscow scenery and end of the Cold War feel are great, and the main characters are easy to like, if difficult to outright love. On the down side the writing assumes too much in expecting the audience to stay on top of the espionage jargon and intrigue, added to the non-linear plot. Let your attention wander and you'll lose your way. If it had been a little easier to follow, it would have left more room for dramatic tension, which was adequate but seldom riveting.\n\n When I said that time has been unkind to The Russia House, I meant two things: firstly that the unfortunate timing of the movie's release, a year before the collapse of the Soviet Union, ensured that it would be dated almost immediately. More significantly, a growing portion of the film's potential audience didn't live through the late Soviet Era, and the nuances of concepts like Glasnost, and why Perestroika makes it hard for Pfeiffer to do her shoe-shopping aren't going to mean a thing to anyone much under 30.\n\nBut that's not the movie's fault. Russia House is still a quality, enjoyable drama with a great cast, even if it's somewhat ponderous and slow-moving, and complex. And oh yes - it has James Fox. A film like this without James Fox would have been like a table with three legs.\n\n7 out of 10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from MGM Home Entertainment",
+        "duration": "PT1M50S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2163802393",
+        "name": "The Russia House",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDU4OTI1MjAtNmQ1Ni00Yjk1LTg4MzAtYjk4MDg3NzQ1YjhjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDU4OTI1MjAtNmQ1Ni00Yjk1LTg4MzAtYjk4MDg3NzQ1YjhjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:08:48Z",
+        "url": "https://www.imdb.com/video/vi2163802393/"
+    },
+    "url": "/title/tt0100530/"
+}

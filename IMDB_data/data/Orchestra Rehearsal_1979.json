@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Balduin Baas",
+            "url": "/name/nm0044680/"
+        },
+        {
+            "@type": "Person",
+            "name": "Clara Colosimo",
+            "url": "/name/nm0173189/"
+        },
+        {
+            "@type": "Person",
+            "name": "Elizabeth Labi",
+            "url": "/name/nm0479502/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4877,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "alternateName": "Orchestra Rehearsal",
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0004312/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0035035/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0089865/"
+        },
+        {
+            "@type": "Person",
+            "name": "Federico Fellini",
+            "url": "/name/nm0000019/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brunello Rondi",
+            "url": "/name/nm0740021/"
+        }
+    ],
+    "datePublished": "1979-02-22",
+    "description": "An orchestra assembles for a rehearsal in an ancient chapel under the inquisitive eyes of a TV documentary crew, but an uprising breaks out.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Federico Fellini",
+            "url": "/name/nm0000019/"
+        }
+    ],
+    "duration": "PT1H12M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjFkMzFiNWMtZTI5Yi00Mzg0LThlODYtMDA4YzExZGJmMDQ2XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+    "keywords": "self referential,orchestra,parable,anarchy,italy",
+    "name": "Prova d'orchestra",
+    "original_info": {
+        "id": "Orchestra Rehearsal_1979",
+        "name": "Orchestra Rehearsal",
+        "year": "1979"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bertvleeuwen"
+        },
+        "dateCreated": "2006-05-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0079759/"
+        },
+        "name": "Great depiction of power struggle with excellent music",
+        "reviewBody": "This movie is one of my all-time favourites: through the \"metaphor\" of music, a universal picture of a power struggle is shown. Although this may appear 'thin', many layers of this struggle are peeled off. The German (looking) conductor appears to portray an easy comparison to Adolf Hitler, but another could be to Herbert von Karajan, the dictatorial conductor of the Berliner Philharmoniker. And then there is the great music score, that still lingers in my head, although I have not been able to find a recording of it (CD/LP?)(after almost 30 years!). I saw this movie again some years ago and it does not look dated. While I am not a Fellini adept and this movie was seen as one of his minor ones, this is a real classic to me.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0079759/"
+}

@@ -1,0 +1,118 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kevin Spacey",
+            "url": "/name/nm0000228/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Foley",
+            "url": "/name/nm0004929/"
+        },
+        {
+            "@type": "Person",
+            "name": "Julia Louis-Dreyfus",
+            "url": "/name/nm0000506/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 299237,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0017902/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0008970/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Lasseter",
+            "url": "/name/nm0005124/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrew Stanton",
+            "url": "/name/nm0004056/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joe Ranft",
+            "url": "/name/nm0710020/"
+        }
+    ],
+    "datePublished": "1998-11-25",
+    "description": "A misfit ant, looking for \"warriors\" to save his colony from greedy grasshoppers, recruits a group of bugs that turn out to be an inept circus troupe.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Lasseter",
+            "url": "/name/nm0005124/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrew Stanton",
+            "url": "/name/nm0004056/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNThmZGY4NzgtMTM4OC00NzNkLWEwNmEtMjdhMGY5YTc1NDE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "ant,circus,anthropomorphic insect,grasshopper,queen",
+    "name": "A Bug's Life",
+    "original_info": {
+        "id": "A Bug's Life: Bonus Material_1998",
+        "name": "A Bug's Life: Bonus Material",
+        "year": "1998"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "CharltonBoy"
+        },
+        "dateCreated": "1999-10-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120623/"
+        },
+        "name": "Great animation",
+        "reviewBody": "A Bugs Life is a great film that is not just for kids but for adults too. The story is set around a colony of ants and their struggle against the evil Grasshoppers who come back every year and steal their food ( A Mirror of the Magnifiscent seven). There is some wonderfull computer animation and the voices are great too. You will love it!! 8 out of 10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "CT #1, post",
+        "duration": "PT1M24S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2550268697",
+        "name": "A Bug's Life",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZmUxN2Y2MTgtNmI5Ny00MjRlLWJmOWMtYmY1YjYwYTRiN2M1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZmUxN2Y2MTgtNmI5Ny00MjRlLWJmOWMtYmY1YjYwYTRiN2M1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-03-08T06:03:30Z",
+        "url": "https://www.imdb.com/video/vi2550268697/"
+    },
+    "url": "/title/tt0120623/"
+}

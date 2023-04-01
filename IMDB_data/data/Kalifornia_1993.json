@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Brad Pitt",
+            "url": "/name/nm0000093/"
+        },
+        {
+            "@type": "Person",
+            "name": "Juliette Lewis",
+            "url": "/name/nm0000496/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kathy Larson",
+            "url": "/name/nm0488955/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 55439,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0106129/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0059559/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0058765/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen Levy",
+            "url": "/name/nm0506629/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tim Metcalfe",
+            "url": "/name/nm0582481/"
+        }
+    ],
+    "datePublished": "1993-09-03",
+    "description": "A journalist duo go on a tour of serial killer murder sites with two companions, unaware that one of them is a serial killer himself.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Dominic Sena",
+            "url": "/name/nm0784061/"
+        }
+    ],
+    "duration": "PT1H57M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDE2ODZhYzUtMTBhYi00ODgxLWJlNTAtODljN2Q2NDhjZmVhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "keywords": "serial killer,journalist,brutality,black comedy,corpse",
+    "name": "Kalifornia",
+    "original_info": {
+        "id": "Kalifornia_1993",
+        "name": "Kalifornia",
+        "year": "1993"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Adrian-32"
+        },
+        "dateCreated": "1999-05-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0107302/"
+        },
+        "name": "Haunting",
+        "reviewBody": "\"Kalifornia\" is one of my all-time favourite movies, and it easily could be labeled as one of the best psychological thrillers of the 90`s. The film has a very stylish surface to it, but behind that are a lot of disturbing and honest depictions of homicidal maniacs and the terrifyng violence they inflict upon others. One of the film`s strongest aspects is it`s performances, Brad Pitt is startlingly great as a trailer-trash psycho named Early. Pitt potrays his frightening character almost flawlessly. Juliette Lewis is equally as good playing his naive girlfriend, her innocence is almost heart-breaking. \"Kalifornia\" has a very simple plot to it, that goes steadily and slowly forward for about an hour, but it suddenly plunges into a harrowing spree of murder, as Pitt unleashes his psychotic personality. There are alot of shocking scenes, and it all mounts to a power-house climax that will haunt you for days. \"Kalifonia\" is a film that should really be watched for it`s intense look at how monstrous a human being can be, and not only for it`s violence and gore.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer 1",
+        "duration": "PT2M32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2058403609",
+        "name": "Kalifornia",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODI2ODZlZGMtZWU2Ni00MjJmLWJkYjItZWNmMTVlOTU2YWJjXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODI2ODZlZGMtZWU2Ni00MjJmLWJkYjItZWNmMTVlOTU2YWJjXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg",
+        "uploadDate": "2019-08-22T17:05:49.443Z",
+        "url": "https://www.imdb.com/video/vi2058403609/"
+    },
+    "url": "/title/tt0107302/"
+}

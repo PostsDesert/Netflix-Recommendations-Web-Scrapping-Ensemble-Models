@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "William Hurt",
+            "url": "/name/nm0000458/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lee Marvin",
+            "url": "/name/nm0001511/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brian Dennehy",
+            "url": "/name/nm0001133/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 15064,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0779508/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0174362/"
+        },
+        {
+            "@type": "Person",
+            "name": "Martin Cruz Smith",
+            "url": "/name/nm0809262/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dennis Potter",
+            "url": "/name/nm0693259/"
+        }
+    ],
+    "datePublished": "1983-12-16",
+    "description": "A Moscow police officer investigates a vicious triple homicide and stumbles upon a high-level international political conspiracy.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Apted",
+            "url": "/name/nm0000776/"
+        }
+    ],
+    "duration": "PT2H8M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNWYyZGVmMDQtYjljYi00NTU2LWEwYWEtZmQyNDMxMTRiY2VhXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
+    "keywords": "kgb,conspiracy,murder investigation,soviet union,moscow russia",
+    "name": "Gorky Park",
+    "original_info": {
+        "id": "Gorky Park_1983",
+        "name": "Gorky Park",
+        "year": "1983"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "hgallon"
+        },
+        "dateCreated": "2000-02-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0085615/"
+        },
+        "name": "One man versus the system",
+        "reviewBody": "This is a fairly common story, that of an honest man fighting alone against a corrupt system. The setting is unusual, and the plot has some entertaining twists.\n\nWilliam Hurt plays Senior Investigator Renko, of the Moscow Militia (i.e. police). He is assigned to a high-profile murder case, and finds himself alternately prodded on, hindered or even threatened by his own superiors, by the KGB and by his obvious suspect. All these people are acting so self-confidently compared to Renko's plodding, that the sense of loneliness, or even of paranoia is very apparent.\n\nMuch of the action is contrived and unconvincing, both in its development and denouement, although the film does build to a good climax. On the other hand, all the characterisations of ordinary russians, who must have been strange creatures to film directors and audiences alike at the time, is very good.\n\nThe directors discarded one of the original novel's best tricks, that of sending Renko to New York (to recover valuable state property), and confronting him with the law enforcement system which gave rise to \"Kojak\" and the \"Hill Street Blues\".\n\nOverall this is quite a good film, and fairly close to the novel. There are some sequels written which deserve to appear on the screen."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A Moscow police officer investigates a vicious triple homicide and stumbles upon a high-level international political conspiracy.",
+        "duration": "PT2M17S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1570423577",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDVmMWZmNzItNWUxNC00YzUwLThlM2QtNjZjODYzYjEyNjY2XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDVmMWZmNzItNWUxNC00YzUwLThlM2QtNjZjODYzYjEyNjY2XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-10-10T22:50:57.112Z",
+        "url": "https://www.imdb.com/video/vi1570423577/"
+    },
+    "url": "/title/tt0085615/"
+}

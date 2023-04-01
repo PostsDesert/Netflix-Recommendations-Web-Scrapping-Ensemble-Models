@@ -1,0 +1,81 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bobby Darin",
+            "url": "/name/nm0201239/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dick Clark",
+            "url": "/name/nm0163863/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dodd Darin",
+            "url": "/name/nm1194245/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 28,
+        "ratingValue": 8.3,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0077889/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jason Cilo",
+            "url": "/name/nm1037427/"
+        }
+    ],
+    "datePublished": "1998-12-02",
+    "description": "Documentary on the life and career of 1950s/'60s pop singer Bobby Darin, including photos from his childhood, clips from his concerts and TV appearances, and interviews with friends, family and colleagues.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Henry Astor",
+            "url": "/name/nm1037414/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jason Cilo",
+            "url": "/name/nm1037427/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Documentary",
+        "Biography"
+    ],
+    "keywords": "singer,actor,character name in title",
+    "name": "Bobby Darin: Beyond the Song",
+    "original_info": {
+        "id": "Bobby Darin: Beyond the Song_1998",
+        "name": "Bobby Darin: Beyond the Song",
+        "year": "1998"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "cheelowchiles"
+        },
+        "dateCreated": "2002-12-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0291765/"
+        },
+        "name": "The definitive Darin biography with never-before-seen footage.",
+        "reviewBody": "Bobby Darin: Beyond The Song is the definitive Bobby Darin documentary. Produced with the cooperation of the Darin estate, the film employs never-before-seen footage of Darin on and off stage, thousands of personal photographs, and interviews with Darin intimates and contemporaries. The story of Bobby Darin's life truly has to be seen to be believed, and this film is the place to start if you're interested."
+    },
+    "url": "/title/tt0291765/"
+}

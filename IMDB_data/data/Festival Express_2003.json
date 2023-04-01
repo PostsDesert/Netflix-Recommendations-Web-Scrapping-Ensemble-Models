@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Janis Joplin",
+            "url": "/name/nm0429767/"
+        },
+        {
+            "@type": "Person",
+            "name": "Grateful Dead",
+            "url": "/name/nm0335993/"
+        },
+        {
+            "@type": "Person",
+            "name": "The Band",
+            "url": "/name/nm1408415/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2346,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0104102/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0332026/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0112473/"
+        }
+    ],
+    "datePublished": "2004-04-29",
+    "description": "The filmed account of a large Canadian rock festival train tour boasting major acts like Janis Joplin, The Grateful Dead and The Band.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bob Smeaton",
+            "url": "/name/nm0806736/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frank Cvitanovich",
+            "url": "/name/nm0194151/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Documentary",
+        "History",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg0NTQ4Nzk0Nl5BMl5BanBnXkFtZTcwODQ0MzYyMQ@@._V1_.jpg",
+    "keywords": "musical performance,intoxication,youth culture,calgary alberta,band",
+    "name": "Festival Express",
+    "original_info": {
+        "id": "Festival Express_2003",
+        "name": "Festival Express",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "radioanagrama"
+        },
+        "dateCreated": "2005-05-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0372279/"
+        },
+        "name": "Opinion from a complete non-fan of the music....",
+        "reviewBody": "Before seeing this film, I was a completely novice to The Band, Grateful Dead, Janis. I'm 22, I didn't grow up with this stuff, my only knowledge of The Band is that Scorcese directed a film on their last concert. I have a few hippie friends that endless blathered about the brilliance of Janis, which fell upon my deaf ears. I was expecting Festival Express to be this dull, venture into 70's nostalgia crap and tedious jam band boredom.\n\nOh...how my opinion has changed. I mean, its nothing like the music I love (90's alternative stuff and electronic stuff) but the performances are so absolutely incredible and passionate. In reality, its a film for musicians more than fans, people that who have, even for a moment, felt the sheer exhilaration of collaborating musically with people and it being perfect! Festival Express feels exactly like that. You see it in their eyes in these performances. Janis may have been.....kind of crazy, but in the track in the film (\"cry baby\"?) I can completely see her absolute passion for music and her amazing showmanship (or show-womanship). Festival Express is the best example of a completely non-contrived and purely candid look into these bands. Even if they are brief glimmers of their natural selves.\n\nI think the die-hard fans who are criticizing the film are asking too much. If I can wait 30 years after the demise of my favorite bands (Radiohead, Tool, Nine Inch Nails)...to see an amazingly honest and brilliantly shot look into their touring lives, I would be very very grateful, not critical because the damned filmmakers didn't get everything I wanted. The interviews with the performers and particularly the promoter, are fantastic. Not only are they a good dose of humour, but...its so easy to see WHY they are saying this tour was absolutely special and unique and memorable. It's right there on film, this was the pinnacle of that era and that place and that mentality and musicianship that was going on. You have to appreciate what Festival Express showcases. You might not like every bit of music (I didn't) but I can appreciate the total intensity and passion of the performances.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from New Line Home Entertainment",
+        "duration": "PT2M5S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi27525401",
+        "name": "Festival Express",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTMxYmM3M2QtYTEwNS00MTEzLWI3NzMtYzM0ZjljMjQ4MGQ0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTMxYmM3M2QtYTEwNS00MTEzLWI3NzMtYzM0ZjljMjQ4MGQ0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:57:24Z",
+        "url": "https://www.imdb.com/video/vi27525401/"
+    },
+    "url": "/title/tt0372279/"
+}

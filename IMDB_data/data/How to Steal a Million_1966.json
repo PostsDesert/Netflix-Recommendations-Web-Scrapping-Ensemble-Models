@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Audrey Hepburn",
+            "url": "/name/nm0000030/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter O'Toole",
+            "url": "/name/nm0000564/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eli Wallach",
+            "url": "/name/nm0908919/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 28523,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0031467/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Bradshaw",
+            "url": "/name/nm0103488/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harry Kurnitz",
+            "url": "/name/nm0475823/"
+        }
+    ],
+    "datePublished": "1966-08-19",
+    "description": "The daughter of an art forger teams up with a burglar to steal one of her father's forgeries and protect his secret.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "William Wyler",
+            "url": "/name/nm0943758/"
+        }
+    ],
+    "duration": "PT2H3M",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTk4MTBjY2QtMjNiOS00MWZmLWE4MTUtMjc0NDA3YzE2ZTkxXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+    "keywords": "forger,burglar,heist,museum,police",
+    "name": "How to Steal a Million",
+    "original_info": {
+        "id": "How to Steal a Million_1966",
+        "name": "How to Steal a Million",
+        "year": "1966"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jckruize"
+        },
+        "dateCreated": "2001-10-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0060522/"
+        },
+        "name": "Charm to burn.",
+        "reviewBody": "Leave aside for the moment the two leads, Audrey Hepburn and Peter O'Toole, both at the very pinnacle of their star power and attractiveness. Leave aside, too, the brilliant support of two comedy masters, Eli Wallach and Hugh Griffith. And the sheen of William Wyler's direction, honed to perfection over a long, award-winning career. And the sparkling dialogue of old-pro scenarist Harry Kurnitz. And the beautiful location photography in that most beautiful of cities, Paris. And John Williams' sprightly score, and the rich production design, and the exquisite costumes, and every other perfectly-executed facet of this gleaming gem of a film. And concentrate on one single moment: in the museum, in the cupboard under the stairs, when Audrey Hepburn's character realizes that Peter O'Toole is going through everything he's going through, including breaking the law even though he's a policeman, simply because he's fallen in love with her. The expression on Hepburn's face is one of those truly sublime moments that make movies what they can be: bigger than life, more real, more joyous, more true. And for that alone we can be grateful that this movie is available for us and our posterity to enjoy.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "TV spot trailer two",
+        "duration": "PT1M1S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1108215577",
+        "name": "How To Steal A Million",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTQ3NWJiNGYtOTQyOS00NzhkLWJlMzYtODE1NzIwZjczM2U3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTQ3NWJiNGYtOTQyOS00NzhkLWJlMzYtODE1NzIwZjczM2U3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-05-18T15:24:01Z",
+        "url": "https://www.imdb.com/video/vi1108215577/"
+    },
+    "url": "/title/tt0060522/"
+}

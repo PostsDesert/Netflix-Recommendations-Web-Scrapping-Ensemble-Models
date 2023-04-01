@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Rodney Dangerfield",
+            "url": "/name/nm0001098/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anita De Simone",
+            "url": "/name/nm1279052/"
+        },
+        {
+            "@type": "Person",
+            "name": "Annabelle Gurwitch",
+            "url": "/name/nm0348800/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 365,
+        "ratingValue": 4.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0086635/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rodney Dangerfield",
+            "url": "/name/nm0001098/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harry Basil",
+            "url": "/name/nm0059835/"
+        }
+    ],
+    "datePublished": "2004-12-03",
+    "description": "A restaurant owner falls in love with an opera singer and, desperate to impress her, travels to Italy to learn how to sing.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Harry Basil",
+            "url": "/name/nm0059835/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Comedy",
+        "Music",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI0MzY4NTIzM15BMl5BanBnXkFtZTcwODEyMjAwMQ@@._V1_.jpg",
+    "keywords": "waitress,voice coach,wine,opera,restaurant",
+    "name": "The 4th Tenor",
+    "original_info": {
+        "id": "The 4th Tenor_2002",
+        "name": "The 4th Tenor",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "vcranerlzk"
+        },
+        "dateCreated": "2005-09-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0275170/"
+        },
+        "name": "Great movie (But only as a straight to video)",
+        "reviewBody": "Rodney did spectacular in this movie, especially for pushing 80. It had a great charm, and made me laugh. I did not really enjoy some of the mysterious magical effects, but it was still great, if a bit cheesy. I thought all in all, it was great. If I had to watch it again, I would not mind. It was, definitely, a straight to video type film. It had cheesy qualities, and did not have too great effects. Rodney is pushing 80 and just plain couldn't deliver like he used to. But I still liked it. Time one a look at me i know what I'm doing, Bwahahahahahahaah. Midnight, foresight, the clock has run out, we're going past midnight. \n\nDaft Punk - Around the World\n\naround the world, around the world (x 54)\n\nOne two three. You cannot escape the cube.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Rodney Dangerfield stars as a man who travels to Italy to learn to sing in hopes of impressing a woman",
+        "duration": "PT3M23S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3827368729",
+        "name": "The 4th Tenor",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNGYyM2E2MTUtNTQxZi00MjAzLThmMWUtYWQ5NTRhNjI3ZGI3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNGYyM2E2MTUtNTQxZi00MjAzLThmMWUtYWQ5NTRhNjI3ZGI3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-02-11T07:34:46Z",
+        "url": "https://www.imdb.com/video/vi3827368729/"
+    },
+    "url": "/title/tt0275170/"
+}

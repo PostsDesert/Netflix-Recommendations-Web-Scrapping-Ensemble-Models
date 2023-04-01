@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Stephen Lynch",
+            "url": "/name/nm1392557/"
+        },
+        {
+            "@type": "Person",
+            "name": "Drew Lynch",
+            "url": "/name/nm1640250/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Teich",
+            "url": "/name/nm1116054/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 410,
+        "ratingValue": 8.6,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0086829/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0431082/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen Lynch",
+            "url": "/name/nm1392557/"
+        }
+    ],
+    "datePublished": "2004-09-28",
+    "description": "Captures one of today's most original singer-comedians in his natural environment: onstage.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Matt Goodman",
+            "url": "/name/nm1243154/"
+        },
+        {
+            "@type": "Person",
+            "name": "Morgan Stone",
+            "url": "/name/nm2345016/"
+        }
+    ],
+    "duration": "PT1H10M",
+    "genre": [
+        "Comedy",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkyMzcxMTM0N15BMl5BanBnXkFtZTcwNzYxODYyMQ@@._V1_.jpg",
+    "keywords": "stand up comedy",
+    "name": "Stephen Lynch: Live at the El Rey",
+    "original_info": {
+        "id": "Stephen Lynch: Live at the El Rey_2004",
+        "name": "Stephen Lynch: Live at the El Rey",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "mobstar78"
+        },
+        "dateCreated": "2006-09-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0838284/"
+        },
+        "name": "Funny as hell",
+        "reviewBody": "Mr Lynch is in good form on this one. With some of his funniest classics and several new songs, he will make you laugh until you get sick.\n\nThe intro is pretty funny too. Some of the extras are a bit boring or maybe i just watched them too soon after watching the actual show, i'm not sure.\n\nThis is one of those things I wish I could have seen live, I have seen Lynch live and he is the best live show (as far as comedic) I have seen. If you find this DVD anywhere....pick it up, buy it, steal it, or trade a family member for it. If you don't see it, look online.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0838284/"
+}

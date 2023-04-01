@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ethan Blum",
+            "url": "/name/nm1453015/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chad Bockholdt",
+            "url": "/name/nm1309448/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeremy Corray",
+            "url": "/name/nm1965532/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 293,
+        "ratingValue": 3.5,
+        "worstRating": 1
+    },
+    "contentRating": "Unrated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0131018/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0064611/"
+        },
+        {
+            "@type": "Person",
+            "name": "Adam Hackbarth",
+            "url": "/name/nm0004166/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ron Bonk",
+            "url": "/name/nm0094744/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eric Stanze",
+            "url": "/name/nm0822855/"
+        }
+    ],
+    "datePublished": "2004-11-30",
+    "description": "Aliens meet their match. Abducting a bunch of crazed hillybillies can be a little messy.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Patrick Voss",
+            "url": "/name/nm1270520/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Adventure",
+        "Comedy",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzk1NTI0MDQ3M15BMl5BanBnXkFtZTcwNjcwMjU1MQ@@._V1_.jpg",
+    "keywords": "murder,alien,hillbilly,alien abduction,arkansas",
+    "name": "Inbred Redneck Alien Abduction",
+    "original_info": {
+        "id": "Inbred Rednecks Alien Abduction_2004",
+        "name": "Inbred Rednecks Alien Abduction",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "merklekranz"
+        },
+        "dateCreated": "2008-02-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0349612/"
+        },
+        "name": "Extra points for the title alone.....",
+        "reviewBody": "Sure it's ultra-low budget, but this movie has heart, because everyone involved seems to be having fun. Sort of a free form script \"borrowed\" from any number of sci-fi's out there, and with a title like \"Inbred Redneck Alien Abduction\", you cannot expect \"Star Wars\". What drives the movie is the obvious love and enthusiasm that went into producing this schlocky but lovable production. The creatures are comical, the rednecks are nicely stereotyped, and all of the acting is terrible. I say this, you go in expecting nothing, and I.R.A.A. just might surprise you. There are a few laugh out loud situations, not much nudity, and some comical violence. Oh yes, one more thing, turn your brain off for ninety minutes and never admit to anyone that you saw this movie. - MERK",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0349612/"
+}

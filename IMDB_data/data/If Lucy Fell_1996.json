@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sarah Jessica Parker",
+            "url": "/name/nm0000572/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eric Schaeffer",
+            "url": "/name/nm0769703/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ben Stiller",
+            "url": "/name/nm0001774/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4240,
+        "ratingValue": 4.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0071430/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0005883/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eric Schaeffer",
+            "url": "/name/nm0769703/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tony Spiridakis",
+            "url": "/name/nm0819045/"
+        }
+    ],
+    "datePublished": "1996-03-08",
+    "description": "Two NYC roommates have a pact to jump off Brooklyn Bridge if they haven't found life partners before she's 30. That's less than a month away.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Eric Schaeffer",
+            "url": "/name/nm0769703/"
+        }
+    ],
+    "duration": "PT1H32M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMmFjYWU4YTgtZGQ1OC00ZjhlLWI3ZjMtMzZhN2I1Y2I1MWJjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "love,roommate,new york city,lingerie slip,suicide attempt",
+    "name": "If Lucy Fell",
+    "original_info": {
+        "id": "If Lucy Fell_1996",
+        "name": "If Lucy Fell",
+        "year": "1996"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "=G="
+        },
+        "dateCreated": "2003-02-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0116606/"
+        },
+        "name": "Yawn!",
+        "reviewBody": "\"If Lucy Fell\" tells of a man and woman who have known each other since childhood, live together platonically, and are both single and looking for love unsuccessfully. Hmmm...what do you suppose is going to happen??\n\nSchaeffer's shot at telling this old no-brainer in \"If Lucy Fell\" doesn't distinguish itself in any way and though it has it's moments they are few and far between. The film has many deficits with the most obvious being the lack of sincere sentiment and the usual gushing emotional crescendo at the end. What sentiment there is seems forced and awkward. A so-so little indie romcom which is watchable but not recommendable. (C)",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Tristar",
+        "duration": "PT2M42S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2628649241",
+        "name": "If Lucy Fell",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzExMGYyNzUtMWFhNy00MzNjLTg1NDMtOTRhMjI3ZmJjYzg3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzExMGYyNzUtMWFhNy00MzNjLTg1NDMtOTRhMjI3ZmJjYzg3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:30:59Z",
+        "url": "https://www.imdb.com/video/vi2628649241/"
+    },
+    "url": "/title/tt0116606/"
+}

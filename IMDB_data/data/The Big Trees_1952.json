@@ -1,0 +1,94 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kirk Douglas",
+            "url": "/name/nm0000018/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eve Miller",
+            "url": "/name/nm0588322/"
+        },
+        {
+            "@type": "Person",
+            "name": "Patrice Wymore",
+            "url": "/name/nm0943867/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1754,
+        "ratingValue": 5.7,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Twist",
+            "url": "/name/nm0878605/"
+        },
+        {
+            "@type": "Person",
+            "name": "James R. Webb",
+            "url": "/name/nm0916139/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kenneth Earl",
+            "url": "/name/nm0247252/"
+        }
+    ],
+    "datePublished": "1952-03-30",
+    "description": "A Quaker colony tries to save the giant sequoias from a timber baron.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Felix E. Feist",
+            "url": "/name/nm0270765/"
+        }
+    ],
+    "duration": "PT1H29M",
+    "genre": [
+        "Drama",
+        "Western"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzQ4NWNjNzMtMjhkNi00MzAyLWJkMGItMGYxYzJmOGRmOGY0XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "keywords": "california,religious sect,redwood forest,logging,building on fire",
+    "name": "The Big Trees",
+    "original_info": {
+        "id": "The Big Trees_1952",
+        "name": "The Big Trees",
+        "year": "1952"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "sddavis63"
+        },
+        "dateCreated": "2008-02-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0044420/"
+        },
+        "name": "Far More Interesting Than The Title Implies",
+        "reviewBody": "Kirk Douglas offered a very good performances in a movie that I really didn't expect much out of, but that turned out to be surprisingly interesting. Neither the title nor the plot gave me high hopes. The story is about the efforts of a religious community to prevent the cutting down of California's giant redwoods by a Wisconsin lumberman. It doesn't sound particularly exciting, but actually turns out to be pretty good. Douglas is the lumberman - Jim Fallon - a charismatic conniver who seems able to convince anyone of his good intentions, even while he plots to take as much advantage of them as he possibly can. There's some decent enough action, particularly the scene in which Fallon tries to rescue Sister Chadwick (Eve Miller) from the out of control train. There's also good use of humour, provided both by Douglas and Edgar Buchanan as \"Yukon\" Burns, who becomes first Fallon's right hand man and then his antagonist - and who actually ends up being appointed as a marshall by a local judge (Roy Roberts) who's sympathetic to the religious folk and is willing to twist and turn every law on the book to help them.\n\nThat evolution is one of the problems with the movie, however. People change too fast from good guys to bad guys, or from friends into enemies, and it's hard to really understand how the changes came upon them, which sometimes makes it hard to keep track of who's on whose side at any given time, and the final evolution of Fallon - telegraphed as it from the moment he arrives in California - is still hard to believe. I also thought that aside from Douglas and Buchanan, the performances were average at best. Still, it's not a bad watch. 6/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0044420/"
+}

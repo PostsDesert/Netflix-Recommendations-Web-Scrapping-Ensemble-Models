@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dudley Moore",
+            "url": "/name/nm0001545/"
+        },
+        {
+            "@type": "Person",
+            "name": "Daryl Hannah",
+            "url": "/name/nm0000435/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Reiser",
+            "url": "/name/nm0001663/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4750,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0187384/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mitch Markowitz",
+            "url": "/name/nm0548732/"
+        }
+    ],
+    "datePublished": "1990-04-13",
+    "description": "A bitter ad executive who has reached his breaking point, finds himself in a mental institution where his career actually begins to thrive with the help of the hospital's patients.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Tony Bill",
+            "url": "/name/nm0082300/"
+        },
+        {
+            "@type": "Person",
+            "name": "Barry L. Young",
+            "url": "/name/nm2636212/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZDYwMWFjYzUtZjQ5NC00YjI3LWI0MTEtNmMyYjJkZWU5NmI0XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "advertising,female psychiatrist,mental illness,advertising campaign,advertising executive",
+    "name": "Crazy People",
+    "original_info": {
+        "id": "Crazy People_1990",
+        "name": "Crazy People",
+        "year": "1990"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "SnoopyStyle"
+        },
+        "dateCreated": "2018-02-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0099316/"
+        },
+        "name": "The ads are fun",
+        "reviewBody": "Emory Leeson (Dudley Moore) and Stephen Bachman (Paul Reiser) are writing partners in a New York ad agency. Frustrated Emory develops writer's block after his wife leaves him taking everything. He's tired of lying and his painfully honest ads infuriate their boss Drucker (J.T. Walsh). Bachman sends him to a psychiatric retreat in the care of Dr. Liz Baylor (Mercedes Ruehl). His ads are accidentally released and become hugely successful. Drucker sends Bachman to get him back but he has fallen for beautiful Kathy Burgess (Daryl Hannah) and the relaxed lifestyle. He and the group of misfits start writing highly successful ads.\n\nThe ads are fun. The idea of satire on the advertising industry has promise. The execution has some fun moments with the crazy people group. The romance however has no heat. Hannah is nice but there is little chemistry. The Drucker villain is too broad. The satire has no bite. It's not horrible but it's forgettable.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT2M23S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2839855385",
+        "name": "Crazy People",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDM1MjJlZGQtYmQ4MC00ZTgzLTljYjktMzM3MzAzYTllZmIwXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDM1MjJlZGQtYmQ4MC00ZTgzLTljYjktMzM3MzAzYTllZmIwXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-02-15T17:02:35.342Z",
+        "url": "https://www.imdb.com/video/vi2839855385/"
+    },
+    "url": "/title/tt0099316/"
+}

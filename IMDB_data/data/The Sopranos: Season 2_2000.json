@@ -1,0 +1,52 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Don Bufalini",
+            "url": "/name/nm2146724/"
+        },
+        {
+            "@type": "Person",
+            "name": "Allegra Ashton",
+            "url": "/name/nm9570868/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nadine Marie Cuccia",
+            "url": "/name/nm9477181/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 57,
+        "ratingValue": 9.4,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0112313/"
+        }
+    ],
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Sammy Silver",
+            "url": "/name/nm2397124/"
+        }
+    ],
+    "genre": [
+        "Short"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNGZhODY3YWEtNjEzMC00ZGY1LWE2MDMtZDI1NjM0N2FmNGZiXkEyXkFqcGdeQXVyMTM0Nzg2NDQ@._V1_.jpg",
+    "name": "The Sopranos: Season 6 Invitation to the Set",
+    "original_info": {
+        "id": "The Sopranos: Season 2_2000",
+        "name": "The Sopranos: Season 2",
+        "year": "2000"
+    },
+    "url": "/title/tt6672978/"
+}

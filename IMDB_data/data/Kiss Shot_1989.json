@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Whoopi Goldberg",
+            "url": "/name/nm0000155/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dennis Franz",
+            "url": "/name/nm0001240/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tasha Scott",
+            "url": "/name/nm0779833/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 408,
+        "ratingValue": 4.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0054592/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0137959/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carl Kleinschmitt",
+            "url": "/name/nm0459147/"
+        }
+    ],
+    "datePublished": "1989-04-11",
+    "description": "A detached black mother loses her job and also the ability to pay back her credit. She recalls her billiard skills and begins to play for money. Will she be cool enough to be a pro in such a game? Things get worse when she falls i...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jerry London",
+            "url": "/name/nm0518719/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODQ0Y2FhNTktNDEzYi00MGE2LTlkMDItOGRiMGFkNDk3MjFkXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+    "keywords": "job,billiards",
+    "name": "Kiss Shot",
+    "original_info": {
+        "id": "Kiss Shot_1989",
+        "name": "Kiss Shot",
+        "year": "1989"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "christopherandbarb"
+        },
+        "dateCreated": "2005-12-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0097671/"
+        },
+        "name": "Trivia",
+        "reviewBody": "My cousin, Joni, is the brunette sitting on the next pool table in the biker bar. Her H.O.G. (Harley Owners Group) was hired as extras especially for this scene. I am proud to say, Joni received a few extra seconds as the camera panned over her group! Besides the fact Joni was in it, I really liked the movie. I thought it was hilarious when Sarah first meets Kevin Merrick (hunk, Dorian Harewood), and hands him her coat, thinking he is merely a doorman! This movie is a good example of what a divorced woman in America would do to keep her head above water to provide for her child. It also was an example of how hard it is to deal with parents (her father) who think their child made a big mistake getting pregnant and married as a teenager. The biblical references (Sarah being named after Sarah from the Bible) was endearing. I think her father was a minister, or parishioner in their church. I even learned how to play Nine-Ball after watching this movie. Although it was a low-budget movie, it was a good one!!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0097671/"
+}

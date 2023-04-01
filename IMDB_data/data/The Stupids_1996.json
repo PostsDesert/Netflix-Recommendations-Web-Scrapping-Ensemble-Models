@@ -1,0 +1,110 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tom Arnold",
+            "url": "/name/nm0000792/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jessica Lundy",
+            "url": "/name/nm0526649/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bug Hall",
+            "url": "/name/nm0355379/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6971,
+        "ratingValue": 4.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0003687/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0074787/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0021421/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Marshall",
+            "url": "/name/nm0550930/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harry Allard",
+            "url": "/name/nm0020068/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brent Forrester",
+            "url": "/name/nm0286715/"
+        }
+    ],
+    "datePublished": "1996-08-30",
+    "description": "An incredibly dull-witted family unknowingly stumble upon an illegal weapons deal while on the trail of their \"stolen\" garbage.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Landis",
+            "url": "/name/nm0000484/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNmMzYjAyNDAtYjQxYS00YTgzLTg2ZTUtZTM5MGRkY2JkODE0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "stupidity,garbage,paranoia,warehouse,arms deal",
+    "name": "The Stupids",
+    "original_info": {
+        "id": "The Stupids_1996",
+        "name": "The Stupids",
+        "year": "1996"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "hammai"
+        },
+        "dateCreated": "1999-03-31",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0117768/"
+        },
+        "name": "It's funny",
+        "reviewBody": "I can't help but admit that the movie is funny. It's still one of the stupidest movies I've ever seen but it's still funny. My favorite scene is when Tom Arnold is trying to hide as a bush and decides to hide as a bush he must think like a bush. He then becomes amazed that he is the first bush in history that can walk and talk. Idiotic? Sure, but it worked."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from New Line Home Entertainment",
+        "duration": "PT1M43S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi955973913",
+        "name": "The Stupids",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzU4ZjRmZmMtOGYyMi00ZGFhLWI3ZjUtOTgwNjRjZmE3OGZiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzU4ZjRmZmMtOGYyMi00ZGFhLWI3ZjUtOTgwNjRjZmE3OGZiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:14:27Z",
+        "url": "https://www.imdb.com/video/vi955973913/"
+    },
+    "url": "/title/tt0117768/"
+}

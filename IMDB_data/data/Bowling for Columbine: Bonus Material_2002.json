@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Michael Moore",
+            "url": "/name/nm0601619/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charlton Heston",
+            "url": "/name/nm0000032/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marilyn Manson",
+            "url": "/name/nm0001504/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 146010,
+        "ratingValue": 8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0026841/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0054762/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0099642/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Moore",
+            "url": "/name/nm0601619/"
+        }
+    ],
+    "datePublished": "2002-11-15",
+    "description": "Filmmaker Michael Moore explores the roots of America's predilection for gun violence.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Moore",
+            "url": "/name/nm0601619/"
+        }
+    ],
+    "duration": "PT2H",
+    "genre": [
+        "Documentary",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOWY2OWM1ODEtNDU5OS00MjMwLTliYzItZWZlOTEyYmQ2Njg4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "columbine high school killings,firearm,national rifle association,school shooting,gunfire",
+    "name": "Bowling for Columbine",
+    "original_info": {
+        "id": "Bowling for Columbine: Bonus Material_2002",
+        "name": "Bowling for Columbine: Bonus Material",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "evanston_dad"
+        },
+        "dateCreated": "2010-08-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0310793/"
+        },
+        "name": "Hard to Disagree with the Point Even If You Don't Like the Artist",
+        "reviewBody": "Michael Moore's incendiary film about America and its gun culture.\n\nMoore uses the Columbine school massacre as an opportunity to discourse upon the subject of why tragedies like that one are so much more prevalent in America than anywhere else. His thesis, that America promotes a culture of fear and violence, is hard to refute, even if you disagree with his methods. Like all of Moore's films, \"Bowling for Columbine\" is fantastically entertaining, and also enraging. His version of America is one that I'm ashamed to live in.\n\nMoore won the 2002 Oscar for Best Documentary Feature, and then eliminated the chance that he'll ever win again by ranting against then President Bush in his acceptance speech in one of the Academy's most infamous moments.\n\nGrade: A",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from MGM Home Entertainment",
+        "duration": "PT2M7S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2814050585",
+        "name": "Bowling for Columbine",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDQ5MTU4MDQtOTdkNS00NWQwLWE5ODMtZWQ4Y2QwYzIzMDE0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDQ5MTU4MDQtOTdkNS00NWQwLWE5ODMtZWQ4Y2QwYzIzMDE0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:46:44Z",
+        "url": "https://www.imdb.com/video/vi2814050585/"
+    },
+    "url": "/title/tt0310793/"
+}

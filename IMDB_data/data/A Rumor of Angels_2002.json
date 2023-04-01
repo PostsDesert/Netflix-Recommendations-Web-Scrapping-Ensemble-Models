@@ -1,0 +1,114 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Vanessa Redgrave",
+            "url": "/name/nm0000603/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ray Liotta",
+            "url": "/name/nm0000501/"
+        },
+        {
+            "@type": "Person",
+            "name": "Catherine McCormack",
+            "url": "/name/nm0001517/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1604,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0017447/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0071430/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0005560/"
+        },
+        {
+            "@type": "Person",
+            "name": "Grace Duffie Boylan",
+            "url": "/name/nm0102161/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Eric",
+            "url": "/name/nm0258953/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jamie Horton",
+            "url": "/name/nm0395604/"
+        }
+    ],
+    "description": "An old woman helps a young boy resolve his feelings over the death of his mother.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Peter O'Fallon",
+            "url": "/name/nm0640964/"
+        }
+    ],
+    "duration": "PT1H46M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZDliNzA0ZjMtMTVlMi00MGJhLWJmNmYtM2NkNWIzZGRmZmM2XkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_.jpg",
+    "keywords": "stepmother,lighthouse,grief,fence,based on novel",
+    "name": "A Rumor of Angels",
+    "original_info": {
+        "id": "A Rumor of Angels_2002",
+        "name": "A Rumor of Angels",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "michaelk-15"
+        },
+        "dateCreated": "2005-07-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0201899/"
+        },
+        "name": "Redgrave and Morgan and Mozart - What a combination",
+        "reviewBody": "This looks like a made-for-TV movie, but Vanessa Redgrave and Trevor Morgan lift it at least a notch higher than that.\n\nShe is still gorgeous, yet her face has a leathery quality appropriate for her character. She is a magnificent presence on screen, and it was great watching her with Trevor, who must have had to really stretch to match her formidable skills. He does a great job, and I had no difficulty accepting his character on the same level as hers.\n\nYes, it is a \"heart-warming\" story, but it addresses death with honesty and some real-world strategies for getting past the grief of losing a loved one. It also has some fantasy strategies, but those don't get in the way of the real ones.\n\nI loved the use of Mozart's music, particularly the \"Ave Verum Corpus\" choral piece.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "An old woman helps a young boy resolve his feelings over the death of his mother.",
+        "duration": "PT2M11S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3070018073",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNWMwZTBiMTAtNzFiMS00Yjc5LTljMDctZDg2YzFjMmQ1NzcyXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNWMwZTBiMTAtNzFiMS00Yjc5LTljMDctZDg2YzFjMmQ1NzcyXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2022-05-27T19:50:05.658Z",
+        "url": "https://www.imdb.com/video/vi3070018073/"
+    },
+    "url": "/title/tt0201899/"
+}

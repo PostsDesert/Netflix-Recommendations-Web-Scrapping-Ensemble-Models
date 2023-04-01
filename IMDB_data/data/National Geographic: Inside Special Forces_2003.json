@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 12,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0089317/"
+        }
+    ],
+    "datePublished": "2003-03-15",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bryan Gunnar Cole",
+            "url": "/name/nm0170474/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lloyd Fales",
+            "url": "/name/nm1510433/"
+        }
+    ],
+    "duration": "PT1H",
+    "genre": [
+        "Documentary"
+    ],
+    "name": "National Geographic Special: Search for the First Dog",
+    "original_info": {
+        "id": "National Geographic: Inside Special Forces_2003",
+        "name": "National Geographic: Inside Special Forces",
+        "year": "2003"
+    },
+    "url": "/title/tt0780862/"
+}

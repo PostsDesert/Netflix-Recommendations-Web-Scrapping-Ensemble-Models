@@ -1,0 +1,121 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bob Hoskins",
+            "url": "/name/nm0001364/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Leguizamo",
+            "url": "/name/nm0000491/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dennis Hopper",
+            "url": "/name/nm0000454/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 56744,
+        "ratingValue": 4.1,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0052092/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0094483/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0076240/"
+        },
+        {
+            "@type": "Person",
+            "name": "Parker Bennett",
+            "url": "/name/nm0071970/"
+        },
+        {
+            "@type": "Person",
+            "name": "Terry Runte",
+            "url": "/name/nm0750344/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ed Solomon",
+            "url": "/name/nm0004412/"
+        }
+    ],
+    "datePublished": "1993-05-28",
+    "description": "Two Brooklyn plumbers, Mario and Luigi, must travel to another dimension to rescue a princess from the evil dictator King Koopa and stop him from taking over the world.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Annabel Jankel",
+            "url": "/name/nm0417708/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rocky Morton",
+            "url": "/name/nm0608084/"
+        }
+    ],
+    "duration": "PT1H44M",
+    "genre": [
+        "Adventure",
+        "Comedy",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZGVmZTUyZDAtYjg0MC00NmE5LWE2OTAtM2FjNGI1NWUyMzE0XkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+    "keywords": "plumber,dinosaur,italian american,based on video game,set up for unmade sequel",
+    "name": "Super Mario Bros.",
+    "original_info": {
+        "id": "Super Mario Bros: Mario Mania_2004",
+        "name": "Super Mario Bros: Mario Mania",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "anaang"
+        },
+        "dateCreated": "2003-01-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0108255/"
+        },
+        "name": "be careful how you watch",
+        "reviewBody": "I made the mistake of watching this movie the day i had knee surgery. So i was doped up on all kinds of pain killers and thought the movie was great. However a few years later i remembered how much i enjoyed the movie so i watched on tv when it was run agian. I was blown away with how horribly bad it was. I was also amazed on how much i remembered being in the movie that wasnt. so as the title says be careful how you watch. As a side note this is not an endorsement to do drugs just to make bad movies better.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 2,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M38S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi589086233",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BN2E4YTU4MDgtN2ExNy00NjMxLThlMGQtZDZhOGRhNjM2YTkwXkEyXkFqcGdeQWdhbWF6b2E@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BN2E4YTU4MDgtN2ExNy00NjMxLThlMGQtZDZhOGRhNjM2YTkwXkEyXkFqcGdeQWdhbWF6b2E@._V1_.jpg",
+        "uploadDate": "2020-07-01T15:09:29.997Z",
+        "url": "https://www.imdb.com/video/vi589086233/"
+    },
+    "url": "/title/tt0108255/"
+}

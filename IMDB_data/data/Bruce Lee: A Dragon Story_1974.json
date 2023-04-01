@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bruce Li",
+            "url": "/name/nm0508362/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carter Wong",
+            "url": "/name/nm0938975/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kuei Chang",
+            "url": "/name/nm0473906/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 268,
+        "ratingValue": 5.3,
+        "worstRating": 1
+    },
+    "alternateName": "Bruce Lee's Deadly Kung Fu",
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0079242/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0035122/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hsin-Yi Chang",
+            "url": "/name/nm0398786/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hua Chen",
+            "url": "/name/nm0151146/"
+        }
+    ],
+    "description": "Bruce Li plays a young kung fu expert (and waiter) who is trying to live peacefully in San Francisco with his marital arts-challenged friend. But they run afoul of some American thugs, and the fight is on...right!",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Chi Chang",
+            "url": "/name/nm0154858/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hua Chen",
+            "url": "/name/nm0151146/"
+        }
+    ],
+    "duration": "PT1H31M",
+    "genre": [
+        "Action",
+        "Biography",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU5NDEzODY3OV5BMl5BanBnXkFtZTcwNTM2MjMyMQ@@._V1_.jpg",
+    "keywords": "bruceploitation,kung fu,hero,philosopher,author",
+    "name": "Yong chun jie quan",
+    "original_info": {
+        "id": "Bruce Lee: A Dragon Story_1974",
+        "name": "Bruce Lee: A Dragon Story",
+        "year": "1974"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "InzyWimzy"
+        },
+        "dateCreated": "2004-01-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0071253/"
+        },
+        "name": "Bad Story Bruce!!",
+        "reviewBody": "Aw man. I kept waiting...and waiting...and waiting... ...and I yelled, \"That's it??\"\n\nMan, this one hurt. Like walking in the dark and ripping a fresh wound on your shin off the corner of the living room coffee table. I kept anticipating final fight or climactic scene...or someone bumping into Bruce Li and sending him into a rage by yelling, \"You look nothing like Bruce Lee!!\" Instead, it's like a really bad soap opera and seeing Bruce negotiate movie contracts. Will Bruce mingle well with others at the gala party? Plus, it really makes Bruce Lee seem like a two timing sleaze because he revels in his affair and has no remorse whatsoever. Besides the fun seeing Bruce do his paper route or his phony TV kung fu demonstrations, Bruce Li; you have done better.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0071253/"
+}

@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Michael Moriarty",
+            "url": "/name/nm0605363/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert De Niro",
+            "url": "/name/nm0000134/"
+        },
+        {
+            "@type": "Person",
+            "name": "Vincent Gardenia",
+            "url": "/name/nm0306696/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6002,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0037457/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0059707/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Harris",
+            "url": "/name/nm0365063/"
+        }
+    ],
+    "datePublished": "1978-03-09",
+    "description": "The story of the friendship between a worldly-wise star pitcher and a half-wit catcher as they cope with the catcher's terminal illness through a baseball season.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John D. Hancock",
+            "url": "/name/nm0359386/"
+        }
+    ],
+    "duration": "PT1H36M",
+    "genre": [
+        "Drama",
+        "Sport"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYjcwODUyNzYtZmQxOC00MTY5LTg0YTQtNTMyMWRjYTQyZTg1XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "television set,coach,doctor,switchboard operator,guitar",
+    "name": "Bang the Drum Slowly",
+    "original_info": {
+        "id": "Bang the Drum Slowly_1973",
+        "name": "Bang the Drum Slowly",
+        "year": "1973"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dfranzen70"
+        },
+        "dateCreated": "1999-12-31",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0069765/"
+        },
+        "name": "Early DeNiro gives a good look at actor's incredible range",
+        "reviewBody": "Most of us, at the end of the 20th century, know Robert DeNiro as an actor who has portrayed countless tough guys onscreen, in movies such as Goodfellas, Raging Bull, Mean Streets, and even up to Ronin. But before Bobby was cast (and cast and cast and cast)as Hollywood's chief badfella, he co-starred in this adaptation of a novel by Mark Harris as a simpleton baseball catcher who may be dying.\n\nMany people feel that playing a sick or handicapped character is relatively easy for an actor, but in truth there's more to acting than simply limping or slurring one's speech. DeNiro's character, we learn early on, is dying - just when his chances of sticking with the big club are tenuous at best. His best friend is played by Michael Moriarty, whose character is a seasoned, talented pitcher. Moriarty learns of DeNiro's fate during an off season, and decides to do all he can to help his friend, to make what life he has left a pleasant one.\n\nBoth actors turn in magnificent performances, but you can't beat this film for an excellent foretelling of a major talent. By 1973, DeNiro had acted in a few movies (including a couple from his once and future director, Brian DePalma), but it was his astounding work in this film that really put him on the map. His Bruce Pearson isn't just a simpleton for whom the audience is supposed to feel a truckload of sympathy - there are many television movies that do just that - he's a multilayered person. DeNiro squeezes more emotion out of a single sideways smile than many actors can do in their entire careers. What's more, even though you the viewer know what Pearson's fate is, you're no less pulling for him. \n\nCall this a tearjerker, and you'd be correct. But ultimately, DeNiro's conviction and a solid script put this far above most other films of this genre.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "The story of the friendship between a worldly-wise star pitcher and a half-wit catcher as they cope with the catcher's terminal illness through a baseball season.",
+        "duration": "PT3M35S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2761868057",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMDQ5NDNmMzgtNTQwMy00YTk2LWFiNjctMmY2MWI4MjU3Mzk1XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDQ5NDNmMzgtNTQwMy00YTk2LWFiNjctMmY2MWI4MjU3Mzk1XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-10-14T00:25:02.485Z",
+        "url": "https://www.imdb.com/video/vi2761868057/"
+    },
+    "url": "/title/tt0069765/"
+}

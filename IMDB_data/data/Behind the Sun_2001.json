@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 75,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0238979/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0238432/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Tynan",
+            "url": "/name/nm3023099/"
+        }
+    ],
+    "description": "Samir Majan was raised as a Muslim in the Middle East. When studying in America, he becomes a Christian, which may cause some difficulties when he returns home",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robin B. Armstrong",
+            "url": "/name/nm0035883/"
+        }
+    ],
+    "duration": "PT56M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTc0ZWUwZmQtYWNjMS00NzMxLWE2ZGMtZWQ2MmU4YWRlMmFjXkEyXkFqcGdeQXVyMjI5ODYwOTA@._V1_.jpg",
+    "keywords": "muslim,middle east,christian,underground movement,religious persecution",
+    "name": "Behind the Sun",
+    "original_info": {
+        "id": "Behind the Sun_2001",
+        "name": "Behind the Sun",
+        "year": "2001"
+    },
+    "url": "/title/tt1236432/"
+}

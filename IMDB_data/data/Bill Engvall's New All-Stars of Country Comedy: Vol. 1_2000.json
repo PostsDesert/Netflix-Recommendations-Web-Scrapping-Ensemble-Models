@@ -1,0 +1,68 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Henry Cho",
+            "url": "/name/nm0158616/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Engvall",
+            "url": "/name/nm0257821/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeff Foxworthy",
+            "url": "/name/nm0289344/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0693474/"
+        },
+        {
+            "@type": "Person",
+            "name": "Henry Cho",
+            "url": "/name/nm0158616/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Engvall",
+            "url": "/name/nm0257821/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeff Foxworthy",
+            "url": "/name/nm0289344/"
+        }
+    ],
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Steven Goldman",
+            "url": "/name/nm6248596/"
+        }
+    ],
+    "duration": "PT1H7M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjNhMDg5NTctOTRmNC00ZjBhLTlkNzAtNmMyN2RkNTVkZWFiXkEyXkFqcGdeQXVyMTEwODg2MDY@._V1_.jpg",
+    "name": "Bill Engvall's New All Stars of Country Comedy Vol. 1",
+    "original_info": {
+        "id": "Bill Engvall's New All-Stars of Country Comedy: Vol. 1_2000",
+        "name": "Bill Engvall's New All-Stars of Country Comedy: Vol. 1",
+        "year": "2000"
+    },
+    "url": "/title/tt8245444/"
+}

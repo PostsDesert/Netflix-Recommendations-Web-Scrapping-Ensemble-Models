@@ -1,0 +1,94 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Wayne",
+            "url": "/name/nm0000078/"
+        },
+        {
+            "@type": "Person",
+            "name": "Binnie Barnes",
+            "url": "/name/nm0001931/"
+        },
+        {
+            "@type": "Person",
+            "name": "Albert Dekker",
+            "url": "/name/nm0215260/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1422,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "Passed",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0677619/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gertrude Purcell",
+            "url": "/name/nm0700717/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frances Hyland",
+            "url": "/name/nm0405081/"
+        },
+        {
+            "@type": "Person",
+            "name": "J. Robert Bren",
+            "url": "/name/nm0107130/"
+        }
+    ],
+    "datePublished": "1942-05-31",
+    "description": "During the California Gold Rush, Boston pharmacist Tom Craig sets up shop in Sacramento where he clashes with local town crook Britt Dawson.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "William C. McGann",
+            "url": "/name/nm0568915/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Drama",
+        "Western"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BN2ZjNjYzMDctY2E4MC00YmZhLTg5ODgtMDUzNTYxMzgwOGJhXkEyXkFqcGdeQXVyNTk1MTk0MDI@._V1_.jpg",
+    "keywords": "deception,damsel in distress,slick villain,archive footage,stock footage",
+    "name": "In Old California",
+    "original_info": {
+        "id": "In Old California_1942",
+        "name": "In Old California",
+        "year": "1942"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "FightingWesterner"
+        },
+        "dateCreated": "2010-03-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0034889/"
+        },
+        "name": "Light-Weight Wayne Vehicle",
+        "reviewBody": "Boston druggist John Wayne travels to Sacramento to open a drug store. On the way he angers big-shot Albert Dekker, who attempts to blackball Wayne, only to find him partner up with his girlfriend, leading to the inevitable love-triangle, skulduggery, and showdown.\n\nOne of the minor Wayne westerns cranked out by Republic Pictures in the nineteen-forties, this mild programmer is pleasant enough entertainment, though nothing really to write home about. It could have been a little better.\n\nThe Duke is a bit softer than usual, in a role that's a lot different than you're used to seeing, that of an educated, suit-wearing gentleman.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0034889/"
+}

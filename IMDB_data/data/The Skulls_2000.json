@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Joshua Jackson",
+            "url": "/name/nm0005045/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Walker",
+            "url": "/name/nm0908094/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hill Harper",
+            "url": "/name/nm0004991/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 32885,
+        "ratingValue": 5.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0011134/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0082027/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Pogue",
+            "url": "/name/nm0688282/"
+        }
+    ],
+    "datePublished": "2000-03-31",
+    "description": "A senior at an ivy league college, who depends on scholarships and working on the side, gets accepted into the secret society The Skulls. He hopes it betters chances at Harvard but The Skulls is not what he thought and comes at a ...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Rob Cohen",
+            "url": "/name/nm0003418/"
+        }
+    ],
+    "duration": "PT1H46M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODA2OTQ0NzctZTYwNi00N2E2LWJhN2UtOTc4N2UzYWRiOWVjL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "cia central intelligence agency,coxswain,reference to bob woodward,atm,reference to pizza hut",
+    "name": "The Skulls",
+    "original_info": {
+        "id": "The Skulls_2000",
+        "name": "The Skulls",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Garnet1186"
+        },
+        "dateCreated": "2001-10-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0192614/"
+        },
+        "name": "A great movie!",
+        "reviewBody": "I just saw The Skulls and I loved it! The characters were very believable in my opinion. After reading most of these reviews, I think a lot of people are overanalyzing so they never really got to sit back and enjoy the movie for what it was.\n\nJoshua Jackson did a good job as Luke McNamara. He could have done it a little better, but all in all, his acting was very well done.\n\nLeslie Bibb did a neat job as well. She was an awesome female character and looked nice on screen with Joshua.\n\n Paul Walker did an amazing job of adding that complex aura to Caleb Mandrake. I think he was the best part of this movie. He has always done a really wonderful job of expressing emotions through those beautiful eyes and he did it again in The Skulls.\n\n I'd give it a 9/10"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A senior at an ivy league college, who depends on scholarships and working on the side, gets accepted into the secret society The Skulls. He hopes it betters chances at Harvard but The Skulls is not what he thought and comes at a price.",
+        "duration": "PT2M21S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi522699033",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYTM0NzgyYmQtNTdlYS00Yjk1LTkxN2UtOTBiMzFjMzg1YmE5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTM0NzgyYmQtNTdlYS00Yjk1LTkxN2UtOTBiMzFjMzg1YmE5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-12-10T17:42:49.172Z",
+        "url": "https://www.imdb.com/video/vi522699033/"
+    },
+    "url": "/title/tt0192614/"
+}

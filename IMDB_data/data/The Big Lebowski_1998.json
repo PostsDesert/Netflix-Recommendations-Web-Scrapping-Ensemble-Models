@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jeff Bridges",
+            "url": "/name/nm0000313/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Goodman",
+            "url": "/name/nm0000422/"
+        },
+        {
+            "@type": "Person",
+            "name": "Julianne Moore",
+            "url": "/name/nm0000194/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 820779,
+        "ratingValue": 8.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0030612/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0057311/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ethan Coen",
+            "url": "/name/nm0001053/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joel Coen",
+            "url": "/name/nm0001054/"
+        }
+    ],
+    "datePublished": "1998-03-06",
+    "description": "Ultimate L.A. slacker Jeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for a rug ruined by debt collectors, enlisting his bowling buddies for help while trying to find the millionaire's miss...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Joel Coen",
+            "url": "/name/nm0001054/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ethan Coen",
+            "url": "/name/nm0001053/"
+        }
+    ],
+    "duration": "PT1H57M",
+    "genre": [
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1_.jpg",
+    "keywords": "rug,nihilism,pornographer,mistaken identity,death of friend",
+    "name": "The Big Lebowski",
+    "original_info": {
+        "id": "The Big Lebowski_1998",
+        "name": "The Big Lebowski",
+        "year": "1998"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "trashgang"
+        },
+        "dateCreated": "2021-04-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0118715/"
+        },
+        "name": "indeed a cult classic",
+        "reviewBody": "More than 20 years it took me to have a look at this cult classic. Finally did it and I do undestand the fuss about it.\n\nNot a flick for everybody that I can tell because a lot of talking is done but it's the talking that starts to get funny after a while. In fact, a bunch of loser trying to solve a abduction and trying to hold the money for themselves goes terribly wrong.\n\nAfter a while you even want the talking to go on and on. And some art flick here and there it was indeed a hell of a ride, funny, stupid but genious in its kind.\n\nGore 0/5 Nudity 1/5 Effects 3/5 Story 4/5 comedy 2/5.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Gramercy Pictures",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4018733337",
+        "name": "The Big Lebowski",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZWE4NDhjMzItM2RhNC00Njk5LWEyZjQtMGY0MjEyYWQ1NGFlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZWE4NDhjMzItM2RhNC00Njk5LWEyZjQtMGY0MjEyYWQ1NGFlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:12:49Z",
+        "url": "https://www.imdb.com/video/vi4018733337/"
+    },
+    "url": "/title/tt0118715/"
+}

@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Todd Barbee",
+            "url": "/name/nm0053329/"
+        },
+        {
+            "@type": "Person",
+            "name": "Melanie Kohn",
+            "url": "/name/nm0463403/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen Shea",
+            "url": "/name/nm0790344/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3013,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "TV-G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0018417/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0066847/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0108291/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles M. Schulz",
+            "url": "/name/nm0776433/"
+        }
+    ],
+    "datePublished": "1974-04-09",
+    "description": "The Peanuts gang prepare for Easter in their own clumsy ways.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Phil Roman",
+            "url": "/name/nm0738736/"
+        }
+    ],
+    "duration": "PT30M",
+    "genre": [
+        "Animation",
+        "Comedy",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMWEwYzRmMTUtNDg5Yi00MWZhLWJkYWEtMThiZTExMjcyMmQwXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_.jpg",
+    "keywords": "anger,based on comic strip,boiling an egg,rabbit,christmas decoration",
+    "name": "It's the Easter Beagle, Charlie Brown!",
+    "original_info": {
+        "id": "It's the Easter Beagle_1974",
+        "name": "It's the Easter Beagle",
+        "year": "1974"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "tavm"
+        },
+        "dateCreated": "2008-04-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0071679/"
+        },
+        "name": "It's the Easter Beagle, Charlie Brown was a pretty amusing Peanuts special",
+        "reviewBody": "While not as entertaining as many of the other Peanuts holiday specials (Thanksgiving, Halloween, Christmas), there's still some amusing scenes that makes It's the Easter Beagle, Charlie Brown worth recommending. Like seeing Peppermint Patty get frustrated every time her friend Marcie cracks open the eggs (to fry, waffle, or boil) as Patty prepares to paint them. Or Snoopy botching some attempts at getting his bird friend Woodstock a bird house. Only a Peanuts cartoon would have a scene in a Discount Mart with a sign saying \"Only 246 days till Christmas\" with potential presents on sale! Though while Linus' belief in the Easter Beagle, unlike that of the Great Pumkin, comes true, isn't it a bit strange no one acknowledges that it's Snoopy doing the rounds? And why is Schroeder's scene so brief here? Otherwise, this was a pretty entertaining animated special with fine work, as always, by musician Vince Guaraldi on the score.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0071679/"
+}

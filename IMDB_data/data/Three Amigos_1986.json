@@ -1,0 +1,116 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Steve Martin",
+            "url": "/name/nm0000188/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chevy Chase",
+            "url": "/name/nm0000331/"
+        },
+        {
+            "@type": "Person",
+            "name": "Martin Short",
+            "url": "/name/nm0001737/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 78534,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0044166/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0008693/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0013731/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve Martin",
+            "url": "/name/nm0000188/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lorne Michaels",
+            "url": "/name/nm0584427/"
+        },
+        {
+            "@type": "Person",
+            "name": "Randy Newman",
+            "url": "/name/nm0005271/"
+        }
+    ],
+    "datePublished": "1986-12-12",
+    "description": "Three actors accept an invitation to a Mexican village to perform their onscreen bandit fighter roles, unaware that it is the real thing.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Landis",
+            "url": "/name/nm0000484/"
+        }
+    ],
+    "duration": "PT1H44M",
+    "genre": [
+        "Comedy",
+        "Western"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTE5NDQ1NTMyNl5BMl5BanBnXkFtZTcwNjY5MDQ3NA@@._V1_.jpg",
+    "keywords": "child with a gun,two gun holster,gun holster,holster,double gun holster",
+    "name": "Three Amigos!",
+    "original_info": {
+        "id": "Three Amigos_1986",
+        "name": "Three Amigos",
+        "year": "1986"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bsinc"
+        },
+        "dateCreated": "2002-02-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0092086/"
+        },
+        "name": "Fun",
+        "reviewBody": "This is a funny movie and has some of the funniest actors in it. Chevy Chase, Martin Short and Steve Martin are brilliant in a movie that relies completely on their given talent - comedy. It's sad that not many movies were made, having different comedians in them, like Spies like us, also starring chevy chase opposite to Dan Aykroyd.\n\nA nice attempt to make a movie without a real story, but instead have the actors make up for it. 7/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Three actors accept an invitation to a Mexican village to perform their onscreen bandit fighter roles, unaware that it is the real thing.",
+        "duration": "PT1M51S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2349776409",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDdmYmZkZjktOWI4NC00NmQ3LTkyOGEtNDJkNWJkOGU2MWI1XkEyXkFqcGdeQXN3aWZ0dw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDdmYmZkZjktOWI4NC00NmQ3LTkyOGEtNDJkNWJkOGU2MWI1XkEyXkFqcGdeQXN3aWZ0dw@@._V1_.jpg",
+        "uploadDate": "2020-07-16T09:06:09.855Z",
+        "url": "https://www.imdb.com/video/vi2349776409/"
+    },
+    "url": "/title/tt0092086/"
+}

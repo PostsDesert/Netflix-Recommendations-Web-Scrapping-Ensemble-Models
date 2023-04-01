@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jean Reno",
+            "url": "/name/nm0000606/"
+        },
+        {
+            "@type": "Person",
+            "name": "Vincent Cassel",
+            "url": "/name/nm0001993/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nadia Farès",
+            "url": "/name/nm0268626/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 63358,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "alternateName": "The Crimson Rivers",
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0011185/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0172053/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0079764/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jean-Christophe Grangé",
+            "url": "/name/nm0335096/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mathieu Kassovitz",
+            "url": "/name/nm0440913/"
+        }
+    ],
+    "datePublished": "2001-07-13",
+    "description": "A murder detective must follow the footsteps of a brutal killer within the secrets of a classist college.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mathieu Kassovitz",
+            "url": "/name/nm0440913/"
+        }
+    ],
+    "duration": "PT1H46M",
+    "genre": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOGNmMDgxZTItYjNkNy00NDlhLTk2ZmItM2UwNDcwYzhmNDU2XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg",
+    "keywords": "neo noir,child,scene of the crime,climbing a wall,france",
+    "name": "Les rivières pourpres",
+    "original_info": {
+        "id": "The Crimson Rivers_2000",
+        "name": "The Crimson Rivers",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "agc110"
+        },
+        "dateCreated": "2001-08-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0228786/"
+        },
+        "name": "Stunning thriller, good story and characters, marred by badly thought-out finale",
+        "reviewBody": "Echoes of \"The Boys From Brazil\" and \"Name of the Rose\" in this fast-moving, gorgeously-set (small alpine towns near Grenoble) French thriller, which has a really nasty conspiracy in a closed community as an underlying subplot. Two interleaved storylines involve two detectives in towns 100 km apart. Young, feisty Kerkerian (Cassel) is investigating the desecration of the tomb of a young girl. Meanwhile, supersleuth Niemans (Reno) is drafted in from Paris to assist local gendarmes in solving a nasty torture-murder of an academic at a small private University. More bodies turn up, suspects become victims, and eventually the paths of the two cops cross. Visually utterly beautiful, particularly the College, the Library, and the glacier/ice tunnel scenes. Characters strongly drawn and sympathetic. One pretty straight fight scene, little dwelling on active perpetration of violence, but much lingering on the unpleasantly gory aftermath. This is particularly the case with the rather gratuitous opening sequence, which is overdone relative to the rest of the film. My main cavil involves the poor ending, where a last-minute surprise twist creates more loose ends than it ties up. Nevertheless, so watchable that this one gets 9/10."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M41S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2077407769",
+        "name": "Bande-annonce [OV]",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BN2Q2ZDhiOTEtODZjNy00M2IyLWJhN2YtY2E2MjlmZjFmMjM4XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BN2Q2ZDhiOTEtODZjNy00M2IyLWJhN2YtY2E2MjlmZjFmMjM4XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+        "uploadDate": "2018-11-28T15:40:42.055Z",
+        "url": "https://www.imdb.com/video/vi2077407769/"
+    },
+    "url": "/title/tt0228786/"
+}

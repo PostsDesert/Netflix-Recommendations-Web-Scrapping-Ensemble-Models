@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Whoopi Goldberg",
+            "url": "/name/nm0000155/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ted Danson",
+            "url": "/name/nm0001101/"
+        },
+        {
+            "@type": "Person",
+            "name": "Will Smith",
+            "url": "/name/nm0000226/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 17245,
+        "ratingValue": 5.1,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0028557/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0007127/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0021159/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marcia Brandwynne",
+            "url": "/name/nm0105033/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nadine Schiff",
+            "url": "/name/nm0771486/"
+        },
+        {
+            "@type": "Person",
+            "name": "Holly Goldberg Sloan",
+            "url": "/name/nm0805965/"
+        }
+    ],
+    "datePublished": "1993-05-28",
+    "description": "A young black woman discovers that her father was a sperm donor, and if that weren't bad enough, he's white.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Richard Benjamin",
+            "url": "/name/nm0000907/"
+        }
+    ],
+    "duration": "PT1H51M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYjhmYzdlMmQtOWVlOC00NDI0LWFiN2YtMGE0ZTc1ZDJhOGMzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "reckless driving,monkey,hospital,beer,pizza",
+    "name": "Made in America",
+    "original_info": {
+        "id": "Made in America_1993",
+        "name": "Made in America",
+        "year": "1993"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Special-K88"
+        },
+        "dateCreated": "2003-06-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0107478/"
+        },
+        "name": "another good idea squandered by a weak script",
+        "reviewBody": "An intelligent, black teenage girl is shocked to discover from her strong, independent mother that she was the product of artificial insemination. Determined to track her biological father down, she looks up the records to find that not only is he a white man, but he's also an obnoxious and pompous car salesman. Naturally, complications ensue when her mother makes it clear that she requested a black donor. Cast is talented and enthusiastic, setup is very clever and has the makings of a really enjoyable comedy, but unfortunately they're wasted on a sorry script that repeatedly resorts to dumb, sitcom-style humor. A real shame. **"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Warner Bros. Pictures",
+        "duration": "PT1M57S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2912354585",
+        "name": "Made in America (1993)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDNjMjU0MzItOGZjOC00MGYzLWFkMWYtZmE1ZDA3NzA1ZDFlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDNjMjU0MzItOGZjOC00MGYzLWFkMWYtZmE1ZDA3NzA1ZDFlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:07:26Z",
+        "url": "https://www.imdb.com/video/vi2912354585/"
+    },
+    "url": "/title/tt0107478/"
+}

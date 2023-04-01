@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Peter Fonda",
+            "url": "/name/nm0001228/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dennis Hopper",
+            "url": "/name/nm0000454/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jack Nicholson",
+            "url": "/name/nm0000197/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 112566,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0044585/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0071720/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Fonda",
+            "url": "/name/nm0001228/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dennis Hopper",
+            "url": "/name/nm0000454/"
+        },
+        {
+            "@type": "Person",
+            "name": "Terry Southern",
+            "url": "/name/nm0816143/"
+        }
+    ],
+    "datePublished": "1969-06-26",
+    "description": "Two bikers head from L.A. to New Orleans through the open country and desert lands, and along the way they meet a man who bridges a counter-culture gap of which they had been unaware.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Dennis Hopper",
+            "url": "/name/nm0000454/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Adventure",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc2MjI2NDc4Ml5BMl5BanBnXkFtZTgwODI4NzU0MTI@._V1_.jpg",
+    "keywords": "road movie,motorcycle,friendship,road trip,hippie",
+    "name": "Easy Rider",
+    "original_info": {
+        "id": "Easy Rider_1969",
+        "name": "Easy Rider",
+        "year": "1969"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Lechuguilla"
+        },
+        "dateCreated": "2004-12-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0064276/"
+        },
+        "name": "Spaced - Out Bikers",
+        "reviewBody": "In this counterculture film, we have a spaced-out trio of Peter Fonda, Dennis Hopper, and a funny Jack Nicholson tooling down the \"high\"way, on motorcycles and \"stuff\", en route from L.A. to Mardi Gras. As artistic expression during an angry era of war and social change, the film communicates a powerful philosophy, in lieu of a complex plot.\n\nMost scenes take place outdoors, in the American South and Southwest. Laszlo Kovacs' adroit cinematography, combined with an expansive soundtrack, hippie lingo, and \"cool\" clothes, convey the film's underlying message of individual freedom and nonconformity. The film is significant in that it was one of several successful 60's films made by individuals outside the traditional Hollywood studio structure. As such, \"Easy Rider\" broke new ground in film-making.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Pictures",
+        "duration": "PT2M47S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2980315417",
+        "name": "Easy Rider",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjFhYzcyNzEtOTA0NS00NzAwLTg2ZjktZDNhMmRlNTFlOTE3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjFhYzcyNzEtOTA0NS00NzAwLTg2ZjktZDNhMmRlNTFlOTE3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:59:06Z",
+        "url": "https://www.imdb.com/video/vi2980315417/"
+    },
+    "url": "/title/tt0064276/"
+}

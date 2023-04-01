@@ -1,0 +1,89 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Betty Hutton",
+            "url": "/name/nm0002149/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Lund",
+            "url": "/name/nm0526184/"
+        },
+        {
+            "@type": "Person",
+            "name": "Billy De Wolfe",
+            "url": "/name/nm0212461/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1214,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "Passed",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Person",
+            "name": "P.J. Wolfson",
+            "url": "/name/nm0938439/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frank Butler",
+            "url": "/name/nm0124918/"
+        }
+    ],
+    "datePublished": "1947-07-04",
+    "description": "The real life story of actress Pearl White during her rise to fame in silent serials.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "George Marshall",
+            "url": "/name/nm0550892/"
+        }
+    ],
+    "duration": "PT1H36M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTgyNzkyYjctOWIxNC00YzZiLTlkZTUtMzIwOTA3Y2Q2MmNmXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_.jpg",
+    "keywords": "movie within a movie,sweatshop,garment industry,reference to william shakespeare,silent movie",
+    "name": "The Perils of Pauline",
+    "original_info": {
+        "id": "The Perils of Pauline_1947",
+        "name": "The Perils of Pauline",
+        "year": "1947"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "eddax"
+        },
+        "dateCreated": "2010-02-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0039698/"
+        },
+        "name": "Betty Hutton is a ball of fire",
+        "reviewBody": "I had never heard of Betty Hutton before this movie. A little research informed me that because of studio disputes, she had an unfortunately short movie career. Most of her work were musicals, which is probably why I had never heard of her - not my favorite genre. This movie wasn't billed as one but there's some singing and dancing as well. I can see why though: Betty Hutton is a ball of fire. She sings, she dances, she jokes - she would bounce off the walls if she could. It would be a waste not to make full use of her talents. \n\nThe movie's supposedly biographical but it feels more like a Hutton showcase, though grande dame Constance Collier stands out too. It's too bad the story mostly feels forced - the whole romance bit with her chauvinistic boss... ugh. Still, Pauline showcases Hutton's charm well and that's something at least.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0039698/"
+}

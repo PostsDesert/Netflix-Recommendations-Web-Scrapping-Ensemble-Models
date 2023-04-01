@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Billy Bob Thornton",
+            "url": "/name/nm0000671/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frances McDormand",
+            "url": "/name/nm0000531/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Badalucco",
+            "url": "/name/nm0045937/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 111438,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007554/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0018555/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0068186/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joel Coen",
+            "url": "/name/nm0001054/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ethan Coen",
+            "url": "/name/nm0001053/"
+        }
+    ],
+    "datePublished": "2001-11-16",
+    "description": "A laconic, chain-smoking barber blackmails his wife's boss and lover for money to invest in dry cleaning, but his plan goes terribly wrong.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Joel Coen",
+            "url": "/name/nm0001054/"
+        }
+    ],
+    "duration": "PT1H56M",
+    "genre": [
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYjEwMGZkYTgtMTA5Ny00OWFhLTgzMWItYjhhMWUxYTIxNDgwXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_.jpg",
+    "keywords": "1940s,neo noir,blackmail,chain smoking,santa rosa california",
+    "name": "The Man Who Wasn't There",
+    "original_info": {
+        "id": "The Man Who Wasn't There_2001",
+        "name": "The Man Who Wasn't There",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "emgeh"
+        },
+        "dateCreated": "2005-04-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0243133/"
+        },
+        "name": "awesome!",
+        "reviewBody": "since i have seen my first coen-brothers movie, i think, it was Fargo, i'm a great fan of these film-makers.\n\ni can't remember how often i watched this movie, because every time i get fascinated by the interesting story and the excellent characters. the slowness of the movie is fascinating. in spite of the slowness i never felt bored. the whole time i'm watching and thinking of the misery ed crane stepped into.\n\nthe next highlight is the great soundtrack. Beethoven was and is the greatest composer ever. and the songs of carter burwell are awesome, not only in this movie, in every movie of the coen-brothers.\n\ni recently read in a comment on this movie, that someone could not imagine that somebody around the age of 25 votes high for this movie. I'm 21 and there was nothing that disturbed me.\n\nwithout doubt the man who wasn't there is one of my favorite movies.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from USA Films",
+        "duration": "PT1M36S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3169845529",
+        "name": "The Man Who Wasn't There",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTMzZThhNTctYjRmMy00NDU3LWI4MGUtOGQyMmI5Mzg1OTRlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTMzZThhNTctYjRmMy00NDU3LWI4MGUtOGQyMmI5Mzg1OTRlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:36:41Z",
+        "url": "https://www.imdb.com/video/vi3169845529/"
+    },
+    "url": "/title/tt0243133/"
+}

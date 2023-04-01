@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Rob Estes",
+            "url": "/name/nm0004900/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joely Fisher",
+            "url": "/name/nm0004921/"
+        },
+        {
+            "@type": "Person",
+            "name": "Fintan McKeown",
+            "url": "/name/nm0571654/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 681,
+        "ratingValue": 4.4,
+        "worstRating": 1
+    },
+    "contentRating": "TV-MA",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0015207/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0045895/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0048153/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Bourla",
+            "url": "/name/nm0100027/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brian Irving",
+            "url": "/name/nm0410237/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen P. Jarchow",
+            "url": "/name/nm0418590/"
+        }
+    ],
+    "datePublished": "2000-09-22",
+    "description": "A policeman must stop a medieval cult, who plan to bring about armageddon by summoning the spirit of Nostradamus.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Tibor Takács",
+            "url": "/name/nm0847749/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTczMzY1MjQwMl5BMl5BanBnXkFtZTcwMjQyMzIyMQ@@._V1_.jpg",
+    "keywords": "one word title,character name as title,year 1536,shot in the head,time machine",
+    "name": "Nostradamus",
+    "original_info": {
+        "id": "Nostradamus_2000",
+        "name": "Nostradamus",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "thewalkingpuns"
+        },
+        "dateCreated": "2022-02-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0207631/"
+        },
+        "name": "alright time travel sci-fi",
+        "reviewBody": "This was an ok movie. Its what I expect from the sci-fi channel but I have to say it was slightly better to others I've seen. Cast were good and the plot of trying to stop a cult from bring back nostradamus to cause the apocalypse had fluidity to it. The one thing I would say is this might have been better off being turned into a show where the main characters stop evil from destroying the world.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0207631/"
+}

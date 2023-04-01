@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sam Rockwell",
+            "url": "/name/nm0005377/"
+        },
+        {
+            "@type": "Person",
+            "name": "Drew Barrymore",
+            "url": "/name/nm0000106/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Clooney",
+            "url": "/name/nm0000123/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 89762,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0022594/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0034487/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0013349/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chuck Barris",
+            "url": "/name/nm0057567/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charlie Kaufman",
+            "url": "/name/nm0442109/"
+        }
+    ],
+    "datePublished": "2003-01-24",
+    "description": "An adaptation of the cult memoir of game show impresario Chuck Barris (Sam Rockwell), in which he purports to have been a C.I.A. hitman.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "George Clooney",
+            "url": "/name/nm0000123/"
+        }
+    ],
+    "duration": "PT1H53M",
+    "genre": [
+        "Biography",
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYmFiMWVmMzUtZTUwMC00ZTVjLTgxMGItODEyNjFkMzNhN2ZhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "secret agent,television industry,hitman,double life,broken nose",
+    "name": "Confessions of a Dangerous Mind",
+    "original_info": {
+        "id": "Confessions of a Dangerous Mind_2002",
+        "name": "Confessions of a Dangerous Mind",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dromasca"
+        },
+        "dateCreated": "2004-05-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0270288/"
+        },
+        "name": "Good directing debut, under Cohen brothers' influence",
+        "reviewBody": "What is a worse crime - doing bad television, or killing people in the service of the CIA? That's how I would define in a few words the subject of this film. \n\nThis film claims to be inspired by real facts, and you may believe it or not. Actually, in the strange world of American pop culture it is not that important. Killing in the name of democracy does as bad a service to democracy as the TV reality shows do to culture. So that if the principal character happens to be a reality show producer and host, as well as a CIA paid killer during his free time, it makes sense or in the language of the movie - it fits the profile. \n\nGeorge Clooney's first film is well directed, and there are little or no elements to show that he is a first timer in directing. The only observation would be that the story telling seems to be too much inspired by the Cohen brothers work, especially 'Oh Brother' where Clooney was the star. However, the Charlie Kauffman's script is as original and as well written as you expect from Charlie Kauffman, and the result is good cinema - in American cinema terms and scale. \n\nSam Rockwell who plays the main character is little known, and as I hear was chosen after bigger stars were considered. Good choice I would say, and if the choice was Clooney's it proves that the man has a future in directing as well, not only in acting and heart breaking. Drew Barrimore and Julia Roberts are both good in playing the opposite characters of the two sentimental interests of the main character.\n\nGood entertainment, and not a brainless one for a change. 8/10 on my personal scale.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "CT #3",
+        "duration": "PT1M11S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3605962265",
+        "name": "Confessions of a Dangerous Mind",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTFkNjM2YjQtN2M2MS00MTU5LTlkYjQtMzFkNGEyMGMxMjY2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTFkNjM2YjQtN2M2MS00MTU5LTlkYjQtMzFkNGEyMGMxMjY2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-10-26T03:14:47Z",
+        "url": "https://www.imdb.com/video/vi3605962265/"
+    },
+    "url": "/title/tt0270288/"
+}

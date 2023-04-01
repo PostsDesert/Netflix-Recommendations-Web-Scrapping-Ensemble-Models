@@ -1,0 +1,94 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sylvester Stallone",
+            "url": "/name/nm0000230/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kurt Russell",
+            "url": "/name/nm0000621/"
+        },
+        {
+            "@type": "Person",
+            "name": "Teri Hatcher",
+            "url": "/name/nm0000159/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 108680,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0108873/"
+        },
+        {
+            "@type": "Person",
+            "name": "Randy Feldman",
+            "url": "/name/nm0271098/"
+        }
+    ],
+    "datePublished": "1989-12-22",
+    "description": "Framed by their ruthless arch-nemesis, a mismatched LAPD crime-fighting duo has to put its differences aside to even the score with the evil kingpin who put them behind bars once and for all.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Andrey Konchalovskiy",
+            "url": "/name/nm0464846/"
+        },
+        {
+            "@type": "Person",
+            "name": "Albert Magnoli",
+            "url": "/name/nm0536299/"
+        }
+    ],
+    "duration": "PT1H44M",
+    "genre": [
+        "Action",
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTBhYjZjNDktZDE5NC00M2I1LWEzYmEtOGU2ZGRlYjdjMmNlXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "action hero,night club dancer,sex in the back seat of a car,reference to john rambo,violence",
+    "name": "Tango & Cash",
+    "original_info": {
+        "id": "Tango & Cash_1989",
+        "name": "Tango & Cash",
+        "year": "1989"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Coventry"
+        },
+        "dateCreated": "2021-05-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0098439/"
+        },
+        "name": "Joyous 80s action! That's all it is, and that's all it needs to be...",
+        "reviewBody": "The #1 reason why I love brainless action movies from the 80s and 90s? Because of the actors playing the bad guys! Just look at this baby; - Jack Palance, Brion James, Robert Z'dar, Clint Howard... Sure enough, the stars of the film are Sly Stallone and Kurt Russell, but for people who always root for the villains - like me - films like \"Tango & Cash\" are delightful! The set-up for this buddy-action movie is that the two best cops of Los Angeles are framed by big-shot drug/weapon dealer Palance, and end up in prison amidst the vengeful cons they locked away themselves. Plausibility and coherence are of minor importance, but \"Tango & Cash\" works perfectly because both Stallone and Russell prove themselves to be masters of self-parody, and the chemistry between them is awesome. Good stunt work, James Bond like gadgetry and an incredibly sexy Yazoo-dance by Teri Hatcher only make the film even more amusing.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0098439/"
+}

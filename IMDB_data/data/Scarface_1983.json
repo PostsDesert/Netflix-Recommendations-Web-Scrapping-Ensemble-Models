@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Al Pacino",
+            "url": "/name/nm0000199/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michelle Pfeiffer",
+            "url": "/name/nm0000201/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steven Bauer",
+            "url": "/name/nm0000874/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 857092,
+        "ratingValue": 8.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Person",
+            "name": "Oliver Stone",
+            "url": "/name/nm0000231/"
+        },
+        {
+            "@type": "Person",
+            "name": "Howard Hawks",
+            "url": "/name/nm0001328/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ben Hecht",
+            "url": "/name/nm0372942/"
+        }
+    ],
+    "datePublished": "1983-12-09",
+    "description": "In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Brian De Palma",
+            "url": "/name/nm0000361/"
+        }
+    ],
+    "duration": "PT2H50M",
+    "genre": [
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "keywords": "cocaine,gangster,murderer as protagonist,organized crime,criminal as protagonist",
+    "name": "Scarface",
+    "original_info": {
+        "id": "Scarface_1983",
+        "name": "Scarface",
+        "year": "1983"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "MrHeraclius"
+        },
+        "dateCreated": "2020-02-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0086250/"
+        },
+        "name": "One Word: PERFECT!!!!!!!",
+        "reviewBody": "Scarface has a great storyline, brutal violence as well as having Al Pacino at one of his finest roles. Scarface is one of the best gangster dramas!"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "F-Word Trailer for Scarface",
+        "duration": "PT2M18S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3939802137",
+        "name": "Scarface: Blu-Ray",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZmJlYTQ1YWEtNGRkOS00NmZmLTkyNDItN2JkMWUzMGZkYzVhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZmJlYTQ1YWEtNGRkOS00NmZmLTkyNDItN2JkMWUzMGZkYzVhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-07-22T03:31:05Z",
+        "url": "https://www.imdb.com/video/vi3939802137/"
+    },
+    "url": "/title/tt0086250/"
+}

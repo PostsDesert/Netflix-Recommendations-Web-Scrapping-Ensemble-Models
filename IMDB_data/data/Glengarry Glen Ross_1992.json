@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Al Pacino",
+            "url": "/name/nm0000199/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jack Lemmon",
+            "url": "/name/nm0000493/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alec Baldwin",
+            "url": "/name/nm0000285/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 109235,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0046718/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0034013/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0019488/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Mamet",
+            "url": "/name/nm0000519/"
+        }
+    ],
+    "datePublished": "1992-10-02",
+    "description": "An examination of the machinations behind the scenes at a real estate office.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "James Foley",
+            "url": "/name/nm0001226/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTYzN2MxODMtMDBhOC00Y2M0LTgzMTItMzQ4NDIyYWIwMDEzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_.jpg",
+    "keywords": "dialogue driven,office,greed,rain,all male cast",
+    "name": "Glengarry Glen Ross",
+    "original_info": {
+        "id": "Glengarry Glen Ross_1992",
+        "name": "Glengarry Glen Ross",
+        "year": "1992"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "thisyear-10904"
+        },
+        "dateCreated": "2019-02-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0104348/"
+        },
+        "name": "Masterclass",
+        "reviewBody": "An absolute masterclass in acting. Everyone is utterly brilliant. Obviously it's adapted from the play but the style doesn't try and pretend it's not. The camera just observes, like the audience in a theater, but that's not to say the film isn't cinematic. Beautifully lit and staged, with music that just sits nicely in the background lifting and dropping to push the story of these salesmen who live on a knife edge. They are all pretty selfish but each one has a motivation that feels very real and desperate. The only real villain of the piece is Alex Baldwin who is so amazing in just one scene. If you love cinema and/or theater, let yourself become engrossed in some of the best dialogue you'll ever hear, from some of the finest character actors we'll ever see. Don't miss this film.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Artisan",
+        "duration": "PT1M44S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1890189593",
+        "name": "Glengarry Glen Ross: 10 Year Anniversary 2-Disc Edition",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjgwZDM5YTYtM2M0NS00MmQwLWI2YjYtMDE2YjgzMjdlMDE2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjgwZDM5YTYtM2M0NS00MmQwLWI2YjYtMDE2YjgzMjdlMDE2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:17:56Z",
+        "url": "https://www.imdb.com/video/vi1890189593/"
+    },
+    "url": "/title/tt0104348/"
+}

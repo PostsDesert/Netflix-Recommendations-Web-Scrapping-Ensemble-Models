@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Matthew Modine",
+            "url": "/name/nm0000546/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Caan",
+            "url": "/name/nm0001001/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joey Lauren Adams",
+            "url": "/name/nm0000725/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 967,
+        "ratingValue": 5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0021910/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0038281/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ric Roman Waugh",
+            "url": "/name/nm0006846/"
+        }
+    ],
+    "datePublished": "2002-06-24",
+    "description": "A hitman, sent to kill a veteran Hollywood stuntman, falls in love with the target's daughter, and decides to become a stuntman himself.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ric Roman Waugh",
+            "url": "/name/nm0006846/"
+        }
+    ],
+    "duration": "PT1H45M",
+    "genre": [
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI2NDk3MTcyN15BMl5BanBnXkFtZTcwNjMwNDE2MQ@@._V1_.jpg",
+    "keywords": "stuntman,hitman,independent film",
+    "name": "In the Shadows",
+    "original_info": {
+        "id": "In the Shadows_2001",
+        "name": "In the Shadows",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "EvilTommy"
+        },
+        "dateCreated": "2003-03-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0247427/"
+        },
+        "name": "Modine Shows Some Angst",
+        "reviewBody": "A simple if improbable plot that gives Modine a chance to show his own shadowy side. I thought he did an excellent job for a guy who usually portrays the grinning, likeable, young quasi-hero. Here he has a lot of baggage as a mob hit man who is more mechanical than actually living, until he meets Joey Lauren Adams, who gives another lovable performance. It's always great to see James Caan as well, as he reminds me of an actor like Burt Lancaster. I enjoy every moment he is in a scene and how quickly he tends to dominate the moment. I thought the ending was a little surprising, but in the tradition of the classical Greek tragic-hero, it was appropriate.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A hitman, sent to kill a veteran Hollywood stuntman, falls in love with the target's daughter, and decides to become a stuntman himself.",
+        "duration": "PT2M44S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi372818457",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODM0YzI0MjctZGJmZi00YTY2LWFmMTAtMGNiZWVjZDNhNWM3XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODM0YzI0MjctZGJmZi00YTY2LWFmMTAtMGNiZWVjZDNhNWM3XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2022-07-09T18:07:54.668Z",
+        "url": "https://www.imdb.com/video/vi372818457/"
+    },
+    "url": "/title/tt0247427/"
+}

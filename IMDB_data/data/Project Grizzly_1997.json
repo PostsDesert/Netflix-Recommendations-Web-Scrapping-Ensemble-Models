@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Troy Hurtubise",
+            "url": "/name/nm0403773/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Gzowski",
+            "url": "/name/nm1285050/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 624,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0006414/"
+        }
+    ],
+    "datePublished": "1997-10-03",
+    "description": "A documentary follows a Canadian fellow working on his dream: building a suit of armor so he can observe grizzly bears from a close distance.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Peter Lynch",
+            "url": "/name/nm0528426/"
+        }
+    ],
+    "duration": "PT1H12M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUwMDQ2Njg3OV5BMl5BanBnXkFtZTcwNDA4NjcyMQ@@._V1_.jpg",
+    "keywords": "suit of armor,grizzly bear,bear,obsession,talking to the camera",
+    "name": "Project Grizzly",
+    "original_info": {
+        "id": "Project Grizzly_1997",
+        "name": "Project Grizzly",
+        "year": "1997"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "SnakesOnAnAfricanPlain"
+        },
+        "dateCreated": "2012-09-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0117395/"
+        },
+        "name": "Project Grizzly (1996)",
+        "reviewBody": "As many have noted, this film is not about a man fighting a grizzly bear, despite what the pitch would seem to promise. It's about a man eccentric enough to build a suit for a rematch against a bear that once pushed him over. In other words, it's about a fricking egotistical moron with too much time and money on his hands and a documentary crew giving us the most boring version. It's Moby Dick for rednecks and this time there is no climax. Troy talks about his knives, his father and rambles almost incoherently about an encounter with a bear. He makes a number of suits and there are some funny Jackass like test runs. Had the documentary explored more of the mans psychosis (like the incredible Grizzly Man) it would be of some interest, instead it pats Troy on the head to elicit cheap laughs. You're better off going elsewhere for more intelligent and well constructed documentaries.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 4,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0117395/"
+}

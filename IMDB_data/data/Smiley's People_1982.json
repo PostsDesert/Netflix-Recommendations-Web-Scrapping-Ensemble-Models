@@ -1,0 +1,83 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Alec Guinness",
+            "url": "/name/nm0000027/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eileen Atkins",
+            "url": "/name/nm0040586/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Paterson",
+            "url": "/name/nm0665473/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4413,
+        "ratingValue": 8.5,
+        "worstRating": 1
+    },
+    "contentRating": "TV-14",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0043107/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        }
+    ],
+    "datePublished": "1982-10-25",
+    "description": "The murder of a Soviet defector forces his old handler, British spymaster George Smiley, out of retirement. His investigation leads to an old nemesis, the Soviet spymaster known only as \"Karla\". This will be their final dance.",
+    "genre": [
+        "Drama",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTU4Zjc2ZjQtZDRhNS00MWI4LThkMzUtNWJlZjQyZWIxMzIxXkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg",
+    "keywords": "east west,british intelligence,sequel,second part,espionage",
+    "name": "Smiley's People",
+    "original_info": {
+        "id": "Smiley's People_1982",
+        "name": "Smiley's People",
+        "year": "1982"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Vega74"
+        },
+        "dateCreated": "2003-06-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0083480/"
+        },
+        "name": "One of the great spy films of all time.",
+        "reviewBody": "Definitely the best film version of the books. More artful than Tinker Tailor and much more intense. The characters are more developed, especially Smiley's. The end of the movie had me on the edge of my seat, the suspense was incredible. If you enjoy spy films, this is absolutely essential viewing.\n\nIf only they made films this great all the time! (now available on DVD)"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Smiley's People",
+        "duration": "PT1M53S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1607379225",
+        "name": "Smiley's People",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTcxMzJlYjEtZGI5Yi00Njk1LThhNmUtMTEwYzJkNWQ0MTM4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTcxMzJlYjEtZGI5Yi00Njk1LThhNmUtMTEwYzJkNWQ0MTM4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2013-08-04T04:48:57Z",
+        "url": "https://www.imdb.com/video/vi1607379225/"
+    },
+    "url": "/title/tt0083480/"
+}

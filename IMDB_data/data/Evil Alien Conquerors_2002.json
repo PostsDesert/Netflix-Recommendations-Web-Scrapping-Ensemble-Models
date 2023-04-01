@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Michael Weston",
+            "url": "/name/nm0922995/"
+        },
+        {
+            "@type": "Person",
+            "name": "Diedrich Bader",
+            "url": "/name/nm0046033/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chris Parnell",
+            "url": "/name/nm0663177/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1100,
+        "ratingValue": 4.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0021671/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0023815/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chris Matheson",
+            "url": "/name/nm0558533/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ryan Rowe",
+            "url": "/name/nm0746598/"
+        }
+    ],
+    "datePublished": "2003-12-03",
+    "description": "Inept beings from the planet Kabijj land on Earth and attempt to behead all of its beings and take over the planet.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Chris Matheson",
+            "url": "/name/nm0558533/"
+        }
+    ],
+    "duration": "PT1H29M",
+    "genre": [
+        "Comedy",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjMwMTlkYjQtMDdiOC00MmMxLWJmYWEtMGZmZGM5OTMxZmQ4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+    "keywords": "alien,sword,giant,cow,product placement",
+    "name": "Evil Alien Conquerors",
+    "original_info": {
+        "id": "Evil Alien Conquerors_2002",
+        "name": "Evil Alien Conquerors",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dancziraky"
+        },
+        "dateCreated": "2003-12-31",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0305556/"
+        },
+        "name": "Oh, great, a 90-minute Smirnoff Ice ad ... now that's funny--NOT!",
+        "reviewBody": "A pair of red-jumpsuited dingbats (Bader & Parnell) are sent to Earth by their flatulant overlord to behead all 6 billion Earthlings because, um, well, ... they need a hobby? It doesn't really matter, as the thin plot is just a hanger for failed jokes, mediocre sight-gags, and the worst hairy feet make-up this side of \"Lord of the Rings.\" What might have been a decent five-minute \"Mad-TV\" skit is stretched into infinity in this enthusiastic time-waster. So bad, Tori Spelling refused to be listed in the credits!"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Inept beings from the planet Kabijj land on Earth and attempt to behead all of its beings and take over the planet.",
+        "duration": "PT1M56S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1148306201",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMGI0ZGY2OGYtNzE3Yi00ZGZlLTg3YjMtNDQzMjdiZWM1YTdiXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMGI0ZGY2OGYtNzE3Yi00ZGZlLTg3YjMtNDQzMjdiZWM1YTdiXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2022-02-11T18:06:53.169Z",
+        "url": "https://www.imdb.com/video/vi1148306201/"
+    },
+    "url": "/title/tt0305556/"
+}

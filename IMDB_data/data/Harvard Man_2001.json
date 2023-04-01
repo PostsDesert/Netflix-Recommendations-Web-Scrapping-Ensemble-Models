@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sarah Michelle Gellar",
+            "url": "/name/nm0001264/"
+        },
+        {
+            "@type": "Person",
+            "name": "Adrian Grenier",
+            "url": "/name/nm0004978/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joey Lauren Adams",
+            "url": "/name/nm0000725/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4480,
+        "ratingValue": 4.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0489955/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0023712/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0060306/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Toback",
+            "url": "/name/nm0864812/"
+        }
+    ],
+    "datePublished": "2001-08-01",
+    "description": "A basketball player strikes a deal with the mob to fix a basketball game.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "James Toback",
+            "url": "/name/nm0864812/"
+        }
+    ],
+    "duration": "PT1H39M",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzNlYWYyYTMtMzE2Yy00YWM0LWJhOTctZjFjNTM4MWZmYjc1XkEyXkFqcGdeQXVyMTk5MjAyMjM@._V1_.jpg",
+    "keywords": "two word title,nudity,male rear nudity,male frontal nudity,male pubic hair",
+    "name": "Harvard Man",
+    "original_info": {
+        "id": "Harvard Man_2001",
+        "name": "Harvard Man",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "radioradio5"
+        },
+        "dateCreated": "2003-03-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0242508/"
+        },
+        "name": "Depressing Film",
+        "reviewBody": "Some movies think there a lot better than they really are. This is a good example of this. Arty camera work, odd angles etc. The problem is that all of the characters are so offensive that I couldn't give a damn if they lived or died. Once that feeling had set in all I wanted was for the film to end. Miss Geller is a decent actress, but if she doesn't find a good film soon may regret her decision to leave Buffy"
+    },
+    "url": "/title/tt0242508/"
+}

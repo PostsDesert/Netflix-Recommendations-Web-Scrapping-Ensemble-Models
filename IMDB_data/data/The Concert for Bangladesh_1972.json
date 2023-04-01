@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "George Harrison",
+            "url": "/name/nm0365600/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bob Dylan",
+            "url": "/name/nm0001168/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ravi Shankar",
+            "url": "/name/nm0788170/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1594,
+        "ratingValue": 8.2,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0030827/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0003142/"
+        }
+    ],
+    "datePublished": "1972-05-31",
+    "description": "The first benefit rock concert when major musicians performed to raise humanitarian relief funds for the refugees of Bangladesh of 1971 war.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Saul Swimmer",
+            "url": "/name/nm0842664/"
+        }
+    ],
+    "duration": "PT1H43M",
+    "genre": [
+        "Documentary",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTgyMzU3NjA3OF5BMl5BanBnXkFtZTcwNTAxNDEzMQ@@._V1_.jpg",
+    "keywords": "hare krishna,new york city,drug,guitarist,guitar",
+    "name": "The Concert for Bangladesh",
+    "original_info": {
+        "id": "The Concert for Bangladesh_1972",
+        "name": "The Concert for Bangladesh",
+        "year": "1972"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Baldrick44"
+        },
+        "dateCreated": "2006-05-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0158560/"
+        },
+        "name": "A fantastic concert",
+        "reviewBody": "This is the first large-scale benefit gig of its kind ever attempted in the world and there are many things about it that set it apart from Live Aid and Live 8- both great events in their own right but different. The Concert for Bangladesh has a much more intimate feel, and it seems to grasp the optimism of the 1960s at a time when the optimism seemed to be dying out. The atmosphere is also more of a band atmosphere, rather heaps of bands one after the other, which I prefer. In fact, in many ways it would be preferable to compare this to the Last Waltz- another live show with a continuous band with guests coming on and off.\n\nBut to say that this has a 'band' atmosphere doesn't do justice to the musicians who turned up at the last minute to perform- Eric Clapton, Ringo Starr, Bob Dylan, Billy Preston, Leon Russell, Ravi Shankar as well as Geoge Harrisson all lend their talents to the cause and make it a truly unforgettable night.\n\nHighlights are many, and if anything it's the tightness of the concert that makes it so good. If Live Aid and Live 8 have a fault it is that it has a few songs ( and bands ) that lie in the periphery of mediocrity. The Concert for Bangladesh though is a tight 100 minute set with the best of George Harrisson's songwriting there for all to see.\n\nOverall the concert for Bangladesh gives the quiet Beatle the chance to really strut his stuff for a good cause, and as he jams with Clapton on While my Guitar Gently Weeps or reassures with Here Comes the Sun or is pouring his heart out with Something or is singing with Dylan on Just Like a Woman or is writing a real protest song in Bangla Desh it makes you wonder if he was really given his due in the Fab Four.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0158560/"
+}

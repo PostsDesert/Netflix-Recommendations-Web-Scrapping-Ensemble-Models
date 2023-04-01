@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Rachel Hunter",
+            "url": "/name/nm0005035/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Russo",
+            "url": "/name/nm0751638/"
+        },
+        {
+            "@type": "Person",
+            "name": "Matt Battaglia",
+            "url": "/name/nm0061307/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 371,
+        "ratingValue": 4.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0061156/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0046775/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0041571/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jason Kabolati",
+            "url": "/name/nm0434086/"
+        }
+    ],
+    "description": "The nature and lure of power: in Dallas, a councilman is on trial for corruption, the D.A. is running for the US Senate, a serial killer is slashing prostitutes, and a professor is murdered. Amanda Reeve is assigned to investigate...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "James D. Deck",
+            "url": "/name/nm0213798/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDUxMzE0ODE4NF5BMl5BanBnXkFtZTcwMTI1MTIyMQ@@._V1_.jpg",
+    "keywords": "female police officer,cover up,reporter,librarian,serial killer",
+    "name": "Pendulum",
+    "original_info": {
+        "id": "Pendulum_2001",
+        "name": "Pendulum",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "flimbuff"
+        },
+        "dateCreated": "2002-03-15",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0259497/"
+        },
+        "name": "AWFULLY PREDICTABLE",
+        "reviewBody": "Rachel Hunter makes this predictable murder \"mystery\" watchable. We have a law school professor murdered in home as well as several prostitutes mutilated. Are the crimes connected?\n\nThis would make a good USA or TNT film so I wouldn't recommend renting it but you might want to tape it when and if it hits one of the premium channels.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Artisan",
+        "duration": "PT1M16S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi28246297",
+        "name": "Pendulum",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjQ5NTUwZTctOTBlNi00YWUyLWE3MzYtMGI3OGU5OWI1NmY2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjQ5NTUwZTctOTBlNi00YWUyLWE3MzYtMGI3OGU5OWI1NmY2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:34:41Z",
+        "url": "https://www.imdb.com/video/vi28246297/"
+    },
+    "url": "/title/tt0259497/"
+}

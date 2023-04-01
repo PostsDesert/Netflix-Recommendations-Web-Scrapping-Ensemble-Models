@@ -1,0 +1,110 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sean Connery",
+            "url": "/name/nm0000125/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Caine",
+            "url": "/name/nm0000323/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christopher Plummer",
+            "url": "/name/nm0001626/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 50237,
+        "ratingValue": 7.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0106767/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0023951/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Huston",
+            "url": "/name/nm0001379/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gladys Hill",
+            "url": "/name/nm0384283/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rudyard Kipling",
+            "url": "/name/nm0456017/"
+        }
+    ],
+    "datePublished": "1975-12-19",
+    "description": "Two former British soldiers in 1880s India decide to set themselves up as Kings in Kafiristan, a land where no white man has set foot since Alexander the Great.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Huston",
+            "url": "/name/nm0001379/"
+        }
+    ],
+    "duration": "PT2H9M",
+    "genre": [
+        "Adventure",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZWQzYjBjZmQtZDFiOS00ZDQ1LWI4MDAtMDk1NGE1NDBhYjNhL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "keywords": "adventurer,19th century,imperialism,execution,epic",
+    "name": "The Man Who Would Be King",
+    "original_info": {
+        "id": "The Man Who Would Be King_1975",
+        "name": "The Man Who Would Be King",
+        "year": "1975"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jay4stein79-1"
+        },
+        "dateCreated": "2004-11-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0073341/"
+        },
+        "name": "Adventure! Excitement! Exotic Locales! You too can experience these in the Queen's Army!",
+        "reviewBody": "My friend threw this DVD at my head one night while we were arguing about film. I said all adventure movies left me feeling a little hollow - adventure movies tended to abandon story, really, in favor of plot (important distinction: stories are interesting, plots boring; consequently a film with a story to tell is better than a movie with a plot to move forward). I think he hurled the disc at me out of pure frustration with my point of view. In doing so, he also won the argument.\n\nThe Man Who Would Be King is the single greatest adventure film I've ever seen. It's a story - It's a tale - It's not a series of plot developments (to me, to go further with this plot/story dichotomy, a plot is mechanical (and sometimes that machine is well-oiled) while a story is organic and feels less contrived (though the story, as organic matter sometimes is, can be rotten)). It's a very good story at that. The Man Who Would Be King (I believe as a result of its derivation from Kipling) has a depth and development of character that is foreign to most adventure tales. Few films are as rousing as this and few films that are this rousing have nearly as much to say about mankind.\n\nJohn Huston, of course, is a master of instilling greatness into traditionally tedious genres. He transformed the mystery, the western, the swashbuckler. Why not the adventure story too? As evidenced in The Maltese Falcon and Treasure of the Sierra Madre, Huston can take what might wind up a plot and transform it into a story. He understands that characters - human, conflicted, devious characters - are essential to creating genre pictures that transcend their genre. Without Huston, this film would have undoubtedly faltered; his steady and determined hand guides this film from the hazards of superficiality without sacrificing entertainment and adventure.\n\nHe does not create a great film single-handedly though, as Connery and Caine, who both give tremendous performances, bestow upon Peachy and Daniel immense likability despite their scoundrel airs. Caine proves again why he may be the greatest living British actor and Connery reminds us that there's more to him than 007.\n\nAs I said, this is one of the greatest adventure tales brought to the screen. Though some may disagree, in particular my friend who threw the DVD at my head, it's better than any of the late 30s swashbucklers and better than most shoot-em-ups made since."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Two former British soldiers in 1880s India decide to set themselves up as Kings in Kafiristan, a land where no white man has set foot since Alexander the Great.",
+        "duration": "PT1M6S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2768618009",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzRjMzI0ZjAtY2UxNy00NmVjLTg2ZTMtNDZhYWViZmZjN2ZiXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzRjMzI0ZjAtY2UxNy00NmVjLTg2ZTMtNDZhYWViZmZjN2ZiXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+        "uploadDate": "2022-08-06T00:20:18.109Z",
+        "url": "https://www.imdb.com/video/vi2768618009/"
+    },
+    "url": "/title/tt0073341/"
+}

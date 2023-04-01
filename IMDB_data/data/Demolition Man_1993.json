@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sylvester Stallone",
+            "url": "/name/nm0000230/"
+        },
+        {
+            "@type": "Person",
+            "name": "Wesley Snipes",
+            "url": "/name/nm0000648/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sandra Bullock",
+            "url": "/name/nm0000113/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 182204,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0019968/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter M. Lenkov",
+            "url": "/name/nm0006997/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Reneau",
+            "url": "/name/nm0719427/"
+        },
+        {
+            "@type": "Person",
+            "name": "Daniel Waters",
+            "url": "/name/nm0914058/"
+        }
+    ],
+    "datePublished": "1993-10-08",
+    "description": "A police officer is brought out of suspended animation in prison to pursue an old ultra-violent nemesis who is loose in a non-violent future society.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Marco Brambilla",
+            "url": "/name/nm0104193/"
+        }
+    ],
+    "duration": "PT1H55M",
+    "genre": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDBmNDhjOTYtZWVlMC00YzUwLWIyZjEtYzFjMWM5OTdiZDJkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+    "keywords": "violence,totalitarianism,censorship,cyberpunk,museum display",
+    "name": "Demolition Man",
+    "original_info": {
+        "id": "Demolition Man_1993",
+        "name": "Demolition Man",
+        "year": "1993"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "skidwasted-145-490998"
+        },
+        "dateCreated": "2020-03-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0106697/"
+        },
+        "name": "It has never been so current",
+        "reviewBody": "UK's Home Office declares that calling someone ugly is a hate crime. Now we're just awaiting the fine machines."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M58S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3323706905",
+        "name": "Trailer [OV]",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOGIyMjc3ZDQtY2FiYi00NzU1LWE3NjctYWYyMTg1YWQyYjI0XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGIyMjc3ZDQtY2FiYi00NzU1LWE3NjctYWYyMTg1YWQyYjI0XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-07-01T08:21:50.257Z",
+        "url": "https://www.imdb.com/video/vi3323706905/"
+    },
+    "url": "/title/tt0106697/"
+}

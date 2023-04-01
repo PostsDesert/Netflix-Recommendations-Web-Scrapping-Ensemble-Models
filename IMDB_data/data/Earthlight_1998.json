@@ -1,0 +1,64 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 58,
+        "ratingValue": 7.8,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0035297/"
+        }
+    ],
+    "datePublished": "1998-02-26",
+    "description": "80 minutes of never-before-seen digital video of the Earth shot from the Space Shuttle, provided by NASA, and set to music.",
+    "duration": "PT1H20M",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjcyMzEzOTc3MV5BMl5BanBnXkFtZTcwNzIyMTkyMQ@@._V1_.jpg",
+    "keywords": "nasa,independent film",
+    "name": "Earthlight",
+    "original_info": {
+        "id": "Earthlight_1998",
+        "name": "Earthlight",
+        "year": "1998"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Identity_T"
+        },
+        "dateCreated": "2005-05-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0167914/"
+        },
+        "name": "Earthlight is amazing",
+        "reviewBody": "This is inspiring! The absolute beauty of our planet is revealed in stunning detail as the Space Shuttle orbits Earth. The Dolby Digital music which this DVD is set to makes this one of the most relaxing videos you could ever watch. As a previous poster said, this is not necessarily a movie, but more of a background video. I can't describe the images on this DVD and do them justice. You just simply have to get it and see for yourself. You'll have philosophical and religious experiences when you watch this. It's the best thing you could watch if you have had a long/hard day. Simply put this in your DVD player, kick back and you'll immediately realize that the problems you think are huge are insignificant; and you'll feel better about everything.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from DVD International",
+        "duration": "PT2M16S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1873019161",
+        "name": "Earthlight",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZmVhMTc5NTEtNmFlZS00MjEwLTg5MjctZDM1MDIwM2VjMjRkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZmVhMTc5NTEtNmFlZS00MjEwLTg5MjctZDM1MDIwM2VjMjRkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:58:31Z",
+        "url": "https://www.imdb.com/video/vi1873019161/"
+    },
+    "url": "/title/tt0167914/"
+}

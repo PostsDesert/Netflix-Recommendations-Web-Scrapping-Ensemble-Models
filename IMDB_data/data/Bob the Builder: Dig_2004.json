@@ -1,0 +1,52 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Maria Darling",
+            "url": "/name/nm0201387/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kate Harbour",
+            "url": "/name/nm0361957/"
+        }
+    ],
+    "contentRating": "TV-Y",
+    "description": "Things are falling apart at various construction sites. Can the hardworking Bob fix all these problems? Of course he can -- with the help of his pals.",
+    "duration": "PT46M",
+    "genre": [
+        "Animation",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYzlkYzgwM2EtYjg4OS00MzI4LTg2MTEtODIxZDI0ZDYxNjNkXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+    "name": "Bob the Builder: Dig, Lift, Haul",
+    "original_info": {
+        "id": "Bob the Builder: Dig_2004",
+        "name": "Bob the Builder: Dig",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "richter-88955"
+        },
+        "dateCreated": "2022-05-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt6999074/"
+        },
+        "name": "best moive ever",
+        "reviewBody": "This moive the best moive in the world the story and the action is so good. Also i love the the drama between bob and farmer pickles. The emotions that the moive brings to the table are fantastic a true example of letting talented people go wild.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt6999074/"
+}

@@ -1,0 +1,78 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Stan Lee",
+            "url": "/name/nm0498278/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kevin Smith",
+            "url": "/name/nm0003620/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joan Lee",
+            "url": "/name/nm1643074/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 922,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "Unrated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0004549/"
+        }
+    ],
+    "datePublished": "2002-05-07",
+    "description": "Filmmaker/Comic Writer Kevin Smith interviews comic book legend Stan Lee about his life and work in comics.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Scott Zakarin",
+            "url": "/name/nm0952243/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzc5MDgzNDAyMV5BMl5BanBnXkFtZTcwMzY0MTEzMQ@@._V1_.jpg",
+    "keywords": "superhero,writer,interview,comic book,six word title",
+    "name": "Stan Lee's Mutants, Monsters & Marvels",
+    "original_info": {
+        "id": "Stan Lee's Mutants_2002",
+        "name": "Stan Lee's Mutants",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "SnoopyStyle"
+        },
+        "dateCreated": "2017-07-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0314724/"
+        },
+        "name": "for fans by a fan",
+        "reviewBody": "It's a couple of months before the release of Spider-Man (2002). Kevin Smith has a sit-down interview inside a comic book store with legendary creator of Spider-Man, Stan Lee. It's thread-bare. It's just two guys talking about the classic superhero. The interview is intercut with panning shots of the comic books and other visuals.\n\nThis is really only for fans of Stan Lee and Spider-Man. It is mostly inside baseball although it is still a compelling story of a life in comic books. It is rather static visually other than the comic book shoots. For non-fans, this may be too minute and too long. It's not anything cinematic. It's basically a DVD commentary extra.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0314724/"
+}

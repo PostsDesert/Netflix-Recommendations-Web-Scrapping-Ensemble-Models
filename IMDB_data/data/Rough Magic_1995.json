@@ -1,0 +1,113 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bridget Fonda",
+            "url": "/name/nm0000403/"
+        },
+        {
+            "@type": "Person",
+            "name": "Russell Crowe",
+            "url": "/name/nm0000128/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Broadbent",
+            "url": "/name/nm0000980/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1960,
+        "ratingValue": 5.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0069524/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0029168/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Hadley Chase",
+            "url": "/name/nm0153777/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Mundi",
+            "url": "/name/nm0612736/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Brookfield",
+            "url": "/name/nm0006493/"
+        }
+    ],
+    "datePublished": "1997-05-30",
+    "description": "Set in the 1950s, Rough Magic tells the story of what happens when a pretty apprentice magician goes to Mexico to escape her fiancé, a wealthy politician, and to find a Mayan shaman who will teach her ancient principles of magic. ...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Clare Peploe",
+            "url": "/name/nm0672543/"
+        }
+    ],
+    "duration": "PT1H44M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTFiZTc5OTAtOTk0OS00Y2YwLWI4MzUtYWE2MmQ0NTg2NzhmXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_.jpg",
+    "keywords": "two word title,timeframe 1950s,magic,shaman,love",
+    "name": "Rough Magic",
+    "original_info": {
+        "id": "Rough Magic_1995",
+        "name": "Rough Magic",
+        "year": "1995"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "NJCondon"
+        },
+        "dateCreated": "1998-12-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0114303/"
+        },
+        "name": "Unfocused Potential",
+        "reviewBody": "The seeds of a good movie are there in \"Rough Magic\", a film with an excellent cast, an intriguing premise, and a great location. However, these seeds never really germinate, as the film fails to be convincing. As the movie progresses, the characters behave in an increasingly arbitrary manner while the events of the plot become similarly arbitrary. Thus, by the end, my willing suspension of disbelief was completely gone and I found myself bored. I think that the film was trying for the sort of magic realism found in movies like \"Like Water for Chocolate\", but the key to magic realism lies at least as much in the realism as it does in the magic. While \"Like Water for Chocolate\" worked because we believed in the characters, \"Rough Magic\" fails, despite some genuinely entertaining moments, because we don't.\n\nOverall Rating: 1 1/2 stars (out of 4), or 4 (out of 10)",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 4,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Rough Magic",
+        "duration": "PT1M54S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4169400601",
+        "name": "Rough Magic",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODFkNTQ1NDUtOTQ0OC00YmZmLWJjZGQtYmExZTdkYWFiMzgyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODFkNTQ1NDUtOTQ0OC00YmZmLWJjZGQtYmExZTdkYWFiMzgyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:55:45Z",
+        "url": "https://www.imdb.com/video/vi4169400601/"
+    },
+    "url": "/title/tt0114303/"
+}

@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Anthony Edwards",
+            "url": "/name/nm0000381/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mare Winningham",
+            "url": "/name/nm0001858/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Agar",
+            "url": "/name/nm0000730/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 11352,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0056805/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0083963/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve De Jarnatt",
+            "url": "/name/nm0208923/"
+        }
+    ],
+    "datePublished": "1989-05-19",
+    "description": "A young man hears a chance phone call telling him that a nuclear war has started and missiles will hit his city in 70 minutes.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Steve De Jarnatt",
+            "url": "/name/nm0208923/"
+        }
+    ],
+    "duration": "PT1H27M",
+    "genre": [
+        "Action",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOGYwNDljZTItZGRlMi00YjM2LWIyNDgtOGRiOWNjMGRhMGQ3XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "suspense,1980s,night,nuclear war,la brea tar pit",
+    "name": "Miracle Mile",
+    "original_info": {
+        "id": "Miracle Mile_1989",
+        "name": "Miracle Mile",
+        "year": "1989"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "sdsalsero"
+        },
+        "dateCreated": "2004-04-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0097889/"
+        },
+        "name": "what starts like a bad made-for-TV movie turns into a compelling character-driven sci-fi horror",
+        "reviewBody": "I first saw this movie on video around the time it was produced. I immediately liked it even though it was a bit bleak. But the late 80's were full of apocalyptic nuclear holocaust movies and this was the only one that stayed with me. Now, years later, I've just rewatched it (this time on DVD) and I still think it's a very good -- but not great -- movie.\n\nAdmittedly, there's some over-the-top 80's haircuts and costumes, stuff that would be seriously 'retro' nowadays. And the acting, particularly in the beginning, is 'obvious' and a bit tiring. But when the hero receives that fateful phone call, it all changes. Suddenly, it's like watching a stage-performance of a play, a pressure-cooker where everyone suspects everyone else and no one knows what's really going on.\n\n In fact, one of the best parts of the screenplay is that we, the audience, also don't really know what to believe (until the very end). We watch the hero struggle with what to tell people who's help he needs: if he tells them the awful truth, they may not believe/help him; if he tells them a more believable lie, is he denying them the chance to survive or at least to die with their loved ones. Either way, both he and the people he meets turn to progressively more and more extreme behavior -- people die! . . . and what if it all turns-out to have been a hoax?\n\nIn all, I think this movie ranks as a great sci-fi film, and in the truest sense of the genre: What If. It's not about aliens or galactic empires or anything else that's more fantasy than reality. Instead, it's a situation that any of us could easily imagine and I think this is why it stayed with me all these years, why it now forms a part of the framework for my imagination whenever I find myself catastrophizing about terrorism or natural disaster, anything that could separate me from the ones I love. What would I do?",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A young man hears a chance phone call telling him that a nuclear war has started and missiles will hit his city in 70 minutes.",
+        "duration": "PT2M17S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2056569625",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMWMwMjM3YzItODA0ZC00ZjIzLThlOTgtZWQ0N2UzNWVhNGMzXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMWMwMjM3YzItODA0ZC00ZjIzLThlOTgtZWQ0N2UzNWVhNGMzXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-10-05T22:48:19.908Z",
+        "url": "https://www.imdb.com/video/vi2056569625/"
+    },
+    "url": "/title/tt0097889/"
+}

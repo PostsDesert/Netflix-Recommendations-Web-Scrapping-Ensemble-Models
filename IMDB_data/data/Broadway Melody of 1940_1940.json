@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Fred Astaire",
+            "url": "/name/nm0000001/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eleanor Powell",
+            "url": "/name/nm0007224/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Murphy",
+            "url": "/name/nm0614278/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2573,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "Passed",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007143/"
+        },
+        {
+            "@type": "Person",
+            "name": "Leon Gordon",
+            "url": "/name/nm0330390/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Oppenheimer",
+            "url": "/name/nm0649183/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jack McGowan",
+            "url": "/name/nm0569650/"
+        }
+    ],
+    "datePublished": "1940-02-09",
+    "description": "Johnny Brett and King Shaw are an unsuccessful dance team in New York. A producer discovers Brett as the new partner for Clare Bennett, but Brett, who thinks he is one of the people they lent money to gives him the name of his par...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Norman Taurog",
+            "url": "/name/nm0851537/"
+        }
+    ],
+    "duration": "PT1H42M",
+    "genre": [
+        "Musical"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODZhYTU2OTctZWU0ZC00YjRmLTg3MjAtMDI4ZDA4Mzc1ZTQzXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "keywords": "dancing,tap dancing,new york city,manhattan new york city,show business",
+    "name": "Broadway Melody of 1940",
+    "original_info": {
+        "id": "Broadway Melody of 1940_1940",
+        "name": "Broadway Melody of 1940",
+        "year": "1940"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jackjack-2"
+        },
+        "dateCreated": "2005-02-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0032284/"
+        },
+        "name": "Terrific movie",
+        "reviewBody": "Even though the story was corny, I loved this movie. It was dancing at its greatest. I have always known that Fred Astaire was the best but only recently did I discover Eleanor Powell, even though she was a star when I was a kid but kids don't enjoy musicals. Powell is the greatest and the best partner Astaire ever had. It is too bad they didn't make more movies together. \n\nThis is a movie I would recommend to anyone. It is one I can watch over and over again because the dancing is so fantastic. Even my grandchildren enjoyed this one. I would have given it a 10 but for the story but then every Astaire movie is a fantasy in dance but Powell makes this one a super fantasy.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT3M31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3704602905",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzI3MzUyZjAtZjg2My00MWFmLTliNDYtM2MxZTBlN2Y2OTAyXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzI3MzUyZjAtZjg2My00MWFmLTliNDYtM2MxZTBlN2Y2OTAyXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-11-24T02:45:17.371Z",
+        "url": "https://www.imdb.com/video/vi3704602905/"
+    },
+    "url": "/title/tt0032284/"
+}

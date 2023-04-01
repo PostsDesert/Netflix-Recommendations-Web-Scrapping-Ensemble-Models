@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Lainie Kazan",
+            "url": "/name/nm0443577/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Sorvino",
+            "url": "/name/nm0000649/"
+        },
+        {
+            "@type": "Person",
+            "name": "Barbara Carrera",
+            "url": "/name/nm0000324/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1419,
+        "ratingValue": 5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0001174/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gabriel Bologna",
+            "url": "/name/nm0093232/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joseph Bologna",
+            "url": "/name/nm0004767/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Shakespeare",
+            "url": "/name/nm0000636/"
+        }
+    ],
+    "datePublished": "1996-05-10",
+    "description": "Romeo & Juliet gets transplanted to the Bronx.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Joseph Bologna",
+            "url": "/name/nm0004767/"
+        },
+        {
+            "@type": "Person",
+            "name": "Renée Taylor",
+            "url": "/name/nm0853041/"
+        }
+    ],
+    "duration": "PT1H45M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA1ODEyMTg3M15BMl5BanBnXkFtZTcwNzgzNzA2NA@@._V1_.jpg",
+    "keywords": "italian american,love,restaurant,f rated,shakespeare play",
+    "name": "Love Is All There Is",
+    "original_info": {
+        "id": "Love Is All There Is_1996",
+        "name": "Love Is All There Is",
+        "year": "1996"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Heinz57"
+        },
+        "dateCreated": "2001-12-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0116928/"
+        },
+        "name": "A romantic comedy",
+        "reviewBody": "A sweet story of first love, emoting Romeo and Juliet in a modern American setting. The whole thing is played as a farce, as between the grownups who are trying to (over)protect their children. Angelina Jolie gives a totally charming performance, that resonates with one's romantic side (if one has that). If you like the actress, you have to have this movie. A fun movie without any message other than, that love is all there is. If it was available on DVD I would buy it in a minute!"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Romeo & Juliet gets transplanted to the Bronx.",
+        "duration": "PT2M14S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1780990745",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDhiMjJkNTYtOGM2MS00MzlmLTk3NWEtNjBiMjg3M2FjZTM5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDhiMjJkNTYtOGM2MS00MzlmLTk3NWEtNjBiMjg3M2FjZTM5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2022-01-14T16:50:16.035Z",
+        "url": "https://www.imdb.com/video/vi1780990745/"
+    },
+    "url": "/title/tt0116928/"
+}

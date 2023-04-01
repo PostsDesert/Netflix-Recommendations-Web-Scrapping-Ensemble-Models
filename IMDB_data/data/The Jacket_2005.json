@@ -1,0 +1,117 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Adrien Brody",
+            "url": "/name/nm0004778/"
+        },
+        {
+            "@type": "Person",
+            "name": "Keira Knightley",
+            "url": "/name/nm0461136/"
+        },
+        {
+            "@type": "Person",
+            "name": "Daniel Craig",
+            "url": "/name/nm0185819/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 115817,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0013922/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0106448/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0005596/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tom Bleecker",
+            "url": "/name/nm1789514/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marc Rocco",
+            "url": "/name/nm0733692/"
+        },
+        {
+            "@type": "Person",
+            "name": "Massy Tadjedin",
+            "url": "/name/nm1127653/"
+        }
+    ],
+    "datePublished": "2005-03-04",
+    "description": "A Gulf war veteran is wrongly sent to a mental institution for insane criminals, where he becomes the object of a doctor's experiments, and his life is completely affected by them.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Maybury",
+            "url": "/name/nm0562266/"
+        }
+    ],
+    "duration": "PT1H43M",
+    "genre": [
+        "Drama",
+        "Fantasy",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjY1ZTNiMGYtOGJjNy00MmE4LWFjYzQtOTNjYzYzZTcyNzQ5XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "insane asylum,time traveler,time machine,morgue,shot in the head",
+    "name": "The Jacket",
+    "original_info": {
+        "id": "The Jacket_2005",
+        "name": "The Jacket",
+        "year": "2005"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "marntfield"
+        },
+        "dateCreated": "2005-08-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0366627/"
+        },
+        "name": "Trippy Yet Still Intelligent",
+        "reviewBody": "First off, this film is not for everyone. It does, however, seem to delineate an emerging and exciting trend in contemporary film making whereby directors are becoming increasingly enamored with these sorts of dark, brooding, almost dreamscape-like and melodramatic thrillers which defy archetypal and conventional narrative formats. Think of the \"The Machinist\" and work your way backwards to \"Vanilla Sky\", or even as far back as 1990's \"Jacob's Ladder\" as one other reviewer accurately suggested. \n\nTo this end, \"The Jacket\" represents the apotheosis of this rising genre, and is both an artistic psychological thriller, as well as what you might call a metaphysical tragedy, and easily envelopes the viewer into its morose and sterile world replete with dreary snow scapes, perpetual grey skies and faces, muted and washed out colours, institutional isolation, and the angst of working class loners. The film's imagery and the pace of the story and script immediately command one's attention from the outset and the film is unrelenting in both its tension and gumption. Because of this, despite the story's meandering timeline and lack of feasible explanations for the protagonist's \"visions\", the viewer is still to an extent able to believe what they're seeing. Because the film takes itself so seriously, and actually pulls it off, the viewer then buying into the fantasy of the story becomes far more palatable than it does in other misguided attempts at this same sort of risky and artsy storytelling ie: \"The Butterfly Effect\". \n\nThis is an ambitious film which taps into both the romanticism and pain of our dreams and our memories, and how they both act upon us, and cause us to act upon them. It examines what is real versus perceived, the fragility of life, how each persons's life effects others, even passing strangers, and the sovereignty of the self and the mind. The film features outstanding performances from just about everyone on screen, particularly Brody as the hapless and tortured Jack Starks, and Kristofferson as the morally ambiguous and equally tortured Dr. Becker. \n\nDespite the big names on the marquee, however, this, as previously mentioned, is not a cut and dry \"popcorn flick\" and will leave many people bewildered. It is for these people that the \"Butterfly Effect\" was made first, and now with them out of the way, the timing for a film of this caliber which deals with these issues properly is appropriate. \"The Jacket\" is a trippy and entertaining yet still very intelligent film which asks only that you check your preconceptions and logical rectitude at the door. By doing so, you'll find the imagination of this film is fact more real than you might have expected.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer 1",
+        "duration": "PT2M31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi462356761",
+        "name": "The Jacket",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzYxMDc0YzctODM3Yy00MWZkLWE2YmUtYzMxNGYwN2I4ZGVhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzYxMDc0YzctODM3Yy00MWZkLWE2YmUtYzMxNGYwN2I4ZGVhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:30:55Z",
+        "url": "https://www.imdb.com/video/vi462356761/"
+    },
+    "url": "/title/tt0366627/"
+}

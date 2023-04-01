@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mel Gibson",
+            "url": "/name/nm0000154/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jodie Foster",
+            "url": "/name/nm0000149/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Garner",
+            "url": "/name/nm0001258/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 114498,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0116435/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0000700/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0073417/"
+        },
+        {
+            "@type": "Person",
+            "name": "Roy Huggins",
+            "url": "/name/nm0400403/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Goldman",
+            "url": "/name/nm0001279/"
+        }
+    ],
+    "datePublished": "1994-05-20",
+    "description": "Bret Maverick, needing money for a poker tournament, faces various comic mishaps and challenges, including a charming woman thief.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Richard Donner",
+            "url": "/name/nm0001149/"
+        }
+    ],
+    "duration": "PT2H7M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BY2I1OTY2NmUtMGVlZi00NjNmLThkNTgtMjExMzRhOTM2MDJiXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "keywords": "yosemite national park,character name as title,playing card,bow the weapon,arrow",
+    "name": "Maverick",
+    "original_info": {
+        "id": "Maverick_1994",
+        "name": "Maverick",
+        "year": "1994"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "tfrizzell"
+        },
+        "dateCreated": "2000-09-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0110478/"
+        },
+        "name": "A Very Good Comedy That Never Ages",
+        "reviewBody": "\"Maverick\" is based on the popular television series of the same name. The film is pretty faithful to the series as Mel Gibson stars as the big-time gambler. James Garner (the original Maverick) has a great part as a lawman who is tracking Gibson. Jodie Foster is superb as usual. The supporting cast includes Graham Greene, James Coburn, and a short cameo by Danny Glover. The direction and screenplay are both inspired and very impressive.\n\nNot perfect, but very close. 4.5 out of 5 stars."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT1M25S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3450781209",
+        "name": "Maverick",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjdhZjI3MzAtYzU0NC00YzM5LTkzNzYtY2Y2MzE3NzkxNDMyXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjdhZjI3MzAtYzU0NC00YzM5LTkzNzYtY2Y2MzE3NzkxNDMyXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-03-14T17:04:22.768Z",
+        "url": "https://www.imdb.com/video/vi3450781209/"
+    },
+    "url": "/title/tt0110478/"
+}

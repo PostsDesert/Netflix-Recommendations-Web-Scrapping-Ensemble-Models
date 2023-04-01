@@ -1,0 +1,116 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Andie MacDowell",
+            "url": "/name/nm0000510/"
+        },
+        {
+            "@type": "Person",
+            "name": "Julianne Moore",
+            "url": "/name/nm0000194/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tim Robbins",
+            "url": "/name/nm0000209/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 45844,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0043853/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0033402/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0240889/"
+        },
+        {
+            "@type": "Person",
+            "name": "Raymond Carver",
+            "url": "/name/nm0142577/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Altman",
+            "url": "/name/nm0000265/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frank Barhydt",
+            "url": "/name/nm3004592/"
+        }
+    ],
+    "datePublished": "1993-10-01",
+    "description": "The day-to-day lives of several suburban Los Angeles residents.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Altman",
+            "url": "/name/nm0000265/"
+        }
+    ],
+    "duration": "PT3H8M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMGNmYWM1MDAtNjU1NS00YzA1LTgzZDQtMzIyMTNiNzkyNzBhXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_.jpg",
+    "keywords": "waitress,destruction of property,marriage crisis,cheating husband,redheaded woman",
+    "name": "Short Cuts",
+    "original_info": {
+        "id": "Short Cuts_1993",
+        "name": "Short Cuts",
+        "year": "1993"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "gavin6942"
+        },
+        "dateCreated": "2014-07-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0108122/"
+        },
+        "name": "Among Altman's Best",
+        "reviewBody": "The day-to-day lives of a number of suburban Los Angeles residents.\n\nIn many ways, this film is a follow-up to Altman's \"Nashville\", another story of several people (twenty-four) going about their day in Nashville. How many characters are in this story of folks in Los Angeles? Probably about the same.\n\nIf anything, this story strikes me as better. Better scripted, for sure, and with much more mystery and suspense (and more dead bodies). We have an incredible cast: Tom Waits and Jennifer Jason Leigh steal the show, but Robert Downey, Tim Robbins, Chris Penn and a dozen others are amazing, too.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Criterion Collection",
+        "duration": "PT2M21S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3867279641",
+        "name": "Short Cuts",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjExODMyOTUtMDY4YS00ODIzLTg1ZjEtNzlmMTg5Y2Q1Y2I2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjExODMyOTUtMDY4YS00ODIzLTg1ZjEtNzlmMTg5Y2Q1Y2I2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:49:59Z",
+        "url": "https://www.imdb.com/video/vi3867279641/"
+    },
+    "url": "/title/tt0108122/"
+}

@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Frank Grillo",
+            "url": "/name/nm0342029/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jaime King",
+            "url": "/name/nm0454809/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sarah Dumont",
+            "url": "/name/nm3924288/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 62,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0606653/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0646224/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0853267/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brev Moss",
+            "url": "/name/nm12760985/"
+        },
+        {
+            "@type": "Person",
+            "name": "Josh Plasse",
+            "url": "/name/nm5947149/"
+        }
+    ],
+    "datePublished": "2023-03-16",
+    "description": "While a couple edits a Charles Manson movie in an Airbnb, the film's dark events begin to come true in the mysterious plot of a hidden leader.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Remy Grillo",
+            "url": "/name/nm9793216/"
+        }
+    ],
+    "duration": "PT1H18M",
+    "genre": [
+        "Horror",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZGQ3NGMxMjgtZjU2OC00MzAzLTliNDAtMTY0ZGViNWI3ZWQyXkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_.jpg",
+    "name": "The Resurrection of Charles Manson",
+    "original_info": {
+        "id": "The Films of Charles & Ray Eames_2000",
+        "name": "The Films of Charles & Ray Eames",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "swluvsgod"
+        },
+        "dateCreated": "2023-03-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt18362708/"
+        },
+        "name": "I loved this creepy little movie!",
+        "reviewBody": "This movie starts off with cute young couple Mitch and Tianna going out to the desert to prepare for an audition. Tianna is preparing for the role of one of Charles Manson's crazy groupies, so she's a little distracted and not picking up on a few subtle clues that something is not quite right. Mitch however does take notice that something is \"off\" and we as the audience feel the unease with him.\n\nI don't want to say anymore about the plot because I didn't know anything about it going in, and I think that's the best way to see it.\n\nI really liked this movie. It had a great creepy vibe, reminding me of Texas Chainsaw Massacre or The Hills Have Eyes.\n\nBut I actually liked this movie better than both of those. I love a movie that can be scary and disturbing without excessively gory. Lazy directors throw blood and guts around,or add nudity and jump scares. This director took the time to build up atmosphere and tension. I would never have guessed that this was Remy Grillo's first time directing. I wish Rob Zombie and Eli Roth would watch this and take notes.\n\nIt's not a perfect movie of course. It looks a little rough and cheap in a few places, but that works in its favor. Again, reminiscent of Texas Chainsaw Massacre.\n\nAnd it is too short. I am a huge Frank Grillo fan. I've seen all his movies, so was a little disappointed he wasn't in it more. Another 10 minutes to flush out his and Jaime King's characters would've been perfect.\n\nLastly, I'm not sure how I feel about the somewhat ambiguous ending. I mean, I think I get it but would have liked one more scene.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer 1",
+        "duration": "PT1M36S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi943178777",
+        "name": "The Resurrection of Charles Manson",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTg3NTQyZDktNmY0OS00ZDEwLTkyYzAtMzU3MjEyZmZhNDQ0XkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTg3NTQyZDktNmY0OS00ZDEwLTkyYzAtMzU3MjEyZmZhNDQ0XkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2023-03-11T17:07:07.973Z",
+        "url": "https://www.imdb.com/video/vi943178777/"
+    },
+    "url": "/title/tt18362708/"
+}

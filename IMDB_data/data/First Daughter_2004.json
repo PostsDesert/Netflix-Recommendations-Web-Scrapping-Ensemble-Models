@@ -1,0 +1,117 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Katie Holmes",
+            "url": "/name/nm0005017/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marc Blucas",
+            "url": "/name/nm0089456/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Keaton",
+            "url": "/name/nm0000474/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 24323,
+        "ratingValue": 5.1,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007127/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0007127/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0022730/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jessica Bendinger",
+            "url": "/name/nm0070566/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jerry O'Connell",
+            "url": "/name/nm0005278/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kate Kondell",
+            "url": "/name/nm1009988/"
+        }
+    ],
+    "datePublished": "2004-09-24",
+    "description": "The daughter of the U.S. President heads off to college where she falls for a graduate student with a secret.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Forest Whitaker",
+            "url": "/name/nm0001845/"
+        }
+    ],
+    "duration": "PT1H46M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk5MDI5NTE4N15BMl5BanBnXkFtZTYwNjQ0NTE3._V1_.jpg",
+    "keywords": "college,first daughter,college roommate,water gun,teenager",
+    "name": "First Daughter",
+    "original_info": {
+        "id": "First Daughter_2004",
+        "name": "First Daughter",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "cschear"
+        },
+        "dateCreated": "2016-11-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0361620/"
+        },
+        "name": "Guilty Pleasure",
+        "reviewBody": "Okay, I am very aware that this movie is pretty awful. And funny enough, I don't care for Katie Holmes or Marc Blucas. But I can't help but watch this when I'm alone and no one else knows. Michael Keaton is good as always. And even though the whole storyline is completely ridiculous, there are some very sweet moments. The biggest problem with this movie is simply the very weak script. However, the good news is that regardless of the script and some of the actors, it can't help but have some guilty charms. I don't think I would recommend this to anyone who doesn't have genuine guilty pleasures. Real ones. Like that George Lazenby is their favorite Bond. But it's a cute movie that I think younger tweens might enjoy.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for First Daughter",
+        "duration": "PT2M41S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1267119641",
+        "name": "First Daughter",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTkyMDY1NTI2MV5BMl5BanBnXkFtZTgwMDkzMTUyMDI@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTkyMDY1NTI2MV5BMl5BanBnXkFtZTgwMDkzMTUyMDI@._V1_.jpg",
+        "uploadDate": "2016-10-07T01:58:59Z",
+        "url": "https://www.imdb.com/video/vi1267119641/"
+    },
+    "url": "/title/tt0361620/"
+}

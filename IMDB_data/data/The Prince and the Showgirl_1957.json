@@ -1,0 +1,96 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Marilyn Monroe",
+            "url": "/name/nm0000054/"
+        },
+        {
+            "@type": "Person",
+            "name": "Laurence Olivier",
+            "url": "/name/nm0000059/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Wattis",
+            "url": "/name/nm0915077/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 8699,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0053041/"
+        },
+        {
+            "@type": "Person",
+            "name": "Terence Rattigan",
+            "url": "/name/nm0711905/"
+        }
+    ],
+    "datePublished": "1957-06-13",
+    "description": "An American showgirl becomes entangled in political intrigue when the Prince Regent of a foreign country attempts to seduce her.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Laurence Olivier",
+            "url": "/name/nm0000059/"
+        }
+    ],
+    "duration": "PT1H55M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYzUzNmViYWEtMzI4Ni00YzQ0LThmYmMtZmJkNjIxODUzZWFiXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "keywords": "prince regent,showgirl,london england,forbidden love,prince",
+    "name": "The Prince and the Showgirl",
+    "original_info": {
+        "id": "The Prince and the Showgirl_1957",
+        "name": "The Prince and the Showgirl",
+        "year": "1957"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "cglassey"
+        },
+        "dateCreated": "1998-11-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0050861/"
+        },
+        "name": "Marilyn Monroe is sex-appeal incarnate here",
+        "reviewBody": "The title of this film might well be \"Watch Marilyn seduce Laurence Olivier\". Marilyn had an amazing, nearly unique, quality of \"sex appeal\". Not that other actresses aren't beautiful or sexy, but Marilyn stands alone, as the greatest screen goddess. The way she moved, the way she talked, it's almost unbelievable how appealing she was. This movie seems designed to show off her abilities in this regard. As such, it is a movie that is worth watching, assuming that you are interested in watching a woman seducing a man.\n\nIn other respects, the movie is not a great film. The plot has almost no drama to it. The comedy is so \"genteel\" as to hardly merit a polite chuckle. Sir Laurence is fine as the stiff, un-romantic prince who tries to avoid falling for Marilyn's charms but there is little \"fire\" to his performance.\n\nUltimately the movie rests on Marilyn's remarkable talent for being \"desirable\". I rate this film just behind \"The Seven Year Itch\" but it does feature more screen time for Marilyn.\n\nBTW: I see some real resemblance between MM in this film and Jessica Lange (circa \"Tootsie\")."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for this royal romantic comedy",
+        "duration": "PT2M21S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2459174425",
+        "name": "The Prince and the Showgirl",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOGE4OTBjZDItMDEyOC00MjI3LTk2MzEtOTdjMzNmZWEyNWUzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGE4OTBjZDItMDEyOC00MjI3LTk2MzEtOTdjMzNmZWEyNWUzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-07-05T03:36:31Z",
+        "url": "https://www.imdb.com/video/vi2459174425/"
+    },
+    "url": "/title/tt0050861/"
+}

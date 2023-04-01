@@ -1,0 +1,115 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Miles Anderson",
+            "url": "/name/nm0027215/"
+        },
+        {
+            "@type": "Person",
+            "name": "Romane Bohringer",
+            "url": "/name/nm0001960/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Bradley",
+            "url": "/name/nm0103195/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1964,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0082027/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0007554/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0136662/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Shakespeare",
+            "url": "/name/nm0000636/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kristian Levring",
+            "url": "/name/nm0506290/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anders Thomas Jensen",
+            "url": "/name/nm0421314/"
+        }
+    ],
+    "datePublished": "2001-05-11",
+    "description": "When a bus breaks down in the desert, the passengers decide to stage \"King Lear.\"",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Kristian Levring",
+            "url": "/name/nm0506290/"
+        }
+    ],
+    "duration": "PT1H50M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYmVlY2E2M2YtYWY4Zi00Y2EzLTk3MjYtYTI2Mzk2ZDllZjY5XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "desert,tragedy,bus,stranded,village",
+    "name": "The King Is Alive",
+    "original_info": {
+        "id": "The King is Alive_2001",
+        "name": "The King is Alive",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "claudio_carvalho"
+        },
+        "dateCreated": "2010-02-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0208911/"
+        },
+        "name": "A Double Tragedy",
+        "reviewBody": "While shifting airports by bus in Africa, a group of passengers is driven to the middle of nowhere in the desert by the driver that is following a defective compass. They run out of gas and they reach a ghost village inhabited by a single man, Kanana (Peter Kubheka). One passenger that has experience with desert gives five advices to the others to survive in the spot, among them to keep the spirit high, while he travels through the desert seeking for help. One intellectual in the stranded group suggests the performance of King Lear to keep the morale of the survivors. Along the days, while hope decreases, the tension increases among the survivors. \n\n\"The King is Alive\" is a tragedy in a tragedy, with a group of people stranded in the desert performing King Lear to keep the spirit of the survivors. The story has a breathless beginning with the driver absolutely lost and the despair of the passengers and is raw and disturbing, when the survivors return to a primitive stage of human condition. The performances are outstanding and this Dogma 85 film was released in Brazil on VHS by Cult Films Distributor. My vote is seven.\n\nTitle (Brazil): \"O Rei Está Vivo\" (\"The King is Alive\")",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from IFC Films",
+        "duration": "PT1M51S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3958636825",
+        "name": "The King Is Alive",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzE5ZjFiMTAtZjZhMy00M2YxLTk1ZDItM2RkOTg3MTYyOTAyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzE5ZjFiMTAtZjZhMy00M2YxLTk1ZDItM2RkOTg3MTYyOTAyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:51:04Z",
+        "url": "https://www.imdb.com/video/vi3958636825/"
+    },
+    "url": "/title/tt0208911/"
+}

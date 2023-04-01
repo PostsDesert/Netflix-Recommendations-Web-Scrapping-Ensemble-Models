@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Richard Pryor",
+            "url": "/name/nm0001640/"
+        },
+        {
+            "@type": "Person",
+            "name": "Franklyn Ajaye",
+            "url": "/name/nm0014977/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sully Boyar",
+            "url": "/name/nm0101604/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7710,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joel Schumacher",
+            "url": "/name/nm0001708/"
+        }
+    ],
+    "datePublished": "1976-10-22",
+    "description": "A comedic take on the daily life of car-wash employees, chronicling their hopes, fears, joys, dreams, and tribulations, and meeting some eccentric customers along the way.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Schultz",
+            "url": "/name/nm0776317/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BN2Q3MjVjM2EtYmExMS00YTRhLTllMjgtYWEyNGMyMDQ4NmI1XkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
+    "keywords": "blaxploitation,car wash,payphone,hood,bottle",
+    "name": "Car Wash",
+    "original_info": {
+        "id": "Car Wash_1976",
+        "name": "Car Wash",
+        "year": "1976"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "G-Man-25"
+        },
+        "dateCreated": "2000-01-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0074281/"
+        },
+        "name": "Funny And Influential",
+        "reviewBody": "A great ensemble cast, a loose, funky script that left room for improvisation and a great (nonstop) pulsating disco/soul soundtrack make this film a pleasant diversion and definitely a document of its' era. It also served as a blueprint for many other primarily black-cast comedies to come. When writing 1997's \"Friday,\" Ice Cube was quoted as saying he wanted to create a fun film just like \"Car Wash.\" Many funny scenes, some in questionable taste, but still harmless enough. For those who lived through the period, it'll bring back some memories."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer 1",
+        "duration": "PT2M27S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3075259417",
+        "name": "Car Wash",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjA3MTdlY2YtNTZjNS00ZDJjLWJjNTctYmY2YzVjMzQ1YTBmXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjA3MTdlY2YtNTZjNS00ZDJjLWJjNTctYmY2YzVjMzQ1YTBmXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg",
+        "uploadDate": "2019-08-20T17:02:29.700Z",
+        "url": "https://www.imdb.com/video/vi3075259417/"
+    },
+    "url": "/title/tt0074281/"
+}

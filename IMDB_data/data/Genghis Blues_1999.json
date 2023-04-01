@@ -1,0 +1,80 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Richard Feynman",
+            "url": "/name/nm0275509/"
+        },
+        {
+            "@type": "Person",
+            "name": "B.B. King",
+            "url": "/name/nm0454475/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kongar-ol Ondar",
+            "url": "/name/nm0648547/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1403,
+        "ratingValue": 7.8,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Person",
+            "name": "Roko Belic",
+            "url": "/name/nm0067861/"
+        }
+    ],
+    "datePublished": "1999-10-28",
+    "description": "San Francisco bluesman and composer, Paul Peña makes a musical pilgrimage to the land of Tuva.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Roko Belic",
+            "url": "/name/nm0067861/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Documentary",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTkyNmU2MmEtMmNkNC00NzY4LWIwMDEtMjc0MGVmYmFiZDJkXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+    "keywords": "tuva,throat singing,independent film",
+    "name": "Genghis Blues",
+    "original_info": {
+        "id": "Genghis Blues_1999",
+        "name": "Genghis Blues",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jbels"
+        },
+        "dateCreated": "1999-08-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0187859/"
+        },
+        "name": "One of the Year's best",
+        "reviewBody": "This documentary is so unbelievable and so entertaining, it should be best doc feature at next year's academy awards. The stranger in a strange land tale goes in so many heartwarming directions. And you have never, ever heard music like this. Go!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0187859/"
+}

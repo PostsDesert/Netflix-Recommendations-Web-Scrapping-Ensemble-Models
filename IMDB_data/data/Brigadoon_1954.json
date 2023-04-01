@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Gene Kelly",
+            "url": "/name/nm0000037/"
+        },
+        {
+            "@type": "Person",
+            "name": "Van Johnson",
+            "url": "/name/nm0004496/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cyd Charisse",
+            "url": "/name/nm0001998/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 8835,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "Passed",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007143/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alan Jay Lerner",
+            "url": "/name/nm0503585/"
+        }
+    ],
+    "datePublished": "1954-09-08",
+    "description": "Two Americans on a hunting trip in Scotland become lost. They encounter a small village, not on the map, called Brigadoon, in which people harbor a mysterious secret, and behave as if they were still living two hundred years in th...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Vincente Minnelli",
+            "url": "/name/nm0591486/"
+        }
+    ],
+    "duration": "PT1H48M",
+    "genre": [
+        "Fantasy",
+        "Musical",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTYzYWI4ZjAtZDg0NC00ZDIzLWJiZWQtMDJhNWQ4ODE4YWRiXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_.jpg",
+    "keywords": "village suspended in time,stone foot bridge,grouse hunting,fog,thatched roof stone house",
+    "name": "Brigadoon",
+    "original_info": {
+        "id": "Brigadoon_1954",
+        "name": "Brigadoon",
+        "year": "1954"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "claudio_carvalho"
+        },
+        "dateCreated": "2012-02-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0046807/"
+        },
+        "name": "When You Love Someone, Everything Is Possible, Even a Miracle",
+        "reviewBody": "The New Yorkers Tommy Albright (Gene Kelly) and Jeff Douglas (Van Johnson) travel in a hunting trip to the highlands of Scotland. Tommy and Jeff are best friends and Tommy is taking a break from his engagement with his fiancée Jane Ashton (Elaine Stewart).\n\nTommy and Jeff get lost on the hills and out of the blue, they see a small town that is out of the map. When they arrive in town, Tommy meets the local Fiona Campbell (Cyd Charisse) and they learn that the place is called Brigadoon. Further, it is the wedding day of her younger sister and they are invited to stay to the party. Meanwhile Tommy and Fiona fall in love with each other. \n\nLater Tommy and the skeptical Jeff discover that a local preacher had prayed to God on the Eighteenth Century asking for a miracle to protect Brigadoon from witches that lived in Scotland. From that day on, when the locals go to sleep in the night, they wake up 100 years later. However, if a dweller leaves Brigadoon, the town and the citizens would all disappear forever. But an outsider could stay forever in Brigadoon provided he or she loves someone in the enchanted town.\n\n\"Brigadoon\" is a fairy tale that combines \"Lost Horizon\" with \"The Sleeping Beauty\". The plot is silly and the songs are dated, but the romantic story and Cyd Charisse are delightful and the final message (\"when you love someone, everything is possible, even a miracle\") is very beautiful. My vote is seven.\n\nTitle (Brazil): \"A Lenda dos Beijos Perdidos\" (\"The Legend of the Lost Kisses\")",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT3M45S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi196870425",
+        "name": "Brigadoon",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNGIwYWViZDMtNTExOS00MGI5LTk3OTEtODFiNDJhMTYwMzk0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNGIwYWViZDMtNTExOS00MGI5LTk3OTEtODFiNDJhMTYwMzk0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:51:36Z",
+        "url": "https://www.imdb.com/video/vi196870425/"
+    },
+    "url": "/title/tt0046807/"
+}

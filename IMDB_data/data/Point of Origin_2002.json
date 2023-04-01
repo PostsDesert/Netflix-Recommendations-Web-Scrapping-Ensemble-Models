@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ray Liotta",
+            "url": "/name/nm0000501/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Leguizamo",
+            "url": "/name/nm0000491/"
+        },
+        {
+            "@type": "Person",
+            "name": "Colm Feore",
+            "url": "/name/nm0272173/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1446,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005861/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0079347/"
+        },
+        {
+            "@type": "Person",
+            "name": "Matthew Tabak",
+            "url": "/name/nm0845860/"
+        }
+    ],
+    "datePublished": "2002-06-22",
+    "description": "Fact-based drama about an arson investigator (Ray Liotta) searching for the perpetrator of a string of deadly fires in 1980s California.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Newton Thomas Sigel",
+            "url": "/name/nm0005875/"
+        }
+    ],
+    "duration": "PT1H26M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BN2NjZGRkYTktZmIxMi00MGFlLTg1NGItNTM4Mjc3NDY2N2ZmXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",
+    "keywords": "fire,california,1980s,arson,true crime",
+    "name": "Point of Origin",
+    "original_info": {
+        "id": "Point of Origin_2002",
+        "name": "Point of Origin",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "oceanmyst"
+        },
+        "dateCreated": "2002-06-22",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0285917/"
+        },
+        "name": "Worth a watch",
+        "reviewBody": "Good story. Starts out strong but weakens along the way.\n\nOnce you find out who is setting the fires, there's not much more to keep your interest. Of course it goes back and forth as to who is really the guilty party but..it gets kind of dull.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT1M50S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2862350617",
+        "name": "Point of Origin",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMDM0Y2QxMzgtOWFjYy00NTUzLTk0ZGQtYzNmZThjYmM2NjM2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDM0Y2QxMzgtOWFjYy00NTUzLTk0ZGQtYzNmZThjYmM2NjM2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:25:19Z",
+        "url": "https://www.imdb.com/video/vi2862350617/"
+    },
+    "url": "/title/tt0285917/"
+}

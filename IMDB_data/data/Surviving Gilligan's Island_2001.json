@@ -1,0 +1,91 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dawn Wells",
+            "url": "/name/nm0920171/"
+        },
+        {
+            "@type": "Person",
+            "name": "Russell Johnson",
+            "url": "/name/nm0426157/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bob Denver",
+            "url": "/name/nm0001134/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 528,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0040329/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0070807/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0043378/"
+        },
+        {
+            "@type": "Person",
+            "name": "Duane Poole",
+            "url": "/name/nm0690830/"
+        }
+    ],
+    "datePublished": "2001-10-14",
+    "description": "A fun behind-the-scenes look into the 60's television series, \"Gilligan's Island.\"",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Paul A. Kaufman",
+            "url": "/name/nm0442237/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM3MjE1MDE3N15BMl5BanBnXkFtZTcwMTk5NTgxMQ@@._V1_.jpg",
+    "keywords": "behind the scenes,television,tv series,reference to raquel welch,clip show",
+    "name": "Surviving Gilligan's Island: The Incredibly True Story of the Longest Three Hour Tour in History",
+    "original_info": {
+        "id": "Surviving Gilligan's Island_2001",
+        "name": "Surviving Gilligan's Island",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Popeye-8"
+        },
+        "dateCreated": "2001-10-15",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0286181/"
+        },
+        "name": "Marvelous, Nostalgic Look at an Amazing Phenomenon",
+        "reviewBody": "With wit, charm and a decidedly protuding \"tongue in cheek\", the surviving \"Gilligan's Island\" cast gets together one more time, but ON THEIR TERMS...no \"True Hollywood Story\" paranoia here.\n\nUsing actors to portray them in their youth (as well as the deceased Backus, Hale and Schaefer), Dawn Wells, Bob Denver and Russell Johnson (along with Sherwood Schwarz, the show's creator) tell of the ups and downs of the longest tour in nautical history. The use of actors to tell the story's choppy history (it was hated by critics and CBS execs but loved by the public, much to CBS's confusion and dismay) can often be an 'iffy' proposal, but here it works wonders (the sudden jump of Wells into her \"past\" is especially funny and effective).\n\nTheir approach on the issue of Tina Louise (who long ago rejected the show) was honest but not as harsh as they likely could have been. Other stories, such as the demise of Jim Backus and Alan Hale and Natalie Schaefer's breast cancer, are very poignant and told with great dignity.\n\nSpecial notice to Dwayne Hickman (Bob Denver's co-hort on DOBIE GILLIS) who does a nice cameo as a remarkably arrogant and dense CBS executive.\n\nOverall, a well-developed story told beautifully, and a nostalgic trip on the SS Minnow sails smoothly. If only ALL tv shows had this chance to \"finish the story\"...",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0286181/"
+}

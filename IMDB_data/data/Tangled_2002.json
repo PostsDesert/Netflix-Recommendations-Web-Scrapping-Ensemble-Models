@@ -1,0 +1,61 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Chris Burns",
+            "url": "/name/nm1410191/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chris Pierce",
+            "url": "/name/nm1495301/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ambre Lake",
+            "url": "/name/nm0482118/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0186413/"
+        },
+        {
+            "@type": "Person",
+            "name": "Doug Peterson",
+            "url": "/name/nm1482868/"
+        }
+    ],
+    "datePublished": "2002-03-25",
+    "description": "Two rival comic book owners battle for a rare Amazing Spiderman #1, and end up on the same blind double-date.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robin Warren",
+            "url": "/name/nm0913016/"
+        }
+    ],
+    "duration": "PT20M",
+    "genre": [
+        "Short",
+        "Comedy"
+    ],
+    "keywords": "reference to spider man",
+    "name": "Tangled Web",
+    "original_info": {
+        "id": "Tangled_2002",
+        "name": "Tangled",
+        "year": "2002"
+    },
+    "url": "/title/tt0876288/"
+}

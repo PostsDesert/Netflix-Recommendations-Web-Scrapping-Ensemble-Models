@@ -1,0 +1,110 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kevin Bacon",
+            "url": "/name/nm0000102/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sean Astin",
+            "url": "/name/nm0000276/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jonathan Ward",
+            "url": "/name/nm0911644/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5653,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0082004/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0028942/"
+        },
+        {
+            "@type": "Person",
+            "name": "Manya Starr",
+            "url": "/name/nm0823551/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ernest Kinoy",
+            "url": "/name/nm0455852/"
+        }
+    ],
+    "datePublished": "1987-07-10",
+    "description": "The story of a shy boy who gets convinced by his parents to spend a few summer days in the mountains. So, he joins a group, and the vacation begins. Unfortunately, things turn out to be a little tough for our small friend.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jeff Bleckner",
+            "url": "/name/nm0088121/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Adventure",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjQzNDAzYjctZDAxZi00NGY3LWFjNzAtZTk2NmQwZTBhZWQ4XkEyXkFqcGdeQXVyMjY3MjUzNDk@._V1_.jpg",
+    "keywords": "wilderness,coming of age,summer,rescue,teenage boy",
+    "name": "White Water Summer",
+    "original_info": {
+        "id": "White Water Summer_1987",
+        "name": "White Water Summer",
+        "year": "1987"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bdunc295"
+        },
+        "dateCreated": "2011-02-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0094318/"
+        },
+        "name": "Not for everyone...",
+        "reviewBody": "This is a response to the reviewers questioning Vick's motives. \n\nAs a city boy who loves the outdoors, I totally understood where Kevin Bacon's character was coming from, though, he was clearly a nut-job for the most part. \n\nIn my experience, city boys (i.e. Sean Astin's character) cannot find value in the wilderness for the life of them, and obtaining a cellphone signal is their top priority at all times. This movie is about taking a break from our technology-infused world and getting back to the basics. The wilderness is a wonderful, rugged place that can really broaden anyone's perspective on life. It's about facing fears head-on and living to tell about it -- those are the experiences that you remember in life. \n\nI wish everyone would share these sentiments, as Vick probably does in this movie. But Vick's major fault is failing to realize that people cannot be forced to enjoy something that's unfamiliar and frightening to them. He feels he can get through to them but uses some extreme means and acts like a huge ass in the process.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M25S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3877617689",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjE1ODNiZTgtYzkyOC00MmUwLThhOTItN2ZjNDhhZDBkOTAwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjE1ODNiZTgtYzkyOC00MmUwLThhOTItN2ZjNDhhZDBkOTAwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-07-06T18:22:20.141Z",
+        "url": "https://www.imdb.com/video/vi3877617689/"
+    },
+    "url": "/title/tt0094318/"
+}

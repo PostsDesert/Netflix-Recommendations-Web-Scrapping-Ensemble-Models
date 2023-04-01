@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Robin Williams",
+            "url": "/name/nm0000245/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tim Robbins",
+            "url": "/name/nm0000209/"
+        },
+        {
+            "@type": "Person",
+            "name": "Pamela Reed",
+            "url": "/name/nm0715622/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 14864,
+        "ratingValue": 5.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Person",
+            "name": "Ken Friedman",
+            "url": "/name/nm0295271/"
+        }
+    ],
+    "datePublished": "1990-05-18",
+    "description": "Joey gets 2 days to sell 12 cars to keep his job and keep his girlfriends happy. It gets worse. He's juggling 3 buyers when a guy with a machine gun crashes into the car dealership and takes everybody hostage.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Roger Donaldson",
+            "url": "/name/nm0002044/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjk0NzQyODQ0OV5BMl5BanBnXkFtZTcwNzM2NjgyNA@@._V1_.jpg",
+    "keywords": "car salesman,hostage,suspicion of adultery,car dealership,machine gun",
+    "name": "Cadillac Man",
+    "original_info": {
+        "id": "Cadillac Man_1989",
+        "name": "Cadillac Man",
+        "year": "1989"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "AvgJoe-2"
+        },
+        "dateCreated": "2000-03-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0099204/"
+        },
+        "name": "An Underrated Thrill Ride",
+        "reviewBody": "Robin Williams gives yet another superb performance as an egotistical car salesman who is about to confront all of his demons (ex-wife, girlfriends, Mafia buddy) in one very long afternoon when Tim Robbins crashes into the door and holds him and the customers hostage. Incredibly funny, vividly life-like with an unpredictable ending. Not one to miss."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Orion Pictures",
+        "duration": "PT2M13S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3082551577",
+        "name": "Cadillac Man",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzdlN2FhNjEtNjEwOC00ZjE4LWI3N2EtOGFhYjIxNzIwZDFiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzdlN2FhNjEtNjEwOC00ZjE4LWI3N2EtOGFhYjIxNzIwZDFiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:58:52Z",
+        "url": "https://www.imdb.com/video/vi3082551577/"
+    },
+    "url": "/title/tt0099204/"
+}

@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Gillian Anderson",
+            "url": "/name/nm0000096/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ellen Burstyn",
+            "url": "/name/nm0000995/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sean Connery",
+            "url": "/name/nm0000125/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 19826,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005875/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0040675/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0022594/"
+        },
+        {
+            "@type": "Person",
+            "name": "Willard Carroll",
+            "url": "/name/nm0141033/"
+        }
+    ],
+    "datePublished": "1999-01-22",
+    "description": "Eleven articulate people work through affairs of the heart in Los Angeles.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Willard Carroll",
+            "url": "/name/nm0141033/"
+        }
+    ],
+    "duration": "PT2H1M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTMxYmVmZTgtZjc5Yi00N2VmLThmNGUtOGNiM2QwODJmMzY2XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+    "keywords": "manhattan new york city,chicago illinois,los angeles california,one eyed animal,california",
+    "name": "Playing by Heart",
+    "original_info": {
+        "id": "Playing by Heart_1998",
+        "name": "Playing by Heart",
+        "year": "1998"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "planktonrules"
+        },
+        "dateCreated": "2021-08-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0145734/"
+        },
+        "name": "Far from perfect....but I liked it.",
+        "reviewBody": "As I watched \"Playing by Heart\", I found myself quite frustrated by the film. It consisted of many different stories about love...I felt too many. I sat there wishing the film had instead just focused on one...or perhaps two. After all, the stories were interesting and the acting quite formidable....but each story was interrupted repeatedly and each story was woven into a bigger tale. However, as the film progressed, I found myself not minding its structure...which was a lot like a later film, \"Love Actually\".\n\nInstead of discussing each of the love stories, I'd rather just say that each sucked me in...a few, more than others. And, the acting was exceptional...and had me on the verge of tears several times. Overall, it's a lovely film....and one I cannot understand how it received two thumbs down from Siskel and Ebert....that I just find confusing because there's so much to like here.\n\nBy the way, there was one thing I really did NOT like and that the DVD had no captions of any sort. It's a shame as I am a bit hard of hearing and really had to struggle to hear some of the dialog...particular at the night club sequences.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT26S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3790577177",
+        "name": "Playing By Heart",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMGM2ZDk3ZmUtNTUyYS00OTA3LTg1YjAtNzU2ODczMGJjYTdkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMGM2ZDk3ZmUtNTUyYS00OTA3LTg1YjAtNzU2ODczMGJjYTdkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-10-26T03:40:35Z",
+        "url": "https://www.imdb.com/video/vi3790577177/"
+    },
+    "url": "/title/tt0145734/"
+}

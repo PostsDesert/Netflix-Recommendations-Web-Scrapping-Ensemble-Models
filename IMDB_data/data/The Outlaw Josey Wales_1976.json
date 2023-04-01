@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Clint Eastwood",
+            "url": "/name/nm0000142/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sondra Locke",
+            "url": "/name/nm0516800/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chief Dan George",
+            "url": "/name/nm0313381/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 75826,
+        "ratingValue": 7.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0102264/"
+        },
+        {
+            "@type": "Person",
+            "name": "Forrest Carter",
+            "url": "/name/nm0141620/"
+        },
+        {
+            "@type": "Person",
+            "name": "Philip Kaufman",
+            "url": "/name/nm0442241/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sonia Chernus",
+            "url": "/name/nm0155963/"
+        }
+    ],
+    "datePublished": "1976-06-30",
+    "description": "Missouri farmer Josey Wales joins a Confederate guerrilla unit and winds up on the run from the Union soldiers who murdered his family.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Clint Eastwood",
+            "url": "/name/nm0000142/"
+        }
+    ],
+    "duration": "PT2H15M",
+    "genre": [
+        "Western"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIxNDYxMTk2MF5BMl5BanBnXkFtZTgwMjQxNjU3MTE@._V1_.jpg",
+    "keywords": "revenge,manhunt,on the run,revisionist western,missouri",
+    "name": "The Outlaw Josey Wales",
+    "original_info": {
+        "id": "The Outlaw Josey Wales_1976",
+        "name": "The Outlaw Josey Wales",
+        "year": "1976"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "virek213"
+        },
+        "dateCreated": "2007-01-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0075029/"
+        },
+        "name": "Among The Best Westerns Of The 1970s",
+        "reviewBody": "Even when matched up against his Oscar-winning 1992 film UNFORGIVEN, THE OUTLAW JOSEY WALES must rank as being among Clint Eastwood's finest turns both in front of and behind the camera. Having displayed a solid feel for the director's chair with 1971's PLAY MISTY FOR ME and 1973's HIGH PLAINS DRIFTER, Eastwood took the reins on JOSEY WALES when he and the original director Philip Kaufman, who still shared a co-write of the script (and had directed 1972's THE GREAT NORTHFIELD, MINNESOTA RAID), ran into some pretty strong disagreements. The end result was one of the best westerns of the 1970s, in critical, commercial, and artistic terms.\n\nEastwood's character is a farmer living out a quiet life in Missouri near the end of the Civil War who is forced to see his whole family and homestead wiped out by marauding \"Redlegs\" from Kansas. He joins up with a guerrilla band of Southerners to \"set things aright.\" But when the Union betrays those same guerrillas into surrendering and then promptly slaughters all of them, Eastwood takes violent revenge. He soon finds himself of the run at the reluctant hands of his former commander (John Vernon), and a determined Union man named Terrill (Bill McKinney, who played one of the sadistic mountain men in DELIVERANCE). As he heads towards Texas, he encounters a motley group of outcasts (Chief Dan George; Sondra Locke; Paula Trueman), and becomes less obsessed by violent revenge and more interested in helping, going for his guns only when McKinney's Union troop closes in, and bounty hunters come looking for him.\n\nIn contrast to the \"Man With No Name\" persona he codified with Sergio Leone in the 1960s, or the tough cop he personified in DIRTY HARRY, Eastwood's Josey Wales is a man of great courage and sympathy who becomes tired of all the violence he has had to see and to take part in. The vengeance motif is largely played out by the time the film is into its second half, and it only comes back towards the tail end for a brief moment. Those who have tagged Eastwood as a political reactionary, a John Wayne of our time, have certainly misjudged him, as even one viewing of THE OUTLAW JOSEY WALES will testify to. He is not interested in being tough for the sake of being tough; he just wants to survive, and he wants those he protects to be able to live in peace. That's why, although the film is unavoidably violent at times, it has a considerable humanity too, and why it remains one of Eastwood's finest films even to this day.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Watch the trailer for the western The Outlaw Josey Wales, starring Clint Eastwood. ",
+        "duration": "PT2M14S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1424268569",
+        "name": "The Outlaw Josey Wales: Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjY0MTZjYjItOGIxMS00ZDFjLTk2NzctMjQxZmQ4NTY4ZTRlXkEyXkFqcGdeQXRzdGFzaWVr._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjY0MTZjYjItOGIxMS00ZDFjLTk2NzctMjQxZmQ4NTY4ZTRlXkEyXkFqcGdeQXRzdGFzaWVr._V1_.jpg",
+        "uploadDate": "2011-03-31T13:25:39Z",
+        "url": "https://www.imdb.com/video/vi1424268569/"
+    },
+    "url": "/title/tt0075029/"
+}

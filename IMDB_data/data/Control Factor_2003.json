@@ -1,0 +1,84 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Adam Baldwin",
+            "url": "/name/nm0000284/"
+        },
+        {
+            "@type": "Person",
+            "name": "Elizabeth Berkley",
+            "url": "/name/nm0000924/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tony Todd",
+            "url": "/name/nm0865302/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1081,
+        "ratingValue": 5.1,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0086318/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Dombrow",
+            "url": "/name/nm1260469/"
+        }
+    ],
+    "datePublished": "2003-01-18",
+    "description": "An average everyman discovers he's the unwitting target of an ultra secret domestic black-op centering on mind control.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Nelson McCormick",
+            "url": "/name/nm1879589/"
+        }
+    ],
+    "duration": "PT1H24M",
+    "genre": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjExNjY3MDk0MV5BMl5BanBnXkFtZTcwMDM0OTYyMQ@@._V1_.jpg",
+    "keywords": "psychotronic weapon,blurry vision,targeted individual,targeted victim,sonic attack",
+    "name": "Control Factor",
+    "original_info": {
+        "id": "Control Factor_2003",
+        "name": "Control Factor",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "defcon_dude"
+        },
+        "dateCreated": "2003-01-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0330171/"
+        },
+        "name": "Freaky",
+        "reviewBody": "I guess I've always been a sucker for movies like the Matrix where everything's weird and you don't know what's going on. This seems to be an attempt at that and for the most part it works. I can't say I'm very familiar with Adam Baldwin (is he a Baldwin brother?) but he seemed to do a good job with his part. And I was surprised to see Elizabeth Berkeley actually get to act for a change and not just take off her clothes. I guess they didn't have a very big budget because it isn't really about action as much as figuring out what's going on. There's a nice twist about midway into it that caught me totally by surprise. Also an interesting ending that - gasp! - tries to say something.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0330171/"
+}

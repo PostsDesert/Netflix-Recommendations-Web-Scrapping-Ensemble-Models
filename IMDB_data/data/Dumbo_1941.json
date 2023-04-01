@@ -1,0 +1,123 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sterling Holloway",
+            "url": "/name/nm0001359/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edward Brophy",
+            "url": "/name/nm0112395/"
+        },
+        {
+            "@type": "Person",
+            "name": "Herman Bing",
+            "url": "/name/nm0082884/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 135421,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0074039/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0098836/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joe Grant",
+            "url": "/name/nm0335469/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dick Huemer",
+            "url": "/name/nm0400056/"
+        },
+        {
+            "@type": "Person",
+            "name": "Otto Englander",
+            "url": "/name/nm0257481/"
+        }
+    ],
+    "datePublished": "1941-10-31",
+    "description": "Ridiculed because of his enormous ears, a young circus elephant is assisted by a mouse to achieve his full potential.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Samuel Armstrong",
+            "url": "/name/nm0035899/"
+        },
+        {
+            "@type": "Person",
+            "name": "Norman Ferguson",
+            "url": "/name/nm0272568/"
+        },
+        {
+            "@type": "Person",
+            "name": "Wilfred Jackson",
+            "url": "/name/nm0414144/"
+        }
+    ],
+    "duration": "PT1H4M",
+    "genre": [
+        "Animation",
+        "Adventure",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU0NDcxMDA1MV5BMl5BanBnXkFtZTgwNzI0Njg0MTE@._V1_.jpg",
+    "keywords": "circus,elephant,stork,mother son relationship,florida",
+    "name": "Dumbo",
+    "original_info": {
+        "id": "Dumbo_1941",
+        "name": "Dumbo",
+        "year": "1941"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Rainey-Dawn"
+        },
+        "dateCreated": "2014-10-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0033563/"
+        },
+        "name": "A Warmhearted Film",
+        "reviewBody": "Dumbo is a good Walt Disney animated film classic that has a deeper story to tell than what is on the surface. To say that Dumbo \"is about an elephant with big ears in a circus\" is only the start of what Dumbo is about.\n\nA closer look at Dumbo - it's about having physical abnormalities and over coming the fear of others shunning or making fun of you because of it - the movie shows you can still 'shine' no matter what you look like. In this respect, Dumbo is similar to the films \"The Elephant Man\" or \"Roxanne\".\n\nThe saddest scene in the film, to me, was when Dumbo was ripped away from his mother Mrs. Jumbo. The most touching part of the film. Dumbo was very lucky to find a good friend: Timothy Q. Mouse. Dumbo and Timothy will steal the circus show! 8.5/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "CT #2",
+        "duration": "PT1M13S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3021380889",
+        "name": "Dumbo: 70th Anniversary Edition",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzE5OWVkNmQtMWJhYi00NmZjLWFiZmUtNTc4Zjc0NmViY2JlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzE5OWVkNmQtMWJhYi00NmZjLWFiZmUtNTc4Zjc0NmViY2JlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-05-02T03:13:44Z",
+        "url": "https://www.imdb.com/video/vi3021380889/"
+    },
+    "url": "/title/tt0033563/"
+}

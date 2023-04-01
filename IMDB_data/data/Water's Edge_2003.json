@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Nathan Fillion",
+            "url": "/name/nm0277213/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chandra West",
+            "url": "/name/nm0921979/"
+        },
+        {
+            "@type": "Person",
+            "name": "Emmanuelle Vaugier",
+            "url": "/name/nm0891275/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 709,
+        "ratingValue": 5.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0146656/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0010172/"
+        },
+        {
+            "@type": "Person",
+            "name": "Craig Brewer",
+            "url": "/name/nm0108132/"
+        }
+    ],
+    "datePublished": "2004-01-27",
+    "description": "A novelist and his wife uncover a vast web of sex, murder and deceit in their quiet hometown.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Harvey Kahn",
+            "url": "/name/nm0434838/"
+        }
+    ],
+    "duration": "PT1H41M",
+    "genre": [
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU5OTk3MzI2M15BMl5BanBnXkFtZTYwMjUzMDg5._V1_.jpg",
+    "keywords": "small town,woman wears a man's shirt,girl stripped down to panties,punctuation in title,apostrophe in title",
+    "name": "Water's Edge",
+    "original_info": {
+        "id": "Water's Edge_2003",
+        "name": "Water's Edge",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "gzerna"
+        },
+        "dateCreated": "2004-02-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0318181/"
+        },
+        "name": "Formulae thriller, just a cut above average",
+        "reviewBody": "\"Water's Edge\" screenwriter Craig Brewer wrote and directed the very low-budget, very compelling and brilliant \"The Poor and Hungry\", so that was all I really needed to know to put this picture at the top of my rental que. I'm a little disappointed. This is only a formulae thriller, perhaps just a cut above average, with decent casting and direction. I can see the Craig Brewer touch in the screenplay: relatively interesting characters, mostly believable plot considering the contrivances necessary for a formulae thriller, and good dialogue. I will still keep an eye on this remarkable talent for another unforgettable picture like his first. Some day. In the meantime I know you gotta pay the rent.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0318181/"
+}

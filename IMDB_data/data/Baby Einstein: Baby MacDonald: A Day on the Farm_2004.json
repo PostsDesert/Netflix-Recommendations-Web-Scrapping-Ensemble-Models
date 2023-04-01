@@ -1,0 +1,80 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Antionette Angeline",
+            "url": "/name/nm10939264/"
+        },
+        {
+            "@type": "Person",
+            "name": "Taylor St Baristas",
+            "url": "/name/nm4523973/"
+        },
+        {
+            "@type": "Person",
+            "name": "Trevor Bonfire",
+            "url": "/name/nm11508536/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 69,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0098775/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Janicek",
+            "url": "/name/nm1371018/"
+        },
+        {
+            "@type": "Person",
+            "name": "Len Marino",
+            "url": "/name/nm1373688/"
+        }
+    ],
+    "datePublished": "2004-03-25",
+    "description": "Learn food, animals, and other things on the farm.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jim Janicek",
+            "url": "/name/nm1371018/"
+        }
+    ],
+    "genre": [
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTYwMTIwNDE0M15BMl5BanBnXkFtZTcwNzUyNTQyMQ@@._V1_.jpg",
+    "keywords": "character name in title",
+    "name": "Baby Einstein: Baby MacDonald",
+    "original_info": {
+        "id": "Baby Einstein: Baby MacDonald: A Day on the Farm_2004",
+        "name": "Baby Einstein: Baby MacDonald: A Day on the Farm",
+        "year": "2004"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Clip: Old Mcdonald Song - 1:37",
+        "duration": "PT1M37S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1682113561",
+        "name": "Baby Einstein: Baby McDonald",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDk5ODczNzAtZTg1Ny00OGU1LTk4YjUtZTA1Mzc4ZTUxNzA5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDk5ODczNzAtZTg1Ny00OGU1LTk4YjUtZTA1Mzc4ZTUxNzA5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-03-28T03:05:54Z",
+        "url": "https://www.imdb.com/video/vi1682113561/"
+    },
+    "url": "/title/tt0406552/"
+}

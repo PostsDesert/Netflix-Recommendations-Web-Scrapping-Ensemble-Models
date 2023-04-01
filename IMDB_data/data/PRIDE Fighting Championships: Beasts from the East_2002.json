@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Paulo Filho",
+            "url": "/name/nm3215993/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ryan Gracie",
+            "url": "/name/nm2906803/"
+        },
+        {
+            "@type": "Person",
+            "name": "Heath Herring",
+            "url": "/name/nm2542765/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0316803/"
+        }
+    ],
+    "datePublished": "2002-09-29",
+    "genre": [
+        "Sport"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZWIxMDY2MGYtZTA3Ni00NTA4LWJjZDItYTg5NzM3ZjZlMWY4XkEyXkFqcGdeQXVyODg1MTc3MTM@._V1_.jpg",
+    "keywords": "tv special,mixed martial arts,pride fighting championship",
+    "name": "Pride 22: Beasts from the East 2",
+    "original_info": {
+        "id": "PRIDE Fighting Championships: Beasts from the East_2002",
+        "name": "PRIDE Fighting Championships: Beasts from the East",
+        "year": "2002"
+    },
+    "url": "/title/tt3597368/"
+}

@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jeremy Davies",
+            "url": "/name/nm0001111/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ben Affleck",
+            "url": "/name/nm0000255/"
+        },
+        {
+            "@type": "Person",
+            "name": "Amy Locane",
+            "url": "/name/nm0000504/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2022,
+        "ratingValue": 5.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005323/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0030612/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dan Wakefield",
+            "url": "/name/nm0906764/"
+        }
+    ],
+    "datePublished": "1997-09-19",
+    "description": "After returning home from the Korean War, two young men search for love and fulfillment in middle America.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mark Pellington",
+            "url": "/name/nm0671210/"
+        }
+    ],
+    "duration": "PT1H43M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNWMwOWI1MDItZTQzNS00ODk1LTgyNDItMzQwYmUyYjNlYzUzXkEyXkFqcGdeQXVyMjQ0NzcxNjM@._V1_.jpg",
+    "keywords": "attempted suicide,lust,female frontal nudity,nipples,female removes her clothes",
+    "name": "Going All the Way",
+    "original_info": {
+        "id": "Going All the Way_1997",
+        "name": "Going All the Way",
+        "year": "1997"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "PredragReviews"
+        },
+        "dateCreated": "2016-06-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0119209/"
+        },
+        "name": "Very Insightful",
+        "reviewBody": "\"Going All the Way\" is a touching story about learning to let go, coming to terms with yourself, love, and the power of friendship between two young men whose relationship \"is the core of the movie,\" says MTV Award-winning music video director Mark Pellington, whose debut film shows that he clearly knows what he's doing, and that his talents can be set on more than one profession. Pellington tackles the challenge of presenting two authentic young men who we can relate to, and passes with flying colors.\n\nAside from the catchy oldies tunes, I really enjoyed the dialogue the two young men shared with one another, which was as absorbing as it is true. Among all, one in particular comes to mind, where Gunner was trying to prove a point that \"peach pie is fine, but that's all you get? I mean, morning, noon, and night, peach pie? Breakfast, lunch, dinner, peach pie. Peach pie, day in, day out. Day in, peach pie.\" Jeremy and Ben were terrific together. As improbable a coalition as their character's had, I thought that they, nonetheless, had perfect chemistry together, and were very enjoyable to watch.\n\nOverall rating: 7 out of 10.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "After returning home from the Korean War, two young men search for love and fulfillment in middle America.",
+        "duration": "PT2M9S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1126613785",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BM2I4YzNmY2MtZjQ2Zi00ZGQwLWIyOTEtZmE4YWMyODIwOWVmXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BM2I4YzNmY2MtZjQ2Zi00ZGQwLWIyOTEtZmE4YWMyODIwOWVmXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2022-01-13T20:24:11.549Z",
+        "url": "https://www.imdb.com/video/vi1126613785/"
+    },
+    "url": "/title/tt0119209/"
+}

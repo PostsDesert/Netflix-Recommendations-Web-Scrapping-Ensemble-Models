@@ -1,0 +1,49 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVEpisode",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 17,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0064986/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0192140/"
+        },
+        {
+            "@type": "Person",
+            "name": "Raymond R. Stuart",
+            "url": "/name/nm3882774/"
+        }
+    ],
+    "description": "A brief biography of actress Judy Garland.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Joseph R. Juliano",
+            "url": "/name/nm0432238/"
+        }
+    ],
+    "duration": "PT4M",
+    "genre": [
+        "Documentary",
+        "Biography"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BN2I1NjViOTEtOWNhMC00YmY3LTk5NzctNWViYmM5MTJlMzdkXkEyXkFqcGdeQXVyMjY1Mjc0MQ@@._V1_.jpg",
+    "keywords": "singing,all american girl,star,song,actress",
+    "name": "Judy Garland",
+    "original_info": {
+        "id": "Judy_1962",
+        "name": "Judy",
+        "year": "1962"
+    },
+    "timeRequired": "PT4M",
+    "url": "/title/tt1299831/"
+}

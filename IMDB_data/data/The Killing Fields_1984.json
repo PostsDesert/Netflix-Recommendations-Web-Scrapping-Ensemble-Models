@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sam Waterston",
+            "url": "/name/nm0001832/"
+        },
+        {
+            "@type": "Person",
+            "name": "Haing S. Ngor",
+            "url": "/name/nm0628955/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Malkovich",
+            "url": "/name/nm0000518/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 56837,
+        "ratingValue": 7.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0045569/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0024716/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0103613/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bruce Robinson",
+            "url": "/name/nm0732430/"
+        }
+    ],
+    "datePublished": "1985-02-01",
+    "description": "A journalist is trapped in Cambodia during tyrant Pol Pot's bloody 'Year Zero' cleansing campaign, which claimed the lives of two million 'undesirable' civilians.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Roland Joffé",
+            "url": "/name/nm0423646/"
+        }
+    ],
+    "duration": "PT2H21M",
+    "genre": [
+        "Biography",
+        "Drama",
+        "History"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTMxYjBjOTktYWY5OC00NmYwLWE2NTctYzlkMTFkODYxMzRkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "khmer rouge,cambodia,escape attempt,genocide,prison camp",
+    "name": "The Killing Fields",
+    "original_info": {
+        "id": "The Killing Fields_1984",
+        "name": "The Killing Fields",
+        "year": "1984"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "shanfloyd"
+        },
+        "dateCreated": "2003-01-22",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0087553/"
+        },
+        "name": "Joffe's best work to date",
+        "reviewBody": "Based on the Khmer Rouge revolution in Cambodia, this is an excellent tale of hardship and friendship. Basically director Roland Joffe` did an wonderful job in exposing the detailed facts so simply in the film that you believe that you are in that time in person. The two actors, Sam Waterson and Haing Ngor both displayed godlike pieces of acting. It's unfortunate Waterson couldn't join Ngor in Academy Awards. In addition, the director's credit is to highlight both the characters' points of view. That's why the movie became so interesting to watch. John Malkovich brought out a fine performance as a photographer. \n\nIn the course of the story of adventures of the two men, the film also has vivid descriptions of the public life during the war. Several detailed scenes of war violence are presented here so indifferently that you are bound to be convinced about its historical accuracy. Here we find the magical cinematography of Chris Menges. Again, during the time of Dith Pran's suffering, it never seemed that the director is showing too much.\n\nOne of the most important, and my favorite, aspects of the film is its ending. You cannot imagine of a better alternative of this happiest ending possible in a war drama. And with the fantastic use of Lennon's \"imagine\", it has got to an enormous height of perfection. 5/5.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Lionsgate",
+        "duration": "PT2M27S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4294181145",
+        "name": "The Killing Fields",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTU1NDQxMWItZjZlNS00MWI5LWIzYWQtZTc0Y2Y5ZTEzOTIxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTU1NDQxMWItZjZlNS00MWI5LWIzYWQtZTc0Y2Y5ZTEzOTIxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:50:55Z",
+        "url": "https://www.imdb.com/video/vi4294181145/"
+    },
+    "url": "/title/tt0087553/"
+}

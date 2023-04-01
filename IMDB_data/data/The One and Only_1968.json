@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Walter Brennan",
+            "url": "/name/nm0000974/"
+        },
+        {
+            "@type": "Person",
+            "name": "Buddy Ebsen",
+            "url": "/name/nm0001171/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lesley Ann Warren",
+            "url": "/name/nm0000690/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 982,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "Passed",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0098836/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lowell S. Hawley",
+            "url": "/name/nm0370328/"
+        },
+        {
+            "@type": "Person",
+            "name": "Laura Bower Van Nuys",
+            "url": "/name/nm0887613/"
+        }
+    ],
+    "datePublished": "1969-04-25",
+    "description": "The eleven members of the Bower family move to Dakota Territory.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael O'Herlihy",
+            "url": "/name/nm0641400/"
+        }
+    ],
+    "duration": "PT1H50M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMmQ3YTJiNTMtODc2Mi00OWIxLTllYzEtYjhhNjg3OWI0Njk0XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
+    "keywords": "based on memoir,schoolteacher,slimehouse,band,electoral college",
+    "name": "The One and Only, Genuine, Original Family Band",
+    "original_info": {
+        "id": "The One and Only_1968",
+        "name": "The One and Only",
+        "year": "1968"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "r96sk"
+        },
+        "dateCreated": "2021-01-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0063389/"
+        },
+        "name": "Close to being a good watch",
+        "reviewBody": "Close to being a good watch, but ends up being more boring than entertaining for me.\n\n'The One and Only, Genuine, Original Family Band' has positives and negatives. I mostly enjoyed Walter Brennan and Buddy Ebsen in their roles, while Lesley Ann Warren is likeable too. A young Kurt Russell and future wife Goldie Hawn are in there, also. Some of the songs, meanwhile, are catchy.\n\nHowever, my main negatives are the plot and the pacing. The story isn't that interesting and is more political than I was expecting; that's not a bad thing in itself, but it just turns into a shouting match towards the end - realistic I guess, given politics, but as a film it's not enjoyable to see unfold. They could've shaved 20mins off the run time, as well.\n\nAs noted, I did almost like this. It's the ending which kinda cemented it into the rating I've given. It isn't a bad film overall, mind.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "The eleven members of the Bower family move to Dakota Territory.",
+        "duration": "PT1M36S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3834299161",
+        "name": "Teaser Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTczZjdiOTAtODRlNS00YzE5LWJiY2EtMWZmZTJjMmMxNTNiXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTczZjdiOTAtODRlNS00YzE5LWJiY2EtMWZmZTJjMmMxNTNiXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-10-24T22:41:17.912Z",
+        "url": "https://www.imdb.com/video/vi3834299161/"
+    },
+    "url": "/title/tt0063389/"
+}

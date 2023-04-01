@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "William H. Calvin",
+            "url": "/name/nm2523349/"
+        },
+        {
+            "@type": "Person",
+            "name": "Luigi Luca Cavalli-Sforza",
+            "url": "/name/nm3746251/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nina Jablonski",
+            "url": "/name/nm2723930/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 236,
+        "ratingValue": 7.9,
+        "worstRating": 1
+    },
+    "datePublished": "2003-01-21",
+    "description": "Traces the expansion of the human race from central Africa to Asia to the edge of South America.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Clive Maltby",
+            "url": "/name/nm0540761/"
+        }
+    ],
+    "duration": "PT2H",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BY2NiMGVlMjctMmFhZS00MzgyLTk3YTMtMThmMGE4M2U0YzlmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzExNjEzOTU@._V1_.jpg",
+    "keywords": "race,village,tribe,train,tent",
+    "name": "Journey of Man",
+    "original_info": {
+        "id": "Journey of Man_2003",
+        "name": "Journey of Man",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "OnlyRocknRoll"
+        },
+        "dateCreated": "2009-07-31",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0780543/"
+        },
+        "name": "Should be required viewing in schools",
+        "reviewBody": "One of the best anthropological documentaries that I have ever seen. Hopefully, it will make a dent in the plague of racism.\n\nIt's amazing how resistant contemporary humans are to the knowledge that no matter how different they think they look from each other, they are in fact ALL RELATED. Ideology is, indeed, still the last part of a culture to change.\n\nI don't really have any criticism, but I wish Dr. Wells had included the relationship between the various Oceanic groups to Australia, New Zealand, and South Asia.\n\nThe book is a bit tougher going unless you're an academic. But the video is suitable for everyone.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0780543/"
+}

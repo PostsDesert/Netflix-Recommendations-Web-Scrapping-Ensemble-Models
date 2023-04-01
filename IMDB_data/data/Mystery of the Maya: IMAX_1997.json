@@ -1,0 +1,54 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Anna Anderson",
+            "url": "/name/nm1521074/"
+        },
+        {
+            "@type": "Person",
+            "name": "Maggie Briton",
+            "url": "/name/nm4542821/"
+        },
+        {
+            "@type": "Person",
+            "name": "Grand Duchess Anastasia",
+            "url": "/name/nm0334733/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 12,
+        "ratingValue": 8.6,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Person",
+            "name": "Peter Kurth",
+            "url": "/name/nm4542032/"
+        }
+    ],
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Victoria Lewis",
+            "url": "/name/nm0507858/"
+        }
+    ],
+    "duration": "PT1H18M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY1MzQ5NDU3MF5BMl5BanBnXkFtZTcwODY3ODYxMQ@@._V1_.jpg",
+    "name": "Mystery of the Last Tsar",
+    "original_info": {
+        "id": "Mystery of the Maya: IMAX_1997",
+        "name": "Mystery of the Maya: IMAX",
+        "year": "1997"
+    },
+    "url": "/title/tt0119745/"
+}

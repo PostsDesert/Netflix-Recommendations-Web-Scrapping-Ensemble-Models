@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jeremy Davies",
+            "url": "/name/nm0001111/"
+        },
+        {
+            "@type": "Person",
+            "name": "Milla Jovovich",
+            "url": "/name/nm0000170/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mel Gibson",
+            "url": "/name/nm0000154/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 21906,
+        "ratingValue": 5.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000700/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0004925/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0055424/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nicholas Klein",
+            "url": "/name/nm0458911/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bono",
+            "url": "/name/nm0095104/"
+        }
+    ],
+    "datePublished": "2000-02-10",
+    "description": "Tragi-comic, romantic whodunnit set in a run down hotel which plays host to mentally ill people too poor to afford medical insurance.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Wim Wenders",
+            "url": "/name/nm0000694/"
+        }
+    ],
+    "duration": "PT2H2M",
+    "genre": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDQ2MGUwYjYtODFiNy00OTViLWJhOTgtZWNmM2I2MDRmMzQ1XkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_.jpg",
+    "keywords": "hotel,murder,suicide,painting,detective",
+    "name": "The Million Dollar Hotel",
+    "original_info": {
+        "id": "The Million Dollar Hotel_2001",
+        "name": "The Million Dollar Hotel",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "andre-71"
+        },
+        "dateCreated": "2000-07-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120753/"
+        },
+        "name": "If seen without any expectation, it might be a nice surprise!",
+        "reviewBody": "I avoided this film, because of the bad criticism it got in the newspapers. But then I decided to see it at a low price cinema. And I thought, it wasn't all that bad as the critics said. I admit that one has to be in the right mood for this film, and I might alter my judgment, if I saw it a second time. But this time, I enjoyed the way it showed me how colorful life can be, even if it is a difficult and not generally admired one. Each well played character has a different story to tell, and one has to think a little about them. In the end, I took a lot of positive thoughts home. But you have to let yourself go, otherwise you will be disappointed.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0120753/"
+}

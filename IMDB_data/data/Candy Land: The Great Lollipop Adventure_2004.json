@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jane Mortifee",
+            "url": "/name/nm0083264/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alberto Ghisi",
+            "url": "/name/nm1900228/"
+        },
+        {
+            "@type": "Person",
+            "name": "Britt McKillip",
+            "url": "/name/nm0571741/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 132,
+        "ratingValue": 5.7,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0130376/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0107189/"
+        },
+        {
+            "@type": "Person",
+            "name": "Janna King",
+            "url": "/name/nm1563086/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jymn Magon",
+            "url": "/name/nm0536440/"
+        }
+    ],
+    "description": "This is the story of the game \"Candy Land,\" where gingerbread boy Jib, Princess Lolly and Mister Mint outwit and defeat the evil Lord Licorice in order to save the delightful world of Candy Land.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Davis Doi",
+            "url": "/name/nm0230669/"
+        }
+    ],
+    "duration": "PT55M",
+    "genre": [
+        "Animation",
+        "Adventure",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAwNjM1MjU5NF5BMl5BanBnXkFtZTcwMTk5OTcyMQ@@._V1_.jpg",
+    "keywords": "based on board game,candy land the board game",
+    "name": "Candy Land: The Great Lollipop Adventure",
+    "original_info": {
+        "id": "Candy Land: The Great Lollipop Adventure_2004",
+        "name": "Candy Land: The Great Lollipop Adventure",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "BreanneB"
+        },
+        "dateCreated": "2005-09-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0429732/"
+        },
+        "name": "Excellent Movie!",
+        "reviewBody": "I love this movie, it is excellent. I have my own D.V.D. of it. I love everything about it: acting, directing, script, production, photography and the lessons therein. I love every single character, with the exception of Lord Licorice. There are many important lessons in this movie such as: Being on time.\n\nHelping others when they are in need.\n\nBeing kind and friendly.\n\nDoing what is expected of you.\n\nBeing responsible.\n\nI have the game and a puzzle of it as well. This was a great idea for a movie. Destined to be a classic. Kudos to the cast, crew and filmmakers. Two Thumbs Way Up!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Paramount Home Entertainment",
+        "duration": "PT53S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3401318681",
+        "name": "Candy Land: The Great Lollipop Adventure",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BN2M5ZjdmYTAtMDVhMC00NjYzLTgwMTgtZmVhMzEyNDM4NWI2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BN2M5ZjdmYTAtMDVhMC00NjYzLTgwMTgtZmVhMzEyNDM4NWI2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:00:14Z",
+        "url": "https://www.imdb.com/video/vi3401318681/"
+    },
+    "url": "/title/tt0429732/"
+}

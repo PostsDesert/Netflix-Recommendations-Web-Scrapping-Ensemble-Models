@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Judi Dench",
+            "url": "/name/nm0001132/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Broadbent",
+            "url": "/name/nm0000980/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kate Winslet",
+            "url": "/name/nm0000701/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 18642,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0043107/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0307593/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0010183/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Bayley",
+            "url": "/name/nm1093684/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Eyre",
+            "url": "/name/nm0264236/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Wood",
+            "url": "/name/nm0939606/"
+        }
+    ],
+    "datePublished": "2002-03-29",
+    "description": "True story of the lifelong romance between novelist Iris Murdoch and her husband John Bayley, from their student days through her battle with Alzheimer's disease.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Richard Eyre",
+            "url": "/name/nm0264236/"
+        }
+    ],
+    "duration": "PT1H31M",
+    "genre": [
+        "Biography",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTM1MDQwNmEtZDgzMS00YTdmLWI0MjEtOTJlMDE4ZmU2ZGEyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "alzheimer's disease,writer,skinny dipping,female pubic hair,woman on top",
+    "name": "Iris",
+    "original_info": {
+        "id": "Iris_2001",
+        "name": "Iris",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "olschic"
+        },
+        "dateCreated": "2002-03-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0280778/"
+        },
+        "name": "A brilliant film",
+        "reviewBody": "Judi Dench's performance as Dame Iris Murdoch was not only flawless, pitch-perfect, and deeply moving, but it was also the performance of a lifetime. The Academy was ridiculous in overlooking her lost gazes, her subtle inflections in voice, her trembling hands, her puzzled mouth. Kate Winslet lost herself inside the young Iris, developing an entirely new set of facial expressions and voice tones. The movie accurately captures the intense passion for life and love that John Bayley describes in his novel, \"Elegy For Iris.\" Altogether, a brilliant film, concise, humurous, terribly sad--and enhanced by four brilliant performances."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT1M15S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1877974553",
+        "name": "Iris (2001)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzQ5ZTcxOWUtNjhhOC00NTJiLTljZDQtZjVjMGIzMGQxZjVlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzQ5ZTcxOWUtNjhhOC00NTJiLTljZDQtZjVjMGIzMGQxZjVlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-10-26T03:28:49Z",
+        "url": "https://www.imdb.com/video/vi1877974553/"
+    },
+    "url": "/title/tt0280778/"
+}

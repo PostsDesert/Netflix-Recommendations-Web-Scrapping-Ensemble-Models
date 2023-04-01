@@ -1,0 +1,117 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Susan Sarandon",
+            "url": "/name/nm0000215/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tommy Lee Jones",
+            "url": "/name/nm0000169/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brad Renfro",
+            "url": "/name/nm0000605/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 69432,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0007127/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0021159/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Grisham",
+            "url": "/name/nm0001300/"
+        },
+        {
+            "@type": "Person",
+            "name": "Akiva Goldsman",
+            "url": "/name/nm0326040/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Getchell",
+            "url": "/name/nm0315205/"
+        }
+    ],
+    "datePublished": "1994-07-20",
+    "description": "A young boy who witnessed the suicide of a mafia lawyer hires an attorney to protect him when the District Attorney tries to use him to take down a mob family.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Joel Schumacher",
+            "url": "/name/nm0001708/"
+        }
+    ],
+    "duration": "PT1H59M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNGY1NTU2NGUtMDNhZS00ZjE0LWE4ODItZWRmZTkwYjYwMTQ0XkEyXkFqcGdeQXVyMTEwNDU1MzEy._V1_.jpg",
+    "keywords": "boy,district attorney,reference to led zeppelin,lawyer client relationship,female lawyer",
+    "name": "The Client",
+    "original_info": {
+        "id": "The Client_1994",
+        "name": "The Client",
+        "year": "1994"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bbewnylorac"
+        },
+        "dateCreated": "2020-06-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0109446/"
+        },
+        "name": "A great film",
+        "reviewBody": "It's heavy on dialogue but The Client has an excellent plot - a trailer park boy witnesses a terrible incident involving gangsters and, while on the run from them, chooses a struggling recovering alcoholic lawyer, a woman called Reggie Love, to represent him. As the boy, Mark Renfro is outstanding - focused, tough but vulnerable, and funny. I was sad to learn that Renfro died of substance abuse age 25 - he was really talented. As his down and out mother, Mary-Louise Parker tries hard - it's more her character and lines that are cliched. But the real stars are Susan Sarandon as the spirited lawyer Reggie Love who gets many knocks but gets back up again. And Tommy Lee Jones, as the lead detective, is just wonderful - smart and tough and a little devious in his attempts to get information oit of the kid. Like in The Fugitive, the police are actually harassing the witness and not the culprits. In this case, the witness is a child, whose rights Reggie ferociously fights for.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for The Client",
+        "duration": "PT1M57S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2308309273",
+        "name": "The Client",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjBlZGEzNTQtOGZlOS00NDY0LWFiMWEtMTI3NzE3ZjdlM2JlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjBlZGEzNTQtOGZlOS00NDY0LWFiMWEtMTI3NzE3ZjdlM2JlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:01:32Z",
+        "url": "https://www.imdb.com/video/vi2308309273/"
+    },
+    "url": "/title/tt0109446/"
+}

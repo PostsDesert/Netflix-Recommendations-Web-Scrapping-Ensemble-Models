@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ingrid Bergman",
+            "url": "/name/nm0000006/"
+        },
+        {
+            "@type": "Person",
+            "name": "Liv Ullmann",
+            "url": "/name/nm0880521/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lena Nyman",
+            "url": "/name/nm0638784/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 35539,
+        "ratingValue": 8.1,
+        "worstRating": 1
+    },
+    "alternateName": "Autumn Sonata",
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0064096/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0035661/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0103220/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ingmar Bergman",
+            "url": "/name/nm0000005/"
+        }
+    ],
+    "datePublished": "1978-10-18",
+    "description": "A devoted wife is visited by her mother, a successful concert pianist who had little time for her when she was young.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ingmar Bergman",
+            "url": "/name/nm0000005/"
+        }
+    ],
+    "duration": "PT1H39M",
+    "genre": [
+        "Drama",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzc0MTAwMzctMTM0MS00ZDA1LTkxOTItNTMyZjliYTc1NGM5XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "pianist,child neglect,dysfunctional family,marriage,mother daughter estrangement",
+    "name": "Höstsonaten",
+    "original_info": {
+        "id": "Autumn Sonata_1978",
+        "name": "Autumn Sonata",
+        "year": "1978"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ian_harris"
+        },
+        "dateCreated": "2003-01-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0077711/"
+        },
+        "name": "One of the very, very best",
+        "reviewBody": "This is one of the very best Ingmar Bergman films I have seen, and therefore one of the very best films.\n\nIngrid Bergman and Liv Ullman are simply amazing together as a mother and daughter combination from hell. Ingrid Bergman is terrific, despite a deliberately naff hairdo which makes her look like Queen Elizabeth II of the UK rather than the faded beauty she is. Liv Ullman also has visual nuances to enhance her character - the glasses, platted hair and jumpers enabling this beautiful woman to look frumpy.\n\nThe acting is simply amazing, even through the subtitles you can tell. Fortunately Scandinavian vocal nuance is similar enough to English to enable us non-Swedish speakers to appreciate the acting.\n\nOf course, it has the Ingmar Bergman darkness to it. The sister with the horrible degenerative disease, the drowned toddler, the selfishness of the Ingrid Bergman character. If you get depressed along with the characters in films like this, you might be better off giving this one a miss.\n\nBut for those with a taste for this type of claustrophobic drama, this is one of the most powerful films you will ever see.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A devoted wife is visited by her mother, a successful concert pianist who had little time for her when she was young.",
+        "duration": "PT1M5S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4069245721",
+        "name": "Teaser Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BM2ZhZGU1NDctY2MyZS00NTY1LTgxOGYtZTg3MDkyMDhlMjZjXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BM2ZhZGU1NDctY2MyZS00NTY1LTgxOGYtZTg3MDkyMDhlMjZjXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-10-25T20:24:21.635Z",
+        "url": "https://www.imdb.com/video/vi4069245721/"
+    },
+    "url": "/title/tt0077711/"
+}
