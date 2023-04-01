@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jodi Benson",
+            "url": "/name/nm0072533/"
+        },
+        {
+            "@type": "Person",
+            "name": "Linda Larkin",
+            "url": "/name/nm0488306/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Moseley",
+            "url": "/name/nm0609137/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 41,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "datePublished": "2005-02-15",
+    "duration": "PT1H42M",
+    "genre": [
+        "Animation"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI4MzUxMTc1Nl5BMl5BanBnXkFtZTcwOTk2MjcyMQ@@._V1_.jpg",
+    "name": "Disney Princess Party: Volume Two",
+    "original_info": {
+        "id": "Disney Princess Party: Vol. 2: The Ultimate Princess Pajama Jam!_2005",
+        "name": "Disney Princess Party: Vol. 2: The Ultimate Princess Pajama Jam!",
+        "year": "2005"
+    },
+    "url": "/title/tt0443739/"
+}

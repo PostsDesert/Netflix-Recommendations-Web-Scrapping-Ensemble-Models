@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Charles Chaplin",
+            "url": "/name/nm0000122/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paulette Goddard",
+            "url": "/name/nm0002104/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jack Oakie",
+            "url": "/name/nm0642988/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 227226,
+        "ratingValue": 8.4,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0028083/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Chaplin",
+            "url": "/name/nm0000122/"
+        }
+    ],
+    "datePublished": "1941-03-07",
+    "description": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Charles Chaplin",
+            "url": "/name/nm0000122/"
+        }
+    ],
+    "duration": "PT2H5M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "keywords": "dictator,invented language,1910s,slapstick comedy,adolf hitler character",
+    "name": "The Great Dictator",
+    "original_info": {
+        "id": "The Great Dictator_1940",
+        "name": "The Great Dictator",
+        "year": "1940"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Val-22"
+        },
+        "dateCreated": "1999-01-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0032553/"
+        },
+        "name": "Credit where it's due",
+        "reviewBody": "Aside from giving this film its proper socio-historical credit as one of only 2 U.S films which condemned Hitler, Naziism and the Holocaust prior to U.S. involvement in WWII, it's a great time as well. Much of the humor remains visual, and some of the funniest (and most famous) scenes are done in the silent mode (e.g. the globe). Although a bit more lacking in continuity and editing than many of Chaplin's earlier films, to do it credit simply as a passable first effort at a new medium is to damn it with faint praise. It's unique. No serious student of film can neglect to see and appreciate The Great Dictator as a classic amalgam of film talents."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Three Reasons Criterion Trailer for The Great Dictator",
+        "duration": "PT1M32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3851590681",
+        "name": "The Great Dictator: The Criterion Collection",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzFmNDRjZjAtN2M4NS00NGNmLTkxZTItZGE4Mzc2YWI5Y2U0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzFmNDRjZjAtN2M4NS00NGNmLTkxZTItZGE4Mzc2YWI5Y2U0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-06-22T03:40:12Z",
+        "url": "https://www.imdb.com/video/vi3851590681/"
+    },
+    "url": "/title/tt0032553/"
+}

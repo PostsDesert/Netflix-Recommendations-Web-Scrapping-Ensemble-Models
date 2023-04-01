@@ -1,0 +1,94 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Wendy Crewson",
+            "url": "/name/nm0187724/"
+        },
+        {
+            "@type": "Person",
+            "name": "Patrick Bergin",
+            "url": "/name/nm0000920/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Outerbridge",
+            "url": "/name/nm0653660/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 365,
+        "ratingValue": 3.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Person",
+            "name": "Paul A. Birkett",
+            "url": "/name/nm0083590/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mike Rohl",
+            "url": "/name/nm0737517/"
+        }
+    ],
+    "datePublished": "2002-10-14",
+    "description": "A psychotic spaceman takes over a deep-space observatory manned by a scientist, his wife, and teenage daughter.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Lloyd A. Simandl",
+            "url": "/name/nm0799302/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjQ1ODY1NjM3OF5BMl5BanBnXkFtZTcwOTgwNTgyMQ@@._V1_.jpg",
+    "keywords": "euro trash,z movie,trash movie,czechploitation,independent film",
+    "name": "Escape Velocity",
+    "original_info": {
+        "id": "Escape Velocity_1998",
+        "name": "Escape Velocity",
+        "year": "1998"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "reinhard_borchardt"
+        },
+        "dateCreated": "2000-04-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0176700/"
+        },
+        "name": "woof!",
+        "reviewBody": "This movie was poor. And that's being kind. Predictable plot obviously written for mass consumption by a passive suburbanite audience forever looking for that happy ending. Sounds familiar. Please. The story was disconnected without any shred of creativity. It wasn't so much that the actors were bad as they had nothing to work with. They sure didn't seem convincing. Stay away from this dog."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from York Entertainment",
+        "duration": "PT3M30S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2275737881",
+        "name": "Escape Velocity",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNGM1YzNlYmYtNzBkYy00ZWY1LTkwYzQtNGQ0ZDMwN2VkOGQ5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNGM1YzNlYmYtNzBkYy00ZWY1LTkwYzQtNGQ0ZDMwN2VkOGQ5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:01:56Z",
+        "url": "https://www.imdb.com/video/vi2275737881/"
+    },
+    "url": "/title/tt0176700/"
+}

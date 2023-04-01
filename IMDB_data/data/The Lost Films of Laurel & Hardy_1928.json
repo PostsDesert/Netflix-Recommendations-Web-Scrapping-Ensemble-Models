@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Charlie Hunnam",
+            "url": "/name/nm0402271/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Pattinson",
+            "url": "/name/nm1500155/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sienna Miller",
+            "url": "/name/nm1092227/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 93890,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0020521/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0379354/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0535275/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Gray",
+            "url": "/name/nm0336695/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Grann",
+            "url": "/name/nm2970418/"
+        }
+    ],
+    "datePublished": "2017-04-21",
+    "description": "A true-life drama, centering on British explorer Major Percival Fawcett, who disappeared whilst searching for a mysterious city in the Amazon in the 1920s.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "James Gray",
+            "url": "/name/nm0336695/"
+        }
+    ],
+    "duration": "PT2H21M",
+    "genre": [
+        "Adventure",
+        "Biography",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjAyN2QxOTItOGQ0YS00NmQxLWIxMjEtMDdkZmY0NDU5OWUzXkEyXkFqcGdeQXVyMTk1MDM0OTc@._V1_.jpg",
+    "keywords": "jungle,amazonia,based on true story,based on book,explorer",
+    "name": "The Lost City of Z",
+    "original_info": {
+        "id": "The Lost Films of Laurel & Hardy_1928",
+        "name": "The Lost Films of Laurel & Hardy",
+        "year": "1928"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "rcarlsen-31328"
+        },
+        "dateCreated": "2017-06-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt1212428/"
+        },
+        "name": "Could have been great",
+        "reviewBody": "I was so hyped for this movie after I read the book. What a let down , this should have been a throwback to the the classic Hollywood epics of the past. Instead it's kind of a bore, scenes set in jungle are amazing but there are too many slow drawn out parts that deal with drama back in civilization. \n\nThe acting by Hunnam is mediocre at best, Sienna Miller gives a great performance too bad she's not in more of the movie. \n\nOverall it's not horrible but it's also just average"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Based on David Grann's best-selling book of the same name, The Lost City of Z is the true-life drama which centers on British explorer Col. Percival Fawcett, who disappeared while searching for a mysterious city in the Amazon in the 1920s.",
+        "duration": "PT2M33S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2198189593",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzJmNDY4MjYtYmE0MC00NTNkLWE0YjQtOWY2ZDJhNTEzMWUwXkEyXkFqcGdeQXVyNTU4NjY5MzM@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzJmNDY4MjYtYmE0MC00NTNkLWE0YjQtOWY2ZDJhNTEzMWUwXkEyXkFqcGdeQXVyNTU4NjY5MzM@._V1_.jpg",
+        "uploadDate": "2017-02-03T23:48:03Z",
+        "url": "https://www.imdb.com/video/vi2198189593/"
+    },
+    "url": "/title/tt1212428/"
+}

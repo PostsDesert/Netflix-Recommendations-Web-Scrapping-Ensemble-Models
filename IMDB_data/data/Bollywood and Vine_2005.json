@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Skye Aubrey",
+            "url": "/name/nm0041420/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jamey Schrick",
+            "url": "/name/nm1312198/"
+        },
+        {
+            "@type": "Person",
+            "name": "J.R. Jones",
+            "url": "/name/nm1312030/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 133,
+        "ratingValue": 4.3,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0017377/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edward Jordon",
+            "url": "/name/nm0430261/"
+        }
+    ],
+    "datePublished": "2005-10-25",
+    "description": "An Indian tour bus driver in Hollywood gets more than he bargained for when he writes a comeback vehicle for his idol, reclusive actress Delilah Leigh.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Donald Farmer",
+            "url": "/name/nm0267740/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edward Jordon",
+            "url": "/name/nm0430261/"
+        }
+    ],
+    "duration": "PT1H25M",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUyMjUyNzI2Ml5BMl5BanBnXkFtZTcwODIwNDQyMQ@@._V1_.jpg",
+    "keywords": "indian american,banjoist,cake,makeup,scream",
+    "name": "Bollywood and Vine",
+    "original_info": {
+        "id": "Bollywood and Vine_2005",
+        "name": "Bollywood and Vine",
+        "year": "2005"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "airhead_abmem"
+        },
+        "dateCreated": "2005-12-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0349155/"
+        },
+        "name": "Boy did I laugh",
+        "reviewBody": "Just a fun movie! Some lines in this one caused me to laugh so hard I thought that crying would come next. Enjoy it with some friends that appreciate a campy comedy. The cast does not seem to have a lot of \"previous experience\" under their belts and it is my understanding that some of them are the acting students of Skye Aubrey (who plays Delilah Leigh). Jamey Schrick (Bhuvan Bannerji) and J.R. Jones (Devin Leigh) have only this movie listed as credits despite having two of the major roles in the film. Both of their performances are quite good and they convincingly play the parts. So hop on the Bannerji Hollywood tour bus (aka a VW Microbus) and visit the hilarity.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A nosy neighbor, some outlandish situations, and a gay wedding and youÂ’ll find that anything can happen on Bollywood and Vine! Available on DVD from Ariztical.com.",
+        "duration": "PT1M16S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1646396185",
+        "name": "Bollywood and Vine",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTMzOTE3ODk2OV5BMl5BanBnXkFtZTcwNDg2ODEzMg@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTMzOTE3ODk2OV5BMl5BanBnXkFtZTcwNDg2ODEzMg@@._V1_.jpg",
+        "uploadDate": "2009-02-11T18:25:51Z",
+        "url": "https://www.imdb.com/video/vi1646396185/"
+    },
+    "url": "/title/tt0349155/"
+}

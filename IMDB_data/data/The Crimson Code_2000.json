@@ -1,0 +1,49 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 15,
+        "ratingValue": 4.5,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0076591/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0177321/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joseph Meier",
+            "url": "/name/nm1904365/"
+        }
+    ],
+    "datePublished": "2005-02-05",
+    "description": "\"The Da Vinci Code\", Dan Brown's best selling novel, has captivated the imagination of millions of readers. This provocative story, filled with what is purported to be rich historical background, has spurred an ever-expanding inte...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David Priest",
+            "url": "/name/nm1899865/"
+        }
+    ],
+    "duration": "PT1H3M",
+    "genre": [
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjkzMWFiYTMtMTU1Ny00MWQ1LTk5NGYtMTU0ZWZkYzYyMTNhXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+    "keywords": "year in title,20th century,2000s,family relationships,insight",
+    "name": "The Da Vinci Code Deception: Solving the 2000 Year Old Mystery",
+    "original_info": {
+        "id": "The Crimson Code_2000",
+        "name": "The Crimson Code",
+        "year": "2000"
+    },
+    "url": "/title/tt1206290/"
+}

@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Charlie Sheen",
+            "url": "/name/nm0000221/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tom Berenger",
+            "url": "/name/nm0000297/"
+        },
+        {
+            "@type": "Person",
+            "name": "Willem Dafoe",
+            "url": "/name/nm0000353/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 420720,
+        "ratingValue": 8.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0056805/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0779514/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0043707/"
+        },
+        {
+            "@type": "Person",
+            "name": "Oliver Stone",
+            "url": "/name/nm0000231/"
+        }
+    ],
+    "datePublished": "1987-02-06",
+    "description": "Chris Taylor, a neophyte recruit in Vietnam, finds himself caught in a battle of wills between two sergeants, one good and the other evil. A shrewd examination of the brutality of war and the duality of man in conflict.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Oliver Stone",
+            "url": "/name/nm0000231/"
+        }
+    ],
+    "duration": "PT2H",
+    "genre": [
+        "Drama",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzRjZjdlMjQtODVkYS00N2YzLWJlYWYtMGVlN2E5MWEwMWQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "vietnam war,gore,american war crimes,combat fatigue,tropics",
+    "name": "Platoon",
+    "original_info": {
+        "id": "Platoon_1986",
+        "name": "Platoon",
+        "year": "1986"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Theo Robertson"
+        },
+        "dateCreated": "2003-09-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0091763/"
+        },
+        "name": "One Of The Best Movies Of The 1980s",
+        "reviewBody": "The 1980s in general and the mid 1980s in particular aren't highly regarded where pop culture is concerned , this is most especially true in cinema where films seemed to be written around their soundtrack in much the same way as Hollywood movies nowadays seem to be written around their special effects . PLATOON is one of the very few films from that period that has an emotional impact , an impact that it still retains while watching it in 2003. \n\nEveryone else seems to have mentioned what makes PLATOON a classic anti-war ( Note it's anti-war , not anti American or anti soldier ) movie along with being a classic movie , so I won't go over old ground except to say THAT death scene is up there with all the other tear jerking scenes from 20th century cinema , don't be ashamed to say you cried \n\nIf PLATOON has a flaw it's in its duality , there's the good Sarge/bad Sarge , good officer/bad officer , good white guy/bad white guy , good black guy/bad black boy etc which is maybe a bit clichéd and possibly leads me to believe Stone is making an excuse/reason that the Americans lost in Vietnam because that spent so much fighting each other rather than the VC ( Though I do concede I'm possibly misinterpreting that as an excuse or even a reason since no one will confuse the politics of Stone with the politics of John Wayne ) while Taylor's character comes across as being more of a literary device rather than a real human being , but these are minor flaws\n\nIt's a shame to see war films from the last few years devoid of scathing anti-war sentiments like the ones seen here . PLATOON screams at you \" War is hell and whatever the rights and wrongs of conflict you need a bloody good reason to wage war . Vietnam wasn't a good enough reason to sacrifice human lives \"",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "30 second Trailer",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi212245529",
+        "name": "Platoon: Blu-ray Release",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMDAxOWViMmYtMmI2ZC00YTA0LWIxMzAtNjBmMjgzMTAxN2ViXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDAxOWViMmYtMmI2ZC00YTA0LWIxMzAtNjBmMjgzMTAxN2ViXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-06-16T03:26:42Z",
+        "url": "https://www.imdb.com/video/vi212245529/"
+    },
+    "url": "/title/tt0091763/"
+}

@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Charles Bronson",
+            "url": "/name/nm0000314/"
+        },
+        {
+            "@type": "Person",
+            "name": "Juan Fernández",
+            "url": "/name/nm0273592/"
+        },
+        {
+            "@type": "Person",
+            "name": "Perry Lopez",
+            "url": "/name/nm0520164/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3553,
+        "ratingValue": 5.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0206391/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harold Nebenzal",
+            "url": "/name/nm0623872/"
+        }
+    ],
+    "datePublished": "1989-02-03",
+    "description": "A brutal Los Angeles police Lt. is determined to bust up an organization that forces underage girls into prostitution.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "J. Lee Thompson",
+            "url": "/name/nm0496746/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZGVjNjk0NTktYzViNS00M2ZmLTgxMWMtM2YxNDUwZmZjY2Q5XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "rape and revenge,rape,revenge,prostitution,teenage girl",
+    "name": "Kinjite: Forbidden Subjects",
+    "original_info": {
+        "id": "Kinjite: Forbidden Subjects_1989",
+        "name": "Kinjite: Forbidden Subjects",
+        "year": "1989"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bronsonskull72"
+        },
+        "dateCreated": "2003-08-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0097670/"
+        },
+        "name": "* * OUT OF FIVE",
+        "reviewBody": "Charles Bronson stars as Lt Crowe a police detective who declares war on a pimp named Duke (Juan Fernandez) who kidnaps the daughter of a Japanese businessman who is the man who sexually harassed Crowe's daughter (Amy Hathaway) in this sleazy yet stylishly helmed revenge thriller. Kinjite may not be for everyone with it's somewhat disturbing plot threads but it is well made and indeed entertaining.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 4,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A brutal Los Angeles police Lt. is determined to bust up an organization that forces underage girls into prostitution.",
+        "duration": "PT2M2S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi822067993",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BM2Y4NjEyMjAtNjc0YS00ZjQ3LWIzMDEtZjE4NWJiOTBjODc1XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BM2Y4NjEyMjAtNjc0YS00ZjQ3LWIzMDEtZjE4NWJiOTBjODc1XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-11-10T15:11:54.733Z",
+        "url": "https://www.imdb.com/video/vi822067993/"
+    },
+    "url": "/title/tt0097670/"
+}

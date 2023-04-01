@@ -1,0 +1,51 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Joe Anoa'i",
+            "url": "/name/nm5195221/"
+        },
+        {
+            "@type": "Person",
+            "name": "Adam Scherr",
+            "url": "/name/nm5487421/"
+        },
+        {
+            "@type": "Person",
+            "name": "A.J. Styles",
+            "url": "/name/nm1138283/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 270,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "TV-PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0108337/"
+        }
+    ],
+    "datePublished": "2018-09-16",
+    "description": "The superstars of RAW and Smackdown will take each other to Hell, while others will go through Hell in a Cell.",
+    "duration": "PT3H42M",
+    "genre": [
+        "Action",
+        "Sport"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODI4MTUzYWQtNTk5Yi00NjM1LWIxYjctNTRhYWNiNjgzZDc4XkEyXkFqcGdeQXVyMzQwNDk2ODM@._V1_.jpg",
+    "keywords": "tv special",
+    "name": "WWE Hell in a Cell",
+    "original_info": {
+        "id": "WWE: Vengeance: Hell in a Cell_2005",
+        "name": "WWE: Vengeance: Hell in a Cell",
+        "year": "2005"
+    },
+    "url": "/title/tt8870842/"
+}

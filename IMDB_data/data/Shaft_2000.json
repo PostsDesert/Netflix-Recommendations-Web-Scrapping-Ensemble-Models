@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Samuel L. Jackson",
+            "url": "/name/nm0000168/"
+        },
+        {
+            "@type": "Person",
+            "name": "Vanessa Williams",
+            "url": "/name/nm0001853/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christian Bale",
+            "url": "/name/nm0000288/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 78489,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0093765/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0068402/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ernest Tidyman",
+            "url": "/name/nm0862781/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Singleton",
+            "url": "/name/nm0005436/"
+        },
+        {
+            "@type": "Person",
+            "name": "Shane Salerno",
+            "url": "/name/nm0004307/"
+        }
+    ],
+    "datePublished": "2000-06-16",
+    "description": "New York City police detective John Shaft (nephew of the original 1970s detective) goes on a personal mission to make sure the son of a real estate tycoon is brought to justice after a racially-motivated murder.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Singleton",
+            "url": "/name/nm0005436/"
+        }
+    ],
+    "duration": "PT1H39M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYmJhNWMyOTUtZjgwZS00YzdjLTk1MmMtODJlOTExMDQ3MDU5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "keywords": "fourth part,uncle nephew relationship,blaxploitation,based on novel,title spoken by character",
+    "name": "Shaft",
+    "original_info": {
+        "id": "Shaft_2000",
+        "name": "Shaft",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "MovieAddict2016"
+        },
+        "dateCreated": "2004-04-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0162650/"
+        },
+        "name": "Amusing but really nothing special.",
+        "reviewBody": "An enjoyable but nevertheless quite silly and average remake of the classic television show has the new John Shaft (Samuel L. Jackson) beating up a white racist (Christian Bale) and getting booted off of the police force. Everyone in this film is a racist - primarily the whites - and this whole idea is way too forced. The language and violence is rough, yet the film itself is quite goofy, with not many good scenes and only a few mediocre action sequences. The moral is somewhat depressing: if someone wrongs you, or someone of your race, then beat them up and kill them once they reappear. Richard Roundtree's cameo helps a bit, but regardless, this SHAFT is still only \"good\" at best.\n\n2.5/5 stars.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 4,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0162650/"
+}

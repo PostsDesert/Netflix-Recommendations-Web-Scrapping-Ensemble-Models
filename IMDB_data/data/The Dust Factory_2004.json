@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Hayden Panettiere",
+            "url": "/name/nm0659363/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ryan Kelley",
+            "url": "/name/nm0445987/"
+        },
+        {
+            "@type": "Person",
+            "name": "Armin Mueller-Stahl",
+            "url": "/name/nm0000090/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1685,
+        "ratingValue": 5.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0011238/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0071430/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eric Small",
+            "url": "/name/nm0806450/"
+        }
+    ],
+    "datePublished": "2010-05-22",
+    "description": "The Dust Factory is an adventure about the love and friendship between two teenagers who help each other through a difficult time in their lives.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Eric Small",
+            "url": "/name/nm0806450/"
+        }
+    ],
+    "duration": "PT1H39M",
+    "genre": [
+        "Drama",
+        "Family",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTIwNjA2MzQyNl5BMl5BanBnXkFtZTYwNDQ4NTU3._V1_.jpg",
+    "keywords": "teenager,fall,grandfather grandson relationship,trapeze,death",
+    "name": "The Dust Factory",
+    "original_info": {
+        "id": "The Dust Factory_2004",
+        "name": "The Dust Factory",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Petie3-2"
+        },
+        "dateCreated": "2006-03-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0329030/"
+        },
+        "name": "slow, gentle",
+        "reviewBody": "This was slow, overlong but carefully crafted film. Saw on the credits where it was financed by Oregon Lottery money. What's with that? Can I have some? Anyway the acting was a high point as each of the principal characters is capable of delivering tears, quivering chins, furrowed brows, etc and have a good range of emotions. They also have physical skills beyond the usual pretty face as demonstrated by the dance numbers, the skating and hockey sequences, the trapeeze and other physical scenes apparently not done by stunt doubles. It did have a foreign touch to it; Oregon isn't that far from Canada and the scenery and flavor matched several obscure Canadian films. 'Reflecting Skin' comes to mind, and a British film 'Paperhouse' matches it in having much of the film take place in a sort of dreamland. The plot was almost a match too.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from MGM",
+        "duration": "PT1M1S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi44369177",
+        "name": "The Dust Factory",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTRlYTZmZTktNDZlNy00ZDhlLWJmODItOGZhZDQ5MjNjODVjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTRlYTZmZTktNDZlNy00ZDhlLWJmODItOGZhZDQ5MjNjODVjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-10-31T06:02:45Z",
+        "url": "https://www.imdb.com/video/vi44369177/"
+    },
+    "url": "/title/tt0329030/"
+}

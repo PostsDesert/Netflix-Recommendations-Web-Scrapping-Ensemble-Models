@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Vince Vaughn",
+            "url": "/name/nm0000681/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jon Favreau",
+            "url": "/name/nm0269463/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joe Goossen",
+            "url": "/name/nm0990494/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 18896,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0014903/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0079748/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0236840/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jon Favreau",
+            "url": "/name/nm0269463/"
+        }
+    ],
+    "datePublished": "2001-08-31",
+    "description": "Two aspiring boxers, life-long friends, get involved in a money-laundering scheme through a low-level organized crime group.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jon Favreau",
+            "url": "/name/nm0269463/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODU1ZTFjN2EtZmZkYS00MWIzLThlZjEtMzExMGY1ZjIxMGY3XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "keywords": "new york city,stripper,directorial debut,friendship,loudmouth",
+    "name": "Made",
+    "original_info": {
+        "id": "Made_2001",
+        "name": "Made",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "michaelnicholasluciano"
+        },
+        "dateCreated": "2018-01-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0227005/"
+        },
+        "name": "BADBADNOTGOOD",
+        "reviewBody": "Yikes!\n\nSwingers is one of my favorite movies. This movie is completely void of all of the charming aspects of the previous film featuring Favreau and Vaughan. Another review put it best \" Vince's character is a 90 minute alarm clock to the ear \" and all of the interactions between the main characters will make your eyes roll so much you will be sore by the time this 90 minute offering hits credits. Language feels like Sopranos but is very over the top for the various things that occur throughout the film. Early 2000's films are the worst",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 4,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Artisan",
+        "duration": "PT1M41S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3752526105",
+        "name": "Made",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDYxNmE0NTUtMjc3Mi00N2VmLWI5ZGUtNzg2N2YzNjc1YzUyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDYxNmE0NTUtMjc3Mi00N2VmLWI5ZGUtNzg2N2YzNjc1YzUyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:21:51Z",
+        "url": "https://www.imdb.com/video/vi3752526105/"
+    },
+    "url": "/title/tt0227005/"
+}

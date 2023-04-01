@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Peter Weller",
+            "url": "/name/nm0000693/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Lithgow",
+            "url": "/name/nm0001475/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ellen Barkin",
+            "url": "/name/nm0000289/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 27253,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007078/"
+        },
+        {
+            "@type": "Person",
+            "name": "Earl Mac Rauch",
+            "url": "/name/nm0711996/"
+        }
+    ],
+    "datePublished": "1984-10-05",
+    "description": "Adventurer, brain surgeon, rock musician Buckaroo Banzai and his crime-fighting team, the Hong Kong Cavaliers, must stop evil alien invaders from the eighth dimension who are planning to conquer Earth.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "W.D. Richter",
+            "url": "/name/nm0725379/"
+        }
+    ],
+    "duration": "PT1H43M",
+    "genre": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMmE1OWZjYjctYzZlNi00YmEyLTg4YWYtZDc4NTE2ODZlYzhhXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "alien,interdimensional travel,scientist,eccentricity,electrocution",
+    "name": "The Adventures of Buckaroo Banzai Across the 8th Dimension",
+    "original_info": {
+        "id": "The Adventures of Buckaroo Banzai_1984",
+        "name": "The Adventures of Buckaroo Banzai",
+        "year": "1984"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "emswife"
+        },
+        "dateCreated": "2003-01-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0086856/"
+        },
+        "name": "I had forgotten how good this was!",
+        "reviewBody": "What a great way to start the New Year! I just watched this flick for the first time in ages and remember now why I agree that it is a \"cult classic\"!\n\nMade in 1984 way before most of the actors achieved real star status, this movie has so many \"inside\" references and jokes, it's a wonder that more isn't made of it! And if you are a real Star Trek fan, you will know that Yoyodyne Propulsion is on the commissioning plaque for the Enterprise as well as other Star Fleet vessels. The references to Grover's Mill and Orson Wells along with the whole deadpan tone of the film makes this an unbelievably funny experience. I only wish that \"Buckaroo Banzai versus The World Crime League\" had been produced.\n\nPeter Weller, Jeff Goldblum, John Lithgow, Ellen Barkin, Dan Hedaya, the entire cast must have had a great time making this movie. It is full of technojargon, double speak and just plain funny stuff that pokes fun at every bad B-movie scifi thriller/comic book/Saturday serial ever made. There is no bad language and no skin and lots to hear and see in this great movie!\n\nIt has one redeeming quality above all else for me... it makes the effects on Mighty Morphin Power Rangers and all of those other poor excuses for Saturday kid's entertainment look ridiculous. If the producers of this crap on TV that passes for action need some pointers on how to take useless stuff and make a cool, funny scifi flick, they need look no further that \"The Adventures of Buckaroo Banzai Across the Eight Dimension\"!"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Extra (Clip) from MGM",
+        "duration": "PT9M27S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3869508889",
+        "name": "The Adventures of Buckaroo Banzai Across the 8th Dimension",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMWM3Mzg0NGYtNzgyMS00YmFkLThkNGQtYTkwNGJhNTI5YjZmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMWM3Mzg0NGYtNzgyMS00YmFkLThkNGQtYTkwNGJhNTI5YjZmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-10-31T05:53:06Z",
+        "url": "https://www.imdb.com/video/vi3869508889/"
+    },
+    "url": "/title/tt0086856/"
+}

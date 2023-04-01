@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Robert Wagner",
+            "url": "/name/nm0001822/"
+        },
+        {
+            "@type": "Person",
+            "name": "Terry Moore",
+            "url": "/name/nm0601930/"
+        },
+        {
+            "@type": "Person",
+            "name": "Broderick Crawford",
+            "url": "/name/nm0002024/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1387,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harry Brown",
+            "url": "/name/nm0113689/"
+        },
+        {
+            "@type": "Person",
+            "name": "Francis Gwaltney",
+            "url": "/name/nm0350303/"
+        }
+    ],
+    "datePublished": "1956-12-29",
+    "description": "The spoiled rich son of a wealthy Southerner is changed by his experiences in the Pacific during World War II.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Richard Fleischer",
+            "url": "/name/nm0281507/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Drama",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTk4NjQ3NzctN2ViNC00MzUzLTg1OGItOWI1Njg5ZDE0MGRkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+    "keywords": "tommy gun,gun,semiautomatic rifle,rifle,bolt action rifle",
+    "name": "Between Heaven and Hell",
+    "original_info": {
+        "id": "Between Heaven and Hell_1956",
+        "name": "Between Heaven and Hell",
+        "year": "1956"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "BrianG"
+        },
+        "dateCreated": "2000-04-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0049004/"
+        },
+        "name": "Surprisingly good little war film",
+        "reviewBody": "Before he started making huge, bloated, disastrously money-losing films in the '60s (Dr. Doolittle, Che, et al.), director Richard Fleischer was responsible for some good, tight well-made little B pictures. \"The Narrow Margin\" and \"Armored Car Robbery\" in the early '50s were outstanding film-noir classics, made for very little money. Fleischer made this in the period between his low-budget black-and-white thrillers and his '60s monstrosities, and it's a good one. Robert Wagner is the callow, spoiled rich son of a Southern landowner whose National Guard unit is suddenly activated during World War II and sent to the Pacific to fight the Japanese. Wagner finds himself in the same company with the sharecroppers and tradespeople he scorned back home, and is sent to a base run by a power-mad, vengeful officer who treats his troops the same way Wagner treated his \" 'croppers\" back home.\n\nThis is one of Wagner's better performances. Unlike many of his earlier films, Wagner doesn't try to get by on his good looks and youthful charm; he turns in a first-rate performance here, as do most of the cast. Broderick Crawford as Wagner's crazed commander doesn't quite fit the part, and Skip Homeier--usually a solid, reliable character actor--goes a bit overboard as one of Crawford's goons, but Buddy Ebsen, as one of Wagner's sharecroppers who turns out to be his best friend, L.Q. Jones and Tod Andrews are fine in pivotal parts, and Fleischer stages some exciting battle scenes. Altogether, a well-made, exciting little B picture from 20th Century Fox--a bit garish in Technicolor (black and white would have been more effective)--but well worth your time to see it. Highly recommended.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "The spoiled rich son of a wealthy Southerner is changed by his experiences in the Pacific during World War II.",
+        "duration": "PT2M27S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2700002073",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYmMzODMxYmUtMDM4NS00ZTE4LThhYzQtMmViYjg1ZjNjYmM0XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYmMzODMxYmUtMDM4NS00ZTE4LThhYzQtMmViYjg1ZjNjYmM0XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-11-23T13:24:43.793Z",
+        "url": "https://www.imdb.com/video/vi2700002073/"
+    },
+    "url": "/title/tt0049004/"
+}

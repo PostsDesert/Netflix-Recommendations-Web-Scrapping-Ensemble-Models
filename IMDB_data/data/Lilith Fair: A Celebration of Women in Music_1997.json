@@ -1,0 +1,68 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sarah McLachlan",
+            "url": "/name/nm0005214/"
+        },
+        {
+            "@type": "Person",
+            "name": "Amy Ray",
+            "url": "/name/nm0712736/"
+        },
+        {
+            "@type": "Person",
+            "name": "Emily Saliers",
+            "url": "/name/nm0758287/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 39,
+        "ratingValue": 8.2,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0142383/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0152810/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0142384/"
+        }
+    ],
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Buffy Childerhose",
+            "url": "/name/nm1158643/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alex Jamison",
+            "url": "/name/nm1519295/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Documentary",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ4OTM4NjQ2MV5BMl5BanBnXkFtZTcwNjk3MjMyMQ@@._V1_.jpg",
+    "keywords": "tv special,concert film",
+    "name": "Lilith Fair: A Celebration of Women in Music",
+    "original_info": {
+        "id": "Lilith Fair: A Celebration of Women in Music_1997",
+        "name": "Lilith Fair: A Celebration of Women in Music",
+        "year": "1997"
+    },
+    "url": "/title/tt0301546/"
+}

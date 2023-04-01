@@ -1,0 +1,117 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Matthew Broderick",
+            "url": "/name/nm0000111/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jean Reno",
+            "url": "/name/nm0000606/"
+        },
+        {
+            "@type": "Person",
+            "name": "Maria Pitillo",
+            "url": "/name/nm0001623/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 196585,
+        "ratingValue": 5.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0071034/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0053780/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0195567/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dean Devlin",
+            "url": "/name/nm0002041/"
+        },
+        {
+            "@type": "Person",
+            "name": "Roland Emmerich",
+            "url": "/name/nm0000386/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ted Elliott",
+            "url": "/name/nm0254645/"
+        }
+    ],
+    "datePublished": "1998-05-20",
+    "description": "French nuclear tests irradiate an iguana into a giant monster that heads off to New York City. The American military must chase the monster across the city to stop it before it reproduces.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Roland Emmerich",
+            "url": "/name/nm0000386/"
+        }
+    ],
+    "duration": "PT2H19M",
+    "genre": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjFlOTI2OGQtMzg0YS00ZGE4LTkwMjEtZDUzYThlOTU5YjQ5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "giant monster,iguana,military,giant footprint,monster",
+    "name": "Godzilla",
+    "original_info": {
+        "id": "Godzilla_1998",
+        "name": "Godzilla",
+        "year": "1998"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "851222"
+        },
+        "dateCreated": "2017-01-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120685/"
+        },
+        "name": "Flawed but not bad guilty pleasure movie",
+        "reviewBody": "Greetings from Lithuania.\n\n\"Godzilla\" (1998) is definitely not a bad guilty pleasure movie. It has pretty good special effects, nice pacing and some good action sequences involving Godzilla himself. Well its not entirely a Godzilla everyone knows, its more of a dinosaur but still its a good looking creature, especially when it interacts with environment (city buildings in this case). The downsides of this movie were pretty lame script at the moments, zero chemistry between Matthew Broderick and Maria Pitillo (and her poor performance as well) and just the look of this movie - literally almost all movie time action takes place at night, sure because its much more easier (and cheaper) to make all the big special effects sequences in a bloody dark, but not so much fun to watch it.\n\nOverall, \"Godzilla\" is a guilty pleasure. As a pure fun flick it does its job, nothing else and nothing more. A pure guilty pleasure.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Pre, \"May 20\"",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3970236697",
+        "name": "Godzilla (1998)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjM5YmQ2MjEtNjVlMi00YTcxLWE4MTAtOTRmMDJhNjcwYTQ3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjM5YmQ2MjEtNjVlMi00YTcxLWE4MTAtOTRmMDJhNjcwYTQ3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:02:57Z",
+        "url": "https://www.imdb.com/video/vi3970236697/"
+    },
+    "url": "/title/tt0120685/"
+}

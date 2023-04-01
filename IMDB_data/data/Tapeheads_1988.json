@@ -1,0 +1,116 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Cusack",
+            "url": "/name/nm0000131/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tim Robbins",
+            "url": "/name/nm0000209/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mary Crosby",
+            "url": "/name/nm0002026/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4232,
+        "ratingValue": 5.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0129769/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0065874/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0801096/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Fishman",
+            "url": "/name/nm0279863/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter McCarthy",
+            "url": "/name/nm0565292/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Herzfeld",
+            "url": "/name/nm0381272/"
+        }
+    ],
+    "datePublished": "1988-10-21",
+    "description": "A couple of creative losers accidently become big shots in the video music industry.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bill Fishman",
+            "url": "/name/nm0279863/"
+        }
+    ],
+    "duration": "PT1H33M",
+    "genre": [
+        "Comedy",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMWNmZGIyODAtMzM3YS00NjA1LTk4YTctODE1YTBjZDZhNDI2L2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "self indulgence,sardonic,timeframe 1980s,1980s,roses are red poem",
+    "name": "Tapeheads",
+    "original_info": {
+        "id": "Tapeheads_1988",
+        "name": "Tapeheads",
+        "year": "1988"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Scott_Mercer"
+        },
+        "dateCreated": "2012-05-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0096223/"
+        },
+        "name": "If You Liked \"Repo Man,\" You Must See \"Tapeheads\"",
+        "reviewBody": "More than just a few similarities between these two 80's cult films. Both have punk rock elements. Both have major settings in downtown LA's industrial area in the 1980's, well before the arrival of loft buildings and gentrification (post 2000). At that time, only misfits, hard core artist types and homeless were living there. Both parody media of the times, including music videos. (Repo Man specifically skewering televangelists and Tapeheads specifically roasting self-help types like Tony Robbins, or more likely Don LaPre.)\n\nBoth have goofball government agents chasing after the protagonists. Repo Man has The Circle Jerks doing bad lounge music in a dive bar. Tapeheads has Fishbone doing bad country music in a dive bar. Both have authority figures with \"perverted\" sex secrets (Tapeheads' Norman Mart with his spanking games, and Repo Man mentioning that John Wayne was gay.) Both films were produced by Michael Nesmith. (Sure The Nez must have been on familiar ground here with Fishman's script, just coming off Repo Man a few years prior.)\n\nAs others mentioned, director Bill Fishman employed a number of Cox's previous collaborators, including Zander Schloss, Xander Berkely and Courtney Love. So, was Fishman intentionally, slavishly copying Alex Cox with Tapeheads?\n\nHonestly, I don't care, but the similarities are just so striking that I could not write a review of this film without mentioning them. If Repo Man is a 10, then Tapeheads, a similar take on LA in the 80's is an 8, the film's rating elevated largely by the game, appropriately goofy performances of Cusack and Robbins as the two leads. Cusack is really great in both comedy and drama, especially considering he would go on to a heavily dramatic (and successful)role in Stephen Frears' The Grifters only a couple years after this film.\n\nIt's not for everyone, and people use the term \"quirky\" far too much for my tastes. But this movie really is a quirkfest of the highest order and one of my personal fave pet movies. \n\n(I should also note the similar plot point from Christopher Guest's movie The Big Picture, released about a year later, where the protagonist leaps from obscurity to fame after directing a no-budget, goofy music video which gets his name mentioned on MTV, by Richard Belzer of all people. Yet another element for me to confuse in my addled brain...wait, wasn't Richard Belzer in this movie? Oh no, that was The Big Picture!)\n\nIf you haven't stumbled across the movie, and you like Repo Man, early MTV or goofy 1980's comedies, you should check this out. And be on the watch for super brief cameos from Michael Nesmith, Weird Al Yankovic, Bobcat Goldthwait, Courtney Love and Jello Biafra. There's a cast list for ya, film fans.\n\nNow, if you will excuse me, I'm really hungry and could do well right now with a Scoe's Special from Roscoe's Chicken and Waffles.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Clip: You are gonna start making music videos",
+        "duration": "PT1M37S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1066729753",
+        "name": "Tapeheads",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODJiZjQzMGItNTczMC00NmRjLTgyNDAtN2I0MTQ1ZTIyYzcyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODJiZjQzMGItNTczMC00NmRjLTgyNDAtN2I0MTQ1ZTIyYzcyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:57:03Z",
+        "url": "https://www.imdb.com/video/vi1066729753/"
+    },
+    "url": "/title/tt0096223/"
+}

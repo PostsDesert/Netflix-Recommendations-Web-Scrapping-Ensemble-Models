@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Duane Jones",
+            "url": "/name/nm0427977/"
+        },
+        {
+            "@type": "Person",
+            "name": "Judith O'Dea",
+            "url": "/name/nm0640621/"
+        },
+        {
+            "@type": "Person",
+            "name": "Karl Hardman",
+            "url": "/name/nm0362457/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 132415,
+        "ratingValue": 7.8,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0016854/"
+        },
+        {
+            "@type": "Person",
+            "name": "John A. Russo",
+            "url": "/name/nm0751652/"
+        },
+        {
+            "@type": "Person",
+            "name": "George A. Romero",
+            "url": "/name/nm0001681/"
+        }
+    ],
+    "datePublished": "1968-10-04",
+    "description": "A ragtag group of Pennsylvanians barricade themselves in an old farmhouse to remain safe from a horde of flesh-eating ghouls that are ravaging the East Coast of the United States.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "George A. Romero",
+            "url": "/name/nm0001681/"
+        }
+    ],
+    "duration": "PT1H36M",
+    "genre": [
+        "Horror",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzRmN2E1ZDUtZDc2ZC00ZmI3LTkwOTctNzE2ZDIzMGJiMTYzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "zombie,basement,cemetery,farmhouse,zombie apocalypse",
+    "name": "Night of the Living Dead",
+    "original_info": {
+        "id": "Night of the Living Dead_1968",
+        "name": "Night of the Living Dead",
+        "year": "1968"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "AlsExGal"
+        },
+        "dateCreated": "2009-11-22",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0063350/"
+        },
+        "name": "A great old indy horror film",
+        "reviewBody": "Along with \"Carnival of Souls\", this movie stands out as one of the definitive black-and-white horror movies of a bygone drive-in movie era. This movie scared me horribly when I first saw it back in the sixth grade. I had seen other scary movies before, but I think what makes this film so frightening is that there is a somewhat scientific explanation involved and that the horror is occurring to average people. The terror is not due to some supernatural occurrence that we know to be fantasy such as a vampire or some other relic from a 30's or 40's Universal horror film. Also, the drama is playing out in and around a farm house in rural Ohio, not some mythical haunted mansion. This puts you into the dilemma with the players. The fact that such bad acting is in play here just adds to the realism rather than making the film campy.\n\nThis movie showed something that could have only occurred pre-Watergate. At one point, the people trapped in the farmhouse discover a television and turn it on in search of news of what is going on. Something almost as remarkable to today's audiences as the dead rising from their graves is seen to occur. In Washington, reporters confront a government official about the situation, the government official tells the reporters the truth, and everyone believes what the government has told them. All of this would be truly remarkable in today's environment of mutual mistrust between citizens, government, and the media. Also, although we don't have actual vampires as the villain here, we have a similar dilemma. As the radiation causes the dead to become animated and seek to eat the flesh of the living, each time a victim is bitten, that victim eventually dies only to rise minutes later seeking the flesh of the living themselves, producing a problem that grows geometrically, just as vampires do.\n\nFinally, this film has something important to say about race. Unique to 60's films, the group in the farmhouse accepts Ben (Duane Jones), an African-American man, as a leader since he is smart and a quick thinker. This portrayal of an African-American as protagonist and problem solver is also unique to films of forty years ago. The ending is quite powerful, and you have to ask yourself, did race have something to do with the actions of the rescue posse? I don't know if this question was hung out there intentionally by the film's creators for the audience to ponder, but it is a point that is almost impossible to ignore.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Night of the Living Dead",
+        "duration": "PT1M49S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2325283097",
+        "name": "Night of the Living Dead",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTlkNmFkZTktMjNiNS00MDYyLTkzZmYtMjIzYWQ2YTU2M2JmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTlkNmFkZTktMjNiNS00MDYyLTkzZmYtMjIzYWQ2YTU2M2JmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:14:43Z",
+        "url": "https://www.imdb.com/video/vi2325283097/"
+    },
+    "url": "/title/tt0063350/"
+}

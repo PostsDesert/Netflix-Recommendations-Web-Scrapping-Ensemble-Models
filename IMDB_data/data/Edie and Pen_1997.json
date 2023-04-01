@@ -1,0 +1,79 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Stockard Channing",
+            "url": "/name/nm0000330/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jennifer Tilly",
+            "url": "/name/nm0000236/"
+        },
+        {
+            "@type": "Person",
+            "name": "Scott Glenn",
+            "url": "/name/nm0001277/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 420,
+        "ratingValue": 5.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Person",
+            "name": "Victoria Tennant",
+            "url": "/name/nm0005481/"
+        }
+    ],
+    "datePublished": "1996-05-10",
+    "description": "Two women meet in Reno, Nevada where they came to get a divorce. There they also meet a man whose wife just left him. They go to a bar for a drink and a talk. Turns out they have a common acquaintance - one of their exes.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Matthew Irmas",
+            "url": "/name/nm0410045/"
+        }
+    ],
+    "duration": "PT1H36M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE5NTM3NzkwM15BMl5BanBnXkFtZTcwNDcwNjAyMQ@@._V1_.jpg",
+    "keywords": "f rated,character names as title,punctuation in title,reno nevada,divorce",
+    "name": "Edie & Pen",
+    "original_info": {
+        "id": "Edie and Pen_1997",
+        "name": "Edie and Pen",
+        "year": "1997"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "EmptyLeo"
+        },
+        "dateCreated": "1999-08-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0116169/"
+        },
+        "name": "Cool movie.",
+        "reviewBody": "I watched this late one night when nothing was on. I chose it for Jennifer Tilly. She's cool. I like Scott Glenn too. Ever since Silverado I've liked him. And he was excellent in The Silence of the Lambs. This is a good story about two women who quickly became friends. Shared stories and secrets about men (read Helen's review for more info).\n\nI was glad I watched it. Hadn't seen Stockard Channing much lately. She was in The First Wive's Club just for a bit. I should have seen the ending coming where Edie's new boyfriend is Pen's old... oh nevermind, go watch it.\n\n7.5 out of 10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0116169/"
+}

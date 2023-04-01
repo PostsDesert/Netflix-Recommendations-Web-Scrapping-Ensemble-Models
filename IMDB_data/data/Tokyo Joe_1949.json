@@ -1,0 +1,94 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Humphrey Bogart",
+            "url": "/name/nm0000007/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alexander Knox",
+            "url": "/name/nm0461594/"
+        },
+        {
+            "@type": "Person",
+            "name": "Florence Marly",
+            "url": "/name/nm0549337/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2367,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0053311/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve Fisher",
+            "url": "/name/nm0279795/"
+        },
+        {
+            "@type": "Person",
+            "name": "Walter Doniger",
+            "url": "/name/nm0232527/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cyril Hume",
+            "url": "/name/nm0401738/"
+        }
+    ],
+    "description": "An American returns to Tokyo try to pick up threads of his pre-WW2 life there, but finds himself squeezed between criminals and the authorities.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Stuart Heisler",
+            "url": "/name/nm0374702/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Film-Noir"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOGNmNDRmODMtNmFiOC00ZDc0LWFmZGEtYTQ4MjgwNDcxMmRmXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg",
+    "keywords": "post world war two,american in japan,u.s. japanese relations,post war japan,american occupation of japan",
+    "name": "Tokyo Joe",
+    "original_info": {
+        "id": "Tokyo Joe_1949",
+        "name": "Tokyo Joe",
+        "year": "1949"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jacksflicks"
+        },
+        "dateCreated": "2009-05-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0041967/"
+        },
+        "name": "Waste, wast, waste!",
+        "reviewBody": "This could have been a great movie. Post World War II location movies have an intriguing atmosphere. Post-war Japan offered a terrific setting, but the obvious backlot location, with cheesy process shots trying to pass for a Japanese location, ruins the effect.\n\nAlexander Knox is great, sardonic but principled, and Sessue Hayakawa is deliciously malign. Florence Marly is a poor substitute for Lisbeth Scott -- or couldn't Bogey get his own wife Lauren Bacall to work for scale? Bogey himself looks a little shopworn. Even the love child is fat-faced and unappealing.\n\nCompromise pervades the film, from the cardboard sets to the hack director. Because it was cheap, exterior shots were minimal, and so the action scenes, which could have made for a more exciting story, give way to lots of talky interior stuff.\n\nAs the studio system weakened, star-owned production companies, like Bogart's, Burt Lancaster's and Alan Ladd's, were in vogue. Stars can't resist the chance to star in a movie where they don't have to take direction, so they often hire weak directors, usually with dismal results. This is one of them.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0041967/"
+}

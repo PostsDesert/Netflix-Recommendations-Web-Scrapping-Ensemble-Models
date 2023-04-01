@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Susan Sarandon",
+            "url": "/name/nm0000215/"
+        },
+        {
+            "@type": "Person",
+            "name": "Geena Davis",
+            "url": "/name/nm0000133/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harvey Keitel",
+            "url": "/name/nm0000172/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 160244,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0026481/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0052233/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0150401/"
+        },
+        {
+            "@type": "Person",
+            "name": "Callie Khouri",
+            "url": "/name/nm0451884/"
+        }
+    ],
+    "datePublished": "1991-05-24",
+    "description": "Two best friends set out on an adventure, but it soon turns around to a terrifying escape from being hunted by the police, as these two girls escape for the crimes they committed.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ridley Scott",
+            "url": "/name/nm0000631/"
+        }
+    ],
+    "duration": "PT2H10M",
+    "genre": [
+        "Adventure",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIxNDgzMDE2MF5BMl5BanBnXkFtZTcwNzY5NTk1NA@@._V1_.jpg",
+    "keywords": "female friendship,female bonding,attempted rape,road movie,waitress",
+    "name": "Thelma & Louise",
+    "original_info": {
+        "id": "Thelma & Louise: Special Edition_1991",
+        "name": "Thelma & Louise: Special Edition",
+        "year": "1991"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ruth.boaz"
+        },
+        "dateCreated": "2000-03-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0103074/"
+        },
+        "name": "A terrific movie about friendship.",
+        "reviewBody": "I loved this movie from the first time I saw it, but it wasn't until I sat through it the third time that I figured out why. It is clever, exciting, and funny and is shot in the middle of the breathtaking scenery of the American Southwest. However, the thing that makes it special is its illustration of pure friendship. It may be difficult for some men to cross the gender boundary and connect with Thelma and Louise, yet doing so is critical to appreciating the film. If you can make the connection then you can get its message -- we all need a friendship like the one Thelma and Louise had. This movie will strike a deep emotional chord.....if you aren't afraid to let it. And if you happen to be too emotionally closed off to appreciate what I think the movie says about friendship I think that you will still enjoy the characters, acting, action, and humor. It is a ten out of ten.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer 1",
+        "duration": "PT2M4S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1647296537",
+        "name": "Thelma & Louise",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOGNiMGIzNDctNTUyNC00MzViLWFlNjItNGZmNGQzNWI3OTc0XkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGNiMGIzNDctNTUyNC00MzViLWFlNjItNGZmNGQzNWI3OTc0XkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-06-21T17:02:51.948Z",
+        "url": "https://www.imdb.com/video/vi1647296537/"
+    },
+    "url": "/title/tt0103074/"
+}

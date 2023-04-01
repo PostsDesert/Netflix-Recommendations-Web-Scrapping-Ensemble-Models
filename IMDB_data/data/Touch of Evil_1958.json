@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Charlton Heston",
+            "url": "/name/nm0000032/"
+        },
+        {
+            "@type": "Person",
+            "name": "Orson Welles",
+            "url": "/name/nm0000080/"
+        },
+        {
+            "@type": "Person",
+            "name": "Janet Leigh",
+            "url": "/name/nm0001463/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 106425,
+        "ratingValue": 8,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0021358/"
+        },
+        {
+            "@type": "Person",
+            "name": "Orson Welles",
+            "url": "/name/nm0000080/"
+        },
+        {
+            "@type": "Person",
+            "name": "Whit Masterson",
+            "url": "/name/nm0557767/"
+        },
+        {
+            "@type": "Person",
+            "name": "Franklin Coen",
+            "url": "/name/nm0168759/"
+        }
+    ],
+    "datePublished": "1958-04-23",
+    "description": "A stark, perverse story of murder, kidnapping and police corruption in a Mexican border town.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Orson Welles",
+            "url": "/name/nm0000080/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Film-Noir"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTA1MjA3M2EtMmJjZS00OWViLTkwMTEtM2E5ZDk0NTAyNGJiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "keywords": "investigation,murder,brothel,drugs,corruption",
+    "name": "Touch of Evil",
+    "original_info": {
+        "id": "Touch of Evil_1958",
+        "name": "Touch of Evil",
+        "year": "1958"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bkoganbing"
+        },
+        "dateCreated": "2006-12-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0052311/"
+        },
+        "name": "A Great Detective, A Lousy Cop, And Some Kind Of Man",
+        "reviewBody": "That's a great epitaph Marlene Dietrich and Mort Mills put together for Orson Welles's character police captain Hank Quinlan. In a sense, since Welles directed himself in Touch of Evil he both created the character and the circumstances that bring him down.\n\nTwo stories intersect in Touch of Evil. The first involves a particularly grisly murder in a Texas/Mexican border town of a man named Rudy Linnaker. The weapon was a car bomb, that went off just as Linnkaer and some chippie he was seeing crossed the border. Driving in the car just behind the late Mr. Linnaker was Charlton Heston as Mexican police detective Mike Vargas and his wife Janet Leigh. \n\nHeston is returning to Mexico City where in a few days he's taking the witness stand in the trial of a local drug kingpin. The kingpin's brother is Akim Tamiroff who's the local crime lord in that border town. Heston's case against Tamiroff's brother and Welles's investigation into the car bombing are completely unrelated, but do to some cleverly worked out plot machinations they get intertwined together.\n\nCharlton Heston has been quoted many times in saying that Orson Welles was the greatest director he ever worked for. He also rather modestly has stated that he did not give Welles his best screen performance. My own thought on it is that he really is not a terribly convincing latino. Maybe someone with Robert Mitchum's gift for dialect or a latino actor like Gilbert Roland might have been better. Still it's an earnest effort and Heston has nothing to be ashamed of.\n\nIn fact Heston says and I agree that the story is really about Welles and his destruction. Welles has great instinct as a detective, but he's not really all that scrupulous about due process. That's what has Heston's back up and it forces Welles into an unthinkable alliance with Tamiroff. \n\nJanet Leigh gives us a sneak preview of what was in store for moviegoers in Psycho when she's trapped in that motel room with those punks that Tamiroff has sicced on her. One of the punks in fact was Mercedes McCambridge doing a little gender bending generations before Boys Don't Cry. At the motel Dennis Weaver has a marvelous bit part as the useless and feckless 'night man.'\n\nWelles put a lot of his favorites in small roles here. Ray Collins took time away from Perry Mason on television to play the District Attorney. Joseph Cotten has a small bit as a medical examiner, Harry Shannon was the state's attorney, it was a regular Citizen Kane reunion.\n\nMarlene Dietrich who was Welles's foil and partner in his magic act plays the owner of a border town dive and his mistress who loves him though she recognizes all his faults. This was a banner year for Dietrich because she also did her highly acclaimed role in Witness for the Prosecution. \n\nOne part though that should have been up for an Academy Award was Joseph Calleia who was Welles's devoted subordinate who in the end ironically helps to bring him down. It's a great piece of acting and Charlton Heston said that Joseph Calleia never did anything better in his entire cinema career. I wouldn't argue the point.\n\nNow that the 'director's cut' is available we can now see Touch of Evil and realize what Welles's vision was for this film. Indifferently received when first out, it's grown to become a classic and probably one of the three or four films Welles the director gets the most acclaim for.\n\nAnd now it's probably better than when first seen by the public.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Universal Studios Home Entertainment",
+        "duration": "PT2M9S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi33489177",
+        "name": "Touch of Evil",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BN2MwZDFlMjAtMzgzZi00YWQzLWE4N2EtZmQ3MDgyMDBhNGEyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BN2MwZDFlMjAtMzgzZi00YWQzLWE4N2EtZmQ3MDgyMDBhNGEyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:29:09Z",
+        "url": "https://www.imdb.com/video/vi33489177/"
+    },
+    "url": "/title/tt0052311/"
+}

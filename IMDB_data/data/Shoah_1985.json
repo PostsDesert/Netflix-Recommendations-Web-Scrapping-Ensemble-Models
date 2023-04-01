@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Simon Srebnik",
+            "url": "/name/nm1587253/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Podchlebnik",
+            "url": "/name/nm1586660/"
+        },
+        {
+            "@type": "Person",
+            "name": "Motke Zaïdl",
+            "url": "/name/nm1587792/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9822,
+        "ratingValue": 8.7,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0062841/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0064678/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0031559/"
+        }
+    ],
+    "description": "Claude Lanzmann's epic documentary recounts the story of the Holocaust through interviews with witnesses - perpetrators as well as survivors.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Claude Lanzmann",
+            "url": "/name/nm0487351/"
+        }
+    ],
+    "duration": "PT9H26M",
+    "genre": [
+        "Documentary",
+        "History",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTYyMTI3NzYxMl5BMl5BanBnXkFtZTcwMzM5ODQxNA@@._V1_.jpg",
+    "keywords": "holocaust,shoah,witness,testimony,genocide",
+    "name": "Shoah",
+    "original_info": {
+        "id": "Shoah_1985",
+        "name": "Shoah",
+        "year": "1985"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "kekca"
+        },
+        "dateCreated": "2014-08-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0090015/"
+        },
+        "name": "My rating: 9",
+        "reviewBody": "With commenting this film we are going out of the movie industry to get into history and the world that it shaped. This rating concerns the importance of the theme of the movie and the effort and the enormous importance of the established work.\n\nThe film draws us into the deepest, dark and dirty human intentions that led to and are even devoid of any humane sense. It is shown the downfall of modern humanity, which mimics the barbaric world of the past. The long centuries of experience appear to be insufficient to call for peace and universal existence. On the contrary, it seems that the negative trends will not disappear very soon.\n\nAlthough it is not shown any atrocity, the stories of witnesses of the war are enough to push our imagination to unthinkable mental pictures. It remains impossible to think and honestly to sympathize to storytellers due to lack of language in which we could understand what they experienced. We can only be able to pity them when they do not find the strength to continue their stories and to bow to their power to tell everyone about the downfall of much part of mankind.\n\nExtremely long and difficult story that requires serious approach and interest in the topic. Valuable result.\n\nhttp://vihrenmitevmovies.blogspot.com/",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "An epic documentary on the Holocaust featuring interviews with survivors, bystanders, and perpetrators in 14 countries. ",
+        "duration": "PT2M10S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3518601241",
+        "name": "Shoah",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjE3MjkzMTU2NV5BMl5BanBnXkFtZTcwMDcwMTUxNA@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjE3MjkzMTU2NV5BMl5BanBnXkFtZTcwMDcwMTUxNA@@._V1_.jpg",
+        "uploadDate": "2010-12-02T10:28:49Z",
+        "url": "https://www.imdb.com/video/vi3518601241/"
+    },
+    "url": "/title/tt0090015/"
+}

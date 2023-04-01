@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Robert De Niro",
+            "url": "/name/nm0000134/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Grodin",
+            "url": "/name/nm0001301/"
+        },
+        {
+            "@type": "Person",
+            "name": "Yaphet Kotto",
+            "url": "/name/nm0001433/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 88619,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0045196/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Gallo",
+            "url": "/name/nm0303032/"
+        }
+    ],
+    "datePublished": "1988-07-20",
+    "description": "A bounty hunter pursues a former Mafia accountant who is also being chased by a rival bounty hunter, the F.B.I., and his old mob boss after jumping bail.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Martin Brest",
+            "url": "/name/nm0000976/"
+        }
+    ],
+    "duration": "PT2H6M",
+    "genre": [
+        "Action",
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZGIwM2JhNmQtYzQ5ZC00NzdkLTgwZjItMDRiN2QxM2ViMzk0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+    "keywords": "chicago illinois,misanthrope,cynicism,rivalry,gangster",
+    "name": "Midnight Run",
+    "original_info": {
+        "id": "Midnight Run_1988",
+        "name": "Midnight Run",
+        "year": "1988"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "toddsklar"
+        },
+        "dateCreated": "2015-11-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0095631/"
+        },
+        "name": "They don't make 'em like the used to.",
+        "reviewBody": "The first time I watched this movie, I immediately started it again after the credits rolled. Loved it just as much the 2nd time, and over the years, I can honestly say that almost anytime I watch Midnight Run, I usually end up watching it a 2nd (and sometimes 3rd) time within the next few days. \n\nI'm fairly certain the reason for this is that it's evokes such a feeling, creates such a time and place, that I'm practically nostalgic for watching it the minute it ends. Part of that has to do with Danny Elfman's score, and part of it has to do with DeNiro's and Grodin's performances, but more than anything, it's the fact that they just don't make movies like this anymore.\n\nMidnight Run is without a question a perfect movie, but more importantly, it's a time vessel back to an era where you could tell this kind of story, and make a movie like this, and everyone comes out on top.\n\nI love this movie like I love my childhood.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A bounty hunter pursues a former Mafia accountant who is also being chased by a rival bounty hunter, the F.B.I., and his old mob boss after jumping bail.",
+        "duration": "PT2M15S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi321962777",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOWFiMTMyMDItN2FhZS00MWE0LTgwZmEtNThiZDFiMjNkZjU2XkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOWFiMTMyMDItN2FhZS00MWE0LTgwZmEtNThiZDFiMjNkZjU2XkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+        "uploadDate": "2021-12-22T22:28:39.731Z",
+        "url": "https://www.imdb.com/video/vi321962777/"
+    },
+    "url": "/title/tt0095631/"
+}

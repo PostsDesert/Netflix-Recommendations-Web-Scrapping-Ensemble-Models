@@ -1,0 +1,113 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jonathan Taylor Thomas",
+            "url": "/name/nm0001795/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brad Renfro",
+            "url": "/name/nm0000605/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Rocket",
+            "url": "/name/nm0734236/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 11213,
+        "ratingValue": 5.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0008970/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0063003/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Twain",
+            "url": "/name/nm0878494/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen Sommers",
+            "url": "/name/nm0814085/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Loughery",
+            "url": "/name/nm0521739/"
+        }
+    ],
+    "datePublished": "1995-12-22",
+    "description": "Two best friends witness a murder and embark on a series of adventures in order to prove the innocence of the man wrongly accused of the crime.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Peter Hewitt",
+            "url": "/name/nm0382072/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BN2ZkZTMxOTAtMzg1Mi00M2U0LWE2NWItZDg4YmQyZjVkMDdhXkEyXkFqcGdeQXVyNTM5NzI0NDY@._V1_.jpg",
+    "keywords": "huckleberry finn character,becky thatcher character,boy,graveyard,alcoholic",
+    "name": "Tom and Huck",
+    "original_info": {
+        "id": "Tom and Huck_1995",
+        "name": "Tom and Huck",
+        "year": "1995"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "TheLittleSongbird"
+        },
+        "dateCreated": "2013-10-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0112302/"
+        },
+        "name": "Alright film version of Twain's classic, but one of the weaker adaptations",
+        "reviewBody": "There are things that Tom and Huck does do right. The three best things about it are the production values, the score and Eric Schweig as Injun Joe. The film looks very pretty with quite evocative costumes and sets, while the score is both memorable and relaxing. Schweig is perfect as Injun Joe and genuinely menacing, though the writers perhaps go a little overboard with the villainous and somewhat violent side to him. Brad Renfro does do well as Huck, the character does come across as too sullen and hard but Renfro is suitably mischievous and brings some fun amongst bringing out a somewhat conflicted side to Huck. There are some effective scenes, the graveyard scene is very atmospheric and the moment when Injun Joe starts to stir/stirs when Tom is reaching for the map sends chills up the spine. The whitewashing scene is very charming as well. \n\nThere are some mixed feelings assets here. Jonathan Taylor Thomas(of whom Tom and Huck is like a vehicle for him early in his career) makes for a spirited Tom but the more dramatic moments(the courtroom scene is quite good though) show signs of inexperience. Peter Hewitt's filmography has been hit and miss, Tom and Huck is one of his better films and thankfully is not another Zoom or Thunderpants but his best film will always be Bill and Ted's Bogus Journey(that and The Borrowers, of the films I've seen so far of his, are the only ones that have ratings better than decent). \n\nTom and Huck does have its failings though, the worst case was the grossly out-of-kilter way Becky was written, if there is a more selfish and bitchy Becky on any film adaptation of Tom Sawyer it's yet to be seen and Rachael Leigh Cook while attractive does come across as forced and stereotypical-teen-like in her acting. There are some fun moments injected in the more nostalgic and charming moments seen in the first half but the second half, where it's all suspense thriller and Injun Joe on the rampage feels like a different film altogether, the two halves just juxtapose too much. The crucial scenes are there even when the adaptation is quite loose but the heart is lacking. The funeral scene falls flat being very under-characterised and rushed through, and the \"engagement\" scene came across as overly-sentimental(an attempt by Disney to make the story more timely) and awkward as well. The worst bit of dialogue was Becky's \"What? I'm not the first? I hope you die\", not only is it a terrible and shallow thing to say in the first place but it is something that Becky would never dream of saying. Much of the dialogue is weak, not just that line from Becky but the whole style is not very nuanced and it feels at times too modern. Little attempt also is made to bringing Missouri's dialect, language and how they speak, the production values did a great job in being evocative, why didn't the writing make an effort too? And this is coming from someone to makes a big effort in judging films/TV series/literary adaptations on their own terms. Other than Huck, Injun Joe and to a lesser extent Tom, the rest of the actors suffer from their characters being underdeveloped and don't register as a result really. \n\nTo conclude, Tom and Huck is alright as a film though with many problems but along with the Soviet film(with the bad dubbing, pacing and editing) it is one of the weaker adaptations of a great book. 5/10 Bethany Cox",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Two best friends witness a murder and embark on a series of adventures in order to prove the innocence of the man wrongly accused of the crime.",
+        "duration": "PT1M2S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3717382937",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMmE2ZDA5ZjItYzdjZS00ZGI1LTlmOWUtM2MwOWExNTU0YzUzXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMmE2ZDA5ZjItYzdjZS00ZGI1LTlmOWUtM2MwOWExNTU0YzUzXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-10-04T20:57:02.620Z",
+        "url": "https://www.imdb.com/video/vi3717382937/"
+    },
+    "url": "/title/tt0112302/"
+}

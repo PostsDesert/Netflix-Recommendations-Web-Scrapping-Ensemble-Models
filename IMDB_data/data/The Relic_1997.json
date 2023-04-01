@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Penelope Ann Miller",
+            "url": "/name/nm0000542/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tom Sizemore",
+            "url": "/name/nm0001744/"
+        },
+        {
+            "@type": "Person",
+            "name": "Linda Hunt",
+            "url": "/name/nm0001373/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 28806,
+        "ratingValue": 5.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0043107/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0563531/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0769935/"
+        },
+        {
+            "@type": "Person",
+            "name": "Douglas Preston",
+            "url": "/name/nm0696409/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lincoln Child",
+            "url": "/name/nm0157470/"
+        },
+        {
+            "@type": "Person",
+            "name": "Amy Holden Jones",
+            "url": "/name/nm0427468/"
+        }
+    ],
+    "datePublished": "1997-01-10",
+    "description": "A homicide detective and an anthropologist try to destroy a South American lizard-like god, who's on a people eating rampage in a Chicago museum.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Peter Hyams",
+            "url": "/name/nm0001382/"
+        }
+    ],
+    "duration": "PT1H50M",
+    "genre": [
+        "Horror",
+        "Mystery",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjQyMWQ0MWItY2QxZi00NjQ5LTk3OGQtZjU4NTljMjY1ZWJmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "museum,superstition,creature feature,violence,scientist",
+    "name": "The Relic",
+    "original_info": {
+        "id": "The Relic_1997",
+        "name": "The Relic",
+        "year": "1997"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Jack the Ripper1888"
+        },
+        "dateCreated": "2003-01-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120004/"
+        },
+        "name": "An action adventure turned horror movie.",
+        "reviewBody": "When I got this movie, I was under the impression that it was a typical action adventure where there are some strange deaths and people assume it is some killer creature. Well, I was right on that part. But this movie is actually pretty scary, choking up some genuine chills especially when you are not expecting them. Tom Sizemore and Penelope Ann Miller are great together in THE RELIC, a must-see for all fans of horror and action adventures.\n\nLinda Hunt and James Whitmore are also good as supporting cast members. This movie is one of the better horror films of the last five years as it is very original, taking a traditional plot and giving it a new touch.\n\n You may find these kinds of movies stupid, so stay away, this movie is one of the better films of the genre, that is for sure. There are some seriously good death sequences in this movie and some very notable special effects from the Jim Henson Creature Shop. Director Peter Hyams (the guy behind END OF DAYS) has done well, creating a masterpiece of modern horror that is liable to stay within your memory long after you are done watching it.\n\nTHE RELIC: 5/5."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Paramount Home Entertainment",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2423305241",
+        "name": "The Relic",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDgxMDQ5ODItMzM4NC00NGIxLTk2MzYtMTA4ZDg5NTUyYmRhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDgxMDQ5ODItMzM4NC00NGIxLTk2MzYtMTA4ZDg5NTUyYmRhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2016-06-03T22:12:23Z",
+        "url": "https://www.imdb.com/video/vi2423305241/"
+    },
+    "url": "/title/tt0120004/"
+}

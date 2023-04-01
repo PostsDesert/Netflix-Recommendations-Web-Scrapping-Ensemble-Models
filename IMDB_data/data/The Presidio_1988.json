@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sean Connery",
+            "url": "/name/nm0000125/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Harmon",
+            "url": "/name/nm0001319/"
+        },
+        {
+            "@type": "Person",
+            "name": "Meg Ryan",
+            "url": "/name/nm0000212/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 19238,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Person",
+            "name": "Larry Ferguson",
+            "url": "/name/nm0272511/"
+        }
+    ],
+    "datePublished": "1988-06-10",
+    "description": "A San Francisco civilian police detective is forced to work on a series of murders with his former enemy commanding officer while dating his daughter.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Peter Hyams",
+            "url": "/name/nm0001382/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTAyNTU1ZjMtMmU2NC00YjQ4LTk5ODUtMzVkZjU0Y2M0YTJmXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "hostility,detective,murder,investigation,factory",
+    "name": "The Presidio",
+    "original_info": {
+        "id": "The Presidio_1988",
+        "name": "The Presidio",
+        "year": "1988"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "fibermik"
+        },
+        "dateCreated": "2002-02-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0095897/"
+        },
+        "name": "One hell of a love story!",
+        "reviewBody": "This story looks like other drama/action movies. The story take place at the Presidio (military base) and is nothing new (a criminal investigation inside military lines) but Meg Ryan, Sean Connery, Mark Harmon plays it so well that the thin story becomes a minimum. Though it isn't a complete love story and have a little attention to it, Mark Harmon and Meg Ryan does it very well. She has a complex since her father (Sean Connery) probably spent more time doing the army instead of his wife (her mother). She cannot concentrate her mind on one man for long. Of course he (Mark Harmon) falls in love with her after a few love scenes, and at a party he get furious when she wants to dance with another gentleman. They come apart. This is when I noticed that this movie was about love. At home she have a little fight with her father over the problem, and as a solution to this she goes back to Mark Harmon's apartment where she apologize. When the story reach top and they solve the puzzle the end comes very quickly, but as they walk away hand in hand I feel like something else has been solved. The love between father and daughter, and of course between daughter and her lover (Mark H.).\n\nSee for yourself Meg Ryan is made to be a father's darling."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A San Francisco civilian police detective is forced to work on a series of murders with his former enemy commanding officer while dating his daughter.",
+        "duration": "PT2M41S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3285500185",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZGE1YTQ1ZDgtOWFhNS00YzdmLTgzMDQtNjA2MWY5YTE1ZTMyXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZGE1YTQ1ZDgtOWFhNS00YzdmLTgzMDQtNjA2MWY5YTE1ZTMyXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-11-03T11:20:50.288Z",
+        "url": "https://www.imdb.com/video/vi3285500185/"
+    },
+    "url": "/title/tt0095897/"
+}

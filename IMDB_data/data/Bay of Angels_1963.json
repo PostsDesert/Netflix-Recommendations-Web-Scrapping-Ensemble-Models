@@ -1,0 +1,85 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jeanne Moreau",
+            "url": "/name/nm0603402/"
+        },
+        {
+            "@type": "Person",
+            "name": "Claude Mann",
+            "url": "/name/nm0542690/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Guers",
+            "url": "/name/nm0244849/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3863,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "alternateName": "Bay of Angels",
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0059748/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jacques Demy",
+            "url": "/name/nm0218840/"
+        }
+    ],
+    "datePublished": "1963-03-01",
+    "description": "Jean is a clerk in a bank. His colleague Caron is a gambler and gives him the virus. In the casinos, Jean meets Jackie. Their love affair will follow their luck at the roulette.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jacques Demy",
+            "url": "/name/nm0218840/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjg1N2MwN2ItOTM2ZS00NDIyLWEwNDEtZjFkZjk4MGEzNTAyXkEyXkFqcGdeQXVyNTA2NDc4OA@@._V1_.jpg",
+    "keywords": "roulette,southern france,1960s,cote d'azur,blonde",
+    "name": "La baie des anges",
+    "original_info": {
+        "id": "Bay of Angels_1963",
+        "name": "Bay of Angels",
+        "year": "1963"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "WhimsicalVonia"
+        },
+        "dateCreated": "2018-05-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0056846/"
+        },
+        "name": "Bleak but Enlivening Black + White Psychological Film",
+        "reviewBody": "Bay of Angels (French: La baie des anges) (1963) Director: Jacques Demy Watched: February 2018 Rating: 7/10 \n\nAn immersive dance, Doomed love in bleak black and white, Lovely Legrand score, Eloquent warning against Wayward gambling lifestyle. ---- Tanka, literally \"short poem\", is a form of poetry consisting of five lines, unrhymed, with the 5-7-5-7-7 syllable format. #Tanka #PoemReview",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0056846/"
+}

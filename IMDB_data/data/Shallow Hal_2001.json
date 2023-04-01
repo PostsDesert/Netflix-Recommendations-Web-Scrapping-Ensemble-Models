@@ -1,0 +1,122 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jack Black",
+            "url": "/name/nm0085312/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gwyneth Paltrow",
+            "url": "/name/nm0000569/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jason Alexander",
+            "url": "/name/nm0004517/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 137033,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0030016/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0039548/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sean Moynihan",
+            "url": "/name/nm1765923/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Farrelly",
+            "url": "/name/nm0268380/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bobby Farrelly",
+            "url": "/name/nm0125803/"
+        }
+    ],
+    "datePublished": "2001-11-09",
+    "description": "A shallow man falls in love with a 300-pound woman because of her inner beauty.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bobby Farrelly",
+            "url": "/name/nm0125803/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Farrelly",
+            "url": "/name/nm0268380/"
+        }
+    ],
+    "duration": "PT1H54M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTcwMzY2NDE0NF5BMl5BanBnXkFtZTYwNjg2Njc2._V1_.jpg",
+    "keywords": "inner beauty,nudity,alternative reality,alternate world,nickname as title",
+    "name": "Shallow Hal",
+    "original_info": {
+        "id": "Shallow Hal_2001",
+        "name": "Shallow Hal",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "triple8"
+        },
+        "dateCreated": "2003-08-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0256380/"
+        },
+        "name": "Cute little pic-not great but good.",
+        "reviewBody": "Paltrow's pretty good here, I enjoyed this movie a lot. Not great but certainly good, carries a nice message and it's a good premise.\n\nHowever, a lot of people did get offended by this. The movie kind of does that to itself-though the theme here is \"everybodys' beautiful\" etc etc and meant to look at how much women are judged by their looks, the movie wasn't as bold as it could have been. If it REALLY wanted to take hold of this issue there would have been more of the \"heavy paltrow\" not just a few quick shots. Shows the thin paltrow a lot more and it shouldn't. Does anyone get the feeling the movie was almost afraid of it's own subject matter? That's what takes the \"oomph\" out of the movie and makes it a sweet little picture rather then an outstanding film. Still, it's OK-I know many people, both heavy and thin who saw this, most were not offended by the picture but had the movie aimed for serious movie making instead of predictable Hollywood fare(the former would have been more appropriate for the subject matter at hand) the movie would have been a lot better.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT2M7S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1434911001",
+        "name": "Shallow Hal",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNmQxMjNkMzQtYjUyZC00ZTVkLWJkZmItOTAyZjMxNmU1MDRiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNmQxMjNkMzQtYjUyZC00ZTVkLWJkZmItOTAyZjMxNmU1MDRiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:03:17Z",
+        "url": "https://www.imdb.com/video/vi1434911001/"
+    },
+    "url": "/title/tt0256380/"
+}

@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Leslie Howard",
+            "url": "/name/nm0001366/"
+        },
+        {
+            "@type": "Person",
+            "name": "Humphrey Bogart",
+            "url": "/name/nm0000007/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bette Davis",
+            "url": "/name/nm0000012/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 14271,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "Passed",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Kenyon",
+            "url": "/name/nm0448981/"
+        },
+        {
+            "@type": "Person",
+            "name": "Delmer Daves",
+            "url": "/name/nm0202681/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert E. Sherwood",
+            "url": "/name/nm0792845/"
+        }
+    ],
+    "datePublished": "1936-02-08",
+    "description": "A waitress, a hobo and a bank robber get mixed up at a lonely diner in the desert.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Archie Mayo",
+            "url": "/name/nm0562845/"
+        }
+    ],
+    "duration": "PT1H22M",
+    "genre": [
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk0NTcyNzgxNl5BMl5BanBnXkFtZTgwNzEzMzE5MTE@._V1_.jpg",
+    "keywords": "diner,drifter,artist,self destructiveness,love triangle",
+    "name": "The Petrified Forest",
+    "original_info": {
+        "id": "The Petrified Forest_1936",
+        "name": "The Petrified Forest",
+        "year": "1936"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ivan-22"
+        },
+        "dateCreated": "2000-08-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0028096/"
+        },
+        "name": "Perfect Classic",
+        "reviewBody": "A glorious movie based on a very wise and compassionate play. It is a savage indictment of a lifeless civilization. Confronted by death in a hostage situation, one elderly wife bitterly reproaches her husband of having stifled her personality: \"You took my soul, you stenciled it on a card and filed it\". Leslie Howard gives up his quest for bliss, and seeks to die in style for his beloved. Bogart represents nature lashing out against man. Alas, few movies from the thirties achieve this height of artistry. Hollywood makes a mistake when drawing plots from novels rather than plays. The concentrated compactness and intimacy of a play cannot be had from a sprawling novel."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for this film based on the Broadway hit",
+        "duration": "PT4M13S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1355809817",
+        "name": "The Petrified Forest",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjE1ZmIxOTQtOWZiYy00ZThhLTk0YzgtYmM5ZWEyZjU4ODYxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjE1ZmIxOTQtOWZiYy00ZThhLTk0YzgtYmM5ZWEyZjU4ODYxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-01-16T16:53:58Z",
+        "url": "https://www.imdb.com/video/vi1355809817/"
+    },
+    "url": "/title/tt0028096/"
+}

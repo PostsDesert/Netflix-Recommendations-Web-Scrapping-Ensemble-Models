@@ -1,0 +1,117 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Joey Lawrence",
+            "url": "/name/nm0005129/"
+        },
+        {
+            "@type": "Person",
+            "name": "Billy Joel",
+            "url": "/name/nm0005055/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cheech Marin",
+            "url": "/name/nm0001507/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 50197,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0074039/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0076881/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0008970/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Cox",
+            "url": "/name/nm0185084/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tim Disney",
+            "url": "/name/nm0228400/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Mangold",
+            "url": "/name/nm0003506/"
+        }
+    ],
+    "datePublished": "1988-11-18",
+    "description": "A lost and alone kitten joins a gang of dogs engaged in petty larceny in New York City.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "George Scribner",
+            "url": "/name/nm0780117/"
+        }
+    ],
+    "duration": "PT1H14M",
+    "genre": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI5NTE2OTQtN2YyZi00OTI5LTljMmEtMDZlMTk0MzNmZmY5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "alone,friendship,criminal,urban setting,anthropomorphic animal",
+    "name": "Oliver & Company",
+    "original_info": {
+        "id": "Oliver & Company_1988",
+        "name": "Oliver & Company",
+        "year": "1988"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "cimorene_fantasy"
+        },
+        "dateCreated": "2003-07-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0095776/"
+        },
+        "name": "A truly touching and hilarious adaptation of Oliver Twist",
+        "reviewBody": "We've seen a musical version of Oliver, even an animated series, but an animated musical with a cast of dogs and kitten called Oliver set in New York, you'd think it would be a disaster. But, thanks to Disney magic, this film is a classic filled with songs that are never forgotten as well as that wonderful combination of comedy and family drama.\n\nWhen a homeless kitten comes across a street-wise dog with a gift for song and stealing hot dogs, little Oliver finds himself the member of an exclusive gang of thieving dogs. But before he even executes his first crime, he is discovered by a lonely little girl in need of a friend. Chaos soon ensues as Jenny and Oliver get caught up in a kidnapping by the classic evil villain.\n\nIt's a fun filled romp to be enjoyed by one and all over and over again.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Clip: Good Company",
+        "duration": "PT58S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2688002329",
+        "name": "Oliver and Company: 25th Anniversary Edition",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjVkMzFiYTYtNGFkMi00MGJlLTllMDgtMDYyZjNkZmUxNjVhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjVkMzFiYTYtNGFkMi00MGJlLTllMDgtMDYyZjNkZmUxNjVhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2013-08-08T04:38:54Z",
+        "url": "https://www.imdb.com/video/vi2688002329/"
+    },
+    "url": "/title/tt0095776/"
+}

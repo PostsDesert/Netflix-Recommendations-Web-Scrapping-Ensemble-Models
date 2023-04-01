@@ -1,0 +1,77 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Densmore",
+            "url": "/name/nm0219730/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robby Krieger",
+            "url": "/name/nm0471211/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ray Manzarek",
+            "url": "/name/nm0544456/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 343,
+        "ratingValue": 8.4,
+        "worstRating": 1
+    },
+    "description": "A collection of short films, interviews and concert footage of the '60s rock band The Doors.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ray Manzarek",
+            "url": "/name/nm0544456/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rick Schmidlin",
+            "url": "/name/nm0772778/"
+        }
+    ],
+    "duration": "PT2H52M",
+    "genre": [
+        "Documentary",
+        "Biography",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkwNDk1NzI4OV5BMl5BanBnXkFtZTcwMDc4MjMyMQ@@._V1_.jpg",
+    "keywords": "concert footage,the doors,music history,rock music",
+    "name": "The Doors Collection",
+    "original_info": {
+        "id": "The Doors Collection_1991",
+        "name": "The Doors Collection",
+        "year": "1991"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jannagal"
+        },
+        "dateCreated": "2006-01-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0500122/"
+        },
+        "name": "No new door opened.",
+        "reviewBody": "As a real Doors fan right from the earliest Door's days, I was grateful for a DVD collection that includes three basic video segments: Dance on Fire, Live at the Hollywood Bowl and The Soft Parade. Each of the videos is directed by Ray Manzarek. The \"extras\" include Ray's two UCLA student films.\n\nThough it is hard for me to give a Doors video anything less than 10 stars out of 10, I rated it 8 because it could have been so much more than a \"collection\" of Doors stuff. The voice-over commentary by the three surviving Doors(on the \"extras\" menu)was a little disappointing. While it was interesting to hear their reminiscences, it offered little new insight into the relationships among the Doors. Commentary over the first two videos included a lot of needless self-aggrandizing(everybody already knows that Robbie wrote most of \"Light My Fire\", for instance). Commentary over \"Soft Parade\" was most revealing, and was very interesting.\n\nThough I only rated it an 8, I bought the DVD, and because the Doors are my favorite group, I've watched it many times. So, if you are a fan, you will probably enjoy the DVD, but don't look for a new door to open by viewing the videos or commentary.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0500122/"
+}

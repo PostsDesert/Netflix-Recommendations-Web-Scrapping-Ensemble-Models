@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Brendan Fraser",
+            "url": "/name/nm0000409/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve Buscemi",
+            "url": "/name/nm0000114/"
+        },
+        {
+            "@type": "Person",
+            "name": "Adam Sandler",
+            "url": "/name/nm0001191/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 53550,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0049958/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0033486/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rich Wilkes",
+            "url": "/name/nm0929186/"
+        }
+    ],
+    "datePublished": "1994-08-05",
+    "description": "Three band members hoping for a big break head to a radio station to play their demo tape and wind up holding everyone hostage with plastic guns when the head D.J. refuses to play them.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Lehmann",
+            "url": "/name/nm0499724/"
+        }
+    ],
+    "duration": "PT1H32M",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BY2M3OWY0OTYtZWE5Yy00NDRkLTllYmUtOWVjOTMyZjJjNjhkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "hostage,rock band,water pistol,air duct,swat team",
+    "name": "Airheads",
+    "original_info": {
+        "id": "Airheads_1994",
+        "name": "Airheads",
+        "year": "1994"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "gavin6942"
+        },
+        "dateCreated": "2013-07-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0109068/"
+        },
+        "name": "One of the Great 1990s Comedies",
+        "reviewBody": "Three band members hoping for a big break head to a radio station to play their demo tape and wind up holding everyone hostage with plastic guns when the head DJ is unable to play them.\n\nTo say this film is a good one from a critical standpoint is a lie, as it is pretty bad in a multitude of ways. But as far as 1990s comedies go, or films connected to \"Saturday Night Live\" (this one very loosely), this ranks up there in entertainment value.\n\nIf nothing else, the cast sells this -- David Arquette and Michael Richards before their prime. Adam Sandler at his peak. Brendan Fraser in a transition from Pauly Shore to \"real\" films... and Steve Buscemi? This is just loaded with talent.\n\nThe music will not appeal to everyone. Even as a fan of metal, I have to say a lot of the music is not as top-notch as it probably should be.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from 20th Century Fox Home Entertainment",
+        "duration": "PT2M26S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1639252249",
+        "name": "Airheads",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzVlNTJjYzctZmEyZS00NmM5LTkwYTgtNjdiNmYyY2RhN2U2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzVlNTJjYzctZmEyZS00NmM5LTkwYTgtNjdiNmYyY2RhN2U2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T11:19:59Z",
+        "url": "https://www.imdb.com/video/vi1639252249/"
+    },
+    "url": "/title/tt0109068/"
+}

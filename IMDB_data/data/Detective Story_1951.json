@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kirk Douglas",
+            "url": "/name/nm0000018/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eleanor Parker",
+            "url": "/name/nm0662223/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Bendix",
+            "url": "/name/nm0000904/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 8919,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Person",
+            "name": "Philip Yordan",
+            "url": "/name/nm0948634/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Wyler",
+            "url": "/name/nm0943753/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sidney Kingsley",
+            "url": "/name/nm0455549/"
+        }
+    ],
+    "datePublished": "1952-05-19",
+    "description": "On one day in the 21st Precinct squad room, assorted characters form a backdrop for the troubles of hard-nosed Detective Jim McLeod.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "William Wyler",
+            "url": "/name/nm0943758/"
+        }
+    ],
+    "duration": "PT1H43M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Film-Noir"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkxYzQ0MzgtMzUyOS00OGYyLTg0MDAtODY5MTM1NmQwMmZmXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "keywords": "shoulder holster,holster,american police officer,police precinct,burglar",
+    "name": "Detective Story",
+    "original_info": {
+        "id": "Detective Story_1951",
+        "name": "Detective Story",
+        "year": "1951"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dglink"
+        },
+        "dateCreated": "2006-08-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0043465/"
+        },
+        "name": "Powerful Kirk Douglas Performance in NYC Precinct Drama",
+        "reviewBody": "Adapted from a stage play by Sidney Kingsley, \"Detective Story\" depicts a day at a New York police precinct in the early 1950's. The film resembles a feature-length episode of \"Barney Miller\" without the jokes as the detectives bring various shoplifters, petty thieves, and embezzlers into the station for booking. However, the film does not lack humor as a broad hammy performance by Joseph Wiseman and an only slightly subtler take on a Brooklynese shoplifter by Lee Grant lighten up the often heavily dramatic proceedings.\n\nThe central character, Detective Jim McLeod, is an unforgiving, by-the-book veteran, who sees the world in black and white, good versus evil, with no shades of gray in between. Kirk Douglas brings McLeod to life in one of his finest, most powerful performances. Douglas's Oscar-caliber work is matched by a fragile, deeply felt performance by Eleanor Parker as McLeod's wife, who harbors a secret from her past that, unknown to either McLeod or his wife, connects back to an on-going police case. The scenes between Douglas and Parker are among the best in the film.\n\nVeteran director William Wyler retains most of the play's action in the central precinct room and only occasionally breaks from the claustrophobic set for a breather. Lee Garmes photographed \"Detective Story\" in crisp black and white, and some of the shots of New York City could be framed and hung on a wall. With a cast of top character players that includes Gladys George, William Bendix, Frank Faylen, and George Macready, the multi-character, multi-plotted \"Detective Story\" is a powerful, well-acted film that somehow is less often seen than its quality warrants.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT2M22S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3978739225",
+        "name": "Detective Story",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDU4N2MxZjQtMTcxNi00OTFlLWIzYzItOGVkNDY4YzE1YjdhXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDU4N2MxZjQtMTcxNi00OTFlLWIzYzItOGVkNDY4YzE1YjdhXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-06-16T18:30:55.850Z",
+        "url": "https://www.imdb.com/video/vi3978739225/"
+    },
+    "url": "/title/tt0043465/"
+}

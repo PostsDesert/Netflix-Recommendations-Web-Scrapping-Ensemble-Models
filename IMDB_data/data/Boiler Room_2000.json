@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Giovanni Ribisi",
+            "url": "/name/nm0000610/"
+        },
+        {
+            "@type": "Person",
+            "name": "Vin Diesel",
+            "url": "/name/nm0004874/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nia Long",
+            "url": "/name/nm0000505/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 54559,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0046718/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0050544/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ben Younger",
+            "url": "/name/nm0950226/"
+        }
+    ],
+    "datePublished": "2000-02-18",
+    "description": "A college dropout, attempting to live up to his father's high standards, gets a job as a broker for a suburban investment firm which puts him on the fast track to success. But the job might not be as legitimate as it first appeare...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ben Younger",
+            "url": "/name/nm0950226/"
+        }
+    ],
+    "duration": "PT2H",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BN2I1N2NhODEtYTc5My00ZWExLTljZTMtNTAxYWE0MTYwOWVkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "keywords": "financial fraud,stock trader,securities fraud,securities exchange commission,fraudster",
+    "name": "Boiler Room",
+    "original_info": {
+        "id": "Boiler Room_2000",
+        "name": "Boiler Room",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "glocksout"
+        },
+        "dateCreated": "2006-08-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0181984/"
+        },
+        "name": "Thinking with Testosterone",
+        "reviewBody": "Boiler Room is basically about a young college drop-out, played by Giovanni Ribisi, who is seeking the quick way to the top. He starts an illegal gambling casino in his home, but is soon offered a job as a stock broker. This is a fast-paced occupation full of young guys who don't know what to do with their money. They gamble constantly, they party constantly; drugs, women and cars. On the surface, this is easily brushed off as a formulaic, pop-culture movie. If you pay attention though, this is a lot more than that. The subtext for this story is the relationship Ribisi has with his father. This relationship holds a lot of tension, and through the film goes through many changes both positive and negative, and culminates in a tear-jerking revelation. I'll admit it, I almost cried. But there is also a lot more going on here, most notably the story of one of Ribisi's clients who had domestic problems he had to face with his wife and children. His performance was impressive, and you really felt for him.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from New Line Home Entertainment",
+        "duration": "PT2M16S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1622868249",
+        "name": "Boiler Room",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMWI3MjFiMWMtYjNiNy00NGE4LTg5MGQtNWQ4ZWMzNTQ2NWU0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMWI3MjFiMWMtYjNiNy00NGE4LTg5MGQtNWQ4ZWMzNTQ2NWU0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:44:29Z",
+        "url": "https://www.imdb.com/video/vi1622868249/"
+    },
+    "url": "/title/tt0181984/"
+}

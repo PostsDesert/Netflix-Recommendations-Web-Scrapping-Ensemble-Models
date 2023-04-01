@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jason Robards",
+            "url": "/name/nm0001673/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jonathan Pryce",
+            "url": "/name/nm0000596/"
+        },
+        {
+            "@type": "Person",
+            "name": "Diane Ladd",
+            "url": "/name/nm0002663/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9904,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0098836/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0068126/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ray Bradbury",
+            "url": "/name/nm0001969/"
+        }
+    ],
+    "datePublished": "1983-04-29",
+    "description": "In a small American town, a diabolical circus and its demonic proprietor prey on the townsfolk.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jack Clayton",
+            "url": "/name/nm0002338/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Fantasy",
+        "Mystery",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjAwNWM2ZjItMTgwYi00YjMzLTkyZjEtYTU2YjFiODkzMjA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "keywords": "boy,carnival,spider,spider attack,horror for children",
+    "name": "Something Wicked This Way Comes",
+    "original_info": {
+        "id": "Something Wicked This Way Comes_1983",
+        "name": "Something Wicked This Way Comes",
+        "year": "1983"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "evryafluffy1"
+        },
+        "dateCreated": "2008-04-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0086336/"
+        },
+        "name": "Lets see the original cut",
+        "reviewBody": "Iremember reading an article on this movie in the NME in the 80s. It told how some execs at Disney did not like the movie because it went against what the studio stood for. good family entertainment. I have heard that they didn't like Watcher In The Woods either for the same reasons.Soon after they formed Touchstone Pictures and made Splash which must have been in script development at the time and thats family entertainment?. This movie really deserves a reissue as it remains one of the best live action pieces that Disney have ever done. Jonathan Pryce was perfectly cast as Mr Dark and the two child actors are refreshingly mature for a Disney movie. it seems funny that a movie that is this scary should have been made by Disney and as the house of mouse never throws anything away there must be enough for a real good DVD release of it. i notice on the comment boards that there is demand for a remake. good idea but it would have to be Jonathan Pryce as Mr dark once again and Cauron or del Toro as directors as they are the only ones with a vision dark enough for it.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Something Wicked This Way Comes",
+        "duration": "PT3M",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2861931545",
+        "name": "Something Wicked This Way Comes",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjhkNzM4YjItYzA3OC00NjllLTllNjktM2JiYzU4NmJmODRkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjhkNzM4YjItYzA3OC00NjllLTllNjktM2JiYzU4NmJmODRkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-06-23T03:36:10Z",
+        "url": "https://www.imdb.com/video/vi2861931545/"
+    },
+    "url": "/title/tt0086336/"
+}

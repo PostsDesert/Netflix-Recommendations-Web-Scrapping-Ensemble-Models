@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Henry Fonda",
+            "url": "/name/nm0000020/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lee J. Cobb",
+            "url": "/name/nm0002011/"
+        },
+        {
+            "@type": "Person",
+            "name": "Martin Balsam",
+            "url": "/name/nm0000842/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 804444,
+        "ratingValue": 9,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0032902/"
+        },
+        {
+            "@type": "Person",
+            "name": "Reginald Rose",
+            "url": "/name/nm0741627/"
+        }
+    ],
+    "datePublished": "1957-04-10",
+    "description": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Sidney Lumet",
+            "url": "/name/nm0001486/"
+        }
+    ],
+    "duration": "PT1H36M",
+    "genre": [
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "keywords": "jury,dialogue driven,courtroom,trial,jury room",
+    "name": "12 Angry Men",
+    "original_info": {
+        "id": "12 Angry Men_1957",
+        "name": "12 Angry Men",
+        "year": "1957"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "henriquelrf"
+        },
+        "dateCreated": "2020-01-31",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0050083/"
+        },
+        "name": "Dont judge by the age!",
+        "reviewBody": "For a while I was not very receptive to watching films that were too old. I always thought it would be difficult to get involved in the context, I couldn't be more wrong! 12 angry men, is a great example of how a simple film can do magic with good actors, and what great actors they are!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+        "duration": "PT2M14S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2924462873",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNGRlZjVhNWMtOTUxYi00MTYxLWEzOWUtMTM1NDc3ZWRjMDZjXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNGRlZjVhNWMtOTUxYi00MTYxLWEzOWUtMTM1NDc3ZWRjMDZjXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+        "uploadDate": "2022-03-27T00:51:37.270Z",
+        "url": "https://www.imdb.com/video/vi2924462873/"
+    },
+    "url": "/title/tt0050083/"
+}

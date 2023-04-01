@@ -1,0 +1,116 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jack Nicholson",
+            "url": "/name/nm0000197/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harvey Keitel",
+            "url": "/name/nm0000172/"
+        },
+        {
+            "@type": "Person",
+            "name": "Valerie Perrine",
+            "url": "/name/nm0674781/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6807,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0017240/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0050028/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Person",
+            "name": "Deric Washburn",
+            "url": "/name/nm0913346/"
+        },
+        {
+            "@type": "Person",
+            "name": "Walon Green",
+            "url": "/name/nm0338396/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Freeman",
+            "url": "/name/nm0293351/"
+        }
+    ],
+    "datePublished": "1982-02-12",
+    "description": "A corrupt border Agent decides to clean up his act when an impoverished woman's baby is put up for sale on the black market.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Tony Richardson",
+            "url": "/name/nm0724798/"
+        }
+    ],
+    "duration": "PT1H48M",
+    "genre": [
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYmNiMzA1YzktMzFmZC00ZTU2LTlhNjgtMWNiNGFkZTEyNmViXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+    "keywords": "border,texas,illegal immigrant,immigrant,u.s. mexico border",
+    "name": "The Border",
+    "original_info": {
+        "id": "The Border_1982",
+        "name": "The Border",
+        "year": "1982"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "tomgillespie2002"
+        },
+        "dateCreated": "2018-07-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0083678/"
+        },
+        "name": "Arguably Jack Nicholson's finest performance",
+        "reviewBody": "When one considers the extraordinary acting career of Jack Nicholson, the performances that immediately spring to mind are the likes of One Flew Over the Cuckoo's Nest, The Shining and even Tim Burton's Batman. They were roles seemingly tailor-made for Nicholson's manic arched eyebrows and devilish grin, but he was capable of so much more when, ironically, doing far less. Arguably, he has never been better than as Charlie Smith, the middle-aged and weary border agent working within a corrupt organisation in El Paso. When we first meet him, he is discussing with the owner of a factory which of his illegal immigrant employees to arrest so he can meet his quota of deportations. He reads the Mexican youths their rights like reading from a shopping list, but they'll be back in a few days. Charlie's job is ineffective and he knows it, and it takes a special actor to pull off indifference and boredom without appearing disinterested.\n\nEvery night he returns to his nondescript trailer to eat a TV dinner cooked by his stay-at-home wife Marcy (Valerie Perrine). It is Marcy who convinces Charlie to quit his job as an immigration enforcement officer and move to El Paso, where property is cheaper and a job as a border agent awaits him. To please the wife he has fallen out of love with but nevertheless tolerates, Charlie agrees, and falls in with fellow border agent Cat (Harvey Keitel). Along with his supervisor Red (Warren Oates), Cat runs a human trafficking operation across the border, and wants Charlie to join the payroll. Meanwhile, young Mexican mother Maria (Elpidia Carrillo) attempts to flee into the U.S. with her baby and younger brother after an earthquake decimates her town. When she frequently comes up against the border patrols, Charlie start to sympathise with her situation, as well as growing increasingly weary of his wife's wild spending and his colleagues' abuse of power.\n\nThe Border didn't do particularly well on its release and its memory has somewhat faded since, but director Tony Richardson's film packs enough of a punch to warrant a reevaluation. It perhaps arrived too late in a decade when cinema had moved away from the character-driven 70s and more towards visual decadence. Yet The Border could also be released today, and its subject matter would be just as relevant, if not more so. It highlights the problems on both sides, with corruption rife and those caught in the middle treated like dogs, and what little progress has been made in the decades since. Recent films like Sin Nombre and Cartel Land have explored and highlighted the same issues, and the result is always violence upon violence. Richardson, who is better known for his exceptional British works Look Back in Anger, A Taste of Honey, The Loneliness of the Long Distance Runnier and Tom Jones (amongst others), directs with little flair but trusts the story to pack enough power on its own. Although it descends into a generic, action-packed climax (which was forced in after test audiences reacted badly to the original ending), The Border deserves another shot, and features a Jack Nicholson at the very top of his game.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A corrupt border Agent decides to clean up his act when an impoverished woman's baby is put up for sale on the black market.",
+        "duration": "PT1M49S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3253584665",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNGJlNWMwZWEtZjQxOS00YTk3LTk4OTMtMjdjY2EzN2NjOGVlXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNGJlNWMwZWEtZjQxOS00YTk3LTk4OTMtMjdjY2EzN2NjOGVlXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-11-22T19:34:48.497Z",
+        "url": "https://www.imdb.com/video/vi3253584665/"
+    },
+    "url": "/title/tt0083678/"
+}

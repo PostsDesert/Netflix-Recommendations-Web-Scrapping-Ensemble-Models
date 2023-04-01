@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Michelle Yeoh",
+            "url": "/name/nm0000706/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anita Mui",
+            "url": "/name/nm0611315/"
+        },
+        {
+            "@type": "Person",
+            "name": "Maggie Cheung",
+            "url": "/name/nm0001041/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3761,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "alternateName": "The Heroic Trio",
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002905/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0033573/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sandy Shaw",
+            "url": "/name/nm0789966/"
+        }
+    ],
+    "datePublished": "1993-02-12",
+    "description": "While one tough woman with an invisible robe has stolen 18 babies for her powerful master, two other tough women and the cops try to stop her.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Johnnie To",
+            "url": "/name/nm0864775/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Action",
+        "Fantasy",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMGFjNTg4MzAtMTQ3Ny00ZDI3LWE5MGYtYWI3ZTc0OTRkYzAyXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+    "keywords": "superhero,girls with guns,superhero action,superhero fantasy",
+    "name": "Dung fong sam hap",
+    "original_info": {
+        "id": "The Heroic Trio_1992",
+        "name": "The Heroic Trio",
+        "year": "1992"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dr.bob"
+        },
+        "dateCreated": "2003-02-15",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0105619/"
+        },
+        "name": "Strange and wonderful Pictures",
+        "reviewBody": "For westerners this movie is quite strange. The mixture of fantasy, action and eastern setting creates a dream like scenery in which everything is possible. Take \"Tiger and Dragon\" and mix in more fantastic scenery and you have a rough idea of this movie. Great stuff that will bring you a totally new viewing experience.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Miramax",
+        "duration": "PT56S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3667198745",
+        "name": "The Heroic Trio",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjRmZGZjNWYtODY5ZC00YWNiLWE4YTctYWEzYjIzMjU3YzE5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjRmZGZjNWYtODY5ZC00YWNiLWE4YTctYWEzYjIzMjU3YzE5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-12-03T06:55:38Z",
+        "url": "https://www.imdb.com/video/vi3667198745/"
+    },
+    "url": "/title/tt0105619/"
+}

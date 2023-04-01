@@ -1,0 +1,114 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dom DeLuise",
+            "url": "/name/nm0001123/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cloris Leachman",
+            "url": "/name/nm0001458/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Nelson Reilly",
+            "url": "/name/nm0717650/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6991,
+        "ratingValue": 5.3,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0074322/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stu Krieger",
+            "url": "/name/nm0471217/"
+        },
+        {
+            "@type": "Person",
+            "name": "Don Bluth",
+            "url": "/name/nm0089940/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gary Goldman",
+            "url": "/name/nm0325776/"
+        }
+    ],
+    "datePublished": "1994-10-07",
+    "description": "An evil Queen banishes a flower loving troll named Stanley (Dom DeLuise) to New York City, where he befriends two young children.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Don Bluth",
+            "url": "/name/nm0089940/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gary Goldman",
+            "url": "/name/nm0325776/"
+        }
+    ],
+    "duration": "PT1H16M",
+    "genre": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTRmNTRiZGQtOGNjYi00NDAyLWFkNDQtOTgxOWMxZTM1YzBhXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_.jpg",
+    "keywords": "world trade center manhattan new york city,hand drawn animation,traditional animation,five word title,troubled production",
+    "name": "A Troll in Central Park",
+    "original_info": {
+        "id": "A Troll in Central Park_1994",
+        "name": "A Troll in Central Park",
+        "year": "1994"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "MovieTVRomanceFan"
+        },
+        "dateCreated": "2021-08-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0108395/"
+        },
+        "name": "It was Decent, but it could've been Better",
+        "reviewBody": "A Troll in Central Park was a decent film. It wasn't bad. It was musical, colourful and I liked the characters, but this film had its share of mistakes. It was really slow paced and the action didn't happen until much later towards the end of the film. It would've been far better if the battle with the evil troll queen happened sooner rather than later. I also feel they could've added more to the plot, especially with the characters and some of the development. This film was good, but I can see it had so much potential, but simply didn't live up to expectations. Overall, it was a decent film, but it definitely wasn't one of Don Bluth's best films that's for sure.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for A Troll In Central Park",
+        "duration": "PT2M1S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4071883033",
+        "name": "A Troll In Central Park",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMmUxZDQzN2QtYTE1MC00NTEwLThmMDYtNTMwZjllMWIyOWUzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMmUxZDQzN2QtYTE1MC00NTEwLThmMDYtNTMwZjllMWIyOWUzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T08:12:53Z",
+        "url": "https://www.imdb.com/video/vi4071883033/"
+    },
+    "url": "/title/tt0108395/"
+}

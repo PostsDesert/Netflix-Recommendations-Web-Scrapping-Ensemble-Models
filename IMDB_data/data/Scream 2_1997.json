@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Neve Campbell",
+            "url": "/name/nm0000117/"
+        },
+        {
+            "@type": "Person",
+            "name": "Courteney Cox",
+            "url": "/name/nm0001073/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Arquette",
+            "url": "/name/nm0000274/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 193403,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0019626/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0010901/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0013899/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kevin Williamson",
+            "url": "/name/nm0932078/"
+        }
+    ],
+    "datePublished": "1997-12-12",
+    "description": "Two years after the first series of murders, as Sidney acclimates to college life, someone donning the Ghostface costume begins a new string of killings.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Wes Craven",
+            "url": "/name/nm0000127/"
+        }
+    ],
+    "duration": "PT2H",
+    "genre": [
+        "Horror",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTIxNTMzNzYtNzA3NC00MzgwLTlhNGYtMDEyYTNlZjcwZTNiXkEyXkFqcGdeQXVyNDAxNjkxNjQ@._V1_.jpg",
+    "keywords": "villain,serial murder,murder spree,haunted by the past,film within a film",
+    "name": "Scream 2",
+    "original_info": {
+        "id": "Scream 2_1997",
+        "name": "Scream 2",
+        "year": "1997"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jellyneckr"
+        },
+        "dateCreated": "2005-06-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120082/"
+        },
+        "name": "A pretty good sequel",
+        "reviewBody": "In addition to becoming the first major box office hit for Dimension Films, 1996's SCREAM also became the horror film that would set the tone for the other horror films of the late 1990s. It was a phenomenal achievement in the horror genre so of coarse a sequel was just around the corner. The most common rule with movies is that sequels are terrible and while that is normally always true, that isn't the case with SCREAM 2. It should be noted that SCREAM 2 came out just a year after the original SCREAM. Most often when sequels come out a year after their predecessor, they turn out to be pretty bad (CHILD'S PLAY 3 for example). SCREAM 2, while not as good as SCREAM, manages to be an effective and well made sequel that surprisingly is just as clever as the first one and it contains the same kind of great dialogue the first one had as well. It helps that SCREAM 2 has most of the same cast members as the first one too. I think it's safe to say that SCREAM 2 was one of the better sequels of the 1990s. I'm giving it 7/10. Recommended for fans of horror."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT28S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi919641625",
+        "name": "Scream 2",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZWUwYzkxMjMtNjlmMy00M2Q3LTgwYWYtMWVhNTRiZjk2YWM4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZWUwYzkxMjMtNjlmMy00M2Q3LTgwYWYtMWVhNTRiZjk2YWM4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-10-26T03:44:35Z",
+        "url": "https://www.imdb.com/video/vi919641625/"
+    },
+    "url": "/title/tt0120082/"
+}

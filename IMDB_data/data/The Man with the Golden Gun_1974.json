@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Roger Moore",
+            "url": "/name/nm0000549/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christopher Lee",
+            "url": "/name/nm0000489/"
+        },
+        {
+            "@type": "Person",
+            "name": "Britt Ekland",
+            "url": "/name/nm0001180/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 108359,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0054040/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Maibaum",
+            "url": "/name/nm0537363/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tom Mankiewicz",
+            "url": "/name/nm0542539/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ian Fleming",
+            "url": "/name/nm0001220/"
+        }
+    ],
+    "datePublished": "1974-12-20",
+    "description": "James Bond is targeted by the world's most expensive assassin, while he attempts to recover sensitive solar cell technology that is being sold to the highest bidder.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Guy Hamilton",
+            "url": "/name/nm0357891/"
+        }
+    ],
+    "duration": "PT2H5M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYjY3YmM1MTItMWE0NC00NjFmLWFkMDgtMWFiZjY5NzQyZGVjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "keywords": "assassin,secret agent,martial arts,007,official james bond series",
+    "name": "The Man with the Golden Gun",
+    "original_info": {
+        "id": "The Man with the Golden Gun_1974",
+        "name": "The Man with the Golden Gun",
+        "year": "1974"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Uriah43"
+        },
+        "dateCreated": "2014-07-31",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0071807/"
+        },
+        "name": "My Favorite James Bond Movie",
+        "reviewBody": "This is the second film for Roger Moore in the role of \"Agent 007\" and even though this particular movie isn't the best it happens to be my favorite James Bond movie of them all. Essentially, the world's #1 assassin named \"Scaramanga\" (Christopher Lee) has sent a golden bullet to James Bond indicating that he is his next target. So rather than waiting around for Scaramanga to choose the time and place James Bond decides to find him first. This leads him to Beirut, Macao, Hong Kong and Bangkok in an attempt to find information that might be helpful in that regard. Now, rather than reveal the rest of the story I will just say that this movie does a good job of combining both action and comedy. As a matter of fact, I think this is probably the most humorous James Bond film ever made as it features nifty one-liners from James Bond along with \"Sheriff J. W. Pepper\" (Clifton James) and a midget named \"Nick Nack\" (Herve Villechaize). It also features two quite attractive women in Maud Adams (as Scaramanga's mistress, \"Andrea\") and Britt Ekland (as \"Agent Goodnight\"). Again, it might not be the best James Bond movie but I found it to be quite entertaining and recommend it to all fans of the series. Above average.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT3M26S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2754854681",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BN2FkOGI3NTMtMWQ3Ny00ZjIyLWE1NzYtZDYyZjE2NDc3MDQ5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BN2FkOGI3NTMtMWQ3Ny00ZjIyLWE1NzYtZDYyZjE2NDc3MDQ5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2019-11-27T20:53:02.716Z",
+        "url": "https://www.imdb.com/video/vi2754854681/"
+    },
+    "url": "/title/tt0071807/"
+}

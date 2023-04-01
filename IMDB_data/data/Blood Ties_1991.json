@@ -1,0 +1,85 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Harley Venton",
+            "url": "/name/nm0893271/"
+        },
+        {
+            "@type": "Person",
+            "name": "Patrick Bauchau",
+            "url": "/name/nm0000872/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kim Johnston Ulrich",
+            "url": "/name/nm0005514/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 477,
+        "ratingValue": 5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0182724/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Alan Shapiro",
+            "url": "/name/nm0788616/"
+        }
+    ],
+    "datePublished": "1991-05-27",
+    "description": "They've melded into modern society. They've evolved. They learned to control their need to feed that ancient desire for human blood that binds the Carpathian family forever. Though it's not enough. Suddenly they're the ones being ...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jim McBride",
+            "url": "/name/nm0564319/"
+        }
+    ],
+    "duration": "PT1H24M",
+    "genre": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjM4NThjODUtY2U4Mi00N2ZmLWJlN2MtNThlNDY4MmNiMDE5XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+    "keywords": "beach,vampire,journalist,crossbow,uncle nephew relationship",
+    "name": "Blood Ties",
+    "original_info": {
+        "id": "Blood Ties_1991",
+        "name": "Blood Ties",
+        "year": "1991"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "SherBa"
+        },
+        "dateCreated": "1999-03-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0101477/"
+        },
+        "name": "One of the sexiest vampire movies",
+        "reviewBody": "I really liked this movie because it depicted the vampires as updated, cool, funny and very hip. Unfortunately, it was a made-for-TV movie and therefore limited in some of the things it could show. I do recommend this movie.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0101477/"
+}

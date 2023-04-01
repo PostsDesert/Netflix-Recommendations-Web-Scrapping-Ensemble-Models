@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Natasha Henstridge",
+            "url": "/name/nm0000449/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ice Cube",
+            "url": "/name/nm0001084/"
+        },
+        {
+            "@type": "Person",
+            "name": "Pam Grier",
+            "url": "/name/nm0000427/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 55885,
+        "ratingValue": 4.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0010568/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0079140/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0100582/"
+        },
+        {
+            "@type": "Person",
+            "name": "Larry Sulkis",
+            "url": "/name/nm0837917/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Carpenter",
+            "url": "/name/nm0000118/"
+        }
+    ],
+    "datePublished": "2001-08-24",
+    "description": "In 2176, a Martian police unit is sent to pick up a highly dangerous criminal at a remote mining post. Upon arrival, the cops find that the post has become a charnel house.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Carpenter",
+            "url": "/name/nm0000118/"
+        }
+    ],
+    "duration": "PT1H38M",
+    "genre": [
+        "Action",
+        "Horror",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYjNkYjgwMGYtM2UyYi00ZmRhLTk5MzAtYmU0MDY3ODgzODRiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "martian,mars the planet,22nd century,blood,train",
+    "name": "Ghosts of Mars",
+    "original_info": {
+        "id": "Ghosts of Mars_2001",
+        "name": "Ghosts of Mars",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "CinemaClown"
+        },
+        "dateCreated": "2018-09-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0228333/"
+        },
+        "name": "Not As Bad As Its Rating Suggests",
+        "reviewBody": "Packing a badass cast & good dose of gore-filled action, John Carpenter's penultimate film (to date) features an interesting premise and even set things up well in the beginning but once the main plot takes over, the script shortcomings start to surface as dialogues go downhill, characters turn bland, acting takes a hit, VFX inadequacy is exposed, and the scare factor diminishes in its entirety. Not one of Carpenter's best but not a chore either, Ghosts of Mars still has an unabashed quality to it that makes the ride somewhat enjoyable despite the hammy acting & over-the-top execution."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Tristar",
+        "duration": "PT2M7S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi580059417",
+        "name": "John Carpenter's Ghosts of Mars",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTZkYWEwMTctM2YwOS00NjNiLWJkZjMtY2JiMTFhY2YwNDI4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTZkYWEwMTctM2YwOS00NjNiLWJkZjMtY2JiMTFhY2YwNDI4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:50:24Z",
+        "url": "https://www.imdb.com/video/vi580059417/"
+    },
+    "url": "/title/tt0228333/"
+}

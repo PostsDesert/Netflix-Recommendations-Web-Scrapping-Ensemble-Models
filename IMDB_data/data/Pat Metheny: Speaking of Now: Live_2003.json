@@ -1,0 +1,48 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Pat Metheny",
+            "url": "/name/nm0582533/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lyle Mays",
+            "url": "/name/nm0563077/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve Rodby",
+            "url": "/name/nm0734446/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 51,
+        "ratingValue": 8.9,
+        "worstRating": 1
+    },
+    "datePublished": "2003-11-18",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Takayuki Watanabe",
+            "url": "/name/nm1624116/"
+        }
+    ],
+    "duration": "PT2H15M",
+    "genre": [
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNGMxNmQwMGYtMWZmYS00YzhjLWE4MzktYzI0Y2ZiNzA2OWNhXkEyXkFqcGdeQXVyMTkzODcxMzI@._V1_.jpg",
+    "name": "Pat Metheny Group: Speaking of Now Live",
+    "original_info": {
+        "id": "Pat Metheny: Speaking of Now: Live_2003",
+        "name": "Pat Metheny: Speaking of Now: Live",
+        "year": "2003"
+    },
+    "url": "/title/tt0410428/"
+}

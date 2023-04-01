@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Joanne Whalley",
+            "url": "/name/nm0000695/"
+        },
+        {
+            "@type": "Person",
+            "name": "Armand Assante",
+            "url": "/name/nm0000800/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gabriel Byrne",
+            "url": "/name/nm0000321/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1972,
+        "ratingValue": 5.4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0033472/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jordan Katz",
+            "url": "/name/nm0441750/"
+        },
+        {
+            "@type": "Person",
+            "name": "Heywood Gould",
+            "url": "/name/nm0332392/"
+        }
+    ],
+    "datePublished": "1994-09-09",
+    "description": "Valerie is a juror in the trial of a mob boss. When her young son's life is threatened, she has no option other than to see that justice isn't done.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Heywood Gould",
+            "url": "/name/nm0332392/"
+        }
+    ],
+    "duration": "PT1H47M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjgyMjYxYzMtOTY4Zi00ZjYxLThkNmEtZmY1NWExZDJjMWU3XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "antique clothing store,jury member,prostitute,protected witness,three word title",
+    "name": "Trial by Jury",
+    "original_info": {
+        "id": "Trial by Jury_1994",
+        "name": "Trial by Jury",
+        "year": "1994"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "rhill-770-504848"
+        },
+        "dateCreated": "2013-08-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0111488/"
+        },
+        "name": "An Underrated Film",
+        "reviewBody": "This film is so much better than The Juror. William Hurt is outstanding as a conflicted man, Kathleen Quinlan is amazingly creepy in her role, the tension between Joanne Whalley-Kilmer and the others, Armand Assante in particular, is emotional and well done. You will feel her isolation and fear. You will feel Gabriel Byrne's frustration as he tries to catch the mob boss and and work within the law only to have the legal system perverted by the influence of that mob. You will see how his character, who grew up with the mobster (Assante) could easily have gone in that direction. It has a great supporting cast with people like Joe Santos, Ed Lauter and Margaret Whitton. The film is also done in a film noir style. If you like classy films, you'll love it.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT1M49S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4042630681",
+        "name": "Trial By Jury",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZWM1ZGI0OGItOGYxYy00MGZkLTg5MjMtMzA4ODc3YTdlNGI0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZWM1ZGI0OGItOGYxYy00MGZkLTg5MjMtMzA4ODc3YTdlNGI0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2013-03-29T03:34:38Z",
+        "url": "https://www.imdb.com/video/vi4042630681/"
+    },
+    "url": "/title/tt0111488/"
+}

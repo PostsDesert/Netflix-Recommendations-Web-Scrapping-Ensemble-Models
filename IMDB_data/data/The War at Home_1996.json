@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Emilio Estevez",
+            "url": "/name/nm0000389/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kathy Bates",
+            "url": "/name/nm0000870/"
+        },
+        {
+            "@type": "Person",
+            "name": "Martin Sheen",
+            "url": "/name/nm0000640/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2525,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0049348/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0071430/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Duff",
+            "url": "/name/nm0240384/"
+        }
+    ],
+    "datePublished": "1996-11-20",
+    "description": "Haunted by his experiences in the Vietnam War, a young man returns home and has trouble adjusting back to civilian life, his family and his stern father.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Emilio Estevez",
+            "url": "/name/nm0000389/"
+        }
+    ],
+    "duration": "PT2H3M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDAxODk3ODUtOGQ0ZS00OTliLWI2ZWYtZWFhNjUxZjIzM2MxXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+    "keywords": "timeframe 1970s,ptsd,vietnam,veteran,thanksgiving",
+    "name": "The War at Home",
+    "original_info": {
+        "id": "The War at Home_1996",
+        "name": "The War at Home",
+        "year": "1996"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "preppy-3"
+        },
+        "dateCreated": "2003-08-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0118117/"
+        },
+        "name": "What a surprise!",
+        "reviewBody": "Emilio Estevez actually directed a good movie--who woulda thought? I sat through two previous films Estevez directed--\"Wisdom\" (with then girlfriend Demi Moore) and \"Men at Work\" (with brother Charlie Sheen). They are lousy films---badly acted, directed, stupid and offensive. Estevez is a good actor but lousy as a director. I turned this on in pure curiousity--it has a great cast and I had nothing else to do. Damned if it didn't pull me in.\n\nIt concerns Estevez coming home from Vietnam permanently scarred by what happened over there. His parents (Kathy Bates, Martin Sheen) and sister (Kimberly Williams) try to reach him but can't. Something in Vietnam has affected him deeply...and he's about to explode...\n\nA bit overlong but still very good. A lot of the material is familar but the cast is so good that they make it seem new. Estevez is good, Sheen is terrific (and Estevezs' real life father), Williams is touching and Bates is just extraordinary--trying to hold the family together. It all leads up to a powerful ending which REALLY surprised me.\n\nWell worth catching.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Haunted by his experiences in the Vietnam War, a young man returns home and has trouble adjusting back to civilian life, his family and his stern father.",
+        "duration": "PT1M21S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi701874969",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMmU1Zjg5ZTAtNTlmZC00ZGFiLTlkMDQtYjAwMTYxZTY5YzExXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMmU1Zjg5ZTAtNTlmZC00ZGFiLTlkMDQtYjAwMTYxZTY5YzExXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-11-26T19:44:00.349Z",
+        "url": "https://www.imdb.com/video/vi701874969/"
+    },
+    "url": "/title/tt0118117/"
+}

@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jeff Daniels",
+            "url": "/name/nm0001099/"
+        },
+        {
+            "@type": "Person",
+            "name": "Melanie Griffith",
+            "url": "/name/nm0000429/"
+        },
+        {
+            "@type": "Person",
+            "name": "George 'Red' Schwartz",
+            "url": "/name/nm0777230/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 19559,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0620197/"
+        },
+        {
+            "@type": "Person",
+            "name": "E. Max Frye",
+            "url": "/name/nm0296861/"
+        }
+    ],
+    "datePublished": "1986-11-07",
+    "description": "A free-spirited woman \"kidnaps\" a yuppie for a weekend of adventure. But the fun quickly takes a dangerous turn when her ex-convict husband shows up.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jonathan Demme",
+            "url": "/name/nm0001129/"
+        }
+    ],
+    "duration": "PT1H54M",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNmQxYTUxOGYtMzZkYS00YmZhLTk0NWQtOWFmOTdjOThjMTJiXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "skipping out on a bill,high school reunion,fellatio,neo screwball comedy,sex comedy",
+    "name": "Something Wild",
+    "original_info": {
+        "id": "Something Wild_1986",
+        "name": "Something Wild",
+        "year": "1986"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "KMR"
+        },
+        "dateCreated": "1999-11-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0091983/"
+        },
+        "name": "Something special",
+        "reviewBody": "Jeff Daniels has never been better, Ray Liotta is wonderfully sexy and menacing, and even Melanie Griffith (whom I normally dislike) works well here. One of my favorite Demme movies, this one features all kinds of interesting little character bits (a Demme trademark), and a cool little detail that I only noticed upon my 3rd or 4th viewing: at the high school reunion, after Charlie and Audrey finish their sweet little dance, the lights flicker and black out for a moment, signaling the end of the first, lighter half of the film. Ray Liotta appears on screen seconds later, bringing with him the all the violence and danger of the second half.\n\nA very simple but elegant touch. Check this one out, it's a really good movie. Great soundtrack too! 8/10.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Something Wild",
+        "duration": "PT2M39S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2091162905",
+        "name": "Something Wild",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTE4ZGQ1MjUtMmE2Zi00YTg0LTljNDMtZmY4NDhjZWE1ZDM1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTE4ZGQ1MjUtMmE2Zi00YTg0LTljNDMtZmY4NDhjZWE1ZDM1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-03-13T06:42:03Z",
+        "url": "https://www.imdb.com/video/vi2091162905/"
+    },
+    "url": "/title/tt0091983/"
+}

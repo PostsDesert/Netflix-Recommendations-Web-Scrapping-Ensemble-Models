@@ -1,0 +1,92 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Melanie Vincz",
+            "url": "/name/nm0898866/"
+        },
+        {
+            "@type": "Person",
+            "name": "Raven De La Croix",
+            "url": "/name/nm0209189/"
+        },
+        {
+            "@type": "Person",
+            "name": "Angela Aames",
+            "url": "/name/nm0007406/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1530,
+        "ratingValue": 4.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0006841/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Wynorski",
+            "url": "/name/nm0691061/"
+        }
+    ],
+    "description": "Seeking revenge, officer Angel Wolfe, her Native American friend Whitestar, and outlaw Heather infiltrate a fortified island where an undead wizard and his evil cult force captured women to take part in gladiatorial tournaments.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jim Wynorski",
+            "url": "/name/nm0691061/"
+        }
+    ],
+    "duration": "PT1H23M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOGJhMWQ1MjEtODNlZi00NjNmLTg1ZWMtNDljNTZlNjQwOTNhXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_.jpg",
+    "keywords": "evil wizard,heroine,arena combat,native american woman,female protagonist",
+    "name": "The Lost Empire",
+    "original_info": {
+        "id": "The Lost Empire_2000",
+        "name": "The Lost Empire",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "heedarmy"
+        },
+        "dateCreated": "2001-08-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0089503/"
+        },
+        "name": "Gleefully silly",
+        "reviewBody": "This absurd farrago is something of a guilty pleasure on my part. Anticipating (15 years early) the recent \"Charlie's Angels\" movie, it features three ethnically-mixed women, all martial arts experts, investigating a preposterous plot and thoroughly intimidating the various hapless males they stumble across.\n\nThe film begins with \"Dirty Harriet\" type cop action and climaxes with gladiatorial battles and a sub-Bondian villain threatening the world with a doomsday weapon that looks alarmingly like a giant phallus. It's fast-moving, funny and good-natured enough to be enjoyable viewing."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Seeking revenge, officer Angel Wolfe, her Native American friend Whitestar, and outlaw Heather infiltrate a fortified island where an undead wizard and his evil cult force captured women to take part in gladiatorial tournaments.",
+        "duration": "PT56S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3683566361",
+        "name": "Teaser Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDkzMTA5ZTUtMWRkYy00ODg1LTg1NDYtZjUxZWI3MmQwNjAxXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDkzMTA5ZTUtMWRkYy00ODg1LTg1NDYtZjUxZWI3MmQwNjAxXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-10-28T00:51:31.278Z",
+        "url": "https://www.imdb.com/video/vi3683566361/"
+    },
+    "url": "/title/tt0089503/"
+}

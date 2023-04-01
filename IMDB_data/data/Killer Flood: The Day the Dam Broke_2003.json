@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Joe Lando",
+            "url": "/name/nm0484880/"
+        },
+        {
+            "@type": "Person",
+            "name": "Matthew Ewald",
+            "url": "/name/nm0970866/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michele Greene",
+            "url": "/name/nm0338872/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 603,
+        "ratingValue": 3.8,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0074499/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0244319/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0225972/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Beckwith",
+            "url": "/name/nm0065887/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joseph Broido",
+            "url": "/name/nm0111204/"
+        },
+        {
+            "@type": "Person",
+            "name": "Doug Campbell",
+            "url": "/name/nm0132414/"
+        }
+    ],
+    "datePublished": "2003-04-25",
+    "description": "An architect and his son become trapped inside a dam that is about to burst.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Doug Campbell",
+            "url": "/name/nm0132414/"
+        }
+    ],
+    "duration": "PT2H",
+    "genre": [
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ4MjUxNTczMV5BMl5BanBnXkFtZTcwMTY2MTIzMg@@._V1_.jpg",
+    "keywords": "colon in title,seven word title,flood,dam,architect",
+    "name": "Killer Flood: The Day the Dam Broke",
+    "original_info": {
+        "id": "Killer Flood: The Day the Dam Broke_2003",
+        "name": "Killer Flood: The Day the Dam Broke",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "mjarvis0"
+        },
+        "dateCreated": "2006-02-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0338034/"
+        },
+        "name": "Decent effort",
+        "reviewBody": "I might be easy to please but I found this to be an okay film. Being a fan of the 'Disaster film' I was pleasantly surprised by the quality of the special effects. However let us be honest the plot as with most disaster movies is thus. One person sees the disaster coming and the rest do not. His/her personal life is a mess but the disaster does bring the family closer together. I know their are some of you that are reaching for the sick bag, but hey that is the formula for disaster movies so get used to it. At least in this movie we did not have the cute children caught up in the disaster. I am probably a romantic so if the right guy gets the girl and the bad guy gets his just desserts then I am happy and that was I got with this film. The important question? Is this film good enough for my DVD collection ( that is assuming it was available)? yes but only at a real bargain price.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0338034/"
+}

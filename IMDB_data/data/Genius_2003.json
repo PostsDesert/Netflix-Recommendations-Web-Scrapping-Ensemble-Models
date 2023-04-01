@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Nafees Ahmed",
+            "url": "/name/nm2728012/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christopher Diaz",
+            "url": "/name/nm1426569/"
+        },
+        {
+            "@type": "Person",
+            "name": "Keynan Isaiah Lourie",
+            "url": "/name/nm1425093/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 136,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0107124/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bob Ahmed",
+            "url": "/name/nm1388365/"
+        }
+    ],
+    "datePublished": "2003-05-20",
+    "description": "Mike has the hots for class beauty Hannah, but she only dates smart boys. Mike's learning that disability is a definite obstacle, so he turns to his snooty economics teacher, Miss Helen Goldwyn, to help him raise his I.Q. and win ...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bob Ahmed",
+            "url": "/name/nm1388365/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Drama",
+        "Family",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE5NTIwMzc3N15BMl5BanBnXkFtZTcwNDAxNDAwMQ@@._V1_.jpg",
+    "name": "Genius",
+    "original_info": {
+        "id": "Genius_2003",
+        "name": "Genius",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "tonytick"
+        },
+        "dateCreated": "2003-08-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0369451/"
+        },
+        "name": "The ending had me speechless.",
+        "reviewBody": "Combine some of the most beautiful photography you have ever seen with a touching story and some downright awful acting. Throw in one of the most mezmerizing music scores you've ever heard, three very funny scenes, two very boring scenes, and one of the most dynamic and emotionally impactful endings you could ever imagine. And whallah! You have Genius.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Roadside Attractions",
+        "duration": "PT1M55S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3752395033",
+        "name": "Genius",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDYwZjMxZmYtMDU1NS00MDRlLWI5MzYtMzFmYWE1NDJjNGM4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDYwZjMxZmYtMDU1NS00MDRlLWI5MzYtMzFmYWE1NDJjNGM4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:16:04Z",
+        "url": "https://www.imdb.com/video/vi3752395033/"
+    },
+    "url": "/title/tt0369451/"
+}

@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bob Hoskins",
+            "url": "/name/nm0001364/"
+        },
+        {
+            "@type": "Person",
+            "name": "Antonio Banderas",
+            "url": "/name/nm0000104/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ellen Barkin",
+            "url": "/name/nm0000289/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1260,
+        "ratingValue": 4.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0043393/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0012298/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Fergus Ryan",
+            "url": "/name/nm0752634/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Leland",
+            "url": "/name/nm0500896/"
+        }
+    ],
+    "datePublished": "1999-11-12",
+    "description": "Brother Edgar is a generous entrepreneur of low quality socks who hides behind a self-bestowed cassock to avoid the low level corruption of local sheriffs. He has adopted Morales Pittman, who has bigger, more illegitimate dreams t...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Arne Glimcher",
+            "url": "/name/nm0322865/"
+        }
+    ],
+    "duration": "PT1H39M",
+    "genre": [
+        "Action",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjI1MDkxOTc0M15BMl5BanBnXkFtZTcwMTMwNDkxMQ@@._V1_.jpg",
+    "keywords": "scene during opening credits,dancer,dancing,western music,white bra",
+    "name": "The White River Kid",
+    "original_info": {
+        "id": "The White River Kid_1999",
+        "name": "The White River Kid",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "emory-1"
+        },
+        "dateCreated": "2001-04-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0162766/"
+        },
+        "name": "The worst movie I have ever seen.",
+        "reviewBody": "This is honestly the worst movie i have ever seen the only reason i watched it was because i know Daniel Treat the actor that played Elvis Wood. If it weren't for that i would have changed it quickly. please do not waste two hours out of your life change the channel when it comes on The Movie Channel."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Tristar",
+        "duration": "PT1M36S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3220963609",
+        "name": "White River",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZWVhZmJjNWMtM2YzMS00MTQyLWI5ZDAtY2JlNzkwMmUwMmQxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZWVhZmJjNWMtM2YzMS00MTQyLWI5ZDAtY2JlNzkwMmUwMmQxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:21:12Z",
+        "url": "https://www.imdb.com/video/vi3220963609/"
+    },
+    "url": "/title/tt0162766/"
+}

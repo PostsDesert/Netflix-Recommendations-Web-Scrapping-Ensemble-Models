@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tatum Adair",
+            "url": "/name/nm0310323/"
+        },
+        {
+            "@type": "Person",
+            "name": "Timothy Prindle",
+            "url": "/name/nm0697784/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gregory Lee Kenyon",
+            "url": "/name/nm0448990/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1819,
+        "ratingValue": 2.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0015950/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jay Woelfel",
+            "url": "/name/nm0937321/"
+        }
+    ],
+    "datePublished": "2005-04-26",
+    "description": "In a small town in upstate New York, local residents were drowned as a dam was built and the town was flooded to create the Rushford Lake. One hundred years later, the souls of the drowned are becoming restless...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jay Woelfel",
+            "url": "/name/nm0937321/"
+        }
+    ],
+    "duration": "PT1H52M",
+    "genre": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMwNTAzNDIzOV5BMl5BanBnXkFtZTcwNzg1NjgyMQ@@._V1_.jpg",
+    "keywords": "psychotronic film,lake,death,small town,ghost",
+    "name": "Ghost Lake",
+    "original_info": {
+        "id": "Ghost Lake_2004",
+        "name": "Ghost Lake",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Obliviax"
+        },
+        "dateCreated": "2006-04-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0382011/"
+        },
+        "name": "Oh. Sweet. Jesus.",
+        "reviewBody": "There are very few horror films in which I can find no redeeming quality - and \"Ghost Lake\" has the dubious honour of being one of them. Although it doesn't feature the same level of technical ineptitude as, say, \"666: The Demon Child\", its unspeakably annoying \"actors\", awful dialogue (which, I'm sorry to say, is perfectly audible at all times), and pitiful visual effects all add up to a thoroughly reprehensible waste of an hour and three quarters.\n\nAdd to all that the fact that the plot was gaffed entirely from a Matthew Costello novel entitled \"Beneath Still Waters\" (which, as luck would have it, is being adapted by the lovely Brian Yuzna) and you have a film that you simply can't like for any reason at all. Really.\n\nWell, that's not completely true. In the picture's defence, the scenes involving forcible expulsion of water from the mouths of various people are awfully amusing... for entirely the wrong reasons, of course. Please avoid this dreadful thing.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 1,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Think Film, Inc",
+        "duration": "PT47S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2711945497",
+        "name": "Ghost Lake",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOGI3ODc0NTQtMDliZC00NWNlLWJjYmUtODQ5M2NlYzJlMWQ3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGI3ODc0NTQtMDliZC00NWNlLWJjYmUtODQ5M2NlYzJlMWQ3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:02:13Z",
+        "url": "https://www.imdb.com/video/vi2711945497/"
+    },
+    "url": "/title/tt0382011/"
+}

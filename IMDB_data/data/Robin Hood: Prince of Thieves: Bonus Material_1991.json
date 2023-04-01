@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kevin Costner",
+            "url": "/name/nm0000126/"
+        },
+        {
+            "@type": "Person",
+            "name": "Morgan Freeman",
+            "url": "/name/nm0000151/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mary Elizabeth Mastrantonio",
+            "url": "/name/nm0001512/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 198877,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0033472/"
+        },
+        {
+            "@type": "Person",
+            "name": "Pen Densham",
+            "url": "/name/nm0219720/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Watson",
+            "url": "/name/nm0914709/"
+        }
+    ],
+    "datePublished": "1991-06-14",
+    "description": "Robin Hood decides to fight back as an outlaw when faced with the tyranny of the Sheriff of Nottingham.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Kevin Reynolds",
+            "url": "/name/nm0721817/"
+        }
+    ],
+    "duration": "PT2H23M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjUxMzVhNjgtYTQxNS00Zjg3LThlYjctOGFlZjg0YmI1ZmYyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "robin hood character,jerusalem israel,robin hood,england,modern minstrel",
+    "name": "Robin Hood: Prince of Thieves",
+    "original_info": {
+        "id": "Robin Hood: Prince of Thieves: Bonus Material_1991",
+        "name": "Robin Hood: Prince of Thieves: Bonus Material",
+        "year": "1991"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Chiron1987"
+        },
+        "dateCreated": "1999-07-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0102798/"
+        },
+        "name": "Swashbuckling Medieval Adventure at its Finest...",
+        "reviewBody": "Robin Hood: Prince of Thieves was one of the best films of 1991, a triumph even over the special effects hype of Terminator 2: Judgement Day.\n\nDespite the critics' complete and utter distaste for the film, I found it fun, well-acted, and fast-paced. Great performances abound including Morgan Freeman as the Moorish warrior Azeem, Alan Rickman as the hysterical Sheriff of Nottingham, and Kevin Costner as our stalwart Robin of Locksley.\n\nThere are great action sequences including the battle against the hired Celts and Nottingham's soldiers and the final confrontation at the climax of the film.\n\nFinally, don't be put off by Costner's lack of an English dialect. It doesn't hurt the film at all, and is just something critics were instantly attracted to, as it is their job to find faults.\n\nHighly recommended."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Teaser trailer",
+        "duration": "PT1M12S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2054227737",
+        "name": "Robin Hood: Prince of Thieves",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZWEyMjE2OTQtOGY1Ny00MGMwLTkyNzgtZjU0NTE0NmY2NGYwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZWEyMjE2OTQtOGY1Ny00MGMwLTkyNzgtZjU0NTE0NmY2NGYwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-05-18T15:47:48Z",
+        "url": "https://www.imdb.com/video/vi2054227737/"
+    },
+    "url": "/title/tt0102798/"
+}

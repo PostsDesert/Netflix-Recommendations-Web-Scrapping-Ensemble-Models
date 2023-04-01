@@ -1,0 +1,67 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Rachel Adams",
+            "url": "/name/nm2139135/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joe Alaskey",
+            "url": "/name/nm0016085/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ogie Banks",
+            "url": "/name/nm1014417/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 60,
+        "ratingValue": 7.8,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0254883/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0074499/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Ludin",
+            "url": "/name/nm0524887/"
+        }
+    ],
+    "datePublished": "2003-12-31",
+    "description": "Leap, Lily and Tad journey to the word factory where the Word Whammer, Sticky-Ick-O-Rama and more amazing machines take letters and make them into words. Humorous ryhming songs and an out-of-control word machine add to the fun.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Roy Allen Smith",
+            "url": "/name/nm0809823/"
+        }
+    ],
+    "duration": "PT35M",
+    "genre": [
+        "Animation",
+        "Short",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg3MzU4ODY5Ml5BMl5BanBnXkFtZTcwMjE0NjI2Mg@@._V1_.jpg",
+    "name": "LeapFrog: The Talking Words Factory",
+    "original_info": {
+        "id": "LeapFrog: Talking Words Factory_2003",
+        "name": "LeapFrog: Talking Words Factory",
+        "year": "2003"
+    },
+    "url": "/title/tt0814180/"
+}

@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Janet Jackson",
+            "url": "/name/nm0001390/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tupac Shakur",
+            "url": "/name/nm0000637/"
+        },
+        {
+            "@type": "Person",
+            "name": "Regina King",
+            "url": "/name/nm0005093/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 15537,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0068402/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0013580/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Singleton",
+            "url": "/name/nm0005436/"
+        }
+    ],
+    "datePublished": "1993-07-23",
+    "description": "Grieving hairdresser Justice goes on a road trip from South Central L.A. to Oakland on a mail truck together with her friend and an obnoxious postal worker.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Singleton",
+            "url": "/name/nm0005436/"
+        }
+    ],
+    "duration": "PT1H49M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTk0YjE0ZTAtNDcyZC00MmRhLWFhYWQtZDVjN2U3ZDdjN2UzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "african american,poetry,poet,ghetto,urban setting",
+    "name": "Poetic Justice",
+    "original_info": {
+        "id": "Poetic Justice_1993",
+        "name": "Poetic Justice",
+        "year": "1993"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "nadia-31"
+        },
+        "dateCreated": "2004-11-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0107840/"
+        },
+        "name": "Worth a look!",
+        "reviewBody": "I read the other review and simply had to comment on it. This was a great movie. Perhaps not filled with action. But it takes the poetic point of view and happily surprises you. It's in my DVD - shelf at home. Janet is showing a great acting and so is Tupac. My boyfriend weren't that crazy about it, so I've come to realize that it take a special kind of person to want to see and understand the movie at it's fullest. Since i write poetry in my spare time maybe that explains my passion about this movie. In all, I think you should rent it if the review at the back cover tempt you, it's pretty much what you get."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT3M",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3860118553",
+        "name": "Poetic Justice",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOWU3Mzg5MzMtZmIwOC00ZTg2LWI3YzMtYjg2Mzg0YTFjZThkXkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOWU3Mzg5MzMtZmIwOC00ZTg2LWI3YzMtYjg2Mzg0YTFjZThkXkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg",
+        "uploadDate": "2019-07-03T17:17:05.809Z",
+        "url": "https://www.imdb.com/video/vi3860118553/"
+    },
+    "url": "/title/tt0107840/"
+}

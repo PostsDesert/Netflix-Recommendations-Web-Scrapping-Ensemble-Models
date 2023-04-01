@@ -1,0 +1,65 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Alexandra Paul",
+            "url": "/name/nm0000575/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 8,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0215814/"
+        },
+        {
+            "@type": "Person",
+            "name": "Geoffrey B. Holland",
+            "url": "/name/nm1093505/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gregory Molina",
+            "url": "/name/nm2241217/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alexandra Paul",
+            "url": "/name/nm0000575/"
+        }
+    ],
+    "description": "A look at teenage consumption and views about the environment.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Tobias",
+            "url": "/name/nm0864888/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marc Griffith",
+            "url": "/name/nm1093083/"
+        }
+    ],
+    "duration": "PT26M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDBlZWIzYWEtYzFiMS00MDhhLTg5ZjMtM2QzMmZjN2NiM2Q0XkEyXkFqcGdeQXVyMTUxODQ3MTg@._V1_.jpg",
+    "keywords": "environment,consumption,consumerism,environmental issue,psychology",
+    "name": "The Cost of Cool",
+    "original_info": {
+        "id": "The Merchants of Cool: Frontline_2001",
+        "name": "The Merchants of Cool: Frontline",
+        "year": "2001"
+    },
+    "url": "/title/tt0795923/"
+}

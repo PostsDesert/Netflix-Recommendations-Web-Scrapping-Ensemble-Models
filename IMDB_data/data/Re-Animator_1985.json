@@ -1,0 +1,113 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jeffrey Combs",
+            "url": "/name/nm0001062/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bruce Abbott",
+            "url": "/name/nm0007940/"
+        },
+        {
+            "@type": "Person",
+            "name": "Barbara Crampton",
+            "url": "/name/nm0186225/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 67192,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "Unrated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0022018/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0076754/"
+        },
+        {
+            "@type": "Person",
+            "name": "H.P. Lovecraft",
+            "url": "/name/nm0522454/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dennis Paoli",
+            "url": "/name/nm0660016/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Norris",
+            "url": "/name/nm0635920/"
+        }
+    ],
+    "datePublished": "1985-10-18",
+    "description": "After an odd new medical student arrives on campus, a dedicated local and his girlfriend become involved in bizarre experiments centering around the re-animation of dead tissue.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Stuart Gordon",
+            "url": "/name/nm0002340/"
+        }
+    ],
+    "duration": "PT1H24M",
+    "genre": [
+        "Comedy",
+        "Horror",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjcxOTcwZDAtYjg4Ny00YzUzLWJkNDgtMzhkMDJlOTg1YTFiXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg",
+    "keywords": "reanimation,gore,morgue,medical research,zombie",
+    "name": "Re-Animator",
+    "original_info": {
+        "id": "Re-Animator_1985",
+        "name": "Re-Animator",
+        "year": "1985"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "tripperM"
+        },
+        "dateCreated": "2000-10-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0089885/"
+        },
+        "name": "hilarious!",
+        "reviewBody": "When i first saw re-animator in 85, i was aghast and appalled. i just didn't get it. i was a classic horror fan; so when i heard the obvious rip from psycho's theme, it irritated me even more.\n\nwell, now i'm an older, wiser horror fan. i just saw it again for the first time since 85 and i laughed my bum off! homage, homage, homage! honouring everything from hitchcock to raimi, from day of the dead to frankenstein. this in-your-face send off is a great double feature with dead alive. jeffery combs' over the top performance is reminiscent of colin clive and cronenberg found his very own ash in bruce abbott. so sit back, relax (as much as you can...) and enjoy re-animator.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer For Re-Animator",
+        "duration": "PT1M56S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi511901977",
+        "name": "Re-Animator",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDQwODI4ZTUtZjYwMC00NDVlLWJlYmUtYmMwNTA5NjNhMWU3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDQwODI4ZTUtZjYwMC00NDVlLWJlYmUtYmMwNTA5NjNhMWU3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:50:05Z",
+        "url": "https://www.imdb.com/video/vi511901977/"
+    },
+    "url": "/title/tt0089885/"
+}

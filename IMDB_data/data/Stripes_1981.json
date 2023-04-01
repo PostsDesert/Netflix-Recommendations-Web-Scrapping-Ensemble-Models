@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bill Murray",
+            "url": "/name/nm0000195/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Candy",
+            "url": "/name/nm0001006/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harold Ramis",
+            "url": "/name/nm0000601/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 76238,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Person",
+            "name": "Len Blum",
+            "url": "/name/nm0089676/"
+        },
+        {
+            "@type": "Person",
+            "name": "Daniel Goldberg",
+            "url": "/name/nm0325175/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harold Ramis",
+            "url": "/name/nm0000601/"
+        }
+    ],
+    "datePublished": "1981-06-26",
+    "description": "Two friends who are dissatisfied with their jobs decide to join the army for a bit of fun.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ivan Reitman",
+            "url": "/name/nm0718645/"
+        }
+    ],
+    "duration": "PT1H46M",
+    "genre": [
+        "Comedy",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTFiM2U0MjktNjUyMy00YzdhLWE0ZmUtNDUxNTA0MjhjZjBlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "u.s. soldier,u.s. army,misfit,incompetence,female frontal nudity",
+    "name": "Stripes",
+    "original_info": {
+        "id": "Stripes_1981",
+        "name": "Stripes",
+        "year": "1981"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "no-skyline"
+        },
+        "dateCreated": "2006-02-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0083131/"
+        },
+        "name": "Pretty Good Comedy",
+        "reviewBody": "Three giants of American comedy Bill Murray, John Candy and Harrold Ramis star in this often funny, occasionally hilarious tale of misfits joining the army. This is along the lines of Police Academy in plot but slightly less zany in delivery due to the deadpan delivery of Rammis and particularly Murry who plays the ultimate slacker.\n\nIt has to be said there are some comedy misfires in here and the ending is maybe a bit much, but overall this is a good little comedy. Murray is of course excellent as is most of the supporting cast, John Candy is maybe a little underused as Ox. Also the film is definitely of it's time (the cold war still in full swing, boo ruskies and reds etc) but that wont spoil your enjoyment.\n\n7/10 - Not up there with Murray and Ramis best (Groundhog Day and Ghostbusters) but worth a watch on cable or rental.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Two friends who are dissatisfied with their jobs decide to join the army for a bit of fun.",
+        "duration": "PT2M58S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi44286745",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTk0YWRmZjUtMWZlNi00ZTI3LWI0YjYtMzE1M2E1NjgxZDI1XkEyXkFqcGdeQWFuaW5vc2M@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTk0YWRmZjUtMWZlNi00ZTI3LWI0YjYtMzE1M2E1NjgxZDI1XkEyXkFqcGdeQWFuaW5vc2M@._V1_.jpg",
+        "uploadDate": "2021-09-21T04:48:35.213Z",
+        "url": "https://www.imdb.com/video/vi44286745/"
+    },
+    "url": "/title/tt0083131/"
+}

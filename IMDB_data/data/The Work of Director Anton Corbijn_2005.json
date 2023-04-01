@@ -1,0 +1,78 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Joseph Arthur",
+            "url": "/name/nm0037717/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bono",
+            "url": "/name/nm0095104/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nick Cave",
+            "url": "/name/nm0147022/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 266,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050687/"
+        }
+    ],
+    "datePublished": "2005-09-13",
+    "description": "A video compilation collecting the music video work of photographer and filmmaker Anton Corbijn.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Anton Corbijn",
+            "url": "/name/nm0179221/"
+        }
+    ],
+    "duration": "PT3H20M",
+    "genre": [
+        "Documentary",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjgwMjE1NTk4N15BMl5BanBnXkFtZTcwMTA3NTAzMQ@@._V1_.jpg",
+    "keywords": "music video collection",
+    "name": "The Work of Director Anton Corbijn",
+    "original_info": {
+        "id": "The Work of Director Anton Corbijn_2005",
+        "name": "The Work of Director Anton Corbijn",
+        "year": "2005"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "clairehelenjohnson"
+        },
+        "dateCreated": "2006-01-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0471433/"
+        },
+        "name": "Absolute Leg-end",
+        "reviewBody": "Anton Corbijn is a god as far as I am concerned. He had directed some of the most beautiful videos (U2 - Electrical Storm) as well as some extremely weird ones (Mercury Rev - Opius 40) and some amusing ones (Echo and The Bunnymen - Seven Seas). He deserve more recognition as a person...The DVD had a very good documentary about him, and some of the videos he has directed. It also has commentary and interviews from the bands about their videos and about Anton. It features a thick booklet all by Anton in his handwriting with his own ideas and drawings about the videos as well as some information about where he was born, where he grew up and what camera he uses. All in all, go out, spend £15 or however much it costs and give yourself a treat.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0471433/"
+}

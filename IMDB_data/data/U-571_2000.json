@@ -1,0 +1,96 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Matthew McConaughey",
+            "url": "/name/nm0000190/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Paxton",
+            "url": "/name/nm0000200/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harvey Keitel",
+            "url": "/name/nm0000172/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 83757,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0053289/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0014380/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jonathan Mostow",
+            "url": "/name/nm0609236/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sam Montgomery",
+            "url": "/name/nm0599924/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Ayer",
+            "url": "/name/nm0043742/"
+        }
+    ],
+    "datePublished": "2000-04-21",
+    "description": "A German submarine is boarded by disguised American submariners trying to capture their Enigma cipher machine.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jonathan Mostow",
+            "url": "/name/nm0609236/"
+        }
+    ],
+    "duration": "PT1H56M",
+    "genre": [
+        "Action",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDE0YzUwMzMtY2NhZS00OGYxLWFhOWItN2ZlZThjOTA0NDQ4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "submarine movie,world war two,military,soldier,u boat",
+    "name": "U-571",
+    "original_info": {
+        "id": "U-571_2000",
+        "name": "U-571",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "johnjnick"
+        },
+        "dateCreated": "2004-08-05",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0141926/"
+        },
+        "name": "Good movie, quite well made, total rubbish historically",
+        "reviewBody": "I saw this film on BBC TV tonight. Let's start by saying as a historical document it sucks - everyone knows that it was a British crew that found the naval Enigma machine and code books, fact. However, the second world war did happen and submarines sank ships. The film was quite well made and fairly well acted but the story should be taken with the proverbial pinch of salt. Robin Hood, Men in Tights was more historically accurate. There have been many submarine films including the superb German made \"Das Boot\" and an old British black and white film made on a shoestring budget - \"Morning Departure\" - based on the true story the sinking of HMS Truculent and the attempts made to rescue her trapped crew."
+    },
+    "url": "/title/tt0141926/"
+}

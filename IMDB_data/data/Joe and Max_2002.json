@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Til Schweiger",
+            "url": "/name/nm0001709/"
+        },
+        {
+            "@type": "Person",
+            "name": "Leonard Roberts",
+            "url": "/name/nm0731346/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Roundtree",
+            "url": "/name/nm0745780/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1050,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0130374/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0001893/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0033868/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jason Horwitch",
+            "url": "/name/nm0395842/"
+        }
+    ],
+    "datePublished": "2002-03-03",
+    "description": "True story of boxers Joe Louis and Max Schmeling and their enduring friendship.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Steve James",
+            "url": "/name/nm0416945/"
+        }
+    ],
+    "duration": "PT1H46M",
+    "genre": [
+        "Biography",
+        "Drama",
+        "Sport"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQyMzg1NDM0OV5BMl5BanBnXkFtZTcwNzgxMjUyMQ@@._V1_.jpg",
+    "keywords": "reference to joseph goebbels,reference to franklin d. roosevelt,character names as title,forenames as title,joe louis character",
+    "name": "Joe and Max",
+    "original_info": {
+        "id": "Joe and Max_2002",
+        "name": "Joe and Max",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "wolfiamadeus"
+        },
+        "dateCreated": "2005-09-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0281938/"
+        },
+        "name": "moving historical drama",
+        "reviewBody": "I live in Austria and saw the film until a few minutes ago for the first time via satellite broad casted on German television. I think the film shows how sport can be used and abused in a political way and when you stop winning people tend to forget you. I found the film very moving because parts of it reminded me of what my grandmother told me about the war and about the rebuilding of our city and often a lot of unright things happened to people because they were accused of being Nazis after the war like max schmeling was in the movie. it also shows how heroes are sometimes treated because Joe louis did a lot for his motherland in ww2 and later nobody helped him when he needed help. its sad that such things can happen to people who have served their home country so well. Its nice that he was honored after his life but he hasn't had it easier during his life though. This film brought up a lot of emotion in me although i didn't even plan to watch it, i just zapped in. I would recommend it to everybody and i'll give it a clear 10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Starz!",
+        "duration": "PT1M41S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi915603737",
+        "name": "Joe and Max",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODU3OTg0YmMtYTIxOC00M2MwLThmMzItZWE1OGQxY2JjOTUyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODU3OTg0YmMtYTIxOC00M2MwLThmMzItZWE1OGQxY2JjOTUyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:50:15Z",
+        "url": "https://www.imdb.com/video/vi915603737/"
+    },
+    "url": "/title/tt0281938/"
+}

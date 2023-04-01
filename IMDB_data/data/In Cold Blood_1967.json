@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Robert Blake",
+            "url": "/name/nm0086706/"
+        },
+        {
+            "@type": "Person",
+            "name": "Scott Wilson",
+            "url": "/name/nm0934113/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Forsythe",
+            "url": "/name/nm0001234/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 27484,
+        "ratingValue": 7.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0073957/"
+        },
+        {
+            "@type": "Person",
+            "name": "Truman Capote",
+            "url": "/name/nm0001986/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Brooks",
+            "url": "/name/nm0112218/"
+        }
+    ],
+    "datePublished": "1967-12-15",
+    "description": "Two ex-cons murder a family in a robbery attempt, before going on the run from the authorities. The police try to piece together the details of the murder in an attempt to track down the killers.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Richard Brooks",
+            "url": "/name/nm0112218/"
+        }
+    ],
+    "duration": "PT2H14M",
+    "genre": [
+        "Biography",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTg4OGY2NmEtZTZlMy00ZjM3LWIyZjAtMzQzMjI1MmI1OTRhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "keywords": "true crime,pair of killers,gallows,based on true story,homicide",
+    "name": "In Cold Blood",
+    "original_info": {
+        "id": "In Cold Blood_1967",
+        "name": "In Cold Blood",
+        "year": "1967"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Lechuguilla"
+        },
+        "dateCreated": "2006-04-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0061809/"
+        },
+        "name": "In The Still Of The Night",
+        "reviewBody": "Imagine turning out the lights in your remote farmhouse on a cold night, and then going to bed. There's no need to lock the doors. The only sound is the wind whistling through the trees. Sometime after midnight a car with lights off inches up the driveway. Moments later an intruder beams a flashlight into your darkened living room.\n\nWhat makes this image so scary is the setting: a remote farmhouse ... at night. Based on Truman Capote's best-selling book, and with B&W lighting comparable to the best 1940's noir films, \"In Cold Blood\" presents a terrifying story, especially in that first Act, as the plot takes place largely at night and on rain drenched country roads. It's the stuff of nightmares. But this is no dream. The events really happened, in 1959.\n\nTwo con men with heads full of delusions kill an entire Kansas family, looking for a stash of cash that doesn't exist. Director Richard Brooks used the actual locations where the real-life events occurred, even the farmhouse ... and its interior! It makes for a memorable, and haunting, film.\n\nBoth of the lead actors closely resemble the two real-life killers. Robert Blake is more than convincing as Perry Smith, short and stocky with a bum leg, who dreams of finding Cortez' buried treasure. Scott Wilson is almost as good as Dick Hickock, the smooth-talking con artist with an all-American smile.\n\nAfter their killing spree, the duo head to Mexico. Things go awry there, so they come back to the U.S., stealing cars, hitchhiking, and generally being miserable as they roam from place to place. But it's a fool's life, and the two outlaws soon regret their actions. The film's final twenty minutes are mesmerizing, as the rain falls, the rope tightens, and all we hear is the pounding of a beating heart.\n\nEven with its somewhat mundane middle Act, \"In Cold Blood\" stages in riveting detail a real-life story that still hypnotizes, nearly half a century later. It's that setting that does it. Do you suppose people in rural Kansas still leave their doors unlocked ... at night?",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT2M55S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2109390617",
+        "name": "In Cold Blood",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BM2Q5MDlhMDctM2RmMC00ZjIyLWIzOWQtMDE4NmViYzZmOTZjXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BM2Q5MDlhMDctM2RmMC00ZjIyLWIzOWQtMDE4NmViYzZmOTZjXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg",
+        "uploadDate": "2019-08-30T17:06:09.338Z",
+        "url": "https://www.imdb.com/video/vi2109390617/"
+    },
+    "url": "/title/tt0061809/"
+}

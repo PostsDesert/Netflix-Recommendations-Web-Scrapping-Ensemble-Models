@@ -1,0 +1,113 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Al Pacino",
+            "url": "/name/nm0000199/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Cazale",
+            "url": "/name/nm0001030/"
+        },
+        {
+            "@type": "Person",
+            "name": "Penelope Allen",
+            "url": "/name/nm0020897/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 261753,
+        "ratingValue": 8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0054778/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frank Pierson",
+            "url": "/name/nm0682757/"
+        },
+        {
+            "@type": "Person",
+            "name": "P.F. Kluge",
+            "url": "/name/nm0460190/"
+        },
+        {
+            "@type": "Person",
+            "name": "Thomas Moore",
+            "url": "/name/nm0601944/"
+        }
+    ],
+    "datePublished": "1975-12-25",
+    "description": "Three amateur bank robbers plan to hold up a bank. A nice simple robbery: Walk in, take the money, and run. Unfortunately, the supposedly uncomplicated heist suddenly becomes a bizarre nightmare as everything that could go wrong d...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Sidney Lumet",
+            "url": "/name/nm0001486/"
+        }
+    ],
+    "duration": "PT2H5M",
+    "genre": [
+        "Biography",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODExZmE2ZWItYTIzOC00MzI1LTgyNTktMDBhNmFhY2Y4OTQ3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "keywords": "heist,hostage situation,shot in the forehead,bank robbery,year 1972",
+    "name": "Dog Day Afternoon",
+    "original_info": {
+        "id": "Dog Day Afternoon_1975",
+        "name": "Dog Day Afternoon",
+        "year": "1975"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "yearspew"
+        },
+        "dateCreated": "2005-01-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0072890/"
+        },
+        "name": "Brilliant, Funny, Touching Film.",
+        "reviewBody": "Personally, this is one of the most touching films I've seen.\n\nThe acting is superb, both Al Pacino and John Cazale deliver outstanding and memorable performances as the unexperienced bank robbers Sonny Wortzik and Sal.\n\nI should highlight the late John Cazale's performance of Sal, a character that says more with his face than he does with dialogue. Perhaps the most realistic character ever portrayed on film.\n\nAl Pacino as usual delivers a great performance as was nominated for an Academy Award playing the role of Sonny. \n\nThis is a very entertaining film, filled with humor, social issues and moral issues, definitely a must-watch.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for this failed robbery drama based on a true story",
+        "duration": "PT2M40S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2685142809",
+        "name": "Dog Day Afternoon",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNWNjZjJlNGEtYzI0OC00ODQzLWE1YWUtNWQ5YTA1OGEyZjIyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNWNjZjJlNGEtYzI0OC00ODQzLWE1YWUtNWQ5YTA1OGEyZjIyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-05-18T15:09:41Z",
+        "url": "https://www.imdb.com/video/vi2685142809/"
+    },
+    "url": "/title/tt0072890/"
+}

@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Robert Redford",
+            "url": "/name/nm0000602/"
+        },
+        {
+            "@type": "Person",
+            "name": "Demi Moore",
+            "url": "/name/nm0000193/"
+        },
+        {
+            "@type": "Person",
+            "name": "Woody Harrelson",
+            "url": "/name/nm0000437/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 73984,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jack Engelhard",
+            "url": "/name/nm0257209/"
+        },
+        {
+            "@type": "Person",
+            "name": "Amy Holden Jones",
+            "url": "/name/nm0427468/"
+        }
+    ],
+    "datePublished": "1993-04-07",
+    "description": "A billionaire offers $1,000,000 to a young married couple for one night with the wife.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Adrian Lyne",
+            "url": "/name/nm0001490/"
+        }
+    ],
+    "duration": "PT1H57M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODk3OWJhMTUtMTU2MC00ZjJmLTk2OGYtN2NiZGMxNmY4NzU3L2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "moral dilemma,love,one night stand,lust,marital separation",
+    "name": "Indecent Proposal",
+    "original_info": {
+        "id": "Indecent Proposal_1993",
+        "name": "Indecent Proposal",
+        "year": "1993"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "valyriansteel-68349"
+        },
+        "dateCreated": "2020-12-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0107211/"
+        },
+        "name": "90s heroines were so naturally beautiful!!",
+        "reviewBody": "Interesting drama! This is what we miss these days, good expressive eyes and acting. Kudos to nighties makers and the cast.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2471804441",
+        "name": "Official VHS Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDI4ZWIwYTctN2I4MS00NWFmLTk0YWQtNWY0ZGQ5NWQ3Mjc4XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDI4ZWIwYTctN2I4MS00NWFmLTk0YWQtNWY0ZGQ5NWQ3Mjc4XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-08-11T16:30:31.482Z",
+        "url": "https://www.imdb.com/video/vi2471804441/"
+    },
+    "url": "/title/tt0107211/"
+}

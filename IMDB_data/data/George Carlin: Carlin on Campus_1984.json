@@ -1,0 +1,78 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "George Carlin",
+            "url": "/name/nm0137506/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1823,
+        "ratingValue": 7.9,
+        "worstRating": 1
+    },
+    "contentRating": "TV-MA",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0042299/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0071878/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Carlin",
+            "url": "/name/nm0137506/"
+        }
+    ],
+    "datePublished": "1984-06-22",
+    "description": "In his New York City grammar school, George Carlin was known as a \"disruptive influence in the classroom.\" With this concert, the ultimate class clown is back at school at UCLA, making another generation of students roar with laug...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Steven J. Santos",
+            "url": "/name/nm0764275/"
+        }
+    ],
+    "duration": "PT1H",
+    "genre": [
+        "Documentary",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTIwZDU3YmQtY2NkNy00ZTVmLTg5NWItYjI5MmQyYzA3NGVkXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg",
+    "keywords": "man wears a nun's habit,froot loops cereal,satire comedy,driving,stuff",
+    "name": "George Carlin: Carlin on Campus",
+    "original_info": {
+        "id": "George Carlin: Carlin on Campus_1984",
+        "name": "George Carlin: Carlin on Campus",
+        "year": "1984"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Quinoa1984"
+        },
+        "dateCreated": "2000-06-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0248828/"
+        },
+        "name": "Funny stuff",
+        "reviewBody": "Carlin brings some great comedy here. In the form of not only stand-up, but also in animation and a skit at the beginning. He performs some classics, like a place for your stuff, have a nice day, and the sports chant. Great entertainment all around, considering this is the earliest Carlin special that's on video (the others I saw on tv). A+",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0248828/"
+}

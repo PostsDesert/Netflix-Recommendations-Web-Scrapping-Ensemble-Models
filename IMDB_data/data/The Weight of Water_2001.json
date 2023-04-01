@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Nicolas Cage",
+            "url": "/name/nm0000115/"
+        },
+        {
+            "@type": "Person",
+            "name": "Pedro Pascal",
+            "url": "/name/nm0050959/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tiffany Haddish",
+            "url": "/name/nm1840504/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 111573,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0641949/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0156254/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0173285/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tom Gormican",
+            "url": "/name/nm3230448/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kevin Etten",
+            "url": "/name/nm1072410/"
+        }
+    ],
+    "datePublished": "2022-04-22",
+    "description": "Moviestar Nick Cage is channeling his iconic characters as he's caught between a superfan and a CIA agent.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Tom Gormican",
+            "url": "/name/nm3230448/"
+        }
+    ],
+    "duration": "PT1H47M",
+    "genre": [
+        "Action",
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDM2ODNiMWItOWRkNS00ODE3LWE2OGYtNTZkMDJkOWI1ODMxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg",
+    "keywords": "hero,american abroad,golden gun,spain,reference to nicolas cage",
+    "name": "The Unbearable Weight of Massive Talent",
+    "original_info": {
+        "id": "The Weight of Water_2001",
+        "name": "The Weight of Water",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "JK-WhatsUpWeirdoPodcast"
+        },
+        "dateCreated": "2022-03-31",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt11291274/"
+        },
+        "name": "That's our guy!",
+        "reviewBody": "Caught an advance screening tonight and I thought it was super fun. I'm a huge Nicolas Cage fan, and it was over the top and crazy and chaotic and heartwarming. And there's definitely some cuckoo stuff mixed in, I'm actually a little surprised he didn't take the weirdness even further. And he yelled a lot but I would've taken even more. Haha Definitely a light silly night at the movies :) LONG LIVE CAGE.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "'The Unbearable Weight of Massive Talent' staring Nicolas Cage, Pedro Pascal, Tiffany Haddish and Neil Patrick Harris. Exclusively in movie theaters this weekend. Get tickets now.",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2192097817",
+        "name": "Get Tickets",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZWRkOTc1ZGMtYzdiYi00ZjQwLWFmZDMtZmE0NTRlODQyODc1XkEyXkFqcGdeQXZ3ZXNsZXk@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZWRkOTc1ZGMtYzdiYi00ZjQwLWFmZDMtZmE0NTRlODQyODc1XkEyXkFqcGdeQXZ3ZXNsZXk@._V1_.jpg",
+        "uploadDate": "2022-04-18T17:20:41.025Z",
+        "url": "https://www.imdb.com/video/vi2192097817/"
+    },
+    "url": "/title/tt11291274/"
+}

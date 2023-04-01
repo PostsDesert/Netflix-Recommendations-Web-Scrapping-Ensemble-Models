@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Luke Kirby",
+            "url": "/name/nm0456186/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Miller",
+            "url": "/name/nm1022527/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ginette Reno",
+            "url": "/name/nm0719729/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6795,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0021150/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0147256/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0130269/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve Galluccio",
+            "url": "/name/nm1241330/"
+        },
+        {
+            "@type": "Person",
+            "name": "Émile Gaudreault",
+            "url": "/name/nm0309996/"
+        }
+    ],
+    "datePublished": "2003-09-19",
+    "description": "The son of Italian immigrants to Canada struggles to find the best way to reveal to his parents that he's gay.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Émile Gaudreault",
+            "url": "/name/nm0309996/"
+        }
+    ],
+    "duration": "PT1H39M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDcwZGIwNmQtNGQzNy00ODgzLTk4NDMtZjQ1OTk5OTQzMDM2XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+    "keywords": "travel agent,italian stereotype,help line,closeted homosexual,italian canadian",
+    "name": "Mambo Italiano",
+    "original_info": {
+        "id": "Mambo Italiano_2003",
+        "name": "Mambo Italiano",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "nicolaborrelli76"
+        },
+        "dateCreated": "2005-09-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0330602/"
+        },
+        "name": "An amusing film about Italians abroad",
+        "reviewBody": "I watched this film at the cinema last year, and I found it very funny. As an Italian-born male, sentences like \" Italians move out either when they marry or when they die\" made me really laugh, because this is partly true! Nevertheless, I think there's something which needs making clear. The characters and situations portrayed in the film are credible and hilarious insofar as they're set in the Italian communities of Canada, USA or Australia. I worked for 4 years in the export department of a company making Italian espresso coffee, thus getting in touch with lots of Italians who had settled in faraway countries many years ago. What I noticed is that most of them retain a picture of Italy and a system of values which were real in the country they left behind years ago, but look old-fashioned and rather over-the-top in today's Italy. I think it's undeniable that ethnic communities abroad are more conservative and traditional than the countries they came from, as they cling to values that, though being \"frozen\" for them, have evolved in the meantime. So some characters and situations of the film appear exaggerated if compared with Italians of 2005, but are really amusing if set in the context of the life of Italian immigrants, who represent what we used to be a few decades ago. A light comedy, to be enjoyed without taking ourselves too seriously.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Tristar",
+        "duration": "PT1M57S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi228065561",
+        "name": "Mambo Italiano",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTcwZWU3Y2MtZDk1MC00YTYwLTgyNDgtZTVjNTVlZjljZDZjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTcwZWU3Y2MtZDk1MC00YTYwLTgyNDgtZTVjNTVlZjljZDZjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:08:55Z",
+        "url": "https://www.imdb.com/video/vi228065561/"
+    },
+    "url": "/title/tt0330602/"
+}

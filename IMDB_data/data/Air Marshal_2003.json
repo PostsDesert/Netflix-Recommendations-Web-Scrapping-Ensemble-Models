@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dean Cochran",
+            "url": "/name/nm0168154/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alan Austin",
+            "url": "/name/nm1129356/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eli Danker",
+            "url": "/name/nm0200294/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 559,
+        "ratingValue": 2.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0100447/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0002572/"
+        },
+        {
+            "@type": "Person",
+            "name": "Aaron Pope",
+            "url": "/name/nm0691069/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Becket",
+            "url": "/name/nm0065663/"
+        }
+    ],
+    "datePublished": "2003-09-09",
+    "description": "When terrorists hijack a flight, one man must find a way to save everyone on board.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Alain Jakubowicz",
+            "url": "/name/nm0416039/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQzNjcxNjUwNF5BMl5BanBnXkFtZTcwODgzNjAzMQ@@._V1_.jpg",
+    "keywords": "man tied up,commercial air travel,terrorist,hijack,die hard scenario",
+    "name": "Air Marshal",
+    "original_info": {
+        "id": "Air Marshal_2003",
+        "name": "Air Marshal",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Wizard-8"
+        },
+        "dateCreated": "2010-11-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0318281/"
+        },
+        "name": "Watch out for the jiggly camera!",
+        "reviewBody": "I briefly looked at the other user comments for this movie before posting my own. Yes, this is too close to EXECUTIVE DECISION for its own good. Yes, there are laughable bits like how they misspell a certain country's name in the first few minutes. And there are other things, like how the terrorist's activities are a bit too uncomfortably close to what has happened in real life. Plus there's the fact that much of the movie is shot with a jiggly camera to simulate turbulence I guess, but is VERY distracting. The movie is full of flaws, yes. But at the same time, I can't say I was BORED with this movie. The bad parts of the movie are often entertaining in their own right. And there are some action sequences (like hand-to-hand combat) that aren't that badly done. This movie is probably too flawed to actively seek out, but if you come across it on a slow day, it just may make 90 or so minutes pass by."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from DEJ",
+        "duration": "PT40S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1823801625",
+        "name": "Air Marshal",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNmE3OWUzMDAtMGYzZS00Yjg5LWJmYzMtMDA2MzA1Y2JmN2QzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNmE3OWUzMDAtMGYzZS00Yjg5LWJmYzMtMDA2MzA1Y2JmN2QzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T11:19:46Z",
+        "url": "https://www.imdb.com/video/vi1823801625/"
+    },
+    "url": "/title/tt0318281/"
+}

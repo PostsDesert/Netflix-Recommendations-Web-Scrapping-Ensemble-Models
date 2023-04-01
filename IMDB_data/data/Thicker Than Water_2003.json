@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Andrea Roth",
+            "url": "/name/nm0744776/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eric Osborne",
+            "url": "/name/nm5741284/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tygh Runyan",
+            "url": "/name/nm0750353/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 788,
+        "ratingValue": 5,
+        "worstRating": 1
+    },
+    "contentRating": "TV-14",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0099956/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0228741/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Elver",
+            "url": "/name/nm1019752/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrea Stevens",
+            "url": "/name/nm0828231/"
+        }
+    ],
+    "datePublished": "2019-03-24",
+    "description": "It has been a year since Paige and Nathan Decker tragically lost their teenage son Zach to an overdose. Nathan and daughter Addie have slowly been putting their lives back together. Paige, however, just can't seem to let go. She i...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Caroline Labrèche",
+            "url": "/name/nm3537925/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMGZmYjZhNDMtN2ZhNy00MzZkLTgzNzYtNGZiMWJjODk3ZDM2XkEyXkFqcGdeQXVyMTk1NzUwMA@@._V1_.jpg",
+    "name": "Thicker Than Water",
+    "original_info": {
+        "id": "Thicker Than Water_2003",
+        "name": "Thicker Than Water",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "thecars7897"
+        },
+        "dateCreated": "2019-09-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt8955144/"
+        },
+        "name": "A Great thriller",
+        "reviewBody": "The movie delivers like a thriller. I like the actress Katie Douglas . This being the 3rd movie I seen her in. Her acting skills are obviously great in thrillers. The movie is good and where a lunatic comes to stay with a family who lost their son but they don't know anything about his past.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Starring Andrea Roth, Eric Osborne, Tygh Runyan, Katie Douglas, Kayla Henry, Josh Johnston\nDirected by Caroline Labrèche, written by David Elver & Andrea Stevens.",
+        "duration": "PT1M39S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1392622105",
+        "name": "Thicker Than Water - Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMDAwZGYzYTYtMjZjOS00MzM3LTg0ZGItNDliZGQ2MDE0ZDExXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDAwZGYzYTYtMjZjOS00MzM3LTg0ZGItNDliZGQ2MDE0ZDExXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+        "uploadDate": "2019-01-21T17:23:26.953Z",
+        "url": "https://www.imdb.com/video/vi1392622105/"
+    },
+    "url": "/title/tt8955144/"
+}

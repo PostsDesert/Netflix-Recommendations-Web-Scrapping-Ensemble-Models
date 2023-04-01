@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ewan McGregor",
+            "url": "/name/nm0000191/"
+        },
+        {
+            "@type": "Person",
+            "name": "Liam Neeson",
+            "url": "/name/nm0000553/"
+        },
+        {
+            "@type": "Person",
+            "name": "Natalie Portman",
+            "url": "/name/nm0000204/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 817887,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0071326/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Lucas",
+            "url": "/name/nm0000184/"
+        }
+    ],
+    "datePublished": "1999-05-19",
+    "description": "Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long dormant Sith resurface to claim their original glory.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "George Lucas",
+            "url": "/name/nm0000184/"
+        }
+    ],
+    "duration": "PT2H16M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTRhNjcwNWQtMGJmMi00NmQyLWE2YzItODVmMTdjNWI0ZDA2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "keywords": "torso cut in half,star wars,prequel,starfighter,race",
+    "name": "Star Wars: Episode I - The Phantom Menace",
+    "original_info": {
+        "id": "Star Wars: Episode I: The Phantom Menace_1999",
+        "name": "Star Wars: Episode I: The Phantom Menace",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "TheLittleSongbird"
+        },
+        "dateCreated": "2009-10-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120915/"
+        },
+        "name": "Visually a marvel to look at, disappointing in terms of story",
+        "reviewBody": "Star Wars: Episode 1- The Phantom Menace is definitely worth a watch, but I do think it is one of the weaker movies of the Star Wars saga. I will admit I wasn't expecting much after reading some very negative reviews on IMDb, but I do think this particular instalment did in some ways exceed my expectations and disappointed as well. On a visual and technical level, it looks absolutely fantastic, with splendid special effects, stunning cinematography and fine scenery and costumes. The script is fairly decent, perhaps lacking the sophistication of Empire Strikes Back or New Hope, but does have some memorable lines. The action is constantly exhilarating, and Darth Maul, well played by Ray Park is a very good villain. Of course though, Darth Vader is better. Most of the performances are very good, especially Natalie Portman as Queen Padma who looked stunning and Jake Lloyd as Anakin Skywalker who shone with his confident charm. And Jar Jar Binks is okay on the most part, and you have to love Yoda. And the music score by John Williams was outstanding, definitely one of his best works. The quality of sound and direction are also impressive. However, there were things about this film that did disappoint. One is despite the awesome visuals, strong music score and good characters, the story never quite distinguished itself. It did take a while to get going, and when it did try to get going and you could tell it wanted to, it was further disadvantaged by the uneven pacing. Liam Neeson is a fine actor, his performances in Kinsey and Schindler's List are proof of that, and I do like Ewan McGregor. But as Qui-Gon Jin and Obi Wan Kenobi, both stars give unusually wooden performances, and at times looked even embarrassed. And as I said, the pacing is very uneven, there are some slow moments, and one or two scenes felt rushed. All in all, maybe disappointing for fans of the saga, but it cannot be denied that visually it is an accomplishment. 7/10 Bethany Cox",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Two Jedi knights uncover a wider conflict when they are sent as emissaries to the blockaded planet Naboo. ",
+        "duration": "PT1M34S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2143788569",
+        "name": "3D Re-release Version",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTUwMzIxNzI5MV5BMl5BanBnXkFtZTgwNzM1NjIyMzE@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTUwMzIxNzI5MV5BMl5BanBnXkFtZTgwNzM1NjIyMzE@._V1_.jpg",
+        "uploadDate": "2011-11-03T08:58:37Z",
+        "url": "https://www.imdb.com/video/vi2143788569/"
+    },
+    "url": "/title/tt0120915/"
+}

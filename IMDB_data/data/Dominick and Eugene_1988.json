@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tom Hulce",
+            "url": "/name/nm0001371/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ray Liotta",
+            "url": "/name/nm0000501/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jamie Lee Curtis",
+            "url": "/name/nm0000130/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3102,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0001995/"
+        },
+        {
+            "@type": "Person",
+            "name": "Danny Porfirio",
+            "url": "/name/nm0691744/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alvin Sargent",
+            "url": "/name/nm0765091/"
+        },
+        {
+            "@type": "Person",
+            "name": "Corey Blechman",
+            "url": "/name/nm0088097/"
+        }
+    ],
+    "datePublished": "1988-09-09",
+    "description": "Dominick and Eugene are twins, but Dominick is a little bit slow due to an accident in his youth. They live together, with Dominick working as garbage man to put Eugene through medical school. Their relationship becomes strained w...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert M. Young",
+            "url": "/name/nm0950001/"
+        }
+    ],
+    "duration": "PT1H51M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzZmNjA5MDgtMzhmNS00ODcxLWIxZTQtZDMwMzA4MmM3ZTA1XkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_.jpg",
+    "keywords": "character names as title,forenames as title,drug dealer,comic book,assault",
+    "name": "Dominick and Eugene",
+    "original_info": {
+        "id": "Dominick and Eugene_1988",
+        "name": "Dominick and Eugene",
+        "year": "1988"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jtdb"
+        },
+        "dateCreated": "2008-12-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0095050/"
+        },
+        "name": "Shattering, brilliantly acted drama of two brothers",
+        "reviewBody": "Words are seriously not enough convey the emotional power of this film; it's one of the most wrenching you'll ever see, yet the ending is one of the most loving, tender, and emotionally fulfilling you could hope for. Every actor in every role is terrific, especially a wise and understated Jamie Lee Curtis, a tightly wound and anguished Ray Liotta, and a heart-stopping turn from Tom Hulce that should have had him up for every award in the book. (He's the #1 pick for 1988's Best Actor in Danny Peary's \"Alternate Oscars.\") The last half hour borders on melodrama, but the film earns every one of its tears--and unless you're made of stone, there will be plenty of them.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Dominick and Eugene are twins, but Dominick is a little bit slow due to an accident in his youth. They live together, with Dominick working as garbage man to put Eugene through medical school. Their relationship becomes strained when Eugene must decide between his devotion to his brother, or his need to go away to complete his training.",
+        "duration": "PT1M21S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi369476377",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZGFmNjhhOGMtMjBjNy00M2Y2LWFmMjctNTJlN2I5OGQwYmViXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZGFmNjhhOGMtMjBjNy00M2Y2LWFmMjctNTJlN2I5OGQwYmViXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2022-02-02T21:05:44.283Z",
+        "url": "https://www.imdb.com/video/vi369476377/"
+    },
+    "url": "/title/tt0095050/"
+}

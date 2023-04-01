@@ -1,0 +1,89 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "George Carlin",
+            "url": "/name/nm0137506/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rick Ducommun",
+            "url": "/name/nm0239958/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anthony James",
+            "url": "/name/nm0416279/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1805,
+        "ratingValue": 8,
+        "worstRating": 1
+    },
+    "contentRating": "TV-MA",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0071878/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Carlin",
+            "url": "/name/nm0137506/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rocco Urbisci",
+            "url": "/name/nm0881759/"
+        }
+    ],
+    "datePublished": "1986-06-14",
+    "description": "Legendary comedian George Carlin tackles some of his favorite subjects along with his brand of comedy and humor.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Rocco Urbisci",
+            "url": "/name/nm0881759/"
+        }
+    ],
+    "duration": "PT1H",
+    "genre": [
+        "Documentary",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTBiOTQ4ZmItMWE4YS00NTU5LThmMTQtNjBmOWYxZWFlZTUwXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg",
+    "keywords": "some scenes in black and white,private detective,water cooler,grandfather clock,climbing out a window",
+    "name": "George Carlin: Playin' with Your Head",
+    "original_info": {
+        "id": "George Carlin: Playing with Your Head_1986",
+        "name": "George Carlin: Playing with Your Head",
+        "year": "1986"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Quinoa1984"
+        },
+        "dateCreated": "1999-11-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0199554/"
+        },
+        "name": "Carlin's at his best here",
+        "reviewBody": "George Carlin has been making comedy for many years, and this has to be one of his best works. Here, he talks more in depth about sports, things, battered plants, and other things that are in the great George Carlin tradition. This is something good for anyone looking for a laugh, and great for Carlin fans",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0199554/"
+}

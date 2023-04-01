@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tom Hanks",
+            "url": "/name/nm0000158/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bruce Willis",
+            "url": "/name/nm0000246/"
+        },
+        {
+            "@type": "Person",
+            "name": "Melanie Griffith",
+            "url": "/name/nm0000429/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 25679,
+        "ratingValue": 5.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Cristofer",
+            "url": "/name/nm0188165/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tom Wolfe",
+            "url": "/name/nm0004366/"
+        }
+    ],
+    "datePublished": "1990-12-21",
+    "description": "After his mistress runs over a young teen, a Wall Street hotshot sees his life unravel in the spotlight and attracts the interest of a down-and-out reporter.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Brian De Palma",
+            "url": "/name/nm0000361/"
+        }
+    ],
+    "duration": "PT2H5M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOWQyODdmMWQtMzA0ZS00NzE2LWJjMWMtOGNmZGM1NWE3OTc5XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "phone booth,tire,reverend,church,reference to don juan",
+    "name": "The Bonfire of the Vanities",
+    "original_info": {
+        "id": "The Bonfire of the Vanities_1990",
+        "name": "The Bonfire of the Vanities",
+        "year": "1990"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "tomgillespie2002"
+        },
+        "dateCreated": "2015-04-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0099165/"
+        },
+        "name": "Fails to grasp the subtle satire of Tom Wolfe's novel",
+        "reviewBody": "Tom Wolfe's sprawling novel about the aftershocks of a hit-and-run in 1980's New York set out to capture the corruption and self- promotion that seemed to dominate the decade, with every power player in the city, and every hanger-on trying to achieve personal triumph, latching on to the media and cultural frenzy to benefit their own personal agenda. It's a remarkable novel; bleakly hilarious but meticulously detailed. A movie adaptation was always going to be dangerous territory, and Brian De Palma's resulting film, that flopped both critically and commercially, is a confused mess. The complete failure of the film may be somewhat cruel and not wholly deserved, but De Palma goes for all-out comedy, failing to grasp Wolfe's subtle satire completely.\n\nTom Hanks plays self-styled 'master of the universe' Sherman McCoy, a Wall Street broker who enjoys every material comfort that life can offer, living in his huge apartment with his ditsy wife Judy (Kim Cattrall). During an eventful night with his mistress Maria Ruskin (Melanie Griffith), they take a wrong turn while heading back to her apartment and end up in South Bronx. Sherman gets out of the car to clear the road when he is approach by two black youths, and a misunderstanding leads to Ruskin accidentally running one of them over. They flee the scene, but once the story of a rich white man almost killing a poor black kid breaks, the likes of Reverend Bacon (John Hancock), a Harlem religious and political leader, Jewish district attorney Abe Weiss (F. Murray Abraham) and hard-drinking journalist Peter Fallow (Bruce Willis) rear their heads to twist the ongoing s**t-storm to their own benefit.\n\nDespite some nice tracking shots and sets that really do capture the tacky glamour of the 80's, the movie's biggest downfall is the casting. The two leads, Hanks and Willis, are woefully miscast. McCoy is a loathsome character, a WASP-ish high-roller in an increasingly capitalist country, but Hanks is one of the most likable actors around. He looks visibly uncomfortable in a thinly- written role, and only takes control of his character in a scene in which he clears his apartment by unloading a shotgun played mainly for laughs, which at this stage of his career was Hanks's shtick. Fallow in the novel is a manipulative con-man, twisting the unravelling story through his newspaper in order to keep his job and make a nice paycheck along the way. But De Palma only seems to have picked up on his heavy drinking, meaning that Willis swings a bottle around and narrates the story, playing the role of spoon-feeder without playing an active role in story or convincing as someone who could get to his position.\n\nBut then again, De Palma's movie doesn't exist in the real world. Arguably, the ensemble of characters in Wolfe's novel were caricatures, but they were well-rounded characters, and being inside their heads meant that we could understand their motives, something the movie entirely ignores. So we get the likes of Bacon, Weiss, lawyer Tom Killian (Kevin Dunn) and Assistant District Attorney Kramer (Saul Rubinek), all key players in the novel, reduced to scowling or bumbling onlookers, while McCoy squirms for our amusement and Fallow tells us what we're supposed to be thinking. Occasionally its an all-out pantomime, which would be forgivable it was funny or insightful. Yet when Wolfe calls for pantomime at the climax, the movie delivers a ridiculous speech spoken by Judge White (Morgan Freeman), informing us that decency is what your grandmother taught you.\n\nwww.the-wrath-of-blog.blogspot.com",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 4,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT2M8S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2679832857",
+        "name": "Bonfire of the Vanities",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjM2MzE5MzItMWIxNC00ZmVhLWJkOGItODIzZTMzZTA3YjRhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjM2MzE5MzItMWIxNC00ZmVhLWJkOGItODIzZTMzZTA3YjRhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:44:58Z",
+        "url": "https://www.imdb.com/video/vi2679832857/"
+    },
+    "url": "/title/tt0099165/"
+}

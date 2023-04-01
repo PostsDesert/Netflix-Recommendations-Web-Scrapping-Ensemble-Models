@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jason Biggs",
+            "url": "/name/nm0004755/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mena Suvari",
+            "url": "/name/nm0002546/"
+        },
+        {
+            "@type": "Person",
+            "name": "Zak Orth",
+            "url": "/name/nm0651008/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 29601,
+        "ratingValue": 5.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0011036/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0016548/"
+        },
+        {
+            "@type": "Person",
+            "name": "Amy Heckerling",
+            "url": "/name/nm0002132/"
+        }
+    ],
+    "datePublished": "2000-07-21",
+    "description": "A college student, branded a loser by his roommates and booted from the dorm, falls in love with a coed who has eyes for their condescending professor.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Amy Heckerling",
+            "url": "/name/nm0002132/"
+        }
+    ],
+    "duration": "PT1H38M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYWY5ZTEwZDItZWQ0My00NzEwLWI3NzAtNzI1ZTJkMjgyZWMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "college student,roommate,teacher student relationship,title directed by woman,fish out of water",
+    "name": "Loser",
+    "original_info": {
+        "id": "Loser_2000",
+        "name": "Loser",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Quinoa1984"
+        },
+        "dateCreated": "2000-07-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0217630/"
+        },
+        "name": "Hits a little close to home",
+        "reviewBody": "I have always been the outsider as a teenager (why do you think I have hundreds of movies on my comment list), so I can relate to this film. Not because I have gone to a college from a far off land and am not familiar with the area. But because I have always known what It's like to not always get the girl, always to be alone and to have such low self-esteem you make eeyore from Winnie the Pooh look like Richard Simmons. So I can sympathize. But saying did I like the entire movie, no. Because the main heroine (Mena Suvari) knows who is the right one in her life (her choices are the teen Jason Biggs and a married professor Greg Kinnear) and takes too long to find out who the right one is (I am not revealing who that is). While she and Biggs are likeable characters, they also make dumb choices in the dating game. Sort of like Boys and Girls which came out last month. Yet, I can reccomend this film to teen film fans, Everclear fans, or fans of writer/director/co-producer Amy Heckerling's work (she is of Fast Times at Ridgemont High and Clueless fame). Just don't go into it looking for a way to find better love. B+",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Tristar",
+        "duration": "PT2M16S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1219166489",
+        "name": "Loser",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjZlOGQ1ZDktZjczYS00MDE2LWI4ZjAtNTUwMDRlODA4MjhmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjZlOGQ1ZDktZjczYS00MDE2LWI4ZjAtNTUwMDRlODA4MjhmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:20:27Z",
+        "url": "https://www.imdb.com/video/vi1219166489/"
+    },
+    "url": "/title/tt0217630/"
+}

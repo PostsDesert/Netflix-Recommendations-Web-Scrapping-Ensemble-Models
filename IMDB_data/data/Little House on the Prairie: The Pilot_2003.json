@@ -1,0 +1,80 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Melissa Gilbert",
+            "url": "/name/nm0001271/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Landon",
+            "url": "/name/nm0001446/"
+        },
+        {
+            "@type": "Person",
+            "name": "Karen Grassle",
+            "url": "/name/nm0002111/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 24537,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "TV-PG",
+    "creator": [
+        {
+            "@type": "Person",
+            "name": "Blanche Hanalis",
+            "url": "/name/nm0359256/"
+        }
+    ],
+    "datePublished": "1974-03-30",
+    "description": "The life and adventures of the Ingalls family in the nineteenth century American Midwest.",
+    "genre": [
+        "Drama",
+        "Family",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg0NzQ4MDAtYmNlYi00OGExLWE3YjItNzEyOWI3MGE3NzRkXkEyXkFqcGdeQXVyMzU3MTc5OTE@._V1_.jpg",
+    "keywords": "1870s,1880s,historical drama,pioneer,little girl",
+    "name": "Little House on the Prairie",
+    "original_info": {
+        "id": "Little House on the Prairie: The Pilot_2003",
+        "name": "Little House on the Prairie: The Pilot",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "andyred-1"
+        },
+        "dateCreated": "2006-04-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0071007/"
+        },
+        "name": "Uneven Over 9 Years, Solid at its Core",
+        "reviewBody": "A well-written show with some definite episodes within \"genres\" (broad comedies, moral choices, adventure, family values, religion). As far as a complete body of work, the seasons best hold together in the first four years, ending with \"I'll Be Waving as You Drive Away\" (you can believe that the family had faced issues and had to move as they moved previously, in the spirit of the books and the time period)...adding additional cast and bringing back characters afterward added some confusion and some continuity problems that are well documented. The last season of episodes and the last TV movies are often lambasted as not true to style, or by having substitute families, and while this is true to a point, the new characters often were used to tell similar stories."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M33S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3131882009",
+        "name": "Series Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDczMDcxNjktZjFmMi00MzQ1LWEzYTYtNWM2MmUxNTRlNjFmXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDczMDcxNjktZjFmMi00MzQ1LWEzYTYtNWM2MmUxNTRlNjFmXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+        "uploadDate": "2018-10-08T20:06:21.671Z",
+        "url": "https://www.imdb.com/video/vi3131882009/"
+    },
+    "url": "/title/tt0071007/"
+}

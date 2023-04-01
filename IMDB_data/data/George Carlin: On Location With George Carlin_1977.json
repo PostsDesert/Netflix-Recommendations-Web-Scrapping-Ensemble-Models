@@ -1,0 +1,78 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "George Carlin",
+            "url": "/name/nm0137506/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6234,
+        "ratingValue": 8.5,
+        "worstRating": 1
+    },
+    "contentRating": "TV-MA",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0042299/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0008693/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Carlin",
+            "url": "/name/nm0137506/"
+        }
+    ],
+    "datePublished": "2008-03-01",
+    "description": "It's Bad For Ya, Carlin's Emmy-nominated 14th and final HBO special from March of 2008 features Carlin's noted irreverent and unapologetic observations on topics ranging from death, religion, bureaucracy, patriotism, overprotected...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Rocco Urbisci",
+            "url": "/name/nm0881759/"
+        }
+    ],
+    "duration": "PT1H10M",
+    "genre": [
+        "Documentary",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzI0Njk5ZWYtNGVhNy00MjVmLWFhMWItN2NhNGQ5NDQ3YmE3XkEyXkFqcGdeQXVyMTk3NDAwMzI@._V1_.jpg",
+    "keywords": "reference to barbara bush,stand up,actor name in title,satire comedy,parody comedy",
+    "name": "George Carlin... It's Bad for Ya!",
+    "original_info": {
+        "id": "George Carlin: On Location With George Carlin_1977",
+        "name": "George Carlin: On Location With George Carlin",
+        "year": "1977"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Johnny_West"
+        },
+        "dateCreated": "2021-10-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0963207/"
+        },
+        "name": "Nasty Old Guy Has Nothing Left",
+        "reviewBody": "Same old tired worn out routine. The words, the rhymes, all done better before. All that's left is a mean nasty little guy without a funny bone in his body. Just an angry little man, on a last cash grab from his diehard fans. Time to rest in pieces, Gramps. Your funny moments are over.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0963207/"
+}

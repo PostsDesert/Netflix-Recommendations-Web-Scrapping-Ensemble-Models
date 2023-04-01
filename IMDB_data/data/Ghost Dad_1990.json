@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bill Cosby",
+            "url": "/name/nm0001070/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kimberly Russell",
+            "url": "/name/nm0751274/"
+        },
+        {
+            "@type": "Person",
+            "name": "Denise Nicholas",
+            "url": "/name/nm0629370/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 8233,
+        "ratingValue": 4.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0069999/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brent Maddock",
+            "url": "/name/nm0534681/"
+        },
+        {
+            "@type": "Person",
+            "name": "S.S. Wilson",
+            "url": "/name/nm0934093/"
+        },
+        {
+            "@type": "Person",
+            "name": "Phil Alden Robinson",
+            "url": "/name/nm0004675/"
+        }
+    ],
+    "datePublished": "1990-06-29",
+    "description": "A widowed father tries to support his children after he becomes a ghost in an accident.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Sidney Poitier",
+            "url": "/name/nm0001627/"
+        }
+    ],
+    "duration": "PT1H23M",
+    "genre": [
+        "Comedy",
+        "Family",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzUxYmZlNzctYjZlNy00YTQzLWFiM2UtY2UxOGY4MDYyMjExXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "father daughter relationship,ghost,bedtime story,scientist,bare chested male",
+    "name": "Ghost Dad",
+    "original_info": {
+        "id": "Ghost Dad_1990",
+        "name": "Ghost Dad",
+        "year": "1990"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "morrowman2"
+        },
+        "dateCreated": "2004-05-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0099654/"
+        },
+        "name": "This movie is great.",
+        "reviewBody": "I don't care what anyone else has said this is a great movie. I have seen this movie several times and Bill Cosby is funny, A single dad trying to raise 3 children until he has his accident and becomes a ghost. The adventures that Cosby goes through in this movie while he is a ghost are interesting. It is a great film for children of all ages. So, see this movie if you haven't already and I think you will be very surprised at the adventures of Cosby and the other Characters in this film."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Universal Studios Home Entertainment",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2879717657",
+        "name": "Ghost Dad",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZmY3YzkxYWUtMjY5YS00YmQ5LThlMDktZDA4MjNkYWYzNTM3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZmY3YzkxYWUtMjY5YS00YmQ5LThlMDktZDA4MjNkYWYzNTM3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:02:10Z",
+        "url": "https://www.imdb.com/video/vi2879717657/"
+    },
+    "url": "/title/tt0099654/"
+}

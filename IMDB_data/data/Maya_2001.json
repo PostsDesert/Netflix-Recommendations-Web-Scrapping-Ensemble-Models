@@ -1,0 +1,96 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Anant Nag",
+            "url": "/name/nm0619047/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mita Vashisht",
+            "url": "/name/nm0890622/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nitya Shetty",
+            "url": "/name/nm1070292/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 294,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0080106/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0045059/"
+        },
+        {
+            "@type": "Person",
+            "name": "Emmanuel Pappas",
+            "url": "/name/nm1070009/"
+        },
+        {
+            "@type": "Person",
+            "name": "Digvijay Singh",
+            "url": "/name/nm1070317/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dinesh G. Thakur",
+            "url": "/name/nm5288050/"
+        }
+    ],
+    "datePublished": "2002-01-16",
+    "description": "For 12 year-old Maya, life is very simple in her village in rural India. From innocent pranks to small adventures in the nearby forest, she spends most of her time with her 11 year-old cousin Sanjay. However, their fraternal love ...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Digvijay Singh",
+            "url": "/name/nm1070317/"
+        }
+    ],
+    "duration": "PT1H45M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY4ODY4NzczNF5BMl5BanBnXkFtZTcwNjQyNjcyMQ@@._V1_.jpg",
+    "keywords": "india,ritual,coming of age,rape,family relationships",
+    "name": "Maya",
+    "original_info": {
+        "id": "Maya_2001",
+        "name": "Maya",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "lexibear21"
+        },
+        "dateCreated": "2005-02-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0299027/"
+        },
+        "name": "Beautiful cinematography contrast important message",
+        "reviewBody": "The first thing that struck me about the film \"Maya\" was the beautiful cinematography. Sweeping shots of the Indian landscape, touching moments between children and family, brilliant colors, close-up's of lizards (I'm guessing they mean something in Indian culture that I am not aware of.): all these contributed to the overall aesthetic appeal of the film. However, the visual beauty of the film provided a stark contrast to the actual message behind the images. This movie is about brutal religious practices still affecting young girls in some parts of India. The serenity of the majority of the film provides a stark contrast with the dark message beneath. This film not only raises awareness of these brutal practices but does so in the most effective of ways. \"Maya\" provides an extremely important message, and it also is an achievement in cinematic production. I thought this film was extremely well done, and it has taught me even more about practices such as these that still exist in a world outside mine.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0299027/"
+}

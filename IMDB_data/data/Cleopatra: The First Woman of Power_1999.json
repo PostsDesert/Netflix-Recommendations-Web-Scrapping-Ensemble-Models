@@ -1,0 +1,65 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Katerina Taxia",
+            "url": "/name/nm1243000/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Steven Bianchi",
+            "url": "/name/nm2345011/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Green",
+            "url": "/name/nm2347620/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 38,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0100508/"
+        },
+        {
+            "@type": "Person",
+            "name": "Katherine Gilday",
+            "url": "/name/nm0318380/"
+        },
+        {
+            "@type": "Person",
+            "name": "Plutarch",
+            "url": "/name/nm1306202/"
+        }
+    ],
+    "description": "An attempt to correct popular misconceptions about the real Cleopatra.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Katherine Gilday",
+            "url": "/name/nm0318380/"
+        }
+    ],
+    "duration": "PT50M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY0NDk5NzkyOF5BMl5BanBnXkFtZTcwMjk2OTMyMQ@@._V1_.jpg",
+    "keywords": "reenactment,ancient egypt,independent film,character name in title",
+    "name": "Cleopatra: The First Woman of Power",
+    "original_info": {
+        "id": "Cleopatra: The First Woman of Power_1999",
+        "name": "Cleopatra: The First Woman of Power",
+        "year": "1999"
+    },
+    "url": "/title/tt0237104/"
+}

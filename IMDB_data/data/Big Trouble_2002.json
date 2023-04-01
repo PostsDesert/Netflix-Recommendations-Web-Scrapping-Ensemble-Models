@@ -1,0 +1,117 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tim Allen",
+            "url": "/name/nm0000741/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rene Russo",
+            "url": "/name/nm0000623/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stanley Tucci",
+            "url": "/name/nm0001804/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 21143,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0049348/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0024945/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0046771/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dave Barry",
+            "url": "/name/nm0057970/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Ramsey",
+            "url": "/name/nm0709070/"
+        },
+        {
+            "@type": "Person",
+            "name": "Matthew Stone",
+            "url": "/name/nm0832043/"
+        }
+    ],
+    "datePublished": "2002-04-05",
+    "description": "The lives of several Miami denizens, from ad agents to gunrunners to street thugs to law enforcement to school-children, intersect with humorous and dangerous results.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Barry Sonnenfeld",
+            "url": "/name/nm0001756/"
+        }
+    ],
+    "duration": "PT1H25M",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMGExOThjYjMtYzA2MC00OTZhLWEzMDYtMTAwZmViMGU4OTE4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "keywords": "time bomb,florida noir,toe sucking,man wears a wig,character repeats someone else's dialogue",
+    "name": "Big Trouble",
+    "original_info": {
+        "id": "Big Trouble_2002",
+        "name": "Big Trouble",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "mgafm"
+        },
+        "dateCreated": "2003-04-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0246464/"
+        },
+        "name": "Great movie, very funny",
+        "reviewBody": "I am so surprised this wasn't more popular. It seemed Sept. 11 ruined its chances. I was enthralled. This movie is consistently funny and silly and satirical all at once. It's a brilliant Dave Barry adaptation. All I could think the entire time was, Dave Barry is a movie. Patrick Warbuton was ingenious, as was the rest of the cast. I highly recommend this to anyone with a sense of humor.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Buena Vista Home Entertainment",
+        "duration": "PT1M12S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2102591513",
+        "name": "Big Trouble",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYTVkOTUzYTktNDRjMC00M2NhLThiZGUtZDhiZWI2ZTE2Yjg4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTVkOTUzYTktNDRjMC00M2NhLThiZGUtZDhiZWI2ZTE2Yjg4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-11-01T03:07:56Z",
+        "url": "https://www.imdb.com/video/vi2102591513/"
+    },
+    "url": "/title/tt0246464/"
+}

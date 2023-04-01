@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Peter Ustinov",
+            "url": "/name/nm0001811/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mia Farrow",
+            "url": "/name/nm0001201/"
+        },
+        {
+            "@type": "Person",
+            "name": "Simon MacCorkindale",
+            "url": "/name/nm0531546/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 36563,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0150862/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0103338/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anthony Shaffer",
+            "url": "/name/nm0787289/"
+        },
+        {
+            "@type": "Person",
+            "name": "Agatha Christie",
+            "url": "/name/nm0002005/"
+        }
+    ],
+    "datePublished": "1978-09-29",
+    "description": "As Hercule Poirot enjoys a luxurious cruise down the Nile, a newlywed heiress is found murdered on board. Can Poirot identify the killer before the ship reaches the end of its journey?",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Guillermin",
+            "url": "/name/nm0347086/"
+        }
+    ],
+    "duration": "PT2H20M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BY2EyN2FiMDgtNTAxMC00YTEzLWI1OWMtZjhmODgzMTNhYjllXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "egypt,giza egypt,pyramids of giza,riverboat,based on novel",
+    "name": "Death on the Nile",
+    "original_info": {
+        "id": "Death on the Nile_1978",
+        "name": "Death on the Nile",
+        "year": "1978"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "gezmar"
+        },
+        "dateCreated": "2005-07-31",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0077413/"
+        },
+        "name": "Remains A Lively And Delicious Favourite Treat",
+        "reviewBody": "The screen version of Agatha Christie's Death On The Nile would be one of the definitive adaptions of the very old fashioned(but still strangely popular) murder mystery genre. After twenty-seven years the movie holds up very well.\n\nThe most was made of the Egyption setting of the film as it was filmed mostly on location and the stunning ancient sites of Egypt are filmed beautifully. Tourism in Egypt apparently increased significanlty after the film's release. Not surprising.\n\nAlso making the film a treat is the wonderful cast. Peter Ustinov stepped into the role of Hercule Poirot for the first time and despite no resemblance to Christie's descriptions of Poirot, made the role his own for the next decade. Ustinov gives a stern but comic portrayal of Poirot which is balanced with the casting of Ustinov's close friend David Niven as Colonal Race, Poirot's sidekick.\n\nHeading the feast of suspects is the legendary Bette Davis as a grand dame with a sour Maggie Smith as her paid nurse/companion. There bickering scenes together are a hilarious highlight of the movie. Angela Lansbury is also a scene stealer as a tipsy, uninhibited novelist who does a hilarious tango with David Niven. Mia Farrow delivers a very good dramatic performance, as the women scorned which almost steers away from the usual cardboard stereotype characterisations of Agatha Christie.\n\nDirector John Guillerman let his great cast have fun with their characters partly because veteran thriller writer Anthony Shaffer wrote the screenplay. Although the murder mystery is a clever one and played out very well Shaffer injected the script with more wit and spice than the original novel had. (The Bette Davis and Maggie Smith scenes being the best example) The soundtrack of the film is an underrated gem with veteran composer Nino Rota producing a grand, sumptuous, inviting and mysterious soundtrack which perfectly complements the setting and the drama. Also his arrangement of the tango tune \"Jealousy\" is the best I've ever heard.\n\nAll this makes for a fun, lively old fashioned treat of a film that can be returned to from time to time.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M46S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2552674841",
+        "name": "Tráiler [OV]",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzlhMDFiMDMtN2QzMi00YzMwLTlmNjEtYTUxOTE0ZjYxNDU5XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzlhMDFiMDMtN2QzMi00YzMwLTlmNjEtYTUxOTE0ZjYxNDU5XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+        "uploadDate": "2019-01-02T15:59:31.381Z",
+        "url": "https://www.imdb.com/video/vi2552674841/"
+    },
+    "url": "/title/tt0077413/"
+}

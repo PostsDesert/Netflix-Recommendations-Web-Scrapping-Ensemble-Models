@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Michael Moore",
+            "url": "/name/nm0601619/"
+        },
+        {
+            "@type": "Person",
+            "name": "George W. Bush",
+            "url": "/name/nm0124133/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ben Affleck",
+            "url": "/name/nm0000255/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 130588,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0126177/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0017280/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0022594/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Moore",
+            "url": "/name/nm0601619/"
+        }
+    ],
+    "datePublished": "2004-06-25",
+    "description": "Michael Moore's view on what happened to the United States after September 11 and how the Bush Administration allegedly used the tragic event to push forward its agenda for unjust wars in Afghanistan and Iraq.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Moore",
+            "url": "/name/nm0601619/"
+        }
+    ],
+    "duration": "PT2H2M",
+    "genre": [
+        "Documentary",
+        "Drama",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAyODU1NzM0NF5BMl5BanBnXkFtZTcwNjI1MjYyMQ@@._V1_.jpg",
+    "keywords": "cover up,cult film,expose,imperialism,american history",
+    "name": "Fahrenheit 9/11",
+    "original_info": {
+        "id": "Fahrenheit 9|11_2004",
+        "name": "Fahrenheit 9/11",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "AlsExGal"
+        },
+        "dateCreated": "2015-07-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0361596/"
+        },
+        "name": "Hindsight is 20/20...",
+        "reviewBody": "... and thus so is this review about a film focusing on what were seen as the effects of the second Iraq war. Let's face it. Chances are you either loved or hated this film before you even saw it. Personally, I liked it a great deal. I liked the fact that Michael Moore uses the politicians' own videotaped words to indict them, but I also disliked the insinuation in the film that American soldiers were jar-heads who enjoyed or were callous about the killing and suffering of ordinary Iraqis as a result of the war. His final thought in the film is an important one - after all the lies told about why we went to Iraq, why would anybody ever trust us again? This lack of trust was important in the context of the 2008 Presidential election cycle. It caused an unusually high level of participation of young people and saw voters of all ages largely rejecting potential nominees perceived as Washington insiders, and besides Sarah Palin, helped elect Barak Obama to the presidency. Much of this can be traced back to the level of cynicism Moore displays in this film.\n\nAlso, and somewhat off-topic, I have to wonder how it is that Michael Moore was able to see the damage that such quotable quotes from conservative politicians could do, and yet then-presidential candidate John Kerry could not in 2004? If I had been running Mr. Kerry's campaign I would have been constantly rewinding and replaying the moment when President Bush is speaking at a fundraiser talking about \"his base - also known as the haves and the have mores\". What could have done more damage to the President's faux image as some average Joe who enjoys clearing brush on his ranch in Texas? At any rate, I think that although it is very dated at this point, it is still an important film and is worth viewing as a moment frozen in time. Just realize that this IS Michael Moore we are talking about and that he does like to go over the top quite a bit.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer 1",
+        "duration": "PT2M16S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1235616025",
+        "name": "Fahrenheit 9/11",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTk0NzA5ZGItNDNhYi00ZDlmLThmMjAtYThlOGE2YzA5NWY2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTk0NzA5ZGItNDNhYi00ZDlmLThmMjAtYThlOGE2YzA5NWY2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:04:00Z",
+        "url": "https://www.imdb.com/video/vi1235616025/"
+    },
+    "url": "/title/tt0361596/"
+}

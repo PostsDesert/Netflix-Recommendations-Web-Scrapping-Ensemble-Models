@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tom Waits",
+            "url": "/name/nm0001823/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Lurie",
+            "url": "/name/nm0527099/"
+        },
+        {
+            "@type": "Person",
+            "name": "Roberto Benigni",
+            "url": "/name/nm0000905/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 52849,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0011996/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0036174/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0088855/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Jarmusch",
+            "url": "/name/nm0000464/"
+        }
+    ],
+    "datePublished": "1986-09-25",
+    "description": "Two men are framed and sent to jail, where they meet a murderer who helps them escape and leave the state.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jim Jarmusch",
+            "url": "/name/nm0000464/"
+        }
+    ],
+    "duration": "PT1H47M",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNmQ2ZGVlZTctZDllYy00YTVlLTk0ZWEtM2Y4ZjhjNGU0MzU3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "swamp,prison,pimp,escape from prison,boredom",
+    "name": "Down by Law",
+    "original_info": {
+        "id": "Down by Law_1986",
+        "name": "Down by Law",
+        "year": "1986"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "andibert"
+        },
+        "dateCreated": "2004-01-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0090967/"
+        },
+        "name": "Fascinating filmmaking far away from Hollywood",
+        "reviewBody": "Wow, what a movie. Far away from Hollywood, Jim Jarmusch creates a world where you don't need drama, pathos and action to fascinate the watcher. Because fascinating is exactly what this movie is. A plot in the classical sense is almost completely missing; the scenes, in their simplicity sometimes reminding of theater, follow each other without ever creating real suspense; neither griping action nor complex dialogues are there to excite the spectator. And still, with ease Jarmusch fills more than a hundred minutes with a story you won't take your eyes off. It is hard to tell what the atmosphere of the movie is really based on, the characters, the setting, entirely in black and white, the music - probably all of it. Again, like in Jarmusch's later movie \"Dead man\", speed is an important factor: everything moves slowly, without haste, as there is no dramatic climax you could hurry towards; yet, boring is a word that certainly doesn't fit this piece of cineastic art. On the other hand, though some of the scenes seem quite surrealistic, it is not a really artistic movie breaking with all the traditional concepts of filmmaking; it is more a movie in classic shape with an unconventional story, not trying to shock, to confuse or even to make you think so much; this movie doesn't need all this to get your complete attention. You could probably speculate a lot about the meaning of the movie; to me, this seems highly unnecessary. Just let it unfold its atmosphere. Judge yourselves, but I was excited in a very special way by every scene of this motion picture, giving me one of my best cineastic experiences of the recent time.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Down by Law",
+        "duration": "PT1M37S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3442388505",
+        "name": "Down by Law",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjdjYzg3M2MtM2IwZi00MWZiLTkyYTAtOTM5MTk1ZjUwMTU4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjdjYzg3M2MtM2IwZi00MWZiLTkyYTAtOTM5MTk1ZjUwMTU4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2015-02-06T07:21:24Z",
+        "url": "https://www.imdb.com/video/vi3442388505/"
+    },
+    "url": "/title/tt0090967/"
+}

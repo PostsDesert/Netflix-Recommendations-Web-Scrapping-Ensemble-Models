@@ -1,0 +1,113 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ice Cube",
+            "url": "/name/nm0001084/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nia Long",
+            "url": "/name/nm0000505/"
+        },
+        {
+            "@type": "Person",
+            "name": "Aleisha Allen",
+            "url": "/name/nm0020248/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 33169,
+        "ratingValue": 4.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0003580/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0044714/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steven Gary Banks",
+            "url": "/name/nm1027958/"
+        },
+        {
+            "@type": "Person",
+            "name": "Claudia Grazioso",
+            "url": "/name/nm1257282/"
+        },
+        {
+            "@type": "Person",
+            "name": "J. David Stem",
+            "url": "/name/nm0826425/"
+        }
+    ],
+    "datePublished": "2005-01-21",
+    "description": "To impress a foxy divorcee, ladies' man Nick offers to take her kids on an extended road trip, unaware of the torture he's in for.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Brian Levant",
+            "url": "/name/nm0505152/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Adventure",
+        "Comedy",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZWYwZGI3MTgtMTNiZS00ZWYyLThmYjAtMjkwZTU4M2IxNjI5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "braces,fish out of water,child gagged,reference to lebron james,reference to 50 cent",
+    "name": "Are We There Yet?",
+    "original_info": {
+        "id": "Are We There Yet?_2005",
+        "name": "Are We There Yet?",
+        "year": "2005"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jeffdelisa"
+        },
+        "dateCreated": "2005-01-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0368578/"
+        },
+        "name": "Not an award winner...but very entertaining.",
+        "reviewBody": "This may not be an Academy Award winning movie, but it was entertaining the whole way through. It was light hearted, funny (with some slap-stick and occasional rude humor) and moving at times. I thought it was cleaver how Nick's conscience was portrayed through a Satchel Paige bobble-head. This movie appealed to all ages. There were some surprise guest appearances, namely Nichelle Nichols (Lt. Uhura from Star Trek) and Tracy Morgan as the voice of Satchel Paige. This movie was similar in style to Christmas With The Kranks only this one was actually funny and you care about the characters. If you are looking to be entertained and fun for the whole family ...then this movie is for you.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT2M31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1991704857",
+        "name": "Are We There Yet?",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjNmMWQ4YTMtNjQ2Zi00YmRkLWE4MmYtZjlhMzc5MTRkNGRjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjNmMWQ4YTMtNjQ2Zi00YmRkLWE4MmYtZjlhMzc5MTRkNGRjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:04:32Z",
+        "url": "https://www.imdb.com/video/vi1991704857/"
+    },
+    "url": "/title/tt0368578/"
+}

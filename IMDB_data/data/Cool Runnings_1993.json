@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Candy",
+            "url": "/name/nm0001006/"
+        },
+        {
+            "@type": "Person",
+            "name": "Leon",
+            "url": "/name/nm0502442/"
+        },
+        {
+            "@type": "Person",
+            "name": "Doug E. Doug",
+            "url": "/name/nm0234791/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 107524,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0008970/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lynn Siefert",
+            "url": "/name/nm0796848/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Ritchie",
+            "url": "/name/nm0006916/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tommy Swerdlow",
+            "url": "/name/nm0842476/"
+        }
+    ],
+    "datePublished": "1993-10-01",
+    "description": "When a Jamaican sprinter is disqualified from the Olympic Games, he enlists the help of a dishonored coach to start the first Jamaican Bobsled Team.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jon Turteltaub",
+            "url": "/name/nm0005509/"
+        }
+    ],
+    "duration": "PT1H38M",
+    "genre": [
+        "Adventure",
+        "Comedy",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTAwNzc2ZTgtNzQ5Yy00YmZiLTg4NzAtODgxZWI0NGNjNTdhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "keywords": "american played by canadian,canada,runner,beard,track",
+    "name": "Cool Runnings",
+    "original_info": {
+        "id": "Cool Runnings_1993",
+        "name": "Cool Runnings",
+        "year": "1993"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Spleen"
+        },
+        "dateCreated": "1999-09-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0106611/"
+        },
+        "name": "Sweet, disarming film",
+        "reviewBody": "Hands up all Jamaicans. (There are only 2.6 million people in Jamaica - so I know you don't account for a large percentage of the English-speaking world.) Hands up all those people with any interest at all in bobsledding. Hah! I knew it! No-one.\n\nThat's why `Cool Runnings' succeeds. It depends not at all on aggressive nationalism (it couldn't afford to, with a constituency of 2.6 million), and people of all countries are free to participate in the Jamaicans' perfectly reasonable patriotism. (Probably even the Swiss, whose bobsled team comes across as more than a trifle arrogant.) Nor is there any of that worship of a particular sport that makes baseball movies so unendurable for people outside of North America, Cuba and Japan. (Not that I have any evidence that baseball movies are popular in Cuba or Japan.)\n\nThere isn't any power-of-positive-thinking psychobabble, either - at least, it doesn't dominate. The four Jamaican bobsledders are separate people with different goals and ways of thinking. The coach (played beautifully by John Candy, who proves that he can act without playing the clown) doesn't ram a particular ideology down his players' throats. I doubt that any sports film has a more civilised and reasonable coach.\n\nIt comes down to this: we are given a reason to care about the characters, unrelated to nationality; and we are given a story that's worth following, even if we would never follow the sport itself. The clichés are fewer than usual and never offensive. It's a sweet film, and I doubt there's more than a handfull of people who could resist its charm.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Get ready for the 2022 Winter Olympics with these memorable scenes from movies featuring the global event. Which film is your favorite? ",
+        "duration": "PT1M31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1023918873",
+        "name": "Winter Olympics Supercut",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzM2Zjg1YzktM2UzMS00NDc5LWJhODUtNTM0OGRjODZkZTNiXkEyXkFqcGdeQW1pYnJ5YW50._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzM2Zjg1YzktM2UzMS00NDc5LWJhODUtNTM0OGRjODZkZTNiXkEyXkFqcGdeQW1pYnJ5YW50._V1_.jpg",
+        "uploadDate": "2022-02-04T16:54:16.979Z",
+        "url": "https://www.imdb.com/video/vi1023918873/"
+    },
+    "url": "/title/tt0106611/"
+}

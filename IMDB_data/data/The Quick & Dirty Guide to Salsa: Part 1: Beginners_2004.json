@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sharon Stone",
+            "url": "/name/nm0000232/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gene Hackman",
+            "url": "/name/nm0000432/"
+        },
+        {
+            "@type": "Person",
+            "name": "Russell Crowe",
+            "url": "/name/nm0000128/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 97463,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005883/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0090301/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0149490/"
+        },
+        {
+            "@type": "Person",
+            "name": "Simon Moore",
+            "url": "/name/nm0601881/"
+        }
+    ],
+    "datePublished": "1995-02-10",
+    "description": "A female gunfighter returns to a frontier town where a dueling tournament is being held, which she enters in an effort to avenge her father's death.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Sam Raimi",
+            "url": "/name/nm0000600/"
+        }
+    ],
+    "duration": "PT1H48M",
+    "genre": [
+        "Action",
+        "Romance",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTI2ZTZmMmItMmM3YS00ZjUwLWJiODMtMmRjMWM4NDE0OWFhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "female gunfighter,arizona,revenge,street shootout,showdown",
+    "name": "The Quick and the Dead",
+    "original_info": {
+        "id": "The Quick & Dirty Guide to Salsa: Part 1: Beginners_2004",
+        "name": "The Quick & Dirty Guide to Salsa: Part 1: Beginners",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Samiam3"
+        },
+        "dateCreated": "2009-08-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0114214/"
+        },
+        "name": "Raimi goes West",
+        "reviewBody": "With The Quick and the Dead, Sam Raimi approaches the old west with a very new/contemporary style. With its brisk energy and competitive characters, the story often feels like a sports movie with lots of photography tricks. If you want a top western, this might not be your film, but if what you seek you is good old pistol-whippin' American fun, this might do the trick.\n\nThanks to James Cameron, since T2, there has been nothing sexier than a woman with a gun. Sharon Stone actually brings a fairly macho 'Sarah Conner' quality to her character. She plays Ellen, a young cowgirl who rides into a mysterious town for a very special event, a gunslinging competition. The mayor of the town is a dangerous fella and one of the most feared gunslingers around. It is this man who Ellen is after. The question is, why? In order to fight him, she must beat everyone else in the competition. There will be blood, for sure.\n\nIn order to make up for his superficial plot, Sam Raimi has a lot of tricks up his sleeve. One of his most recognizable through his career is going over the top in an amusing way, which he does here too, mostly at the climax. He doesn't make great movies, but he makes clever and entertaining ones, which this is.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Tristar",
+        "duration": "PT2M16S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3858235673",
+        "name": "The Quick and the Dead",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMWQ2Mjc1Y2MtMjgzMC00YzM0LWJjYWYtMzJiOGY5OTY1MTQ2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMWQ2Mjc1Y2MtMjgzMC00YzM0LWJjYWYtMzJiOGY5OTY1MTQ2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:06:21Z",
+        "url": "https://www.imdb.com/video/vi3858235673/"
+    },
+    "url": "/title/tt0114214/"
+}

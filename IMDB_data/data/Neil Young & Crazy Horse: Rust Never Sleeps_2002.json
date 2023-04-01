@@ -1,0 +1,68 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 77,
+        "ratingValue": 8.6,
+        "worstRating": 1
+    },
+    "datePublished": "2022-12-01",
+    "description": "Created between January and September 1971, this docu-film takes us on an intimate journey to Young's farm in Northern California for the 'Harvest Barn' sessions.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Neil Young",
+            "url": "/name/nm0949918/"
+        }
+    ],
+    "duration": "PT2H5M",
+    "genre": [
+        "Documentary",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNWZkNjcwNzktYTc0MC00MDJjLWE4ZDAtNjBlYmU0MWJjMGM3XkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_.jpg",
+    "name": "Neil Young: Harvest Time",
+    "original_info": {
+        "id": "Neil Young & Crazy Horse: Rust Never Sleeps_2002",
+        "name": "Neil Young & Crazy Horse: Rust Never Sleeps",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dguest-57663"
+        },
+        "dateCreated": "2022-12-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt23941342/"
+        },
+        "name": "AutoBarn",
+        "reviewBody": "The running time of Neil Young's 1972 album 'Harvest' is less than 40mins. 'Harvest Time', his documentary about the bringing in of 'Harvest', runs to a little over 2hrs despite overlooking a couple of songs. Admirers of Young will know exactly how that can happen and they will love it.\n\nThe film has an Arts & Crafts feel, rough-hewn and quirky. It skips between playing and recording, interviews and landscapes. It is consistently fascinating on the process of recording music, where Young's painstaking approach doesn't exclude mystical possibilities - a ghost in the studio, an echo from the rolling hills. Directing himself, he comes across as an agreeable, thoughtful young man (he was in his mid-20s), but he is disappointingly opaque on the subject of his own creativity. 'Harvest Time' is intriguing and frustrating.\n\nNeither the title track nor 'The Needle and the Damage Done' makes it into the film, and 'Old Man' and 'Heart of Gold' are shoe-horned into the final reel. 'Alabama', by contrast, features at length, twice.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Created between January and September 1971, this docu-film takes us on an intimate journey to Young's farm in Northern California for the 'Harvest Barn' sessions.",
+        "duration": "PT53S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3086927129",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMDdkODJjNzEtZTdmYi00Mzg3LWEyNTUtMDZiMTg4OTI4YmU4XkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDdkODJjNzEtZTdmYi00Mzg3LWEyNTUtMDZiMTg4OTI4YmU4XkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+        "uploadDate": "2022-12-09T18:28:24.519Z",
+        "url": "https://www.imdb.com/video/vi3086927129/"
+    },
+    "url": "/title/tt23941342/"
+}

@@ -1,0 +1,84 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Leonardo DiCaprio",
+            "url": "/name/nm0000138/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeremy Irons",
+            "url": "/name/nm0000460/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Malkovich",
+            "url": "/name/nm0000518/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 171535,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103797/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alexandre Dumas",
+            "url": "/name/nm0241416/"
+        },
+        {
+            "@type": "Person",
+            "name": "Randall Wallace",
+            "url": "/name/nm0908824/"
+        }
+    ],
+    "datePublished": "1998-03-13",
+    "description": "The cruel King Louis XIV of France has a secret twin brother whom he keeps imprisoned. Can the twin be substituted for the real king?",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Randall Wallace",
+            "url": "/name/nm0908824/"
+        }
+    ],
+    "duration": "PT2H12M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjM2YzcxMmQtOTc2Mi00YjdhLWFlZjUtNmFmMDQzYzU2YTk5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "keywords": "17th century,france,twin,musketeer,three musketeers",
+    "name": "The Man in the Iron Mask",
+    "original_info": {
+        "id": "The Man in the Iron Mask_1998",
+        "name": "The Man in the Iron Mask",
+        "year": "1998"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "musicalfan"
+        },
+        "dateCreated": "2004-05-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120744/"
+        },
+        "name": "you can watch this over and over again",
+        "reviewBody": "The only problem with this movie that the plot is a bit implausible, but nevertheless, everything was great. I must say that I've seen this movie more times than any movie in the world and i still say it's great. It has a star-studded cast, and all of them did an excellent acting job (DiCaprio, Byrne, Malkovich, Depardieu and Irons). This is a perfect ensemble cast, it's as if the roles were written for the actors. The acting was just well done. The events are exciting and sometimes heart-wrenching, the music is great, and the dialogue is truly, truly exceptional. Trust me, after watching this movie at least 18 times, I've realized that the dialogue is just superb. I very much recommend the movie, however, the story is very, very far from the original book by Alexander Dumas."
+    },
+    "url": "/title/tt0120744/"
+}

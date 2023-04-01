@@ -1,0 +1,40 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Muddy Waters",
+            "url": "/name/nm0914149/"
+        },
+        {
+            "@type": "Person",
+            "name": "Pinetop Perkins",
+            "url": "/name/nm0674031/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 21,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "datePublished": "2000-01-01",
+    "description": "Legendary blues performer Muddy Waters is showcased in this collection of his performances from 1966-1978.",
+    "duration": "PT53M",
+    "genre": [
+        "Documentary",
+        "Biography"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjEyMjEwMjM0NF5BMl5BanBnXkFtZTgwNjk0MDA2MDE@._V1_.jpg",
+    "keywords": "blues,musician",
+    "name": "Muddy Waters: Got My Mojo Working",
+    "original_info": {
+        "id": "Muddy Waters: Got My Mojo Working_2000",
+        "name": "Muddy Waters: Got My Mojo Working",
+        "year": "2000"
+    },
+    "url": "/title/tt0451131/"
+}

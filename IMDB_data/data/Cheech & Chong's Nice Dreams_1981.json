@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Cheech Marin",
+            "url": "/name/nm0001507/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tommy Chong",
+            "url": "/name/nm0001045/"
+        },
+        {
+            "@type": "Person",
+            "name": "Evelyn Guerrero",
+            "url": "/name/nm0346186/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 14466,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tommy Chong",
+            "url": "/name/nm0001045/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cheech Marin",
+            "url": "/name/nm0001507/"
+        }
+    ],
+    "datePublished": "1980-07-18",
+    "description": "Cheech and Chong live in a decrepit old house and drive their neighbour crazy with their loud music, weed smoking and general anarchy and slacker view on life. Then Chong meets Cheech's Texan cousin Red and things kick up a notch.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Tommy Chong",
+            "url": "/name/nm0001045/"
+        }
+    ],
+    "duration": "PT1H39M",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODk3YmQxZmYtNTdkMi00MDI2LTg1Y2ItNjVjMzhmNWQwYzA1XkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
+    "keywords": "cheech and chong,best friend,police officer,flatulence,fight",
+    "name": "Cheech and Chong's Next Movie",
+    "original_info": {
+        "id": "Cheech & Chong's Nice Dreams_1981",
+        "name": "Cheech & Chong's Nice Dreams",
+        "year": "1981"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Four2thefloor"
+        },
+        "dateCreated": "2001-04-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0080520/"
+        },
+        "name": "something good to say about this film..............er",
+        "reviewBody": "This is possibly the worst film I have ever seen for the following reasons.... 1. absolutely no story 2. Irritating characters 3. NOT FUNNY the only things you laugh at is how terrible the whole thing is.\n\nAVOID AT ALL COSTS"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Cheech and Chong live in a decrepit old house and drive their neighbour crazy with their loud music, weed smoking and general anarchy and slacker view on life. Then Chong meets Cheech's Texan cousin Red and things kick up a notch.",
+        "duration": "PT2M25S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi949732121",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNmI3ZDNkZjAtZjVjOS00NTA4LTllYWUtZjQ0ZWU0MDQyN2FmXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNmI3ZDNkZjAtZjVjOS00NTA4LTllYWUtZjQ0ZWU0MDQyN2FmXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-10-11T19:46:49.684Z",
+        "url": "https://www.imdb.com/video/vi949732121/"
+    },
+    "url": "/title/tt0080520/"
+}

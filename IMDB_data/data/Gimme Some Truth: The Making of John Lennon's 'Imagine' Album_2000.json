@@ -1,0 +1,78 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Lennon",
+            "url": "/name/nm0006168/"
+        },
+        {
+            "@type": "Person",
+            "name": "Yoko Ono",
+            "url": "/name/nm0648780/"
+        },
+        {
+            "@type": "Person",
+            "name": "Phil Spector",
+            "url": "/name/nm0817489/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 469,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000339/"
+        }
+    ],
+    "datePublished": "2000-04-11",
+    "description": "Behind-the-scenes footage to document the production of one of John Lennon's most enduring works. A fluid context of conflict, community, and craftsmanship.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Andrew Solt",
+            "url": "/name/nm0813583/"
+        }
+    ],
+    "duration": "PT1H",
+    "genre": [
+        "Documentary",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzA0NDUyMzctOTcwMy00NTY0LTlhNzctMGFiMGI3NTkxZWJiXkEyXkFqcGdeQXVyMzIzNDU1NTY@._V1_.jpg",
+    "keywords": "british rock music,record producer,behind the scenes,making of album,recording a song",
+    "name": "Gimme Some Truth: The Making of John Lennon's Imagine Album",
+    "original_info": {
+        "id": "Gimme Some Truth: The Making of John Lennon's 'Imagine' Album_2000",
+        "name": "Gimme Some Truth: The Making of John Lennon's 'Imagine' Album",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "barfly99"
+        },
+        "dateCreated": "2000-05-31",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0243925/"
+        },
+        "name": "Absorbing chronicle of the recording of 'Imagine'",
+        "reviewBody": "This is far superior to IMAGINE:JOHN LENNON which also used footage from Yoko Ono's personal archives. It follows the making of Lennon's classic album, 'Imagine', and we are given insight both into his impatient but passionate recording processes, and also into the man himself and his relationship with Yoko. Seeing the succession of fantastic tracks being laid down with the likes of George Harrison and Klaus Voorman is engrossing, but the most presciently ghoulish episode concerns a bedraggled and disturbed fan turning up on Lennon's doorstep and insisting that all the Beatles songs were written specifically with him in mind (Lennon tries to reason with him then invites him in for a meal). An engaging delve into popular music's past and the work of a genius.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0243925/"
+}

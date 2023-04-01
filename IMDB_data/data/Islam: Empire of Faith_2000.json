@@ -1,0 +1,82 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Esin Atil",
+            "url": "/name/nm12984283/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ben Kingsley",
+            "url": "/name/nm0001426/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Sells",
+            "url": "/name/nm11051357/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 740,
+        "ratingValue": 7.9,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0048033/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jonathan Grupper",
+            "url": "/name/nm1081337/"
+        }
+    ],
+    "description": "Islam: Empire of Faith is a documentary series, made in 2000, that details the history of Islam, from the birth of the Islamic Prophet, Muhammad to the Ottoman Empire. \n\nThe first episode deals with the life of Muhammad, the secon...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert H. Gardner",
+            "url": "/name/nm0307089/"
+        }
+    ],
+    "duration": "PT2H40M",
+    "genre": [
+        "Documentary",
+        "History"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ4MDYzMTAyMl5BMl5BanBnXkFtZTcwMDYzNjUzMQ@@._V1_.jpg",
+    "keywords": "arab,arabia,arabian peninsula,reference to muhammad,reference to leonardo da vinci",
+    "name": "Islam: Empire of Faith",
+    "original_info": {
+        "id": "Islam: Empire of Faith_2000",
+        "name": "Islam: Empire of Faith",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "JimPearson"
+        },
+        "dateCreated": "2005-08-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0309720/"
+        },
+        "name": "Very well done but to limited in scope",
+        "reviewBody": "This documentary is an excellent introduction to those aspect of Islam which is covers. Unfortunately it is far too limited in scope but I understand why this is. With a fixed amount available for production costs the choice was either coverage in depth of a small part of the whole or a diluted coverage of a wider range of topics.\n\nIt covers, at about 50 minutes each, three aspects of the religion: Mohammed and the origins, the culture and the first Christian crusade, and the Ottoman empire. Each is given excellent coverage but it is very much a secular description rather than a religious one. For those people who have little knowledge of Islam except for exposure to the western propaganda and the news of Islamic terrorist (a minute minority of the whole) this is an eye-opening documentary. Everyone should know about the rich cultural heritage which kept alive intellectual pursuits during the dark ages of western Europe. The sections on the Ottoman empire and the fall of Constantinople is well covered and provided some information I was not familiar with.\n\nThe photography is also excellent, showing some of the wonderful architectural achievements of the early Muslims. I was not clear how much of the footage was of real life situations being recorded, how much was scripted for the production, or how much (if any) was extracted from other footage, but the blend results in a well-balance, instructive video.\n\nHighly recommended for everyone, especially those whose exposure to Islam is only that which is portrayed by the USA media.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0309720/"
+}

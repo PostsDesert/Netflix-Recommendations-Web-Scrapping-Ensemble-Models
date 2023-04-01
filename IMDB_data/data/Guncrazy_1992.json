@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Drew Barrymore",
+            "url": "/name/nm0000106/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Le Gros",
+            "url": "/name/nm0001457/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Greenberg",
+            "url": "/name/nm0338579/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2540,
+        "ratingValue": 5.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0037026/"
+        },
+        {
+            "@type": "Person",
+            "name": "Matthew Bright",
+            "url": "/name/nm0109165/"
+        }
+    ],
+    "datePublished": "1993-09-09",
+    "description": "A trashy teen murders her sexually abusive step-father, then helps get her reformed prison pen-pal released on good behavior so that she can re-corrupt him.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Tamra Davis",
+            "url": "/name/nm0205542/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BY2U1MDliOTAtZDY5OC00OTc4LTkxOGQtNzdjYzAxZTZjNzU1XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+    "keywords": "neo noir,anti heroine,small town,teenage girl,anti hero",
+    "name": "Guncrazy",
+    "original_info": {
+        "id": "Guncrazy_1992",
+        "name": "Guncrazy",
+        "year": "1992"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Jewel-16"
+        },
+        "dateCreated": "1999-06-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0104377/"
+        },
+        "name": "Good Enough",
+        "reviewBody": "I just saw this movie the other night here in Sweden, and since i am a Drew Barrymore Fan, i thought this movie was good. Drew acted good and the storyline was interesting and kinda weird.It's worth seeing if you have nothing else to do or just want to see how Drew Barrymore looked when she was 17 (She's Pretty!!)."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from First Look",
+        "duration": "PT1M38S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2007695641",
+        "name": "Gun Crazy",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTJiMGFkYjMtOTg1YS00NDJkLTliZmEtMzU3NjYzMjA2MzZmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTJiMGFkYjMtOTg1YS00NDJkLTliZmEtMzU3NjYzMjA2MzZmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:20:48Z",
+        "url": "https://www.imdb.com/video/vi2007695641/"
+    },
+    "url": "/title/tt0104377/"
+}

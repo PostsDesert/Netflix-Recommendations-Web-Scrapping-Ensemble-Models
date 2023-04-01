@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Alice in Chains",
+            "url": "/name/nm2750498/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jerry Cantrell",
+            "url": "/name/nm0134717/"
+        },
+        {
+            "@type": "Person",
+            "name": "William DuVall",
+            "url": "/name/nm9141400/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 28,
+        "ratingValue": 8.8,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0757569/"
+        }
+    ],
+    "datePublished": "2019-03-07",
+    "description": "This web-series is a companion piece to Alice in Chains' 2018 album \"Rainier Fog\". Alpha and his daughter Beta are aliens disguised as humans who drive their beat-up truck across California in silence, speaking only telepathically...",
+    "genre": [
+        "Music",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMmNjNDlmM2QtOWYyNi00MzBiLWJiMjQtNTZjNmZlZTZkMTZmXkEyXkFqcGdeQXVyMTc5NTU1NDU@._V1_.jpg",
+    "keywords": "web series,color in title,alien,antenna,extraterrestrial",
+    "name": "Alice in Chains: Black Antenna",
+    "original_info": {
+        "id": "Alice in Chains: Unplugged_1996",
+        "name": "Alice in Chains: Unplugged",
+        "year": "1996"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "kentjulnes"
+        },
+        "dateCreated": "2020-03-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt10132506/"
+        },
+        "name": "aic",
+        "reviewBody": "Really good music video series. great and cool storyline. with a red line thru all of the videos. exellent.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt10132506/"
+}

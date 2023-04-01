@@ -1,0 +1,51 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kate Walker",
+            "url": "/name/nm0907920/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Maxtone-Graham",
+            "url": "/name/nm0561634/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kirk Westwood",
+            "url": "/name/nm3279903/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 33,
+        "ratingValue": 5.6,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0072233/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ben Coltrane",
+            "url": "/name/nm0173327/"
+        }
+    ],
+    "description": "An abused wife (Kate Walker) convinces her psychiatrist (Kirk Westwood) to kill her wealthy husband (Peter Maxtone-Graham).",
+    "genre": [
+        "Drama"
+    ],
+    "keywords": "psychiatrist,extramarital affair,california,dating,murder",
+    "name": "Hangman",
+    "original_info": {
+        "id": "Hangman_2000",
+        "name": "Hangman",
+        "year": "2000"
+    },
+    "url": "/title/tt0175143/"
+}

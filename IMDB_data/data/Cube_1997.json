@@ -1,0 +1,117 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Nicole de Boer",
+            "url": "/name/nm0207498/"
+        },
+        {
+            "@type": "Person",
+            "name": "Maurice Dean Wint",
+            "url": "/name/nm0935659/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Hewlett",
+            "url": "/name/nm0382110/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 236601,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0038944/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0004490/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0017692/"
+        },
+        {
+            "@type": "Person",
+            "name": "André Bijelic",
+            "url": "/name/nm0082008/"
+        },
+        {
+            "@type": "Person",
+            "name": "Vincenzo Natali",
+            "url": "/name/nm0622112/"
+        },
+        {
+            "@type": "Person",
+            "name": "Graeme Manson",
+            "url": "/name/nm0543919/"
+        }
+    ],
+    "datePublished": "1997-12-10",
+    "description": "Six complete strangers with widely varying personalities are involuntarily placed in an endless maze containing deadly traps.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Vincenzo Natali",
+            "url": "/name/nm0622112/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Drama",
+        "Horror",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTIyZGM3NDItMTNmNS00Yzc4LTg2MzItOWY4MTE1NDlmZDIyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_.jpg",
+    "keywords": "maze,trap,escape,red light,labyrinth",
+    "name": "Cube",
+    "original_info": {
+        "id": "Cube_1997",
+        "name": "Cube",
+        "year": "1997"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "charchuk"
+        },
+        "dateCreated": "2007-03-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0123755/"
+        },
+        "name": "Intriguing concept ruined by terrible script",
+        "reviewBody": "Interesting, suspenseful flick, with some great direction, hampered by terrible acting and atrocious dialogue. The overall concept is an intriguing one, and could have made for a better film in the hands of a competent writer, but instead the screenplay is filled with idiotic characters and ludicrous dialogue. Combined with some terrible overacting by most of the cast, and the dialogue-heavy scenes become painful to watch. Fortunately, the 'action' sequences redeem the film, as they are shot well and become incredibly suspenseful - especially the scene with the quiet room. Some great gore effects and a fitting ambiguous ending make it a worthwhile viewing.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Trimark",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi463470873",
+        "name": "Cube",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOWNiZDc1YzctNWNmOS00N2E4LWFiZWMtMDI0NmI3NWViOGJiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOWNiZDc1YzctNWNmOS00N2E4LWFiZWMtMDI0NmI3NWViOGJiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:42:35Z",
+        "url": "https://www.imdb.com/video/vi463470873/"
+    },
+    "url": "/title/tt0123755/"
+}

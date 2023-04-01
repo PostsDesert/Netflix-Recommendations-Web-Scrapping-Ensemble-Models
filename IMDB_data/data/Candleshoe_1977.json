@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jodie Foster",
+            "url": "/name/nm0000149/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Niven",
+            "url": "/name/nm0000057/"
+        },
+        {
+            "@type": "Person",
+            "name": "Helen Hayes",
+            "url": "/name/nm0371040/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4645,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0098836/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Swift",
+            "url": "/name/nm0842582/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rosemary Anne Sisson",
+            "url": "/name/nm0803100/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Innes",
+            "url": "/name/nm0409180/"
+        }
+    ],
+    "description": "Welcome to Candleshoe, a stately English manor where a swashbuckling pirate hid a fortune in Spanish doubloons centuries ago. And that's what young orphan Casey and a sly con man are determined to find.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Norman Tokar",
+            "url": "/name/nm0865709/"
+        }
+    ],
+    "duration": "PT1H41M",
+    "genre": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDVkZjMxNjItNzM4My00ODdjLTk5YTgtNzNlMWJmZGZjNzRhXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "orphans,treasure,butler,teenage girl,los angeles california",
+    "name": "Candleshoe",
+    "original_info": {
+        "id": "Candleshoe_1977",
+        "name": "Candleshoe",
+        "year": "1977"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Anya-fan"
+        },
+        "dateCreated": "2000-06-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0075807/"
+        },
+        "name": "I Love It",
+        "reviewBody": "I'm not sure exactly why I love this film so much. It's not like it has shockingly wonderful performances, story, or setting. But it never fails to warm my heart and make me smile.\n\nFans of Jodie Foster will recognize her as the young teenage star of this film. She plays Casey, a foster child and juvenile delinquent. A British con man recognizes her as being strikingly similar to a young heiress who disappeared years earlier and offers her anything she wants if she will pretend to be the missing girl. He is certain that there is a treasure hidden in the house of the girl's grandmother, and he wants Casey to find it for him.\n\nThe story of how Casey becomes a part of this odd British family is heartwarming and sweet. It is classic Disney fare, without the pathetic romance that often destroys modern Disney films.\n\nWatch this film if only for David Niven's performance as the butler, gardener, grandmother's best friend, and chauffeur."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Welcome to Candleshoe, a stately English manor where a swashbuckling pirate hid a fortune in Spanish doubloons centuries ago. And that's what young orphan Casey and a sly con man are determined to find.",
+        "duration": "PT1M1S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2784609049",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjcxOWU1NjAtNDBhNy00MmNhLWFiOWEtZDEzMTA5ZGU2NmUyXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjcxOWU1NjAtNDBhNy00MmNhLWFiOWEtZDEzMTA5ZGU2NmUyXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-11-05T19:58:11.643Z",
+        "url": "https://www.imdb.com/video/vi2784609049/"
+    },
+    "url": "/title/tt0075807/"
+}

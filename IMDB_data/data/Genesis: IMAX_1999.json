@@ -1,0 +1,91 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sotigui Kouyaté",
+            "url": "/name/nm0468130/"
+        },
+        {
+            "@type": "Person",
+            "name": "Salif Keïta",
+            "url": "/name/nm0445190/"
+        },
+        {
+            "@type": "Person",
+            "name": "Balla Moussa Keita",
+            "url": "/name/nm0445185/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 229,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "alternateName": "Genesis",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050173/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0049808/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0090290/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jean-Louis Sagot-Durvaroux",
+            "url": "/name/nm0756230/"
+        }
+    ],
+    "datePublished": "1999-12-08",
+    "description": "The biblical story of Jacob and Esau.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Cheick Oumar Sissoko",
+            "url": "/name/nm0803084/"
+        }
+    ],
+    "duration": "PT1H42M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMwNTYyMzE2MV5BMl5BanBnXkFtZTcwNDk2OTEyMQ@@._V1_.jpg",
+    "keywords": "biblical,rape,revenge",
+    "name": "La genèse",
+    "original_info": {
+        "id": "Genesis: IMAX_1999",
+        "name": "Genesis: IMAX",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "michaelf"
+        },
+        "dateCreated": "1999-12-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0201634/"
+        },
+        "name": "The Most Interesting Movie of 1999",
+        "reviewBody": "\"La Genese\" is not the best film of 1999, but it certainly is the most interesting.\n\nBased rather loosely on the biblical story of Jacob, director Cheick Oumar Sissoko and screenwriter Jean-Louis Sagot-Duraroux have stripped away the text's complexities to give us a study of tribal culture. While not a theological study, it certainly is a fascinating look at a society of which most of us in the western world are unaware.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0201634/"
+}

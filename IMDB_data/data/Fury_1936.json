@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sylvia Sidney",
+            "url": "/name/nm0796662/"
+        },
+        {
+            "@type": "Person",
+            "name": "Spencer Tracy",
+            "url": "/name/nm0000075/"
+        },
+        {
+            "@type": "Person",
+            "name": "Walter Abel",
+            "url": "/name/nm0008496/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 13046,
+        "ratingValue": 7.9,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007143/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bartlett Cormack",
+            "url": "/name/nm0179993/"
+        },
+        {
+            "@type": "Person",
+            "name": "Fritz Lang",
+            "url": "/name/nm0000485/"
+        },
+        {
+            "@type": "Person",
+            "name": "Norman Krasna",
+            "url": "/name/nm0469915/"
+        }
+    ],
+    "datePublished": "1936-06-05",
+    "description": "When a wrongly-accused prisoner barely survives a lynch-mob attack and is presumed dead, he vindictively decides to fake his death and frame the mob for his supposed murder.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Fritz Lang",
+            "url": "/name/nm0000485/"
+        }
+    ],
+    "duration": "PT1H32M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Film-Noir"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODA4OGQxYzYtOWM5MC00ZDc0LTllN2ItYTJmODM5MDhjODg4XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "keywords": "mob,lynch mob,small town,presumed dead,jail",
+    "name": "Fury",
+    "original_info": {
+        "id": "Fury_1936",
+        "name": "Fury",
+        "year": "1936"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Sardony"
+        },
+        "dateCreated": "1999-09-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0027652/"
+        },
+        "name": "Still timely.",
+        "reviewBody": "Horribly melodramatic, but psychologically complex, well-directed and excellently edited. Spencer Tracy is an innocent man assumed guilty by a mob and \"lynched.\" Making this 1936 film still-timely are the growth of the mob and its trial, conviction and execution of Tracy based only on speculation and emotion instead of on evidence and reason. Also, the line, \"I will remind the jury of the easy habit of putting on foreigners events that disturb our conscience\" comments on a tendency that still exists today (just listen to talk radio here in Massachusetts!). The story touches on many issues - morality, humanity, patriotism, law, politics, media, etc - and, as such, raises many issues for discussion. Teachers might consider showing this film in class as a start-point into exploration of today's issues. Spencer Tracy gives an appropriately melodramatic performance, but Edward Ellis as the town sheriff gives the best (albeit small) performance. For entertainment value, I'd give this film 6/10; but for fans of any of the stars, the director, or for advocates of civil rights and justice, this film is worth about 8/10; finally, as a tool for teachers, 10/10."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Fury",
+        "duration": "PT2M12S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi847157785",
+        "name": "Fury (1936)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZGEyMjgyZmEtNTc3Yy00NTg3LThlYmMtNWRkYTVlZGFiNTA1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZGEyMjgyZmEtNTc3Yy00NTg3LThlYmMtNWRkYTVlZGFiNTA1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-02-13T06:17:48Z",
+        "url": "https://www.imdb.com/video/vi847157785/"
+    },
+    "url": "/title/tt0027652/"
+}

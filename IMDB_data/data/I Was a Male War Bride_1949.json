@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Cary Grant",
+            "url": "/name/nm0000026/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ann Sheridan",
+            "url": "/name/nm0792130/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marion Marshall",
+            "url": "/name/nm0551031/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 8786,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Lederer",
+            "url": "/name/nm0496468/"
+        },
+        {
+            "@type": "Person",
+            "name": "Leonard Spigelgass",
+            "url": "/name/nm0818700/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hagar Wilde",
+            "url": "/name/nm0928444/"
+        }
+    ],
+    "datePublished": "1949-08-26",
+    "description": "After marrying an American lieutenant with whom he was assigned to work in post-war Germany, a French captain attempts to find a way to accompany her back to the States under the terms of the War Bride Act.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Howard Hawks",
+            "url": "/name/nm0001328/"
+        }
+    ],
+    "duration": "PT1H45M",
+    "genre": [
+        "Comedy",
+        "Romance",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMWExY2QwMzYtNGVhMy00NjcyLTk1MWQtMDA1M2JjMGFlNzE1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "keywords": "crossdressing,screwball comedy,american zone of occupation in germany,french officer,u.s. military",
+    "name": "I Was a Male War Bride",
+    "original_info": {
+        "id": "I Was a Male War Bride_1949",
+        "name": "I Was a Male War Bride",
+        "year": "1949"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "blanche-2"
+        },
+        "dateCreated": "2006-01-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0041498/"
+        },
+        "name": "Pleasant comedy of Cary Grant as an army wife",
+        "reviewBody": "I saw this movie years and years ago and always remembered the line, \"Be quiet or people will think we smuggled in a cow.\" I was excited to see it on TCM. Alas, while it's good, it's not as hysterically funny as I thought it was going to be. Cary Grant plays a Frenchman with an English accent who winds up married to an American officer, played by Ann Sheridan. I loved their banter, especially in the beginning. Their wedding night is interrupted when she gets orders to ship out, and the problem becomes how to get her new husband home with her to America when all the spousal regulations seem to be for brides.\n\nFor me, the funniest scene took place while Grant is waiting for the bus with all the brides. Over a loudspeaker, a female officer informs the women about the new styles in the states and the way hair is worn. Grant's face is priceless while she's talking.\n\nThe movie is cute and notable for Grant dressing like a woman and looking very homely. Ann Sheridan is very good. The film is a little slow, but if you love Cary Grant, you should enjoy it.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for this wartime comedy",
+        "duration": "PT2M19S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2651719449",
+        "name": "I Was A Male War Bride",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDE4ZDg2NmUtMjIwMC00NDgwLWFhNmItY2JjNjYxMjYwZmU0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDE4ZDg2NmUtMjIwMC00NDgwLWFhNmItY2JjNjYxMjYwZmU0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-05-18T15:25:06Z",
+        "url": "https://www.imdb.com/video/vi2651719449/"
+    },
+    "url": "/title/tt0041498/"
+}

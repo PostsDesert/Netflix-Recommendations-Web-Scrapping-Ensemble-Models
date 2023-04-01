@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Elvis Presley",
+            "url": "/name/nm0000062/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joan O'Brien",
+            "url": "/name/nm0639613/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gary Lockwood",
+            "url": "/name/nm0516972/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2905,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007143/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0312320/"
+        },
+        {
+            "@type": "Person",
+            "name": "Si Rose",
+            "url": "/name/nm0741676/"
+        },
+        {
+            "@type": "Person",
+            "name": "Seaman Jacobs",
+            "url": "/name/nm0414633/"
+        }
+    ],
+    "datePublished": "1963-04-03",
+    "description": "Mike and Danny hitch a ride to the World's Fair in Seattle after the sheriff seizes their crop duster biplane to cover Danny's gambling debts. Mike looks after the driver's 7 y.o. niece at the fair, where he meets a cute nurse.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Norman Taurog",
+            "url": "/name/nm0851537/"
+        }
+    ],
+    "duration": "PT1H45M",
+    "genre": [
+        "Comedy",
+        "Musical",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjdhYTlmYTctMWZiYi00NWZiLTlmOTgtMWM0OGJjODQ1ZTkwXkEyXkFqcGdeQXVyMjA0MzYwMDY@._V1_.jpg",
+    "keywords": "ukulele,psychotronic film,scene during opening credits,sheriff,debt",
+    "name": "It Happened at the World's Fair",
+    "original_info": {
+        "id": "It Happened at the World's Fair_1963",
+        "name": "It Happened at the World's Fair",
+        "year": "1963"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "HarryLags"
+        },
+        "dateCreated": "2016-11-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0057191/"
+        },
+        "name": "Nice Feel good Movie..",
+        "reviewBody": "It was late 1962 when Elvis Presley started filming at the World's Fair in Seattle, It Happened at the World's fair follows the exact same formula that producer Hal Wallis developed for Elvis on Paramount, beautiful scenery, beautiful girls, lots of songs and occasionally some children to showcase Elvis new found maturity.\n\nAs with most Presley movies, this has an innocent plot, a few fights, lots of movie songs, and a pretty gal to win his heart. Enjoy the Seatle fair as it was in 1962 and Elvis being on the receiving end of two painful kicks by child actor Kurt Russell. And there's some very heart warming moments as well as a few chuckles here and there.\n\nThis is a great light-hearted movie with a couple of well known Elvis songs, such as One Broken Heart For Sale. Elvis talks, sings, fights, loves, flies, fights again, and endearingly looks after a little girl.\n\nGet away from reality and escape into Seattle's fair with Elvis - just for those ninety minutes. Nice Feelgood Movie.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT2M39S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi916831001",
+        "name": "It Happened at the Worlds Fair",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTc0MGM5YTAtNGViZS00MGQyLWJlYTktODdkNTIxNTg5MDY0XkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTc0MGM5YTAtNGViZS00MGQyLWJlYTktODdkNTIxNTg5MDY0XkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg",
+        "uploadDate": "2018-05-22T17:09:19Z",
+        "url": "https://www.imdb.com/video/vi916831001/"
+    },
+    "url": "/title/tt0057191/"
+}

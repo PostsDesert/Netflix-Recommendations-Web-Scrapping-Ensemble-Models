@@ -1,0 +1,113 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Richard Attenborough",
+            "url": "/name/nm0000277/"
+        },
+        {
+            "@type": "Person",
+            "name": "Elizabeth Perkins",
+            "url": "/name/nm0001610/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dylan McDermott",
+            "url": "/name/nm0001518/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 40155,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0073707/"
+        },
+        {
+            "@type": "Person",
+            "name": "Valentine Davies",
+            "url": "/name/nm0204016/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Seaton",
+            "url": "/name/nm0780833/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Hughes",
+            "url": "/name/nm0000455/"
+        }
+    ],
+    "datePublished": "1994-11-18",
+    "description": "A lawyer and a little girl must prove that a man claiming to be Santa Claus is the real thing.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Les Mayfield",
+            "url": "/name/nm0562645/"
+        }
+    ],
+    "duration": "PT1H54M",
+    "genre": [
+        "Drama",
+        "Family",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjk3M2UyN2YtNmQ1MS00MWI3LWEzNGMtYTRkM2E5MWNjOWJjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "santa claus,girl,remake,parade,court",
+    "name": "Miracle on 34th Street",
+    "original_info": {
+        "id": "Miracle on 34th Street_1994",
+        "name": "Miracle on 34th Street",
+        "year": "1994"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "pegaroo2-235-917453"
+        },
+        "dateCreated": "2012-12-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0110527/"
+        },
+        "name": "I adore this movie",
+        "reviewBody": "I watch it every year. I've read negative reviews of Mara Wilson's performance but I think she is charming and smart but not at all obnoxious or know-it-all as others have said. She is acting over maturely as she was raised by her no-nonsense and jaded mother. Her subtle winks and expressions are very apropos to her role and she interacts very well with Mr. Kringle. (Perhaps I like her because she looks like my daughter when she was little.) Regardless, I love the way this story is told and Mara makes it for me. Even though logically she was taught that Santa was not real, as a little girl she was still willing to believe. Take a little joy in believing! I hope you enjoy :)",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Long trailer for the 1994 version",
+        "duration": "PT3M14S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3822781209",
+        "name": "Miracle On 34th Street (1994)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjY5NWE1YjAtZTViYi00YjRhLWJiMDAtZTY0NTY2YWY1N2M5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjY5NWE1YjAtZTViYi00YjRhLWJiMDAtZTY0NTY2YWY1N2M5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-01-08T06:57:47Z",
+        "url": "https://www.imdb.com/video/vi3822781209/"
+    },
+    "url": "/title/tt0110527/"
+}

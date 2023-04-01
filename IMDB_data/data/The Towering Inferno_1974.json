@@ -1,0 +1,117 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Paul Newman",
+            "url": "/name/nm0000056/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve McQueen",
+            "url": "/name/nm0000537/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Holden",
+            "url": "/name/nm0000034/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 45423,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0064339/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Martin Stern",
+            "url": "/name/nm0827827/"
+        },
+        {
+            "@type": "Person",
+            "name": "Thomas N. Scortia",
+            "url": "/name/nm0778743/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frank M. Robinson",
+            "url": "/name/nm0732631/"
+        }
+    ],
+    "datePublished": "1974-12-14",
+    "description": "At the opening party of a colossal, but poorly constructed, office building, a massive fire breaks out that threatens to destroy the tower and everyone in it.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Guillermin",
+            "url": "/name/nm0347086/"
+        }
+    ],
+    "duration": "PT2H45M",
+    "genre": [
+        "Action",
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA1N2JlMjItMTExZC00NTIxLWE2YTYtY2ZkM2M5OWM3M2YyXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_.jpg",
+    "keywords": "firefighter,trapped in a building,party,skyscraper,power outage",
+    "name": "The Towering Inferno",
+    "original_info": {
+        "id": "The Towering Inferno_1974",
+        "name": "The Towering Inferno",
+        "year": "1974"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "HotToastyRag"
+        },
+        "dateCreated": "2017-07-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0072308/"
+        },
+        "name": "Great disaster movie!",
+        "reviewBody": "Steve McQueen and Paul Newman are in a movie together, and it's not a racecar movie? Well, in the 1970s, it was a big fad to make big-budget disaster movies with a large cast. The Poseidon Adventure, Earthquake, and the Airport movies make up a classic niche genre, in which The Towering Inferno garners a top spot.\n\nThis one deals with a burning building, a skyscraper to be exact. Hence, the \"towering\" inferno. Countless characters are introduced to the audience, given reasons to become attached, and then placed in dire peril. Who will make it out alive? This film's all-star cast includes Steve McQueen, Paul Newman, Fred Astaire, Richard Chamberlain, Jennifer Jones, Faye Dunaway, William Holden, Susan Blakely, O. J. Simpson, Robert Vaughn, and Robert Wagner. Paul is the architect who built the titular building, but Bill is the builder who oversaw costs and decided to cut corners by cutting safety measures. Fred is an old conman who's out to swindle Jonsey, and Richard is Bill's scoundrel son-in-law married to Susan. All the cast is gathered together at the opening night party at the top floor when the trouble starts. At first, it's just a small electrical fire (thanks to Richard's shoddy work), but when it gets out of control, Paul insists they call the fire department and end the party. Bill doesn't want to send everyone home, because he knows if he did, it would result in a very short movie with no special effects.\n\nMost of this movie is excellent, so if somehow it's slipped past you, reserve a special movie night and rent it. Paul Newman gets to enjoy a break from his typical bad boy roles, and Steve McQueen looks very authoritative (and cute) in his firefighter uniform. Fred Astaire received his only Oscar nomination for this movie, and Jennifer Jones made her comeback and final film as one of the more memorable characters. Faye Dunaway has some tender moments with her boyfriend Paul, and she looks really beautiful in her bronze dress. The downsides are William Holden, who seems like he'd rather do anything than read his lines in front of the camera, and Richard Chamberlain - did his character have to be that much of a jerk? As one of the best pictures of 1974, don't let Bill's bad acting put you off.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from 20th Century Fox Home Entertainment",
+        "duration": "PT2M12S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3724214553",
+        "name": "The Towering Inferno",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDM3NzYyNzUtODYzYi00MWI2LWEwNGYtMzU5YmNjZWMwMDMwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDM3NzYyNzUtODYzYi00MWI2LWEwNGYtMzU5YmNjZWMwMDMwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:16:24Z",
+        "url": "https://www.imdb.com/video/vi3724214553/"
+    },
+    "url": "/title/tt0072308/"
+}

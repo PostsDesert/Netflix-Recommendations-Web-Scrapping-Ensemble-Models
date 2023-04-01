@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Joan Allen",
+            "url": "/name/nm0000260/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anthony LaPaglia",
+            "url": "/name/nm0001439/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen Lang",
+            "url": "/name/nm0002332/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 12055,
+        "ratingValue": 5.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0036576/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0244490/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0036725/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen King",
+            "url": "/name/nm0000175/"
+        }
+    ],
+    "datePublished": "2014-10-03",
+    "description": "After 25 years of a good marriage, what will Darcy do once she discovers her husband's sinister secret?",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Peter Askin",
+            "url": "/name/nm0039468/"
+        }
+    ],
+    "duration": "PT1H42M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk3MjY2ODgwNl5BMl5BanBnXkFtZTgwMTQ0Mjg0MjE@._V1_.jpg",
+    "keywords": "marriage,murder,wedding,serial killer,husband wife relationship",
+    "name": "A Good Marriage",
+    "original_info": {
+        "id": "A Good Marriage_1981",
+        "name": "A Good Marriage",
+        "year": "1981"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "kwclients"
+        },
+        "dateCreated": "2019-09-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt2180994/"
+        },
+        "name": "Stephen King delivered..",
+        "reviewBody": "I have learned to not go by the reviews of naysayers solely. Weigh the reviews and you can usually tell within the first half hour which way it's going to go. That's what happened and this made for such a good movie. Plot twist was amazing and definitely a Stephen King plot. Enjoyed it. It's not average by a longshot.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for A Good Marriage",
+        "duration": "PT1M51S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2211624985",
+        "name": "A Good Marriage",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOGRjZjdjMzgtN2I4Yi00NDI3LThmYzAtNDg2YjI4NzRjNGJkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGRjZjdjMzgtN2I4Yi00NDI3LThmYzAtNDg2YjI4NzRjNGJkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2018-02-01T17:01:29Z",
+        "url": "https://www.imdb.com/video/vi2211624985/"
+    },
+    "url": "/title/tt2180994/"
+}

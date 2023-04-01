@@ -1,0 +1,73 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Gilbert Baker",
+            "url": "/name/nm1568799/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 33,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0122347/"
+        },
+        {
+            "@type": "Person",
+            "name": "Talmadge Heyward",
+            "url": "/name/nm1571839/"
+        }
+    ],
+    "datePublished": "2004-02-12",
+    "description": "On a small island, 2 by 4 miles, a missing chapter of history was hidden and acceptance was borne at the end of the world, Key West.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Talmadge Heyward",
+            "url": "/name/nm1571839/"
+        }
+    ],
+    "duration": "PT1H4M",
+    "genre": [
+        "Documentary",
+        "Biography",
+        "History"
+    ],
+    "keywords": "island,queer cinema,key west,florida,culture",
+    "name": "Key West: City of Colors",
+    "original_info": {
+        "id": "Key West: City of Colors_2004",
+        "name": "Key West: City of Colors",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "gradyharp"
+        },
+        "dateCreated": "2005-09-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0403198/"
+        },
+        "name": "An Homage to an Island of Understanding",
+        "reviewBody": "KEY WEST: CITY OF COLORS is a fine little documentary meant by its creator Talmadge to focus on the unraveling of a 1 and 1/4 mile long Rainbow Flag down Dylan Street connecting the Atlantic Ocean with the Gulf of Mexico. The beauty of the film is not just the documentation of this 2003 event marking the 25th anniversary of the creation of the Rainbow Flag by Gilbert Baker, it is also a celebration of the little island of Key West and the people who live there.\n\nCreator Talmadge Hayward presents a brief history of this isolated island at the far southern tip of the United States (closer to Cuba than to Miami!), showing old photographs of the sponge business, the piracy, the smuggling, and the ever present cohabitation of African Americans, Hispanics, famous artists, wealthy, poor, gay and straight citizens. He then spends a great deal of the film in interviews with many of the residents - some lifelong some newly transplanted - who explain in warm and simple terms why this oasis for acceptance is an oasis for human kind.\n\nThe colors are rich, the parade of the flag unfolding from ocean to gulf is magnificent and inspiring, and the message of peaceful coexistence serves as a goal for us all. Grady Harp",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0403198/"
+}

@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Lynn Whitfield",
+            "url": "/name/nm0005551/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rubén Blades",
+            "url": "/name/nm0001952/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Dukes",
+            "url": "/name/nm0241232/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1502,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0095169/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0013824/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0103493/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ron Hutchinson",
+            "url": "/name/nm0404396/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Zagor",
+            "url": "/name/nm0951870/"
+        }
+    ],
+    "datePublished": "1991-03-16",
+    "description": "Born poor in St. Louis, Missouri, Josephine Baker achieved fame and fortune through her sizzlingly exotic, erotic performances. Starting life on the American Vaudeville circuit, success takes Josephine to Paris where her semi-nude...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Brian Gibson",
+            "url": "/name/nm0001270/"
+        }
+    ],
+    "duration": "PT2H10M",
+    "genre": [
+        "Biography",
+        "Drama",
+        "History"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjdjZjBkNDItZTlkZi00ZDViLTgxZWYtOGY2NzIyODVhZDUxXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",
+    "keywords": "orchestra,dancer,african american,france,performer",
+    "name": "The Josephine Baker Story",
+    "original_info": {
+        "id": "The Josephine Baker Story_2001",
+        "name": "The Josephine Baker Story",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "richard-1787"
+        },
+        "dateCreated": "2012-01-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0102167/"
+        },
+        "name": "Well intentioned",
+        "reviewBody": "This is certainly a well-intentioned movie, and the star, Lynn Whitfield, certainly gives a very moving performance. Much of the movie focuses on Baker's career after the War, where she becomes involved in the civil rights movement. It's very well-meaning, certainly, but not the part of her life and career that interests me, so I found that that part of the movie dragged. Her years in Paris as a performer in the 1920s and 30s get short shrift, and that's a shame, because it's what made a star of her.\n\nThe movie takes its particular stance on how Baker saw her early Paris performances. While it's an interesting interpretation - very sincere - I don't know how accurate it is. The one aspect of Baker's performances that doesn't get developed in this movie is her role as a comedian. In certain ways, she was something of a Black Fanny Brice. Something of that comes through her early newsreels, but it's missing from the way Ms. Whitfield was directed to portray Baker.\n\nIn the end, for me, this amounted to a very fine performance by Whitfield. But how accurate a depiction of Baker it provided, at least for her early years as a successful performer, I don't know.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from HBO Home Video",
+        "duration": "PT2M",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3388211481",
+        "name": "The Josephine Baker Story",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYWQ2OGY1ODgtZDI1ZC00NzJmLTk4NTAtMTBjZDg2Y2U1YjQ0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYWQ2OGY1ODgtZDI1ZC00NzJmLTk4NTAtMTBjZDg2Y2U1YjQ0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:50:39Z",
+        "url": "https://www.imdb.com/video/vi3388211481/"
+    },
+    "url": "/title/tt0102167/"
+}

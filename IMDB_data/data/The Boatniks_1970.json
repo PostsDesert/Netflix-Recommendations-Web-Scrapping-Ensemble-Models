@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Robert Morse",
+            "url": "/name/nm0607666/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stefanie Powers",
+            "url": "/name/nm0694619/"
+        },
+        {
+            "@type": "Person",
+            "name": "Phil Silvers",
+            "url": "/name/nm0799014/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 812,
+        "ratingValue": 5.5,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0098836/"
+        },
+        {
+            "@type": "Person",
+            "name": "Arthur Julian",
+            "url": "/name/nm0432188/"
+        },
+        {
+            "@type": "Person",
+            "name": "Martin Roth",
+            "url": "/name/nm0744929/"
+        }
+    ],
+    "datePublished": "1970-07-01",
+    "description": "Newly assigned to duty in the coast guard at Newport Beach, a young ensign finds himself involved in romantic complications, as well as with jewel thieves, whose antics contribute to moments of hysteria and hilarity.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Norman Tokar",
+            "url": "/name/nm0865709/"
+        }
+    ],
+    "duration": "PT1H39M",
+    "genre": [
+        "Comedy",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzM4MWM3Y2MtY2MyNi00ZWQ2LTgwYjItYTQwZmMxNDUwMDc4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "slimehouse,coast guard,male female relationship,father son relationship,boat accident",
+    "name": "The Boatniks",
+    "original_info": {
+        "id": "The Boatniks_1970",
+        "name": "The Boatniks",
+        "year": "1970"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ofpsmith"
+        },
+        "dateCreated": "2019-06-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0065482/"
+        },
+        "name": "Good family fun.",
+        "reviewBody": "When Ensign Tom Garland (Robert Morse) shows up to his assignment at a U.S. Coast Guard Station in California he's revealed to have suffered poor luck throughout much of his life. Clumsy and inexperienced, he makes mistakes in front of his commanding officer Commander Taylor (Don Ameche) and his crush, sailing instructer Kate Fairchild (Stefanie Powers.) Enter three bumbling jewel thieves attempting to flee to Mexico led by Harry Simmons (Phil Silvers) and Tom may just have been given the opportunity to prove himself as an effective and capable Coast Guardsman. I really like The Boatniks first of all because of how fun it is. Moreover, I like all these characters and there's plenty of good running gags. Check it out.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Newly assigned to duty in the coast guard at Newport Beach, a young ensign finds himself involved in romantic complications, as well as with jewel thieves, whose antics contribute to moments of hysteria and hilarity.",
+        "duration": "PT51S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1058849561",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNGFmZTA4MzAtYTc3Yi00MzQ4LWEwYTItNzE3MDdiNjIyZGI0XkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNGFmZTA4MzAtYTc3Yi00MzQ4LWEwYTItNzE3MDdiNjIyZGI0XkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+        "uploadDate": "2022-01-27T17:31:58.048Z",
+        "url": "https://www.imdb.com/video/vi1058849561/"
+    },
+    "url": "/title/tt0065482/"
+}

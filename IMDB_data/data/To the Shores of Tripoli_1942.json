@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Payne",
+            "url": "/name/nm0668361/"
+        },
+        {
+            "@type": "Person",
+            "name": "Maureen O'Hara",
+            "url": "/name/nm0000058/"
+        },
+        {
+            "@type": "Person",
+            "name": "Randolph Scott",
+            "url": "/name/nm0000068/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 892,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "Passed",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lamar Trotti",
+            "url": "/name/nm0873707/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve Fisher",
+            "url": "/name/nm0279795/"
+        }
+    ],
+    "datePublished": "1942-07-29",
+    "description": "Life at the Marine Training Base in San Diego on the eve of the Japanese attack on Pearl Harbor.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "H. Bruce Humberstone",
+            "url": "/name/nm0401680/"
+        }
+    ],
+    "duration": "PT1H26M",
+    "genre": [
+        "Drama",
+        "Romance",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYmNkOTI5ZDYtMzUxOS00Mzg2LWEzZDAtZmFlZTQ2MmQ3N2Q5XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "keywords": "drill instructor,female navy officer nurse,military training,hospital nurse,marine corps camp pendleton base",
+    "name": "To the Shores of Tripoli",
+    "original_info": {
+        "id": "To the Shores of Tripoli_1942",
+        "name": "To the Shores of Tripoli",
+        "year": "1942"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bkoganbing"
+        },
+        "dateCreated": "2007-12-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0035447/"
+        },
+        "name": "The Marines Have Always Been Looking For A Few Good Men",
+        "reviewBody": "Stepping into the hero/heel part that Tyrone Power specialized in while at 20th Century Fox is John Payne as the spoiled kid of a former Marine officer, Minor Watson. Payne's hoping to get out of the Marines for a nice desk job in Washington, DC, but Watson's hoping that his former sergeant Randolph Scott, now a drill instructor will give Payne the necessary attitude adjustment.\n\nPayne's getting an attitude adjustment in another direction too. He's fallen for pretty nurse Maureen O'Hara even though he's got Washington society girl Nancy Kelly pulling strings for him.\n\nThe part is such a perfect one for Tyrone Power that I'm sure it was offered to him and rejected and given to Payne who was hired by Darryl Zanuck because of his resemblance to Power and the fact he could sing opposite Alice Faye and Betty Grable. Power did similar roles in A Yank in the Raf and Crash Dive and in fact did serve in the Marines in the South Pacific after 1943. \n\nThe film was shot on location at the San Diego Marine training station and I visited San Diego a few years back and some of it looks pretty much the same. Harry Morgan made his feature film debut and if you look close you'll see that another one of the Marine recruits is the Skipper himself, Alan Hale, Jr.\n\nTo the Shores of Tripoli is badly dated and doesn't play real well against today's attitudes. Still it's a great example of a World War II propaganda piece.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Life at the Marine Training Base in San Diego on the eve of the Japanese attack on Pearl Harbor.",
+        "duration": "PT1M41S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3940795161",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDUzOTgxM2EtMjlkMC00NTNlLThkMTEtZDZjNTczNGVkOTFjXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDUzOTgxM2EtMjlkMC00NTNlLThkMTEtZDZjNTczNGVkOTFjXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-11-15T18:09:03.392Z",
+        "url": "https://www.imdb.com/video/vi3940795161/"
+    },
+    "url": "/title/tt0035447/"
+}

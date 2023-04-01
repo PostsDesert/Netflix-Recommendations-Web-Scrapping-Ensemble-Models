@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Liam Neeson",
+            "url": "/name/nm0000553/"
+        },
+        {
+            "@type": "Person",
+            "name": "Geoffrey Rush",
+            "url": "/name/nm0001691/"
+        },
+        {
+            "@type": "Person",
+            "name": "Uma Thurman",
+            "url": "/name/nm0000235/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 41949,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0033437/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0005883/"
+        },
+        {
+            "@type": "Person",
+            "name": "Victor Hugo",
+            "url": "/name/nm0401076/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rafael Yglesias",
+            "url": "/name/nm0947913/"
+        }
+    ],
+    "datePublished": "1998-05-01",
+    "description": "Valjean, a former criminal, has atoned for his past and now finds himself in the midst of the French Revolution, avoiding a law-obsessed policeman hell-bent on capturing him.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bille August",
+            "url": "/name/nm0000806/"
+        }
+    ],
+    "duration": "PT2H14M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjg0NTRjNmUtYzdjYi00YTQ5LTgxNGItMTRhNWYwYzBkOTliXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "keywords": "based on novel,male tied up,bound and gagged,tied to a pole,gagged",
+    "name": "Les Misérables",
+    "original_info": {
+        "id": "Les Miserables_1998",
+        "name": "Les Miserables",
+        "year": "1998"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dkncd"
+        },
+        "dateCreated": "2007-12-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0119683/"
+        },
+        "name": "Abridged yet effective",
+        "reviewBody": "The first point that bears emphasis about the 1998 film adaptation of Victor Hugo's \"Les Misérables\" is that it is highly abridged. Even more abridged than abridged versions of the novel and even more abridged than the story used for the popular musical. Characters such as Éponine and Gavroche are absent from this adaptation. This will offend those looking for a closer adaptation of Hugo's novel, but it does not bother me that this film focuses on the story of Valjean, Javert, Fantine, Cosette and Marius. The basic story for those unfamiliar with it, takes place in 19th century France and follows a poor thief, Jean Valjean, who is relentlessly pursued by Inspector Javert, even after reforming his ways.\n\nLiam Neeson and Geoffrey Rush are excellent as the reformed and generous ex-convict and his relentless pursuer. The rest of the performances are commendable as well, particularly from Uma Thurman as Fantine, Claire Danes as Cosette and Hans Matheson as Marius. Claire Danes, in addition to giving a solid performance, seems to fit well with the iconic image of Cosette that has come to represent musical productions of the story.\n\nVisually this film is impressive as well with sweeping representations of Paris, Vigo and other locations and appropriate costumes. Basil Poledouris' score was also fitting for the story. The story, though abridged, still effectively gives us the touching tale of the plight of the poor in France, a reformed and ceaselessly generous convict, an overzealous inspector and those around them. I always enjoyed the clash of ideals and cat and mouse game between a reformed criminal and a man who clings to the ideal that no criminal can ever be reformed. This version of \"Les Misérables\" is recommended for those that are not uncomfortable with heavy abridgements to Hugo's classic novel.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Tristar",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3750887705",
+        "name": "Les Miserables (1998)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMDA2Zjk5YzYtMjQxMi00ZmZmLWI1ZmUtMDE0ZmRmZmMxYTY2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDA2Zjk5YzYtMjQxMi00ZmZmLWI1ZmUtMDE0ZmRmZmMxYTY2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:48:48Z",
+        "url": "https://www.imdb.com/video/vi3750887705/"
+    },
+    "url": "/title/tt0119683/"
+}

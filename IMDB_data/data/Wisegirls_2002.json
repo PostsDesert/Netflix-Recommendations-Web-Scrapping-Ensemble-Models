@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mira Sorvino",
+            "url": "/name/nm0000227/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mariah Carey",
+            "url": "/name/nm0001014/"
+        },
+        {
+            "@type": "Person",
+            "name": "Melora Walters",
+            "url": "/name/nm0001828/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3045,
+        "ratingValue": 5.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0060306/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0061120/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0010183/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Meadows",
+            "url": "/name/nm0990399/"
+        }
+    ],
+    "datePublished": "2002-12-06",
+    "description": "A new waitress working at an Italian restaurant in New York City finds herself entangled in a mob-run underworld of drug dealing and murder.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David Anspaugh",
+            "url": "/name/nm0000770/"
+        }
+    ],
+    "duration": "PT1H36M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjkxNDJkMzktNzJiZi00NTgyLTg1Y2EtMzljMDgxNzUzNzIxXkEyXkFqcGdeQXVyMTA5NTExNDAw._V1_.jpg",
+    "keywords": "gangster,empowerment,drug dealing,waitress,restaurant",
+    "name": "WiseGirls",
+    "original_info": {
+        "id": "Wisegirls_2002",
+        "name": "Wisegirls",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ray-108"
+        },
+        "dateCreated": "2002-10-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0284655/"
+        },
+        "name": "A Pleasant Suprise, and Suprisingly Pleasant Film",
+        "reviewBody": "You never really know what you are gonna come across while scanning through the 200+ digital cable channels. A few times it happens to be a really good movie.\n\n'Wisegirls' is an excellent depiction of a normal working life unaware of the actual dangers that fester inside. At first I, too, thought it was going to be a comedy, but was I suprised. Mira Sorvino is at her best as a quirky yet fiery young lady just trying to make ends meet in a legitimate establishment run by underworld factions. Arthur Nascarella shines as your typical cool yet vicious mob boss *Mr.* Santalino. And Mariah Carey...she can only get more and more beautiful (forgive me, she's always been my \"Vision of Love\") and she is truly a very good actress.\n\nI recommend this movie for those who enjoy action, drama, and lovely songstresses all together in one suprisingly good package."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Lionsgate Home Entertainment",
+        "duration": "PT1M57S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3858563353",
+        "name": "WiseGirls",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzE5ZGIyNzgtMzQ4Zi00YmIwLThhOTctY2E2MDQ5Mzc3YTdhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzE5ZGIyNzgtMzQ4Zi00YmIwLThhOTctY2E2MDQ5Mzc3YTdhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:25:46Z",
+        "url": "https://www.imdb.com/video/vi3858563353/"
+    },
+    "url": "/title/tt0284655/"
+}

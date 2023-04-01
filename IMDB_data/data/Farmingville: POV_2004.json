@@ -1,0 +1,70 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 216,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0115511/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carlos Sandoval",
+            "url": "/name/nm1497995/"
+        }
+    ],
+    "datePublished": "2004-01-18",
+    "description": "Documentary on the attempted murder of two Mexican day laborers in Farmingville, New York.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Carlos Sandoval",
+            "url": "/name/nm1497995/"
+        },
+        {
+            "@type": "Person",
+            "name": "Catherine Tambini",
+            "url": "/name/nm0848550/"
+        }
+    ],
+    "duration": "PT1H19M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjUxNDYyNzU1OF5BMl5BanBnXkFtZTcwNDc0MDcyMQ@@._V1_.jpg",
+    "keywords": "murder",
+    "name": "Farmingville",
+    "original_info": {
+        "id": "Farmingville: POV_2004",
+        "name": "Farmingville: POV",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "shannonlmcknight"
+        },
+        "dateCreated": "2006-11-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0388935/"
+        },
+        "name": "Great for a new outlook",
+        "reviewBody": "Unlike the person that commented before me, I thought that this movie was incredibly insightful and truthfully explained the side of the debate that is typically less thought of in the United States. The question of their legality does play a part in the movie, however, this movie doesn't need to focus on their illegal status in order to portray a lesser-known thought. We, as people, typically think that our opinion alone is the correct one and rarely think of what it would be like to walk in the shoes of another. Its a nice perspective to analyze and to try to understand. As a white woman, I never realized what truly happened with immigrants in the United States, but seeing this movie, it helped to show what the \"American Dream\" is like for people that come to truly have a better life.\n\nThe movie may be bias, but its good for us to see what its like for someone else and to see what they experience, what discrimination they go through, what hardship they struggle though, etc.\n\nI truly recommend this movie for anyone looking to get a new perspective.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0388935/"
+}

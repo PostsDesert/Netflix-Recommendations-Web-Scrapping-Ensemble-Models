@@ -1,0 +1,31 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Graham Loveridge",
+            "url": "/name/nm1355729/"
+        }
+    ],
+    "duration": "PT1H",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE1MDIwOTA0Ml5BMl5BanBnXkFtZTcwNzUzMDEyMQ@@._V1_.jpg",
+    "keywords": "train,europe,travel",
+    "name": "Travel the World by Train: North America 1",
+    "original_info": {
+        "id": "Travel the World by Train: North America_1999",
+        "name": "Travel the World by Train: North America",
+        "year": "1999"
+    },
+    "url": "/title/tt0192696/"
+}

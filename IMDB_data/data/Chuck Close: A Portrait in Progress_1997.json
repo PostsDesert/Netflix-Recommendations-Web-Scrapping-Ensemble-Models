@@ -1,0 +1,49 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 15,
+        "ratingValue": 8.3,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0394790/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0283315/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0037666/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marion Cajori",
+            "url": "/name/nm0129145/"
+        }
+    ],
+    "description": "Since 1969, when Chuck Close first exhibited his series of black-and-white portrait heads, his paintings have fascinated the public. Working mostly from instant photographs, Close paints in a style that vacillates between represen...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Marion Cajori",
+            "url": "/name/nm0129145/"
+        }
+    ],
+    "duration": "PT57M",
+    "genre": [
+        "Documentary"
+    ],
+    "name": "Chuck Close: A Portrait in Progress",
+    "original_info": {
+        "id": "Chuck Close: A Portrait in Progress_1997",
+        "name": "Chuck Close: A Portrait in Progress",
+        "year": "1997"
+    },
+    "url": "/title/tt3773580/"
+}

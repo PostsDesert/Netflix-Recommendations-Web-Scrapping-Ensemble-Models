@@ -1,0 +1,48 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Carol Chase",
+            "url": "/name/nm0974177/"
+        },
+        {
+            "@type": "Person",
+            "name": "Owen Hale",
+            "url": "/name/nm1595997/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dale Krantz-Rossington",
+            "url": "/name/nm1596143/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 46,
+        "ratingValue": 8.3,
+        "worstRating": 1
+    },
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mark Weiss",
+            "url": "/name/nm1898589/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY1NjAyNDcyNF5BMl5BanBnXkFtZTcwNTcxMDEzMQ@@._V1_.jpg",
+    "keywords": "tv special,concert film,rock music",
+    "name": "Lynyrd Skynyrd: Lyve from Steel Town",
+    "original_info": {
+        "id": "Lynyrd Skynyrd: Lyve from Steel Town_1997",
+        "name": "Lynyrd Skynyrd: Lyve from Steel Town",
+        "year": "1997"
+    },
+    "url": "/title/tt0252661/"
+}

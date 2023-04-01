@@ -1,0 +1,110 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Anna Friel",
+            "url": "/name/nm0295484/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michelle Williams",
+            "url": "/name/nm0931329/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ella Jones",
+            "url": "/name/nm0428025/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4705,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0022335/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0058013/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0049085/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sandra Goldbacher",
+            "url": "/name/nm0325128/"
+        },
+        {
+            "@type": "Person",
+            "name": "Laurence Coriat",
+            "url": "/name/nm0179851/"
+        }
+    ],
+    "datePublished": "2001-11-23",
+    "description": "Two best friends grow up on the Isle of Wight and in Brighton in the 1970s and 1980s.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Sandra Goldbacher",
+            "url": "/name/nm0325128/"
+        }
+    ],
+    "duration": "PT1H47M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTIyNDIwNzY4Nl5BMl5BanBnXkFtZTYwNjE4NDA3._V1_.jpg",
+    "keywords": "isle of wight,london england,timeframe 1970s,timeframe 1980s,best friend",
+    "name": "Me Without You",
+    "original_info": {
+        "id": "Me Without You_2001",
+        "name": "Me Without You",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "mikegray"
+        },
+        "dateCreated": "2001-11-15",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0263725/"
+        },
+        "name": "Surprisingly good...",
+        "reviewBody": "Friendship is a curious thing, and it's a topic which hasn't been explored too recently at the cinema. Me Without You puts this right, following the relationship between Holly (Williams) and Marina (Friel) from the seventies through the present, watching as them grow up and exploring their feelings towards each other and each other's families.\n\nImagine a British answer to The Ice Storm or American Beauty, and you're about half-way there, as this contains performances of genuine passion and emotion which leads you to engage on a surprisingly deep level with the characters as it delves beneath the surface of friendship. There is a moment about an hour in with Holly where it was impossible not to feel her character's desperation. While mostly drama, there are many moments of subtle humour which are effective without disturbing the overall flow of the piece.\n\nThe direction, especially with some inspired lighting in the last half hour is more than adequate, and the soundtrack perfectly evokes the spirit of the era, as do the costumes which have obviously had great care taken over them.\n\n More importantly, though, this is a film which will really make you think, make you question the nature of friendship and your friends - you'll want to recommend this film to them, but you probably won't for fear of losing them afterwards!\n\nA delight, and not at all what you might expect from a British film starring an ex soap actress. The two leads put in fine performances, and the supporting cast more than pull their weight. It's fair to say that I felt some of the nudity and drug use were slightly gratuitous, but this is a criticism that could also be levelled at American Beauty to a certain extent. This isn't quite a five star film, but it's pretty close.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Tristar",
+        "duration": "PT2M10S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3818193177",
+        "name": "Me Without You",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYTA5OWMwZTMtMTM1My00YmYwLTk3NjEtYjQ4NmQyNTIwNGQ2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTA5OWMwZTMtMTM1My00YmYwLTk3NjEtYjQ4NmQyNTIwNGQ2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:59:35Z",
+        "url": "https://www.imdb.com/video/vi3818193177/"
+    },
+    "url": "/title/tt0263725/"
+}

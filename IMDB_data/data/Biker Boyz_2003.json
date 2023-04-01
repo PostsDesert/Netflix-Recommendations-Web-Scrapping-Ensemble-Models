@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Laurence Fishburne",
+            "url": "/name/nm0000401/"
+        },
+        {
+            "@type": "Person",
+            "name": "Derek Luke",
+            "url": "/name/nm1035682/"
+        },
+        {
+            "@type": "Person",
+            "name": "Orlando Jones",
+            "url": "/name/nm0428963/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 13706,
+        "ratingValue": 4.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0819670/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0070636/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Gougis",
+            "url": "/name/nm1213025/"
+        },
+        {
+            "@type": "Person",
+            "name": "Craig Fernandez",
+            "url": "/name/nm0272948/"
+        },
+        {
+            "@type": "Person",
+            "name": "Reggie Rock Bythewood",
+            "url": "/name/nm0090066/"
+        }
+    ],
+    "datePublished": "2003-01-31",
+    "description": "A son of the leader of a legendary group of an urban biker gang tries to retain his championship title.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Reggie Rock Bythewood",
+            "url": "/name/nm0090066/"
+        }
+    ],
+    "duration": "PT1H50M",
+    "genre": [
+        "Action",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTAxNTY1NzA4MzJeQTJeQWpwZ15BbWU2MDQzMTMzNw@@._V1_.jpg",
+    "keywords": "motorcycle,african american,helmet,biker gang,rural setting",
+    "name": "Biker Boyz",
+    "original_info": {
+        "id": "Biker Boyz_2003",
+        "name": "Biker Boyz",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "allar100"
+        },
+        "dateCreated": "2003-06-22",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0326769/"
+        },
+        "name": "Only for bike stunt lovers",
+        "reviewBody": "The movie is barely even entertaining unless you are with a group of drinking buddies making fun of it. The only reason to watch the forced plot, weak dialogue, music video camera work waste of time is if you love motorcycles, and like watching stunts performed on them. Even then, if you really want to see that, just go get a specialty film. FOR BIKE ENTHUSIAST ONLY.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1337590041",
+        "name": "Biker Boyz",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjA5ZWIwZjYtZjdiOC00ZGEyLWE0NTktZDg2NTc4ZjVlZWI0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjA5ZWIwZjYtZjdiOC00ZGEyLWE0NTktZDg2NTc4ZjVlZWI0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:34:37Z",
+        "url": "https://www.imdb.com/video/vi1337590041/"
+    },
+    "url": "/title/tt0326769/"
+}

@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Randy Travis",
+            "url": "/name/nm0871430/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eric Roberts",
+            "url": "/name/nm0000616/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ernest Borgnine",
+            "url": "/name/nm0000308/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 311,
+        "ratingValue": 5,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0039993/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0078545/"
+        },
+        {
+            "@type": "Person",
+            "name": "Vaughn Taylor",
+            "url": "/name/nm1592226/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mike Dougherty",
+            "url": "/name/nm3883683/"
+        }
+    ],
+    "datePublished": "2003-05-27",
+    "description": "A man fights the law and the lawless in order to reunite with his wife and son in the 1860s west.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Marcarelli",
+            "url": "/name/nm0545099/"
+        }
+    ],
+    "duration": "PT1H27M",
+    "genre": [
+        "Western"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQwMjIzODIyMl5BMl5BanBnXkFtZTcwOTI1MDMyMQ@@._V1_.jpg",
+    "keywords": "voice over narration,classical western,rural setting,female gunfighter,street shootout",
+    "name": "The Long Ride Home",
+    "original_info": {
+        "id": "The Long Ride Home_2003",
+        "name": "The Long Ride Home",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "hobbsy"
+        },
+        "dateCreated": "2004-10-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0283452/"
+        },
+        "name": "Good movie",
+        "reviewBody": "My wife and I enjoyed this movie on the Westerns Channel. It deserves better than the 5.1 average rating. Some people get hung up on one aspect of a movie, for example the Bible verses being quoted, but if that's the way those people lived, the actors could not portray it any other way. Though the actors were mostly unknowns other than Stella Stevens, Randy Travis, Ernest Borgnine and Eric Roberts it was well acted. It was interesting to see Garry Marshal in a movie, I had only seen him in the Documentary of The Princess Diaries and had only seen Randy Travis in Fire Down Below. I see that Randy Travis is in several other movies and will check them out.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Lionsgate Home Entertainment",
+        "duration": "PT1M2S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi100008217",
+        "name": "The Long Ride Home",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOWI3OTkxNzEtZjM0My00N2JiLTgzOTEtNDI5MjBkY2ZmYWQ4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOWI3OTkxNzEtZjM0My00N2JiLTgzOTEtNDI5MjBkY2ZmYWQ4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:55:03Z",
+        "url": "https://www.imdb.com/video/vi100008217/"
+    },
+    "url": "/title/tt0283452/"
+}

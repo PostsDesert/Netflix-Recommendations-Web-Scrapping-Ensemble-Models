@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Travolta",
+            "url": "/name/nm0000237/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hugh Jackman",
+            "url": "/name/nm0413168/"
+        },
+        {
+            "@type": "Person",
+            "name": "Halle Berry",
+            "url": "/name/nm0000932/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 190603,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0692605/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0067907/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0024939/"
+        },
+        {
+            "@type": "Person",
+            "name": "Skip Woods",
+            "url": "/name/nm0940790/"
+        }
+    ],
+    "datePublished": "2001-06-08",
+    "description": "A covert counter-terrorist unit called Black Cell led by Gabriel Shear wants the money to help finance their war against international terrorism, but it's all locked away. Gabriel brings in convicted hacker Stanley Jobson to help ...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Dominic Sena",
+            "url": "/name/nm0784061/"
+        }
+    ],
+    "duration": "PT1H39M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzk5ZmQxMWYtM2QyNi00MTY3LTlmNjItYjUwODY3Y2YwOTIwXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "keywords": "computer,bad guy wins,terrorism,secret agent,wearing a sound wire",
+    "name": "Swordfish",
+    "original_info": {
+        "id": "Swordfish_2001",
+        "name": "Swordfish",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "blanche-2"
+        },
+        "dateCreated": "2009-04-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0244244/"
+        },
+        "name": "Disappointing",
+        "reviewBody": "I'm a fan of Hugh Jackman's, so I looked forward to seeing \"Swordfish,\" which also stars another actor I like, John Travolta. The film was not produced with an eye to my demographic, so I did not like it as much as some people may have.\n\nTravolta plays this incredibly ruthless man, someone committed to keeping the country safe from terrorists, who offers a hacker with child custody issues (Jackman) a chance to make a fortune, enabling him to hire a top attorney and get custody of his daughter. He needs the code cracked to a bank and account holding $9 billion in government money, and the money disseminated to various accounts.\n\nThe beginning of the film is fascinating - it's Travolta discussing the film Dog Day Afternoon - but alas, it's downhill from there. I'm normally not the most technically observant person when I'm watching a movie, but even I could tell that computerized images and miniatures did a lot of the work.\n\nHallie Berry gets to show off most of her beautiful body and there's plenty of action. Young men, I'm sure, love this film. Unfortunately I'm not a young man. And after seeing \"Swordfish,\" I was 1 hour and 39 minutes older.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi831324441",
+        "name": "Swordfish",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZWM2OWUxNWQtYTFhOC00YTNkLThmYjQtN2E1ZTFmMGU0N2M4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZWM2OWUxNWQtYTFhOC00YTNkLThmYjQtN2E1ZTFmMGU0N2M4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:24:02Z",
+        "url": "https://www.imdb.com/video/vi831324441/"
+    },
+    "url": "/title/tt0244244/"
+}

@@ -1,0 +1,91 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mekhi Phifer",
+            "url": "/name/nm0001616/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tangi Miller",
+            "url": "/name/nm0005233/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andre B. Blake",
+            "url": "/name/nm0086470/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 139,
+        "ratingValue": 5.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0010717/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mandel Holland",
+            "url": "/name/nm0390764/"
+        }
+    ],
+    "datePublished": "2002-04-26",
+    "description": "In Harlem, Martin Blaze, a writer for Vibe, thinks he's a loser since his fiancée cheated on him. The evening after his father's funeral, he meets the lovely Paula, runs into her the next day, but is sure she'll never look twice a...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mandel Holland",
+            "url": "/name/nm0390764/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMzNzEwNzQxMV5BMl5BanBnXkFtZTcwNjY0MDEyMQ@@._V1_.jpg",
+    "name": "The Other Brother",
+    "original_info": {
+        "id": "The Other Brother_2002",
+        "name": "The Other Brother",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "champion-one"
+        },
+        "dateCreated": "2003-04-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0271045/"
+        },
+        "name": "Decent yet really drags near the end...",
+        "reviewBody": "This really isn't a bad movie, but it loses a lot of momentum and drags towards the end. It's almost the romantic comedy equivalent of \"Barbershop\" without any sort of real climax. However, I did like the ending.\n\nThere really aren't a lot of laughs per se, but what's there is genuine and the characters are likeable. I rented it and didn't regret it."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from 20th Century Fox Home Entertainment",
+        "duration": "PT1M59S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3958833433",
+        "name": "The Other Brother",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjI5NjcwMzYtYTgzOC00ZjAyLWJhYTMtN2FlNDZiOTg0MzkxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjI5NjcwMzYtYTgzOC00ZjAyLWJhYTMtN2FlNDZiOTg0MzkxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:01:11Z",
+        "url": "https://www.imdb.com/video/vi3958833433/"
+    },
+    "url": "/title/tt0271045/"
+}

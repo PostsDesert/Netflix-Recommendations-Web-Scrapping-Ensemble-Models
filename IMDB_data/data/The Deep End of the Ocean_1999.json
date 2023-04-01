@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Michelle Pfeiffer",
+            "url": "/name/nm0000201/"
+        },
+        {
+            "@type": "Person",
+            "name": "Treat Williams",
+            "url": "/name/nm0001852/"
+        },
+        {
+            "@type": "Person",
+            "name": "Whoopi Goldberg",
+            "url": "/name/nm0000155/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 16401,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0033437/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0036081/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jacquelyn Mitchard",
+            "url": "/name/nm0593066/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen Schiff",
+            "url": "/name/nm0771496/"
+        }
+    ],
+    "datePublished": "1999-03-12",
+    "description": "A film about a family's reaction when Ben, the youngest son, is kidnapped and then found nine years later, living in the same town, where his family had just moved.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ulu Grosbard",
+            "url": "/name/nm0343260/"
+        }
+    ],
+    "duration": "PT1H46M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODVhNDEyYzktMmU2Ni00NzlkLTg0NWQtYmEzYTg4MDliOWQ3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "child kidnapping,basketball,mother son reunion,family relationships,mother son relationship",
+    "name": "The Deep End of the Ocean",
+    "original_info": {
+        "id": "The Deep End of the Ocean_1999",
+        "name": "The Deep End of the Ocean",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Gunnar_Runar_Ingibjargarson"
+        },
+        "dateCreated": "2008-06-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120646/"
+        },
+        "name": "See this, Great movie!",
+        "reviewBody": "Beth Cappadora (Michelle Pfeiffer) is at her high school reunion when her 3-year-old son disappears from his brother's care. The little boy never turns up, and the family has to deal with the devastating guilt and grief that goes along with it. Nine years later, the family has relocated to Chicago. By a sheer fluke, the kid turns up, living no more than two blocks away. The authorities swoop down and return the kid to his biological parents, but things are far from being that simple. The boy grew up around what he has called his father, while his new family are strangers to him; the older son, now a teenager, has brushes with the law and behavioral problems. His adjustment to his lost brother is complicated by normal teenage churlishness, and the dad (Treat Williams) seems to expect everything to fall into place as though the family had been intact all along. It's a tightrope routine for actors in a story like this, being careful not to chew the scenery while at the same time not being too flaccid or understated. For the most part, the members of the cast deal well with the emotional complexity of their roles. Though the story stretches credulity, weirder things do happen in the real world. The family's pain for the first half of the film is certainly credible, though the second half almost seems like a different movie. Whoopi Goldberg plays the detective assigned to the case; casting her is a bit of a stretch, but she makes it work. All in all, a decent three-honky movie in the vein of Ordinary People.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1022427417",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjE1OTVkMjItZmVlNi00MDA5LWE5ZTgtNTZkYjI4YzYxMzBkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjE1OTVkMjItZmVlNi00MDA5LWE5ZTgtNTZkYjI4YzYxMzBkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:38:20Z",
+        "url": "https://www.imdb.com/video/vi1022427417/"
+    },
+    "url": "/title/tt0120646/"
+}

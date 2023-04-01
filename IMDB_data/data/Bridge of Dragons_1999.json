@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dolph Lundgren",
+            "url": "/name/nm0000185/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cary-Hiroyuki Tagawa",
+            "url": "/name/nm0846480/"
+        },
+        {
+            "@type": "Person",
+            "name": "Valerie Chow",
+            "url": "/name/nm0159513/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2876,
+        "ratingValue": 4.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002572/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0100447/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carlton Holder",
+            "url": "/name/nm0390290/"
+        },
+        {
+            "@type": "Person",
+            "name": "Greg Latter",
+            "url": "/name/nm0490417/"
+        },
+        {
+            "@type": "Person",
+            "name": "Clint Lien",
+            "url": "/name/nm0509627/"
+        }
+    ],
+    "description": "The tough and cold mercenary Warchild, is working for the man who took care of his war training and upbringing, the greedy General Ruechang. Ruechang is planning to take over the country by marrying Princess Halo. But Halo discove...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Isaac Florentine",
+            "url": "/name/nm0282708/"
+        }
+    ],
+    "duration": "PT1H32M",
+    "genre": [
+        "Action",
+        "Romance",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BM2YxY2ViMjYtOGM1MS00NGNlLWE4NTQtMTEzMmJjNjhiMWIxXkEyXkFqcGdeQXVyMDI4NjM1MQ@@._V1_.jpg",
+    "keywords": "low budget,general,mercenary,princess,mp 40 machine gun",
+    "name": "Bridge of Dragons",
+    "original_info": {
+        "id": "Bridge of Dragons_1999",
+        "name": "Bridge of Dragons",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Psi-Phi"
+        },
+        "dateCreated": "1999-09-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0194722/"
+        },
+        "name": "I liked it",
+        "reviewBody": "the story is good it could have been better but the fighting action made up for any lags in the plot. I like that the princess kicked butt and of course had a strong will. See it your self then judge it."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from HBO Home Video",
+        "duration": "PT1M1S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi498860313",
+        "name": "Bridge of Dragons",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjI1NDVkNWQtMjIyYS00MDQ3LThhMmItMmU1NGE3YzRmMzMxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjI1NDVkNWQtMjIyYS00MDQ3LThhMmItMmU1NGE3YzRmMzMxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:51:05Z",
+        "url": "https://www.imdb.com/video/vi498860313/"
+    },
+    "url": "/title/tt0194722/"
+}

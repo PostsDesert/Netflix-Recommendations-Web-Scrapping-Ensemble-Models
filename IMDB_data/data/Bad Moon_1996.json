@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mariel Hemingway",
+            "url": "/name/nm0000446/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Paré",
+            "url": "/name/nm0001595/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mason Gamble",
+            "url": "/name/nm0001253/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7332,
+        "ratingValue": 5.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0033472/"
+        },
+        {
+            "@type": "Person",
+            "name": "Wayne Smith",
+            "url": "/name/nm0810316/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eric Red",
+            "url": "/name/nm0714599/"
+        }
+    ],
+    "datePublished": "1996-11-01",
+    "description": "After being bitten by a werewolf in the jungle, Ted looks for a cure. His lawyer sister, with a son and dog, invites him to park his camper by her house in the woods and live out of her fridge.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Eric Red",
+            "url": "/name/nm0714599/"
+        }
+    ],
+    "duration": "PT1H20M",
+    "genre": [
+        "Horror",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOGZiN2QxMmItN2IxYi00ZjU2LTgyM2YtYjdmYmUxZDNlYjdjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "werewolf,dog,transformation,single mother,german shepherd",
+    "name": "Bad Moon",
+    "original_info": {
+        "id": "Bad Moon_1996",
+        "name": "Bad Moon",
+        "year": "1996"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "PatrickPlantana"
+        },
+        "dateCreated": "2019-09-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0115610/"
+        },
+        "name": "And the Oscar goes to - Thor the German Shepherd!",
+        "reviewBody": "I'm always on the fence when it comes to the 90's horror underground/B list films. I always enjoy the one liners from 80s slasher classics, but for some reason the 90's always had those lines that seemed kinda forced in their cheesiness. They seemed to have a lot of political and current issues fueled behind them. Fortunately, there are only a couple of those lines in this movie and it only bothers me just a little.\n\nThis movie has a great opening scene and I like the movements and the aggressiveness of the werewolf. The family's German Shepherd is hands down the smartest character in the film and there is even a line towards the end that gives credit to this. Considering the supernatural take of the whole werewolf concept, this movie has a good bit of realism surrounding the nature of the beast. I won't say too much, but it briefly explores the psychological effect of the man plagued by this curse with a few select scenes. A few broken rules for the genre also help put a slight twist on what would otherwise be an average werewolf flick. My most memorable scenes include the power struggle between the two alphas. There is some great symbolism and well placed humor within this dynamic. Don't expect anything too mind blowing, but if you enjoy the finer threads of a movie check this one out!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT1M5S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2243428633",
+        "name": "Bad Moon",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDhiNjM3OTctMzViYi00YjkxLWE1YjUtMDExYWUwZjdlMzliXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDhiNjM3OTctMzViYi00YjkxLWE1YjUtMDExYWUwZjdlMzliXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:19:35Z",
+        "url": "https://www.imdb.com/video/vi2243428633/"
+    },
+    "url": "/title/tt0115610/"
+}

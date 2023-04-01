@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "William Powell",
+            "url": "/name/nm0001635/"
+        },
+        {
+            "@type": "Person",
+            "name": "Myrna Loy",
+            "url": "/name/nm0001485/"
+        },
+        {
+            "@type": "Person",
+            "name": "Keenan Wynn",
+            "url": "/name/nm0943978/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5430,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007143/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve Fisher",
+            "url": "/name/nm0279795/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nat Perrin",
+            "url": "/name/nm0674759/"
+        },
+        {
+            "@type": "Person",
+            "name": "James O'Hanlon",
+            "url": "/name/nm0641199/"
+        }
+    ],
+    "description": "Nick and Nora Charles are on a gambling boat when someone is murdered. The two main suspects are at large and come to Nick for help. Nick turns them into the police but then sets out to figure out the mystery.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Edward Buzzell",
+            "url": "/name/nm0125636/"
+        }
+    ],
+    "duration": "PT1H26M",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Musical"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjNlMTc2NmItOTMwMS00OGE3LTljMTYtOWQ3MzMwZjY0NGE3XkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
+    "keywords": "boat,private detective,marriage,jazz,gambling ship",
+    "name": "Song of the Thin Man",
+    "original_info": {
+        "id": "Song of the Thin Man_1947",
+        "name": "Song of the Thin Man",
+        "year": "1947"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "fflambeau"
+        },
+        "dateCreated": "2012-10-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0039853/"
+        },
+        "name": "Excellent Mystery & Great Jazz Background",
+        "reviewBody": "I completely disagree with some prior posters who thought this the worst in the series. First of all, it's one of the best mysteries with any number of possible candidates. Secondly, it has a really strong supporting cast led by K. Wynn who is terrific in the role of jazz inside man. Jayne Meadows and Ralph Morgan are also strong supporting actors. Third, it really showcases jazz, perhaps inadvertently and in a negative way however (as out of touch, out of the mainstream with a different language etc.), and has some great numbers (including the theme song, \"You're Not so Easy to Forget\" which I think the director was using as a nod to this being the last in the series of Thin Man movies and to William Powell. The director obviously makes his disapproving commentary on jazz in a subtle way: by focusing the camera on the bust of Beethoven just after a jazz scene! But he does integrate the music well into the plot since much of the plot takes place on a gambling boat. \n\nThe denouement of the mystery is also probably influential on other mystery/criminal series to follow (like Perry Mason) in that the entire cast of suspects is collected together, as in an Agatha Christie or a Rex Stout story. Fourth, the script is very, very witty and you have to pay close attention to the words (like the reference to Somerset Maugham with the \"it couldn't be his razor\", a reference to Maugham's, The Razor's Edge. Or how about the time William Powell is \"eying\" a ladies earrings but his sight is a bit focused elsewhere and Nora reminds him something like, \"earrings are higher than that\"! But I did think we saw too much of Dean Stockwell and the film would have better off with him in a reduced role (sorry to his fan club, but I'm no fan). I thought I saw the Wizard of Oz in this movie and it turns out that it is his (almost lookalike) brother! Lastly, Asta has a big and important role in this movie, fittingly so, since it is the last in the series. In short, great acting, great script, and great harmony between Powell (who really could act, especially in comedy) and M. Loy. Superb.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from MGM",
+        "duration": "PT3M5S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3265529113",
+        "name": "Song of the Thin Man",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTRlN2Y1ZjItNmFlZS00MTIzLTk0ZTEtNDcxYTcwNzBiOWM0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTRlN2Y1ZjItNmFlZS00MTIzLTk0ZTEtNDcxYTcwNzBiOWM0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-10-31T05:38:55Z",
+        "url": "https://www.imdb.com/video/vi3265529113/"
+    },
+    "url": "/title/tt0039853/"
+}

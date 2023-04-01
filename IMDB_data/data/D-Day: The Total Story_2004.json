@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Gerald McRaney",
+            "url": "/name/nm0574468/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen Ambrose",
+            "url": "/name/nm0024421/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Keegan",
+            "url": "/name/nm0444441/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 74,
+        "ratingValue": 7.9,
+        "worstRating": 1
+    },
+    "datePublished": "1994-06-05",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Rob Lihani",
+            "url": "/name/nm0510099/"
+        }
+    ],
+    "genre": [
+        "Documentary",
+        "History",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMzNTYyODAzN15BMl5BanBnXkFtZTcwMDI0NDUyMQ@@._V1_.jpg",
+    "keywords": "d day,world war two",
+    "name": "D-Day: The Total Story",
+    "original_info": {
+        "id": "D-Day: The Total Story_2004",
+        "name": "D-Day: The Total Story",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dbeijer"
+        },
+        "dateCreated": "2005-12-05",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0229120/"
+        },
+        "name": "One-Half Good",
+        "reviewBody": "D-Day: The Total Story is nicely covered on Disc 1. Disc 2 is something else.\n\nDisc 1 of this two disc set is entertaining.\n\nThere are three 45 minute episodes spanning the preparation for the invasion through the eventual breakout from the beachheads. Good archival footage and appropriate narration.\n\nStory of D-Day without the detail of \"Battlefield\" (1995) Series \"Battle of Normandy\" episode.\n\nThe bonus, again about 45 minutes, is an informative Eisenhower Biography.\n\nDisc 2 is generally disappointing.\n\nEpisode 1 is a propaganda piece predominately on the 101st Airborne as Air Cav. Little on the jumping out of airplanes set, much on the helicopter folks. They can get there fast and kill anything that moves. OK, but what does Vietnam through George The First's Iraq have to do with D-Day?\n\nEpisode 2 is \"Letters Home.\" I did not find this particularly interesting but opinions vary.\n\nThe bonus is on the Sherman tank. Good footage and information.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0229120/"
+}

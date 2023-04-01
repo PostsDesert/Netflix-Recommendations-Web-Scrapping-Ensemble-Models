@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sally Field",
+            "url": "/name/nm0000398/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Caan",
+            "url": "/name/nm0001001/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeff Bridges",
+            "url": "/name/nm0000313/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2311,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0051784/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bruno Barreto",
+            "url": "/name/nm0000853/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jorge Amado",
+            "url": "/name/nm0023764/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charlie Peters",
+            "url": "/name/nm0676361/"
+        }
+    ],
+    "datePublished": "1982-12-22",
+    "description": "The ghost of a dead husband haunts his wife as she moves back to their house in NYC. She's about to marry an egyptologist there.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Mulligan",
+            "url": "/name/nm0612322/"
+        }
+    ],
+    "duration": "PT1H41M",
+    "genre": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMmU3OGFiZmUtMTZlMi00OTI2LTg2MzItOTFlNDMxMDAwYjM0XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "ghost,remake of brazilian film,foreign language adaptation,widow,love triangle",
+    "name": "Kiss Me Goodbye",
+    "original_info": {
+        "id": "Kiss Me Goodbye_1982",
+        "name": "Kiss Me Goodbye",
+        "year": "1982"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "sistasaint"
+        },
+        "dateCreated": "2003-04-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0084210/"
+        },
+        "name": "Wonderful Movie!",
+        "reviewBody": "I absolutely adored this movie! I thought the acting was first rate as was the script. Sally Field is adorable as a widow who's about to remarry. No one but James Caan could have pulled off the role of Jolly as he did. He's entertaining, light-hearted, and gets his point across in a rather different way. This movie is one of my all time favorites. I especially love the way Jolly helps Kay to get hold of her life and move on. Very entertaining! Worth the watch."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "The ghost of a dead husband haunts his wife as she moves back to their house in NYC. She's about to marry an egyptologist there.",
+        "duration": "PT2M7S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1389675289",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDUwZWVkZDgtZWEwNC00ZWEyLWE1MGQtZjhmNTkzYzY5ZDRhXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDUwZWVkZDgtZWEwNC00ZWEyLWE1MGQtZjhmNTkzYzY5ZDRhXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-11-25T19:29:47.168Z",
+        "url": "https://www.imdb.com/video/vi1389675289/"
+    },
+    "url": "/title/tt0084210/"
+}

@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Turturro",
+            "url": "/name/nm0001806/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bob Nelson",
+            "url": "/name/nm0625186/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mel Smith",
+            "url": "/name/nm0809321/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4486,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0042359/"
+        },
+        {
+            "@type": "Person",
+            "name": "Pat Proft",
+            "url": "/name/nm0698493/"
+        },
+        {
+            "@type": "Person",
+            "name": "George S. Kaufman",
+            "url": "/name/nm0442151/"
+        },
+        {
+            "@type": "Person",
+            "name": "Morrie Ryskind",
+            "url": "/name/nm0753452/"
+        }
+    ],
+    "datePublished": "1992-04-17",
+    "description": "Three manic idiots; a lawyer, cab driver and a handyman team up to run a ballet company to fulfill the will of a millionaire. Stooge-like antics result as the trio try to outwit the rich widow.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Dennis Dugan",
+            "url": "/name/nm0240797/"
+        }
+    ],
+    "duration": "PT1H20M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTJkYTIwZDUtYTYzYi00NWE2LWFjYjQtYTEzZWMzMGQ5OGYwXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_.jpg",
+    "keywords": "slapstick comedy,ballet,ballerina,lawyer,widow",
+    "name": "Brain Donors",
+    "original_info": {
+        "id": "Brain Donors_1992",
+        "name": "Brain Donors",
+        "year": "1992"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Tug-3"
+        },
+        "dateCreated": "1998-11-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0103872/"
+        },
+        "name": "The funniest one-liners since Groucho.",
+        "reviewBody": "A lot of critics moaned when this movie came out that its characters were pale imitations of the Marx Brothers. Fine, that might be true. But this movie is still hilarious. On the surface, it appears to be a very dumb comedy, but if you listen to John Turturro's constant string of dialogue, you'll realize that his insults are the most sharp-edged one-liners since Groucho died. Obviously it's not as good as any Marx Brothers comedies, but it's not bad either."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT1M27S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2746662425",
+        "name": "Brain Donors",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzUxYTk5MDctNGU2NC00YmYyLWE4ZWEtY2JjOWE0NDk2Yzc2XkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzUxYTk5MDctNGU2NC00YmYyLWE4ZWEtY2JjOWE0NDk2Yzc2XkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-02-26T17:02:34.594Z",
+        "url": "https://www.imdb.com/video/vi2746662425/"
+    },
+    "url": "/title/tt0103872/"
+}

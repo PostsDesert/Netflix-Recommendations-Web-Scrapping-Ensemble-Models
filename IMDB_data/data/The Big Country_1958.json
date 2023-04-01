@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Gregory Peck",
+            "url": "/name/nm0000060/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jean Simmons",
+            "url": "/name/nm0001739/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carroll Baker",
+            "url": "/name/nm0004647/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 18925,
+        "ratingValue": 7.9,
+        "worstRating": 1
+    },
+    "contentRating": "Passed",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0064565/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0076083/"
+        },
+        {
+            "@type": "Person",
+            "name": "James R. Webb",
+            "url": "/name/nm0916139/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sy Bartlett",
+            "url": "/name/nm0058905/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Wilder",
+            "url": "/name/nm0928623/"
+        }
+    ],
+    "description": "A New England sea captain in the 1880s arrives at his fiancée's sprawling Texas ranch, where he becomes embroiled in a feud between two families over a valuable patch of land.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "William Wyler",
+            "url": "/name/nm0943758/"
+        }
+    ],
+    "duration": "PT2H46M",
+    "genre": [
+        "Drama",
+        "Romance",
+        "Western"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDAwMTViNWEtNmQ0ZC00NGJmLWJjYWMtMGYxMTYxY2Y0Y2MzXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+    "keywords": "rancher,long johns,retribution,retaliation,hazing",
+    "name": "The Big Country",
+    "original_info": {
+        "id": "The Big Country_1958",
+        "name": "The Big Country",
+        "year": "1958"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Sergeant_Tibbs"
+        },
+        "dateCreated": "2015-03-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0051411/"
+        },
+        "name": "Great subversive Western, one of the greatest scores for a film ever.",
+        "reviewBody": "I'm always appalled at how little William Wyler I've seen. I adore The Best Years of Our Lives and Roman Holiday, but Ben-Hur is underwhelming. Now with The Big Country winning my heart, he really deserves better. I'm a sucker for a good subversive Western. The myth of the American frontier in cinema is fascinating to me and any film that develops the ideas inherently has my attention. The Big Country is credited as the first pacifist Western as Gregory Peck refuses to fight until the last moment or acknowledge the seriousness of any conflict. He's an unconventional hero. One who teeters a line of cowardice. But this just makes him all the more endearing as a three dimensional character. Granted, the film has its caricature characters on the side, but the script has such a dry wit. Burt Ives won an Oscar for his role and coming in an hour into the film, there wasn't much spotlight left to share, but he certainly has his moments. It's a grand epic in visuals and length that I easily sunk into. It's a big country alright. Also boasts one of the best scores I've ever heard. Can't believe it's not considered a greater classic.\n\n8/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M54S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3877355033",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNGQ1NDQ5OTktNTRkMi00YTI1LWI1MjItYzNjODc2MGE4YTVmXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNGQ1NDQ5OTktNTRkMi00YTI1LWI1MjItYzNjODc2MGE4YTVmXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-07-01T10:54:48.141Z",
+        "url": "https://www.imdb.com/video/vi3877355033/"
+    },
+    "url": "/title/tt0051411/"
+}

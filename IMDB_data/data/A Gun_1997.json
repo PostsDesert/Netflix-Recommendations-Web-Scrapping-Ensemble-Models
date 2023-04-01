@@ -1,0 +1,89 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Deborah Twiss",
+            "url": "/name/nm0878597/"
+        },
+        {
+            "@type": "Person",
+            "name": "Benja K. Thomas",
+            "url": "/name/nm1767858/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rene Alberta",
+            "url": "/name/nm1013310/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 403,
+        "ratingValue": 5.8,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0015320/"
+        },
+        {
+            "@type": "Person",
+            "name": "Todd Morris",
+            "url": "/name/nm0606977/"
+        },
+        {
+            "@type": "Person",
+            "name": "Deborah Twiss",
+            "url": "/name/nm0878597/"
+        }
+    ],
+    "datePublished": "1998-01-14",
+    "description": "A woman comes to New York City from Ohio to escape an abusive husband and gets entangled with murderous female vigilantes who prey on abusive men.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Todd Morris",
+            "url": "/name/nm0606977/"
+        }
+    ],
+    "duration": "PT1H25M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAwNDkwMjYzNV5BMl5BanBnXkFtZTcwOTQzODU2MQ@@._V1_.jpg",
+    "keywords": "revenge,female protagonist,feminism,strong female lead,girl gang",
+    "name": "A Gun for Jennifer",
+    "original_info": {
+        "id": "A Gun_1997",
+        "name": "A Gun",
+        "year": "1997"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "cwattie-2"
+        },
+        "dateCreated": "2000-10-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0160339/"
+        },
+        "name": "A great indie film in the American horror tradition.",
+        "reviewBody": "I managed to see this at a rare screening during the Fantasia Festival a few years back and I was very impressed. Reminded me of early Abel Ferrara (Ms. 45), Wes Craven (Last House on the Left) or even John Cassavetes (Killing of a Chinese Bookie). The basic story involves a young woman (Deborah Twiss), new to NYC, that is saved from being raped by a feminist vigilante gang. The guerillas take her in and give her a job at their front business, a divey strip club, and introduce her to their night-time revenge raids. It gets pretty intense and twisted from there. Political, creepy and sexy. See this if you get the chance, because I don't think it'll make it to your local Blockbusters.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0160339/"
+}

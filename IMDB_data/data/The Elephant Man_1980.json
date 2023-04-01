@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Anthony Hopkins",
+            "url": "/name/nm0000164/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Hurt",
+            "url": "/name/nm0000457/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anne Bancroft",
+            "url": "/name/nm0000843/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 245913,
+        "ratingValue": 8.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000858/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christopher De Vore",
+            "url": "/name/nm0212246/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eric Bergren",
+            "url": "/name/nm0075015/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Lynch",
+            "url": "/name/nm0000186/"
+        }
+    ],
+    "datePublished": "1980-10-10",
+    "description": "A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous façade, there is revealed a person of kindness, intelligence and sophistication.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David Lynch",
+            "url": "/name/nm0000186/"
+        }
+    ],
+    "duration": "PT2H4M",
+    "genre": [
+        "Biography",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "dignity,disability,human exploitation,hospital,psychological torture",
+    "name": "The Elephant Man",
+    "original_info": {
+        "id": "The Elephant Man_1980",
+        "name": "The Elephant Man",
+        "year": "1980"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ofurkusa"
+        },
+        "dateCreated": "2002-08-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0080678/"
+        },
+        "name": "i'm speechless",
+        "reviewBody": "I just watched this movie last night and i must say... it touched me in a way no other movie has... some of the scenes even brought me to tears, which has never happened to me before.... John Hurt and Anthony Hopkins are simple incredible, and this movie is just filled with unforgettable scenes....\n\n but like some people have mentioned here before, it is an incredibly hard movie to watch, especially after you realize what a sweet, kind, smart and innocent man John Merrick was, it is often painful to watch the way he's treated by some people, and like Hopkins says after he sees him for the first time \"I pray to god that he's an idiot\", sadly, he is everything but that...\n\n10/10, no question",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M1S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1763229209",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjYyMzMwMmMtZTI1My00NGFmLTllMmEtNTRjOGFmNzJmZGY3XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjYyMzMwMmMtZTI1My00NGFmLTllMmEtNTRjOGFmNzJmZGY3XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-06-29T08:59:06.482Z",
+        "url": "https://www.imdb.com/video/vi1763229209/"
+    },
+    "url": "/title/tt0080678/"
+}

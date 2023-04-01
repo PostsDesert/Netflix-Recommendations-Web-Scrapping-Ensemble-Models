@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Chad McQueen",
+            "url": "/name/nm0574337/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mario Andretti",
+            "url": "/name/nm0004707/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sal Fish",
+            "url": "/name/nm1738121/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 994,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0139779/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0114524/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0080580/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dana Brown",
+            "url": "/name/nm1440144/"
+        }
+    ],
+    "datePublished": "2005-04-22",
+    "description": "A documentary on the Baja 1000, an annual off-road race held in Baja, Mexico that attracts hundreds of racers, their souped-up machines, and thousands of fans.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Dana Brown",
+            "url": "/name/nm1440144/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Documentary",
+        "Action",
+        "Adventure"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU4OTE3MDQxMl5BMl5BanBnXkFtZTcwOTQxNzgyMQ@@._V1_.jpg",
+    "keywords": "race,mexico,helicopter,desert,motor",
+    "name": "Dust to Glory",
+    "original_info": {
+        "id": "Dust to Glory_2005",
+        "name": "Dust to Glory",
+        "year": "2005"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "capoor"
+        },
+        "dateCreated": "2006-03-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0386423/"
+        },
+        "name": "OMFG! Somebody wipe the dust off!",
+        "reviewBody": "What an amazing docu-drama! Expertly filmed and well thought out. I cant even begin to imagine the logistical nightmare for what must have ended up being a terrific assignment. Kudos to the whole crew and Kevin for putting together an awesome film crew! Makes me want to go buy a bike or wish i had my old beat up Subaru to go run the Baja for the heck of it! Maybe they can do a part tow that has even more in-depth interviews with some of the greats and maybe even get Mario to run the full course! He should not have any problems getting sponsors! I feel sorry for all the assistants who probably spent days trying to get the silt out of everything! Probably stills falls out of nooks and cracks when they least expect it! Ha ha!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from IFC",
+        "duration": "PT1M59S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1101267225",
+        "name": "Dust to Glory",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNmRiZTkyNWUtZGU1OC00ZDY3LTgzNjUtMzk1YWFiYWQ0ZjQ2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNmRiZTkyNWUtZGU1OC00ZDY3LTgzNjUtMzk1YWFiYWQ0ZjQ2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:58:10Z",
+        "url": "https://www.imdb.com/video/vi1101267225/"
+    },
+    "url": "/title/tt0386423/"
+}

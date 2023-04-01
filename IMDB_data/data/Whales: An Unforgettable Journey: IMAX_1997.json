@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Patrick Stewart",
+            "url": "/name/nm0001772/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 169,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0053450/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0097903/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0149508/"
+        },
+        {
+            "@type": "Person",
+            "name": "Roger Payne",
+            "url": "/name/nm0668419/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mose Richards",
+            "url": "/name/nm0724255/"
+        },
+        {
+            "@type": "Person",
+            "name": "Leighton Taylor",
+            "url": "/name/nm1870909/"
+        }
+    ],
+    "description": "Scientists visit the remote surface and undersea locations to study various species of whales in their natural habitat.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David Clark",
+            "url": "/name/nm0163837/"
+        },
+        {
+            "@type": "Person",
+            "name": "Al Giddings",
+            "url": "/name/nm0317255/"
+        },
+        {
+            "@type": "Person",
+            "name": "Roger Payne",
+            "url": "/name/nm0668419/"
+        }
+    ],
+    "duration": "PT44M",
+    "genre": [
+        "Documentary",
+        "Short"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA3NzYzNDcxNF5BMl5BanBnXkFtZTcwMzU1MDcyMQ@@._V1_.jpg",
+    "keywords": "underwater scene,whale,wildlife,nature,imax",
+    "name": "Whales: An Unforgettable Journey",
+    "original_info": {
+        "id": "Whales: An Unforgettable Journey: IMAX_1997",
+        "name": "Whales: An Unforgettable Journey: IMAX",
+        "year": "1997"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Opie-7"
+        },
+        "dateCreated": "2002-07-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120496/"
+        },
+        "name": "Educational, but boring!",
+        "reviewBody": "This movie is good for its educational value, but it wasn't very entertaining. The movie, except for the intro with the whale jumping out of the water towards you, dragged on for the entire 40 minutes. Not even Sam Cardon's music made it any better. Unless you're very interested in whales, don't expect too much from this documentary."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from SlingShot Entertainment",
+        "duration": "PT1M30S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4277928217",
+        "name": "Whales: An Unforgettable Journey",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjk3MDAwOWYtN2M5OC00ZjExLWE1NGItMDM5MDM3MGJmMzE2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjk3MDAwOWYtN2M5OC00ZjExLWE1NGItMDM5MDM3MGJmMzE2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:22:16Z",
+        "url": "https://www.imdb.com/video/vi4277928217/"
+    },
+    "url": "/title/tt0120496/"
+}

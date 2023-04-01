@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jason Patric",
+            "url": "/name/nm0000574/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rachel Ward",
+            "url": "/name/nm0001829/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bruce Dern",
+            "url": "/name/nm0001136/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3878,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0240889/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Thompson",
+            "url": "/name/nm0860292/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Redlin",
+            "url": "/name/nm0714977/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Foley",
+            "url": "/name/nm0001226/"
+        }
+    ],
+    "datePublished": "1990-08-24",
+    "description": "An ex-boxer is drifting around after escaping from the mental hospital. He meets a widow who convinces him to help fix up the neglected estate her ex-husband left. Her Uncle talks them both into helping kidnap a rich boy for ranso...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "James Foley",
+            "url": "/name/nm0001226/"
+        }
+    ],
+    "duration": "PT1H54M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTJiZjU1MjMtMWIxMC00ZDhkLWE0NDItZGU2NGM2NDYwYmEyXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_.jpg",
+    "keywords": "widow,self sacrifice,tragedy,tragic hero,distrust",
+    "name": "After Dark, My Sweet",
+    "original_info": {
+        "id": "After Dark My Sweet_1990",
+        "name": "After Dark My Sweet",
+        "year": "1990"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "TheVid"
+        },
+        "dateCreated": "2002-03-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0098994/"
+        },
+        "name": "Jim Thompson pulp played to perfection.",
+        "reviewBody": "This is a moody, oblique, adult thriller that seems to bore most of the reviewers so far, making me think that they're all mostly adolescent-type viewers. While not a perfect film noir, AFTER DARK, MY SWEET is a particularly unusual one in that it uses bright atmospherics as opposed to the standard dark ones used to enhance the downward decadence of the material. This picture was made at a time when pulp novelist Thompson was getting a bit of a revival on screen, with a remake of THE GETAWAY and a nifty film version of THE GRIFTERS. The remarkable French film COUP DE TORCHON, also based on a Thompson novel (entitled POP. 1280) uses the same bright noir approach. AFTER DARK, MY SWEET stands admirably along side all these films as a relevant tribute to a writer who often exposed people's dark anxieties with tough, stylish precision! Check out the widescreen Artisan DVD for some nicely done and highly-recommended, adult moviemaking."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Extra (Clip) from Artisan",
+        "duration": "PT1M13S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1572143385",
+        "name": "After Dark, My Sweet",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjhlYTA1YzctOThmZS00MTgwLThlMWEtNzRkYjEyYzQ1YzlmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjhlYTA1YzctOThmZS00MTgwLThlMWEtNzRkYjEyYzQ1YzlmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T09:48:12Z",
+        "url": "https://www.imdb.com/video/vi1572143385/"
+    },
+    "url": "/title/tt0098994/"
+}

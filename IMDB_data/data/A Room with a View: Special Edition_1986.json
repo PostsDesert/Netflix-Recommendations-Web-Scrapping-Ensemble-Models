@@ -1,0 +1,94 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVEpisode",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ed Flanders",
+            "url": "/name/nm0281130/"
+        },
+        {
+            "@type": "Person",
+            "name": "Norman Lloyd",
+            "url": "/name/nm0516093/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bonnie Bartlett",
+            "url": "/name/nm0058783/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 38,
+        "ratingValue": 8.7,
+        "worstRating": 1
+    },
+    "contentRating": "TV-PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0038822/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Tinker",
+            "url": "/name/nm0863990/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Masius",
+            "url": "/name/nm0556435/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joshua Brand",
+            "url": "/name/nm0104481/"
+        }
+    ],
+    "datePublished": "1986-10-08",
+    "description": "Craig has trouble accepting the fact that the hospital hired a new Director of Surgery; an elderly woman from an adjoining apartment spies on the goings-on at the hospital; Fiscus stands up for a sick elderly man whose daughters a...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Eric Laneuville",
+            "url": "/name/nm0485637/"
+        }
+    ],
+    "duration": "PT1H",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM0MDFhZTEtNWIzZS00NjViLWFjYzMtYzYyZGIxMjAxZDliXkEyXkFqcGdeQXVyMTE4NTAwNTc3._V1_.jpg",
+    "name": "A Room with a View",
+    "original_info": {
+        "id": "A Room with a View: Special Edition_1986",
+        "name": "A Room with a View: Special Edition",
+        "year": "1986"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Hitchcoc"
+        },
+        "dateCreated": "2022-03-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0707877/"
+        },
+        "name": "Getting Old Is Hard",
+        "reviewBody": "There are three stories at work. First of all, we have the stepping down of Dr. Craig and his conflict with this replacement. Secondly, there is a Rear Window thing going on with an elderly woman who lives across from the hospital and who peers through windows. Finally, a man Fiscus befriended has a stroke and his daughters want to place him in a nursing home. It's a difficult thing to watch.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "timeRequired": "PT1H",
+    "url": "/title/tt0707877/"
+}

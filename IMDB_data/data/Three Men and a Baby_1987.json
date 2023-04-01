@@ -1,0 +1,118 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tom Selleck",
+            "url": "/name/nm0000633/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve Guttenberg",
+            "url": "/name/nm0000430/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ted Danson",
+            "url": "/name/nm0001101/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 55318,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "alternateName": "Three Men and a Baby",
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0049348/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0076881/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0031772/"
+        },
+        {
+            "@type": "Person",
+            "name": "Coline Serreau",
+            "url": "/name/nm0785684/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Orr",
+            "url": "/name/nm0650561/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Cruickshank",
+            "url": "/name/nm0189979/"
+        }
+    ],
+    "datePublished": "1987-11-25",
+    "description": "Three bachelors find themselves forced to take care of a baby left by one of the guys' girlfriends.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Leonard Nimoy",
+            "url": "/name/nm0000559/"
+        }
+    ],
+    "duration": "PT1H42M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjRkNjMyNWUtMjNjYi00M2FkLTk2ZDYtYjVkMGRmZjY2MzA4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "baby,remake of french film,police,baby left on doorstep,abandoned baby",
+    "name": "3 Men and a Baby",
+    "original_info": {
+        "id": "Three Men and a Baby_1987",
+        "name": "Three Men and a Baby",
+        "year": "1987"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jhaggardjr"
+        },
+        "dateCreated": "2001-02-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0094137/"
+        },
+        "name": "Cute comedy",
+        "reviewBody": "\"3 Men and a Baby\" is a comedy that's cute and funny. Tom Selleck, Steve Guttenberg, and Ted Danson star as three bachelors who live together, and who's lives are changed forever when on one particular day a baby infant is left on their doorstep. The three bachelors are now forced unexpectedly to become fathers to the baby. Plenty of wonderful comedy scenes throughout as the three stars go through the frustrations of having to deal with this infant girl in the early stages, then the baby eventually starts to win them over. If only the filmmakers threw out the subplot involving drugs, then this film would've been a great comedy. \n\n*** (out of four)",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Three bachelors find themselves forced to take care of a baby left by one of the guys' girlfriends.",
+        "duration": "PT1M13S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi453426713",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOGI2ZjNlN2ItYjcxNC00ZWMxLWJjNDEtMTJkY2QwMmYwZWEyXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGI2ZjNlN2ItYjcxNC00ZWMxLWJjNDEtMTJkY2QwMmYwZWEyXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-07-09T10:24:11.069Z",
+        "url": "https://www.imdb.com/video/vi453426713/"
+    },
+    "url": "/title/tt0094137/"
+}

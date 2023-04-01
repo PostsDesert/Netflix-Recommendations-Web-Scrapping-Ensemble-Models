@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jean Harlow",
+            "url": "/name/nm0001318/"
+        },
+        {
+            "@type": "Person",
+            "name": "Loretta Young",
+            "url": "/name/nm0949835/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Williams",
+            "url": "/name/nm0931551/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3218,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "Passed",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harry Chandlee",
+            "url": "/name/nm0151310/"
+        },
+        {
+            "@type": "Person",
+            "name": "Douglas W. Churchill",
+            "url": "/name/nm0161428/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Riskin",
+            "url": "/name/nm0728307/"
+        }
+    ],
+    "datePublished": "1931-10-31",
+    "description": "A young woman from a very rich family impulsively marries a reporter, but each assumes the other is the one whose lifestyle must change.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Frank Capra",
+            "url": "/name/nm0001008/"
+        }
+    ],
+    "duration": "PT1H29M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIxODU1NDk4NV5BMl5BanBnXkFtZTgwNzIzMDMyMjE@._V1_.jpg",
+    "keywords": "screwball comedy,reporter,party,mansion,socialite",
+    "name": "Platinum Blonde",
+    "original_info": {
+        "id": "Platinum Blonde_1931",
+        "name": "Platinum Blonde",
+        "year": "1931"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "cherold"
+        },
+        "dateCreated": "2000-11-22",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0022268/"
+        },
+        "name": "Unusual performance",
+        "reviewBody": "The most notable thing about this movie is Robert Williams unusual performance. I've seen performances like it but none of them were in 1931 and I was surprised I'd never heard of him. Turns out he *died* in 1931, and it's worth watching the movie just to see someone who could have been a star. The movie itself is quite enjoyable, although Harlow makes little impression as a society dame and it's difficult to believe the enticing Loretta Young could be any one's idea of \"one of the boys.\""
+    },
+    "url": "/title/tt0022268/"
+}

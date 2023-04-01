@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sophia Loren",
+            "url": "/name/nm0000047/"
+        },
+        {
+            "@type": "Person",
+            "name": "Julia Roberts",
+            "url": "/name/nm0000210/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marcello Mastroianni",
+            "url": "/name/nm0000052/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 15472,
+        "ratingValue": 5.2,
+        "worstRating": 1
+    },
+    "alternateName": "Ready to Wear",
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0332748/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0022594/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Altman",
+            "url": "/name/nm0000265/"
+        },
+        {
+            "@type": "Person",
+            "name": "Barbara Shulgasser",
+            "url": "/name/nm0795694/"
+        }
+    ],
+    "datePublished": "1994-12-25",
+    "description": "A chronicle of the interconnected lives of a group of people in the lead up to Paris Fashion Week.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Altman",
+            "url": "/name/nm0000265/"
+        }
+    ],
+    "duration": "PT2H13M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZWMwN2RiZDQtN2RkNS00YzJkLWI2ODMtODk1MzQxODE4NzU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "female full frontal nudity,public nudity,fashion model,fashion,fashion show",
+    "name": "Prêt-à-Porter",
+    "original_info": {
+        "id": "Ready to Wear_1994",
+        "name": "Ready to Wear",
+        "year": "1994"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "OnlyZuul"
+        },
+        "dateCreated": "2006-08-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0110907/"
+        },
+        "name": "A little too... something",
+        "reviewBody": "I've seen it a couple of times. I understand Altman was maybe trying to create a disjointed, farcial almost surreal type atmosphere, but I found the lack of cohesiveness and clear cut thread annoying and it caused me to not care about the film or its characters. Being just a regular jane and not blessed with 15 or so credits in Film-making at NYU, the subtly of the art was lost on me. I desperately wanted just a little exposition to grab onto, and all the film's inside jokes and vague, obscure references to Italian films I found to be self indulgent. I'm not saying this film was bad - just bad for me. I think he could have pulled off the same feel and frenzied little European farce with a TOUCH more connective tissue in the plot. Not a lot, just a little for the audience to care about the story, the characters and whatnot. The thing I found in the film that I even cared more than a fig about was the Simone storyline.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT2M12S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi198221337",
+        "name": "Ready to Wear",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZmFmZjdhMmUtYTE5OS00MDkzLTgzMjUtYWZmYzNiYTI2NjVhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZmFmZjdhMmUtYTE5OS00MDkzLTgzMjUtYWZmYzNiYTI2NjVhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-10-26T03:42:27Z",
+        "url": "https://www.imdb.com/video/vi198221337/"
+    },
+    "url": "/title/tt0110907/"
+}

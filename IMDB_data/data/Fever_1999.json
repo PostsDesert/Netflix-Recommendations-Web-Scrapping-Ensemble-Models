@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Henry Thomas",
+            "url": "/name/nm0001794/"
+        },
+        {
+            "@type": "Person",
+            "name": "David O'Hara",
+            "url": "/name/nm0641244/"
+        },
+        {
+            "@type": "Person",
+            "name": "Teri Hatcher",
+            "url": "/name/nm0000159/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 750,
+        "ratingValue": 5.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0004008/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0065993/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0000393/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alex Winter",
+            "url": "/name/nm0935664/"
+        }
+    ],
+    "datePublished": "2000-11-30",
+    "description": "A struggling artist (Parker) is implicated in a string of macabre murders.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Alex Winter",
+            "url": "/name/nm0935664/"
+        }
+    ],
+    "duration": "PT1H32M",
+    "genre": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk1MDY4ODM1M15BMl5BanBnXkFtZTcwNzQ4MDkxMQ@@._V1_.jpg",
+    "keywords": "artist,neighbor,macabre,murder,apartment",
+    "name": "Fever",
+    "original_info": {
+        "id": "Fever_1999",
+        "name": "Fever",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Ed-Shullivan"
+        },
+        "dateCreated": "2014-11-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0177769/"
+        },
+        "name": "Bill (Not Ted's) Worst Adventure",
+        "reviewBody": "It took me 14 years since the movie's theatrical release in November 2000 to sit through and watch this film written and directed by Alex Winter (best know for starring as Bill in the two film set Bill& Ted's Excellent Adventure and the movie sequel Bill & Ted's Bogus Journey). For the greater percentage of films that make it out to a general release if the director is also the primary writer, the film will not do well at the box office, and for good reason. Writer's who want to direct, and/or director's who want to write a screenplay have a unique perspective that they want full control to present to their audience. Quite frankly, the audience does not want to see a unique \"artistic perspective\", we want to be entertained.\n\nI read the majority of complimentary reviews of this film that were written a dozen years or so ago, and they all said how talented Alex Winter was as both a writer and director, some comparing his style to Alfred Hitchcock. Oh please, were these reviews written by Alex Winters' close friends and family? If not then roll forward to 14 years later in 2014 and look at Alex winters body of work as either a writer or director and you will see that Hollywood has not been banging down his door with financial backing for any subsequent films.\n\nI rated the film as high as a 4 out of 10 only because of the strong performance of the lead actor Henry Thomas. Unfortunately although Thomas's performance was very real, his face appeared in 95% of the film and his psychotic and delusional behavior was irritating. I also found the lack of any notable musical score presented the film more as a documentary style (which it was not trying to be) than as a thriller. Alex Winter kept throwing in scenes that attempted to provide a film noir, \"Hitchcock\" approach, but in my opinion the film suffered even more so as a result.\n\nAfter 14 years since its release and over 500 viewers scoring this films average rating of 6.1, I believe this is a very generous IMDb score. I will not be recommending this film to anyone to waste their time watching, even with the attractive Teri Hatcher playing Henry Thomas's sane sister.\n\nSome viewers may enjoy this type of film premise of a disturbed young man who experiences dream sequences (or are they real?) and coming in and out of reality but it certainly is not my cup of tea. I say pass on this attempt at film noir. I give it a 4 out of 10 and this is generous only due to the good performance of Henry Thomas.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 4,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Lionsgate Home Entertainment",
+        "duration": "PT1M30S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4221960473",
+        "name": "Fever",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDM1MTQ3ZDUtY2QxNy00MmI0LWFlZDYtZmEzZmRlYmIzYzI0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDM1MTQ3ZDUtY2QxNy00MmI0LWFlZDYtZmEzZmRlYmIzYzI0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:06:00Z",
+        "url": "https://www.imdb.com/video/vi4221960473/"
+    },
+    "url": "/title/tt0177769/"
+}

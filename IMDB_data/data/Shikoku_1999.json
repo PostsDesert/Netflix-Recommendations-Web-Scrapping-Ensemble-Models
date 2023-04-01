@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Yui Natsukawa",
+            "url": "/name/nm0622407/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michitaka Tsutsui",
+            "url": "/name/nm0875487/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chiaki Kuriyama",
+            "url": "/name/nm0475752/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 722,
+        "ratingValue": 5.4,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023391/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0210568/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0008740/"
+        },
+        {
+            "@type": "Person",
+            "name": "Masako Bando",
+            "url": "/name/nm0051760/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kunimi Manda",
+            "url": "/name/nm0541588/"
+        },
+        {
+            "@type": "Person",
+            "name": "Takenori Sentô",
+            "url": "/name/nm0784540/"
+        }
+    ],
+    "datePublished": "1999-01-23",
+    "description": "Years after moving to Tokyo with her parents, Hinako returns to her hometown in rural Shikoku. She soon learns that her childhood friend, Sayuri, died several years ago and that Sayuri's mother, who used to perform seances and exo...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Shunichi Nagasaki",
+            "url": "/name/nm0619170/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Horror",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODdjM2U3YTQtNjk5NC00MjFjLTk0OTgtZGM4NjNiMjY3MDgwXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_.jpg",
+    "keywords": "supernatural power,psychotronic film,ghost,witchcraft,island",
+    "name": "Shikoku",
+    "original_info": {
+        "id": "Shikoku_1999",
+        "name": "Shikoku",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Atavisten"
+        },
+        "dateCreated": "2005-05-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0213245/"
+        },
+        "name": "Shinto priestess resurrecting her daughter",
+        "reviewBody": "This has an interesting story based on the shinto-religion. The island Shikoku has 88 temples and every year the priest go to each one of them in a certain order to make sure the people will prosper the following year (or similar), one priestess who lost her daughter walks the route the opposite way the same number that her daughter was old in order to resurrect her.\n\nIt begins very creepy when a woman returns from the city to visit her childhood village. It then turns into a mystery investigation delivering something else than what was promised. Recommended for horror fans.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0213245/"
+}

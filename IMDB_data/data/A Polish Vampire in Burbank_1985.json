@@ -1,0 +1,84 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mark Pirro",
+            "url": "/name/nm0685314/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lori Sutton",
+            "url": "/name/nm0840355/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bobbi Dorsch",
+            "url": "/name/nm0234115/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 325,
+        "ratingValue": 4.9,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0030471/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Pirro",
+            "url": "/name/nm0685314/"
+        }
+    ],
+    "datePublished": "1983-10-31",
+    "description": "A somewhat reluctant vampire is taken out by his sexpot sister for his first \"night out on the town.\"",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mark Pirro",
+            "url": "/name/nm0685314/"
+        }
+    ],
+    "duration": "PT1H20M",
+    "genre": [
+        "Comedy",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNmMyNGZkOTgtYjE3ZC00NmEwLWIyMTAtYzhlMmUyODFkMDUyXkEyXkFqcGdeQXVyMDQwNzMzMQ@@._V1_.jpg",
+    "keywords": "supernatural power,psychotronic film,satire comedy,parody comedy,sister",
+    "name": "A Polish Vampire in Burbank",
+    "original_info": {
+        "id": "A Polish Vampire in Burbank_1985",
+        "name": "A Polish Vampire in Burbank",
+        "year": "1985"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Dess1ok"
+        },
+        "dateCreated": "2002-11-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0089823/"
+        },
+        "name": "A Low-Budget Classic!",
+        "reviewBody": "I used to watch this when \"USA Up All Night\" was still on the air (Gilbert Gottfried and those timeless B-movies). You can actually order this movie directly from the company (Pirromount Pictures) for about $19.99.\n\nIs it perfect? No, but it's the most fun you'll have watching something put together on a less-than-shoestring budget. There are some really funny scenes in here, and some classic lines. In my opinion, it's better than anything Troma ever released.\n\n8/10.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0089823/"
+}

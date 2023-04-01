@@ -1,0 +1,117 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Arnold Schwarzenegger",
+            "url": "/name/nm0000216/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Belushi",
+            "url": "/name/nm0000902/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Boyle",
+            "url": "/name/nm0001967/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 72783,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0094459/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0116594/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0011303/"
+        },
+        {
+            "@type": "Person",
+            "name": "Walter Hill",
+            "url": "/name/nm0001353/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harry Kleiner",
+            "url": "/name/nm0459067/"
+        },
+        {
+            "@type": "Person",
+            "name": "Troy Kennedy-Martin",
+            "url": "/name/nm0448392/"
+        }
+    ],
+    "datePublished": "1988-06-17",
+    "description": "A tough Russian policeman is forced to partner up with a cocky Chicago police detective when he is sent to Chicago to apprehend a Georgian drug lord who killed his partner and fled the country.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Walter Hill",
+            "url": "/name/nm0001353/"
+        }
+    ],
+    "duration": "PT1H44M",
+    "genre": [
+        "Action",
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDkwMTJlMGMtMGJmMy00Mjg2LWEwOWEtZTAxNzQxMmVjYzVkXkEyXkFqcGdeQXVyNjc2NDI1ODA@._V1_.jpg",
+    "keywords": "drug dealer,buddy cop,russian abroad,murder of a police officer,shootout",
+    "name": "Red Heat",
+    "original_info": {
+        "id": "Red Heat_1988",
+        "name": "Red Heat",
+        "year": "1988"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "alexpeychev"
+        },
+        "dateCreated": "2021-01-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0095963/"
+        },
+        "name": "They don't make'em like this anymore...",
+        "reviewBody": "Arnie's best days are long gone but here, he gets to shine, maybe because the character of Danko perfectly matches his sometimes \"wooden\" performance. It's definitely one of his strongest roles. it's a movie that has clichés and the story is nothing extraordinary, but the movie works well and is entertaining every time, even if you know what's going to happen.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "text os",
+        "duration": "PT30S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi545456409",
+        "name": "Red Heat",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYmM2NDk2MWMtMzlmYS00ZWMzLWI3NmYtZGZlNzdkMmIxNGE2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYmM2NDk2MWMtMzlmYS00ZWMzLWI3NmYtZGZlNzdkMmIxNGE2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:50:47Z",
+        "url": "https://www.imdb.com/video/vi545456409/"
+    },
+    "url": "/title/tt0095963/"
+}

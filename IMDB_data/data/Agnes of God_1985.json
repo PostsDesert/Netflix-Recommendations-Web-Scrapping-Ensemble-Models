@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jane Fonda",
+            "url": "/name/nm0000404/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anne Bancroft",
+            "url": "/name/nm0000843/"
+        },
+        {
+            "@type": "Person",
+            "name": "Meg Tilly",
+            "url": "/name/nm0000672/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7737,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0082000/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Pielmeier",
+            "url": "/name/nm0682196/"
+        }
+    ],
+    "datePublished": "1985-09-27",
+    "description": "When a naive novice nun is discovered with a dead newborn in her convent quarters, a court-appointed psychiatrist investigates her case.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Norman Jewison",
+            "url": "/name/nm0422484/"
+        }
+    ],
+    "duration": "PT1H38M",
+    "genre": [
+        "Drama",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjcyYWUxNTQtODM5YS00NzkyLTlkODEtMDVlZGYzZjRiZjk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "watching tv,reference to the hindenburg,god in title,screenplay adapted by author,cigarette",
+    "name": "Agnes of God",
+    "original_info": {
+        "id": "Agnes of God_1985",
+        "name": "Agnes of God",
+        "year": "1985"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "er-guille"
+        },
+        "dateCreated": "2007-01-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0088683/"
+        },
+        "name": "An Excellent Movie",
+        "reviewBody": "I saw this movie for the first time with a group of friends in a special show at midnight. We had just seen an awful movie called \"A Hot Party\" and were so mad. I picked up a torn newspaper from the floor and saw the ad for this special show. We decided on the spot that nothing could be worse than what we just saw and went over. Great Choice!. Fonda's character is so full of conflicts, but her struggle to keep objectivity is showed masterfully, Ann Bancroft is great as the Mother Superior, supportive of her flock, and protective; but trying to help the good doctor as a way to extricate Agnes (Meg Tilly) from her \"delusions\". And Meg Tilly, what a find she was for us. The photography, with dominating earthy colors, delivers the ambient of the movie in such a beautiful way.\n\nI can say that this is clearly, one of the best movies I've ever seen. Highly recommended.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M44S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1586216985",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDQ2MWNlZTItZjkxNi00YmNiLTgxYWYtY2M3ZDRkYTMyYjNlXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDQ2MWNlZTItZjkxNi00YmNiLTgxYWYtY2M3ZDRkYTMyYjNlXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-04-06T17:44:27.128Z",
+        "url": "https://www.imdb.com/video/vi1586216985/"
+    },
+    "url": "/title/tt0088683/"
+}

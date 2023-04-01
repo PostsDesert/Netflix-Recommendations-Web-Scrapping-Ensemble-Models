@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Nicolas Cage",
+            "url": "/name/nm0000115/"
+        },
+        {
+            "@type": "Person",
+            "name": "Adam Beach",
+            "url": "/name/nm0063440/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Stormare",
+            "url": "/name/nm0001780/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 70809,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007143/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0038408/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Rice",
+            "url": "/name/nm0723468/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joe Batteer",
+            "url": "/name/nm0061337/"
+        }
+    ],
+    "datePublished": "2002-06-14",
+    "description": "Two U.S. Marines in World War II are assigned to protect Navajo Marines, who use their native language as an unbreakable radio cypher.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Woo",
+            "url": "/name/nm0000247/"
+        }
+    ],
+    "duration": "PT2H14M",
+    "genre": [
+        "Action",
+        "Drama",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYWU3NmIzMmQtZjE2Mi00NDlkLWI2NDMtZWZmYjUxZWRiZDZiL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "navajo indian,year 1944,saipan,military,japanese army",
+    "name": "Windtalkers",
+    "original_info": {
+        "id": "Windtalkers_2002",
+        "name": "Windtalkers",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "rah25"
+        },
+        "dateCreated": "2003-11-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0245562/"
+        },
+        "name": "Great action sequences but little emphasis on story",
+        "reviewBody": "When watching the trailer of Windtalkers, one gets the impression that this film is about the Navajo indians and how their native language was used to create a code that could not be broken by the Japanese. However, it turns out that this film is really about a white army seargeant (Nicolas Cage) and how he eventually befriends the codetalker (Adam Beach) that he is responsible for protecting.\n\nDirector John Woo doesn't disappoint with the action sequences. All of them are breathtaking and highly detailed. However, all of this action tends to take away the emphasis on the story. No matter, the scenes that show the developing friendship between the two seargeants (Cage and Christian Slater) and the codetalkers (Beach and Roger Willie) gives Windtalkers its heart. (7/10)",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Directors Cut, Post",
+        "duration": "PT1M10S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2879718681",
+        "name": "Windtalkers",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNGY5MzNlMWEtMmRhYS00ZWFmLTliZjItNzcyYjYwMjkyMmFjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNGY5MzNlMWEtMmRhYS00ZWFmLTliZjItNzcyYjYwMjkyMmFjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-10-31T06:52:29Z",
+        "url": "https://www.imdb.com/video/vi2879718681/"
+    },
+    "url": "/title/tt0245562/"
+}

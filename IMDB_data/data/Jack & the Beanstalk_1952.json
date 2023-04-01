@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tom Cruise",
+            "url": "/name/nm0000129/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rosamund Pike",
+            "url": "/name/nm0683253/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Jenkins",
+            "url": "/name/nm0420955/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 347779,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0152219/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0769768/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lee Child",
+            "url": "/name/nm1676193/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christopher McQuarrie",
+            "url": "/name/nm0003160/"
+        }
+    ],
+    "datePublished": "2012-12-21",
+    "description": "A homicide investigator digs deeper into a case involving a trained military sniper responsible for a mass shooting.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Christopher McQuarrie",
+            "url": "/name/nm0003160/"
+        }
+    ],
+    "duration": "PT2H10M",
+    "genre": [
+        "Action",
+        "Mystery",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM1NjUxMDI3OV5BMl5BanBnXkFtZTcwNjg1ODM3OA@@._V1_.jpg",
+    "keywords": "sniper,coma,action hero,murder mystery,brawl",
+    "name": "Jack Reacher",
+    "original_info": {
+        "id": "Jack & the Beanstalk_1952",
+        "name": "Jack & the Beanstalk",
+        "year": "1952"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Bruce722"
+        },
+        "dateCreated": "2013-05-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0790724/"
+        },
+        "name": "Great film.",
+        "reviewBody": "Jack Reacher was a surprisingly fantastic film. I went in thinking, thanks to some slightly misleading trailers, that this was going to be a high octane action movie with a bunch of gun fights, car chases, and explosions but little development and quality. I was completely wrong. While there were a few gun fights, one car chase, and an explosion of sorts, it was done in a completely different manner and was more of an action thriller. Tom Cruise did a great job in his typical role. The rest of the supporting cast was solid enough and the cameo by Robert Duvall was awesome. The plot developed really well and made it more of a \"thinking movie\" than I anticipated. That being said, the turns in the plot kept the film from becoming stagnant or boring and the action sequences felt real and authentic. I wasn't a huge fan of some of the cinematic elements and there were some flaws in one of the plot twists but nothing that really hurt the movie-watching experience. All-in-all, I'd say this was a great movie that most people would very much enjoy watching.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A homicide investigator digs deeper into a case involving a trained military sniper who shot five random victims.\r\n",
+        "duration": "PT2M26S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1158194201",
+        "name": "U.S. Version #2",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjI2NzA4NjU0NV5BMl5BanBnXkFtZTcwMDM4MzI2OA@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjI2NzA4NjU0NV5BMl5BanBnXkFtZTcwMDM4MzI2OA@@._V1_.jpg",
+        "uploadDate": "2012-10-19T09:04:24Z",
+        "url": "https://www.imdb.com/video/vi1158194201/"
+    },
+    "url": "/title/tt0790724/"
+}

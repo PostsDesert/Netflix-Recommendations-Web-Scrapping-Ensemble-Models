@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Diane Keaton",
+            "url": "/name/nm0000473/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jessica Lange",
+            "url": "/name/nm0001448/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sissy Spacek",
+            "url": "/name/nm0000651/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4257,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0046277/"
+        },
+        {
+            "@type": "Person",
+            "name": "Beth Henley",
+            "url": "/name/nm0377107/"
+        }
+    ],
+    "datePublished": "1987-01-23",
+    "description": "Three southern sisters try to come to grips with the meaning of their mother's suicide.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bruce Beresford",
+            "url": "/name/nm0000915/"
+        }
+    ],
+    "duration": "PT1H45M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYWI5NTAyYjctYjM5Mi00MTJhLThiMGItN2I1NmY3NDJkYzJmXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",
+    "keywords": "woman puts on pantyhose,friendship between women,female stockinged feet,female stockinged legs,pantyhose",
+    "name": "Crimes of the Heart",
+    "original_info": {
+        "id": "Crimes of the Heart_1986",
+        "name": "Crimes of the Heart",
+        "year": "1986"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "julieannerosner"
+        },
+        "dateCreated": "2006-05-05",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0090886/"
+        },
+        "name": "Amazing movie!!",
+        "reviewBody": "Based on the successful play this film gathered an ensemble of some of the most talented actors and actresses of our time, which includes Sissy Spacek, Sam Shepard, Tess Harper, Diane Keaton, and Jessica Lange. Taking place in the south, we follow the story of a family's relationship and how they are dealing with their sister shooting her husband. With the strong female cast we can't help but to feel their pain through their emotions, relationship with each other, and how they deal with life. Great strong character choices, yet sisters with something even greater in common....love of family, and loyalty. There are many lessons to learn in this film and one of the most important is you can't turn your back on your family, even when you run away they will be there for you. The acting is superb, the honesty is great and in all a wonderful film to see. A true classic and if you haven't seen the play, read it or rented it.....do it now...you won't be disappointed.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M46S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3011297561",
+        "name": "Trailer [EN]",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNGI3NmEwMTgtNGUxYy00YTlhLWI1ODEtNjkxYmQxMjVjNTU0XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNGI3NmEwMTgtNGUxYy00YTlhLWI1ODEtNjkxYmQxMjVjNTU0XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-01-19T21:21:57.550Z",
+        "url": "https://www.imdb.com/video/vi3011297561/"
+    },
+    "url": "/title/tt0090886/"
+}

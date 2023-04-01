@@ -1,0 +1,58 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Nancy Barrett",
+            "url": "/name/nm0057235/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joel Crothers",
+            "url": "/name/nm0189402/"
+        },
+        {
+            "@type": "Person",
+            "name": "Louis Edmonds",
+            "url": "/name/nm0249500/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 17,
+        "ratingValue": 8.3,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0076023/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Pierson",
+            "url": "/name/nm0682772/"
+        }
+    ],
+    "description": "Dark Shadows star Nancy Barrett conducts a tour of locations used for exteriors for the TV series.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jim Pierson",
+            "url": "/name/nm0682772/"
+        }
+    ],
+    "genre": [
+        "Documentary",
+        "Short"
+    ],
+    "name": "Dark Shadows on Location",
+    "original_info": {
+        "id": "Dark Shadows_1999",
+        "name": "Dark Shadows",
+        "year": "1999"
+    },
+    "url": "/title/tt0448210/"
+}

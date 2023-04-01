@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Paul Newman",
+            "url": "/name/nm0000056/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dwight Schultz",
+            "url": "/name/nm0776239/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bonnie Bedelia",
+            "url": "/name/nm0000889/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 8040,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0061600/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bruce Robinson",
+            "url": "/name/nm0732430/"
+        },
+        {
+            "@type": "Person",
+            "name": "Roland Joffé",
+            "url": "/name/nm0423646/"
+        }
+    ],
+    "datePublished": "1989-10-20",
+    "description": "This film reenacts the Manhattan Project, the secret wartime project in New Mexico where the first atomic bombs were designed and built.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Roland Joffé",
+            "url": "/name/nm0423646/"
+        }
+    ],
+    "duration": "PT2H7M",
+    "genre": [
+        "Biography",
+        "Drama",
+        "History"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMmUzNjY5NTAtODExZi00MDM5LWE0OGQtOWI0NGI3OTYzNmI3XkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_.jpg",
+    "keywords": "demon core,new mexico desert,new mexico,colonel,physicist",
+    "name": "Fat Man and Little Boy",
+    "original_info": {
+        "id": "Fat Man and Little Boy_1989",
+        "name": "Fat Man and Little Boy",
+        "year": "1989"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "pswitzertatum"
+        },
+        "dateCreated": "2004-11-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0097336/"
+        },
+        "name": "Weird and Compelling",
+        "reviewBody": "This is a weird and compelling film. The topic, about the atom bombs created at Los Alamos, NM in the USA and used on Japan during the latter part of World War II, is huge, and of course deeply disturbing. The film's plot takes on a lot of heavy issues and the actors have to carry much of the creative tension. I had never seen the film, or was much interested in it I have to admit, until I read the book \"Smoking in Bed: Conversations with Bruce Robinson.\" Robinson wrote the story and screenplay. I think the film was better than I expected from reading Robinson's point of view in the conversations about it, but I can see how he thought it got derailed. I think Paul Newman is pretty good, but is somehow at bottom, miscast. He's too Hollywood. At one point, a big, mean-looking guy storms into Newman's office and has such a striking presence, I immediately thought he should be playing the character Newman is playing. The other lead, who plays the head scientist, is also fairly good, but somehow not brilliant enough to portray the huge angst that goes with the part - the immense responsibility for creation of an ultimate machine of death and destruction. One of the more effective characters seems to be a composite personality, played by John Cusack. He is oddly affecting throughout, and in the end, is the character whose fate really hits home and who made me think most vividly of the fate of more than 200,000 Japanese people in Hiroshima and Nagasaki.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Paramount",
+        "duration": "PT3M8S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2460352793",
+        "name": "Fat Man and Little Boy",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMWU5MzgwYmYtNDQ3ZS00ODU4LTkyNWEtMGUyYTAzYmMzYTc0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMWU5MzgwYmYtNDQ3ZS00ODU4LTkyNWEtMGUyYTAzYmMzYTc0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:04:50Z",
+        "url": "https://www.imdb.com/video/vi2460352793/"
+    },
+    "url": "/title/tt0097336/"
+}

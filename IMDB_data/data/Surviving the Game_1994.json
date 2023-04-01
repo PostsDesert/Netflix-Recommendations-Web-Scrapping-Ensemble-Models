@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Rutger Hauer",
+            "url": "/name/nm0000442/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ice-T",
+            "url": "/name/nm0001384/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles S. Dutton",
+            "url": "/name/nm0001165/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 12353,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0046718/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0001803/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0185420/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eric Bernt",
+            "url": "/name/nm0077171/"
+        }
+    ],
+    "datePublished": "1994-04-15",
+    "description": "A homeless man is hired as a survival guide for a group of wealthy businessmen on a hunting trip in the mountains, unaware that they are killers who hunt humans for sport, and that he is their new prey.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ernest R. Dickerson",
+            "url": "/name/nm0225416/"
+        }
+    ],
+    "duration": "PT1H36M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYWVhODdmOTYtODU0Ny00NTAxLWI4MjItMzIwNTE1MmIyMWVlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "human hunting a human,human prey,most dangerous game,snow adventure,homeless man",
+    "name": "Surviving the Game",
+    "original_info": {
+        "id": "Surviving the Game_1994",
+        "name": "Surviving the Game",
+        "year": "1994"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Brad K."
+        },
+        "dateCreated": "1998-08-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0111323/"
+        },
+        "name": "Modern version of the Most Dangerous Game, where a human is hunted for sport.",
+        "reviewBody": "Entertaining movie, especially for the fans of the short story, The Most Dangerous Game. Rapper/Actor Ice-T (Richochet, New Jack City) is a homeless man hired by a bunch of rich people to help them in their hunt. Soon he realizes that he is the prey. The rich hunters are led by Rutger Hauer (Nighthawks, Mr. Stich). The hunters are equipped with different types of guns and smaller vehicles, while Ice-T is forced to use his street smarts to beat them in the secluded wilderness. The other hunters include Gary Busey (Point Break, Lost Highway), F. Murray Abraham (Amadeus, Mimic), Charles S. Dutton (Rudy, Alien 3), and John McGilney (The Rock, Nothing To Lose). This is a fast paced movie, although the first half hour is mainly character development for Ice-T. It is very entertaining, the script's dialogue is fairly poor, but who cares in an action movie. Ice-T does a good job at making you want him to win. Rutger Hauer, Charles S. Dutton, F. Murray Abraham are all good at being evil, but the best performance of the bad guys is John McGilney who has an extra reason to want to kill a homeless man. The movie is a solid hour and a half of entertainment, but don't be expecting anything more."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4271112473",
+        "name": "Surviving The Game",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZmE2OGY1MjQtMWFmYi00ZjUwLTg3MmItYTA1ZTk3MmIzYzZhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZmE2OGY1MjQtMWFmYi00ZjUwLTg3MmItYTA1ZTk3MmIzYzZhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:56:17Z",
+        "url": "https://www.imdb.com/video/vi4271112473/"
+    },
+    "url": "/title/tt0111323/"
+}

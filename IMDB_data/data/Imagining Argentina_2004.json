@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Antonio Banderas",
+            "url": "/name/nm0000104/"
+        },
+        {
+            "@type": "Person",
+            "name": "Emma Thompson",
+            "url": "/name/nm0000668/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rubén Blades",
+            "url": "/name/nm0001952/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3455,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0018036/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0051527/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0033226/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lawrence Thornton",
+            "url": "/name/nm1844740/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christopher Hampton",
+            "url": "/name/nm0358960/"
+        }
+    ],
+    "datePublished": "2004-04-16",
+    "description": "A man has the power to see the fate of missing people - with the exception of his own beloved wife.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Christopher Hampton",
+            "url": "/name/nm0358960/"
+        }
+    ],
+    "duration": "PT1H47M",
+    "genre": [
+        "Drama",
+        "Romance",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDBjMjQ2MmQtYjI1Mi00Yjc2LWI5NTUtYThlYTg5NGFiZDA1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",
+    "keywords": "clipping a hedge,operation condor,tongue cut out,the disappeared,military",
+    "name": "Imagining Argentina",
+    "original_info": {
+        "id": "Imagining Argentina_2004",
+        "name": "Imagining Argentina",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "secondtake"
+        },
+        "dateCreated": "2010-09-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0314197/"
+        },
+        "name": "Some of the worst Latin American crueltly, imperfectly presented",
+        "reviewBody": "Imagining Argentina (2003)\n\nThe story, and the facts behind the story, of innocent people being kidnapped, tortured, and killed in Argentina is so disturbing and emotionally draining it's hard to see this movie objectively. I wish it was a better movie, both in its construction (the filming and editing) and in the storytelling decisions (too much emphasis on empty searching, and too much torture, even after we get the point).\n\nCruelty needs no sympathy, and this movie gives it none. But it gives it attention, offering only a solution in perseverance and romantic love. There are lots of evocative scenes of dancing and music, of wide open countryside, and of warmly lit interiors. It paints a picture of a beautiful country with a beautiful culture, just to show how a small tilt in a great place can turn to horrors.\n\nThe final statistics of all the people \"disappeared\" under the Argentine dictatorship is an indictment of cruel dictators. The movie serves to remind us, and to paint the horrors, and it goes half way. I wish it had been a poetic, or raw, or inventive success as well.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0314197/"
+}

@@ -1,0 +1,116 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bruce Willis",
+            "url": "/name/nm0000246/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Atherton",
+            "url": "/name/nm0040472/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bonnie Bedelia",
+            "url": "/name/nm0000889/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 368961,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0119038/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0019968/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steven E. de Souza",
+            "url": "/name/nm0211823/"
+        },
+        {
+            "@type": "Person",
+            "name": "Doug Richardson",
+            "url": "/name/nm0724514/"
+        },
+        {
+            "@type": "Person",
+            "name": "Walter Wager",
+            "url": "/name/nm0905709/"
+        }
+    ],
+    "datePublished": "1990-07-03",
+    "description": "John McClane attempts to avert disaster as rogue military operatives seize control of Dulles International Airport in Washington, D.C.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Renny Harlin",
+            "url": "/name/nm0001317/"
+        }
+    ],
+    "duration": "PT2H4M",
+    "genre": [
+        "Action",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzMzYzk3ZTEtZDg0My00MTY5LWE3ZmQtYzNhYjhjN2RhZGRjL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "keywords": "courage,gun battle,heroism,good versus evil,tragic event",
+    "name": "Die Hard 2",
+    "original_info": {
+        "id": "Die Hard 2: Die Harder: Bonus Material_1990",
+        "name": "Die Hard 2: Die Harder: Bonus Material",
+        "year": "1990"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "axlrhodes"
+        },
+        "dateCreated": "2008-09-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0099423/"
+        },
+        "name": "A solid sequel",
+        "reviewBody": "Like the Lethal Weapon films of the late 80's and early 90's i found the Die Hard films to be very satisfying action entertainment.Much seems to be made of this sequel being inferior to its predecessor but i thought that it matched Die Hard for scale and has some breathtaking moments of action.Bruce Willis is still on top form as our hero and the airport setting during the busy Christmas period gives the film a positive buzz and a certain sense of hyperactivity.Although the film is missing a villain as much fun as Alan Rickmans Hans Gruber,William Sadler is nonetheless bad enough to hate and actually turns out a lot more ruthless than Gruber.In summary director Renny Harlin has succeeded in making a quick paced film that retains the sense of scale felt in the first film whilst making the most of Bruce Willis comic timing and action man charisma. 8/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer 2 for Die Hard: Die Harder",
+        "duration": "PT1M22S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2417468441",
+        "name": "Die Hard 2: Die Harder",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMmE2MTI4Y2QtNjA0OC00ZTFiLWFjNjUtNzM0YzgwM2VlNDAzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMmE2MTI4Y2QtNjA0OC00ZTFiLWFjNjUtNzM0YzgwM2VlNDAzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2012-10-11T03:13:22Z",
+        "url": "https://www.imdb.com/video/vi2417468441/"
+    },
+    "url": "/title/tt0099423/"
+}

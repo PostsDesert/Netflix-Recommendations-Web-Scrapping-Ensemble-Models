@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tom Hanks",
+            "url": "/name/nm0000158/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robin Wright",
+            "url": "/name/nm0000705/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gary Sinise",
+            "url": "/name/nm0000641/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2115935,
+        "ratingValue": 8.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0024369/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0004317/"
+        },
+        {
+            "@type": "Person",
+            "name": "Winston Groom",
+            "url": "/name/nm0343165/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eric Roth",
+            "url": "/name/nm0744839/"
+        }
+    ],
+    "datePublished": "1994-07-06",
+    "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood swe...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Zemeckis",
+            "url": "/name/nm0000709/"
+        }
+    ],
+    "duration": "PT2H22M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "vietnam war,based on book,based on novel,vietnam,shrimp boat",
+    "name": "Forrest Gump",
+    "original_info": {
+        "id": "Forrest Gump_1994",
+        "name": "Forrest Gump",
+        "year": "1994"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Kirpianuscus"
+        },
+        "dateCreated": "2015-12-22",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0109830/"
+        },
+        "name": "a box of chocolate",
+        "reviewBody": "more than adaptation , it is a visual parable. about vulnerability and its magnificent potential. about innocence and its importance to discover the real essence of life. about love, family, fight and courage. a film like a revolution. because it propose the best manner to be yourself and to not be a victim walking on that way. more than story of Forrest Gump, it is the story of people around him. a film like a Rubick cube - many faces, each for complete right color. and a image who remains its mark - the box of chocolate, the run, the ping - pong match. it seems be the best role of Tom Hanks. in fact, it is definition of a new period after the Cold War. a pledge. about the small things."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer 1 for Forrest Gump",
+        "duration": "PT3M54S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3567517977",
+        "name": "Forrest Gump",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzQyMWQ1ODMtZGE2OS00YzQyLWE2OWYtZmU5OGFiMWMwYmIyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzQyMWQ1ODMtZGE2OS00YzQyLWE2OWYtZmU5OGFiMWMwYmIyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:59:31Z",
+        "url": "https://www.imdb.com/video/vi3567517977/"
+    },
+    "url": "/title/tt0109830/"
+}

@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Paul Newman",
+            "url": "/name/nm0000056/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charlotte Rampling",
+            "url": "/name/nm0001648/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jack Warden",
+            "url": "/name/nm0912001/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 42456,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Person",
+            "name": "Barry Reed",
+            "url": "/name/nm0715312/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Mamet",
+            "url": "/name/nm0000519/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jay Presson Allen",
+            "url": "/name/nm0696319/"
+        }
+    ],
+    "datePublished": "1982-12-17",
+    "description": "An outcast, alcoholic Boston lawyer sees the chance to salvage his career and self-respect by taking a medical malpractice case to trial rather than settling.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Sidney Lumet",
+            "url": "/name/nm0001486/"
+        }
+    ],
+    "duration": "PT2H9M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTFkYTk4MDktMjkwYS00ZmQzLTkzYzItODgyMjZhY2E2ZGI2XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "playing pinball,seeking redemption,coma victim,reference to arizona,legal drama",
+    "name": "The Verdict",
+    "original_info": {
+        "id": "The Verdict_1982",
+        "name": "The Verdict",
+        "year": "1982"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "joseph t"
+        },
+        "dateCreated": "2001-02-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0084855/"
+        },
+        "name": "Newman should have won the Oscar for this one.",
+        "reviewBody": "If Newman hadn't been up against Ghandi, he probably would have. I think the Academy realized their error and Newman's win for The Color of Money was really for his portrayal of Frank Galvin, in this well-done tale of moral decrepitude and ultimate redemption. Writer Mamet and Director Lumet are into heavy symbolism throughout, with the scene of the developing Poloroids of the victim (the case becomes clear in Galvin's mind), to Galvin's pilfering of a woman's mail to run down a lead on a potential witness. The closing statement of Newman's character to the jury is powerful."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from 20th Century Fox",
+        "duration": "PT2M20S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi637272345",
+        "name": "The Verdict",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYWJlMTFkNTUtODhkYS00NmQxLWIwZmItODQ0YjdkNDM2ZDVkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYWJlMTFkNTUtODhkYS00NmQxLWIwZmItODQ0YjdkNDM2ZDVkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:19:23Z",
+        "url": "https://www.imdb.com/video/vi637272345/"
+    },
+    "url": "/title/tt0084855/"
+}

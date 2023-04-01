@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bo Derek",
+            "url": "/name/nm0000137/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Kennedy",
+            "url": "/name/nm0001421/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrea Occhipinti",
+            "url": "/name/nm0643647/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5782,
+        "ratingValue": 3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0010057/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0159707/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Derek",
+            "url": "/name/nm0001135/"
+        }
+    ],
+    "datePublished": "1984-08-31",
+    "description": "Set in the 1920s, a young woman sets out to lose her virginity. Her mission leads her to a Moroccan sheikh and a Spanish bullfighter.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Derek",
+            "url": "/name/nm0001135/"
+        }
+    ],
+    "duration": "PT1H45M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNmUwODYxNTYtNDllMC00MzZlLTlkNDEtNmZhMmNjNDgwMmFiXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",
+    "keywords": "sex scene,sexploitation,woman in a bathtub,bullfighter,public nudity",
+    "name": "Bolero",
+    "original_info": {
+        "id": "Bolero_1984",
+        "name": "Bolero",
+        "year": "1984"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Tito-8"
+        },
+        "dateCreated": "1999-03-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0086987/"
+        },
+        "name": "Not THAT bad",
+        "reviewBody": "While this isn't the disaster that most everyone seems to think that it is, \"Bolero\" is still pretty weak. The storyline is okay, at least it was enough to keep me mildly entertained, but I have to admit that the film was certainly dragged down by Bo's inability to act. The abduction scene towards the end also stands out as rather pathetic, and I was unable to take this movie seriously for the remaining few scenes. In other words, there are serious flaws that hamper this film, and I certainly don't recommend it, but there is no way that this is one of the worst films of the 1980's.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 4,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Bolero",
+        "duration": "PT2M26S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1979167257",
+        "name": "Bolero",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzdjZjYzMjItMjI5My00MjlkLWI4MzYtMDk3M2JjNTM2ZjNiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzdjZjYzMjItMjI5My00MjlkLWI4MzYtMDk3M2JjNTM2ZjNiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2015-11-21T07:09:44Z",
+        "url": "https://www.imdb.com/video/vi1979167257/"
+    },
+    "url": "/title/tt0086987/"
+}

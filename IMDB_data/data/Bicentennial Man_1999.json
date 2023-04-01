@@ -1,0 +1,116 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Robin Williams",
+            "url": "/name/nm0000245/"
+        },
+        {
+            "@type": "Person",
+            "name": "Embeth Davidtz",
+            "url": "/name/nm0001110/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sam Neill",
+            "url": "/name/nm0000554/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 120096,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0049348/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0046151/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Person",
+            "name": "Isaac Asimov",
+            "url": "/name/nm0001920/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Silverberg",
+            "url": "/name/nm0798844/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nicholas Kazan",
+            "url": "/name/nm0443582/"
+        }
+    ],
+    "datePublished": "1999-12-17",
+    "description": "An android endeavors to become human as he gradually acquires emotions.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Chris Columbus",
+            "url": "/name/nm0001060/"
+        }
+    ],
+    "duration": "PT2H12M",
+    "genre": [
+        "Drama",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTU4Nzg5YmItNzE0Yy00Y2VmLWI3OTYtNTFjODEzMDE0YTI4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "robot,hologram,freedom,breaking a figurine,goofball",
+    "name": "Bicentennial Man",
+    "original_info": {
+        "id": "Bicentennial Man_1999",
+        "name": "Bicentennial Man",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "nlebay"
+        },
+        "dateCreated": "2005-01-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0182789/"
+        },
+        "name": "More Depth than Appears on the Surface",
+        "reviewBody": "Most people who have seen this movie are of the opinion that it was average at best. Indeed there is no complicated plot, no big action scenes and a predictable ending but there is a Story. It's Andrew with his Box of Chocolats, simply going through life searching for what eludes him and what we generally take for granted - humanity. The characters along the way are well acted - in particular the robot creator and his ditsy assistant. This movie is a tear jerker as Andrew's friends come and go and lifetimes pass him by without him really comprehending it all. The only real failings were the large gaps in time and how Andrew came about - but then it's difficult to compress 200 years into 1 1/2 hours. If you enjoyed Azimov's books as much as I did, then this movie is for you. Far better in my opinion than IA or I Robot who also took their cues from Azimov.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Touchstone Pictures",
+        "duration": "PT2M42S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi783941913",
+        "name": "Bicentennial Man",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYmEyZjQ1MWEtZjA0My00MzU0LWI3NzctZDIzN2E4ODQwNzc0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYmEyZjQ1MWEtZjA0My00MzU0LWI3NzctZDIzN2E4ODQwNzc0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:33:26Z",
+        "url": "https://www.imdb.com/video/vi783941913/"
+    },
+    "url": "/title/tt0182789/"
+}

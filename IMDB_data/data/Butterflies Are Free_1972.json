@@ -1,0 +1,92 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Goldie Hawn",
+            "url": "/name/nm0000443/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edward Albert",
+            "url": "/name/nm0001902/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eileen Heckart",
+            "url": "/name/nm0373012/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5552,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0041487/"
+        },
+        {
+            "@type": "Person",
+            "name": "Leonard Gershe",
+            "url": "/name/nm0314826/"
+        }
+    ],
+    "description": "A blind man moves into his own apartment against the wishes of his overprotective mother and befriends the freethinking young woman next door.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Milton Katselas",
+            "url": "/name/nm0441501/"
+        }
+    ],
+    "duration": "PT1H49M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzNlZjcwZjgtYzRiMS00YjFmLWFmMTItZjQwN2I1Nzk1NGJhXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",
+    "keywords": "blind man,actress,san francisco california,based on play,apartment",
+    "name": "Butterflies Are Free",
+    "original_info": {
+        "id": "Butterflies Are Free_1972",
+        "name": "Butterflies Are Free",
+        "year": "1972"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Bil-3"
+        },
+        "dateCreated": "2001-03-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0068326/"
+        },
+        "name": "**** One of Goldie's finest moments",
+        "reviewBody": "Need strong proof to support the argument that Goldie Hawn is the finest of actresses? Watch this classic one along with her masterpiece Private Benjamin. In Butterflies she's funny, tragic, serious and as endearing as she could possibly could be as Jill, the wacky new girl in town who finds herself surprised when her neighbour Don (Edward Albert, Eddie Albert's son) reveals to her that he's completely blind. They have lunch, go shopping, get to know each other, and worst of all meet Don's mother. Don't mistake Eileen Heckart or her awards in the role of the domineering matriarch, she ain't just any aging woman playing a mother. The character is annoying, callous, loving and wise and the relationship that develops between the three characters is very moving. All this presented with great dialogue provided by Leonard Gershe (based on his own stage play)."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT2M40S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4061641753",
+        "name": "Butterflies Are Free",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjE4N2NiZDYtNmQzZS00ZTEzLWFlZWQtMmUyOGQzYzExNmJhXkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjE4N2NiZDYtNmQzZS00ZTEzLWFlZWQtMmUyOGQzYzExNmJhXkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg",
+        "uploadDate": "2019-07-06T17:03:57.788Z",
+        "url": "https://www.imdb.com/video/vi4061641753/"
+    },
+    "url": "/title/tt0068326/"
+}

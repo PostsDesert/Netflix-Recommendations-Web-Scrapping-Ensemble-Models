@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mike Binder",
+            "url": "/name/nm0082802/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sonya Walger",
+            "url": "/name/nm0907427/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ivana Milicevic",
+            "url": "/name/nm0587431/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 810,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "TV-MA",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0184723/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0028319/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mike Binder",
+            "url": "/name/nm0082802/"
+        }
+    ],
+    "datePublished": "2001-09-23",
+    "description": "A look at married life through the minds of 3 coworkers.",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI1NDE5MDg5NV5BMl5BanBnXkFtZTcwNzAwMDEzMQ@@._V1_.jpg",
+    "keywords": "life",
+    "name": "The Mind of the Married Man",
+    "original_info": {
+        "id": "The Mind of the Married Man: Season 1_2001",
+        "name": "The Mind of the Married Man: Season 1",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "myfoot"
+        },
+        "dateCreated": "2002-08-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0275520/"
+        },
+        "name": "Generalizes Men",
+        "reviewBody": "I would hate for women to watch this show and think; \"So this is what men are like when us women are not around, how informative.\"\n\n It also hails women as having it 'more together,' and as being smarter than men, just because these particular men are losers. It also seems that on this show, men can't keep from cheating or almost cheating.\n\nIt's just plain sexist in my humble opinion. I feel like the main character is a jackass ambassador speaking on my behalf."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "The Mind Of The Married Man: Season 1",
+        "duration": "PT55S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1426504985",
+        "name": "The Mind Of The Married Man: Season 1",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjZlZjBhOGQtOGM2Zi00OTMyLTk1MjAtZjEyYzg3Zjc3OWM3XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjZlZjBhOGQtOGM2Zi00OTMyLTk1MjAtZjEyYzg3Zjc3OWM3XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2019-04-12T08:21:59.757Z",
+        "url": "https://www.imdb.com/video/vi1426504985/"
+    },
+    "url": "/title/tt0275520/"
+}

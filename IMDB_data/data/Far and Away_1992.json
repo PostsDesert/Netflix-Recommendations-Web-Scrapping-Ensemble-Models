@@ -1,0 +1,94 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tom Cruise",
+            "url": "/name/nm0000129/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nicole Kidman",
+            "url": "/name/nm0000173/"
+        },
+        {
+            "@type": "Person",
+            "name": "Thomas Gibson",
+            "url": "/name/nm0004959/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 65524,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0310123/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bob Dolman",
+            "url": "/name/nm0231190/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ron Howard",
+            "url": "/name/nm0000165/"
+        }
+    ],
+    "datePublished": "1992-05-22",
+    "description": "A young Irish couple flee to the States, but subsequently struggle to obtain land and prosper freely.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ron Howard",
+            "url": "/name/nm0000165/"
+        }
+    ],
+    "duration": "PT2H20M",
+    "genre": [
+        "Adventure",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BN2FiZTMzOGQtODQ2Ny00ZGFlLThiMDgtMTdhMjg4ZWM1MWMzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "keywords": "three word title,voyeurism,voyeur,female voyeur,watching someone sleep",
+    "name": "Far and Away",
+    "original_info": {
+        "id": "Far and Away_1992",
+        "name": "Far and Away",
+        "year": "1992"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "DeathByTelevision"
+        },
+        "dateCreated": "2003-12-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0104231/"
+        },
+        "name": "Underrated storybook of a movie that embraces its cliches",
+        "reviewBody": "If you pay too much attention to the cliches and unlikely situations the characters are placed, you really miss the charm of this movie. I can see how people would be put off if they were expecting a serious historical reenactment. Still, I believe that Ron Howard fully meant for this to be a fully romanticized account of the time. This movie works in many of the ways Titanic does, and I think it does it more effectively. Still, with Titanic, most people seemed more than willing to overlook the absurdities. With Far and Away, I don't think Ron Howard was trying to trick us or dumb us down. I don't think he was ever trying to underestimate the intelligence of his viewers. I think he was asking us to follow him and trust him as he told a story. I enjoyed it. Kidman and Cruise were both fun to watch. The supporting cast, although they did seem like they came from a comic book, were entertaining. I hope this movie has life on cable and DVD.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0104231/"
+}

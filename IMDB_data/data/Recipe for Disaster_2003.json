@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Larroquette",
+            "url": "/name/nm0488662/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lesley Ann Warren",
+            "url": "/name/nm0000690/"
+        },
+        {
+            "@type": "Person",
+            "name": "Melissa Peterman",
+            "url": "/name/nm0676292/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 369,
+        "ratingValue": 4.6,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0014905/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0071430/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Propp",
+            "url": "/name/nm1259613/"
+        }
+    ],
+    "datePublished": "2004-01-16",
+    "description": "Rebecca Korda and her two brothers, Sam and Max, are left alone on opening night of their family-owned restaurant.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Harvey Frost",
+            "url": "/name/nm0296501/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Comedy",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY5MTkyNzgzNF5BMl5BanBnXkFtZTcwMDgwOTc2NA@@._V1_.jpg",
+    "keywords": "restaurant,opening night,child protagonist,three word title,neighbor",
+    "name": "Recipe for Disaster",
+    "original_info": {
+        "id": "Recipe for Disaster_2003",
+        "name": "Recipe for Disaster",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jayraskin1"
+        },
+        "dateCreated": "2006-08-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0332343/"
+        },
+        "name": "Imitation 60's Disney Slapstick",
+        "reviewBody": "This movie is a series of slapstick gags mostly set within a restaurant. The first half seems quite mean-spirited and uninvolving, while the second half does capture a spirit of zaniness that makes it watchable if not very enjoyable.\n\nMargo Harshman and Michelle Brookhurst do a good job as the protagonist and antagonist and can look forward hopefully to better things. John Larraquette and Leslie Ann Warren have done better things and hopefully will look on this as the low point of their distinguished careers.\n\nI think the target audience for the film is kids 8-12 years old. They might enjoy some of it. Adults will be bored rather than amused.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 3,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0332343/"
+}

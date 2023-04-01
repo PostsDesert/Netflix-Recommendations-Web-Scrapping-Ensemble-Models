@@ -1,0 +1,116 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Alessandro Gassmann",
+            "url": "/name/nm0309348/"
+        },
+        {
+            "@type": "Person",
+            "name": "Francesca d'Aloja",
+            "url": "/name/nm0195017/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carlo Cecchi",
+            "url": "/name/nm0147605/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6895,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "alternateName": "Steam: The Turkish Bath",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0056302/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0027914/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0079517/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ferzan Özpetek",
+            "url": "/name/nm0654858/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stefano Tummolini",
+            "url": "/name/nm0876545/"
+        },
+        {
+            "@type": "Person",
+            "name": "Aldo Sambrell",
+            "url": "/name/nm0759757/"
+        }
+    ],
+    "datePublished": "1998-11-25",
+    "description": "Francesco inherits an old palace from a Turkish aunt and moves to Istanbul to renovate it.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ferzan Özpetek",
+            "url": "/name/nm0654858/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTBiNzFjMjUtMmExNS00MTY4LWExZDAtODIzNWIwNDM2YmRkXkEyXkFqcGdeQXVyMzIzNDU1NTY@._V1_.jpg",
+    "keywords": "cell phone,year 1995,restore turkish bath,interior design,italian man",
+    "name": "Hamam",
+    "original_info": {
+        "id": "Steam: The Turkish Bath_1997",
+        "name": "Steam: The Turkish Bath",
+        "year": "1997"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "richard-276"
+        },
+        "dateCreated": "2002-05-31",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0119248/"
+        },
+        "name": "Subtle, smart, art",
+        "reviewBody": "I like a movie that has a distinct climax, yet is easy to overlook or perhaps miss altogether. The climax of Hamam is when Francesco hands his wife the letters from his aunt and asks that she send them back when she's finished reading them. It is a seemingly small, inconsequential gesture -- but an act of conviction that describes a person's inner workings far more than could ever be achieved with an abundance of words. It is truly a beautiful moment -- one of many -- and a reason this is a film worth viewing.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Strand Releasing",
+        "duration": "PT35S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi998637849",
+        "name": "Steam",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYmExMDEzYzEtOTYzNS00ODEwLWE4OGMtM2Y2MjE2ZmI0ZDRiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYmExMDEzYzEtOTYzNS00ODEwLWE4OGMtM2Y2MjE2ZmI0ZDRiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:59:31Z",
+        "url": "https://www.imdb.com/video/vi998637849/"
+    },
+    "url": "/title/tt0119248/"
+}

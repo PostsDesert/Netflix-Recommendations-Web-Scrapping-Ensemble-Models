@@ -1,0 +1,77 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Peter Murphy",
+            "url": "/name/nm0614626/"
+        },
+        {
+            "@type": "Person",
+            "name": "Daniel Ash",
+            "url": "/name/nm0038622/"
+        },
+        {
+            "@type": "Person",
+            "name": "David J",
+            "url": "/name/nm0412882/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 136,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "Unrated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0049692/"
+        }
+    ],
+    "description": "A taping of the band's concert at the Roseland Ballroom in New York City during their 1998 reunion tour.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Edward Ryan",
+            "url": "/name/nm0752525/"
+        }
+    ],
+    "duration": "PT1H5M",
+    "genre": [
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg2NzQ3NTU0Ml5BMl5BanBnXkFtZTcwNTY3ODY5MQ@@._V1_.jpg",
+    "keywords": "live performance,concert film",
+    "name": "Bauhaus: Gotham",
+    "original_info": {
+        "id": "Bauhaus: Gotham_1998",
+        "name": "Bauhaus: Gotham",
+        "year": "1998"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "roarvis"
+        },
+        "dateCreated": "2009-05-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0282375/"
+        },
+        "name": "Barely Adequate Document of a Great Band",
+        "reviewBody": "Being a fan of Bauhaus, I really wanted to like this DVD. Maybe if I had seen it when it was first released I might have been more impressed. The reality is that this is a poorly produced DVD that needs to be remastered. The full frame (1:33) aspect ratio does not cut it, nor does the flat audio. The picture was grainy on my HDTV, and I had to crank up the subwoofer to hear David J's awesome bass lines.\n\nI'm not a technofile, I still own lots of VHS tapes and am fine with analogue technology - but this disc looks like crap. The footage is grainy, and the visual effects are cheesy.\n\nOtherwise, it's Bauhaus at the top of their game. \"All We Ever Wanted\" was definitely the highlight of their set for me. My only other complaint is the lack of extras, specifically additional songs. Are these the only tunes Bauhaus played on their reunion tour? I was really hoping to hear more than one song off The Sky's Gone Out (like \"Silent Hedges,\" which appears on the soundtrack album, \"Third Uncle\" or the good version of \"Spirit\").\n\nI don't think it would be milking their fanbase to release another live DVD, or at least remaster this one. Bauhaus deserves a better testament.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0282375/"
+}

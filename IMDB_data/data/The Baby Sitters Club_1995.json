@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Schuyler Fisk",
+            "url": "/name/nm0004922/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bre Blair",
+            "url": "/name/nm0086205/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rachael Leigh Cook",
+            "url": "/name/nm0000337/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5951,
+        "ratingValue": 5.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0064908/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0097246/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ann M. Martin",
+            "url": "/name/nm0551923/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dalene Young",
+            "url": "/name/nm0949430/"
+        }
+    ],
+    "datePublished": "1995-08-18",
+    "description": "Seven junior-high-school girls organize a daycare camp for children while at the same time experiencing classic adolescent growing pains.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Melanie Mayron",
+            "url": "/name/nm0563039/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNWY3MmIxYTItY2RhMy00ZGRkLTkwMTEtZGE0OTcxMjgxN2U3XkEyXkFqcGdeQXVyNTM5NzI0NDY@._V1_.jpg",
+    "keywords": "cake,blowing out a candle,friendship,female protagonist,diabetes",
+    "name": "The Baby-Sitters Club",
+    "original_info": {
+        "id": "The Baby Sitters Club_1995",
+        "name": "The Baby Sitters Club",
+        "year": "1995"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "indiewastelander"
+        },
+        "dateCreated": "2001-09-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0112435/"
+        },
+        "name": "Cute, some good acting, good plot",
+        "reviewBody": "For some people who take their kids to see this movie, they say it's cute, and it is. But some of the acting was just poor. Sissy Spacek's daugter was all right, her best work was the scene at the rainy carnival. Larisa Olenik and Rachel Leigh Cook were my favorite. Ellen Burstyn even had a small role. But the other actresses were just poor. But the teen actors were good, like Austin O' Brien. I didn't read many of the books, but I watched the old series, and I'm not saying that it was better, but it was just like the movie."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Pictures",
+        "duration": "PT2M",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3901620505",
+        "name": "The Baby-Sitters Club",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOGU3NjJhMWEtODM3Mi00YjZhLWJlNjAtMTg2ZTA2ZWUxMzE1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGU3NjJhMWEtODM3Mi00YjZhLWJlNjAtMTg2ZTA2ZWUxMzE1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:30:36Z",
+        "url": "https://www.imdb.com/video/vi3901620505/"
+    },
+    "url": "/title/tt0112435/"
+}

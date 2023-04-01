@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ethan Hawke",
+            "url": "/name/nm0000160/"
+        },
+        {
+            "@type": "Person",
+            "name": "River Phoenix",
+            "url": "/name/nm0000203/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bobby Fite",
+            "url": "/name/nm0280045/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 22674,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eric Luke",
+            "url": "/name/nm0525591/"
+        }
+    ],
+    "datePublished": "1985-07-12",
+    "description": "A boy obsessed with '50s sci-fi movies about aliens has a recurring dream about a blueprint of some kind, which he draws for his inventor friend. With the help of a third kid, they follow it and build themselves a spaceship. Now w...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Joe Dante",
+            "url": "/name/nm0001102/"
+        }
+    ],
+    "duration": "PT1H49M",
+    "genre": [
+        "Adventure",
+        "Comedy",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDY0MjJhMmYtNzlkYy00MjQwLWE2Y2UtMjg1MjI2ZjhhMDRiL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "child flying spacecraft,alien,spaceship,dog,junkyard",
+    "name": "Explorers",
+    "original_info": {
+        "id": "Explorers_1985",
+        "name": "Explorers",
+        "year": "1985"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "manuelvillalta"
+        },
+        "dateCreated": "2001-04-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0089114/"
+        },
+        "name": "80's hollywood fantasy at best",
+        "reviewBody": "i watched this movie yesterday because i'm a good fan of Joe Dante and i had not seen this flick yet, and i loved it. it projects the same feelings that E.T. and The Goonies gave me, that's one thing i love about 80's movies they use to have new and exciting stories of materials used or nor used before with a unique style, the kids were wonderful in the movie and special effects very good for the time it was made, i love how River Phoenix refers to Poltergeist when he imitates the little girl by saying..\"They're Here\"...just rent it and you'll see for yourself what i mean when i say 80's hollywood fantasy at best!."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT1M12S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi965656345",
+        "name": "Explorers",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BN2RlMDkzMWYtNGYzNS00MmYyLWE0YTEtZTU1YjM2NjQzZTRhXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BN2RlMDkzMWYtNGYzNS00MmYyLWE0YTEtZTU1YjM2NjQzZTRhXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg",
+        "uploadDate": "2019-10-09T17:02:40.959Z",
+        "url": "https://www.imdb.com/video/vi965656345/"
+    },
+    "url": "/title/tt0089114/"
+}

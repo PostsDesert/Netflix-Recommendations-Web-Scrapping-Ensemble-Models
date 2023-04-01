@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Nicolas Cage",
+            "url": "/name/nm0000115/"
+        },
+        {
+            "@type": "Person",
+            "name": "Samuel L. Jackson",
+            "url": "/name/nm0000168/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Lerner",
+            "url": "/name/nm0503627/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9470,
+        "ratingValue": 5.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0040620/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0046718/"
+        },
+        {
+            "@type": "Person",
+            "name": "E. Max Frye",
+            "url": "/name/nm0296861/"
+        }
+    ],
+    "datePublished": "1993-03-05",
+    "description": "A Pulitzer prize writer buys a cabin. The neighbors get suspicious when a stranger \"breaks in\". They see a black man and call the police, who start shooting at him. The sheriff tries a cover-up involving a white petty crook. Bad i...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "E. Max Frye",
+            "url": "/name/nm0296861/"
+        }
+    ],
+    "duration": "PT1H36M",
+    "genre": [
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTZhNzhmNWEtNjllOC00YjE1LWE1ZDUtYTk4MzUwZTk0Y2IyXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "kidnapping,character names as title,surnames as title,racial profiling,satire comedy",
+    "name": "Amos & Andrew",
+    "original_info": {
+        "id": "Amos & Andrew_1993",
+        "name": "Amos & Andrew",
+        "year": "1993"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "AnonII"
+        },
+        "dateCreated": "2001-05-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0106266/"
+        },
+        "name": "One of the most underrated, overlooked comedies of the 1990s",
+        "reviewBody": "One of the most underrated, overlooked comedies of the 1990s, and a social satire that DOES work, Maltin's faulty opinion to the contrary. Cage is brilliant, as is Bob Balaban. Writer/director E. Max Frye deserved much better reception for this sharp, smart piece of work. Unfortunately, the film's ending was apparently re-worked, to the satisfaction of almost no one on the creative team.\n\nCoincidentally, the angry mob torch scene in this movie was shot practically the same time the 'Rodney King' riots unfolded 3000 miles away in LA.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Pictures",
+        "duration": "PT29S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2276851993",
+        "name": "Amos & Andrew",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjFiNjg3MTAtYzVkMC00ZDNjLTllZGQtMzg0NmM0ZTQ2NmI1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjFiNjg3MTAtYzVkMC00ZDNjLTllZGQtMzg0NmM0ZTQ2NmI1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T11:37:58Z",
+        "url": "https://www.imdb.com/video/vi2276851993/"
+    },
+    "url": "/title/tt0106266/"
+}

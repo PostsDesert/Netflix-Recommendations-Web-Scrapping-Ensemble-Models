@@ -1,0 +1,91 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ellen Burstyn",
+            "url": "/name/nm0000995/"
+        },
+        {
+            "@type": "Person",
+            "name": "Olympia Dukakis",
+            "url": "/name/nm0001156/"
+        },
+        {
+            "@type": "Person",
+            "name": "Diane Ladd",
+            "url": "/name/nm0002663/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 907,
+        "ratingValue": 5.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0049348/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0059172/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0063634/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ivan Menchell",
+            "url": "/name/nm0578771/"
+        }
+    ],
+    "datePublished": "1993-02-12",
+    "description": "Lifelong friends meet weekly to celebrate the past and present.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bill Duke",
+            "url": "/name/nm0004886/"
+        }
+    ],
+    "duration": "PT1H46M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzNjMzA1NTAtZGE4MS00YjEzLTg0Y2ItZjk5NWQ1NTlkMjljXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "jewish shiva,scene during opening credits,screenplay adapted by author,widow,jewish",
+    "name": "The Cemetery Club",
+    "original_info": {
+        "id": "The Cemetery Club_1993",
+        "name": "The Cemetery Club",
+        "year": "1993"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "iodine1950"
+        },
+        "dateCreated": "2012-02-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0106536/"
+        },
+        "name": "loved it",
+        "reviewBody": "This is a \"baby boomer\" flick, I totally enjoyed it and thought that the story line was excellent and all the actors were fabulous. The younger generation would not understand the meaning or the humor. This is an all star cast of baby boomer's or older and I think they should be commended for their stellar acting. Ellen Burstyn is beautiful and gave a wonderful performance as usual. Diane Ladd is funny and beautiful. Olympia Dukakis is perfect for the part she played. Lainie Kazan is so funny with all her marriages living her life to the fullest. Everyone should have a group of friends that love and support each other through all of life's ups and downs.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0106536/"
+}

@@ -1,0 +1,78 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dan Brown",
+            "url": "/name/nm1467010/"
+        },
+        {
+            "@type": "Person",
+            "name": "Danny Burstein",
+            "url": "/name/nm1388685/"
+        },
+        {
+            "@type": "Person",
+            "name": "Henry Lincoln",
+            "url": "/name/nm0511110/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 218,
+        "ratingValue": 5.2,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0127633/"
+        }
+    ],
+    "datePublished": "2004-11-02",
+    "description": "This documentary exploration of Dan Brown's novel The Da Vinci Code, answers questions: What exactly was Leonardo da Vinci trying to tell us in his coded paintings? Was Jesus married to Mary Magdalene? Who were the Knights Templar...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Richard Metzger",
+            "url": "/name/nm1628182/"
+        }
+    ],
+    "duration": "PT2H32M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjEzOTk0NzcyNl5BMl5BanBnXkFtZTcwMTk1NzA0MQ@@._V1_.jpg",
+    "keywords": "leonardo da vinci,knight templar,gnostic,da vinci code,reference to the new testament",
+    "name": "Da Vinci Code Decoded",
+    "original_info": {
+        "id": "Da Vinci Code Decoded_2004",
+        "name": "Da Vinci Code Decoded",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "stuffy-nose"
+        },
+        "dateCreated": "2005-08-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0437142/"
+        },
+        "name": "ow.",
+        "reviewBody": "This was very painful and confusing to watch. It seemed to bounce all over the place, lacking the ability to make a strong point anywhere. The pacing is horrible. It's still on at this moment but I'm so bored, I thought that I'd rant. This piece of work looks like is was made for under $1000. (I'd bet most of that was taken up by the $700 camera and construction lights they used to light the interviews, God knows they saved nothing for post.) Whoever mad this...please choose another career. I'm not being sarcastic...I'm serious. I'm falling asleep trying to stay interested in what I thought was a fascinating subject. -bleh!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 3,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0437142/"
+}

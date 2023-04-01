@@ -1,0 +1,78 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "James Stewart",
+            "url": "/name/nm0000071/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ruth Roman",
+            "url": "/name/nm0738746/"
+        },
+        {
+            "@type": "Person",
+            "name": "Corinne Calvet",
+            "url": "/name/nm0130794/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 8086,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "Passed",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0021358/"
+        },
+        {
+            "@type": "Person",
+            "name": "Borden Chase",
+            "url": "/name/nm0153698/"
+        }
+    ],
+    "datePublished": "1954-08-20",
+    "description": "A self-minded adventurer locks horns with a crooked lawman while driving cattle to Dawson.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Anthony Mann",
+            "url": "/name/nm0542649/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Romance",
+        "Western"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjEzODI4ZDMtMjVhNC00NjYwLTg1ZjYtZmJlZTY5ZDUzM2U5XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "keywords": "classical western,death",
+    "name": "The Far Country",
+    "original_info": {
+        "id": "The Far Country_1955",
+        "name": "The Far Country",
+        "year": "1955"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "glen_esq"
+        },
+        "dateCreated": "2005-04-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0048055/"
+        },
+        "name": "Holy Cows!",
+        "reviewBody": "Mann photographs the Alberta Rocky Mountains in a superb fashion, and Jimmy Stewart and Walter Brennan give enjoyable performances as they always seem to do. \n\nBut come on Hollywood - a Mountie telling the people of Dawson City, Yukon to elect themselves a marshal (yes a marshal!) and to enforce the law themselves, then gunfighters battling it out on the streets for control of the town? \n\nNothing even remotely resembling that happened on the Canadian side of the border during the Klondike gold rush. Mr. Mann and company appear to have mistaken Dawson City for Deadwood, the Canadian North for the American Wild West.\n\nCanadian viewers be prepared for a Reefer Madness type of enjoyable howl with this ludicrous plot, or, to shake your head in disgust."
+    },
+    "url": "/title/tt0048055/"
+}

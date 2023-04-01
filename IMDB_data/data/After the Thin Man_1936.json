@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "William Powell",
+            "url": "/name/nm0001635/"
+        },
+        {
+            "@type": "Person",
+            "name": "Myrna Loy",
+            "url": "/name/nm0001485/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Stewart",
+            "url": "/name/nm0000071/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 11523,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "contentRating": "Passed",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007143/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frances Goodrich",
+            "url": "/name/nm0329304/"
+        },
+        {
+            "@type": "Person",
+            "name": "Albert Hackett",
+            "url": "/name/nm0352443/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dashiell Hammett",
+            "url": "/name/nm0358591/"
+        }
+    ],
+    "datePublished": "1936-12-25",
+    "description": "Private detective Nick Charles and his wealthy wife Nora are back home at last and hoping for a quiet New Year when there is a murder. The obvious suspect is his wife, Nora's cousin, Selma.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "W.S. Van Dyke",
+            "url": "/name/nm0886754/"
+        }
+    ],
+    "duration": "PT1H52M",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYWNjMTRkOGMtOGMyZS00NTNlLTg5ZTctYTEzMWM1ZDExZjgzXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "keywords": "four word title,dead body,hotel room,hotel,dinner party",
+    "name": "After the Thin Man",
+    "original_info": {
+        "id": "After the Thin Man_1936",
+        "name": "After the Thin Man",
+        "year": "1936"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "mrsastor"
+        },
+        "dateCreated": "2005-07-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0027260/"
+        },
+        "name": "The best of the six Thin Man films",
+        "reviewBody": "Of the six entries in \"The Thin Man\" series that were released between 1934-1947, none of which are bad, this one is the best. This second entry has the most plausible story, best cinematography (San Francisco on a cold foggy New Year's Eve night), and is perhaps the most amusing of the lot. This episode is noticeably longer than the other six, mostly due to an extensive homecoming sequence that opens the film, but this does not detract from the film in any way. And if you are a fan of Asta's, he gets more screen time in this outing than any of the others (interestingly, in Dashelle Hammett's book, Asta is female).\n\nOf course the chemistry on screen between Myrna Loy and William Powell is unsurpassed, that's why they would ultimately be cast together in 14 films during their careers. Besides the early and very well done performance of James Stewart, look for a young and brunette Penny Singleton (later \"Blondie\"), billed under her real name of Dorothy McNulty, playing the role of Polly for all it's worth. It's also fun to remember when you're watching veteran character actress Jessie Ralph play the stodgy Aunt Katherine, you are looking at a woman who was born during the Civil War.\n\nAll of the key Thin Man ingredients are here: a clever who-dun-it (with more suspects than any other Thin Man film), beautiful photography, exquisite fashions and decor, jokes as dry and plentiful as the martinis, a performance or two of the popular music of the day, and an ending that will surprise you. As I said, all of these Thin Man films are great fun, but this one is the best.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M55S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4228104473",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzQ3ZmFkOTQtMjJhNy00NTRlLTg5YzItNDc5NDNhOTE2N2RkXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzQ3ZmFkOTQtMjJhNy00NTRlLTg5YzItNDc5NDNhOTE2N2RkXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-01-04T15:55:42.751Z",
+        "url": "https://www.imdb.com/video/vi4228104473/"
+    },
+    "url": "/title/tt0027260/"
+}

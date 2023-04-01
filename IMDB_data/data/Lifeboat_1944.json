@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tallulah Bankhead",
+            "url": "/name/nm0000845/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Hodiak",
+            "url": "/name/nm0388303/"
+        },
+        {
+            "@type": "Person",
+            "name": "Walter Slezak",
+            "url": "/name/nm0805790/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 29885,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Steinbeck",
+            "url": "/name/nm0825705/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jo Swerling",
+            "url": "/name/nm0842485/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alfred Hitchcock",
+            "url": "/name/nm0000033/"
+        }
+    ],
+    "datePublished": "1944-01-28",
+    "description": "Several survivors of a torpedoed merchant ship in World War II find themselves in the same lifeboat with one of the crew members of the U-boat that sank their ship.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Alfred Hitchcock",
+            "url": "/name/nm0000033/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Drama",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTBmMjUyMjItYTM4ZS00MjAwLWEyOGYtYjMyZTUxN2I3OTMxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "keywords": "sea,nazi,boat,u boat,lifeboat",
+    "name": "Lifeboat",
+    "original_info": {
+        "id": "Lifeboat_1944",
+        "name": "Lifeboat",
+        "year": "1944"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "sabby"
+        },
+        "dateCreated": "1999-04-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0037017/"
+        },
+        "name": "I'd like to be lost at sea with this great cast anyday",
+        "reviewBody": "In one of Alfred Hitchcock's earliest films, six people with different personalities and backgrounds are stranded together in a lifeboat after the passenger-carrying freighter they are on is sunk by a German u-boat in the Mid-Atlantic. The cast includes the fabulous Tallulah Bankhead as a bitchy photo-journalist, Hume Cronyn as kind-hearted man who finds love on the lifeboat, Canada Lee as a kind steward, Walter Slezak as a mysterious German, and John Hodiak who has to dodge Tallulah's nonstop advances. Hitchcock did this film on one set - the single lifeboat. What's amazing is that he could keep things interesting for two hours, but he managed to somehow. Bankhead is this movie's greatest asset. Reportedly, she didn't wear underwear on the set and constantly kept the crew at attention! This is a great, novel film.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Several survivors of a torpedoed merchant ship in World War II find themselves in the same lifeboat with one of the crew members of the U-boat that sank their ship.",
+        "duration": "PT1M28S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1141555737",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjgzYmRjYzYtYjA3My00N2RiLWFmOTUtOTA2OWJlZjMzNTdlXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjgzYmRjYzYtYjA3My00N2RiLWFmOTUtOTA2OWJlZjMzNTdlXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2022-08-09T17:59:25.965Z",
+        "url": "https://www.imdb.com/video/vi1141555737/"
+    },
+    "url": "/title/tt0037017/"
+}

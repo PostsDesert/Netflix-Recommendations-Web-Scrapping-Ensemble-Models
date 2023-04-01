@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ronald Lewis",
+            "url": "/name/nm0507708/"
+        },
+        {
+            "@type": "Person",
+            "name": "Audrey Dalton",
+            "url": "/name/nm0198241/"
+        },
+        {
+            "@type": "Person",
+            "name": "Guy Rolfe",
+            "url": "/name/nm0738212/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3141,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0142268/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ray Russell",
+            "url": "/name/nm0751400/"
+        }
+    ],
+    "datePublished": "1961-10-18",
+    "description": "A mysterious and cruel Baron, whose face has become frozen in a horrifying grin, demands that a prominent London physician apply experimental treatments on him to restore his face.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "William Castle",
+            "url": "/name/nm0145336/"
+        }
+    ],
+    "duration": "PT1H29M",
+    "genre": [
+        "Drama",
+        "Horror",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNWZlNTdkZjItNWEyNS00ZWVkLTgxOTItMTgwMWY0MzQ1YmU4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "doctor,lottery ticket,mask,torture chamber,disfigured face",
+    "name": "Mr. Sardonicus",
+    "original_info": {
+        "id": "Mr. Sardonicus_1961",
+        "name": "Mr. Sardonicus",
+        "year": "1961"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "gftbiloxi"
+        },
+        "dateCreated": "2005-04-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0055200/"
+        },
+        "name": "Silly Gothic Fun",
+        "reviewBody": "William Castle usually marketed his movies with gimmicks, and for MR. SARDONICUS the gimmick was \"the punishment poll.\" When the film played in theatrical release, audience members were issued a voting card, and near the movie's conclusion Castle himself appeared on the screen and asked the audience to vote: show the card thumbs up to show mercy, thumbs down for none. Now, in theory, there were two different endings, and the ending shown depended on the audience vote--but no one ever saw the \"show mercy\" ending and it seems unlikely that it ever existed at all. And you certainly won't find it here: Sardonicus is punished every time.\n\nFor once Castle should have left well enough alone. The Punishment Poll is the only seriously weak thing in the entire film, which has a considerably better script and over-all better cast than most Castle outings. The story, which shows influences from everything from PHANTOM OF THE OPERA to Dracula to THE MAN THAT LAUGHED, concerns a grotesquely disfigured man who uses his wife to lure a noted specialist to his castle in the wilds of \"Gorslavia\"--and who then proceeds to make every one's life as miserable as possible, and that's throwing roses at it. Young women are molested, hung from the ceiling, nibbled on by leeches, and threatened with surgery designed to make them look as hideous as Sardonicus himself.\n\nThe cast is quite good, with Oskar Homolka a standout as Krull, Sardonicus' equally depraved servant. The lovely Audrey Dalton is also memorable as Sardonicus' unwilling wife. But the real star of the film is the make-up, which was quite famous in its day and is still capable of giving you a jolt. And along the way we're treated to a number of campy Castle flourishes that add to the fun. But MR. SARDONICUS is surprisingly cohesive for a Castle movie, and it moves along at a smart pace and has an interestingly atmospheric look. Most Castle films appeal almost exclusively to fans of cult and B-movies, but just about every one will find this one entertaining. Lots of silly Gothic fun! Gary F. Taylor, aka GFT, Amazon Reviewer",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT3M37S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1229830169",
+        "name": "Mr. Sardonicus",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTUwY2VmNmYtMzA3Yi00ZGNlLWI2ZjctMmExMTdlZmMyNTIzXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTUwY2VmNmYtMzA3Yi00ZGNlLWI2ZjctMmExMTdlZmMyNTIzXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+        "uploadDate": "2018-05-09T21:34:07Z",
+        "url": "https://www.imdb.com/video/vi1229830169/"
+    },
+    "url": "/title/tt0055200/"
+}

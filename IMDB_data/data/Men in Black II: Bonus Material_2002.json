@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tommy Lee Jones",
+            "url": "/name/nm0000169/"
+        },
+        {
+            "@type": "Person",
+            "name": "Will Smith",
+            "url": "/name/nm0000226/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rip Torn",
+            "url": "/name/nm0001800/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 383587,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0009119/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0108321/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lowell Cunningham",
+            "url": "/name/nm0192384/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Gordon",
+            "url": "/name/nm0330565/"
+        },
+        {
+            "@type": "Person",
+            "name": "Barry Fanaro",
+            "url": "/name/nm0266673/"
+        }
+    ],
+    "datePublished": "2002-07-03",
+    "description": "Agent Jay is sent to find Agent Kay and restore his memory after the re-appearance of a case from Kay's past.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Barry Sonnenfeld",
+            "url": "/name/nm0001756/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMxNDA0NTMxMV5BMl5BanBnXkFtZTYwMDE2NzY2._V1_.jpg",
+    "keywords": "lingerie,michael jackson character,calzone,video conference,leather outfit",
+    "name": "Men in Black II",
+    "original_info": {
+        "id": "Men in Black II: Bonus Material_2002",
+        "name": "Men in Black II: Bonus Material",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Michael_Elliott"
+        },
+        "dateCreated": "2012-05-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120912/"
+        },
+        "name": "A Sequel About Money",
+        "reviewBody": "Men in Black II (2002)\n\n* 1/2 (out of 4) \n\nBoring and bland sequel has Earth coming under attack from a dangerous alien (Lara Flynn Boyle) so Agent Jay (Will Smith) must bring Agent Kay (Tommy Lee Jones) out of retirement. I really wasn't sure what to expect out of this sequel but the very, very, very last thing I did expect was something boring. I must admit that I was really shocked to see how bland and downright bad this movie was as sadly it's yet another example of a sequel to a good movie being about nothing more than money. The original film was smart, clever and funny in regards to the subject matter but this sequel just lacks any sort of originality and it's really nothing more than a copy of the original. What's so sad is that there could have been so many good and interesting story ideas but sadly we're just given a copy of the first film and we even get many of the same jokes. It's funny to think that the jokes worked so well the first time but here they're just annoying and unfunny. I think the majority of the blame has to go towards the screenplay, which is just a mess. It's never funny, never makes too much sense and sadly it's clear that very little went into it. The performances outside of Tommy Lee Jones really aren't all that memorable either. Lara Flynn Boyle has no problems looking sexy but her character is bland. Rip Torn isn't given much to do and the same is true for Johnny Knoxville and Rosario Dawson. The incredibly bad love story with Dawson is just an embarrassment. MEN IN BLACK II even features some very poor CGI effects and in the end this is just a rather worthless movie that isn't worth the trouble."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Agent J needs help so he is sent to find Agent K and restore his memory",
+        "duration": "PT2M10S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1097638425",
+        "name": "Theatrical Version",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTU2NDUzMDg5Ml5BMl5BanBnXkFtZTgwMTE0OTIyMzE@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTU2NDUzMDg5Ml5BMl5BanBnXkFtZTgwMTE0OTIyMzE@._V1_.jpg",
+        "uploadDate": "2012-06-15T17:33:30Z",
+        "url": "https://www.imdb.com/video/vi1097638425/"
+    },
+    "url": "/title/tt0120912/"
+}

@@ -1,0 +1,60 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mirko Cro Cop Filipovic",
+            "url": "/name/nm1822165/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gabriel Gonzaga",
+            "url": "/name/nm2091051/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Bisping",
+            "url": "/name/nm2261451/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 115,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0147548/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joe Silva",
+            "url": "/name/nm1844986/"
+        }
+    ],
+    "datePublished": "2007-04-21",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Anthony Giordano",
+            "url": "/name/nm2269530/"
+        }
+    ],
+    "duration": "PT3H30M",
+    "genre": [
+        "Sport"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjIyOTU1OTItYTk4Ny00ZTc0LTg3YzUtYzY2ZGEyNWFhNGY2XkEyXkFqcGdeQXVyODQ2OTAzNTY@._V1_.jpg",
+    "keywords": "tv special",
+    "name": "UFC 70: Nations Collide",
+    "original_info": {
+        "id": "UFC Hits: Ultimate Fighting Championship_2000",
+        "name": "UFC Hits: Ultimate Fighting Championship",
+        "year": "2000"
+    },
+    "url": "/title/tt1017466/"
+}

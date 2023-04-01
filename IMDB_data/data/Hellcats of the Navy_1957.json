@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ronald Reagan",
+            "url": "/name/nm0001654/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nancy Reagan",
+            "url": "/name/nm0004864/"
+        },
+        {
+            "@type": "Person",
+            "name": "Arthur Franz",
+            "url": "/name/nm0291821/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1072,
+        "ratingValue": 5.5,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0072431/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles A. Lockwood",
+            "url": "/name/nm0516958/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hans Christian Adamson",
+            "url": "/name/nm0160028/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Lang",
+            "url": "/name/nm0485719/"
+        }
+    ],
+    "description": "The daring exploits of a submarine commander whose mission is to chart the minefields in the waters of Japan during World War II.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Nathan Juran",
+            "url": "/name/nm0432846/"
+        }
+    ],
+    "duration": "PT1H22M",
+    "genre": [
+        "Drama",
+        "Thriller",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZGYyZjkwYWMtNzI2My00NDY4LWI1NzUtNjExMGI0YmRlN2JhXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "keywords": "psychotronic film,prologue,talking to the camera,subjective camera,scene during opening credits",
+    "name": "Hellcats of the Navy",
+    "original_info": {
+        "id": "Hellcats of the Navy_1957",
+        "name": "Hellcats of the Navy",
+        "year": "1957"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "williamodouglas"
+        },
+        "dateCreated": "2000-07-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0050500/"
+        },
+        "name": "As bad as it gets",
+        "reviewBody": "Leaden acting. Awful special effects. Every time the submarines go out, so does the sonar (amazing, huh?) A forced conflict between the captain and his executive officer. It also has some of the worst dialogue imaginable, especially in the Ronald Reagan-Nancy Davis scenes. All in all, I would have rather watched an old television test-pattern."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Public Domain, lbx",
+        "duration": "PT2M4S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3383492889",
+        "name": "Hellcats of the Navy",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzAyZmY5YzEtYzQ1My00OTYyLWJiYWItNzJjNWY2MmUyZWE2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzAyZmY5YzEtYzQ1My00OTYyLWJiYWItNzJjNWY2MmUyZWE2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:24:56Z",
+        "url": "https://www.imdb.com/video/vi3383492889/"
+    },
+    "url": "/title/tt0050500/"
+}

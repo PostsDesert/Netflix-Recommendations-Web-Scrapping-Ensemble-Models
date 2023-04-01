@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bette Davis",
+            "url": "/name/nm0000012/"
+        },
+        {
+            "@type": "Person",
+            "name": "Herbert Marshall",
+            "url": "/name/nm0003339/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Stephenson",
+            "url": "/name/nm0827263/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 13710,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Person",
+            "name": "W. Somerset Maugham",
+            "url": "/name/nm0560857/"
+        },
+        {
+            "@type": "Person",
+            "name": "Howard Koch",
+            "url": "/name/nm0462321/"
+        }
+    ],
+    "datePublished": "1940-11-23",
+    "description": "The wife of a rubber plantation administrator shoots a man to death and claims it was self-defense, but a letter in her own hand may prove her undoing.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "William Wyler",
+            "url": "/name/nm0943758/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Film-Noir"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNGI1Mjk4ZDgtMDc5ZS00MGI4LWJmZDctNTZkNmQ0NGU0M2JlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "keywords": "rubber plantation,crime of passion,husband wife relationship,letter,singapore",
+    "name": "The Letter",
+    "original_info": {
+        "id": "The Letter_1940",
+        "name": "The Letter",
+        "year": "1940"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "J. Spurlin"
+        },
+        "dateCreated": "2007-03-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0032701/"
+        },
+        "name": "Remarkable drama that begins with several literal bangs; we're fascinated from that moment until the last frame of film",
+        "reviewBody": "The wife (Bette Davis) of a rubber plantation administrator shoots a man to death and claims it was self-defense. Her poise, graciousness and stoicism impress nearly everyone who meets her. Her husband (Herbert Marshall) is certainly without doubt; so is the new district officer (Bruce Lester); while her lawyer's (James Stephenson) doubts may be a natural skepticism. But this is Singapore and the resentful natives will have no compunction about undermining this accused murderess. A letter in her hand turns up and may prove her undoing.\n\nThis remarkable drama begins with several literal bangs, and we're fascinated from that moment until the last frame of film. Davis, with her precise and intricate manners that match her character's elaborate web of deceit (symbolized by her compulsive crocheting), gives a fiery, mannered, mysterious performance that may equal anything she's done. Marshall and Stephenson are both subtle in their acting and refined in their manners. William Wyler directs an adaptation of W. Somerset Maugham's play (Maugham provided the material for Davis's breakthrough role in \"Of Human Bondage\") and never makes a false move until the censor-imposed ending. Tony Gaudio's photography, with the light often hitting people from a full moon or through the slats of blinds, is splendid. Max Steiner's music, though repetitive, is very effective. A great film."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for this classic starring Bette Davis",
+        "duration": "PT2M18S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2817459225",
+        "name": "The Letter",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYWIyOTA2YzktNzUwNS00ZjZkLWI1NGMtOTZhNzFjMzRlMjNlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYWIyOTA2YzktNzUwNS00ZjZkLWI1NGMtOTZhNzFjMzRlMjNlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-01-16T16:50:19Z",
+        "url": "https://www.imdb.com/video/vi2817459225/"
+    },
+    "url": "/title/tt0032701/"
+}

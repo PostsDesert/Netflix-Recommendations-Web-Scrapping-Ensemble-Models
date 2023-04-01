@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sam Shepard",
+            "url": "/name/nm0001731/"
+        },
+        {
+            "@type": "Person",
+            "name": "Scott Glenn",
+            "url": "/name/nm0001277/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ed Harris",
+            "url": "/name/nm0000438/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 62676,
+        "ratingValue": 7.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0042559/"
+        },
+        {
+            "@type": "Person",
+            "name": "Philip Kaufman",
+            "url": "/name/nm0442241/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tom Wolfe",
+            "url": "/name/nm0004366/"
+        }
+    ],
+    "datePublished": "1984-02-17",
+    "description": "The U.S. space program's development from the breaking of the sound barrier to selection of the Mercury 7 astronauts, from a group of test pilots with a more seat-of-the-pants approach than the program's more cautious engineers pr...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Philip Kaufman",
+            "url": "/name/nm0442241/"
+        }
+    ],
+    "duration": "PT3H13M",
+    "genre": [
+        "Adventure",
+        "Biography",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTUwMDA3MTYtZjhjMi00ODFmLTg5ZTAtYzgwN2NlODgzMmUwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "keywords": "astronaut,project mercury,u.s. space program,nasa,ticker tape parade",
+    "name": "The Right Stuff",
+    "original_info": {
+        "id": "The Right Stuff: Bonus Material_1983",
+        "name": "The Right Stuff: Bonus Material",
+        "year": "1983"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "claudiaeilcinema"
+        },
+        "dateCreated": "2009-10-05",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0086197/"
+        },
+        "name": "History Is Made Of This Stuff",
+        "reviewBody": "It was wonderful to see again this 1983 gem. Just as I remembered plus those unexpected surprises that time puts in evidence. Kim Stanley for instance. A few minutes on the screen, a peripheral character but I took her with me and here I am, thinking about her. The \"starry\" role jet pilots played and that new breed: \"tha astronauts\" getting the all American treatment, becoming overnight celebrities. Ed Harris is extraordinary as John Glenn. He becomes a sort of leader with some TV experience and we never ask why. Ed Harris's performance explains it all without ever actually saying it. Dennis Quaid is irresistible as \"Gordo\" Cooper. You believe every one of his thoughts, specially the ones he never reveals. In spite of the film's length, I wished the film would not end. I haven't had that wish very often. \"The Right Stuff\" is the real thing.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT3M31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi770900249",
+        "name": "The Right Stuff",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNGVhMWZhZjUtZmExNS00MjU3LThhMjktOWQ0ZTAyMjY3OTdjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNGVhMWZhZjUtZmExNS00MjU3LThhMjktOWQ0ZTAyMjY3OTdjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:45:09Z",
+        "url": "https://www.imdb.com/video/vi770900249/"
+    },
+    "url": "/title/tt0086197/"
+}

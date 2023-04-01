@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Nicolas Cage",
+            "url": "/name/nm0000115/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ron Perlman",
+            "url": "/name/nm0000579/"
+        },
+        {
+            "@type": "Person",
+            "name": "Claire Foy",
+            "url": "/name/nm2946516/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 95672,
+        "ratingValue": 5.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0028338/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0142678/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bragi F. Schut",
+            "url": "/name/nm0776885/"
+        }
+    ],
+    "datePublished": "2011-01-07",
+    "description": "14th-century knights transport a suspected witch to a monastery, where monks deduce that her powers could be the source of the Black Plague.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Dominic Sena",
+            "url": "/name/nm0784061/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzc3MjYxNzg2N15BMl5BanBnXkFtZTcwNzQyMTkwNA@@._V1_.jpg",
+    "keywords": "middle ages,14th century,knight,monk,witch",
+    "name": "Season of the Witch",
+    "original_info": {
+        "id": "Season of the Witch_1973",
+        "name": "Season of the Witch",
+        "year": "1973"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "blom0344"
+        },
+        "dateCreated": "2012-02-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0479997/"
+        },
+        "name": "mediocre but a painless sit-through",
+        "reviewBody": "SOTW may be a mediocre film, but at least it manages to entertain. Nic Cage really makes an effort and Ron Perlman, well has never been better than in a middle ages setting. For all the historic inconsistencies they at least got the atmosphere about right. What makes it entertaining in the end is the sustained air of suspense while being on route. Not that it keeps you on the the edge of your seat, but it is decent enough. Travelling in the middle ages must have been a sort of Russian Roulette with little more than a sword to rely on. Unfortunately the last 20 minutes or so, the film goes over the top in a strange , pointless , exercise of CGI effects. The CGI itself is passable, but in contrast with the subtle air of discomfort during the voyage that makes up for the 2nd part of the film. As proclaimed, a painless sit-through , but could have been better with a subtle last act..",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Season of the Witch Trailer - Nicolas Cage stars as a 14th century Crusader who returns with his comrade to a homeland devastated by the Black Plague. A beleaguered church, deeming sorcery the culprit of the plague, commands the two knights to transport an accused witch to a remote abbey, where monks will perform a ritual in hopes of ending the pestilence. ",
+        "duration": "PT2M28S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3830683929",
+        "name": "Season of the Witch: Trailer #2",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTk4NzUzNDk3Ml5BMl5BanBnXkFtZTgwMzQ0OTMyMzE@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTk4NzUzNDk3Ml5BMl5BanBnXkFtZTgwMzQ0OTMyMzE@._V1_.jpg",
+        "uploadDate": "2010-11-12T23:55:36Z",
+        "url": "https://www.imdb.com/video/vi3830683929/"
+    },
+    "url": "/title/tt0479997/"
+}
