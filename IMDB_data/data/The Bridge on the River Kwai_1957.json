@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "William Holden",
+            "url": "/name/nm0000034/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alec Guinness",
+            "url": "/name/nm0000027/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jack Hawkins",
+            "url": "/name/nm0370144/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 224251,
+        "ratingValue": 8.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103190/"
+        },
+        {
+            "@type": "Person",
+            "name": "Pierre Boulle",
+            "url": "/name/nm0099541/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carl Foreman",
+            "url": "/name/nm0286025/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Wilson",
+            "url": "/name/nm0933858/"
+        }
+    ],
+    "datePublished": "1957-12-14",
+    "description": "British POWs are forced to build a railway bridge across the river Kwai for their Japanese captors in occupied Burma, not knowing that the allied forces are planning a daring commando raid through the jungle to destroy it.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David Lean",
+            "url": "/name/nm0000180/"
+        }
+    ],
+    "duration": "PT2H41M",
+    "genre": [
+        "Adventure",
+        "Drama",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOGY5NmNlMmQtYzRlYy00NGQ5LWFkYjYtNzExZmQyMTg0ZDA0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg",
+    "keywords": "bridge,british soldier,japanese soldier,brutality,bridge construction",
+    "name": "The Bridge on the River Kwai",
+    "original_info": {
+        "id": "The Bridge on the River Kwai_1957",
+        "name": "The Bridge on the River Kwai",
+        "year": "1957"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "calspers"
+        },
+        "dateCreated": "2019-09-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0050212/"
+        },
+        "name": "\"It's a matter of principle\" - timeless direction by David Lean",
+        "reviewBody": "\"The Bridge on the River Kwai\" is a prinoner-of-war drama at its best, masterfully directed by David Lean.\n\nAmazing direction, and the whole approach to making this film is timeless - a study in being ahead of its time. Stunning set pieces and production design - such and effort was put into this. Fantastic cinematography, filled to the brim with pitch-perfect pans, wide-shots, and tracking-shots. Intense and dramatic score, deservedly receiving one of the total of seven Academy Awards. Brilliant cast and in particular Alec Guinness, who perfectly portrays a man of honour.\n\nWhat is a big shame is the way Colonel Philip Toosey - the original colonel, portrayed through Nicholson - was misrepresented, in that he actually acted very differently and much more courageously than in the film.\n\nNonetheless, as a look into the historic event that took place in 1943 Burma, it is absolutely brilliant, and although the film does not carry loads of emotional moments, it is technically excellent, and greatly entertaining.\n\nHighly recommended.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "After settling his differences with a Japanese PoW camp commander, a British colonel co-operates to oversee his men's construction of a railway bridge for their captors - while oblivious to a plan by the Allies to destroy it. ",
+        "duration": "PT3M7S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1900740633",
+        "name": "The Bridge on the River Kwai -- Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTEzMTU0NTUwMl5BMl5BanBnXkFtZTgwNDM0MzczMzE@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTEzMTU0NTUwMl5BMl5BanBnXkFtZTgwNDM0MzczMzE@._V1_.jpg",
+        "uploadDate": "2008-11-18T17:08:15Z",
+        "url": "https://www.imdb.com/video/vi1900740633/"
+    },
+    "url": "/title/tt0050212/"
+}

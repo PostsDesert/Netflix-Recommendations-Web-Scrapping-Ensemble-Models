@@ -1,0 +1,64 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Amy Ray",
+            "url": "/name/nm0712736/"
+        },
+        {
+            "@type": "Person",
+            "name": "Emily Saliers",
+            "url": "/name/nm0758287/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 39,
+        "ratingValue": 8.4,
+        "worstRating": 1
+    },
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Susan Lambert",
+            "url": "/name/nm6792266/"
+        }
+    ],
+    "duration": "PT1H15M",
+    "genre": [
+        "Documentary",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU3MTkxMDAyNF5BMl5BanBnXkFtZTYwOTY3Njg4._V1_.jpg",
+    "name": "Indigo Girls: Watershed",
+    "original_info": {
+        "id": "Indigo Girls: Watershed: Ten Years of Underground Video_1995",
+        "name": "Indigo Girls: Watershed: Ten Years of Underground Video",
+        "year": "1995"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "geeze2"
+        },
+        "dateCreated": "2000-03-22",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0168005/"
+        },
+        "name": "Excellent underground video",
+        "reviewBody": "Watershed is an excellent collection of underground videos and what went into them, wonderfully explained by Amy Ray and Emily Saliers, the Indigo Girls, in an interview at Red Rocks Amphitheater in Colorado. It coincides with the release of their 2-CD live compilation of their 10-year career (to that point) of their first 1200 concerts, hence the title 1200 Curfews. Watershed also contains clips from backstage and behind the scenes footage of their earlier career. This movie would be a cherished possession of any Indigo Girls fan.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0168005/"
+}

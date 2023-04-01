@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Michael J. Fox",
+            "url": "/name/nm0000150/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christopher Lloyd",
+            "url": "/name/nm0000502/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lea Thompson",
+            "url": "/name/nm0000670/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 543475,
+        "ratingValue": 7.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0009119/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0010110/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Zemeckis",
+            "url": "/name/nm0000709/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bob Gale",
+            "url": "/name/nm0301826/"
+        }
+    ],
+    "datePublished": "1989-11-22",
+    "description": "After visiting 2015, Marty McFly must repeat his visit to 1955 to prevent disastrous changes to 1985...without interfering with his first trip.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Zemeckis",
+            "url": "/name/nm0000709/"
+        }
+    ],
+    "duration": "PT1H48M",
+    "genre": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTMxMGM5MjItNDJhNy00MWI2LWJlZWMtOWFhMjI5ZTQwMWM3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "time machine,second part,same actor playing two characters simultaneously on screen,alternate timeline,year 2015",
+    "name": "Back to the Future Part II",
+    "original_info": {
+        "id": "Back to the Future Part II_1989",
+        "name": "Back to the Future Part II",
+        "year": "1989"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Anonymous_Maxine"
+        },
+        "dateCreated": "2000-06-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0096874/"
+        },
+        "name": "Excess with good reason, good skill, and great results!",
+        "reviewBody": "Marty McFly is back, and this time he has to travel back to 1955 after an unfortunate incident which took place in 2015 so that he can prevent the destruction of the peaceful society of Hill Valley (what a great fictional name!). The film provides two hours of absolutely wonderful and fun entertainment. \n\nEvery paradox and logical problem of time-travel is explained very well in the film itself, and those that are left out are easily overlooked due to the creativeness of the rest of the film. Who cares that if Marty leaves 1985 in a time machine to 2015, there would be no Marty left in 1985 to grow to up into the 47 year old Marty in 2015? This movie is so much fun that things like this are gladly forgotten about in order to accept the huge amount of satisfaction delivered by the film. \n\nThe Back To The Future trilogy is a perfect example of the need to be willing to abandon at least a tiny bit of logic in order to fully enjoy a movie. This suspension of disbelief is necessary for a person to be able to truly experience the effectiveness of all three Back To The Future films, and this experience truly is a great one. \n\nIt is so rare that a film or a series of films comes along that is so well written and perfectly acted and directed as the Back To The Future movies are. Although I realize that another sequel would probably be disastrous to the credibility of the series as a whole, I have to admit that I have always been disappointed that they stopped at the third film. All three are so much fun that they leave you wishing that the story left room for a few more sequels.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Amblin",
+        "duration": "PT28S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1706557721",
+        "name": "Back to the Future Part II",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZmRmZmJmMTMtOWQ3Zi00NTE5LWFhNzMtMGJjYWQxYzcwYTBkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZmRmZmJmMTMtOWQ3Zi00NTE5LWFhNzMtMGJjYWQxYzcwYTBkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:18:31Z",
+        "url": "https://www.imdb.com/video/vi1706557721/"
+    },
+    "url": "/title/tt0096874/"
+}

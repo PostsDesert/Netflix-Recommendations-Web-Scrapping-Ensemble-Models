@@ -1,0 +1,81 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jane Badler",
+            "url": "/name/nm0000826/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Durrell",
+            "url": "/name/nm0244359/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Englund",
+            "url": "/name/nm0000387/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 8787,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "TV-14",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0030939/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0005035/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kenneth Johnson",
+            "url": "/name/nm0425540/"
+        }
+    ],
+    "datePublished": "1984-05-06",
+    "description": "A small group of human resistance fighters fight a desperate guerilla war against the genocidal extra-terrestrials who dominate Earth.",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTYwOTEyMTMzMl5BMl5BanBnXkFtZTcwMjIzODMyMQ@@._V1_.jpg",
+    "keywords": "reference to barry de vorzon,alien,resistance,guerilla,alien technology",
+    "name": "V: The Final Battle",
+    "original_info": {
+        "id": "V: The Final Battle_1984",
+        "name": "V: The Final Battle",
+        "year": "1984"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Dar Star"
+        },
+        "dateCreated": "1999-06-22",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0086823/"
+        },
+        "name": "A cult classic",
+        "reviewBody": "While other folks were knee-deep in Star Wars and Star Trek, this was the movie that mesmerized me. The world taken over by Alien Nazis, pretty inventive. Looking back, it is obvious that this is a very high quality production not the ordinary made for TV drivel. With a great concept and terrific acting by Marc Singer, Faye Grant, and Michael Ironside, interest is held throughout the full 10 hours. Except for the phony ending, the entire saga is great. Special effects were also state of the art then. When I compare the laser blasts in Star Wars with V FB, no contest. V rules. PLEASE PUT THIS ON DVD.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0086823/"
+}

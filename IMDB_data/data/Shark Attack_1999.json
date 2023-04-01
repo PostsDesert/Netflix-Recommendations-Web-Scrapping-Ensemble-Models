@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Cordell McQueen",
+            "url": "/name/nm0574338/"
+        },
+        {
+            "@type": "Person",
+            "name": "Casper Van Dien",
+            "url": "/name/nm0000680/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chris Olley",
+            "url": "/name/nm0647326/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3154,
+        "ratingValue": 3.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0100447/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0002572/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0077641/"
+        },
+        {
+            "@type": "Person",
+            "name": "Scott Devine",
+            "url": "/name/nm0222664/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Hooke",
+            "url": "/name/nm0393610/"
+        }
+    ],
+    "datePublished": "2015-07-16",
+    "description": "In a once serene African fishing village, a marine biologist goes in search of some answers when his friend becomes a victim in one of a series of brutal shark attacks.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bob Misiorowski",
+            "url": "/name/nm0592824/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Action",
+        "Horror",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTkzNjUyZDktZDQwOS00NDVkLTlhNGItZTdkN2M2ZGUzY2MzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "shark,shark attack,research laboratory,killer shark,boat chase",
+    "name": "Shark Attack",
+    "original_info": {
+        "id": "Shark Attack_1999",
+        "name": "Shark Attack",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "JCinHB"
+        },
+        "dateCreated": "2022-07-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0161970/"
+        },
+        "name": "Low budget, worth a watch, actually has a plot...",
+        "reviewBody": "Ok, its a low budget movie, but hey, it has a plot, it has actual moving boats, different locations and actors that can moderately act unlike some of the shark movies out there like Jurassic Shark. Don't expect anything too major and you won't be disappointed.....\n\nI love Shark Movies ... the more the better.....",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 3,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Nu Image",
+        "duration": "PT1M46S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1166475545",
+        "name": "Shark Attack",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjlhYTdiYzEtYTk2ZS00ODlkLTg5MGEtZjQ2Y2Q1YjUzMWYxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjlhYTdiYzEtYTk2ZS00ODlkLTg5MGEtZjQ2Y2Q1YjUzMWYxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:03:27Z",
+        "url": "https://www.imdb.com/video/vi1166475545/"
+    },
+    "url": "/title/tt0161970/"
+}

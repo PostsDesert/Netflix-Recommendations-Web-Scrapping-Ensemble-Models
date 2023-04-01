@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Julia Roberts",
+            "url": "/name/nm0000210/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dennis Quaid",
+            "url": "/name/nm0000598/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Duvall",
+            "url": "/name/nm0000380/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 15358,
+        "ratingValue": 5.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0022971/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0114242/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Person",
+            "name": "Callie Khouri",
+            "url": "/name/nm0451884/"
+        }
+    ],
+    "datePublished": "1995-08-04",
+    "description": "A woman's world is rocked when she discovers her husband is cheating on her.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Lasse Hallström",
+            "url": "/name/nm0002120/"
+        }
+    ],
+    "duration": "PT1H46M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZDhmOTczMjItMzg5NS00OTFiLWEzYTctMjAxMTZmMWVmMmQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "adulterous husband,female protagonist,reconciliation,scandal,horse breeder",
+    "name": "Something to Talk About",
+    "original_info": {
+        "id": "Something to Talk About_1995",
+        "name": "Something to Talk About",
+        "year": "1995"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "sandcrab"
+        },
+        "dateCreated": "2003-04-22",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0114496/"
+        },
+        "name": "Kyra Sedgwick is the best part of this film",
+        "reviewBody": "Anything featuring gutter mouthed Julia Roberts I normally bypass but this film also had Gena Rowlands and Dennis Quaid so it was worth a look. I was pleasantly surprised to discover Kyra Sedgwick who stole the show. I hope she has the same sense of humor in real life and if she does, Kevin Bacon is lucky indeed."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT2M",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi505069593",
+        "name": "Something to Talk About",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BN2E5YTdkOWMtMGE5MC00NWVlLWIzM2EtODY2OWI1YjUyNDJkXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BN2E5YTdkOWMtMGE5MC00NWVlLWIzM2EtODY2OWI1YjUyNDJkXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-06-30T17:02:49.525Z",
+        "url": "https://www.imdb.com/video/vi505069593/"
+    },
+    "url": "/title/tt0114496/"
+}

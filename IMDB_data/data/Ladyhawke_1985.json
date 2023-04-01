@@ -1,0 +1,113 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Matthew Broderick",
+            "url": "/name/nm0000111/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rutger Hauer",
+            "url": "/name/nm0000442/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michelle Pfeiffer",
+            "url": "/name/nm0000201/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 48688,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edward Khmara",
+            "url": "/name/nm0451689/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Thomas",
+            "url": "/name/nm0859241/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tom Mankiewicz",
+            "url": "/name/nm0542539/"
+        }
+    ],
+    "datePublished": "1985-04-12",
+    "description": "The thief Gaston escapes the dungeon of medieval Aquila through the latrine. Soldiers are about to kill him when Navarre saves him. Navarre, traveling with his spirited hawk, plans to kill the bishop of Aquila with help from Gaston.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Richard Donner",
+            "url": "/name/nm0001149/"
+        }
+    ],
+    "duration": "PT2H1M",
+    "genre": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjhkMmFmMGMtZTIwMy00NGE0LThkZWQtOWNjMDQ1NTY4MmNjXkEyXkFqcGdeQXVyMTY2MzYyNzA@._V1_.jpg",
+    "keywords": "snow adventure,curse,sword and sorcery,good versus evil,talking to an animal",
+    "name": "Ladyhawke",
+    "original_info": {
+        "id": "Ladyhawke_1985",
+        "name": "Ladyhawke",
+        "year": "1985"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "drdos43"
+        },
+        "dateCreated": "2000-03-15",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0089457/"
+        },
+        "name": "Great Movie, Lousy Music, Equestrianship Unexcelled",
+        "reviewBody": "This movie, except for the \"over-orchestration,\" deserves critical acclaim, as most of the comments have illustrated. However, no one seems to have addressed another element par excellence....the horses and equestrianship. Only one commentator made a cursory observation that Navarre's mount was a \"farm horse.\" ... not so! That was a Fresian, one of the oldest breed of horse known and the one which the knights of old used for battle....try to train a \"farm horse\" to prance! Other breeds included the Lipizans, and it was the antagonists who rode them.\n\nIf one were to overlook the fine acting, the excellent storyline, the Romance (literary sense), and the romantic which tugs our heart strings in understatement, the appropriate comedy, the breath-taking camera work utilizing almost no special effects (but surpassing just about everything thrust upon us today), a horse-lover would revel in the production.\n\nHowever, whoever (not the composers) was in charge of allowing the musical score, should have been barbecued at the stake for ruining an almost flawless classic. Never the less, this movie should not be missed...It will leave you in awe and wonder.\n\nMarvin Cohn",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT1M34S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1804910105",
+        "name": "Ladyhawke",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTU4Yzg5N2UtNzY4Mi00MmVkLWI4OWQtYWMzMzRmNzNmMmVmXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTU4Yzg5N2UtNzY4Mi00MmVkLWI4OWQtYWMzMzRmNzNmMmVmXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-03-20T17:02:36.791Z",
+        "url": "https://www.imdb.com/video/vi1804910105/"
+    },
+    "url": "/title/tt0089457/"
+}

@@ -1,0 +1,95 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Woody Allen",
+            "url": "/name/nm0000095/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mia Farrow",
+            "url": "/name/nm0001201/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nick Apollo Forte",
+            "url": "/name/nm0287173/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 26040,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0001995/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0008432/"
+        },
+        {
+            "@type": "Person",
+            "name": "Woody Allen",
+            "url": "/name/nm0000095/"
+        }
+    ],
+    "datePublished": "1984-01-27",
+    "description": "In his attempts to reconcile a lounge singer with his mistress, a hapless talent agent is mistaken as her lover by a jealous gangster.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Woody Allen",
+            "url": "/name/nm0000095/"
+        }
+    ],
+    "duration": "PT1H24M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkwMDQ4MjMwNF5BMl5BanBnXkFtZTcwNTM4OTYwNA@@._V1_.jpg",
+    "keywords": "character name as title,nickname as title,reference to murder incorporated,reference to tony bennett,hospital visit",
+    "name": "Broadway Danny Rose",
+    "original_info": {
+        "id": "Broadway Danny Rose_1984",
+        "name": "Broadway Danny Rose",
+        "year": "1984"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "macpublish"
+        },
+        "dateCreated": "2003-01-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0087003/"
+        },
+        "name": "Morality Play Disguised as Comedy",
+        "reviewBody": "Although a very funny film, Broadway Danny Rose is more of character study and philosophical morality play. This film explores the life and values of Danny Rose (played by Allen)--a theatrical talent manager. Although he appears to be a hapless loser, Rose is smart enough to know how to get ahead in his business (do it to others before they do it to you) but is prevented from acting thusly by his morality and his compassion for his clients--which he treats like family. He pours all his energy into his clients' careers only to be abandoned by them when they finally hit it big. In the course of an \"adventure\" with the hard-bitten Farrow, his values imperceptibly rub off on her and begin working on her conscious. Her moral conversion is completed when she seeks Rose's forgiveness at the much talked about Thanksgiving dinner--a scene not about pathetic losers but rather a study of fellowship, compassion, redemption, and forgiveness.\n\nAllen and Farrow both give career performances. Nick Apollo Forte is absolutely wonderful. The casting, locations, directing, and performances could not be better. Every aspiring film maker should study this film as the perfect example of a powerful \"little\" film. Watch the film several times and you'll like it more each time. It is may favorite Woody Allen film (everything else is a distant second) and one of my favorite films of all time. The film's lack of commercial and critical success speaks volumes about the sensibilities and values of our society."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Orion Pictures",
+        "duration": "PT1M7S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi817627417",
+        "name": "Broadway Danny Rose",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDkwNjViMjgtYjA5OS00NjVhLWE0YzYtODI3OTlkYWI3MDA2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDkwNjViMjgtYjA5OS00NjVhLWE0YzYtODI3OTlkYWI3MDA2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:52:22Z",
+        "url": "https://www.imdb.com/video/vi817627417/"
+    },
+    "url": "/title/tt0087003/"
+}

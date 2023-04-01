@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sean Connery",
+            "url": "/name/nm0000125/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frances Sternhagen",
+            "url": "/name/nm0827973/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Boyle",
+            "url": "/name/nm0001967/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 30906,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0042559/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Hyams",
+            "url": "/name/nm0001382/"
+        }
+    ],
+    "datePublished": "1981-05-22",
+    "description": "A federal marshal stationed at a mining colony on the Jupiter moon of Io uncovers a drug-smuggling conspiracy. He gets no help from the workers or authorities when he finds himself marked for murder.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Peter Hyams",
+            "url": "/name/nm0001382/"
+        }
+    ],
+    "duration": "PT1H49M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMGI2YWEyMGYtYWUwNy00MzkxLWE2MjMtMzUxMzhkZDFkMTI4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+    "keywords": "shotgun,marital separation,video surveillance,doctor,titanium mine",
+    "name": "Outland",
+    "original_info": {
+        "id": "Outland_1981",
+        "name": "Outland",
+        "year": "1981"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "JamesMovieGuy_117"
+        },
+        "dateCreated": "2017-12-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0082869/"
+        },
+        "name": "A decent industrial sci-fi movie",
+        "reviewBody": "With the late 70's giving us Star Wars and Alien, these films inspired a barrage of filmmakers to have a more realistic edge with sci-fi. Outland is no exception and while the film is heavily flawed, it's a decent sci-fi movie with lots of twists and turns to keep you engaged. \n\nThe miniatures and models look fantastic and still hold up today in my opinion. It inhabits that Alien mining operation look throughout and Peter Hyams did a great job on an aesthetic point of view. It's not as detailed as Alien, but what is? \n\nThe story is also pretty well written and many have labelled it as High Noon in space. It definitely has that western feeling especially with the showdown climax and your typical western pistols have been replaced with shotguns. \n\nSean Connery delivers a great performance and I would say this is one of his best post Bond films along with The Name of the Rose. \n\nDespite these positives there are quite a few negatives. The explosive decompression scenes are quite dated and are unintentionally hilarious with peoples heads inflating like balloons. The child actor who plays Marshall O Neill's son is quite possibly the worst child actor ever! It takes you out of the movie for a while but thankfully it's only a brief scene.\n\nIf you haven't seen this I would recommend Outland, especially if you're a fan of Alien or any other industrial sci-fi movie from that era. It's quite overlooked so definitely give it a look.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Warner Bros. Pictures",
+        "duration": "PT2M51S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1889468697",
+        "name": "Outland",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzFmNTBjYzctNzViNC00NjY4LWFkNWMtNTdkNDhkOTcxOWY2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzFmNTBjYzctNzViNC00NjY4LWFkNWMtNTdkNDhkOTcxOWY2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:35:15Z",
+        "url": "https://www.imdb.com/video/vi1889468697/"
+    },
+    "url": "/title/tt0082869/"
+}

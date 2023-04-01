@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Marc Ghannoum",
+            "url": "/name/nm2605746/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joel Benjamin",
+            "url": "/name/nm0071315/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Greengard",
+            "url": "/name/nm1571450/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1364,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "alternateName": "Game Over",
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0054762/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0006414/"
+        }
+    ],
+    "datePublished": "2004-01-23",
+    "description": "In 1997, chess champion Garry Kasparov goes head-to-head against IBM's computer, Deep Blue, and accuses IBM of cheating its way to victory. Interviews with Kasparov, his manager and members of the Deep Blue team illuminate the con...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Vikram Jayanti",
+            "url": "/name/nm0419683/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkxODIyMjIxMl5BMl5BanBnXkFtZTcwOTcyNDcyMQ@@._V1_.jpg",
+    "keywords": "timeframe 1990s,sore loser,ibm,chess,cheating at a game",
+    "name": "Game Over: Kasparov and the Machine",
+    "original_info": {
+        "id": "Game Over: Kasparov and the Machine_2003",
+        "name": "Game Over: Kasparov and the Machine",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Balibari"
+        },
+        "dateCreated": "2004-08-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0379296/"
+        },
+        "name": "Flawed but fascinating.",
+        "reviewBody": "Vikram Jayanti's documentary on the 1997 clash between IBM super-computer Deep Blue and Russian chess grand master Garry Kasparov is frustrating and fascinating in equal measure.\n\nKasparov's insistence that IBM cheated (by using one or more chess masters to influence the computer during the match) seems perfectly possible, but the computer manufacturers refusal to allow either a rematch or analysis of their data makes it impossible to substantiate the claims. Sadly that doesn't stop Jayanti, his subjective approach is unaffected by the apparent stalemate.\n\nFortunately the film has more to offer. The actual match becomes hugely dramatic and exciting in Jayanti's hands. Kasparov himself is an extremely enigmatic and passionate figure, the footage of him in the press conferences that took place after each of the six games is dynamite. In the second, he accuses IBM of cheating. In the last, after nine days of play, he appears on stage looking physically and mentally destroyed, the applause that greets him (and the boos for IBM) would seem to indicate a general feeling of suspicion of IBM's sportsmanship and honesty.\n\nToo subjective to be a 'great' documentary, it is still a fascinating insight into a game and community that would seem to offer much potential for future study.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Think Film, Inc",
+        "duration": "PT1M40S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1655243033",
+        "name": "Game Over: Kasparov and the Machine",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODRhNDVmNjUtZmNiNy00MzQwLWE5OTItYWJiZGFmODBlOTI3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODRhNDVmNjUtZmNiNy00MzQwLWE5OTItYWJiZGFmODBlOTI3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:15:14Z",
+        "url": "https://www.imdb.com/video/vi1655243033/"
+    },
+    "url": "/title/tt0379296/"
+}

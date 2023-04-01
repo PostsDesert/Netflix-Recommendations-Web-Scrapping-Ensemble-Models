@@ -1,0 +1,95 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Rainer Werner Fassbinder",
+            "url": "/name/nm0001202/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Chatel",
+            "url": "/name/nm0153998/"
+        },
+        {
+            "@type": "Person",
+            "name": "Karlheinz Böhm",
+            "url": "/name/nm0003337/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6332,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "alternateName": "Fox and His Friends",
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0061496/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0015236/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rainer Werner Fassbinder",
+            "url": "/name/nm0001202/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christian Hohoff",
+            "url": "/name/nm0389876/"
+        }
+    ],
+    "datePublished": "1976-02-02",
+    "description": "A suggestible working-class innocent wins the lottery but lets himself be taken advantage of by his bourgeois new boyfriend and his circle of materialistic friends.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Rainer Werner Fassbinder",
+            "url": "/name/nm0001202/"
+        }
+    ],
+    "duration": "PT2H3M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTQxN2QwZDctY2Q5OC00MmNjLWI0NTYtNjdjNTA5MDkzNDA5XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+    "keywords": "luck,cruising,dying young,man and man in bed,hustler",
+    "name": "Faustrecht der Freiheit",
+    "original_info": {
+        "id": "Fox and His Friends_1975",
+        "name": "Fox and His Friends",
+        "year": "1975"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "anemoni"
+        },
+        "dateCreated": "2001-08-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0072976/"
+        },
+        "name": "Fasssbinder at his best",
+        "reviewBody": "A powerful and harrowing melodrama and one of Fassbinder's most accessible movies,this is a must-see for all those interested in intelligent filmmaking.The tragic story of Fox is masterfully and poignantly handled by Fassbinder, while never slipping into sloppy sentimentality.At the same time the film explores sexual and political issues that are still very much relevant.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0072976/"
+}

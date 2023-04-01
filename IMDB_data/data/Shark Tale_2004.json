@@ -1,0 +1,123 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Will Smith",
+            "url": "/name/nm0000226/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert De Niro",
+            "url": "/name/nm0000134/"
+        },
+        {
+            "@type": "Person",
+            "name": "Renée Zellweger",
+            "url": "/name/nm0000250/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 188023,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0129164/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0819670/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael J. Wilson",
+            "url": "/name/nm5022110/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rob Letterman",
+            "url": "/name/nm1224299/"
+        },
+        {
+            "@type": "Person",
+            "name": "Scott Aukerman",
+            "url": "/name/nm0042006/"
+        }
+    ],
+    "datePublished": "2004-10-01",
+    "description": "When a son of a gangster shark boss is accidentally killed while on the hunt, his would-be prey and his vegetarian brother decide to use the incident to their own advantage.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bibo Bergeron",
+            "url": "/name/nm0074426/"
+        },
+        {
+            "@type": "Person",
+            "name": "Vicky Jenson",
+            "url": "/name/nm0421776/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rob Letterman",
+            "url": "/name/nm1224299/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMxMjY0NzE2M15BMl5BanBnXkFtZTcwNTc3ODcyMw@@._V1_.jpg",
+    "keywords": "fish,shark,loss of son,underwater city,anthropomorphic fish",
+    "name": "Shark Tale",
+    "original_info": {
+        "id": "Shark Tale_2004",
+        "name": "Shark Tale",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "TheLittleSongbird"
+        },
+        "dateCreated": "2009-05-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0307453/"
+        },
+        "name": "Nice to look at, but I have seen superior animated films...",
+        "reviewBody": "I did like Shark Tale, but there is a lot wrong with it. I did think the animation was very nicely done, and I liked the references to Jaws and Godfather. But I do think that Finding Nemo was much better than this. Shark Tale could have been a great film, had it not been devoid of humour and heart. My first problem with the film was Will Smith. He tries to be funny, but as the film progresses, he gets tiresome, and at times you feel like you want to reach into the screen and put a hand over his mouth. There were times when the script was funny, and there were some nice ideas, but the pace of the whole film was uneven. The characters could have been developed a lot more, particularly Lenny(a nice surprise from Jack Black), and whereas there were a number of nice visual jokes, there is some very over-familiar material in the script. Kids may find the sharks a bit frightening, and adults won't find much to enjoy, with the exception of the talented voice cast, such as Angelina Jolie, whose Lola(a very beautiful fish) was one of the better characters, Rennee Zellwegger, who deserved better than she was given and Robert DeNiro, whose shark was just a caricature of the Godfather. Though it is Martin Scorsesse who gives the most entertaining vocal contribution. And I did like the music score. All in all, it is nice to look at, but there are some parts of the film that aren't as interesting as intended. I did like the film, but I was kind of confused at who it was aimed at. 6/10 Bethany Cox.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Pre, \"October 1st\"",
+        "duration": "PT2M31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2072445209",
+        "name": "Shark Tale",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMGFhODYwZjMtMzkwOS00MmMyLTg0MzQtMGZjN2Y1OGU4ODlkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMGFhODYwZjMtMzkwOS00MmMyLTg0MzQtMGZjN2Y1OGU4ODlkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:03:31Z",
+        "url": "https://www.imdb.com/video/vi2072445209/"
+    },
+    "url": "/title/tt0307453/"
+}

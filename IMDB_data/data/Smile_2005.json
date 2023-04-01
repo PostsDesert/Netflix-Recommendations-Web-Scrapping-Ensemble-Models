@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mika Boorem",
+            "url": "/name/nm0095561/"
+        },
+        {
+            "@type": "Person",
+            "name": "Yi Ding",
+            "url": "/name/nm0227629/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sean Astin",
+            "url": "/name/nm0000276/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 998,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0029759/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0080717/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0122277/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeffrey Kramer",
+            "url": "/name/nm1546965/"
+        }
+    ],
+    "datePublished": "2005-04-08",
+    "description": "High school student Katie signs up for a trip to China, where she meets Lin, who has a facial deformity that discourages her from ever showing her face, but her friendship with Katie helps her start to see life in a new way.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jeffrey Kramer",
+            "url": "/name/nm1546965/"
+        }
+    ],
+    "duration": "PT1H47M",
+    "genre": [
+        "Adventure",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYzQ5YWYwMDgtMDAyMC00Nzc1LTg1ZGQtMWRlOWQ1MjgyYWVhXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_.jpg",
+    "keywords": "china,malibu,teenage girl,friendship,separation",
+    "name": "Smile",
+    "original_info": {
+        "id": "Smile_2005",
+        "name": "Smile",
+        "year": "2005"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "MCouture-1"
+        },
+        "dateCreated": "2005-09-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0397103/"
+        },
+        "name": "Not worth the effort",
+        "reviewBody": "Two redeeming qualities of this film were the cinemaphotography and a storyline that was hard to resist. However, the script, the direction, and some scenes, were just awful. I kept asking myself why such a good cast would have produced such a bad movie. My only conclusion was that these actors must believe in the charity which underlies the plot of the movie, but knew the movie was filled with flaws.\n\nThis film could have been so much better, and reached a larger audience accordingly. What makes me think this is that with all of the problems of the film, some scenes being painfully bad to watch, I still wanted to see how the obvious conclusion would resolve itself.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 3,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Screen Media Films",
+        "duration": "PT2M9S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi143196441",
+        "name": "Smile",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMDM1YTQ0Y2ItOWZkYi00ZWZmLWFlNzMtOWJjMjJmYjI5OTc4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDM1YTQ0Y2ItOWZkYi00ZWZmLWFlNzMtOWJjMjJmYjI5OTc4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:09:35Z",
+        "url": "https://www.imdb.com/video/vi143196441/"
+    },
+    "url": "/title/tt0397103/"
+}

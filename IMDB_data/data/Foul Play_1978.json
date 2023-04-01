@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Goldie Hawn",
+            "url": "/name/nm0000443/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chevy Chase",
+            "url": "/name/nm0000331/"
+        },
+        {
+            "@type": "Person",
+            "name": "Burgess Meredith",
+            "url": "/name/nm0580565/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 16074,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0056496/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0074688/"
+        },
+        {
+            "@type": "Person",
+            "name": "Colin Higgins",
+            "url": "/name/nm0383359/"
+        }
+    ],
+    "datePublished": "1978-07-14",
+    "description": "A shy San Francisco librarian and a bumbling cop fall in love as they solve a crime involving albinos, dwarves, and the Catholic Church.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Colin Higgins",
+            "url": "/name/nm0383359/"
+        }
+    ],
+    "duration": "PT1H56M",
+    "genre": [
+        "Comedy",
+        "Mystery",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjZlYTQyMjktNjZkMy00YjExLTk0ZWYtMGY4YThkNDcwMzY2XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "music conductor,mace spray,brass knuckles,attempted assassination,houseboat",
+    "name": "Foul Play",
+    "original_info": {
+        "id": "Foul Play_1978",
+        "name": "Foul Play",
+        "year": "1978"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "MovieAddict2016"
+        },
+        "dateCreated": "2005-10-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0077578/"
+        },
+        "name": "An entertaining espionage thriller - clever and funny",
+        "reviewBody": "Chevy Chase is not a great comedian, at least not anymore, but at one point in his career he WAS funny. He had talent. This film proves it. Although most of us today remember him fondly as the dad from the \"Vacation\" movies, he plays a different type of character here, and it is effective. He's still humorous (I've never seen him play a 100% serious dramatic role) but less stupid than usual, and his character - a police officer - calls for a more realistic attitude.\n\nHe's assigned to help Goldie Hawn's character in the film, who is being pursued by an albino and the Catholic church after a microchip is given to her by a dying man on the street. After a failed assassination attempt, she calls the police, but only Chase believes her.\n\nHawn lives in an apartment building maintained by the late Burgess Meredith. This was two years after the success of \"Rocky\" and Meredith was making a name for himself with the younger crowds. The film, as a result, lends him a solid role that he fulfills.\n\nThe film isn't an uproarious comedy but it is very entertaining and occasionally quite funny. Best viewed late at night on the weekend.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A shy San Francisco librarian and a bumbling cop fall in love as they solve a crime involving albinos, dwarves, and the Catholic Church.",
+        "duration": "PT1M2S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1800715801",
+        "name": "VHS Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BM2M3YjhmZGQtNGVlMy00ZjgzLTkyNjYtZjRmYmRmMjU4OGE2XkEyXkFqcGdeQUlNRGJWaWRlb1RodW1ibmFpbFNlcnZpY2U@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BM2M3YjhmZGQtNGVlMy00ZjgzLTkyNjYtZjRmYmRmMjU4OGE2XkEyXkFqcGdeQUlNRGJWaWRlb1RodW1ibmFpbFNlcnZpY2U@._V1_.jpg",
+        "uploadDate": "2020-08-11T15:40:57.424Z",
+        "url": "https://www.imdb.com/video/vi1800715801/"
+    },
+    "url": "/title/tt0077578/"
+}

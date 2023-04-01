@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Meg Ryan",
+            "url": "/name/nm0000212/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kevin Kline",
+            "url": "/name/nm0000177/"
+        },
+        {
+            "@type": "Person",
+            "name": "Timothy Hutton",
+            "url": "/name/nm0000459/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 51260,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0030612/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0098562/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Person",
+            "name": "Adam Brooks",
+            "url": "/name/nm0111845/"
+        }
+    ],
+    "datePublished": "1995-05-05",
+    "description": "A woman flying to France to confront her straying fiance gets into trouble when the charming crook seated next to her uses her for smuggling.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Lawrence Kasdan",
+            "url": "/name/nm0001410/"
+        }
+    ],
+    "duration": "PT1H51M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkzMjg5MDQ3M15BMl5BanBnXkFtZTgwOTM5NTE0MDE@._V1_.jpg",
+    "keywords": "breakup,plant cutting,frenchman,blonde,infidelity",
+    "name": "French Kiss",
+    "original_info": {
+        "id": "French & Saunders: At the Movies_1993",
+        "name": "French & Saunders: At the Movies",
+        "year": "1993"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bodhisattva13"
+        },
+        "dateCreated": "2003-07-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0113117/"
+        },
+        "name": "Cute film",
+        "reviewBody": "A Francophile will probably like this film. I did. Meg Ryan plays a woman who's on the verge of marrying a Canadian, so she's denounced her American citizenship. She's also afraid of flying so she stays home while her fiance goes to Paris on business. Things take a turn for the worse when he calls, saying he's met the woman of his dreams and he's staying in France.\n\nFrantic to get back her man, she boards a plane. Next to her sits a French thief, beautifully played by Kevin Kline, who has problems of his own, most notably how to smuggle a diamond necklace out of the country.\n\nIt's a character-driven plot that Cary Grant would have loved - two people who are seemingly so \"repelled\" by each other but all they need are the right elements to fall in love. I'm generally not a fan of the romantic-comedy, but the French setting sucked me in as did a supporting role played by the always excellent Jean Reno. \n\nAs for the authenticity of Kline's accent, I had a good friend from France who claimed it was \"formidable.\" So there.\n\nVery entertaining and worth a watch.\n\nWant more French choices? Try \"Frantic\" with Harrison Ford, it's Hitchcockian; \"Green Card,\" who can resist Depardieu?; and my all-time favorite Meg Ryan film \"Addicted to Love.\" It's a great black comedy and it has the sizzlingly sexy Tcheky Karyo. \"C'est magnifique!\"",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from 20th Century Fox Home Entertainment",
+        "duration": "PT2M18S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3467116825",
+        "name": "French Kiss",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYTVkMzM0NTUtMDM1YS00NmFhLWE0ZjItOWZjNmJkMjQyZDBkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTVkMzM0NTUtMDM1YS00NmFhLWE0ZjItOWZjNmJkMjQyZDBkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:13:26Z",
+        "url": "https://www.imdb.com/video/vi3467116825/"
+    },
+    "url": "/title/tt0113117/"
+}

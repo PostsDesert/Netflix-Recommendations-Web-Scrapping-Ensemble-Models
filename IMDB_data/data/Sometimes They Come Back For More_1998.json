@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Clayton Rohner",
+            "url": "/name/nm0737553/"
+        },
+        {
+            "@type": "Person",
+            "name": "Faith Ford",
+            "url": "/name/nm0004933/"
+        },
+        {
+            "@type": "Person",
+            "name": "Max Perlich",
+            "url": "/name/nm0001611/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2405,
+        "ratingValue": 3.4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0079484/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen King",
+            "url": "/name/nm0000175/"
+        },
+        {
+            "@type": "Person",
+            "name": "Adam Grossman",
+            "url": "/name/nm0343604/"
+        },
+        {
+            "@type": "Person",
+            "name": "Darryl Sollerh",
+            "url": "/name/nm0813162/"
+        }
+    ],
+    "datePublished": "1998-11-16",
+    "description": "On a arctic circle radio shack, an ancient evil lurks, ready to strike at a psychologist, an army man and their collective forces.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Daniel Zelik Berk",
+            "url": "/name/nm0075263/"
+        }
+    ],
+    "duration": "PT1H29M",
+    "genre": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI1NTM4OTc2MV5BMl5BanBnXkFtZTcwNzk3NjcxMQ@@._V1_.jpg",
+    "keywords": "demonic possession,antichrist,happy ending,devil,mining facility",
+    "name": "Sometimes They Come Back... for More",
+    "original_info": {
+        "id": "Sometimes They Come Back For More_1998",
+        "name": "Sometimes They Come Back For More",
+        "year": "1998"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "damjan.strnad"
+        },
+        "dateCreated": "2000-11-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0171768/"
+        },
+        "name": "good start, terrible ending",
+        "reviewBody": "I expected this movie to be something similar to The thing with Kurt Russel, which was a pretty good movie. Unfortunately the Ice station was degrading exponentially as it approached the end. Two sons of Satan meeting in the Antartics and playing around some pentagram altar is a bit below my taste of a good screenplay. It was a complete waste of money and time to see this movie, so I advise everyone to spend them somewhere else.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 2,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Trimark",
+        "duration": "PT1M35S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3062432025",
+        "name": "Sometimes They Come Back... For More",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTY0NjZhNTAtYzgwYS00M2JhLWEyNDYtMDM0ZTUzNzhmOGRhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTY0NjZhNTAtYzgwYS00M2JhLWEyNDYtMDM0ZTUzNzhmOGRhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:11:47Z",
+        "url": "https://www.imdb.com/video/vi3062432025/"
+    },
+    "url": "/title/tt0171768/"
+}

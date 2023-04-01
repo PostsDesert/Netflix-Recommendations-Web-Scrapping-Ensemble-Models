@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Josh Hartnett",
+            "url": "/name/nm0001326/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ewan McGregor",
+            "url": "/name/nm0000191/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tom Sizemore",
+            "url": "/name/nm0001744/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 403998,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0003580/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0026281/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0074212/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Bowden",
+            "url": "/name/nm0100736/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ken Nolan",
+            "url": "/name/nm0634307/"
+        }
+    ],
+    "datePublished": "2002-01-18",
+    "description": "The story of 160 elite U.S. soldiers who dropped into Mogadishu in October 1993 to capture two top lieutenants of a renegade warlord, but found themselves in a desperate battle with a large force of heavily armed Somalis.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ridley Scott",
+            "url": "/name/nm0000631/"
+        }
+    ],
+    "duration": "PT2H24M",
+    "genre": [
+        "Action",
+        "Drama",
+        "History"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYWMwMzQxZjQtODM1YS00YmFiLTk1YjQtNzNiYWY1MDE4NTdiXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+    "keywords": "somalia,u.s. army,gunfight,peacekeeper,chaos",
+    "name": "Black Hawk Down",
+    "original_info": {
+        "id": "Black Hawk Down_2001",
+        "name": "Black Hawk Down",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "kingtanichi"
+        },
+        "dateCreated": "2003-07-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0265086/"
+        },
+        "name": "We were soldiers AND made a great film...",
+        "reviewBody": "Black Hawk Down is first and foremost an immensely effective war film, but beyond that, its one of the most subtly differently made war films ever. Most war films usually either have a single hero through whom we see everything (i.e. Platoon), or present us with a squad of soldiers, all of whom are identifiable \"types\" (i.e. Saving Private Ryan). Black Hawk Down takes a different approach, instead giving us a very wide array of characters, none clearly singled out as a hero or type to command the audience's attention. The general effect is to create that feeling of a team army that George C. Scott so ardently expounded to us at the start of Patton. Furthering this feel of military professionalism, the film never cheapens itself by putting too much emotional weight into one moment. The plot moves ahead at a constant pace, cutting from location to location, without slowing down to focus too much on individual soldiers. The effect is of watching documentary footage of a real military operation gone wrong. While the effect of this scripting approach may produce some detachment among viewers on the first viewing, it makes the film all the better on subsequent viewings.\n\nAnd you'd better believe there will be subsequent viewings, because Ridley Scott has created one of cinema's all-time great pieces of eye candy here. The editing, cinematography, grading, scoring and visual effects all combine to leave a viewer just as drained upon leaving the theatre as these soldiers were on leaving Mogadishu. The intensity of this film's combat is easily equal to Saving Private Ryan, and leaves such pretenders as We Were Soldiers behind in the dust. Black Hawk Down lacks the former's emotional resonance, but unlike the latter, it thrives on the fact, creating a final product as mind-challenging in its construction as it is mind-blowing its visualization."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Black Hawk Down",
+        "duration": "PT2M30S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1809188377",
+        "name": "Black Hawk Down",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZGRkODRmMDEtYmI3Ni00MmQ4LWI2NDktYzY2ZDc2MmE5NTZmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZGRkODRmMDEtYmI3Ni00MmQ4LWI2NDktYzY2ZDc2MmE5NTZmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-08-17T03:07:42Z",
+        "url": "https://www.imdb.com/video/vi1809188377/"
+    },
+    "url": "/title/tt0265086/"
+}

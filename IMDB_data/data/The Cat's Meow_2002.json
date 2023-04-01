@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kirsten Dunst",
+            "url": "/name/nm0000379/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cary Elwes",
+            "url": "/name/nm0000144/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edward Herrmann",
+            "url": "/name/nm0001346/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 8632,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0060306/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0014641/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0027958/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steven Peros",
+            "url": "/name/nm0674432/"
+        }
+    ],
+    "datePublished": "2002-05-03",
+    "description": "Semi-true story of the Hollywood murder that occurred at a star-studded gathering aboard William Randolph Hearst's yacht in 1924.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Peter Bogdanovich",
+            "url": "/name/nm0000953/"
+        }
+    ],
+    "duration": "PT1H54M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZDc5YWRjZjktNWY0OC00ZTBkLThhMjQtY2QyYzdlM2Y5Y2ZkXkEyXkFqcGdeQXVyMjA5MTIzMjQ@._V1_.jpg",
+    "keywords": "1920s,watching a movie,thomas ince character,november,interwar period",
+    "name": "The Cat's Meow",
+    "original_info": {
+        "id": "The Cat's Meow_2002",
+        "name": "The Cat's Meow",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Jack the Ripper1888"
+        },
+        "dateCreated": "2003-01-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0266391/"
+        },
+        "name": "Very good movie, but you have to be a major film fan.",
+        "reviewBody": "Very similar to Robert Altman's GOSFORD PARK, the new film by Peter Bogdanovich is certainly not a film for everyone. The film takes its time in developing the characters (quite slowly, I might add) and really takes a while for the story to get moving. \n\nThere are some very well-written scenes, and the costume designs are very well done. And, yes the acting is great also. I was very surprised at Edward Herrmann's performance, he did a splendid job. I was not as happy with Eddie Izzard playing Charlie Chaplin as I wanted to have been, but he was still acceptable. Kirsten Dunst was also very good. The film is, as I said, very slow as it really takes quite a while for things to finally fall into play, and the film is only for serious film fans, as your casual movie watcher will find it hard to watch.\n\nThe setting of the film is a tale that Hollywood seems to have forgotten, as the year 1924 and the story of the murder aboard William Randolph Hurst's yacht is not a commen topic of conversation. But surely a film like this, is bound to become a conversation starter for many film buffs. It is a must-see for anyone who enjoys dramas and romance (I really wouldn't call this a romance movie though). Not as much of a mystery as I was hoping, but this film is a comeback for Peter Bogdanovich. Surprisingly enough, this melodic drama did not earn itself any Oscars, or even any nominations, which usually a film of this sort is typically a top-contender. Not a big hit in theaters, and not a big sell-out on video, this is a movie for the more serious of film fans. \n\nI was quite enthralled with the story in many parts, but I also found it hard to sit through as it was very slow in some parts. Very good costume design and acting are the main highlights of this delightful period piece. Definetely calls for a second viewing.\n\nTHE CAT'S MEOW gets 3/5."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Lionsgate Home Entertainment",
+        "duration": "PT2M15S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3666477337",
+        "name": "The Cat's Meow",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BM2NkYzM4OTMtZWRkMS00NzVlLThhN2EtY2RiODU4MDQ5OTEzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BM2NkYzM4OTMtZWRkMS00NzVlLThhN2EtY2RiODU4MDQ5OTEzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:15:22Z",
+        "url": "https://www.imdb.com/video/vi3666477337/"
+    },
+    "url": "/title/tt0266391/"
+}

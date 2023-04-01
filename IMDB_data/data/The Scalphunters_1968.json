@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Burt Lancaster",
+            "url": "/name/nm0000044/"
+        },
+        {
+            "@type": "Person",
+            "name": "Shelley Winters",
+            "url": "/name/nm0001859/"
+        },
+        {
+            "@type": "Person",
+            "name": "Telly Savalas",
+            "url": "/name/nm0001699/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4010,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0072437/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0014559/"
+        },
+        {
+            "@type": "Person",
+            "name": "William W. Norton",
+            "url": "/name/nm0636151/"
+        }
+    ],
+    "datePublished": "1968-04-02",
+    "description": "Forced to trade his valuable furs for a well-educated escaped slave, a rugged trapper vows to recover the pelts from the Indians and later the renegades that killed them.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Sydney Pollack",
+            "url": "/name/nm0001628/"
+        }
+    ],
+    "duration": "PT1H42M",
+    "genre": [
+        "Comedy",
+        "Western"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM1MTNlOWEtMjFhZi00MDRmLWJmYmEtNGUzNzdkYmExODNlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "slapstick comedy,escaped slave,native american,kiowa indian,fur trapper",
+    "name": "The Scalphunters",
+    "original_info": {
+        "id": "The Scalphunters_1968",
+        "name": "The Scalphunters",
+        "year": "1968"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Bogmeister"
+        },
+        "dateCreated": "2005-11-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0063557/"
+        },
+        "name": "They're after Burt and Ossie's Scalps!",
+        "reviewBody": "Wildly entertaining western romp with the still athletic Lancaster (as a frontier trapper) and Davis (as runaway slave) reluctantly teamed against a band of bandits led by Savalas. I noticed this pic as good time fun during a TV showing as a kid, way way before the nice DVD version, and still have fond memories of an easygoing adventure. Lancaster is exuberant in this, despite being well into his middle-aged years; he still comes across as someone who can outfight any man and rassle a grizzly bear on the side. He also presents an iconoclastic character here, supremely content onto himself, with not much use for civilization OR anarchy (represented by the barbaric bandits). Just leave him to do his own thing; if you don't, you're in for a fight - don't matter who you are, as Savalas and his band find out.\n\nSavalas is great as the bandit leader, dangerous blow-hard that he is; though not too intelligent, he's still a lot smarter than the other idiots under his rule (including a bearded Dabney Coleman in an early role). His main squeeze is the cigar-chomping floozy Shelley Winters, hamming it up as much as the otherwise all-male cast. Davis, in an odd contrast, comes across as the most sophisticated of the whole bunch, despite supposedly being a slave his entire life; he also proves to be the most duplicitous; he's not simply honorable and disappoints Lancaster more than once. Maybe director Pollack was sneaking in some commentary on the outmoded superior standing of the white race by this point, though I think it was wishful thinking that Davis could get away with as much as he does here in the 19th century. In all, the actors prove to be good hams to the very end.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Forced to trade his valuable furs for a well-educated escaped slave, a rugged trapper vows to recover the pelts from the Indians and later the renegades that killed them.",
+        "duration": "PT3M14S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3860054809",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDJlN2U0YzAtYWFkNy00YjdlLTg5ZjItMDFmYTA0N2M4ZGJlXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDJlN2U0YzAtYWFkNy00YjdlLTg5ZjItMDFmYTA0N2M4ZGJlXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2022-01-21T19:24:33.360Z",
+        "url": "https://www.imdb.com/video/vi3860054809/"
+    },
+    "url": "/title/tt0063557/"
+}

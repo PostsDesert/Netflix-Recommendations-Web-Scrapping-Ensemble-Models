@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Grant Taylor",
+            "url": "/name/nm0852425/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Finch",
+            "url": "/name/nm0002075/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chips Rafferty",
+            "url": "/name/nm0706256/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 274,
+        "ratingValue": 5.4,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0135397/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Chauvel",
+            "url": "/name/nm0154374/"
+        },
+        {
+            "@type": "Person",
+            "name": "Elsa Chauvel",
+            "url": "/name/nm0154375/"
+        },
+        {
+            "@type": "Person",
+            "name": "Maxwell Dunn",
+            "url": "/name/nm0242689/"
+        }
+    ],
+    "datePublished": "1944-12-08",
+    "description": "Tells the story of three men--Bluey, a tough two fisted drover (Taylor), Milo, a laconic dingo trapper (Rafferty), and Pete, an intellectual English \"new chum\" (Finch). Together they serve in North Africa, fighting against the for...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Charles Chauvel",
+            "url": "/name/nm0154374/"
+        }
+    ],
+    "duration": "PT1H8M",
+    "genre": [
+        "Action",
+        "Drama",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTIxMTkwNjU4Nl5BMl5BanBnXkFtZTcwNzA1MTkyMQ@@._V1_.jpg",
+    "keywords": "war propaganda,anzac,australian and new zealand army corps,war injury,briton",
+    "name": "The Rats of Tobruk",
+    "original_info": {
+        "id": "The Fighting Rats of Tobruk_1944",
+        "name": "The Fighting Rats of Tobruk",
+        "year": "1944"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "morrisonhimself"
+        },
+        "dateCreated": "2019-08-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0037212/"
+        },
+        "name": "Bad sound recording, some bad acting, but made in the middle of the war",
+        "reviewBody": "Trying to watch \"The Rats of Tobruk\" at Kanopy, the library service, I was often frustrated by the too-dark print and by the frequent sound errors.\n\nI don't like war movies anyway, and this one did what I expect from a war movie: It showed the sheer insanity of war, and how, as usual, the people in charge, meaning governments and their component politicians, manage to get people killed for pretty much no reason.\n\nYes, this was made in 1944, getting on toward the end of World War II, but I did expect higher quality. The Brits made good movies during the war, and they were often directly under attack.\n\nStill, everything considered, I can recommend \"The Rats of Tobruk\" as an interesting experience: It's an Australian movie, which in my opinion we don't see enough of here in these United States.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for this wartime drama",
+        "duration": "PT1M21S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4243391513",
+        "name": "The Fighting Rats of Tobruk",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZWRhM2U5ZGQtY2VlNy00MTg1LWJlZDAtY2EzYmI3N2QzOWQ2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZWRhM2U5ZGQtY2VlNy00MTg1LWJlZDAtY2EzYmI3N2QzOWQ2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-01-16T16:40:17Z",
+        "url": "https://www.imdb.com/video/vi4243391513/"
+    },
+    "url": "/title/tt0037212/"
+}

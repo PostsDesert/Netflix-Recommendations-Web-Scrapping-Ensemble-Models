@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Andrew McCarthy",
+            "url": "/name/nm0000530/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jami Gertz",
+            "url": "/name/nm0000415/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Downey Jr.",
+            "url": "/name/nm0000375/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 20987,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0022392/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0065783/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bret Easton Ellis",
+            "url": "/name/nm0254735/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harley Peyton",
+            "url": "/name/nm0679037/"
+        }
+    ],
+    "datePublished": "1987-11-06",
+    "description": "A college freshman returns to L.A. for the holidays at his ex-girlfriend's request, but discovers that his former best friend has an out-of-control drug habit.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Marek Kanievska",
+            "url": "/name/nm0437709/"
+        }
+    ],
+    "duration": "PT1H38M",
+    "genre": [
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzJhNGRkMjYtNTdmZS00NTE0LWJkM2EtZTFjYTFiNGM2YjYyXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "drug addict,self destructiveness,twenty something,loyalty,love triangle",
+    "name": "Less Than Zero",
+    "original_info": {
+        "id": "Less Than Zero_1987",
+        "name": "Less Than Zero",
+        "year": "1987"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "SnoopyStyle"
+        },
+        "dateCreated": "2015-11-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0093407/"
+        },
+        "name": "80s decadence",
+        "reviewBody": "Clay Easton (Andrew McCarthy), Blair (Jami Gertz) and Julian Wells (Robert Downey Jr.) are best friends graduating from high school. Julian uses his daddy's money to start a record company. Blair abandons her plans for college with Clay and sleeps with Julian. Six months later, Julian returns home from college for Christmas. Blair convinces Clay to help Julian who is in trouble. Julian lost all of the money and had to borrow from drug dealing school acquaintance Rip (James Spader).\n\nThis captures a certain superficial 80s L.A. decadence. Robert Downey Jr. delivers a big-time performance as a druggie mess. It is probably a bit of real life imitating art. James Spader has the perfect creepy sleaziness. McCarthy is still in the full bloom of his boyish charm. His problem is that he's a bit inferior for the part. He's not quite the leading man this role calls for. Jami Gertz does functional girlfriend acting. Downey is the key and he's great.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT1M31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi127271193",
+        "name": "Less Than Zero",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjk1MjE2YzYtMWQxZS00NTQ5LTkzMWYtZGJmODdhZDYxYzMyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjk1MjE2YzYtMWQxZS00NTQ5LTkzMWYtZGJmODdhZDYxYzMyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:00:02Z",
+        "url": "https://www.imdb.com/video/vi127271193/"
+    },
+    "url": "/title/tt0093407/"
+}

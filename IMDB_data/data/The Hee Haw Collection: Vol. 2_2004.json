@@ -1,0 +1,40 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dolly Parton",
+            "url": "/name/nm0000573/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kenny Price",
+            "url": "/name/nm0696990/"
+        },
+        {
+            "@type": "Person",
+            "name": "Barbi Benton",
+            "url": "/name/nm0072902/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 13,
+        "ratingValue": 9,
+        "worstRating": 1
+    },
+    "datePublished": "2006-01-10",
+    "duration": "PT50M",
+    "genre": [
+        "Music"
+    ],
+    "name": "The Hee Haw Collection, Vol. 5",
+    "original_info": {
+        "id": "The Hee Haw Collection: Vol. 2_2004",
+        "name": "The Hee Haw Collection: Vol. 2",
+        "year": "2004"
+    },
+    "url": "/title/tt0813403/"
+}

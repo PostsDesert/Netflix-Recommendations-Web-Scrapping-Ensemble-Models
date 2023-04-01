@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Arnold Schwarzenegger",
+            "url": "/name/nm0000216/"
+        },
+        {
+            "@type": "Person",
+            "name": "Grace Jones",
+            "url": "/name/nm0005063/"
+        },
+        {
+            "@type": "Person",
+            "name": "Olivia d'Abo",
+            "url": "/name/nm0001882/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 82029,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0014380/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0006728/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0091365/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert E. Howard",
+            "url": "/name/nm0397574/"
+        },
+        {
+            "@type": "Person",
+            "name": "Roy Thomas",
+            "url": "/name/nm0859471/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gerry Conway",
+            "url": "/name/nm0176689/"
+        }
+    ],
+    "datePublished": "1984-06-29",
+    "description": "Conan leads a ragtag group of adventurers on a quest for a princess.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Richard Fleischer",
+            "url": "/name/nm0281507/"
+        }
+    ],
+    "duration": "PT1H43M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTMzMzE3ZTQtODE4Yi00ODhiLWI3NWItOGVhNjllNjY3MzA2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "conan the barbarian character,10000s b.c.,princess,wizard,queen",
+    "name": "Conan the Destroyer",
+    "original_info": {
+        "id": "Conan the Destroyer_1984",
+        "name": "Conan the Destroyer",
+        "year": "1984"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ifikree"
+        },
+        "dateCreated": "2000-11-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0087078/"
+        },
+        "name": "One of the best adventure film we have ever seen",
+        "reviewBody": "This film even though is the second part of Conan the barbarian but it is a damn good film. My kids love it and even I have seen it so many times with them. Arnold is fantastic and so is Grace Jones and Sara Douglass. I wish director Richard Fleischer makes more of this type of films like Conan 3,4,etc., before Arnold gets too old."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Universal Studios Home Entertainment",
+        "duration": "PT1M30S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi650051865",
+        "name": "Conan The Destroyer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzAxMmQ3N2EtMDMyMS00YzVmLTkxYzktMzE5YmUxNTFjODA2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzAxMmQ3N2EtMDMyMS00YzVmLTkxYzktMzE5YmUxNTFjODA2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:31:11Z",
+        "url": "https://www.imdb.com/video/vi650051865/"
+    },
+    "url": "/title/tt0087078/"
+}

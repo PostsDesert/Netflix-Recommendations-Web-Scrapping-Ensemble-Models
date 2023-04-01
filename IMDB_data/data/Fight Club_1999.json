@@ -1,0 +1,110 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Brad Pitt",
+            "url": "/name/nm0000093/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edward Norton",
+            "url": "/name/nm0001570/"
+        },
+        {
+            "@type": "Person",
+            "name": "Meat Loaf",
+            "url": "/name/nm0001533/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2164649,
+        "ratingValue": 8.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0017497/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0007127/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0038102/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chuck Palahniuk",
+            "url": "/name/nm0657333/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Uhls",
+            "url": "/name/nm0880243/"
+        }
+    ],
+    "datePublished": "1999-10-15",
+    "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David Fincher",
+            "url": "/name/nm0000399/"
+        }
+    ],
+    "duration": "PT2H19M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "surprise ending,anti establishment,insomnia,multiple personality disorder,based on novel",
+    "name": "Fight Club",
+    "original_info": {
+        "id": "Fight Club_1999",
+        "name": "Fight Club",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "TheLittleSongbird"
+        },
+        "dateCreated": "2010-05-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0137523/"
+        },
+        "name": "You love it or you hate it, personally I loved it",
+        "reviewBody": "Perhaps a little too long, but Fight Club is just a very well-made, brilliantly written and superlatively performed film. Essentially a satirical fable, it tells of an insomniac loser teaming up with a seditious soap salesman to form a no-holds-barred-fight club as an outlet for their direction-less aggression. This concept is an intriguing and original one, and works really well. Then there is the script, it is absolutely superb, with dialogue that will make you both laugh and think. Fight Club is very well made, with elaborate production design, great editing and startling images. David Fincher's direction is brilliantly handled and the performances of Edward Norton and Brad Pitt are superb. Overall, just a great film, a mesmerising ride through the 1990s male psyche. 9/10 Bethany Cox",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Fight Club",
+        "duration": "PT2M",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi781228825",
+        "name": "Fight Club",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTNmYzllNWYtYzU1Yi00YWFmLTgwMzMtZmY4OGE3NzExNzEzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTNmYzllNWYtYzU1Yi00YWFmLTgwMzMtZmY4OGE3NzExNzEzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-01-01T06:12:45Z",
+        "url": "https://www.imdb.com/video/vi781228825/"
+    },
+    "url": "/title/tt0137523/"
+}

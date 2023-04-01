@@ -1,0 +1,95 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Nikolay Eryomenko",
+            "url": "/name/nm0947698/"
+        },
+        {
+            "@type": "Person",
+            "name": "Pyotr Velyaminov",
+            "url": "/name/nm0892762/"
+        },
+        {
+            "@type": "Person",
+            "name": "Talgat Nigmatulin",
+            "url": "/name/nm0631494/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 905,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "alternateName": "Pirates of the 20th Century",
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0114114/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0533940/"
+        },
+        {
+            "@type": "Person",
+            "name": "Boris Durov",
+            "url": "/name/nm0244294/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stanislav Govorukhin",
+            "url": "/name/nm0332892/"
+        }
+    ],
+    "datePublished": "1980-07-14",
+    "description": "A Soviet cargo ship carrying medical opium gets attacked by pirates of an unknown nationality. The crew is left to die on a sinking ship but they manage to escape and now must fight the pirates for survival.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Boris Durov",
+            "url": "/name/nm0244294/"
+        }
+    ],
+    "duration": "PT1H26M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTc2ZDBiYjEtYWZiMi00MjlkLThkOTktYzVmODc5NGZiNTQ4XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg",
+    "keywords": "pirate,ship,british pound,thief,sailor",
+    "name": "Piraty XX veka",
+    "original_info": {
+        "id": "Pirates of the XXth Century_1979",
+        "name": "Pirates of the XXth Century",
+        "year": "1979"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "grendel-28"
+        },
+        "dateCreated": "1999-04-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0151987/"
+        },
+        "name": "Kungfu movie a la Russ",
+        "reviewBody": "Officially the first martial arts movie in USSR cinematography featuring actual martial artists like Tadeush Kas'yanov and Russian Bruce Lee - Talgat Nigmatullin. Bad people highjack a ship in the high seas but fortunately just about everybody on board is a trained martial artist. A collectible for martial arts aficionado.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 4,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0151987/"
+}

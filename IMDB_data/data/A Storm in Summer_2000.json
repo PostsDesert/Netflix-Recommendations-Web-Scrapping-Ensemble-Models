@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Peter Falk",
+            "url": "/name/nm0000393/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrew McCarthy",
+            "url": "/name/nm0000530/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nastassja Kinski",
+            "url": "/name/nm0000176/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 492,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "F",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0069955/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0047886/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rod Serling",
+            "url": "/name/nm0785245/"
+        }
+    ],
+    "datePublished": "2000-02-27",
+    "description": "An old Jewish shop owner Mr. Shaddick ('Peter Falk') suddenly finds himself responsible for a little black boy named Herman Washington ('Aaron Meek') trying to escape the chaos of Harlem as part of a sponsorship program. At first,...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Wise",
+            "url": "/name/nm0936404/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY1MjU2MjgxNV5BMl5BanBnXkFtZTcwNTA1ODcxMQ@@._V1_.jpg",
+    "keywords": "based on tv movie,uncle nephew relationship,swimming pool,racism,lake",
+    "name": "A Storm in Summer",
+    "original_info": {
+        "id": "A Storm in Summer_2000",
+        "name": "A Storm in Summer",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jaredirish"
+        },
+        "dateCreated": "2000-02-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0217066/"
+        },
+        "name": "Excellent movie",
+        "reviewBody": "This was a very powerful and touching film. Touching upon what makes a human a better person. Peter Falk and Aaron Meeks are an excellent duo. Robert Wise proves again his timeless directing sense. I do believe everyone should watch this movie and just take in what it has to offer. It will make you laugh, and cry, and appreciate life and what it offers.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0217066/"
+}

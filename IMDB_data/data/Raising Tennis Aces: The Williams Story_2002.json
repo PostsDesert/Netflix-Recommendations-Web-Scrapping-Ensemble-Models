@@ -1,0 +1,89 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Leland Hardy",
+            "url": "/name/nm2348860/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Williams",
+            "url": "/name/nm1996313/"
+        },
+        {
+            "@type": "Person",
+            "name": "Serena Williams",
+            "url": "/name/nm1102987/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 13,
+        "ratingValue": 3.8,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0155385/"
+        }
+    ],
+    "datePublished": "2003-01-21",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Terry Jervis",
+            "url": "/name/nm1188216/"
+        }
+    ],
+    "duration": "PT54M",
+    "genre": [
+        "Documentary"
+    ],
+    "name": "Raising Tennis Aces: The Williams Story",
+    "original_info": {
+        "id": "Raising Tennis Aces: The Williams Story_2002",
+        "name": "Raising Tennis Aces: The Williams Story",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "tallguyunc"
+        },
+        "dateCreated": "2007-06-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0471353/"
+        },
+        "name": "Should be called \"The Richard Williams Story\"",
+        "reviewBody": "The title and packaging of this DVD completely misrepresents what this film is about. There is very little on how Venus and Serena were raised and what techniques were followed to make them great tennis players. This is all about Richard Williams, how he grew up, and his philosophies. Additionally, this documentary has a very amateurish feel to it, but not in a good \"homemade\" way, rather as if some high school student made this. The narrator does not sound professional at all, it sounds like he's reading a script, no inflection to the voice and not a very good voice. The narrator says how Richard likes to stay in the background and leave the spotlight to Venus and Serena, yet in this documentary Richard is always in the foreground and we just occasionally hear from his daughters. While short sound bites from Richard make him sound pretty dumb, when you actually hear him go on at length during this hour long video you do realize he's actually quite an intelligent person. Overall this video does seem a propaganda piece put out by Richard. It claims he is their coach and tennis instructor and taught his daughters how to play tennis at the professional level. If that were true they would not have the excellent technique and tennis skills that they display. Though not shown in this video, even by age 10 they were actually receiving coaching by top tennis instructor Rick Macci who was not just an occasional coach but was actually traveling with them.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 1,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from 20th Century Fox Home Entertainment",
+        "duration": "PT1M46S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2273444121",
+        "name": "Raising Tennis Aces - The Williams Story",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjYyOTc1ZjUtNzc1NS00YTMzLTliOTktYmRiMWQ5ZjkwOWY3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjYyOTc1ZjUtNzc1NS00YTMzLTliOTktYmRiMWQ5ZjkwOWY3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:48:48Z",
+        "url": "https://www.imdb.com/video/vi2273444121/"
+    },
+    "url": "/title/tt0471353/"
+}

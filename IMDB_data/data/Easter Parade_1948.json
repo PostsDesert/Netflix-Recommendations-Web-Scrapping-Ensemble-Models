@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Judy Garland",
+            "url": "/name/nm0000023/"
+        },
+        {
+            "@type": "Person",
+            "name": "Fred Astaire",
+            "url": "/name/nm0000001/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Lawford",
+            "url": "/name/nm0492444/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 10351,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007143/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sidney Sheldon",
+            "url": "/name/nm0791084/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frances Goodrich",
+            "url": "/name/nm0329304/"
+        },
+        {
+            "@type": "Person",
+            "name": "Albert Hackett",
+            "url": "/name/nm0352443/"
+        }
+    ],
+    "datePublished": "1948-07-08",
+    "description": "A nightclub performer hires a naive chorus girl to become his new dance partner to make his former partner jealous and to prove he can make any partner a star.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Charles Walters",
+            "url": "/name/nm0910199/"
+        }
+    ],
+    "duration": "PT1H43M",
+    "genre": [
+        "Musical",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTFkOTMwMzctYmZiZS00ODRjLTgxOWUtYjUzYjJlOWFjNjBiXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "keywords": "camp,timeframe 1910s,pug dog,saluki dog,romantic rivalry",
+    "name": "Easter Parade",
+    "original_info": {
+        "id": "Easter Parade_1948",
+        "name": "Easter Parade",
+        "year": "1948"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "hitchcockthelegend"
+        },
+        "dateCreated": "2009-11-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0040308/"
+        },
+        "name": "A couple of swells and a tuneful piece of work.",
+        "reviewBody": "Perhaps not quite reaching the heights that the talent involved suggests it should, Easter Parade is still none the less a delightful musical full of skill, vigour and heart warming attributes. The story sees Fred Astaire's Don Hewes getting dumped by his dance partner Nadine Hale {Ann Miller}. Vowing revenge, he boasts that he could get any basic lady performer and make her a star alongside him. Enter Judy Garland as chorus girl Hannah Brown But for a volleyball accident, Don Hewes would have been played by Gene Kelly, who suggested that since he was out of the picture, the makers should try and get Astaire on board. Astaire had retired from Hollywood but jumped at the chance to replace the then present incumbent of the role, Mickey Rooney. Worked out OK in the end, because, as was normally the way, Astaire gave another masterful song and dance performance. Garland on the other hand had to dig deep to enthuse the role with some quality. In a rut with the formula of the films she was making, and nearing exhaustion because of the hectic schedules, it took a guiding hand from Astaire to see her thru the production. The end result? Garland still managing to enchant and whisk the viewer to a nice place where troubles don't exist.\n\nThe piece contains 17 of Irving Berlin's tunes, with Steppin' Out with My Baby and A Couple of Swells particularly standing out, with the latter expertly played out on a moving floor. While admirably supporting the principals is Peter Lawford as Jonathan Harrow III. It's a foot tapper to warm the cockles on a blustery winters day, never mind only at easter! 7/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A nightclub performer hires a naive chorus girl to become his new dance partner to make his former partner jealous and to prove he can make any partner a star.",
+        "duration": "PT2M17S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3515530265",
+        "name": "Official Blu-ray Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTgwM2JkM2MtMzM4Ny00NGE2LWIzNjUtOTk2NDYxNTM5ZGEzXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTgwM2JkM2MtMzM4Ny00NGE2LWIzNjUtOTk2NDYxNTM5ZGEzXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2019-04-24T14:35:22.230Z",
+        "url": "https://www.imdb.com/video/vi3515530265/"
+    },
+    "url": "/title/tt0040308/"
+}

@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "James Caan",
+            "url": "/name/nm0001001/"
+        },
+        {
+            "@type": "Person",
+            "name": "Geneviève Bujold",
+            "url": "/name/nm0000991/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jennifer Tilly",
+            "url": "/name/nm0000236/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 996,
+        "ratingValue": 5.4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0064009/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0104832/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0020649/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harriet Sand",
+            "url": "/name/nm0996147/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alberto Sciamma",
+            "url": "/name/nm0778404/"
+        }
+    ],
+    "datePublished": "2004-04-27",
+    "description": "A murder in an old apartment building leads the superintendent to suspect everyone, and eventually himself, of the murder.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Alberto Sciamma",
+            "url": "/name/nm0778404/"
+        }
+    ],
+    "duration": "PT1H38M",
+    "genre": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTIyNzc0MjI2OF5BMl5BanBnXkFtZTYwOTQzNDQ3._V1_.jpg",
+    "keywords": "body in a dumpster,apartment building,superintendent,masseuse,amnesia",
+    "name": "Jericho Mansions",
+    "original_info": {
+        "id": "Jericho Mansions_2003",
+        "name": "Jericho Mansions",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Skit56"
+        },
+        "dateCreated": "2005-06-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0338159/"
+        },
+        "name": "There seems to be several pieces missing in this puzzle.",
+        "reviewBody": "There seems to be several pieces missing in this puzzle. A phone call from a sister intensifies a landlady's inexplicable mistreatment of her slow agoraphobic building superintendent. The butt of jokes among the local cops, she once again accuses him of theft but nothing is ever found. But after thirty years, the super's confusing dreams of what appears to be a bad spaghetti western suddenly come into focus when he becomes the focal point of a brutal murder. Has he murdered someone while sleepwalking? The tenants bear witness to his wild swings of passivity and passion.\n\nWildly confusing at times, it all becomes crystal clear in the end when we discover why the landlady is sure the super has been stealing from her for years. When at last, he comes to understand who and what he is, will he actually know what it is he wants? When the ones who desert it, get what they deserve, will he get what he wants and deserves? For those who willing pay attention and stick this movie out, they will enjoy having all their questions answered.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0338159/"
+}

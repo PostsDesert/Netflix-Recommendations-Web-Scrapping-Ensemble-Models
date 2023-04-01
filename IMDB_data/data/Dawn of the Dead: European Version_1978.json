@@ -1,0 +1,95 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "David Emge",
+            "url": "/name/nm0256361/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ken Foree",
+            "url": "/name/nm0286010/"
+        },
+        {
+            "@type": "Person",
+            "name": "Scott H. Reiniger",
+            "url": "/name/nm0718203/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 123526,
+        "ratingValue": 7.8,
+        "worstRating": 1
+    },
+    "contentRating": "Unrated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0136689/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0607988/"
+        },
+        {
+            "@type": "Person",
+            "name": "George A. Romero",
+            "url": "/name/nm0001681/"
+        }
+    ],
+    "description": "During an escalating zombie epidemic, two Philadelphia SWAT team members, a traffic reporter and his TV executive girlfriend seek refuge in a secluded shopping mall.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "George A. Romero",
+            "url": "/name/nm0001681/"
+        }
+    ],
+    "duration": "PT2H7M",
+    "genre": [
+        "Horror",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzc1YTIyNjctYzhlNy00ZmYzLWI2ZWQtMzk4MmQwYzA0NGQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "zombie apocalypse,cult film,zombie,pennsylvania,shopping mall",
+    "name": "Dawn of the Dead",
+    "original_info": {
+        "id": "Dawn of the Dead: European Version_1978",
+        "name": "Dawn of the Dead: European Version",
+        "year": "1978"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bob the moo"
+        },
+        "dateCreated": "2004-04-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0077402/"
+        },
+        "name": "Dated quite badly but still an enjoyable movie for gore fans",
+        "reviewBody": "As the dead continue to rise up and live again as flesh hungry zombies, civilisation begins to crumble as the problem becomes too big to be easily defeated. In Philadelphia a traffic reporter and his girlfriend use the helicopter to take refuge in a mall where they are joined by a couple of SWAT officers. Their first mission is to seal the mall and clear it of the undead. However as they fortify the army of the undead only continues to grow.\n\nHaving recently made the rather scary and fast paced remake, I thought I would revisit the original just to see it again. The main thing I prefer about the original is how the gore is served up with a satirical edge that the remake pretty much didn't even bother with. Here, much like Shaun of the Dead, the zombies are just trying to do what they did in life - walk aimlessly around a massive mall, not entirely sure what they're after but doing it none the less. This makes that point reasonably well but I actually preferred it in Shaun (but I know it could be because this is an older film).\n\nThe horror of this film comes from the gore as the zombies are far too slow and easily avoided to be really truly scary. Again this may be down to the film's age as jaded audiences will scare a whole lot harder than they did back then simply due to the excesses that have been piled upon us. The gore is still quite hard for me to watch though and there were quite a few moments when I watched through my fingers. The idea is still good and the number of zombies involved (as well as some other aspects) covers from plot problems that arose in the remake.\n\nThe cast are all pretty good and it isn't as predictable who will make it and who won't as it is in some other slasher movies where you can spot the fodder miles away. The problem with this film to me is that it has dated badly, the story has been opened out from the Night and has lost tension and atmosphere as a result - with only the bloody red gore to replace it. The scares have been lost with familiarity and the film's comedy just doesn't really work in the context. It's a shame, because I usually don't like remakes but I do have to say that the remake is a lot scarier and Shaun of the Dead is a lot funnier and makes the same sort of comments on society.\n\nOverall this is still a good movie that uses the horror genre to make comments about a commercialist society that is (literally) eating itself with the pursuit of stuff for stuff's sake. Age has not treated it well but it is still worth seeing."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Dawn Of The Dead",
+        "duration": "PT2M40S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi215942681",
+        "name": "Dawn of the Dead (1978)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzNhMGRlNDEtYzlhMy00MTJkLTkwODAtODhiMDVlNWQ3NTQxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzNhMGRlNDEtYzlhMy00MTJkLTkwODAtODhiMDVlNWQ3NTQxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-08-21T03:10:58Z",
+        "url": "https://www.imdb.com/video/vi215942681/"
+    },
+    "url": "/title/tt0077402/"
+}

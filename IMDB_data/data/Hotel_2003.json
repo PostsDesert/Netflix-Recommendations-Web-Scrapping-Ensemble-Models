@@ -1,0 +1,73 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Lance Krall",
+            "url": "/name/nm0469414/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeremy Dunn",
+            "url": "/name/nm0242617/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jay Kenneth Johnson",
+            "url": "/name/nm0425322/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 26,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0036483/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0001860/"
+        },
+        {
+            "@type": "Person",
+            "name": "Juan Carlos Coto",
+            "url": "/name/nm0182871/"
+        },
+        {
+            "@type": "Person",
+            "name": "Arthur Hailey",
+            "url": "/name/nm0354150/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cory Tynan",
+            "url": "/name/nm1005095/"
+        }
+    ],
+    "description": "The loves and lives of a group of people converge at the luxurious St. Gregory Hotel in New Orleans.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Greg Yaitanes",
+            "url": "/name/nm0944981/"
+        }
+    ],
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "keywords": "based on novel",
+    "name": "Hotel",
+    "original_info": {
+        "id": "Hotel_2003",
+        "name": "Hotel",
+        "year": "2003"
+    },
+    "url": "/title/tt0371733/"
+}

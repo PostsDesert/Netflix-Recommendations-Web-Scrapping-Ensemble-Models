@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Audrey Hepburn",
+            "url": "/name/nm0000030/"
+        },
+        {
+            "@type": "Person",
+            "name": "Shirley MacLaine",
+            "url": "/name/nm0000511/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Garner",
+            "url": "/name/nm0001258/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 17161,
+        "ratingValue": 7.8,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0011112/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lillian Hellman",
+            "url": "/name/nm0375484/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Michael Hayes",
+            "url": "/name/nm0371088/"
+        }
+    ],
+    "datePublished": "1961-12-19",
+    "description": "A rebellious student at a girls' school accuses two teachers of lesbianism.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "William Wyler",
+            "url": "/name/nm0943758/"
+        }
+    ],
+    "duration": "PT1H48M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDRjYzQ4OTgtZjlmMC00ZmU2LThjYWMtNjYyM2M2NDk5NDc1XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
+    "keywords": "lesbian,spoiled child,bigotry,false accusation,girls' boarding school",
+    "name": "The Children's Hour",
+    "original_info": {
+        "id": "The Children's Hour_1961",
+        "name": "The Children's Hour",
+        "year": "1961"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "emilyh113"
+        },
+        "dateCreated": "2007-08-22",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0054743/"
+        },
+        "name": "Stands the test of time, Excellent acting, good story line, heartfelt",
+        "reviewBody": "My favorite review of this film is a short, concise one entitled WOW written in 2000 (read it and you'll read my feelings exactly!). I believe it says a lot that over 40 years later, we still want to comment and view this movie (a movie that is not necessarily a popular classic that people know about). I had never heard of this movie until looking on Netflix and deciding to rent all the Audrey Hepburn movies. While she is fabulous, I thought Shirley M was the shining performance in this movie. James Garner is so genuinely loving and likable (as usual!) The other characters are also fabulous but for length I won't list them all! I highly recommend this film to someone who appreciates dramatic film with good character development. It is definitely not what I expected from something on an Audrey Hepburn list (which makes me love her more)! Some raters feel that this movie has homophobic undertones and is not appropriate for today's society (because we are so open minded now???). As someone who has worked with youth of today in a small town, I believe it is still relatable. I think it would open up a good discussion because I felt hope in the midst of tragedy (I don't want to give away anything but basically a \"what could you have done instead\" dialog).\n\nI weeped at the end but would watch it again as it is superb. I would give it a 10 but having only seen it once, I feel biased as I'm sure there are minor flaws somewhere! I give it a 9.9/10 instead!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M49S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3933126937",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTIwYTNkOTItNjQ1Ni00NTIxLWJlNjktNDlmZTM3OWVjNzc1XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTIwYTNkOTItNjQ1Ni00NTIxLWJlNjktNDlmZTM3OWVjNzc1XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-02-01T16:23:40.500Z",
+        "url": "https://www.imdb.com/video/vi3933126937/"
+    },
+    "url": "/title/tt0054743/"
+}

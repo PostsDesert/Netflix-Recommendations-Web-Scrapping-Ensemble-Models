@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bob Holt",
+            "url": "/name/nm0357090/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jesse Welles",
+            "url": "/name/nm0919934/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Romanus",
+            "url": "/name/nm0739087/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 12282,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0006692/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0512124/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ralph Bakshi",
+            "url": "/name/nm0000835/"
+        }
+    ],
+    "datePublished": "1977-02-09",
+    "description": "On a post-apocalyptic Earth, a wizard and his faire folk comrades fight an evil wizard who's using technology in his bid for conquest.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ralph Bakshi",
+            "url": "/name/nm0000835/"
+        }
+    ],
+    "duration": "PT1H20M",
+    "genre": [
+        "Animation",
+        "Adventure",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUyYTNlOWYtNWNjMy00MDU2LTg1ZmMtOWRhYmIwODA2ZmQ4XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "massive breasts,wizard,villain turns good,future earth,dark future",
+    "name": "Wizards",
+    "original_info": {
+        "id": "Wizards_1977",
+        "name": "Wizards",
+        "year": "1977"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "MoviesRNeat"
+        },
+        "dateCreated": "2006-01-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0076929/"
+        },
+        "name": "Everyone I know who has seen it has loved it",
+        "reviewBody": "I found this movie as a teen and used to show it to friends the morning after parties. It's sort of a Saturday morning cartoon gone horribly awry. I've never seen animation like it before, though I understand Bakshi has other stuff out there. I like it better than Heavy Metal and American Pop. I found it while looking for Rock and Rule, which I didn't find very memorable. This, however, I saw once and had to see again! Everyone I've shown it to has liked it- it's a sci-fi fantasy cartoon with a moral message and enough plot and humor to keep things interesting. Again, great morning after type stuff, though perhaps a bit intense and/or slow at times.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M2S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi84918553",
+        "name": "Trailer [EN]",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjAyM2ExY2UtYTMyYS00NWEwLTkyMWQtM2NjYmNmMDA0ZGZhXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjAyM2ExY2UtYTMyYS00NWEwLTkyMWQtM2NjYmNmMDA0ZGZhXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-01-12T17:18:32.885Z",
+        "url": "https://www.imdb.com/video/vi84918553/"
+    },
+    "url": "/title/tt0076929/"
+}

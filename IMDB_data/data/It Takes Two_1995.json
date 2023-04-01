@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kirstie Alley",
+            "url": "/name/nm0000263/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve Guttenberg",
+            "url": "/name/nm0000430/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mary-Kate Olsen",
+            "url": "/name/nm0001581/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 23654,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0018640/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0078748/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0030480/"
+        },
+        {
+            "@type": "Person",
+            "name": "Deborah Dean Davis",
+            "url": "/name/nm0204456/"
+        }
+    ],
+    "datePublished": "1995-11-17",
+    "description": "Alyssa and Amanda are two little girls who are identical, but complete strangers, that accidentally meet one day.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Andy Tennant",
+            "url": "/name/nm0855035/"
+        }
+    ],
+    "duration": "PT1H41M",
+    "genre": [
+        "Comedy",
+        "Family",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzdhMGU0MzEtZjg1Ny00YzE5LWE0MGQtMTNiN2UwN2I5ZDBjXkEyXkFqcGdeQXVyNTgzMzU5MDI@._V1_.jpg",
+    "keywords": "mistaken identity,identity swapping,nylon stockings,child plays matchmaker,embarrassment",
+    "name": "It Takes Two",
+    "original_info": {
+        "id": "It Takes Two_1995",
+        "name": "It Takes Two",
+        "year": "1995"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Claire-54"
+        },
+        "dateCreated": "2002-05-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0113442/"
+        },
+        "name": "Brillant movie for people who love kids",
+        "reviewBody": "This film is my best ever film. I've liked it since I fist watched it on tv and it passed the time away. The twins Amanda and Alyssa are so sweet. They think up of devious plans to break Clarice and Roger up so Roger and Dianne can get married. Amanda lives in an orphanage and Dianne is her social worker. Amanda loves Dianne so much and wants to be adopted by her. Dianne feels the same way too about Amanda but the authorities say that Amanda needs a family.It is the coolest film ever and anyone out there should watch it because it does make you laugh and cry."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Warner Bros. Pictures",
+        "duration": "PT1M56S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1336869145",
+        "name": "It Takes Two",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjYzZDg0MDEtMGE1NS00M2IzLWI5OGYtM2MwMThmMzAyNGU0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjYzZDg0MDEtMGE1NS00M2IzLWI5OGYtM2MwMThmMzAyNGU0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:35:43Z",
+        "url": "https://www.imdb.com/video/vi1336869145/"
+    },
+    "url": "/title/tt0113442/"
+}

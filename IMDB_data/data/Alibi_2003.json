@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Michael Kitchen",
+            "url": "/name/nm0457655/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sophie Okonedo",
+            "url": "/name/nm0645683/"
+        },
+        {
+            "@type": "Person",
+            "name": "Phyllis Logan",
+            "url": "/name/nm0517642/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 388,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0104059/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0048610/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Abbott",
+            "url": "/name/nm0008036/"
+        }
+    ],
+    "datePublished": "2003-08-25",
+    "description": "\"Alibi\" is a thriller with a bit of romance and touches of black humour along the way. Greg is discovered with the dead body of his wife's lover by Marcey, a public servant moonlighting as a waitress at a party thrown by Greg for ...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David Richards",
+            "url": "/name/nm0724047/"
+        }
+    ],
+    "duration": "PT3H",
+    "genre": [
+        "Thriller",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTIzMjU4NDE4Nl5BMl5BanBnXkFtZTcwOTcwODkyMQ@@._V1_.jpg",
+    "keywords": "dead body,accident,lie,marriage,infidelity",
+    "name": "Alibi",
+    "original_info": {
+        "id": "Alibi_2003",
+        "name": "Alibi",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "=G="
+        },
+        "dateCreated": "2004-09-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0379083/"
+        },
+        "name": "For more mature audiences into British drama",
+        "reviewBody": "\"Alibi\" tells of a British businessman who unwittingly kills his wife's lover, is serendipitously befriended by a young woman who provides his alibi, and becomes becomes embroiled in the cover-up, police investigation, discoveries of more sinister malfeasance, domestic issues, and more. Shot in the usual made-for-TV Brit no frills style with nonstop dialogue, this very civilized flick is sufficiently busy and twisty to hold interest for most of the 2.5 hour run. On the upside is a solid cast offering good performances. On the downside is mediocre production value and no subtitles or CC. Probably a worthwhile small screener for those into contemporary Brit dramas. (B-)",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0379083/"
+}

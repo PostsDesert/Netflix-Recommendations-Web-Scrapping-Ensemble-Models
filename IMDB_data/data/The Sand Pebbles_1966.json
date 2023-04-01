@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Steve McQueen",
+            "url": "/name/nm0000537/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Attenborough",
+            "url": "/name/nm0000277/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Crenna",
+            "url": "/name/nm0001077/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 15572,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0021486/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0119024/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0024434/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard McKenna",
+            "url": "/name/nm0571414/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Anderson",
+            "url": "/name/nm0027355/"
+        }
+    ],
+    "datePublished": "1966-12-20",
+    "description": "In 1926, a U.S. Naval engineer gets assigned to a gunboat on a rescue mission in war-torn China.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Wise",
+            "url": "/name/nm0936404/"
+        }
+    ],
+    "duration": "PT3H2M",
+    "genre": [
+        "Adventure",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzM4NWQzNzAtNjc0Yy00NjFiLWFiMjUtMTczNWYwMGY1YjUyXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
+    "keywords": "year 1926,u.s. navy sailor,american in china,american in asia,gunboat",
+    "name": "The Sand Pebbles",
+    "original_info": {
+        "id": "The Sand Pebbles_1966",
+        "name": "The Sand Pebbles",
+        "year": "1966"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "fernies"
+        },
+        "dateCreated": "2000-10-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0060934/"
+        },
+        "name": "The Sand Pebbles - a powerful and human anti-war film",
+        "reviewBody": "`The Sand Pebbles' has been one of my favourite films since I first saw it on television in 1976. The widescreen version does justice not just to the sweeping panoramas of the quite breathtaking Chinese scenery, but also to the sweeping events and themes of the story. It is in every way a `big' film, dealing with political and military intervention (clear parallels with Vietnam at the time of release), nationalism, racism, and the horrors of war. Yet for all its heavy themes, it is most successful in the depiction of its very human characters. These characters are not just the means of conveying the `messages' of the film, or fodder for the gripping and well-staged action scenes. They are individuals in their own right, involved in something far greater than their own destinies. Some are unpleasant and ignorant while others are honourable but lost in the sea of historic events surrounding them. Some, like Jake Holman (Steve McQueen), demand sympathy and respect as they struggle to come to terms with their personal challenges brought to the fore by these historically significant and politically dangerous events.\n\nInevitably there are slow and confusing passages as the political implications are expounded, but these are more than compensated for by our emotional engagement as we become involved in the stories of the people caught up in the political fall-out. Robert Wise's direction is strong and emotionally charged, complemented perfectly by Jerry Goldsmith's wonderfully haunting and ominous music. Steve McQueen gives what was probably the performance of his career (receiving his only Academy Award nomination), and he is supported by a wonderful cast including Richard Attenborough, Richard Crenna, Candice Bergen (aged just 19), and especially Mako. But it is really McQueen's film. His very presence lifts scenes and he manages to convey authenticity and gain the sympathy of the viewer with consummate ease. Apparently misunderstood by some critics on its release, it is a powerful and intrinsically human anti-war film. It is not a happy film, but it is totally absorbing and thought provoking.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Alan Yang, Tzi Ma and Christine Ko of 'Tigertail' name some of their favorite films to check out in Asian Cinema.",
+        "duration": "PT2M56S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi881573401",
+        "name": "The Cast of 'Tigertail' Name Their Favorite Films in Asian Cinema",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTUwNDFjYzItZjBjNi00NWI5LTliZjItNzgwMWYzZmU1MGI5XkEyXkFqcGdeQUlNRGJWaWRlb1RodW1ibmFpbFNlcnZpY2U@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTUwNDFjYzItZjBjNi00NWI5LTliZjItNzgwMWYzZmU1MGI5XkEyXkFqcGdeQUlNRGJWaWRlb1RodW1ibmFpbFNlcnZpY2U@._V1_.jpg",
+        "uploadDate": "2020-04-08T00:52:34.186Z",
+        "url": "https://www.imdb.com/video/vi881573401/"
+    },
+    "url": "/title/tt0060934/"
+}

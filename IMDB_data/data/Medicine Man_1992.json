@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sean Connery",
+            "url": "/name/nm0000125/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lorraine Bracco",
+            "url": "/name/nm0000966/"
+        },
+        {
+            "@type": "Person",
+            "name": "José Wilker",
+            "url": "/name/nm0929093/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 23992,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0076240/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0094483/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tom Schulman",
+            "url": "/name/nm0776114/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sally Robinson",
+            "url": "/name/nm0548736/"
+        }
+    ],
+    "datePublished": "1992-02-07",
+    "description": "In the beautiful and dangerous Amazon rainforest, dissimilar people must make their choices between business, science, and love.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John McTiernan",
+            "url": "/name/nm0001532/"
+        }
+    ],
+    "duration": "PT1H46M",
+    "genre": [
+        "Adventure",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODc3NTFkYTEtMTUzZi00ZTI4LWJjMGItNWI4ZGFlOTNhNGY1XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+    "keywords": "jungle,environmental issue,indigenous people,stethoscope exam,aerial camera shot",
+    "name": "Medicine Man",
+    "original_info": {
+        "id": "Medicine Man_1992",
+        "name": "Medicine Man",
+        "year": "1992"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "discogoth"
+        },
+        "dateCreated": "2001-12-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0104839/"
+        },
+        "name": "Solid rainforest drama",
+        "reviewBody": "When this movie came out in 1992, many critics seemed to feel that it was mediocre, or average at best. Even as a hardcore Connery fan I avoided the film simply based on a handful of reviews I had read in the media at the time.\n\nFast forward nearly ten years and the mixed reviews here on imdb reinforced my apathy towards the film. It wasn't until I borrowed a copy through a local library that I finally watched the movie just now, and I fail to see why it's supposedly not up to par. I thought it was a fine film in most respects: the storytelling was good, the dialogue was snappy, the cinematography was wonderful, and it had a positive message. It's not an action movie, but I never felt bored at all...if anything, it was a refreshing change of pace and scenery, and Sean Connery continues to astound me with his versatility. His acting was superb, which is not really a big suprise, but he seemed more into this role than some others I've seen him in. Even the wig and ponytail looked real!\n\nLike a lot of other people, I found Lorraine Bracco's character quite annoying, almost insufferable at certain points, but that's the whole point: her character is supposed to be like that, and the truth is that if she didn't come across as so irritating then that would have been failed acting skills on her part. I think she did a great job at being annoying, which is what she was supposed to do. I imagine that if you took some ivy league lab rat scholar and dumped them right in the middle of a situation and place that's totally foreign to them, you'd probably get a reaction like the one she portrayed. I found the two leads had a good chemistry, and the constant tension and conflict between them was very convincing and helped to propel the story along.\n\nAll in all an enjoyable film, but some of the other aspects could have and should have been expanded. I felt that they spent too much time searching the trees for the plant they needed, and the whole conflict with the developers was thrown in at too late a juncture. These aren't major failings however, so I'd recommend the film to anyone looking for something a bit different, and it's a must for any Connery fan. Don't wait ten years to see it simply because some critics didn't think it was a masterpiece. Screw the critics!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "In the beautiful and dangerous Amazon rainforest, dissimilar people must make their choices between business, science, and love.",
+        "duration": "PT1M53S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3235168537",
+        "name": "Theatrical Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDQ5NjMxZGQtMjAxMy00ODJjLTgzMzYtNTM0MmY2YzI0NzMxXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDQ5NjMxZGQtMjAxMy00ODJjLTgzMzYtNTM0MmY2YzI0NzMxXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-11-03T11:06:34.880Z",
+        "url": "https://www.imdb.com/video/vi3235168537/"
+    },
+    "url": "/title/tt0104839/"
+}

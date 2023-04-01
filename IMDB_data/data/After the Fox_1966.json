@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Peter Sellers",
+            "url": "/name/nm0000634/"
+        },
+        {
+            "@type": "Person",
+            "name": "Victor Mature",
+            "url": "/name/nm0001514/"
+        },
+        {
+            "@type": "Person",
+            "name": "Britt Ekland",
+            "url": "/name/nm0001180/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4538,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "alternateName": "After the Fox",
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0071675/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0313981/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0753547/"
+        },
+        {
+            "@type": "Person",
+            "name": "Neil Simon",
+            "url": "/name/nm0800319/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cesare Zavattini",
+            "url": "/name/nm0953790/"
+        }
+    ],
+    "datePublished": "1968-12-25",
+    "description": "An Italian criminal mastermind, impersonating a film director, plans to grab the loot on a beach where a bogus movie is being filmed.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Vittorio De Sica",
+            "url": "/name/nm0001120/"
+        }
+    ],
+    "duration": "PT1H43M",
+    "genre": [
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYmE3ZWFjYTktNmFjYy00NGQ1LTljYWYtOTQ4ZDM3NTdkNjdiXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+    "keywords": "prison,brother sister relationship,trial,car chase,filmmaking",
+    "name": "Caccia alla volpe",
+    "original_info": {
+        "id": "After the Fox_1966",
+        "name": "After the Fox",
+        "year": "1966"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "shepardjessica"
+        },
+        "dateCreated": "2004-08-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0060200/"
+        },
+        "name": "De Sica's Comic \"Masterpiece\"",
+        "reviewBody": "This late 60's comic bumbling, silly fable with the Peter Sellers and his then (or soon-to-be wife) Britt Ekland AND Victor Mature..and Martin Balsam (OSCAR winner before this - who was also in ON THE WATERFRONT, PSYCHO, and BREAKFAST AT TIFFANY'S) is a comic easy fable about egos, movie-making and just \"you know\" 60's fun and I'm sure it bombed. Such a pity. This flick is a laugh-fest in the easiest fun way in 1966 that only an idiot COULDN'T ENJOY, unless he or she hates Italians OR Peter Sellers (playing an Italian). Joyeous stuff!\n\nNot slapstick, not bathroom or mother-in-laws or Bob Hope stupid humor, this has a PLOT and conveys, so subtley, the joy of a crime-thriller while you're catching up to the maniacal silly plot. The acting is beyond talking about Oscar-worthy stuff. It's totally believable because of the story (AND Sellers sings the opening credits title song). It's quite unique and dedicated to 60's fun!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "An Italian criminal mastermind, impersonating a film director, plans to grab the loot on a beach where a bogus movie is being filmed.",
+        "duration": "PT2M50S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2318385945",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZmY1ZmQ2ZWQtYTkyYi00NmI1LWEwMDQtNmQ3NWZlZDEwNjBjXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZmY1ZmQ2ZWQtYTkyYi00NmI1LWEwMDQtNmQ3NWZlZDEwNjBjXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2022-01-19T20:28:28.527Z",
+        "url": "https://www.imdb.com/video/vi2318385945/"
+    },
+    "url": "/title/tt0060200/"
+}

@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Paul McGann",
+            "url": "/name/nm0001524/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eric Roberts",
+            "url": "/name/nm0000616/"
+        },
+        {
+            "@type": "Person",
+            "name": "Daphne Ashbrook",
+            "url": "/name/nm0038695/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9906,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "alternateName": "Doctor Who: The Movie",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0046592/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0103957/"
+        },
+        {
+            "@type": "Person",
+            "name": "Matthew Jacobs",
+            "url": "/name/nm0414226/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sydney Newman",
+            "url": "/name/nm0628285/"
+        }
+    ],
+    "datePublished": "1996-05-14",
+    "description": "The newly-regenerated Doctor takes on the Master on the turn of the millennium, 31 December 1999.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Geoffrey Sax",
+            "url": "/name/nm0768249/"
+        }
+    ],
+    "duration": "PT1H29M",
+    "genre": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDFiMGU1MmQtMTg0Ny00ZmQ4LTkyMWMtYjVlZGRmMWY5ZDliXkEyXkFqcGdeQXVyMTA0MTI2ODE4._V1_.jpg",
+    "keywords": "master,regeneration,eighth doctor,apocalypse,doctor who character",
+    "name": "Doctor Who",
+    "original_info": {
+        "id": "Doctor Who: The Visitation_1982",
+        "name": "Doctor Who: The Visitation",
+        "year": "1982"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Rabbit-7"
+        },
+        "dateCreated": "1998-08-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0116118/"
+        },
+        "name": "HERE's why the Brits hate us!",
+        "reviewBody": "Whenever anyone talked about the possibility of America doing \"Dr. Who\" (especially after BBC cancelled the show), people would joke, \"Oh, right! They'd add car chases and gun fights and the Doctor would fool around with his companions!\" Then they'd have a hearty laugh at these stereotypes of Hollywood, confident that they were being sarcastic and, if it ever DID happen, certainly people involved with the show would try to preserve the sensibilities of the series. That'll show 'em for over-estimating the intelligence of our media! I think America should revive the Lend-Lease Act, providing funding for any future movies but letting the Brits actually make them. In turn, the BBC should file for a gun law exemption so they can shoot any Fox producer trying to visit the set."
+    },
+    "url": "/title/tt0116118/"
+}

@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sidney Poitier",
+            "url": "/name/nm0001627/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rod Steiger",
+            "url": "/name/nm0001768/"
+        },
+        {
+            "@type": "Person",
+            "name": "Warren Oates",
+            "url": "/name/nm0643105/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 78838,
+        "ratingValue": 7.9,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0011112/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stirling Silliphant",
+            "url": "/name/nm0798103/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Ball",
+            "url": "/name/nm0050398/"
+        }
+    ],
+    "datePublished": "1967-08-02",
+    "description": "A black Philadelphia police detective is mistakenly suspected of a local murder while passing through a racially hostile Mississippi town, and after being cleared is reluctantly asked by the police chief to investigate the case.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Norman Jewison",
+            "url": "/name/nm0422484/"
+        }
+    ],
+    "duration": "PT1H50M",
+    "genre": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZDM1MTM4NGYtZDNjYy00ZDA5LTk4NTctYzg2OTVjZGRiODY3XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "racism,african american,small town,police detective,police chase",
+    "name": "In the Heat of the Night",
+    "original_info": {
+        "id": "In the Heat of the Night_1967",
+        "name": "In the Heat of the Night",
+        "year": "1967"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bkoganbing"
+        },
+        "dateCreated": "2007-05-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0061811/"
+        },
+        "name": "The Growing Pains of the New South",
+        "reviewBody": "In order to understand what's happening in In the Heat of the Night you have to realize that it is set in a very specific time period. The Civil Rights Act had been passed in 1964 and the Voting Rights Act was passed in 1965. But the impact of those laws was only beginning to be felt.\n\nEspecially the Voting Rights Act. The town of Sparta, Mississippi where William Schallert was Mayor and Rod Steiger was sheriff now has a significant new voting population and blacks might be a majority in that county. But even if they aren't, they know have a voice in the electoral process. Someone like Steiger has to take that into account now. Of course some of his deputies might not yet be with the program which explains why when a murder/robbery is committed of a very prominent northern businessman, Warren Oates sees fit to roust Sidney Poitier who's an unfamiliar black face in that town.\n\nWhat a surprise they all get when they find out he's a top Philadelphia, Pennsylvania homicide detective and when his identity is established, his boss in Philly offers his services.\n\nPoitier and Steiger both have to work through their prejudices, how each sees the other to solve this mystery which writer Stirling Silliphant gives us several red herrings before we learn the truth. Though Steiger got the Oscar for Best Actor, it should really have been a joint award. Their conflict and growing respect for each other drives the film. Steiger needs his expertise and respects him for that and Poitier comes to respect Steiger for his honesty.\n\nNorman Jewison got great performances from his stars and the supporting cast of whom Warren Oates as the dimwit redneck deputy really shines.\n\nThough set in a very narrow period of our history, In the Heat of the Night holds up very well with some eternal truths in its story. And it's the story of times that were a changing as one spokesman of the sixties put it.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M46S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4280008217",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMWU3OTE2NGItMWMzNC00Mzc0LWI4NzgtNWNhODI0ODE5OGEwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMWU3OTE2NGItMWMzNC00Mzc0LWI4NzgtNWNhODI0ODE5OGEwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-07-01T09:36:50.944Z",
+        "url": "https://www.imdb.com/video/vi4280008217/"
+    },
+    "url": "/title/tt0061811/"
+}

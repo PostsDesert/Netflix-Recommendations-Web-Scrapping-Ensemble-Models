@@ -1,0 +1,89 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Christian Slater",
+            "url": "/name/nm0000225/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jared Leto",
+            "url": "/name/nm0001467/"
+        },
+        {
+            "@type": "Person",
+            "name": "Claire Forlani",
+            "url": "/name/nm0001231/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2010,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0057967/"
+        },
+        {
+            "@type": "Person",
+            "name": "Radha Bharadwaj",
+            "url": "/name/nm0080233/"
+        },
+        {
+            "@type": "Person",
+            "name": "Wilkie Collins",
+            "url": "/name/nm0172741/"
+        }
+    ],
+    "datePublished": "1998-07-22",
+    "description": "A lonely young aristocrat in turn-of the century England stuggles to meet the approval of his over-bearing, class-conscious father while trying to please the selfish woman he loves.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Radha Bharadwaj",
+            "url": "/name/nm0080233/"
+        }
+    ],
+    "duration": "PT1H53M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjFjNDM5MjMtMWFjMS00NTcwLWE4NGEtNDYxNDVhOTk3MDA3XkEyXkFqcGdeQXVyMTk5MjAyMjM@._V1_.jpg",
+    "keywords": "character name as title,aristocrat,friend,f rated,forename as title",
+    "name": "Basil",
+    "original_info": {
+        "id": "Basil_1998",
+        "name": "Basil",
+        "year": "1998"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Emily01"
+        },
+        "dateCreated": "1998-11-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0118686/"
+        },
+        "name": "Why didn't they release this in theaters?!",
+        "reviewBody": "I watched this movie on AMC yesterday afternoon. I was glued to my television set for 2 hours. I didn't move a muscle. I must say that most of my faith in Christian Slater is restored. His work in this film is superb. I attempted to explain this movie to someone, but it was just too complicated. The story was excellent! Unfortunately, this film wasn't released in theaters. I certainly would have paid $6.50 to see it again.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0118686/"
+}

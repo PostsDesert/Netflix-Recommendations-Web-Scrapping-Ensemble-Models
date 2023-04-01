@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jared Leto",
+            "url": "/name/nm0001467/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alicia Witt",
+            "url": "/name/nm0001860/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rebecca Gayheart",
+            "url": "/name/nm0001261/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 68423,
+        "ratingValue": 5.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0029574/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0023603/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0026861/"
+        },
+        {
+            "@type": "Person",
+            "name": "Silvio Horta",
+            "url": "/name/nm0395531/"
+        }
+    ],
+    "datePublished": "1998-09-25",
+    "description": "A college student suspects a series of bizarre deaths are connected to certain urban legends.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jamie Blanks",
+            "url": "/name/nm0087595/"
+        }
+    ],
+    "duration": "PT1H39M",
+    "genre": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjYxYmQ5YTUtZWVkNy00MjU4LTk2OTktZTAwNzU0MDI2OTdhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "urban legend,college,goth girl,mysterious murderer,murder of roommate",
+    "name": "Urban Legend",
+    "original_info": {
+        "id": "Urban Legend_1998",
+        "name": "Urban Legend",
+        "year": "1998"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Xophianic"
+        },
+        "dateCreated": "2000-02-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0146336/"
+        },
+        "name": "Yet another teen slasher movie, but this one better than some",
+        "reviewBody": "This is yet another teen slasher movie, one of the many to have come out recently. I don't think this one quite ranks up to the SCREAM movies, but I think it was better than the I KNOW WHAT YOU DID LAST SUMMER movies.\n\nCollege student Natalie Simon, (Alicia Witt) mourning over the recent murder of an old friend, finds herself in great danger after a large number of students are being murdered. Each murder is performed in the style of an urban legend, which many of the kids know. Everyone is a suspect, including the best friend Brenda (Rebecca Gayheart), love interest Paul (Jared Leto) and friend/prankster Damon Brooks. (Joshua Jackson)\n\nThe premise of this movie is fairly cool, but the rest of the movie is basic slasher-movie type stuff. It's pretty predictable too, as are most movies like this one. The acting is not especially great, but some of it is fair. Alicia Witt does a good job as the star of this movie. Rebecca Gayheart probably does the best acting job of all, especially at the end.\n\nMost all of the characters are boring and flat, aside from the main one. Many are simply there to get killed, and some that are more important are not as interesting. Still, this movie is better than I KNOW WHAT YOU DID LAST SUMMER and probably worth a rent.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Columbia Tristar",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2985951513",
+        "name": "Urban Legend",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzAzNzdiYjAtMmVlYS00NmNmLWIyOWYtYThhMTMyM2EyZTQyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzAzNzdiYjAtMmVlYS00NmNmLWIyOWYtYThhMTMyM2EyZTQyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:12:58Z",
+        "url": "https://www.imdb.com/video/vi2985951513/"
+    },
+    "url": "/title/tt0146336/"
+}

@@ -1,0 +1,74 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kevin James",
+            "url": "/name/nm0416673/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1112,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "contentRating": "TV-PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0060799/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kevin James",
+            "url": "/name/nm0416673/"
+        }
+    ],
+    "datePublished": "2001-07-23",
+    "description": "Kevin James. The big, sweaty, funny man from the hit sitcom The King of Queens performs his talents on stage.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Paul Miller",
+            "url": "/name/nm0589106/"
+        }
+    ],
+    "duration": "PT1H",
+    "genre": [
+        "Documentary",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI0NzQwNjA0Ml5BMl5BanBnXkFtZTcwMDY4NTgxMQ@@._V1_.jpg",
+    "keywords": "actor name in title,tv special,live audience,stand up comedy",
+    "name": "Kevin James: Sweat the Small Stuff",
+    "original_info": {
+        "id": "Kevin James: Sweat the Small Stuff_2001",
+        "name": "Kevin James: Sweat the Small Stuff",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "greghall61"
+        },
+        "dateCreated": "2007-03-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0305727/"
+        },
+        "name": "Hilarious",
+        "reviewBody": "Kevin James is a comic genius! This is the funniest thing I have seen in years! His facial expressions were priceless and the water skiing thing was hilarious. These were things we could all relate to and that was what really made it funny. I really loved the line at the airport bit and the phone number rhythm thing was great. The DVD is hard to find but I would love to buy it. I have seen it several times on Comedy Central and could watch it again and again. The whole bit was really pretty clean so the whole family watched it. We can quote all of the jokes now but still love to watch it. Watching this made me a \"King of Queens\" fan.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0305727/"
+}

@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Didier Antoine",
+            "url": "/name/nm0031142/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cecile Ardail",
+            "url": "/name/nm0033915/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alexandre Arnaoutov",
+            "url": "/name/nm0036014/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 133,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "alternateName": "Cirque du Soleil II: A New Experience",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0045850/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0008693/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0027239/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michel Crête",
+            "url": "/name/nm0190612/"
+        },
+        {
+            "@type": "Person",
+            "name": "Franco Dragone",
+            "url": "/name/nm0236753/"
+        },
+        {
+            "@type": "Person",
+            "name": "René Dupéré",
+            "url": "/name/nm0243556/"
+        }
+    ],
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Franco Dragone",
+            "url": "/name/nm0236753/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jacques Payette",
+            "url": "/name/nm0668211/"
+        }
+    ],
+    "duration": "PT1H12M",
+    "genre": [
+        "Documentary",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjEzMDM4NzY1NF5BMl5BanBnXkFtZTcwOTMxOTcyMQ@@._V1_.jpg",
+    "keywords": "cirque du soleil,acrobat,circus",
+    "name": "Nouvelle expérience",
+    "original_info": {
+        "id": "Cirque du Soleil: Nouvelle Experience_1991",
+        "name": "Cirque du Soleil: Nouvelle Experience",
+        "year": "1991"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "cordelia1"
+        },
+        "dateCreated": "2002-04-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0210866/"
+        },
+        "name": "Positive",
+        "reviewBody": "breathtaking! this is the best circus I have ever seen.It also draws attention away from circus animals as performers and highlights what humans can do.Camera shots could have been better edited though,as sometimes I found it hard to see the action."
+    },
+    "url": "/title/tt0210866/"
+}

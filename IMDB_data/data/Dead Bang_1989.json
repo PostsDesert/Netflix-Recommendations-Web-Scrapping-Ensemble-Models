@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Don Johnson",
+            "url": "/name/nm0000467/"
+        },
+        {
+            "@type": "Person",
+            "name": "Penelope Ann Miller",
+            "url": "/name/nm0000542/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Forsythe",
+            "url": "/name/nm0001235/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4242,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0037360/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Foster",
+            "url": "/name/nm0288021/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jerry Beck",
+            "url": "/name/nm0065174/"
+        }
+    ],
+    "datePublished": "1989-03-24",
+    "description": "A man kills a storekeeper and a cop. LASD homicide detective Jerry Beck gets the case. His murder suspect is connected to a heavily armed white supremacy group.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Frankenheimer",
+            "url": "/name/nm0001239/"
+        }
+    ],
+    "duration": "PT1H42M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjk0M2FlZmItMTA3YS00MmQzLWEzYjItZGFhMmZiZWQ5MmJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "title spoken by character,man wears eyeglasses,murder of a police officer,scene of the crime,sex in bed",
+    "name": "Dead Bang",
+    "original_info": {
+        "id": "Dead Bang_1989",
+        "name": "Dead Bang",
+        "year": "1989"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "FATLOSER"
+        },
+        "dateCreated": "1999-12-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0097166/"
+        },
+        "name": "A well made action flick.",
+        "reviewBody": "This movie plays like a typical good detective novel. Except for the hero every character is totally one dimensional and the well written story doesn't really deliver any big surprises. This being said, this film delivers decent acting, a compelling plot, and polished Hollywood production value. Frankenheimer definitely knows his way around the genre and he gets the most of Don Johnson's much-maligned acting chops by casting him in a role which perfectly suits Johnson's trademark 'maverick' cop character."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A man kills a storekeeper and a cop. LASD homicide detective Jerry Beck gets the case. His murder suspect is connected to a heavily armed white supremacy group.",
+        "duration": "PT1M27S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi874758937",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYTAzYWM0OTMtYmRmYS00ZGVjLThiYWUtZDM3ZDYxZGZiMDQ5XkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTAzYWM0OTMtYmRmYS00ZGVjLThiYWUtZDM3ZDYxZGZiMDQ5XkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+        "uploadDate": "2022-01-12T01:35:31.987Z",
+        "url": "https://www.imdb.com/video/vi874758937/"
+    },
+    "url": "/title/tt0097166/"
+}

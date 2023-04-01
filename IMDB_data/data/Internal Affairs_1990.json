@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Richard Gere",
+            "url": "/name/nm0000152/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andy Garcia",
+            "url": "/name/nm0000412/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nancy Travis",
+            "url": "/name/nm0001802/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 21284,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0020664/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0042718/"
+        },
+        {
+            "@type": "Person",
+            "name": "Henry Bean",
+            "url": "/name/nm0063785/"
+        }
+    ],
+    "datePublished": "1990-01-12",
+    "description": "An Internal Affairs agent becomes obsessed with bringing down a cop who has managed to maintain a spotless reputation despite being involved in a web of corruption.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mike Figgis",
+            "url": "/name/nm0001214/"
+        }
+    ],
+    "duration": "PT1H55M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODQwM2U3NDEtYTFkNy00MGNkLWFiMjQtYWYxMWJkNjg4MGQzXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_.jpg",
+    "keywords": "internal affairs,corrupt cop,junkie cop,man slaps a woman,female cop",
+    "name": "Internal Affairs",
+    "original_info": {
+        "id": "Internal Affairs_1990",
+        "name": "Internal Affairs",
+        "year": "1990"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "gridoon"
+        },
+        "dateCreated": "2001-05-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0099850/"
+        },
+        "name": "A top-of-the-line Gere performance.",
+        "reviewBody": "The subject here (police corruption) is banal, but it gains extra value and weight by Figgis' atmospheric direction and, especially, by Richard Gere's powerful performance in perhaps his most atypical role (and as far as I know, his only truly villainous one). After watching him in this film, I don't know how some people can still doubt that he's a talented actor as well an attractive star. The rest of the cast is also good. The finale, however, is somewhat disappointing. (**1/2)",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0099850/"
+}

@@ -1,0 +1,113 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tom Hanks",
+            "url": "/name/nm0000158/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Paxton",
+            "url": "/name/nm0000200/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kevin Bacon",
+            "url": "/name/nm0000102/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 301149,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0003687/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Lovell",
+            "url": "/name/nm0522554/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeffrey Kluger",
+            "url": "/name/nm0460200/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Broyles Jr.",
+            "url": "/name/nm0115310/"
+        }
+    ],
+    "datePublished": "1995-06-30",
+    "description": "NASA must devise a strategy to return Apollo 13 to Earth safely after the spacecraft undergoes massive internal damage putting the lives of the three astronauts on board in jeopardy.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ron Howard",
+            "url": "/name/nm0000165/"
+        }
+    ],
+    "duration": "PT2H20M",
+    "genre": [
+        "Adventure",
+        "Drama",
+        "History"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjc4MzZlNmQtN2ZlOS00OGQzLWI5YjEtNDQ2YmZlN2FjNTIxXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "survival,1970s,astronaut,rescue,trapped in space",
+    "name": "Apollo 13",
+    "original_info": {
+        "id": "Apollo 13_1995",
+        "name": "Apollo 13",
+        "year": "1995"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "mbhgkmsgg"
+        },
+        "dateCreated": "2020-11-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0112384/"
+        },
+        "name": "One of the best space movies",
+        "reviewBody": "I'm honestly a little blown away by how much I liked this film. I have heard nothing but good things, and I went in expecting it to be good, but I never would've expected to be so captivated by it. Apollo 13 is probably the best space movie I have ever seen, at least as far as ones based on actual events go.\n\nWhile movies like First Man, Interstellar, or even Gravity, have certain moments that are extremely tense, this film keeps that tension going throughout. Apart from the very beginning, I was on the edge of my seat for the entire 140-minute runtime. Especially once the, now infamous line, 'Houston we have a problem' is said, the tension just keeps on ramping up and never eases until the final credits start rolling. Tension, and especially high tension, is what's crucial for these types of movies to be successful. Space is, after all, uncharted territory for most of us watching and having that tension present, adds to the anxiety of the unknown. Another thing that is very much explored in this film is the idea that once you are in space, no one will come to the rescue. Add all these things together, and you will have a tense environment. Something that this movie captures incredibly well.\n\nSomething else that I found fascinating, was the way that the situation in this film was solved. The whole mission was done with basically less computing power than we now have in our pockets. To not only be able to undertake such a mission, but to solve the biggest problem that NASA had ever faced with nothing but human ingenuity, is quite astonishing, especially for someone like me who has lived most of his life used to having computers everywhere. In many ways, this movie celebrates how capable we humans are and how far we can stretch ourselves when needed.\n\nWhat Apollo 13 is, is an incredible story told very well. It captured me and my attention from the very get-go and held onto it until the very end. It's emotional when it needs to be, and the ending can only be described as spectacularly triumphant. As mentioned, I was surprised by how much I ended up liking this film. It had been on my watchlist for forever, and now I'm wondering why it took me so long to watch it.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Universal Studios Home Entertainment",
+        "duration": "PT57S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1605828889",
+        "name": "Apollo 13",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzZmZGY3YTMtZThkMS00NDQzLWJkYTUtYTRlOWUwYjlhM2U3XkEyXkFqcGdeQW1yb3NzZXI@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzZmZGY3YTMtZThkMS00NDQzLWJkYTUtYTRlOWUwYjlhM2U3XkEyXkFqcGdeQW1yb3NzZXI@._V1_.jpg",
+        "uploadDate": "2008-04-11T11:46:39Z",
+        "url": "https://www.imdb.com/video/vi1605828889/"
+    },
+    "url": "/title/tt0112384/"
+}

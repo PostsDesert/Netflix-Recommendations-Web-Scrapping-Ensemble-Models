@@ -1,0 +1,31 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tony Shalhoub",
+            "url": "/name/nm0001724/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 32,
+        "ratingValue": 8.3,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "datePublished": "2004-06-14",
+    "genre": [
+        "Documentary",
+        "Short"
+    ],
+    "name": "Monk Season One: Mr. Monk and His O.C.D.",
+    "original_info": {
+        "id": "Monk: Season 3_2004",
+        "name": "Monk: Season 3",
+        "year": "2004"
+    },
+    "url": "/title/tt0449618/"
+}

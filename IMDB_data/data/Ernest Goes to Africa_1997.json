@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jim Varney",
+            "url": "/name/nm0001815/"
+        },
+        {
+            "@type": "Person",
+            "name": "Linda Kash",
+            "url": "/name/nm0440514/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jamie Bartlett",
+            "url": "/name/nm0058831/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2230,
+        "ratingValue": 4.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0043590/"
+        },
+        {
+            "@type": "Person",
+            "name": "John R. Cherry III",
+            "url": "/name/nm0156047/"
+        }
+    ],
+    "description": "Diamond smugglers kidnap the girl of his dreams, and Ernest P. Worrell goes to Africa to confront them and rescue her.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John R. Cherry III",
+            "url": "/name/nm0156047/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Comedy",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZDVlM2MwNDUtYzFmNy00MzRjLTk2ZmEtZmQ3ZTlhYzFlYWNlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "ernest p. worrell character,slimehouse,diamond,rescue,yo yo",
+    "name": "Ernest Goes to Africa",
+    "original_info": {
+        "id": "Ernest Goes to Africa_1997",
+        "name": "Ernest Goes to Africa",
+        "year": "1997"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jackmargulies"
+        },
+        "dateCreated": "2019-07-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0119068/"
+        },
+        "name": "If you're gonna watch any of it, watch the ending action sequence",
+        "reviewBody": "The movies fine, but the ending action sequence was easily the most comedic and best thing about this film.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Monarch Home Video",
+        "duration": "PT1M49S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1805844761",
+        "name": "Ernest Goes to Africa",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNWFmYjY0MmMtOWMxMy00MTM5LWIwOWQtYjA5NTE1YmRlYmVkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNWFmYjY0MmMtOWMxMy00MTM5LWIwOWQtYjA5NTE1YmRlYmVkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:55:30Z",
+        "url": "https://www.imdb.com/video/vi1805844761/"
+    },
+    "url": "/title/tt0119068/"
+}

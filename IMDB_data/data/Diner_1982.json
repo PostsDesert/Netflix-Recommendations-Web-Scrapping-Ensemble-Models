@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Steve Guttenberg",
+            "url": "/name/nm0000430/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mickey Rourke",
+            "url": "/name/nm0000620/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kevin Bacon",
+            "url": "/name/nm0000102/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 21796,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007143/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0142386/"
+        },
+        {
+            "@type": "Person",
+            "name": "Barry Levinson",
+            "url": "/name/nm0001469/"
+        }
+    ],
+    "datePublished": "1982-05-21",
+    "description": "A group of college-age buddies struggle with their imminent passage into adulthood in 1959 Baltimore.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Barry Levinson",
+            "url": "/name/nm0001469/"
+        }
+    ],
+    "duration": "PT1H50M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYzcwMGNhNDMtYjVlOC00NjA4LTk1M2MtOTI2OGVmMDMxNWUwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "baltimore maryland,diner,salesman,directorial debut,one word title",
+    "name": "Diner",
+    "original_info": {
+        "id": "Diner_1982",
+        "name": "Diner",
+        "year": "1982"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "SnoopyStyle"
+        },
+        "dateCreated": "2015-02-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0083833/"
+        },
+        "name": "terrific up and coming actors",
+        "reviewBody": "It's Christmas Night 1959 Baltimore. A group of friends reunite for Eddie Simmons (Steve Guttenberg)'s marriage. Shrevie (Daniel Stern) and Beth Schreiber (Ellen Barkin) are unhappily married. Boogie (Mickey Rourke) is the slick womanizer. Fenwick (Kevin Bacon) is the prankster. Modell (Paul Reiser) and Billy (Tim Daly) round out the group. Their hangout is the Hilltop Diner.\n\nIt's a very impressive cast. Everybody is terrific acting-wise. However I couldn't really get into the meandering nature of the movie. I found it hard to concentrate on any of the characters. It doesn't have the light fun of 'American Graffiti'. I would have liked a movie of them just talking in the diner about their lives.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Watch Kevin Bacon, Ellen Barkin, Paul Reiser and Mickey Rourke as a group of college-age buddies struggle with their imminent passage into adulthood in 1959 Baltimore.",
+        "duration": "PT2M15S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1579597081",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTUxY2NlMDUtNzliZS00MzA1LWFlOWMtYWU2ZGEyOWRkNDIzXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTUxY2NlMDUtNzliZS00MzA1LWFlOWMtYWU2ZGEyOWRkNDIzXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2019-04-10T12:51:05.688Z",
+        "url": "https://www.imdb.com/video/vi1579597081/"
+    },
+    "url": "/title/tt0083833/"
+}

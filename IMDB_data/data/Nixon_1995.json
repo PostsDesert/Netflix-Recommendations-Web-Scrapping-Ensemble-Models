@@ -1,0 +1,117 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Anthony Hopkins",
+            "url": "/name/nm0000164/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joan Allen",
+            "url": "/name/nm0000260/"
+        },
+        {
+            "@type": "Person",
+            "name": "Powers Boothe",
+            "url": "/name/nm0000959/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 31703,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0076240/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0012496/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0094483/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen J. Rivele",
+            "url": "/name/nm0729151/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christopher Wilkinson",
+            "url": "/name/nm0929349/"
+        },
+        {
+            "@type": "Person",
+            "name": "Oliver Stone",
+            "url": "/name/nm0000231/"
+        }
+    ],
+    "datePublished": "1996-01-05",
+    "description": "A biographical story of former U.S. President Richard Nixon, from his days as a young boy, to his eventual Presidency, which ended in shame.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Oliver Stone",
+            "url": "/name/nm0000231/"
+        }
+    ],
+    "duration": "PT3H12M",
+    "genre": [
+        "Biography",
+        "Drama",
+        "History"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzBlOWY0ZmEtZjdkYS00ZGU0LWEwN2YtYzBkNDM5ZDBjMmI1XkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_.jpg",
+    "keywords": "american politics,political leader,year 1972,year 1973,alcoholic drink",
+    "name": "Nixon",
+    "original_info": {
+        "id": "Nixon_1995",
+        "name": "Nixon",
+        "year": "1995"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "filipemanuelneto"
+        },
+        "dateCreated": "2017-03-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0113987/"
+        },
+        "name": "Complex, difficult to understand, but elegant.",
+        "reviewBody": "Richard Nixon is one of the most controversial heads of state of the twentieth century. During his tenure as president of the United States, he earned a general hatred almost as high as the power and influence of his office. He was investigated, vilified, attacked but never condemned. Even though I'm not an American nor an expert of these period, I feel it is necessary to make an unbiased and objective historical analysis of this president, I just don't know if that has already happened. Even so, the film we have here didn't seem partial, trying to remain neutral to some extent.\n\nDirected by Oliver Stone, it's not appropriate for people who don't know anything about Nixon, or Watergate, or this period of American history, since the film wasn't wasting time explaining anything. So if you didn't understand why Nixon opened the US to China or what was the Watergate or the Bay of Pigs, I suggest you ignore the movie for now and first go read some books or see some documentaries about it. Another problem I want to highlight is the huge web of conspiracies and obscure theories that the film weaves around the president. It never lets us understand what \"crimes of responsibility\" Nixon has committed. The film also suggests, without subtleties, that Nixon was a simple man who rose in life but wasn't accepted by the \"American aristocracy\" because of this humble origin, which left him deeply hurt. I don't know if it's true, but the film indicates that as origin of President's lack of scruples.\n\nAnthony Hopkins assures the main role in an interesting performance, but that's far from being his best. He made a good preparation and tried his best to be Nixon, but has few physical similarities with him, not to mention his extreme difficulty in imitating president's characteristic voice. Anyway, Hopkins was brilliant at his character's psychological work, with most dramatic scenes going on as he, semi-drunk, reviews his decisions while listening to his famous audio tapes. The remaining cast does a reasonable supporting work. I will not close my review without left a word of appreciation to the sets and costumes, which rebuilt the atmosphere and culture of the Seventies quite well, much like the rooms and offices within White House. Not being exceptional, it's an elegant, quality film, that helps us think about an important period in American history.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A biographical story of former U.S. President Richard Nixon, from his days as a young boy, to his eventual Presidency, which ended in shame.",
+        "duration": "PT4M34S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi479511321",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzJlNTQ0ZjktY2Q5NS00NWFhLWFhMmUtYjE0OGNiYTQzMjVmXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzJlNTQ0ZjktY2Q5NS00NWFhLWFhMmUtYjE0OGNiYTQzMjVmXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-10-05T18:28:16.810Z",
+        "url": "https://www.imdb.com/video/vi479511321/"
+    },
+    "url": "/title/tt0113987/"
+}

@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Richard Burton",
+            "url": "/name/nm0000009/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jean Simmons",
+            "url": "/name/nm0001739/"
+        },
+        {
+            "@type": "Person",
+            "name": "Victor Mature",
+            "url": "/name/nm0001514/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 10863,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "Unrated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Person",
+            "name": "Philip Dunne",
+            "url": "/name/nm0242897/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gina Kaus",
+            "url": "/name/nm0442456/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lloyd C. Douglas",
+            "url": "/name/nm0235160/"
+        }
+    ],
+    "datePublished": "1953-12-04",
+    "description": "In the Roman province of Judea during the 1st century, Roman tribune Marcellus Gallio is ordered to crucify Jesus of Nazareth but is tormented by his guilty conscience afterwards.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Henry Koster",
+            "url": "/name/nm0467396/"
+        }
+    ],
+    "duration": "PT2H15M",
+    "genre": [
+        "Drama",
+        "History",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDA1MDYwMTAtYmM5ZC00M2VkLTljOWYtY2JiMWMyMDY5Y2NjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "keywords": "biblical epic,based on historical novel,palestine,robe,roman tribune",
+    "name": "The Robe",
+    "original_info": {
+        "id": "The Robe_1953",
+        "name": "The Robe",
+        "year": "1953"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "sherwin-1"
+        },
+        "dateCreated": "2002-02-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0046247/"
+        },
+        "name": "Wow! What a powerful story!",
+        "reviewBody": "Few movies today carry the wallop that Henry Coster packed into this one. The Lloyd Douglas masterpiece has been well adapted to film... and it is refreshing to see a film on a biblical theme that Hollywood hasn't screwed up and made Christianity look bad. Noah's Ark (1999 TV) is a Bible story to avoid. The Robe, on the other hand, is a great story, with a sincere effort to communicate a commitment to integrity, whatever the cost. I would watch this one again and recommend it highly as a true classic... I give it 9 out of 10.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from 20th Century Fox Home Entertainment",
+        "duration": "PT33S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2130247961",
+        "name": "The Robe",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMDc0NTk5MTAtNDVjMS00MjYwLTkzMjctZGQ5NWUzMmIyY2M4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDc0NTk5MTAtNDVjMS00MjYwLTkzMjctZGQ5NWUzMmIyY2M4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:08:16Z",
+        "url": "https://www.imdb.com/video/vi2130247961/"
+    },
+    "url": "/title/tt0046247/"
+}

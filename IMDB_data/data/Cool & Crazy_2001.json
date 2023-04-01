@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Paul Newman",
+            "url": "/name/nm0000056/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Kennedy",
+            "url": "/name/nm0001421/"
+        },
+        {
+            "@type": "Person",
+            "name": "Strother Martin",
+            "url": "/name/nm0001510/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 180171,
+        "ratingValue": 8.1,
+        "worstRating": 1
+    },
+    "contentRating": "GP",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0066779/"
+        },
+        {
+            "@type": "Person",
+            "name": "Donn Pearce",
+            "url": "/name/nm0668914/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frank Pierson",
+            "url": "/name/nm0682757/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hal Dresner",
+            "url": "/name/nm0237543/"
+        }
+    ],
+    "datePublished": "1967-11-01",
+    "description": "A laid back Southern man is sentenced to two years in a rural prison, but refuses to conform.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Stuart Rosenberg",
+            "url": "/name/nm0742341/"
+        }
+    ],
+    "duration": "PT2H7M",
+    "genre": [
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjcwNTQ3Y2EtMjdmZi00ODBhLWFhNzQtOTc3MWU5NTZlMDViXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "prison,fugitive,escape,bet,hard boiled egg",
+    "name": "Cool Hand Luke",
+    "original_info": {
+        "id": "Cool & Crazy_2001",
+        "name": "Cool & Crazy",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "rupie"
+        },
+        "dateCreated": "2000-11-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0061512/"
+        },
+        "name": "memorable",
+        "reviewBody": "Truly a memorable movie, and more than just a documentary about southern road gangs. It's a study on the theme of the indomitability of the human spirit in the face of oppression. I was about to name this as Newman's finest performance until I thought of Eddy Felsen in \"The Hustler\" and Frank Galvin in \"The Verdict\"; it's impossible to choose among such a cornucopia of acting achievements, but Luke is right up there (the analogy to Luke as Christ becomes a tad heavy-handed when we see him, at the close of the egg-eating scene, stretched out, arms outward, feet crossed, as if crucified; none the less, it's a powerful image). There is no doubt, however, about George Kennedy as Dragline; it is his finest achievement, and fully deserves the Oscar he got for Best Supporting Actor. It is also fascinating to find so many familiar faces among the inmates - actors such as Dennis Hopper, Harry Dean Stanton, Joe Don Baker, Ralph Waite. and Wayne Rogers - who would go on to fame in their own right. This movie can unquestionably be called a classic. American Movie Classics just started (11/2000) showing a beautifully restored letterbox version which shows it in all its glory.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for this classic starring Paul Newman",
+        "duration": "PT2M48S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3936093721",
+        "name": "Cool Hand Luke",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYWI1N2MwOTQtNmYyMC00ZDQ0LThjMWYtOTE4ZTI4YzZmZTNiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYWI1N2MwOTQtNmYyMC00ZDQ0LThjMWYtOTE4ZTI4YzZmZTNiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-07-11T03:08:56Z",
+        "url": "https://www.imdb.com/video/vi3936093721/"
+    },
+    "url": "/title/tt0061512/"
+}

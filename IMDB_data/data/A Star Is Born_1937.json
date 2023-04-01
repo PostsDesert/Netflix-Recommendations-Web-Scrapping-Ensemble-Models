@@ -1,0 +1,122 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Janet Gaynor",
+            "url": "/name/nm0310980/"
+        },
+        {
+            "@type": "Person",
+            "name": "Fredric March",
+            "url": "/name/nm0545298/"
+        },
+        {
+            "@type": "Person",
+            "name": "Adolphe Menjou",
+            "url": "/name/nm0579663/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 10256,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "Passed",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0130901/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0837272/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dorothy Parker",
+            "url": "/name/nm0662213/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alan Campbell",
+            "url": "/name/nm0132180/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Carson",
+            "url": "/name/nm0308604/"
+        }
+    ],
+    "datePublished": "1937-04-27",
+    "description": "A young woman comes to Hollywood with dreams of stardom, and achieves them only with the help of an alcoholic leading man whose best days are behind him.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "William A. Wellman",
+            "url": "/name/nm0920074/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jack Conway",
+            "url": "/name/nm0176699/"
+        },
+        {
+            "@type": "Person",
+            "name": "Victor Fleming",
+            "url": "/name/nm0281808/"
+        }
+    ],
+    "duration": "PT1H51M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMmE5ODI0NzMtYjc5Yy00MzMzLTk5OTQtN2Q3MzgwOTllMTY3XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
+    "keywords": "celebrity,movie director,fictional awards show,tragic romance,drowning",
+    "name": "A Star Is Born",
+    "original_info": {
+        "id": "A Star Is Born_1937",
+        "name": "A Star Is Born",
+        "year": "1937"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "MOscarbradley"
+        },
+        "dateCreated": "2005-07-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0029606/"
+        },
+        "name": "The best version",
+        "reviewBody": "Fredric March gave a magnificent performance, probably the best of his career, as Norman Maine, the actor whose career is in the descendant as that of his wife, Vikki Lester, is in the ascendant in this, the first 'official' version of \"A Star is Born\", (the 1932 film \"What Price Hollywood\" roughly told the same story). March displays just the right degree of brashness, of knowingness, and a combination of ego and a real actor's almost complete lack of ego. It's a miraculous piece of work.\n\nAs Lester, Janet Gaynor is touchingly blank but the star quality she is meant to display seems conspicuously absent; (in the 1954 musical remake Judy Garland was almost too much a star). It seems inconceivable that she could eclipse March on screen (even with his drinking). If Lester is a star and possibly a great actress Gaynor keeps the secret to herself.\n\nThe script for this version was partly written by Dorothy Parker and Alan Campbell and it shows. It's an acerbic and, at times, savage movie about the movies, quite cynical for a major studio picture of it's day. It is very well directed by William Wellman who draws first-rate performances from the supporting cast, in particular Lionel Stander as a heartless, slime-ball studio hack. This remains the best of the three versions to come thus far.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT2M46S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1187429401",
+        "name": "A Star Is Born",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BN2ExZGMzYjQtMjJiZS00OTFlLTg2MzktOWI0M2Q1YzQ4NDg4XkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BN2ExZGMzYjQtMjJiZS00OTFlLTg2MzktOWI0M2Q1YzQ4NDg4XkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg",
+        "uploadDate": "2019-06-01T17:01:36.042Z",
+        "url": "https://www.imdb.com/video/vi1187429401/"
+    },
+    "url": "/title/tt0029606/"
+}

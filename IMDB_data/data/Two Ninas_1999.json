@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Amanda Peet",
+            "url": "/name/nm0001605/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ron Livingston",
+            "url": "/name/nm0515296/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bray Poor",
+            "url": "/name/nm0690975/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1077,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0439123/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0439122/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0439121/"
+        },
+        {
+            "@type": "Person",
+            "name": "Neil Turitz",
+            "url": "/name/nm0877123/"
+        }
+    ],
+    "datePublished": "2001-01-26",
+    "description": "When two beautiful women fall for the unluckiest guy in the world his life takes on delicious complications.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Neil Turitz",
+            "url": "/name/nm0877123/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Romance",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA2MzQ1NDE0MF5BMl5BanBnXkFtZTYwOTAyMDY5._V1_.jpg",
+    "keywords": "writer director,directorial debut,twenty something,new york city,maine",
+    "name": "Two Ninas",
+    "original_info": {
+        "id": "Two Ninas_1999",
+        "name": "Two Ninas",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "boblipton"
+        },
+        "dateCreated": "2020-02-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0162024/"
+        },
+        "name": "Chasing Ninas",
+        "reviewBody": "Ron Livingston hasn't been in a relationship in some time. So when he finds himself dating two beautiful women - Cara Buono and Amanda Peet - who are both named Nina, it takes him some time to sort out his feelings.\n\nWriter-director Neil Turitz first movie offers some insight to dating in New York in the 1990s as a sort of sexual battlefield, in which only one prisoner is taken, and for some reason, reminds me of the better known CHASING AMY... sexual obsession of nice guys causing them to act inappropriately perhaps. The script is a low-key deadpan comedy, and pretty good on those terms, but Turitz seems to lack confidence that the audience will sympathize with Livingston, so he has best friend Bray Poor pop up every ten minutes or so to explain the protagonist's confusion to some guy in a bar. Why this couldn't have been handled by having Livingston express his dilemma to Poor is beyond me.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Avalanche",
+        "duration": "PT2M7S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1725956377",
+        "name": "Two Ninas",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzY2NDM5Y2YtZWI5Yy00YTRmLTg4MzAtNTE0MDNjZjM0YzM5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzY2NDM5Y2YtZWI5Yy00YTRmLTg4MzAtNTE0MDNjZjM0YzM5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:34:10Z",
+        "url": "https://www.imdb.com/video/vi1725956377/"
+    },
+    "url": "/title/tt0162024/"
+}

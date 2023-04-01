@@ -1,0 +1,82 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Peter Reh",
+            "url": "/name/nm1111804/"
+        },
+        {
+            "@type": "Person",
+            "name": "Vanessa Sanchez",
+            "url": "/name/nm0102509/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Harris",
+            "url": "/name/nm8264033/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 242,
+        "ratingValue": 1.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0062210/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gina Green",
+            "url": "/name/nm1108197/"
+        },
+        {
+            "@type": "Person",
+            "name": "Matt Green",
+            "url": "/name/nm0337564/"
+        }
+    ],
+    "datePublished": "2002-03-05",
+    "description": "A ritualistic serial killer is beheading victims all over a city, and those surrounding the case are pulled into his world as they try and stop him.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Matt Green",
+            "url": "/name/nm0337564/"
+        }
+    ],
+    "duration": "PT1H29M",
+    "genre": [
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYjdmMTkxYWMtYjMzNy00YTU3LWJlYzctNDU4YWJhMDI5Zjc4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+    "keywords": "shot on video,murder,decapitation,cell phone,independent film",
+    "name": "Severed",
+    "original_info": {
+        "id": "Severed_2002",
+        "name": "Severed",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "regencytr1"
+        },
+        "dateCreated": "2002-03-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0306063/"
+        },
+        "name": "Award for worst cell phone ring",
+        "reviewBody": "I love B or even C type horror movies. Much of this one is filmed in the dark, most of it so dark you cannot see what is going on. The acting at best is sub standard with nearly every character filled with some unexplained anger. Finally in this day and age of custom cell phone rings Blake the bounty hunter could have done much better than the one he had."
+    },
+    "url": "/title/tt0306063/"
+}

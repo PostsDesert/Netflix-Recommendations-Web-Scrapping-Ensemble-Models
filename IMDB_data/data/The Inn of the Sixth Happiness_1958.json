@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ingrid Bergman",
+            "url": "/name/nm0000006/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Donat",
+            "url": "/name/nm0232196/"
+        },
+        {
+            "@type": "Person",
+            "name": "Curd Jürgens",
+            "url": "/name/nm0432007/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5187,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Person",
+            "name": "Isobel Lennart",
+            "url": "/name/nm0501973/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alan Burgess",
+            "url": "/name/nm0121254/"
+        }
+    ],
+    "datePublished": "1958-12-19",
+    "description": "A tenacious British woman becomes a missionary and runs an inn for travelling merchants in China during the Japanese invasion and the tumultuous years leading up to the Second World War.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mark Robson",
+            "url": "/name/nm0733476/"
+        }
+    ],
+    "duration": "PT2H38M",
+    "genre": [
+        "Biography",
+        "Drama",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNWNiOWRmN2YtN2M4MC00NzYzLWJmM2ItNTk2ZDYxMWY1Y2YwXkEyXkFqcGdeQXVyMzU4Nzk4MDI@._V1_.jpg",
+    "keywords": "female protagonist,china,missionary,based on true story,manipulative female",
+    "name": "The Inn of the Sixth Happiness",
+    "original_info": {
+        "id": "The Inn of the Sixth Happiness_1958",
+        "name": "The Inn of the Sixth Happiness",
+        "year": "1958"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "rcs8"
+        },
+        "dateCreated": "2005-01-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0051776/"
+        },
+        "name": "A moving, inspirational film",
+        "reviewBody": "I show this film in my classes on leadership. Though some may find it \"corny\" or condescending, it is a fine and \"human\" portrayal of how stubbornness, faith, and a sense of justice can lead one toward great acts of courage. It's also simply an extremely interesting story. I understand that the real Gladys Aylward, on whose life the film is based, was embarrassed by the fictional \"love story\" portion of the film. I'm not sure why I read so many negative reactions to the film. The depictions of how Aylward inspires those around her are timeless. The three main actors, Ingrid Bergman, Robert Donat, and Kurt Jurgens, put in excellent and nuanced performances. Ms. Bergman is at her most beautiful in this film, conveying so much meaning simply with a glance. My Chinese students tend to like the film very much. Perhaps the finest scene occurs when Jen Ai (Aylward's Chinese name in the film) goes to the village to persuade the mothers to unbind their daughters' feet. So many of my students didn't even know about this cruel practice.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for this wartime drama set in China",
+        "duration": "PT3M8S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1620313625",
+        "name": "The Inn of the Sixth Happiness",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzZhODU5ODYtZmE2ZS00YzQzLWI5OGItMDdhMDJiNDQ3ODQ5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzZhODU5ODYtZmE2ZS00YzQzLWI5OGItMDdhMDJiNDQ3ODQ5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-07-05T03:34:45Z",
+        "url": "https://www.imdb.com/video/vi1620313625/"
+    },
+    "url": "/title/tt0051776/"
+}

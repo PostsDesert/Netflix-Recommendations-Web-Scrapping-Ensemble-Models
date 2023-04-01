@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "William Shatner",
+            "url": "/name/nm0000638/"
+        },
+        {
+            "@type": "Person",
+            "name": "Leonard Nimoy",
+            "url": "/name/nm0000559/"
+        },
+        {
+            "@type": "Person",
+            "name": "DeForest Kelley",
+            "url": "/name/nm0001420/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 61680,
+        "ratingValue": 5.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gene Roddenberry",
+            "url": "/name/nm0734472/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Shatner",
+            "url": "/name/nm0000638/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harve Bennett",
+            "url": "/name/nm0071790/"
+        }
+    ],
+    "datePublished": "1989-06-09",
+    "description": "Captain Kirk and his crew must deal with Mr. Spock's long-lost half-brother who hijacks the Enterprise for an obsessive search for God at the center of the galaxy.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "William Shatner",
+            "url": "/name/nm0000638/"
+        }
+    ],
+    "duration": "PT1H47M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZmUzNjYzZDEtMWQ1Ny00OGIxLTk4MTktMzU5NTZmZjk5MTQyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "human vulcan baby,male alien,pavel chekov character,spock character,sarek character",
+    "name": "Star Trek V: The Final Frontier",
+    "original_info": {
+        "id": "Star Trek V: The Final Frontier_1989",
+        "name": "Star Trek V: The Final Frontier",
+        "year": "1989"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "pmtelefon"
+        },
+        "dateCreated": "2019-04-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0098382/"
+        },
+        "name": "This one is growing on me.",
+        "reviewBody": "\"Star Trek V: The Final Frontier\" Is a mixed bag. There is a lot of humor in it. ( I suspect that's because of the success of Part 4. ) There is some action but it's not that exciting. The special effects aren't that hot at times. The weakest part is the storyline. Just when the plot needs to pick up speed, it runs out of gas. That said, it hard to not enjoy any movie with the original Star Trek cast. It's because of them that I am enjoying \"Star Trek V\" more these days than I used to. It's not the greatest movie but it's still better than \"Star Trek: The Motion Picture\". Dishonorable mention: They didn't give the always enjoyable David Warner anything to do.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M24S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3842752025",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BM2E2Yjg3N2EtNjk2My00NDlmLTkzZWItMzlkNTNmZGMyNzE2XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BM2E2Yjg3N2EtNjk2My00NDlmLTkzZWItMzlkNTNmZGMyNzE2XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-07-14T14:10:17.199Z",
+        "url": "https://www.imdb.com/video/vi3842752025/"
+    },
+    "url": "/title/tt0098382/"
+}

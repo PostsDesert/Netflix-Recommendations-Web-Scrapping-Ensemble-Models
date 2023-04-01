@@ -1,0 +1,113 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Buster Keaton",
+            "url": "/name/nm0000036/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kathryn McGuire",
+            "url": "/name/nm0570230/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frederick Vroom",
+            "url": "/name/nm0089162/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 10357,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "contentRating": "Unrated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0081891/"
+        },
+        {
+            "@type": "Person",
+            "name": "Clyde Bruckman",
+            "url": "/name/nm0115669/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joseph A. Mitchell",
+            "url": "/name/nm0593477/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jean C. Havez",
+            "url": "/name/nm0369841/"
+        }
+    ],
+    "datePublished": "1924-10-13",
+    "description": "Two spoiled rich people find themselves trapped on an empty passenger ship.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Donald Crisp",
+            "url": "/name/nm0187981/"
+        },
+        {
+            "@type": "Person",
+            "name": "Buster Keaton",
+            "url": "/name/nm0000036/"
+        }
+    ],
+    "duration": "PT59M",
+    "genre": [
+        "Action",
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzA1ODQ1Nzk0MV5BMl5BanBnXkFtZTgwOTEwNTQ2MzE@._V1_.jpg",
+    "keywords": "ship,slapstick comedy,cannibal,abandoned ship,ocean liner",
+    "name": "The Navigator",
+    "original_info": {
+        "id": "The Navigator_1924",
+        "name": "The Navigator",
+        "year": "1924"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ackstasis"
+        },
+        "dateCreated": "2007-11-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0015163/"
+        },
+        "name": "Buster Keaton goes to sea",
+        "reviewBody": "Buster Keaton's 'The Navigator,' as a film, doesn't feel quite as complete as many of his other works {'Sherlock Jr.' or 'The General,' for example}, but it remains an enjoyable hour-long string of amusing gags with an abundance of Keaton's trademark deadpan humour. The idea for the film emerged when Keaton heard of the imminent scrapping of the SS Buford, a former army troop transport ship turned passenger liner. Seizing the opportunity, the comedy star purchased the ship cheaply and built an original story around this mammoth film prop. Directed by Keaton and Donald Crisp, 'The Navigator' was released in the same year that produced his legendary 'Sherlock Jr.,' and these two pictures mark the only occasions on which Keaton co-starred with Kathryn McGuire. The two actors are virtually alone for much of this film, barring a multitude of native \"cannibals,\" but they carry the film well, with an assortment of clever and impeccably-timed gags.\n\nRollo Treadway (Keaton) is a rich and arrogant young man who suddenly decides to marry his sweetheart Betsy O'Brien (Kathryn McGuire). Crippled by her immediate negative response of \"certainly not!\", Treadway embarks on the honeymoon by himself, but awakes the following morning to find that the passenger ship he boarded is empty and drifting aimlessly across the ocean. However, via a series of sinister events, it seems that Betsy has also stumbled aboard the doomed ship, and she and Treadway must work together if they are to survive. There are many moments in the film that will have you chuckling: the two hapless fools trying to concoct a suitable breakfast (especially Keaton attacking a tin of ham with a meat cleaver), their efforts to find a safe and comfortable place to sleep, the pair's encounter with a village of tropical island cannibals and Keaton's underwater fencing joust with a swordfish.\n\n'The Navigator' is perhaps missing many of the mind-blowing stunts that make Buster Keaton's films so memorable, but there certainly are a few good ones in there. Perhaps unusually, the most hair-raising stunts are performed by the extras playing the cannibals (their leader portrayed by the prolific African-American actor Noble Johnson). The moment that springs immediately to mind was the collapse of an immense palm tree onto one of the tiny dugout canoes. Though the cannibal who gets crushed by the trunk is obviously a dummy (albeit, a convincing one), the extras who clambered out of the craft at the final moment were certainly placing their lives at risk. Overall, since it's powered by a very loose and poorly-developed narrative, 'The Navigator' is probably the weakest of Keaton's features that I've seen so far (following 'Sherlock Jr.,' 'The General,' 'Seven Chances' and 'Steamboat Bill, Jr.'), but that doesn't mean it isn't enjoyable. Also, for an excellent slapstick short that also features Keaton as a mariner, check out 'The Love Nest (1923).'",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M2S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3943022361",
+        "name": "Trailer [OV]",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjg0OTE4OTYtZDYwMC00MzU1LThlMDQtYWMwZTg0YjU3NTYxXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjg0OTE4OTYtZDYwMC00MzU1LThlMDQtYWMwZTg0YjU3NTYxXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2019-12-27T10:51:53.652Z",
+        "url": "https://www.imdb.com/video/vi3943022361/"
+    },
+    "url": "/title/tt0015163/"
+}

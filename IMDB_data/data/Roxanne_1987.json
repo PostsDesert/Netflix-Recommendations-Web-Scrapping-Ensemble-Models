@@ -1,0 +1,110 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Steve Martin",
+            "url": "/name/nm0000188/"
+        },
+        {
+            "@type": "Person",
+            "name": "Daryl Hannah",
+            "url": "/name/nm0000435/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rick Rossovich",
+            "url": "/name/nm0001685/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 46241,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0055524/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0149490/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0044166/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edmond Rostand",
+            "url": "/name/nm0744562/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve Martin",
+            "url": "/name/nm0000188/"
+        }
+    ],
+    "datePublished": "1987-06-19",
+    "description": "The large-nosed C.D. Bales is in love with the beautiful Roxanne; she falls for his personality but another man's looks.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Fred Schepisi",
+            "url": "/name/nm0770961/"
+        }
+    ],
+    "duration": "PT1H47M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYzljMDgxNjMtNTU2NS00OTczLWEyZWQtZGFjMjcxMGEzZTVhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "love triangle,unrequited love,covered female frontal nudity,female rear nudity,female nudity",
+    "name": "Roxanne",
+    "original_info": {
+        "id": "Roxanne_1987",
+        "name": "Roxanne",
+        "year": "1987"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Steve G-2"
+        },
+        "dateCreated": "1999-08-05",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0093886/"
+        },
+        "name": "Extremely effective updating of a timeless story",
+        "reviewBody": "I do not routinely enjoy Steve Martin, but was extremely impressed with the sensitivity and deftness with which he played Cyrano de Bergerac in modern guise. There is nothing archaic or stilted about the script, yet it is surprisingly faithful to the character of the original play (which in turn is closely based on Cyrano's true history). Numerous scenes - including most of the best ones - are lifted almost intact from the Edmond Rostand play, but a viewer who is unfamiliar with that source probably will have no idea which scenes they are. The poetry, imaginative spark and romantic instincts of the original play are handled lovingly and with finesse. Daryl Hannah is just right as a thoroughly modern Roxanne, willingly surprised to find that there is still romance in the world. You do not have to be familiar with the source to enjoy this witty, satisfying, and very funny movie - but if you are, you will enjoy it all the more.\n\nNote added 2015: When I first wrote the above in 1999, Steve Martin had not yet done most of his (in my view) best work; but I still go back to this as my very favorite of his performances.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M36S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3763780377",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTNkNmY5NWQtOGNiNi00ZTUyLTk2MGItZDExZWU4MTdiNjE0XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTNkNmY5NWQtOGNiNi00ZTUyLTk2MGItZDExZWU4MTdiNjE0XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+        "uploadDate": "2018-09-13T18:15:11.795Z",
+        "url": "https://www.imdb.com/video/vi3763780377/"
+    },
+    "url": "/title/tt0093886/"
+}

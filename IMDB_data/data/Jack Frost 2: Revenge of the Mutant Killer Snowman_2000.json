@@ -1,0 +1,89 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Christopher Allport",
+            "url": "/name/nm0021597/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eileen Seeley",
+            "url": "/name/nm0781560/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chip Heller",
+            "url": "/name/nm0375289/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3459,
+        "ratingValue": 3.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0625106/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0045105/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Cooney",
+            "url": "/name/nm0177769/"
+        }
+    ],
+    "datePublished": "2006-02-09",
+    "description": "The Mutant Killer Snowman returns to kill more people during Christmas",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Cooney",
+            "url": "/name/nm0177769/"
+        }
+    ],
+    "duration": "PT1H33M",
+    "genre": [
+        "Comedy",
+        "Fantasy",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZmMzOGEwMDUtNTQ0ZC00NzQ3LWJjMmYtNDk1MTVmMTJhODhmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "murder of a nude woman,murder,female nudity,2000s,therapist",
+    "name": "Jack Frost 2: Revenge of the Mutant Killer Snowman",
+    "original_info": {
+        "id": "Jack Frost 2: Revenge of the Mutant Killer Snowman_2000",
+        "name": "Jack Frost 2: Revenge of the Mutant Killer Snowman",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "13Funbags"
+        },
+        "dateCreated": "2019-01-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0239496/"
+        },
+        "name": "Very different than the first one.",
+        "reviewBody": "This time they tried to actually make it funny. They failed, but they tried. There are so many things that don't make sense but what would you expect? The budget is almost non-existent. They are clearly not on an island and every indoor scene was probably in the same building. At least Jennifer Lyons was in it.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0239496/"
+}

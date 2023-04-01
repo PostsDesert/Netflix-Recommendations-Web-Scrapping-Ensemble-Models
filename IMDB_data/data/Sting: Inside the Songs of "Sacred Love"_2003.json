@@ -1,0 +1,80 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Chris Botti",
+            "url": "/name/nm0098660/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kipper",
+            "url": "/name/nm0456048/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rhani Krija",
+            "url": "/name/nm1655008/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 48,
+        "ratingValue": 8.4,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007472/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0080311/"
+        }
+    ],
+    "datePublished": "2003-10-03",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jim Gable",
+            "url": "/name/nm0300093/"
+        }
+    ],
+    "genre": [
+        "Documentary",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMWUxODJmOTYtZDg2OS00MmQ5LTkxYzItZjYyZDc5M2UxOWU4XkEyXkFqcGdeQXVyNTAyMjc5MDY@._V1_.jpg",
+    "keywords": "tv special,singer,rock,live performance,concert film",
+    "name": "Sting: Inside - The Songs of Sacred Love",
+    "original_info": {
+        "id": "Sting: Inside the Songs of \"Sacred Love\"_2003",
+        "name": "Sting: Inside the Songs of \"Sacred Love\"",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "lpokeefe"
+        },
+        "dateCreated": "2004-06-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0414545/"
+        },
+        "name": "Quite good, but has its weak points",
+        "reviewBody": "This concert film was shot at Sting's Malibu house and the Mayan Theater in L.A. It features most of the songs from Sting's new album performed in a much sparser, seemingly more improvised manner. This is particularly evident on \"Never Coming Home\" which actually sounds better than what's on the album. However I do have my pet peeves about it:\n\nA) Kipper. The guy is great and crazy talented, but the sound that he puts into Sting's music makes it sound cold. Sting sounded best in about 1992 with \"The Soul Cages\" and Kipper has screwed up Sting's music with his synthesizers, programmed drums etc. etc. etc.\n\nB) Where's Manu Katche? This drummer is one of the best ever and is for some reason not here. Sting even said he dropped drums and drummers because they were too loud in rehearsal, and brought in Kipper's drum pads. Thank God Sting brought Manu back for the greater portion of the Sacred Love tour.\n\nC) Electronic piano. Undoubtedly the most talented player here is Jason Rebello, so why in the world would they put him on an electronic piano and continue to credit him as playing \"piano?\" To paraphrase Kevin Murphy, That's like putting gin in grape juice and calling it wine.\n\nOverall though, even with these problems the film is good. 7.5/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0414545/"
+}

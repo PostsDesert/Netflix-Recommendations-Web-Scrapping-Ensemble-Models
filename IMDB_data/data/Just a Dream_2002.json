@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Carl Lumbly",
+            "url": "/name/nm0525855/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robby Benson",
+            "url": "/name/nm0000913/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ally Sheedy",
+            "url": "/name/nm0000639/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 360,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0038900/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ken Topolsky",
+            "url": "/name/nm0867712/"
+        },
+        {
+            "@type": "Person",
+            "name": "Melanie Wilson",
+            "url": "/name/nm0933854/"
+        }
+    ],
+    "datePublished": "2002-03-16",
+    "description": "Film crew arrives in a small town in Nevada desert. Ends up changing the life of a 12-year-old kid and a friend of his, a movie lover.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Danny Glover",
+            "url": "/name/nm0000418/"
+        }
+    ],
+    "duration": "PT1H36M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU2NDQ3MTgwOV5BMl5BanBnXkFtZTcwOTM5OTU3MQ@@._V1_.jpg",
+    "keywords": "child,desert,movie crew,first job,movie extra",
+    "name": "Just a Dream",
+    "original_info": {
+        "id": "Just a Dream_2002",
+        "name": "Just a Dream",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "=G="
+        },
+        "dateCreated": "2002-08-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0297221/"
+        },
+        "name": "Good old fashioned PG family entertainment",
+        "reviewBody": "\"Just a Dream\" is a slow moving, soft spoken sentimental tale from Showtime about one boy's special summer and the lessons he learns. The obvious scripting, theatrical flavor, and Pollyanna attitude of the flick is easily overlooked in view of its higher purpose as it spins its wistful story delivering positive messages about life. Good old fashioned back-to-basics family entertainment which should be about PG rated. (B-)",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0297221/"
+}

@@ -1,0 +1,96 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Steven Weber",
+            "url": "/name/nm0001836/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael T. Weiss",
+            "url": "/name/nm0919117/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Jacobson",
+            "url": "/name/nm0414772/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6483,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0064012/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0026078/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Rudnick",
+            "url": "/name/nm0397411/"
+        }
+    ],
+    "datePublished": "1995-08-18",
+    "description": "A poignant romantic comedy about the quest for love and intimacy in the age of AIDS. A story of a thirtyish gay actor/waiter who decides to become celibate...the risk of AIDS has taken all the joy from sex.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Christopher Ashley",
+            "url": "/name/nm2259353/"
+        }
+    ],
+    "duration": "PT1H32M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMWM0ODdjOWEtOTJhYy00NmQ0LThmOTctMDNmZTEwNzA5MGM1XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg",
+    "keywords": "new york city,aids,fear of aids,gay,gay priest",
+    "name": "Jeffrey",
+    "original_info": {
+        "id": "Jeffrey_1995",
+        "name": "Jeffrey",
+        "year": "1995"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "little_stevie"
+        },
+        "dateCreated": "2001-04-15",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0113464/"
+        },
+        "name": "An alternative perspective?",
+        "reviewBody": "Having just watched this movie for the first time, some six years after it's making, I will say that I thoroughly enjoyed it. Patrick Stewart almost steals the show with his impeccable delivery of the acerbic wit written into his character.\n\nBut what I really want to talk about is the strong resemblance of the story, in its flavor and its excesses, to a story originally written by Damon Runyon known to most people today as the Broadway musical \"Guys and Dolls.\" Both stories come across via the broad strokes of a comic book come to life. And indeed, one wonders that Frank Loesser and Abe Burrows couldn't take \"Jeffrey\" and work it over into a '90s \"Gays and Dolls\" without too much trouble. The movie already has its start in that direction with the rodeo dance number serving as the \"dream ballet\" sequence requisite of every self-respecting stage musical.\n\nThe point I'm making is that every fictionalized reality (an oxymoron if there ever was one) requires to some extent or another, a \"willing suspension of disbelief.\" Watch \"Jeffrey\" with the same perspective you sat in the audience and enjoyed \"Guys and Dolls\" with: Don't look too hard for subtlety here. Just sit back, relax, and enjoy the story. After all, even a comic book can have insight and a message."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer 1",
+        "duration": "PT2M34S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3309943833",
+        "name": "Jeffrey",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTc4OGQ3ZTgtOGFlZC00MzRhLWExYjQtNzY1MTAxZDYwOWY3XkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTc4OGQ3ZTgtOGFlZC00MzRhLWExYjQtNzY1MTAxZDYwOWY3XkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg",
+        "uploadDate": "2019-08-17T17:04:47.555Z",
+        "url": "https://www.imdb.com/video/vi3309943833/"
+    },
+    "url": "/title/tt0113464/"
+}

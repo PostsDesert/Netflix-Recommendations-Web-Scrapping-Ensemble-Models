@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Taylor Nichols",
+            "url": "/name/nm0629737/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chris Eigeman",
+            "url": "/name/nm0001177/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tushka Bergen",
+            "url": "/name/nm0072737/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6375,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0188973/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0040620/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0043853/"
+        },
+        {
+            "@type": "Person",
+            "name": "Whit Stillman",
+            "url": "/name/nm0001775/"
+        }
+    ],
+    "datePublished": "1994-07-29",
+    "description": "An American working in Barcelona, having sworn off beautiful women, is forced to be host to his playboy cousin in this witty comedy of good intentions and mixed signals.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Whit Stillman",
+            "url": "/name/nm0001775/"
+        }
+    ],
+    "duration": "PT1H41M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNWU2YzE2YzctNDg1OS00ZDdhLWI3M2ItYWY1MzExZjlmOGM5XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg",
+    "keywords": "timeframe 1980s,u.s. navy,ugly american,anti americanism,spain",
+    "name": "Barcelona",
+    "original_info": {
+        "id": "Barcelona_1994",
+        "name": "Barcelona",
+        "year": "1994"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jeanmaru"
+        },
+        "dateCreated": "2004-12-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0109219/"
+        },
+        "name": "The Bible Dancer and the American Deer",
+        "reviewBody": "This is one of those movies that get better with age. I first saw it ten years ago, when Mira Sorvino was an unknown actress, and I was surprised to learn later that she wasn't really Spanish. (I lived in Spain for five years, so I'm not easily fooled.) If you've been to Barcelona, you'll like the glowing glimpses of the city, sun-drenched during the day, lit by neon and fireworks at night. There is much charming, often subtle, humor in the film. Who could resist Taylor Nichols dancing alone in his dining room while reading the Bible? Or Chris Eigeman using a felt tip pen to change anti-American graffiti from \"American pigs\" to \"American deer\"? Sure, the film is talky, but it doesn't take itself too too seriously.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT1M50S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4223140121",
+        "name": "Barcelona",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMGUwNmQwODYtNDA5OC00YWQ1LTlhMWUtODk4MDY1Nzg3NGM5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMGUwNmQwODYtNDA5OC00YWQ1LTlhMWUtODk4MDY1Nzg3NGM5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:22:06Z",
+        "url": "https://www.imdb.com/video/vi4223140121/"
+    },
+    "url": "/title/tt0109219/"
+}

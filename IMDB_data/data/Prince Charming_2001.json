@@ -1,0 +1,92 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Martin Short",
+            "url": "/name/nm0001737/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christina Applegate",
+            "url": "/name/nm0000775/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrea Martin",
+            "url": "/name/nm0551908/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2440,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0058437/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0069955/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0076066/"
+        },
+        {
+            "@type": "Person",
+            "name": "Doug Palau",
+            "url": "/name/nm0657408/"
+        }
+    ],
+    "datePublished": "2003-07-13",
+    "description": "After an extramarital indiscretion, a fairy-tale Prince and his sidekick are turned into frogs for all eternity, or until the Prince can convince a maiden to kiss, and then marry him.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Allan Arkush",
+            "url": "/name/nm0035106/"
+        }
+    ],
+    "duration": "PT1H27M",
+    "genre": [
+        "Adventure",
+        "Comedy",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjU1MzY4NDk2MV5BMl5BanBnXkFtZTcwNTc4NDQyMQ@@._V1_.jpg",
+    "keywords": "frog,frog prince,magic",
+    "name": "Prince Charming",
+    "original_info": {
+        "id": "Prince Charming_2001",
+        "name": "Prince Charming",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ccs-5"
+        },
+        "dateCreated": "2005-10-22",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0261203/"
+        },
+        "name": "Christina Applegate's acting is surprisingly great",
+        "reviewBody": "Before watching this movie I hadn't had too high an opinion of Christina Applegate's acting talent. However I thought she was terrific here....especially in the scene where she and the Prince are in the museum and they see his portrait. To me her acting in that scene was truly magical -- it ranks as one of my favorite movie moments. This movie is severely underrated -- perhaps because it was a made-for-TV production. The first 20 minutes or so admittedly are a bit uneven, but then it really takes off. For the fullest enjoyment one must remember that it is a fairy tale, after all, and hence requires the requisite suspension of belief. The acting overall is absolutely superb: Bernadette Peters is at her best; Billy Connolly plays his role to perfection; the actor who plays the prince (whose name escapes me!) should be more famous than he is, as he was spot-on; Martin Short was typically wonderful and just right; and nearly all of the other actors were tailor-made for their roles.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0261203/"
+}

@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Rita Hayworth",
+            "url": "/name/nm0000028/"
+        },
+        {
+            "@type": "Person",
+            "name": "Glenn Ford",
+            "url": "/name/nm0001229/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Macready",
+            "url": "/name/nm0534317/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 33269,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0108852/"
+        },
+        {
+            "@type": "Person",
+            "name": "E.A. Ellington",
+            "url": "/name/nm0254154/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jo Eisinger",
+            "url": "/name/nm0252100/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marion Parsonnet",
+            "url": "/name/nm0663763/"
+        }
+    ],
+    "datePublished": "1946-04-25",
+    "description": "A small-time gambler hired to work in a Buenos Aires casino discovers his employer's new wife is his former lover.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Charles Vidor",
+            "url": "/name/nm0896533/"
+        }
+    ],
+    "duration": "PT1H50M",
+    "genre": [
+        "Drama",
+        "Film-Noir",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYWUxMzViZTUtNTYxNy00YjY4LWJmMjYtMzNlOThjNjhiZmZkXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "keywords": "punched in the face,gambler,washroom attendant,suicide,singing and playing guitar",
+    "name": "Gilda",
+    "original_info": {
+        "id": "Gilda_1946",
+        "name": "Gilda",
+        "year": "1946"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Spondonman"
+        },
+        "dateCreated": "2004-04-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0038559/"
+        },
+        "name": "Uniqueness descending into the ordinary",
+        "reviewBody": "This is one of my all time favourite films, much watched with all its faults. Even the best things can't be faultless but any faults can be more easily overlooked.\n\nThere is no golden age film I've seen quite like Gilda, full of strange people with highly-charged emotions saying and doing odd thought-provoking things in semi-comical ways - if you include violence and swearing you could say that's 90% of modern movies though! The subject of hate = love has been explored better since Gilda, but with me the first cut is always the deepest - I first saw this when I was a more impressionable youngster. What we have is a scintillating four way love/hate relationship between Ballin, Johnny, Ballin & Johnny's little friend with no name, & Gilda that ultimately becomes the \"usual\" tawdry tangle, resolved by their nightclub's toilet-attendant. Huh? When you're in the middle of this fantasy world you can swallow all of this and more.\n\nProbably the second best B picture ever made it only starts to feel like one during the last 30 minutes down to the metaphorical walking into the sunset ending. There's so many good bits: The inventive and relentlessly snappy dialogue between the main characters throughout the film; Johnny quoting statistically that there are more insects in the world than women; Johnny waking up at 5am to the sound of Gilda singing to Pio the toilet-attendant; Pio's reaction after the midget industrialist killed himself in the toilets; Ballin describing his little friend's attributes to Johnny who claims he's just as good; Ballin asking Gilda if she was decent when she was; Johnny telling Ballin categorically that he taught Gilda ALL she knew; Gilda's little striptease - what creeps there were in that club - and fancy stopping her!\n\nNot quite as good as, but a worthy bookend for Casablanca, THE best B picture ever made.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Columbia Pictures",
+        "duration": "PT2M3S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi111346457",
+        "name": "Gilda",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYTUyNzFkODUtNDA4Zi00YWMxLWJlMzAtZDE2M2JhNDRiYmJlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTUyNzFkODUtNDA4Zi00YWMxLWJlMzAtZDE2M2JhNDRiYmJlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-11-27T06:22:22Z",
+        "url": "https://www.imdb.com/video/vi111346457/"
+    },
+    "url": "/title/tt0038559/"
+}

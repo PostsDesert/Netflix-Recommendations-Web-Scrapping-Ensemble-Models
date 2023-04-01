@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Alexsandra Wright",
+            "url": "/name/nm0942189/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tyrese Gibson",
+            "url": "/name/nm0879085/"
+        },
+        {
+            "@type": "Person",
+            "name": "Taraji P. Henson",
+            "url": "/name/nm0378245/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 15505,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0068402/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Singleton",
+            "url": "/name/nm0005436/"
+        }
+    ],
+    "datePublished": "2001-06-27",
+    "description": "In South Central L.A., a misguided 20-year-old African-American man, a \"baby boy\", faces the commitments of real life.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Singleton",
+            "url": "/name/nm0005436/"
+        }
+    ],
+    "duration": "PT2H10M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTc4MTJmMzYtYTg4Yy00YTE3LWI5MGQtYTcxYWU2MmIxY2U3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "drive by shooting,sex scene,hood,family relationships,ex convict",
+    "name": "Baby Boy",
+    "original_info": {
+        "id": "Baby Boy_2001",
+        "name": "Baby Boy",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Unassuming Local Guy"
+        },
+        "dateCreated": "2002-05-15",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0255819/"
+        },
+        "name": "Singleton does not disappoint...",
+        "reviewBody": "Despite (or maybe because of) the negative things I'd heard from friends and acquaintances, I decided to check BB out for myself. I was very glad I did.\n\nIt's basically a scaled-down version of Boyz in the Hood, with fewer characters allowing for more development. While it's not quite on the same level as Boyz, it's a very emotional drama that's thought provoking, sad, hilariously funny, and at times subtly disturbing.\n\nAfter this, Boyz, and Shaft, I am anxiously awaiting John Singleton's next work."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Pictures",
+        "duration": "PT2M32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1958215961",
+        "name": "Baby Boy",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzQxZTIyNGQtYjMyNC00YzA1LWFkNjAtZDIxYmVlMjliMDBjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzQxZTIyNGQtYjMyNC00YzA1LWFkNjAtZDIxYmVlMjliMDBjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:17:57Z",
+        "url": "https://www.imdb.com/video/vi1958215961/"
+    },
+    "url": "/title/tt0255819/"
+}

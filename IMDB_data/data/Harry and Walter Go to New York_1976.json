@@ -1,0 +1,116 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "James Caan",
+            "url": "/name/nm0001001/"
+        },
+        {
+            "@type": "Person",
+            "name": "Elliott Gould",
+            "url": "/name/nm0001285/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Caine",
+            "url": "/name/nm0000323/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1101,
+        "ratingValue": 5.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0074628/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0808008/"
+        },
+        {
+            "@type": "Person",
+            "name": "Don Devlin",
+            "url": "/name/nm0222782/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Byrum",
+            "url": "/name/nm0126440/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Kaufman",
+            "url": "/name/nm0442099/"
+        }
+    ],
+    "datePublished": "1976-08-19",
+    "description": "In 1892, two vaudevillians and petty con artists get involved, together with the most notorious bank robber, in a New York City bank heist.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mark Rydell",
+            "url": "/name/nm0041932/"
+        }
+    ],
+    "duration": "PT1H55M",
+    "genre": [
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYzVhMGJjNTUtYzg2Ny00OTU5LTgwYWQtZjlkNTcwMTJiZDJkL2ltYWdlXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
+    "keywords": "character names in title,forenames in title,seven word title,1890s,vaudeville",
+    "name": "Harry and Walter Go to New York",
+    "original_info": {
+        "id": "Harry and Walter Go to New York_1976",
+        "name": "Harry and Walter Go to New York",
+        "year": "1976"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "pmtelefon"
+        },
+        "dateCreated": "2020-02-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0074608/"
+        },
+        "name": "Worth watching",
+        "reviewBody": "\"Harry and Walter Go to New York\" is growing on me. It's not as good as it should have been but it does have a lot going for it. The cast is very good and they all do a nice job. The set design and the costumes are top-notch. But for some reason, \"Harry and Walter...\" doesn't work as well as it should have. Sometimes a movie's production values and smother it's humor. I think that might have happened here. Also, especially in the first half, the editing seemed off. A lot of the jokes were ruined with too quick cutaways. That said, I do enjoy a lot of this movie. It's not a total write-off. It's definitely worth watching.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "In 1892, two vaudevillians and petty con artists get involved, together with the most notorious bank robber, in a New York City bank heist.",
+        "duration": "PT2M10S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi976798233",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTQxZTNkYTItNWJjMC00MTQ5LTkzYWYtOGZjMTdhODFkMjliXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTQxZTNkYTItNWJjMC00MTQ5LTkzYWYtOGZjMTdhODFkMjliXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2022-07-09T19:34:40.176Z",
+        "url": "https://www.imdb.com/video/vi976798233/"
+    },
+    "url": "/title/tt0074608/"
+}

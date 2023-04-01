@@ -1,0 +1,79 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Yalin Cengiz",
+            "url": "/name/nm10987144/"
+        },
+        {
+            "@type": "Person",
+            "name": "Funda Dönmez",
+            "url": "/name/nm9299780/"
+        },
+        {
+            "@type": "Person",
+            "name": "Doruk Emek",
+            "url": "/name/nm11874674/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 24,
+        "ratingValue": 3.1,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0765486/"
+        },
+        {
+            "@type": "Person",
+            "name": "Erkan Caltepe",
+            "url": "/name/nm11874675/"
+        }
+    ],
+    "datePublished": "2021-12-10",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Onur Aldogan",
+            "url": "/name/nm9041086/"
+        }
+    ],
+    "genre": [
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzUzMDlmNmMtOTA2ZC00M2NkLWE1ZGYtNWU5ZTY5ZWQxNjNjXkEyXkFqcGdeQXVyMTIzNzk0MzM0._V1_.jpg",
+    "name": "Lain",
+    "original_info": {
+        "id": "Lain #2: Knights_1998",
+        "name": "Lain #2: Knights",
+        "year": "1998"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "CaliforniaRoll"
+        },
+        "dateCreated": "2022-03-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt13040244/"
+        },
+        "name": "I wouldn't waste my time watching this",
+        "reviewBody": "Please don't think that I've watched this movie, I wanted to have the things I gave 1 point on my list. If you are watching this movie, make an appointment with a psychologist without wasting time.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 1,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt13040244/"
+}

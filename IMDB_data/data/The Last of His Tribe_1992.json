@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jon Voight",
+            "url": "/name/nm0000685/"
+        },
+        {
+            "@type": "Person",
+            "name": "Graham Greene",
+            "url": "/name/nm0001295/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Ogden Stiers",
+            "url": "/name/nm0001773/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 590,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0008693/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0088174/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen Harrigan",
+            "url": "/name/nm0364201/"
+        }
+    ],
+    "datePublished": "1992-03-28",
+    "description": "Ishi, the last Yahi Indian of California, must leave his homeland and learn to navigate the world of the white man in order to survive.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Harry Hook",
+            "url": "/name/nm0393591/"
+        }
+    ],
+    "duration": "PT1H31M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYjk2NDMyODYtMTVlMi00NmExLWFjNDktMjExZTNkMDczMmI1XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",
+    "keywords": "native american genocide,california genocide,wilderness,telegram,skull",
+    "name": "The Last of His Tribe",
+    "original_info": {
+        "id": "The Last of His Tribe_1992",
+        "name": "The Last of His Tribe",
+        "year": "1992"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "LaxFan94"
+        },
+        "dateCreated": "2004-02-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0104690/"
+        },
+        "name": "A good film considering that its based on a true story",
+        "reviewBody": "I believed Graham Greene did well portraying Ishi since he easily blended in with the character's storyline. I found it interesting how the anthropologist he befriended became so familiar with his Native language so soon! I think he wasn't like any other white anthropologist who wasn't interested in truly getting to know the people whose cultures he was studying. He really had a genuine liking for Ishi and as a result their friendship became very deep.\n\nWell........ anyways........... that's the reason why I gave this film a 6 out of 10.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0104690/"
+}

@@ -1,0 +1,77 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jimmie Vaughan",
+            "url": "/name/nm0891055/"
+        },
+        {
+            "@type": "Person",
+            "name": "B.B. King",
+            "url": "/name/nm0454475/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Cray",
+            "url": "/name/nm0187042/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 111,
+        "ratingValue": 8.4,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0143541/"
+        }
+    ],
+    "description": "Recorded in Austin, Texas in 1995, A Tribute To Stevie Ray Vaughan is a live celebration of the celebrated modern blues guitarist featuring 10 electrifying performances by B.B. King, Eric Clapton, Buddy Guy, Robert Cray, Dr. John ...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Gary Menotti",
+            "url": "/name/nm0579780/"
+        }
+    ],
+    "duration": "PT1H20M",
+    "genre": [
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU2MDgyODU3MF5BMl5BanBnXkFtZTcwNDY2NzUyMQ@@._V1_.jpg",
+    "keywords": "tv special,concert film,blues music,independent film",
+    "name": "A Tribute to Stevie Ray Vaughan",
+    "original_info": {
+        "id": "A Tribute to Stevie Ray Vaughan_1995",
+        "name": "A Tribute to Stevie Ray Vaughan",
+        "year": "1995"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "GrantCAGE"
+        },
+        "dateCreated": "2001-05-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0179491/"
+        },
+        "name": "Nice Tribute To The Master",
+        "reviewBody": "Some of my favourite blues artists appear on this video. Each musician performing their version of one of SRV's songs. The video starts with interviews with the musicians paying homage to SRV. The opening track is 'Pride And Joy' covered by Bonnie Raitt and sounds quite good. Jimmie Vaughan covers 'Texas Flood', BB King does a great job performing 'Telephone Song' and Buddy Guy takes on 'Long Way From Home' with some piercing high-end notes flailing from his Polka dot Fender Strat! I didn't think much of Eric Clapton on this video because his version of 'Ain't Gonna Give Up On Your Love' sounds pretty mediocre. I liked Robert Cray covering 'Love Struck Baby' as his inventive Chuck Berry-esque licks sounded fresh and gave the song a new dimension. All the musicians come together near the end of the concert to perform three songs together including 'Six Strings Down', 'Tick Tock' and the instrumental 'SRV Shuffle' written by Stevie's brother Jimmie in which all the artists solo relentlessly. I thought this video could've been done better with maybe a bit more of fiery musicianship instead of the lazy feel, but it's a tribute to one of the most compelling blues artists ever so just check it out and enjoy it. I gave this a 6/10 - Quite good!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0179491/"
+}

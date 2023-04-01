@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Georgene Acosta",
+            "url": "/name/nm1075802/"
+        },
+        {
+            "@type": "Person",
+            "name": "Geneviève DeBose",
+            "url": "/name/nm1078659/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joy Kraft-Watts",
+            "url": "/name/nm1077091/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 131,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "datePublished": "2001-09-06",
+    "description": "Follows five inner city Los Angeles teachers during their first year of teaching.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Davis Guggenheim",
+            "url": "/name/nm0346550/"
+        }
+    ],
+    "duration": "PT1H24M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTYyMzIxNjYyN15BMl5BanBnXkFtZTcwMTkyNDUyMQ@@._V1_.jpg",
+    "keywords": "teacher,school",
+    "name": "The First Year",
+    "original_info": {
+        "id": "The First Year_2001",
+        "name": "The First Year",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Gambit8234"
+        },
+        "dateCreated": "2001-09-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0295260/"
+        },
+        "name": "A great documentary of unsung heros",
+        "reviewBody": "I saw this documentary by chance on PBS last night. It chronicles the hardships of being an inter-city teacher in Los Angeles. Some segments are very emotional, such as when one teacher realizes how little his students have. The main thing that this documentary brings to mind, is that the teachers who are helping these kids out are heros. Heros that not many people in our country recognize.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0295260/"
+}

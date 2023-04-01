@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tobey Maguire",
+            "url": "/name/nm0001497/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeff Bridges",
+            "url": "/name/nm0000313/"
+        },
+        {
+            "@type": "Person",
+            "name": "Elizabeth Banks",
+            "url": "/name/nm0006969/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 74674,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0819670/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0031181/"
+        },
+        {
+            "@type": "Person",
+            "name": "Laura Hillenbrand",
+            "url": "/name/nm1227780/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gary Ross",
+            "url": "/name/nm0002657/"
+        }
+    ],
+    "datePublished": "2003-07-25",
+    "description": "True story of the undersized Depression-era racehorse whose victories lifted not only the spirits of the team behind it but also those of their nation.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Gary Ross",
+            "url": "/name/nm0002657/"
+        }
+    ],
+    "duration": "PT2H20M",
+    "genre": [
+        "Drama",
+        "History",
+        "Sport"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMWVmMmE1YzItNGUyZS00MzgwLWFhNzYtYjM4ZTJmZDVjNmNmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "horse movie,horse sport,horse,horse racing,racehorse",
+    "name": "Seabiscuit",
+    "original_info": {
+        "id": "Seabiscuit_2003",
+        "name": "Seabiscuit",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "claudio_carvalho"
+        },
+        "dateCreated": "2004-12-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0329575/"
+        },
+        "name": "When Losers Have a Second Chance to Become Winners",
+        "reviewBody": "After the American Depression, the millionaire Charles Howard (Jeff Bridges) gets married again with Marcela (Elizabeth Banks) and decides to invest in a race horse. He gathers the old couch Tom Smith (Chris Cooper), the problematic jockey Red Pollard (Tobey Maguire) and the horse Seabiscuit, all of them losers, and he believes on them, giving a second chance to them. Seabiscuit becomes a winner and legend in a difficult period of the American life. \"Seabiscuit\" is a beautiful film with positive and wonderful messages. Charles Howard has the best lines, such as: \"When the little guy doesn't know that he is little, he is capable of big things\"; or, \"Sometimes all somebody needs is a second chance\". The excellent and underrated actor Chris Cooper has probably his best performance along his career. Although having 141 minutes running time, the viewer does not feel time passing. I particularly liked not only the direction, performances, locations and reconstitution of a period, but mainly the never corny and very positive messages in the excellent lines and screenplay. My vote is eight.\n\nTitle (Brazil): \"Seabiscuit  Alma de Herói\" (\"Seabiscuit  Soul of Hero\")",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3046179097",
+        "name": "Seabiscuit",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjU4MjllOWMtMDgwOC00MDFhLWJlMDYtYmMxNzcwOTdjYzZmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjU4MjllOWMtMDgwOC00MDFhLWJlMDYtYmMxNzcwOTdjYzZmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:44:26Z",
+        "url": "https://www.imdb.com/video/vi3046179097/"
+    },
+    "url": "/title/tt0329575/"
+}

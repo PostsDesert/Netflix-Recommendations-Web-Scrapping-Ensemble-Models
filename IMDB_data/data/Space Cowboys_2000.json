@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Clint Eastwood",
+            "url": "/name/nm0000142/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tommy Lee Jones",
+            "url": "/name/nm0000169/"
+        },
+        {
+            "@type": "Person",
+            "name": "Donald Sutherland",
+            "url": "/name/nm0000661/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 83261,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0079381/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0034487/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0010258/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ken Kaufman",
+            "url": "/name/nm0442190/"
+        },
+        {
+            "@type": "Person",
+            "name": "Howard Klausner",
+            "url": "/name/nm0458439/"
+        }
+    ],
+    "datePublished": "2000-08-04",
+    "description": "When retired engineer Frank Corvin (Clint Eastwood) is called upon to rescue a failing satellite, he insists that his equally old teammates accompany him into space.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Clint Eastwood",
+            "url": "/name/nm0000142/"
+        }
+    ],
+    "duration": "PT2H10M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk4NzAwOTkwMF5BMl5BanBnXkFtZTYwMDM3MTM3._V1_.jpg",
+    "keywords": "space shuttle,astronaut,satellite,flight simulator,one last job",
+    "name": "Space Cowboys",
+    "original_info": {
+        "id": "Space Cowboys_2000",
+        "name": "Space Cowboys",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "lastliberal"
+        },
+        "dateCreated": "2007-04-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0186566/"
+        },
+        "name": "You are never too old to have fun",
+        "reviewBody": "What movie with Clint Eastwood, Tommy Lee Jones. James Garner, James Cromwell, Donald Sutherland, and Marcia Gay Harden wouldn't be worth a look. This one has it all, but mostly laughs. This Clint Eastwood produced and directed movie is great simply because the cast doesn't appear to take it seriously. They are just having fun. And special effects? They are better here than other movies like Armageddon and Deep Impact.\n\nIf you like movies where people are considered outdated or replaceable and prove the experts wrong, then this is the one. I watch it and keep getting reminded about all those COBOL experts who were back making the big bucks just prior to the millennium change.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT2M17S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi428146969",
+        "name": "Space Cowboys",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMGU2NDgwNzAtYmVkZC00MzZlLWE1OGEtYzNmZGM4ZDNkOTY4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMGU2NDgwNzAtYmVkZC00MzZlLWE1OGEtYzNmZGM4ZDNkOTY4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:56:08Z",
+        "url": "https://www.imdb.com/video/vi428146969/"
+    },
+    "url": "/title/tt0186566/"
+}

@@ -1,0 +1,94 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dyan Cannon",
+            "url": "/name/nm0001007/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kris Kristofferson",
+            "url": "/name/nm0001434/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tony Curtis",
+            "url": "/name/nm0000348/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1518,
+        "ratingValue": 4.8,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0045447/"
+        },
+        {
+            "@type": "Person",
+            "name": "Aileen Hamilton",
+            "url": "/name/nm0357707/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lionel Houser",
+            "url": "/name/nm0396754/"
+        },
+        {
+            "@type": "Person",
+            "name": "Adele Comandini",
+            "url": "/name/nm0173532/"
+        }
+    ],
+    "datePublished": "1992-04-13",
+    "description": "Elizabeth, the star of a successful cooking show, is set to do a live show on Christmas, where she'll cook a Christmas dinner. But what no one knows is that she can't cook.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Arnold Schwarzenegger",
+            "url": "/name/nm0000216/"
+        }
+    ],
+    "duration": "PT1H33M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTY4NWU4YjgtNzhlYS00YjljLTkxODYtOTcxNTJhNjc5ODdiXkEyXkFqcGdeQXVyNzMwOTY2NTI@._V1_.jpg",
+    "keywords": "cooking show,television producer,cook,posing as a married couple,colorado",
+    "name": "Christmas in Connecticut",
+    "original_info": {
+        "id": "Christmas in Connecticut_1992",
+        "name": "Christmas in Connecticut",
+        "year": "1992"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "reelkev"
+        },
+        "dateCreated": "2019-12-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0103961/"
+        },
+        "name": "watch the original",
+        "reviewBody": "The original is soooo much better. I like Dyan Cannon and it's not bad - but the Barbara Stanwyck version was sweeter and truly a classic.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 3,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0103961/"
+}

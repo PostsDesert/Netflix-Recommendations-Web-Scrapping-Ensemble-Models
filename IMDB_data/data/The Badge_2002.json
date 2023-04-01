@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Billy Bob Thornton",
+            "url": "/name/nm0000671/"
+        },
+        {
+            "@type": "Person",
+            "name": "Patricia Arquette",
+            "url": "/name/nm0000099/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Devane",
+            "url": "/name/nm0001137/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3412,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0017712/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0002572/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0058765/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robby Henson",
+            "url": "/name/nm0378240/"
+        }
+    ],
+    "datePublished": "2002-09-07",
+    "description": "Sheriff Hardwick investigates the death of Mona, a transexual woman. The judge asks that the case is archived to prevent it impacting the upcoming elections, but the evidence keeps coming in.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robby Henson",
+            "url": "/name/nm0378240/"
+        }
+    ],
+    "duration": "PT1H43M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE4MDU5NzUyNl5BMl5BanBnXkFtZTcwNDQyMTc5Nw@@._V1_.jpg",
+    "keywords": "murder,corruption,morgue,framed for rape,widow",
+    "name": "The Badge",
+    "original_info": {
+        "id": "The Badge_2002",
+        "name": "The Badge",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "EdExtract"
+        },
+        "dateCreated": "2003-06-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0286493/"
+        },
+        "name": "Sleazy Sleuthing--Cajun Style",
+        "reviewBody": "This film is a solid bit of detective fiction with a Cajun noir flavor to it. Lots of shady characters trying to manipulate folks in order to keep sleazy secrets hidden get in the way of a sometimes earnest but morally mixed-up Louisiana sheriff.\n\nIf you like Raymond Chandler's stories, this should prove pleasing. Yes, the film is paced slowly, but as the sheriff in hot water finally realizes the only way to regain his honor (and perhaps his job) is by solving the case, the action picks up. Billy Bob Thornton gives another perfect performance, and Patricia Arquette is stronger than ever. Very nice directorial touches balance storytelling and artistry very well.\n\nA good evening's entertainment."
+    },
+    "url": "/title/tt0286493/"
+}

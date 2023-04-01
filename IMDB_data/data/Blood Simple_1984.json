@@ -1,0 +1,113 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Getz",
+            "url": "/name/nm0315288/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frances McDormand",
+            "url": "/name/nm0000531/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dan Hedaya",
+            "url": "/name/nm0000445/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 99275,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0033808/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0076393/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joel Coen",
+            "url": "/name/nm0001054/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ethan Coen",
+            "url": "/name/nm0001053/"
+        }
+    ],
+    "datePublished": "1985-01-18",
+    "description": "The owner of a seedy small-town Texas bar discovers that one of his employees is having an affair with his wife. A chaotic chain of misunderstandings, lies and mischief ensues after he devises a plot to have them murdered.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Joel Coen",
+            "url": "/name/nm0001054/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ethan Coen",
+            "url": "/name/nm0001053/"
+        }
+    ],
+    "duration": "PT1H39M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZmI5YzM1MjItMzFmNy00NGFkLThlMDUtZjZmYTZkM2QxMjU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "keywords": "double cross,neo noir,private detective,crime gone awry,hired killer",
+    "name": "Blood Simple",
+    "original_info": {
+        "id": "Blood Simple_1984",
+        "name": "Blood Simple",
+        "year": "1984"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "MaxBorg89"
+        },
+        "dateCreated": "2008-07-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0086979/"
+        },
+        "name": "The Coens' first great piece of cinema",
+        "reviewBody": "As far as directorial debuts go, few are as ambitious and inventive as the Coen brothers' first film, Blood Simple, as it mixes genres and moods in a way that anticipated Tarantino's similar experiments by a decade, while still retaining an apparent simplicity, both narratively and formally, that few people originally saw as the beginning of one of American cinema's most extraordinary careers.\n\nSet in a stark Texas landscape, Blood Simple opens on a premise that seems to be borrowed from the likes of Double Indemnity or The Postman Always Rings Twice: someone steals another man's wife. However, the two adulterous lovers (Jamie Getz and Frances McDormand) do not plan to assassinate the betrayed husband (Dan Hedaya). On the contrary, he hires a sleazy PI (M. Emmett Walsh) to spy on them to carry out some twisted plan of his own. That is, until the investigator goes rogue and the situation escalates in the most grotesque of ways.\n\nThis escalation is matched by the Coens' constant shifts between genres, achieved through lighting, music and camera movements. Noir, straightforward thriller, horror, black comedy: Blood Simple is each of these and all of them at once, but the transition is never forced or unnatural; in fact, these transitions occur because somehow the story itself demands that they happen. In a way, this is a film that is aware of its own fictitious nature and toys with it as much as possible - because it can. This has since become a trademark of the two brothers, and it is as fresh and original now as it was back in 1984.\n\nThe same can be said of the four main actors: Getz and McDormand (soon to be Mrs. Joel Coen) form a solid leading couple, thoroughly menaced by the sudden ferocity of Hedaya, then best known for playing Rhea Perlman's dim-witted ex-husband on Cheers (an image he gladly, and expertly, reverses here). And then there's Walsh, who takes his practically identical role in Blade Runner and increases the character's unlikability, turning in one of the most brutally charming villainous performances of the '80s (and of the Coen canon).\n\nJoel and Ethan Coen had a very clear idea of what they wanted to achieve in the movie business from the get-go, and Blood Simple is one of the best examples of this: for 90 minutes, it takes you to a whole new world, one that most people are happy to revisit as often as they can.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Blood Simple",
+        "duration": "PT1M51S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2174465817",
+        "name": "Blood Simple",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNmQzOWM4ZmMtYjRhNy00ZWY3LWJkMmItMGRhMjg3ZmQ0ODAxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNmQzOWM4ZmMtYjRhNy00ZWY3LWJkMmItMGRhMjg3ZmQ0ODAxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2016-06-30T14:07:41Z",
+        "url": "https://www.imdb.com/video/vi2174465817/"
+    },
+    "url": "/title/tt0086979/"
+}

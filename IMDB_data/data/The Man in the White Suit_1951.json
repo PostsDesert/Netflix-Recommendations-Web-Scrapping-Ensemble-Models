@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Alec Guinness",
+            "url": "/name/nm0000027/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joan Greenwood",
+            "url": "/name/nm0339343/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cecil Parker",
+            "url": "/name/nm0662116/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 10238,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0040024/"
+        },
+        {
+            "@type": "Person",
+            "name": "Roger MacDougall",
+            "url": "/name/nm0532032/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Dighton",
+            "url": "/name/nm0226538/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alexander Mackendrick",
+            "url": "/name/nm0533241/"
+        }
+    ],
+    "description": "An altruistic chemist invents a fabric which resists wear and stain as a boon to humanity, but big business and labor realize it must be suppressed for economic reasons.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Alexander Mackendrick",
+            "url": "/name/nm0533241/"
+        }
+    ],
+    "duration": "PT1H25M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUxNTIzNzY4OV5BMl5BanBnXkFtZTgwODExMTI0NDE@._V1_.jpg",
+    "keywords": "invention,capitalism,inventor,factory,clothing industry",
+    "name": "The Man in the White Suit",
+    "original_info": {
+        "id": "The Man in the White Suit_1951",
+        "name": "The Man in the White Suit",
+        "year": "1951"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "rupie"
+        },
+        "dateCreated": "2000-02-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0044876/"
+        },
+        "name": "another Ealing Studios gem!",
+        "reviewBody": "I can't say whether the post-WWII British comedies produced at the Ealing Studios are an acquired taste or not, but I am completely addicted, and The Man in the White Suit is one of the best. No need to go into the well-known plot about the threat posed to both the textile industry and the textile unions by an indestructible, dirt-resistant fiber. Suffice it to say that the slings and arrows suffered by the naively idealistic Sidney Stratton in pursuing his polymer vision make for a comedic delight. Many of the well-known faces from the world of British character actors - the nervous Cecil Parker, the suavely devious Michael Gough, and the bluntly ruthless Ernest Thesinger - put in wonderful performances. Guinness - as always and forever - is superb, and Joan Greenwood is delectable as Daphne (just the way she enunciates the word \"Daddy\", makes the entire movie worth seeing).\n\n\"Knudsen!!!!!!!\"",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for The Man in the White Suit",
+        "duration": "PT2M46S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi929934873",
+        "name": "The Man in the White Suit",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTg5YzFiM2YtN2FmYS00ZGZjLTkxMmMtYzVkNjNhMTE1MGIzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTg5YzFiM2YtN2FmYS00ZGZjLTkxMmMtYzVkNjNhMTE1MGIzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2015-02-28T08:09:27Z",
+        "url": "https://www.imdb.com/video/vi929934873/"
+    },
+    "url": "/title/tt0044876/"
+}

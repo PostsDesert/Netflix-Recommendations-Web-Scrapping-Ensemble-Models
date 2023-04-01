@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Rowan Atkinson",
+            "url": "/name/nm0000100/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jon Glover",
+            "url": "/name/nm0323140/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sally Grace",
+            "url": "/name/nm0333393/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 13023,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "TV-Y",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103644/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0104294/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0104295/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bob Boyle",
+            "url": "/name/nm0102196/"
+        }
+    ],
+    "datePublished": "2002-01-05",
+    "description": "A clueless yet clever loner bungles his way through life in London.",
+    "genre": [
+        "Animation",
+        "Comedy",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY2NGRlZTgtZWU1ZC00NzhkLTgyMmYtYTQyZDgzYmE0ZmYzXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg",
+    "keywords": "british animation,male protagonist,sitcom,based on tv series,2d animation",
+    "name": "Mr. Bean: The Animated Series",
+    "original_info": {
+        "id": "Mr. Bean: The Animated Series_2002",
+        "name": "Mr. Bean: The Animated Series",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "vampire-willsmith"
+        },
+        "dateCreated": "2019-07-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0280277/"
+        },
+        "name": "Beautifully funny",
+        "reviewBody": "It reminds me of my childhood when my father and myself used to be glued to the TV and watched it and laughed. The charm still persists and fun to watch with each episode of just 10 mins. Love it !",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT1M1S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2660696345",
+        "name": "Mr. Bean: Animated Series",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzk5NTczZDAtNjhhNi00YTAwLWFkNmQtMzg0MTg2YjA0ODYwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzk5NTczZDAtNjhhNi00YTAwLWFkNmQtMzg0MTg2YjA0ODYwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:06:39Z",
+        "url": "https://www.imdb.com/video/vi2660696345/"
+    },
+    "url": "/title/tt0280277/"
+}

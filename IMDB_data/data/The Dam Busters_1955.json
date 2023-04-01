@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Richard Todd",
+            "url": "/name/nm0865262/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Redgrave",
+            "url": "/name/nm0714878/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ursula Jeans",
+            "url": "/name/nm0419982/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 10786,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103091/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Brickhill",
+            "url": "/name/nm0108595/"
+        },
+        {
+            "@type": "Person",
+            "name": "Guy Gibson",
+            "url": "/name/nm1355122/"
+        },
+        {
+            "@type": "Person",
+            "name": "R.C. Sherriff",
+            "url": "/name/nm0792670/"
+        }
+    ],
+    "datePublished": "1955-07-16",
+    "description": "Drama based on the audacious raid by No. 617 Squadron of the Royal Air Force who struck at the heart of German industrial might in the Ruhr Valley using the inventive genius of Barnes Wallis's \"bouncing bomb\".",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Anderson",
+            "url": "/name/nm0027183/"
+        }
+    ],
+    "duration": "PT1H45M",
+    "genre": [
+        "Drama",
+        "History",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDUyNmU1NTQtM2JlNC00OTNjLTg2MWEtNjQ4NjI5OTk3ZTY1XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg",
+    "keywords": "world war two,based on true story,based on book,raf bomber command,dangerous mission",
+    "name": "The Dam Busters",
+    "original_info": {
+        "id": "The Dam Busters_1955",
+        "name": "The Dam Busters",
+        "year": "1955"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dmblanch"
+        },
+        "dateCreated": "2004-02-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0046889/"
+        },
+        "name": "Don't forget Star Wars!",
+        "reviewBody": "I plowed through the most recent 5 user reviews of this movie, burrowing past the recitations of historical minutiae and the quibbles about its 50 year old (un)special effects, and thought to myself that everyone missed the point. \n\nYes, the effects are crude -- the film was made in 19-fricking-54, people! Yes, it gets some of the historical details wrong -- it's entertainment, people! The real point is that it's a fantastic yarn, told with great skill and excitement. When I first saw it (as a teen, before Star Wars) I was glued to the screen. I still am today. And evidently, I'm not alone because in 1977 a certain geeky film maker from Northern California stole a large portion of Dam Busters, mixed in a heapin' helpin' of Hidden Fortress, and peppered it all with a dash of Laurel & Hardy & Flash Gordon, calling it Star Wars.\n\nSo I'm giving props where props are due. Don't miss this classic."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Extra (Clip) from Anchor Bay Entertainment",
+        "duration": "PT2M43S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4260364569",
+        "name": "The Dam Busters",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzliZDc2NjktMzU2ZS00ODIyLThlMzQtNzdjYTY2OTZjNDk0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzliZDc2NjktMzU2ZS00ODIyLThlMzQtNzdjYTY2OTZjNDk0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:37:33Z",
+        "url": "https://www.imdb.com/video/vi4260364569/"
+    },
+    "url": "/title/tt0046889/"
+}

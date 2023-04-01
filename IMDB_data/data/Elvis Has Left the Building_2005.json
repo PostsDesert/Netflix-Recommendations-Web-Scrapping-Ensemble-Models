@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kim Basinger",
+            "url": "/name/nm0000107/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Corbett",
+            "url": "/name/nm0179173/"
+        },
+        {
+            "@type": "Person",
+            "name": "Annie Potts",
+            "url": "/name/nm0001633/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2907,
+        "ratingValue": 5.1,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0060324/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0136721/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mitchell P Ganem",
+            "url": "/name/nm1430637/"
+        },
+        {
+            "@type": "Person",
+            "name": "Adam-Michael Garber",
+            "url": "/name/nm1445438/"
+        }
+    ],
+    "datePublished": "2004-08-27",
+    "description": "A fugitive Pink Lady rep hooks up with a bored ad exec as she's trying to avoid going down for the murder of several Elvis impersonators.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Joel Zwick",
+            "url": "/name/nm0959034/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAwZWVkOGEtNGMwNS00YzUyLWIxMTEtY2M4Y2E3ZGQ0YWZmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "elvis impersonator,on the road,pink cadillac,dog,voice over narration",
+    "name": "Elvis Has Left the Building",
+    "original_info": {
+        "id": "Elvis Has Left the Building_2005",
+        "name": "Elvis Has Left the Building",
+        "year": "2005"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dlitt-1"
+        },
+        "dateCreated": "2005-12-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0377057/"
+        },
+        "name": "It's just a little fun.",
+        "reviewBody": "Okay, it's not Spielberg, but it's a little movie that's a lot of fun. Competent performances by Basinger and Corbett certainly help sell the premise, but it's a screwball comedy a la \"The Russians Are Coming\". Besides, how bad could a dark comedy be whose focus is on an Elvis impersonator convention? Help comes in many forms including appearances by Denise Richards, Angie Dickenson, Pat Morita, Richard Kind, and Annie Potts. Other cameos spice things a bit. If don't mind spending 90 minutes on a little quirky movie that delivers a few good laughs and a lot of amusing moments rent the DVD. It's worth it. This last line is in here because IMDb makes you write ten lines.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Lionsgate",
+        "duration": "PT1M37S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi514130201",
+        "name": "Elvis Has Left The Building",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODhkYWEwY2QtMzFhOC00MjkwLTljNjctMzUyNWVlOTgwZGNiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODhkYWEwY2QtMzFhOC00MjkwLTljNjctMzUyNWVlOTgwZGNiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:00:14Z",
+        "url": "https://www.imdb.com/video/vi514130201/"
+    },
+    "url": "/title/tt0377057/"
+}

@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Al Franken",
+            "url": "/name/nm0291253/"
+        },
+        {
+            "@type": "Person",
+            "name": "Laura San Giacomo",
+            "url": "/name/nm0000624/"
+        },
+        {
+            "@type": "Person",
+            "name": "Vincent D'Onofrio",
+            "url": "/name/nm0000352/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2888,
+        "ratingValue": 5.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0070568/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0113592/"
+        },
+        {
+            "@type": "Person",
+            "name": "Al Franken",
+            "url": "/name/nm0291253/"
+        }
+    ],
+    "datePublished": "1995-04-12",
+    "description": "A self-help advocate struggles to put his dysfunctional family in its place.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Harold Ramis",
+            "url": "/name/nm0000601/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZWZiZWQ4NmMtYmVhYi00MDRhLWFjMmUtODA0NWFkMjdmNWQ5XkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_.jpg",
+    "keywords": "sketch comedy movie,sketch comedy,public access,dysfunctional family,avanti",
+    "name": "Stuart Saves His Family",
+    "original_info": {
+        "id": "Stuart Saves His Family_1995",
+        "name": "Stuart Saves His Family",
+        "year": "1995"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "michael.e.barrett"
+        },
+        "dateCreated": "2000-09-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0114571/"
+        },
+        "name": "One of the best SNL movies?",
+        "reviewBody": "That doesn't sound like an accomplishment, since the best SNL movies are probably \"Blues Brothers\" and \"Wayne's World,\" and both are uneven. Furthermore, Stuart Smalley seems at first glance like one of the most obnoxious characters to base a movie around. He has characteristics that turn a lot of people off (effeminate, new agey, \"caring\"), but Franken shows that this veneer is painfully constructed over anger and hurt, and you end up actually liking him better the more time you spend with him. (The TV skits tend to just make fun of him.) One of the movie's most interesting scenes is between Franken and Laura San Giacomo when he tells her \"I love you.\" In any other Hollywood movie, this would be a romantic-interest scene, because everyone knows you can't have a male and female star in a movie without their getting together. Well, here it's that incredibly rare thing: a scene of genuine friendship and support, with Stuart's sexuality left out of the question. To me, that's more impressive than if they got into a liplock."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A self-help advocate struggles to put his dysfunctional family in its place.",
+        "duration": "PT1M41S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi852804377",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjUzYTJmODQtYmZmZi00MzNkLTgzMWItZjMwZDg3Y2Y1NGExXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjUzYTJmODQtYmZmZi00MzNkLTgzMWItZjMwZDg3Y2Y1NGExXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+        "uploadDate": "2021-11-25T17:04:06.263Z",
+        "url": "https://www.imdb.com/video/vi852804377/"
+    },
+    "url": "/title/tt0114571/"
+}

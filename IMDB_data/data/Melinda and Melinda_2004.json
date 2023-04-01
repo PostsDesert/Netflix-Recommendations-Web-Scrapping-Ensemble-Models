@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Will Ferrell",
+            "url": "/name/nm0002071/"
+        },
+        {
+            "@type": "Person",
+            "name": "Vinessa Shaw",
+            "url": "/name/nm0005416/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chiwetel Ejiofor",
+            "url": "/name/nm0252230/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 32672,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0028932/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0044777/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0307422/"
+        },
+        {
+            "@type": "Person",
+            "name": "Woody Allen",
+            "url": "/name/nm0000095/"
+        }
+    ],
+    "datePublished": "2005-04-08",
+    "description": "Two alternating stories, one comedy and the other tragedy, about Melinda's attempts to straighten out her life.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Woody Allen",
+            "url": "/name/nm0000095/"
+        }
+    ],
+    "duration": "PT1H39M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc3MDk4MzY1MF5BMl5BanBnXkFtZTYwMjgwMzc2._V1_.jpg",
+    "keywords": "forenames as title,central park manhattan new york city,pill,dinner party,party",
+    "name": "Melinda and Melinda",
+    "original_info": {
+        "id": "Melinda and Melinda_2004",
+        "name": "Melinda and Melinda",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "elyosu"
+        },
+        "dateCreated": "2004-11-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0378947/"
+        },
+        "name": "Woody's best in last decade.",
+        "reviewBody": "I went to see this film a bit skeptical, because Woody's last movies were not his best ones. In the last ten years, he has made funny, entertaining films; some quite interesting, as \"Decontructing Harry\" or \"Sweet and Lowdown\", but generally unimportant. But wit \"Melinda and Melinda\" he has made one of his most brilliant films. As in \"Crimes and Misdemeanors\", he mixes two different stories -a dramatic one, and a light comedy-. The result ins quite different; this movie is not as critic as that, but is really enjoyable. He mixes a drama -serious, deep, with well-built characters, and really credible- and a delicious comedy -with really funny quotes, and moments that recover his best of the 80's-, with a lot of talent, because the two stories complete each other, the movie doesn't creak.\n\nRadha Mitchell is wonderful as the two Melindas: suggestive and content in the drama; innocent, tender and funny int he comedy. And Will Farrell, who takes the 'Woody Allen role', is the best choice he has done for that purpose ever- because instead of imitating Allen, he creates a new character, human, pleasant and funny. The script is great; with parallelism and second interpretations- And the movie is really entertaining. I hope it will get the attention it deserves; and I expect Woody Allen to keep this new walk in his career. (9/10).",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from 20th Century Fox Home Entertainment",
+        "duration": "PT2M1S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1117323545",
+        "name": "Melinda and Melinda",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDA1NTFlZmItMWQxNC00NDI4LTgwZTEtOGQ1MzcwMjI5YWRlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDA1NTFlZmItMWQxNC00NDI4LTgwZTEtOGQ1MzcwMjI5YWRlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:13:50Z",
+        "url": "https://www.imdb.com/video/vi1117323545/"
+    },
+    "url": "/title/tt0378947/"
+}

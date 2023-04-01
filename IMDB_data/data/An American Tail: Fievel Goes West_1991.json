@@ -1,0 +1,116 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "James Stewart",
+            "url": "/name/nm0000071/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Cleese",
+            "url": "/name/nm0000092/"
+        },
+        {
+            "@type": "Person",
+            "name": "Amy Irving",
+            "url": "/name/nm0001388/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 27088,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0228078/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0009119/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Kirschner",
+            "url": "/name/nm0456946/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Swenson",
+            "url": "/name/nm0842415/"
+        },
+        {
+            "@type": "Person",
+            "name": "Flint Dille",
+            "url": "/name/nm0226863/"
+        }
+    ],
+    "datePublished": "1991-11-22",
+    "description": "Fievel's family decides to move out to the West, unaware that they are falling into a trap perpetrated by a smooth-talking cat.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Phil Nibbelink",
+            "url": "/name/nm0629216/"
+        },
+        {
+            "@type": "Person",
+            "name": "Simon Wells",
+            "url": "/name/nm0920425/"
+        }
+    ],
+    "duration": "PT1H15M",
+    "genre": [
+        "Animation",
+        "Adventure",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZmUyOTE4YmItN2E0Zi00M2ViLWIxMTctMmZhMDRhMDZhOWZlXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg",
+    "keywords": "sequel,character name in title,good versus evil,card game,cartoon mouse",
+    "name": "An American Tail: Fievel Goes West",
+    "original_info": {
+        "id": "An American Tail: Fievel Goes West_1991",
+        "name": "An American Tail: Fievel Goes West",
+        "year": "1991"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "moviebuff-2"
+        },
+        "dateCreated": "2001-05-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0101329/"
+        },
+        "name": "James Stewart's voice was the one and only highlight of this movie.",
+        "reviewBody": "This episodic sequel to \"An American Tail\" is worth seeing if for nothing more than to hear James Stewart's voice as Sheriff Wylie Burp. Stewart is my favorite actor of the past times, and it's always a delight to hear him. The rest of the movie is mediocre and forgettable at best. Some people thought it was an improvement over the first film, but I wonder why? Sure, the original was sentimental and predictable, but it had the classic song \"Somewhere Out There\" written by James Horner, and also a much better, straight-forward story. The second movie seems more of a Saturday-morning cartoon style western comedy. There's very little story or heart. I guess more people prefer the light-heartedness of this movie than the sentimentality of the first. Now I won't knock this movie for some who like it, but I wish the first film was more appreciated by people. See this only for James Stewart's voice. Note: I also liked the main character of Fievel better as an immigrant from the first movie."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Universal Studios Home Entertainment",
+        "duration": "PT2M29S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2998272281",
+        "name": "An American Tail: Fievel Goes West",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTg3NDg3YjUtZWZlOS00ZjZjLTkzZTYtYzkzY2UyNjFmZGFkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTg3NDg3YjUtZWZlOS00ZjZjLTkzZTYtYzkzY2UyNjFmZGFkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T11:38:26Z",
+        "url": "https://www.imdb.com/video/vi2998272281/"
+    },
+    "url": "/title/tt0101329/"
+}

@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Molly Ringwald",
+            "url": "/name/nm0000208/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christopher Heyerdahl",
+            "url": "/name/nm0382216/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lynne Adams",
+            "url": "/name/nm0011164/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 359,
+        "ratingValue": 4.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0064379/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0016350/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0000037/"
+        },
+        {
+            "@type": "Person",
+            "name": "Matt Dorff",
+            "url": "/name/nm0233548/"
+        }
+    ],
+    "datePublished": "1999-04-03",
+    "description": "Anne Winslow hosts a popular classical music radio show. Detective Lou Heinz discovers Anne is connected to a series of murders in which the victim is killed via poisoned wine while a radio is tuned into her show. It seems that ea...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Douglas Jackson",
+            "url": "/name/nm0413465/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODgxNmEzZTMtODVkZS00OWFmLWE5ZDctYzJiOWMwYjQ4OGY0XkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_.jpg",
+    "keywords": "detective,murder,classical music,philadelphia pennsylvania,serial killer",
+    "name": "Requiem for Murder",
+    "original_info": {
+        "id": "Requiem for Murder_1999",
+        "name": "Requiem for Murder",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Hermit C-2"
+        },
+        "dateCreated": "1999-07-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0152174/"
+        },
+        "name": "For Molly fans.",
+        "reviewBody": "As thrillers go this one is rather run-of-the-mill, no worse than some, not as good as many. How you feel about a film like this depends in part on your disposition to its stars. I like Molly Ringwald, so I ended up liking this movie a little more than I probably would have otherwise.\n\nMolly plays a DJ at a big-city classical music station. She has an admirer who sends her flowers there anonymously. That wouldn't be so bad, but he also has the nasty habit of poisoning people while his favorite DJ is playing music on the radio in the background. Since it looks like the killer might be coming after her, a police detective is watching out for her safety and wouldn't you know it, begins to fall for her.\n\nRingwald has that modulated, dulcet delivery of a classical music DJ down pretty good. This film is not nearly as enjoyable as some of those she made as John Hughes' leading young lady back in the 1980's, but it is more likeable than some of the other \"adult\" roles she had after that. Still, it's not particularly special or original, and only those who watch a lot of thrillers or are big fans of Ms. Ringwald will particularly want to see it.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Unknown",
+        "duration": "PT1M51S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2206400793",
+        "name": "Requiem For A Murder",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOGU0NDMwYWUtOWFhNi00NTc4LWIyOGItYzk1YjgxMTVkYmFlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGU0NDMwYWUtOWFhNi00NTc4LWIyOGItYzk1YjgxMTVkYmFlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:51:53Z",
+        "url": "https://www.imdb.com/video/vi2206400793/"
+    },
+    "url": "/title/tt0152174/"
+}

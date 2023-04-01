@@ -1,0 +1,57 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Joan Baez",
+            "url": "/name/nm0001926/"
+        },
+        {
+            "@type": "Person",
+            "name": "Canned Heat",
+            "url": "/name/nm0134078/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joe Cocker",
+            "url": "/name/nm0168312/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 20,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0567645/"
+        }
+    ],
+    "description": "After several releases of this topic, this is the Ultimate Collector's Edition. Director Michael Wadleigh, who made the original movie back in the sixties, talks about those days and shows \"never before seen\"performance footage. O...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Wadleigh",
+            "url": "/name/nm0905579/"
+        }
+    ],
+    "duration": "PT3H35M",
+    "genre": [
+        "Documentary",
+        "History",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjQzY2U4NzEtNjE0OC00OWMwLWJlMzctY2Q1YjU4MDg2NGIyXkEyXkFqcGdeQXVyMTYyMzIxNTU2._V1_.jpg",
+    "keywords": "20th century,1960s,live performance,woodstock",
+    "name": "Woodstock 3 Days of Peace and Music",
+    "original_info": {
+        "id": "Woodstock: 3 Days of Peace & Music_1970",
+        "name": "Woodstock: 3 Days of Peace & Music",
+        "year": "1970"
+    },
+    "url": "/title/tt14097714/"
+}

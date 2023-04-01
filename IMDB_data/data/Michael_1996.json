@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Travolta",
+            "url": "/name/nm0000237/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andie MacDowell",
+            "url": "/name/nm0000510/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Hurt",
+            "url": "/name/nm0000458/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 43991,
+        "ratingValue": 5.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0045447/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0049706/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Dexter",
+            "url": "/name/nm0223320/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Quinlan",
+            "url": "/name/nm0703720/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nora Ephron",
+            "url": "/name/nm0001188/"
+        }
+    ],
+    "datePublished": "1996-12-25",
+    "description": "Two tabloid reporters checking out a report of the Archangel Michael living with an old woman find that it's true. But that's not the only surprise.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Nora Ephron",
+            "url": "/name/nm0001188/"
+        }
+    ],
+    "duration": "PT1H45M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTViNzdjNmUtMmQyYi00ODA4LTljZmYtN2I3ZWUyZWQyYjVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "reporter,archangel michael,angel,road trip,dog",
+    "name": "Michael",
+    "original_info": {
+        "id": "Michael_1996",
+        "name": "Michael",
+        "year": "1996"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bigbillyt"
+        },
+        "dateCreated": "2004-02-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0117038/"
+        },
+        "name": "Lovely Capraesque Comedy Drama",
+        "reviewBody": "It has been quite some time since I last saw this film. However, the amazingly low IMDB score has prompted me to jot down a few thoughts and memories I have regarding this under-appreciated masterpiece.\n\nI find it appalling that this film would score so poorly in this arena. It is a wonderful, life affirming story with a positive message. Perhaps this is what we have come to. The comedy is not gross enough, the message too sentimental and the meaning too simple for modern \"sophisticated\" audiences. Well, I for one, absolutely loved every minute of it. It is easily Andie MacDowell's best performance. William Hurt is fantastic as the cynic who comes around in the end and the whole supporting cast does a wonderful job. Of course, John Travolta is superb. This is one of my favorite roles Travolta has played and it is simply resplendent. I would have to say this is in my top twenty of comedy-dramas ever. I just happen to love the way the film unapologetically illustrates how wonderful life is. How even the little things that we take for granted, like pie, are fantastic and how we should enjoy every minute like it was our last.\n\nFor a much more detailed and well written review see the fine work of jhclues who echoes my feelings about the movie so much that I feel it would be redundant of me to restate, probably poorly, all that they have already committed to page.\n\nIt is also interesting that so many people really hated it. I wonder if they weren't just put off by the \"less than traditional\" view of a religious subject."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2712404249",
+        "name": "Michael",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTczMTQwNDAtNDI2Ni00OTc5LTllZTYtNTZkZTZlNzdhNjAxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTczMTQwNDAtNDI2Ni00OTc5LTllZTYtNTZkZTZlNzdhNjAxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:24:40Z",
+        "url": "https://www.imdb.com/video/vi2712404249/"
+    },
+    "url": "/title/tt0117038/"
+}

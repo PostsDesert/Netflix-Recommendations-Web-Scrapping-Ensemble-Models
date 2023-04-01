@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Patrick Swayze",
+            "url": "/name/nm0000664/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jennifer Grey",
+            "url": "/name/nm0000426/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jerry Orbach",
+            "url": "/name/nm0001583/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 240131,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0028164/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0126028/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eleanor Bergstein",
+            "url": "/name/nm0075044/"
+        }
+    ],
+    "datePublished": "1987-08-21",
+    "description": "Spending the summer at a Catskills resort with her family, Frances \"Baby\" Houseman falls in love with the camp's dance instructor, Johnny Castle.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Emile Ardolino",
+            "url": "/name/nm0001915/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Drama",
+        "Music",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc3MDY3ODQ2OV5BMl5BanBnXkFtZTgwOTQ2NTYxMTE@._V1_.jpg",
+    "keywords": "dance,coming of age,teenager,1960s,abortion",
+    "name": "Dirty Dancing",
+    "original_info": {
+        "id": "Dirty Dancing_1987",
+        "name": "Dirty Dancing",
+        "year": "1987"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "AgentFalco"
+        },
+        "dateCreated": "2015-03-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0092890/"
+        },
+        "name": "Perfection",
+        "reviewBody": "One word sums up this film \"Perfection\". That's it really!! I saw this film in 1987 when it was released and was completely blown away and like Baby I fell in love with Johnny and Patrick Swayze. It has such classic lines as \"I carried a watermelon\" and \"Nobody puts Baby in the corner\" and too many others to mention. I loved the story, the characters, the setting, the dancing, and well  the music was phenomenal not one bad song in the whole soundtrack. It just shows that you don't have to spend a fortune to make a great film. Thank you to the cast and crew for making such a wonderful film which makes me smile like a Cheshire cat whenever I watch it.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Dirty Dancing: 30th Anniversary",
+        "duration": "PT1M52S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1997649433",
+        "name": "Dirty Dancing: 30th Anniversary Edition",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDVjMTdiNDEtMjhhZi00OTQzLWI0ZTItNzE1Yzc5MDExOTFkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDVjMTdiNDEtMjhhZi00OTQzLWI0ZTItNzE1Yzc5MDExOTFkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2017-01-19T16:15:51Z",
+        "url": "https://www.imdb.com/video/vi1997649433/"
+    },
+    "url": "/title/tt0092890/"
+}

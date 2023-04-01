@@ -1,0 +1,113 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Wesley Snipes",
+            "url": "/name/nm0000648/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gary Busey",
+            "url": "/name/nm0000997/"
+        },
+        {
+            "@type": "Person",
+            "name": "Yancy Butler",
+            "url": "/name/nm0000319/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 20959,
+        "ratingValue": 5.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0010959/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tony Griffin",
+            "url": "/name/nm0341389/"
+        },
+        {
+            "@type": "Person",
+            "name": "Guy Manos",
+            "url": "/name/nm0543619/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Barsocchini",
+            "url": "/name/nm0058302/"
+        }
+    ],
+    "datePublished": "1994-12-09",
+    "description": "A tough cop teams up with a professional skydiver to capture a renegade computer hacker on the run from the law.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Badham",
+            "url": "/name/nm0000824/"
+        }
+    ],
+    "duration": "PT1H41M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNGUyMWNjNGYtZmNhNS00MGQxLTlmYmMtNDE0NDhhNDk3ZTgxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "terrorist,parachute,skydiving,death of brother,detective",
+    "name": "Drop Zone",
+    "original_info": {
+        "id": "Drop Zone_1994",
+        "name": "Drop Zone",
+        "year": "1994"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Maziun"
+        },
+        "dateCreated": "2013-09-15",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0109676/"
+        },
+        "name": "Watchable popcorn",
+        "reviewBody": "This movie was made at the same time as Terminal velocity\" with Charlie Sheen. Some people are complaining that one movie is a rip-off the other. To be honest I don't know who is right. I don't really care. Both movies are on the same level. Both are decent popcorn movies to kill some time. Nothing to write home about.\n\nI have a soft spot for Gary Busey and I'm happy that he's the villain in \"Drop zone\" . Wesley Snipes as hero is nice , because he gives his rather generic hero some depth. You can obviously feel his pain.\n\nThe movie has some quite attractive photography and interesting music. It also gives us some insight at the skydivers community.\n\nAll in all it's not a bad way to spend a night. I give it 4/10.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 4,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Paramount Home Entertainment",
+        "duration": "PT2M",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3550609689",
+        "name": "Drop Zone",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZWM2YWRhMGMtOTg0MS00Y2MzLTlmMTAtNDBhM2NiMDBhYWIzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZWM2YWRhMGMtOTg0MS00Y2MzLTlmMTAtNDBhM2NiMDBhYWIzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:53:35Z",
+        "url": "https://www.imdb.com/video/vi3550609689/"
+    },
+    "url": "/title/tt0109676/"
+}

@@ -1,0 +1,94 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Lynne Adams",
+            "url": "/name/nm0011164/"
+        },
+        {
+            "@type": "Person",
+            "name": "Wesley Addy",
+            "url": "/name/nm0011741/"
+        },
+        {
+            "@type": "Person",
+            "name": "Allen Altman",
+            "url": "/name/nm0022872/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 927,
+        "ratingValue": 7.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0022693/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Hopkins",
+            "url": "/name/nm0394200/"
+        },
+        {
+            "@type": "Person",
+            "name": "Toshirô Ishidô",
+            "url": "/name/nm0410945/"
+        }
+    ],
+    "datePublished": "1995-08-06",
+    "description": "The grisly events leading to the first attack with a nuclear weapon.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Koreyoshi Kurahara",
+            "url": "/name/nm0475542/"
+        },
+        {
+            "@type": "Person",
+            "name": "Roger Spottiswoode",
+            "url": "/name/nm0006854/"
+        }
+    ],
+    "duration": "PT3H10M",
+    "genre": [
+        "Drama",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTIxMDgxMTM1OV5BMl5BanBnXkFtZTcwNzAyMDgxMQ@@._V1_.jpg",
+    "keywords": "nuclear weapon,decision,hiroshima japan,politics,archive footage",
+    "name": "Hiroshima",
+    "original_info": {
+        "id": "Hiroshima_1995",
+        "name": "Hiroshima",
+        "year": "1995"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "michaelRokeefe"
+        },
+        "dateCreated": "2003-11-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0113309/"
+        },
+        "name": "Hell on earth.",
+        "reviewBody": "Excellent. Recounted are the events leading to President Truman's decision to drop an A-bomb on Hiroshima in 1945 and its aftermath. Filmed primarily in \"tinted\" black and white with the weaving of newsreel and stock footage. Witness testimonials put the explanation point on the haunting depictions. Kenneth Welsh is uncanny in his portrayal of Truman. Other stars of note are: Richard Masur, Leon Pownall, Wesley Addy, Daisaku Akino, David Gow, Ken Jenkins and Naohiko Umewaka. A must for WWII and history buffs.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0113309/"
+}

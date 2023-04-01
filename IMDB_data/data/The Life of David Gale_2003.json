@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kevin Spacey",
+            "url": "/name/nm0000228/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kate Winslet",
+            "url": "/name/nm0000701/"
+        },
+        {
+            "@type": "Person",
+            "name": "Laura Linney",
+            "url": "/name/nm0001473/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 122606,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0010183/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0502036/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Randolph",
+            "url": "/name/nm1017488/"
+        }
+    ],
+    "datePublished": "2003-02-21",
+    "description": "A man against capital punishment is accused of murdering a fellow activist and is sent to death row.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Alan Parker",
+            "url": "/name/nm0000570/"
+        }
+    ],
+    "duration": "PT2H10M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTAxMzU0NTgxNzZeQTJeQWpwZ15BbWU2MDQzNDkxNw@@._V1_.jpg",
+    "keywords": "wrongful conviction,texas death row,sex with student,video footage,murder",
+    "name": "The Life of David Gale",
+    "original_info": {
+        "id": "The Life of David Gale_2003",
+        "name": "The Life of David Gale",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "warren-johnstone"
+        },
+        "dateCreated": "2004-10-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0289992/"
+        },
+        "name": "An extremely thought provoking movie",
+        "reviewBody": "Kevin Spacey stars as David Gale, a life long campaigner against the death penalty finds himself on death row after being found guilty of the rape and murder of a fellow anti-execution campaigner. Kate Winslet is the reporter who interviews Gale during his last three days and she is convinced of his guilt and need to be executed, but as she interviews Gale she begins to question his guilt.\n\nThis was a great story very well told without deteriorating into a 'execution is wrong' lecture. And as usual, Kevin Spacey's performance is fantastic. Because of the twists and the amount of after-thought it provoked, I give 'The Life of David Gale' 8/10.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Universal Studios Home Entertainment",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1617998873",
+        "name": "The Life of David Gale",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODVjZGM4NGEtY2IyMi00MWI4LWE5MGItZTZlMDhmOTg4NWNhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODVjZGM4NGEtY2IyMi00MWI4LWE5MGItZTZlMDhmOTg4NWNhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2016-06-03T22:09:39Z",
+        "url": "https://www.imdb.com/video/vi1617998873/"
+    },
+    "url": "/title/tt0289992/"
+}

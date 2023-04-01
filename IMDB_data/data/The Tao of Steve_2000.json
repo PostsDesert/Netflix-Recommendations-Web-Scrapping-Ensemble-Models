@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Donal Logue",
+            "url": "/name/nm0006610/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ayelet Kaznelson",
+            "url": "/name/nm0443713/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Hines",
+            "url": "/name/nm0385682/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7668,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007554/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0070399/"
+        },
+        {
+            "@type": "Person",
+            "name": "Duncan North",
+            "url": "/name/nm0636001/"
+        },
+        {
+            "@type": "Person",
+            "name": "Greer Goodman",
+            "url": "/name/nm0329081/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jenniphr Goodman",
+            "url": "/name/nm0329116/"
+        }
+    ],
+    "datePublished": "2000-09-01",
+    "description": "Underachieving, overweight kindergarten teacher Dex finds a woman who forces him to reexamine his Zen-like system of seduction.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jenniphr Goodman",
+            "url": "/name/nm0329116/"
+        }
+    ],
+    "duration": "PT1H27M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc4MzQ2NDQ5N15BMl5BanBnXkFtZTcwOTMzNTcxMQ@@._V1_.jpg",
+    "keywords": "seduction,sex,kindergarten,frisbee,philosophy",
+    "name": "The Tao of Steve",
+    "original_info": {
+        "id": "The Tao of Steve_2000",
+        "name": "The Tao of Steve",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "junglepants"
+        },
+        "dateCreated": "2002-06-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0234853/"
+        },
+        "name": "Ok, needs some work",
+        "reviewBody": "This is a somewhat endearing indie flick, but it suffers from an amateurish script and inexperienced directing. For a movie that has the potential to be pretty funny, it takes itself far too seriously. The protagonist's 'stoner wittiness' becomes pretty monotonous and annoying preachy. If the movie concentrated less on being hip and ironic, and more on the characters, the film would be better."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Sony Pictures Home Entertainment",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1476067609",
+        "name": "The Tao of Steve",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BN2MyOGJjYzYtODZiZC00YWU0LTk3NDAtZDg1YTRmNjFmNGRkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BN2MyOGJjYzYtODZiZC00YWU0LTk3NDAtZDg1YTRmNjFmNGRkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:14:58Z",
+        "url": "https://www.imdb.com/video/vi1476067609/"
+    },
+    "url": "/title/tt0234853/"
+}

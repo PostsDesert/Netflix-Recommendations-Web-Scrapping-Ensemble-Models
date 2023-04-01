@@ -1,0 +1,75 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVEpisode",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Frank Lovejoy",
+            "url": "/name/nm0522481/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Carr",
+            "url": "/name/nm0139824/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stacy Harris",
+            "url": "/name/nm0365345/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 10,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "TV-PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0015834/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0086370/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0086371/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bob Eisenbach",
+            "url": "/name/nm5117057/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bruce Geller",
+            "url": "/name/nm0312367/"
+        }
+    ],
+    "datePublished": "1959-11-05",
+    "description": "A young man named Branch Neely agrees to stand trial for a murder he didn't commit, as a way of winning the favor of a Mr. Lloyd Bannister, who has the most political and economic influence in town.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Ellis Miller",
+            "url": "/name/nm0589228/"
+        }
+    ],
+    "duration": "PT30M",
+    "genre": [
+        "Western"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg2ODA1OTkyNF5BMl5BanBnXkFtZTcwMDU3OTQ5Mw@@._V1_.jpg",
+    "name": "Shadows",
+    "original_info": {
+        "id": "Shadows_1959",
+        "name": "Shadows",
+        "year": "1959"
+    },
+    "timeRequired": "PT30M",
+    "url": "/title/tt0754281/"
+}

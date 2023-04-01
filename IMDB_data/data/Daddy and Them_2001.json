@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Billy Bob Thornton",
+            "url": "/name/nm0000671/"
+        },
+        {
+            "@type": "Person",
+            "name": "Laura Dern",
+            "url": "/name/nm0000368/"
+        },
+        {
+            "@type": "Person",
+            "name": "Diane Ladd",
+            "url": "/name/nm0002663/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2457,
+        "ratingValue": 5.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0017723/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0024345/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0022594/"
+        },
+        {
+            "@type": "Person",
+            "name": "Billy Bob Thornton",
+            "url": "/name/nm0000671/"
+        }
+    ],
+    "datePublished": "2002-06-14",
+    "description": "Dark comedy where a married couple comes to the aid of a jailed uncle.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Billy Bob Thornton",
+            "url": "/name/nm0000671/"
+        }
+    ],
+    "duration": "PT1H41M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNWVlYzhmNGItYTZjNi00MGM5LTk1ZTktYTBiMjM4NGI1NDQ5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "dysfunctional marriage,insecurity,car accident,dream,flirting",
+    "name": "Daddy and Them",
+    "original_info": {
+        "id": "Daddy and Them_2001",
+        "name": "Daddy and Them",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "wanderleg"
+        },
+        "dateCreated": "2006-08-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0166158/"
+        },
+        "name": "Two-thirds of a very good film",
+        "reviewBody": "First off, let me say that I am a southerner.\n\nI'm also a fan of Billy Bob Thornton, but I can't say that all of his movies are works of genius. When he's good, he's very, very good...etc.\n\nI watched \"Daddy and Them\" and thought I had really stumbled onto a gem! Also written and directed by Billy Bob, it portrays two of the most dysfunctional families ever. They are his immediate family, plus his wife's (Laura Dern), who've gotten together because Uncle Hazel (Jim Varney, in a very small, thankfully non-Ernest role) has been arrested for attempted murder.\n\nTo top it off, these people are the epitome of Arkansas rednecks! Diane Ladd is in it, as is Andy Griffith. Since it's a Billy Bob-er, the language is kinda raw, and it's a real hoot to see and especially hear old Sheriff Andy get down and dirty! He plays BB's elderly, semi-senile father.\n\nVery humorous, with more than a few belly laughs... up until 1:10, or thereabouts, then the whole thing just collapsed! It went into a final half-hour or so of boring, self-absorbed pseudo-psychological angst and apologia claptrap. What a come-down! I guess it was intended to make the film \"relevant,\" or something, but what it really did was to make it a semi-disaster.\n\nI'd recommend looking at the first 2/3rds, then, when BB starts to become a self-analyzing motormouth, turn it off and play Scrabble, or something.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer 2 for Daddy and Them",
+        "duration": "PT1M31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3236863513",
+        "name": "Daddy and Them",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjNlMzE2MzktODRlYy00ZjY1LTlkNTktYTNhMmYxOGM3MGU2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjNlMzE2MzktODRlYy00ZjY1LTlkNTktYTNhMmYxOGM3MGU2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-10-26T03:15:37Z",
+        "url": "https://www.imdb.com/video/vi3236863513/"
+    },
+    "url": "/title/tt0166158/"
+}

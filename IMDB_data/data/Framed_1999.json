@@ -1,0 +1,63 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ulrich Matthes",
+            "url": "/name/nm0559890/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lisa Martinek",
+            "url": "/name/nm0553324/"
+        },
+        {
+            "@type": "Person",
+            "name": "Götz Otto",
+            "url": "/name/nm0653248/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 106,
+        "ratingValue": 5.5,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0028284/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0014456/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frank Knauer",
+            "url": "/name/nm0460558/"
+        }
+    ],
+    "datePublished": "1999-09-17",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mennan Yapo",
+            "url": "/name/nm0946327/"
+        }
+    ],
+    "duration": "PT19M",
+    "genre": [
+        "Short"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTI0OTg3YjUtMTU4OC00NmVlLTk1MTQtMjMxZWQzZjliZjNiXkEyXkFqcGdeQXVyMzcyNTI4MTM@._V1_.jpg",
+    "name": "Framed",
+    "original_info": {
+        "id": "Framed_1999",
+        "name": "Framed",
+        "year": "1999"
+    },
+    "url": "/title/tt0223310/"
+}

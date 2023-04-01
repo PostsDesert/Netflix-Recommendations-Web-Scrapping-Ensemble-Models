@@ -1,0 +1,55 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Huey Lewis",
+            "url": "/name/nm0507271/"
+        },
+        {
+            "@type": "Person",
+            "name": "Johnny Colla",
+            "url": "/name/nm0171614/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Gibson",
+            "url": "/name/nm0316858/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 37,
+        "ratingValue": 8.6,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0173206/"
+        }
+    ],
+    "datePublished": "2005-05-17",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Allan Wells",
+            "url": "/name/nm0920094/"
+        }
+    ],
+    "duration": "PT2H4M",
+    "genre": [
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOGI1ZDdjYjQtYmJkNi00MDc1LTk0N2MtODMxMjgwMzQxN2IzXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
+    "keywords": "live performance,concert film",
+    "name": "Huey Lewis & the News: Live at 25",
+    "original_info": {
+        "id": "Huey Lewis and the News: Rockpalast Live_1984",
+        "name": "Huey Lewis and the News: Rockpalast Live",
+        "year": "1984"
+    },
+    "url": "/title/tt0891313/"
+}

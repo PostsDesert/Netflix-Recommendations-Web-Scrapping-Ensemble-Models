@@ -1,0 +1,58 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kofi Darko",
+            "url": "/name/nm2459607/"
+        },
+        {
+            "@type": "Person",
+            "name": "Herman Dennis",
+            "url": "/name/nm2456404/"
+        },
+        {
+            "@type": "Person",
+            "name": "Slink Moss",
+            "url": "/name/nm2455907/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 61,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0048560/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Morrison",
+            "url": "/name/nm0994484/"
+        }
+    ],
+    "description": "A man is shown his car, which he drives until it can be driven no more.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bill Morrison",
+            "url": "/name/nm0994484/"
+        }
+    ],
+    "duration": "PT23M",
+    "genre": [
+        "Short"
+    ],
+    "name": "Ghost Trip",
+    "original_info": {
+        "id": "Ghost Rig_2001",
+        "name": "Ghost Rig",
+        "year": "2001"
+    },
+    "url": "/title/tt0903618/"
+}

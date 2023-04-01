@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Val Kilmer",
+            "url": "/name/nm0000174/"
+        },
+        {
+            "@type": "Person",
+            "name": "Meg Ryan",
+            "url": "/name/nm0000212/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kyle MacLachlan",
+            "url": "/name/nm0001492/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 95042,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0119039/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0000271/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0094459/"
+        },
+        {
+            "@type": "Person",
+            "name": "Randall Jahnson",
+            "url": "/name/nm0415745/"
+        },
+        {
+            "@type": "Person",
+            "name": "Oliver Stone",
+            "url": "/name/nm0000231/"
+        }
+    ],
+    "datePublished": "1991-03-01",
+    "description": "The story of the famous and influential 1960s rock band The Doors and its lead singer and composer, Jim Morrison, from his days as a UCLA film student in Los Angeles, to his untimely death in Paris, France at age 27 in 1971.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Oliver Stone",
+            "url": "/name/nm0000231/"
+        }
+    ],
+    "duration": "PT2H20M",
+    "genre": [
+        "Biography",
+        "Drama",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTg3YjA5MGYtYjdiNy00YThjLWJiZDEtN2M1NmE1NTVhMWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "the doors,drunkenness,american abroad,sound equipment,twenty something",
+    "name": "The Doors",
+    "original_info": {
+        "id": "The Doors_1991",
+        "name": "The Doors",
+        "year": "1991"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "theshadow908"
+        },
+        "dateCreated": "2006-03-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0101761/"
+        },
+        "name": "Captures the rock and roll lifestyle perfectly.",
+        "reviewBody": "I am a 17 year old student who is just getting into the amazing band that is the Doors. I watched the movie knowing about how Oliver Stone skewed the facts and changed some things around, so instead of expecting a 100% factual biography on Jim Morrison, I watched it expecting an entertaining film with great music...That's what I got.\n\nEven though the film isn't completely factual, it conveyed really well what the rock and roll was like for most rock stars. Drugs, alcohol, sex. It all happens in this film. Oliver Stone didn't really do wonders with Jim Morrison's story, but his direction style was really good with this movie. The concert scenes were done really great, and for someone who's just getting into the music, they were really great scenes to watch.\n\nThe performances in this movie are something else. I'd have to say that from the Val Kilmer movies that I've seen, this is his best performance. He's really a perfect film incarnation of Jim Morrison, even if it's Oliver Stone's version of Jim Morrison. Everybody in the movie does a really good job in their roles, and it was really cool to watch.\n\nSo if you want a 100% factual Jim Morrison biography, read a book. If you want an entertaining movie about an awesome rock band in the 60's with awesome music, this is a great movie.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT1M53S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3092954137",
+        "name": "The Doors",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzUxYjk3NTktZTc5Yi00YmMzLTk0OGYtMzM3MmYzMzA0OGIyXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzUxYjk3NTktZTc5Yi00YmMzLTk0OGYtMzM3MmYzMzA0OGIyXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg",
+        "uploadDate": "2019-08-06T17:19:43.583Z",
+        "url": "https://www.imdb.com/video/vi3092954137/"
+    },
+    "url": "/title/tt0101761/"
+}

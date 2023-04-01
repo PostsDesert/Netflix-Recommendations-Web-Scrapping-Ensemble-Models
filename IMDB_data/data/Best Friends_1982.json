@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Burt Reynolds",
+            "url": "/name/nm0000608/"
+        },
+        {
+            "@type": "Person",
+            "name": "Goldie Hawn",
+            "url": "/name/nm0000443/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jessica Tandy",
+            "url": "/name/nm0001788/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3020,
+        "ratingValue": 5.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0065231/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0174362/"
+        },
+        {
+            "@type": "Person",
+            "name": "Valerie Curtin",
+            "url": "/name/nm0193224/"
+        },
+        {
+            "@type": "Person",
+            "name": "Barry Levinson",
+            "url": "/name/nm0001469/"
+        }
+    ],
+    "datePublished": "1982-12-17",
+    "description": "After five successful years of living and working together, a couple decide to get married. But what they don't count on is how to survive the honeymoon.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Norman Jewison",
+            "url": "/name/nm0422484/"
+        }
+    ],
+    "duration": "PT1H56M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BM2FiN2RhNTMtYmU1OS00MGE1LWI5YzctMGUxOTQyMmE2NmRlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "mother son relationship,father daughter relationship,father son relationship,mother daughter relationship,argument",
+    "name": "Best Friends",
+    "original_info": {
+        "id": "Best Friends_1982",
+        "name": "Best Friends",
+        "year": "1982"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "moonspinner55"
+        },
+        "dateCreated": "2001-03-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0083641/"
+        },
+        "name": "Not very friendly",
+        "reviewBody": "Burt Reynolds and Goldie Hawn as sweetheart screenwriters who live together unmarried; soon however, Burt starts feeling his mortality and wants something substantial, Goldie wants to be a team-player...and so they propose to each other in the shower. These rather uninteresting lovers spend the rest of the picture sniping at one another, and director Norman Jewison keeps the pacing at a sitcom-cute crawl. Reynolds and Hawn create a fatigued sort of rapport that certainly suggests they've known each other a while and have built a relationship which can withstand a little irritability, but what's funny about that? So many of the situations here bomb completely, particularly a really stinky one regarding Hawn's father who molests all his housekeepers. Keenan Wynn and Audra Lindley are wonderful as Burt's parents--but after the first hour, \"Best Friends\" becomes melodramatic and muddled. I didn't believe for one second these two characters would find their happy ending...they're much too self-involved. ** from ****",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "After five successful years of living and working together, a couple decide to get married. But what they don't count on is how to survive the honeymoon.",
+        "duration": "PT1M11S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1775551257",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNmYxYzI4ZGYtMTg4OC00NTYwLWJkMDUtNWZhMTY0MzgxZTg0XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNmYxYzI4ZGYtMTg4OC00NTYwLWJkMDUtNWZhMTY0MzgxZTg0XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-11-25T21:40:01.381Z",
+        "url": "https://www.imdb.com/video/vi1775551257/"
+    },
+    "url": "/title/tt0083641/"
+}

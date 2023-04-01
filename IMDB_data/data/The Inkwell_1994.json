@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Larenz Tate",
+            "url": "/name/nm0005478/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joe Morton",
+            "url": "/name/nm0608012/"
+        },
+        {
+            "@type": "Person",
+            "name": "Suzzanne Douglas",
+            "url": "/name/nm0235336/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1514,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0049348/"
+        },
+        {
+            "@type": "Person",
+            "name": "Trey Ellis",
+            "url": "/name/nm0255133/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paris Qualles",
+            "url": "/name/nm0702804/"
+        }
+    ],
+    "datePublished": "1994-04-22",
+    "description": "A shy, troubled young man who set his own house on fire and has an imaginary friend, is sent to a vineyard where he finds himself in the middle of his political-arguing, party-loving family and his love torn between two girls.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Matty Rich",
+            "url": "/name/nm0723685/"
+        }
+    ],
+    "duration": "PT1H50M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzNmNTc0YmQtMzAxOC00YzQ1LTg3ZTYtNTFlYzRlYjViMTRiXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+    "keywords": "timeframe 1970s,fire,vacation,teenager,marriage",
+    "name": "The Inkwell",
+    "original_info": {
+        "id": "The Inkwell_1994",
+        "name": "The Inkwell",
+        "year": "1994"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Peach-2"
+        },
+        "dateCreated": "1998-12-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0110137/"
+        },
+        "name": "Interesting.",
+        "reviewBody": "I enjoyed The Inkwell very much. It was well directed and the screenplay was solid. Good movie.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A shy, troubled young man who set his own house on fire and has an imaginary friend, is sent to a vineyard where he finds himself in the middle of his political-arguing, party-loving family and his love torn between two girls.",
+        "duration": "PT1M53S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1157481241",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzhjMTk0NmItMzZkNi00MTM1LWI2ZjgtODBiYWQzOWNmZjI5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzhjMTk0NmItMzZkNi00MTM1LWI2ZjgtODBiYWQzOWNmZjI5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-11-09T15:30:41.224Z",
+        "url": "https://www.imdb.com/video/vi1157481241/"
+    },
+    "url": "/title/tt0110137/"
+}

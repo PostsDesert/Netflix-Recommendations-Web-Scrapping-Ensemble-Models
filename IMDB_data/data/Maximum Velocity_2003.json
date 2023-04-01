@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Michael Ironside",
+            "url": "/name/nm0000461/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dale Midkiff",
+            "url": "/name/nm0001535/"
+        },
+        {
+            "@type": "Person",
+            "name": "Wendy Carter",
+            "url": "/name/nm0141981/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 397,
+        "ratingValue": 3.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0102312/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brett Orr",
+            "url": "/name/nm0650532/"
+        }
+    ],
+    "datePublished": "2003-10-07",
+    "description": "After a comet passes the Earth it causes a cataclysmic storm. Only a disbanded government unit with a secret weather-manipulating weapon can try to stop it.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Phillip J. Roth",
+            "url": "/name/nm0744985/"
+        }
+    ],
+    "duration": "PT1H33M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjI3OTQyNzM3NV5BMl5BanBnXkFtZTgwODM4OTk1MDE@._V1_.jpg",
+    "keywords": "comet,secret",
+    "name": "Maximum Velocity",
+    "original_info": {
+        "id": "Maximum Velocity_2003",
+        "name": "Maximum Velocity",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "paulg8753"
+        },
+        "dateCreated": "2007-01-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0345636/"
+        },
+        "name": "How Stupid Can these things get?",
+        "reviewBody": "The first review is right on! This nonsense sounds like it came from one of those Al Gore environmental wacko books or movies! A \"black comet\" coming within 40 miles of Earth causing a massive Hurricane almost instantly, so massively large, that will never die, with 500 MPH winds???? More propaganda \"junk science\" from the global warming nuts! WE do not need any more junk science fiction movies like this piece of trash, or movie like the \"Day After Tomorrow\"!!!!! The silly uneducated public will buy this nonsense, because of all the silly pandering uneducated politicians, who keep trying to convince us that puny little old man can cause all this havoc.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 1,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from DEJ",
+        "duration": "PT1M28S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4036296985",
+        "name": "Maximum Velocity",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOGIzYzdiOWYtNTIwZS00NDZkLTkzZGEtNjkzMTY4NmUyMmNmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGIzYzdiOWYtNTIwZS00NDZkLTkzZGEtNjkzMTY4NmUyMmNmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:59:21Z",
+        "url": "https://www.imdb.com/video/vi4036296985/"
+    },
+    "url": "/title/tt0345636/"
+}

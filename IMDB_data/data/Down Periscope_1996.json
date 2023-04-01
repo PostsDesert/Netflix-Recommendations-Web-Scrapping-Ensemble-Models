@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kelsey Grammer",
+            "url": "/name/nm0001288/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lauren Holly",
+            "url": "/name/nm0000452/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rob Schneider",
+            "url": "/name/nm0001705/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 25462,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0195234/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hugh Wilson",
+            "url": "/name/nm0933505/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrew Kurtzman",
+            "url": "/name/nm0476065/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eliot Wald",
+            "url": "/name/nm0906997/"
+        }
+    ],
+    "datePublished": "1996-03-01",
+    "description": "Lt. Cmdr. Tom Dodge is assigned as Captain to the USS Stingray, an old diesel driven submarine that has seen better days.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David S. Ward",
+            "url": "/name/nm0911486/"
+        }
+    ],
+    "duration": "PT1H32M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTlkNGU1NDctNDAwZC00ZThlLWE4YTgtMWU5YjJjYzIyY2VjXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+    "keywords": "cook,electrician,sonar operator,female naval officer,chase",
+    "name": "Down Periscope",
+    "original_info": {
+        "id": "Down Periscope_1996",
+        "name": "Down Periscope",
+        "year": "1996"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "jerrywilson"
+        },
+        "dateCreated": "2004-02-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0116130/"
+        },
+        "name": "I loved this flick",
+        "reviewBody": "I'm glad they finally released it on DVD. I bought the video tape years ago and watch it at least once or twice a year.\n\nGrammer has a wry wit about him that really makes this movie a success. Its formula is certainly not original, but it's very funny nonetheless. I am very surprised that it didn't receive higher in the ratings.\n\nIt ranks as one of my all-time favorite comedies. It's just a fun little flick that makes you feel good. And sometimes, that's all a movie is meant to be.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0116130/"
+}

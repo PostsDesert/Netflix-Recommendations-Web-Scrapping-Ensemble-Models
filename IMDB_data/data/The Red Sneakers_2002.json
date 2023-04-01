@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Vanessa Bell Calloway",
+            "url": "/name/nm0068599/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dempsey Pappion",
+            "url": "/name/nm0660650/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ruben Santiago-Hudson",
+            "url": "/name/nm0763650/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 478,
+        "ratingValue": 5,
+        "worstRating": 1
+    },
+    "contentRating": "TV-PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0052980/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeffrey Rubin",
+            "url": "/name/nm0748074/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Saltzman",
+            "url": "/name/nm0759166/"
+        }
+    ],
+    "datePublished": "2002-02-10",
+    "description": "A kid named Reggie Reynolds is a high school student who is good in the classroom but not so good on the basketball court. But one day he meets a junk dealer who gives him a pair of old gym shoes that once were worn by an all-star...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Gregory Hines",
+            "url": "/name/nm0002138/"
+        }
+    ],
+    "duration": "PT1H49M",
+    "genre": [
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkwNjU5Mjc5Ml5BMl5BanBnXkFtZTcwMjU5NDgxMQ@@._V1_.jpg",
+    "name": "The Red Sneakers",
+    "original_info": {
+        "id": "The Red Sneakers_2002",
+        "name": "The Red Sneakers",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "FlowerSeeds"
+        },
+        "dateCreated": "2004-05-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0272274/"
+        },
+        "name": "Nice family film",
+        "reviewBody": "The movie is a typical play sports vs. have a fulfilling life type theme and is somewhat predictable coming down to the last minute of a championship game. However, it is well worth watching as a feel-good family type movie. There are some surprises along with the expected moral to the story. Being from a family full of coaches and basketball players and having a fascination with math definitely made this movie more entertaining for me, but I think it would also be enjoyed by those who are not particularly sports fans. It is one I will recommend to family and friends. Fans of Vincent D'Onofrio will enjoy watching him briefly in a character different than what they are used to. I'm sorry I left this one sitting on the shelf for so long.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Showtime",
+        "duration": "PT1M38S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi116588825",
+        "name": "The Red Sneakers",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjM1YjMzYTctNjYyZS00MjljLWJhMjYtZTUxZTE5YjU4ZjMwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjM1YjMzYTctNjYyZS00MjljLWJhMjYtZTUxZTE5YjU4ZjMwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:44:53Z",
+        "url": "https://www.imdb.com/video/vi116588825/"
+    },
+    "url": "/title/tt0272274/"
+}

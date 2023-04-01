@@ -1,0 +1,43 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVEpisode",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "George Barris",
+            "url": "/name/nm0057572/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter R.J. Deyell",
+            "url": "/name/nm0223368/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Dozier",
+            "url": "/name/nm0236546/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 105,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "TV-14",
+    "datePublished": "2003-07-07",
+    "genre": [
+        "Documentary",
+        "Biography",
+        "History"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODk1NDliNjktOTA1Ni00MmI4LWFkYjUtYzk0NTc1ZDE1ZDgxXkEyXkFqcGdeQXVyMTY4MjQ0NzU@._V1_.jpg",
+    "name": "Batman: Holy Batmania!",
+    "original_info": {
+        "id": "Batman: Holy Batmania_2004",
+        "name": "Batman: Holy Batmania",
+        "year": "2004"
+    },
+    "url": "/title/tt0984305/"
+}

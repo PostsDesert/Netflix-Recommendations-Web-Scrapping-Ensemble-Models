@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 24,
+        "ratingValue": 7.8,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0102272/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tom McGrath",
+            "url": "/name/nm0569890/"
+        }
+    ],
+    "description": "This half-hour tour around the world shows some of nature's and man's most awesome works: aerial views of thousands of stampeding wildebeest, a snow-covered mountain range, and the majesty of Chartres Cathedral and the Taj Mahal.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Dennis Moore",
+            "url": "/name/nm7824986/"
+        }
+    ],
+    "duration": "PT33M",
+    "genre": [
+        "Documentary",
+        "Short"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOWU4OTc4MjMtYzFhMi00YmJmLWFhYzgtM2YzZjdhNDdjNjgyXkEyXkFqcGdeQXVyMDYxMTUwNg@@._V1_.jpg",
+    "keywords": "snow,nature,imax",
+    "name": "Living Planet",
+    "original_info": {
+        "id": "Living Planet_1984",
+        "name": "Living Planet",
+        "year": "1984"
+    },
+    "url": "/title/tt0079479/"
+}

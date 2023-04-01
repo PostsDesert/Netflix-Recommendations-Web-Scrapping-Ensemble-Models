@@ -1,0 +1,110 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "George Clooney",
+            "url": "/name/nm0000123/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sam Rockwell",
+            "url": "/name/nm0005377/"
+        },
+        {
+            "@type": "Person",
+            "name": "William H. Macy",
+            "url": "/name/nm0000513/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 15246,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0081469/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0010895/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0008059/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anthony Russo",
+            "url": "/name/nm0751577/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joe Russo",
+            "url": "/name/nm0751648/"
+        }
+    ],
+    "datePublished": "2002-10-18",
+    "description": "Cosimo gets a plan for a huge job from his cellmate. He asks his woman to find a patsy for his bungled car theft, offering $15,000. Suddenly, 7 are involved.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Anthony Russo",
+            "url": "/name/nm0751577/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joe Russo",
+            "url": "/name/nm0751648/"
+        }
+    ],
+    "duration": "PT1H26M",
+    "genre": [
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc0NTI1MjMwMl5BMl5BanBnXkFtZTYwNTE2NzY3._V1_.jpg",
+    "keywords": "prison,breaking and entering,caper comedy,burglary,cleveland ohio",
+    "name": "Welcome to Collinwood",
+    "original_info": {
+        "id": "Welcome to Collinwood_2002",
+        "name": "Welcome to Collinwood",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "solomon13"
+        },
+        "dateCreated": "2003-06-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0271259/"
+        },
+        "name": "Great Movie",
+        "reviewBody": "It's shameful that egotistic, pretentious film geeks need to rip apart remakes claiming that they can't possibly live up to the foreign originals upon which they are based. Foreign movies never translate and those that believe they are fantastic are likely only convincing themselves that is true. That said, I had no idea \"Collinwood\" was a remake and, regardless, thought it was surprisingly funny, well acted (the cast was phenomenal led by Sam Rockwell's perfectly funny lead) and just a good watch. Was is high handed film noir? No. Should it have won an award? No. Was is an enjoyable hour and change. Absolutely. Clooney, as always, was great in a limited, albeit offbeat role. Macy was fantastic. Michael Jeter was a tour de force as the old dude with the dirty shorts. And Luis Guzman was absolutely hysterical. It's a good watch regardless of what the pompous elite film police think. Check it out."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT1M46S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi216138009",
+        "name": "Welcome to Collinwood",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMWZmYTM2YjQtMjI1NC00MzFmLWE0M2EtMTQ3ZDUxZTJmNTUwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMWZmYTM2YjQtMjI1NC00MzFmLWE0M2EtMTQ3ZDUxZTJmNTUwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-18T12:03:58Z",
+        "url": "https://www.imdb.com/video/vi216138009/"
+    },
+    "url": "/title/tt0271259/"
+}

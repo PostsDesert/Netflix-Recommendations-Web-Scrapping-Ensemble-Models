@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "David Spade",
+            "url": "/name/nm0005450/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Goodman",
+            "url": "/name/nm0000422/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eartha Kitt",
+            "url": "/name/nm0457755/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 210429,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0074039/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0008970/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chris Williams",
+            "url": "/name/nm0930261/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Dindal",
+            "url": "/name/nm0227540/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Reynolds",
+            "url": "/name/nm0721675/"
+        }
+    ],
+    "datePublished": "2000-12-15",
+    "description": "Emperor Kuzco is turned into a llama by his ex-administrator Yzma, and must now regain his throne with the help of Pacha, the gentle llama herder.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mark Dindal",
+            "url": "/name/nm0227540/"
+        }
+    ],
+    "duration": "PT1H18M",
+    "genre": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjFkMzk2OWUtNjFmZC00ZTJhLTlkNGYtYjc2YWNkNmJmNzczXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "peru,human becoming an animal,2d animation,llama,emperor",
+    "name": "The Emperor's New Groove",
+    "original_info": {
+        "id": "The Emperor's New Clothes_2002",
+        "name": "The Emperor's New Clothes",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "neroville"
+        },
+        "dateCreated": "2004-09-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120917/"
+        },
+        "name": "Fun with llamas!",
+        "reviewBody": "Although my affection for other Disney movies of the 1990s has decidedly waned, my love for \"The Emperor's New Groove\" is still as strong as ever. In fact, I'm now beginning to think it's a work of genius. It's clever, unpretentious, fast-paced, and- like \"Lilo and Stitch\"- you don't feel that the vision of the film was muddled up by the suits. The characters are not constantly breaking into song, and there is a welcome lack of cloying sentiment. No cutesy talking teacups here! The lightning- fast comic timing, sharp writing and constant loony non sequiturs (i.e. \"For the last time, we did not order a giant trampoline!\") improves upon each viewing, and the voice work is uniformly excellent, from David Spade's hilariously bratty emperor to Patrick Warburton's dim boy-toy Kronk to Eartha Kitt's Yzma (an over-the-top screeching Erte-style villainess with an alleged \"secret lab\" who is also \"scary beyond all reason\"). You get the impression that everyone involved had lots of fun making this. The art direction, with its whirling cartoon Inca motifs, is simultaneously goofy and gorgeous- and it shows what marvels can be done with nary a pixel in sight. I even love all the local L.A. humor, with even Bob's Big Boy making an appearance. Although I was initially dismayed when I heard that the project, originally entitled, \"The Kingdom of the the Sun,\" was to be changed to \"The Emperor's New Groove,\" I think in the end the changes were a good thing. Did the world really need yet another bombastic Disney musical?\n\nNo, I didn't think so either."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "CT",
+        "duration": "PT1M39S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1071251737",
+        "name": "The Emperor's New Groove",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMmM1OTQwMTYtZWExMS00NjNmLWE3NmQtODk2ZWVhNmM0MTcwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMmM1OTQwMTYtZWExMS00NjNmLWE3NmQtODk2ZWVhNmM0MTcwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-07-14T03:31:27Z",
+        "url": "https://www.imdb.com/video/vi1071251737/"
+    },
+    "url": "/title/tt0120917/"
+}

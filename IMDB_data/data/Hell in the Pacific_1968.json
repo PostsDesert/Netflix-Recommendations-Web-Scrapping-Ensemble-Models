@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Lee Marvin",
+            "url": "/name/nm0001511/"
+        },
+        {
+            "@type": "Person",
+            "name": "Toshirô Mifune",
+            "url": "/name/nm0001536/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 8635,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002839/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0100327/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alexander Jacobs",
+            "url": "/name/nm0414317/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eric Bercovici",
+            "url": "/name/nm0073388/"
+        },
+        {
+            "@type": "Person",
+            "name": "Reuben Bercovitch",
+            "url": "/name/nm0073399/"
+        }
+    ],
+    "datePublished": "1968-12-18",
+    "description": "During World War II, an American pilot and a marooned Japanese navy captain are deserted on a small uninhabited island in the Pacific Ocean. There, they must cease their hostility and cooperate if they want to survive, but will they?",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Boorman",
+            "url": "/name/nm0000958/"
+        }
+    ],
+    "duration": "PT1H43M",
+    "genre": [
+        "Adventure",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTRjNDhhN2EtMGJmMy00YWNiLTg5ZmYtNTNiMjc5OGNlMTgwXkEyXkFqcGdeQXVyMjgxMzgyNjI@._V1_.jpg",
+    "keywords": "friendship between men,world war two,japanese,island,stranded on an island",
+    "name": "Hell in the Pacific",
+    "original_info": {
+        "id": "Hell in the Pacific_1968",
+        "name": "Hell in the Pacific",
+        "year": "1968"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "DJ_Ramjet"
+        },
+        "dateCreated": "2001-03-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0063056/"
+        },
+        "name": "Excellent movie, hilarious yet tragic",
+        "reviewBody": "Was there a better hard man in the 70's then Lee Marvin ? I don't think so. Team him up with Toshiro Mifune (yojimbio, Seven Samurai), gorgeous scenery (Paulau islands) under the light hand of John Borman (Deliverance) and watch as a simple story grows and develops into a visual feast. There is no lead-in to the film, all we see is a lone Japanese soldier on a tropical island spotting a life raft and realising he is suddenly not alone, and worse, his company is an enemy soldier. The initial confrontations are tension filled as the two chase each other around and around their new home in a battle of wits and cunning. Eventually the inevitable happens and they are forced to start living together. Rather than a Disneyish style 'lets all learn to live together because we are all really the same under the skin' co-operation, the two have as little to do with each other as possible, unless arguing about possession of driftwood (in a scene that left me in tears of laughter). Eventually they do co-operate through necessity to leave the island and develop a bond of friendship through adversity, only to have this challenged when exposed to the realities of the world outside their desert island refuge. A bitter but unavoidable ending reminds us of the insanities of war. I loved this film because it was totally gripping in a way few movies are, I genuinely cared about the characters. It was in some ways like watching 'survivor' in the way the relationship changed-only in reverse- so naturally did it happen on screen. Bormans direction was great, more of a fly on the wall perspective that made the story all the more involving. This movie deserves to be seen."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "During World War II, an American pilot and a marooned Japanese navy captain are deserted on a small uninhabited island in the Pacific Ocean. There, they must cease their hostility and cooperate if they want to survive, but will they?",
+        "duration": "PT2M3S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4174562073",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYmNlZjUzODgtODVmMy00NzNhLWJlMDQtZmUzYTIzMjQ2Y2Q0XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYmNlZjUzODgtODVmMy00NzNhLWJlMDQtZmUzYTIzMjQ2Y2Q0XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-11-24T18:24:07.685Z",
+        "url": "https://www.imdb.com/video/vi4174562073/"
+    },
+    "url": "/title/tt0063056/"
+}

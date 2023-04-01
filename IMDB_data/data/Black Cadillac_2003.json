@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Randy Quaid",
+            "url": "/name/nm0001642/"
+        },
+        {
+            "@type": "Person",
+            "name": "Shane Johnson",
+            "url": "/name/nm0426209/"
+        },
+        {
+            "@type": "Person",
+            "name": "Josh Hammond",
+            "url": "/name/nm0358717/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3263,
+        "ratingValue": 5.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0234952/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0015577/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Murlowski",
+            "url": "/name/nm0613981/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Porter",
+            "url": "/name/nm0017620/"
+        }
+    ],
+    "description": "Three young men become terrorized in a high-speed car chase with a mysterious pursuant.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Murlowski",
+            "url": "/name/nm0613981/"
+        }
+    ],
+    "duration": "PT1H33M",
+    "genre": [
+        "Horror",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY5MjM5NjM5MF5BMl5BanBnXkFtZTYwODc4ODM3._V1_.jpg",
+    "keywords": "dark road,forest,motor vehicle,car,u.s. car",
+    "name": "Black Cadillac",
+    "original_info": {
+        "id": "Black Cadillac_2003",
+        "name": "Black Cadillac",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "hereatgraceland"
+        },
+        "dateCreated": "2006-07-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0313285/"
+        },
+        "name": "I expected very little but got a whole lot more !",
+        "reviewBody": "I purchased this DVD for $ 5.99 at our local video store thinking it would be a great filler for a rainy night. My curiosity got the better of me so I stuck the DVD into the machine. Five minutes into the movie I soon realized it was going to be good one. Even the three new actors caught my immediate attention and they kept the movie rolling very well. An interesting note about Black Cadillac is.. \"It's totally believable ! \" Guys can relate to our days of youth trying to get into bars underage looking for booze and ladies. And some of us can remember some of the many brawls that end-up out in the back of parking lots. Once the suspense started; it never let-up until the last 10 minutes when we finally realized who owned the Caddy and why they were stalking the boys. Once again, it brought back memories of a few old classics \" DUEL \" and \"THE CAR.\" Both of which had top run actors and I seriously believe Black Cadillac was better then both. If you love old cars and you feel like watching a movie with a lot of suspense, then add Black Cadillac to your collection. You will not be disappointed !",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from First Look",
+        "duration": "PT1M47S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2612658457",
+        "name": "Black Cadillac",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMmIyNDBkNDEtMmQwYy00ZWE1LWJiNTgtNzY5MGJjZjAxNGYzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMmIyNDBkNDEtMmQwYy00ZWE1LWJiNTgtNzY5MGJjZjAxNGYzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:36:01Z",
+        "url": "https://www.imdb.com/video/vi2612658457/"
+    },
+    "url": "/title/tt0313285/"
+}

@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Wesley Snipes",
+            "url": "/name/nm0000648/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen Dorff",
+            "url": "/name/nm0001151/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kris Kristofferson",
+            "url": "/name/nm0001434/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 281748,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0078451/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0030991/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0095134/"
+        },
+        {
+            "@type": "Person",
+            "name": "David S. Goyer",
+            "url": "/name/nm0275286/"
+        }
+    ],
+    "datePublished": "1998-08-21",
+    "description": "A half-vampire, half-mortal man becomes a protector of the mortal race, while slaying evil vampires.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Stephen Norrington",
+            "url": "/name/nm0635759/"
+        }
+    ],
+    "duration": "PT2H",
+    "genre": [
+        "Action",
+        "Horror",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTk2NDNjZWQtMGY0Mi00YTY2LWE5MzctMGRhZmNlYzljYTg5XkEyXkFqcGdeQXVyMTAyNjg4NjE0._V1_.jpg",
+    "keywords": "vampire,vampire hunter,good versus evil,human vampire hybrid,evil deity",
+    "name": "Blade",
+    "original_info": {
+        "id": "Blade_1998",
+        "name": "Blade",
+        "year": "1998"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "kosmasp"
+        },
+        "dateCreated": "2007-05-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120611/"
+        },
+        "name": "Brother Darkness walks at daylight",
+        "reviewBody": "Hope the summary line won't irritate you that much (it's a little homage to the Chappelle Show/Charlie Murphy, but also to the character Daywalker). But I'll try to put all the things I liked about the movie in one paragraph and everything I didn't like in another paragraph, so it will be easier to read! \n\nLet's start with the good things! The quote \"strong bloody violence\" (which is used by rating boards, to describe the content of a movie, does fit here very well. This is not a movie for kids! Or for the faint of hearted! It has Blade as a central character (Wesley Snipes is phenomenal) and a crazy enough story thread to hold/justify the action scenes! The original idea is also very engaging and intelligent. The action scenes are great here too.\n\nOK over to the things I didn't like. The overall story is too thin. It's enough as I've written above to hold the action scenes together, but there could be more. And a character like Blade deserves more (imo). The drama therefor isn't the best ... also it's use of clichés doesn't help. Some characters are underwritten ... That's that! :o)",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2746876185",
+        "name": "Blade",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDQwODNmODMtNDJmOC00ZDUzLWEwNzAtYTljZDY4ZTRiNTE0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDQwODNmODMtNDJmOC00ZDUzLWEwNzAtYTljZDY4ZTRiNTE0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:38:04Z",
+        "url": "https://www.imdb.com/video/vi2746876185/"
+    },
+    "url": "/title/tt0120611/"
+}

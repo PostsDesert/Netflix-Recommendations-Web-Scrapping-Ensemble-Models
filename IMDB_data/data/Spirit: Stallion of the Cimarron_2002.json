@@ -1,0 +1,113 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Matt Damon",
+            "url": "/name/nm0000354/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Cromwell",
+            "url": "/name/nm0000342/"
+        },
+        {
+            "@type": "Person",
+            "name": "Daniel Studi",
+            "url": "/name/nm0836070/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 79387,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0129164/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0819670/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Fusco",
+            "url": "/name/nm0299301/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Lucker",
+            "url": "/name/nm0524710/"
+        }
+    ],
+    "datePublished": "2002-05-24",
+    "description": "A wild stallion is captured by humans and slowly loses the will to resist training, yet, throughout his struggles for freedom, the stallion refuses to let go of the hope of one day returning home to his herd.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Kelly Asbury",
+            "url": "/name/nm0038432/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lorna Cook",
+            "url": "/name/nm0177170/"
+        }
+    ],
+    "duration": "PT1H23M",
+    "genre": [
+        "Animation",
+        "Adventure",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTgyOTUzNDA1N15BMl5BanBnXkFtZTYwNjgwMDM3._V1_.jpg",
+    "keywords": "horse,animal capture,19th century,freedom,cowboy",
+    "name": "Spirit: Stallion of the Cimarron",
+    "original_info": {
+        "id": "Spirit: Stallion of the Cimarron_2002",
+        "name": "Spirit: Stallion of the Cimarron",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "StarQuest77"
+        },
+        "dateCreated": "2002-06-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0166813/"
+        },
+        "name": "Good all round Family Film!!!",
+        "reviewBody": "I took my kids to see this Film and was more than just a little surprised that I liked it as well! It was a refreshing break from the normal smash and explosion of the modern movie world, and I found it particularly interesting that the animals although intelligent didn't talk the narrator did that, (the narrator supposedly being Spirit reflecting back on his life) All in All a good, no Very Good Family Film. I hope we will see more like it.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Dreamworks Home Entertainment",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1323696409",
+        "name": "Spirit: Stallion of the Cimarron",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTNhNDNjZTUtMWJiNC00OTlmLTkyYWMtZTQ3YzJiNjI4OGFjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTNhNDNjZTUtMWJiNC00OTlmLTkyYWMtZTQ3YzJiNjI4OGFjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-05-30T02:32:04Z",
+        "url": "https://www.imdb.com/video/vi1323696409/"
+    },
+    "url": "/title/tt0166813/"
+}

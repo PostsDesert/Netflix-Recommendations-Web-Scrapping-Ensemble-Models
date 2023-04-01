@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Robin Williams",
+            "url": "/name/nm0000245/"
+        },
+        {
+            "@type": "Person",
+            "name": "Forest Whitaker",
+            "url": "/name/nm0001845/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tom. T. Tran",
+            "url": "/name/nm0870918/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 145295,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0049348/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0076881/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mitch Markowitz",
+            "url": "/name/nm0548732/"
+        }
+    ],
+    "datePublished": "1988-01-15",
+    "description": "In 1965, an unorthodox and irreverent DJ named Adrian Cronauer begins to shake up things when he is assigned to the U.S. Armed Services radio station in Vietnam.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Barry Levinson",
+            "url": "/name/nm0001469/"
+        }
+    ],
+    "duration": "PT2H1M",
+    "genre": [
+        "Biography",
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOWRhZGQ5ODQtMzUzNi00M2I4LThmZmUtYmQ0NDQzMTkxMWQ0XkEyXkFqcGdeQXVyMzI0NDc4ODY@._V1_.jpg",
+    "keywords": "disc jockey,vietnam war,radio dj,vietnam,censorship",
+    "name": "Good Morning, Vietnam",
+    "original_info": {
+        "id": "Good Morning_1987",
+        "name": "Good Morning",
+        "year": "1987"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "SnoopyStyle"
+        },
+        "dateCreated": "2013-11-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0093105/"
+        },
+        "name": "more than a simple Robin Williams rant",
+        "reviewBody": "Director Barry Levinson takes a more comedic take on the Vietnam war like other great war comedies such as MASH. Adrian Cronauer (Robin Williams) is the new DJ in a stiff Armed Forces Radio. Edward Garlick (Forest Whitaker) is his best friend and Lt. Steven Hauk (Bruno Kirby) is the humorless superior. Adrian's life gets more complicated as he falls for a Vietnamese girl and befriends her brother.\n\nRobin Williams is doing his crazed manic persona. He lets his mouth run wild. Some of it work great. Some of the humor is era sensitive. How funny is a Lady Bird Johnson joke today? But how funny was it back in the 80s? Luckily, there is a story behind the crazy wise-cracking Robin Williams rants. The story works well with a good performance from the Vietnamese brother played by Tung Thanh Tran. But it is all Robin Williams and he shows that maybe he could be a great actor for the first time.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Touchstone Pictures",
+        "duration": "PT2M23S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4054450457",
+        "name": "Good Morning, Vietnam",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTgwZWYyYjUtMGM5NC00ZjAyLWI2MjQtNDUwMmY3MzEwMDJjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTgwZWYyYjUtMGM5NC00ZjAyLWI2MjQtNDUwMmY3MzEwMDJjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:19:21Z",
+        "url": "https://www.imdb.com/video/vi4054450457/"
+    },
+    "url": "/title/tt0093105/"
+}

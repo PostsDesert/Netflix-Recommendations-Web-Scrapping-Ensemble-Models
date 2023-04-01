@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Clive Owen",
+            "url": "/name/nm0654110/"
+        },
+        {
+            "@type": "Person",
+            "name": "Helen Mirren",
+            "url": "/name/nm0000545/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Kelly",
+            "url": "/name/nm0446303/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6257,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0043039/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0022335/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0007143/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joel Hershman",
+            "url": "/name/nm0380957/"
+        }
+    ],
+    "datePublished": "2001-09-14",
+    "description": "A prison inmate with a green thumb goes on to compete in a national gardening competition. Based on a true story.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Joel Hershman",
+            "url": "/name/nm0380957/"
+        }
+    ],
+    "duration": "PT1H31M",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjBmZWQ3ZTItYjJkMC00NDQ5LTliMGEtMDdiZTNiMjViNjFjXkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_.jpg",
+    "keywords": "based on true story,male in a shower,man in a shower,group shower,shared shower",
+    "name": "Greenfingers",
+    "original_info": {
+        "id": "Greenfingers_2000",
+        "name": "Greenfingers",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "cecif"
+        },
+        "dateCreated": "2001-08-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0203540/"
+        },
+        "name": "Excellent stuff worth seeing!",
+        "reviewBody": "This lovely little film isn't trying to be anything it's not. It's interesting, touching, sad at times, and very, very funny! What more could you want for entertainment? I enjoy going to a movie and feeling good - okay, so YES, this is a feel-good movie. It has a really, really excellent feel-good plot. Bad guys make good... at gardening!\n\nIt's based on a true story, and that's one thing that really makes the story work. You root for the characters (you should!), you hope for the best (what's wrong with that?!), and along the way not everything goes as it \"should\". Well done folks. Also very well-acted. Scenery great. Characters great. Ending great (no, it isn't over-the-top good-good, if you hate that like I do...).\n\nSad to have to do the cliched and tired \"if you liked _____ you'll love _____\", but gotta do it: If you liked \"Saving Grace\", this is a great movie for you! (Though a friend of mine thinks I should say \"if you liked \"The Full Monty\"...)\n\nI say, spend the money if you are inclined, I don't think you'll regret a minute of it!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Tristar",
+        "duration": "PT2M5S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi128647449",
+        "name": "Greenfingers",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYThlYTA2MzYtNGMxOC00MmZkLTljZmYtMDViZjJhYmYxZDI5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYThlYTA2MzYtNGMxOC00MmZkLTljZmYtMDViZjJhYmYxZDI5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:19:56Z",
+        "url": "https://www.imdb.com/video/vi128647449/"
+    },
+    "url": "/title/tt0203540/"
+}

@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Ratzenberger",
+            "url": "/name/nm0001652/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chad Allen",
+            "url": "/name/nm0020354/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jennifer Aniston",
+            "url": "/name/nm0000098/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1079,
+        "ratingValue": 5.6,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0127637/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0065874/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bennett Tramer",
+            "url": "/name/nm0870776/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rich Melcombe",
+            "url": "/name/nm0577497/"
+        }
+    ],
+    "datePublished": "1990-09-23",
+    "description": "Standard camp shenanigans and romance amongst the counselors and the campers at a lake front summer camp.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Roger Duchowny",
+            "url": "/name/nm0239865/"
+        }
+    ],
+    "duration": "PT1H33M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTIxMzUxMzA1OV5BMl5BanBnXkFtZTcwNDE5NzQyMQ@@._V1_.jpg",
+    "keywords": "summer camp,bunkmate,tree climbing,falling off a horse,hug",
+    "name": "Camp Cucamonga",
+    "original_info": {
+        "id": "Camp Cucamonga_1990",
+        "name": "Camp Cucamonga",
+        "year": "1990"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ksmacy-2"
+        },
+        "dateCreated": "2005-10-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0099212/"
+        },
+        "name": "Summer camp for TV stars",
+        "reviewBody": "This is a made-for-TV movie from a delicious time period. NBC was putting their TV series' stars, mostly the teens, into fluffy TV movies sharing audiences and marketing costs (same concept as \"Hope & Faith\" being and \"Regis & Kelly\"). I encourage everyone to seek these out, though some (like CLASS CRUISE starring Billy Warlock) have simply disappeared. The best, in my opinion, are DANCE 'TIL DAWN and CAMP CUCAMONGA (both now available on DVD). Where else can you see Candace Cameron, Chad Allen, Jennifer Aniston, Jaleel White (Steve Urkel to those in the know), Paul from \"The Wonder Years\", Winnie from \"The Wonder Years\", Eric from \"Head of the Class\", and Sherman Hemsley all in the same place? Inarguably the most memorable moment is the fantastic rap video performed by the kids, \"Camp Cucamonga is the place that's hip!\"",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0099212/"
+}

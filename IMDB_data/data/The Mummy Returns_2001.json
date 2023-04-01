@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Brendan Fraser",
+            "url": "/name/nm0000409/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rachel Weisz",
+            "url": "/name/nm0001838/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Hannah",
+            "url": "/name/nm0001314/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 332818,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0049706/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0038478/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen Sommers",
+            "url": "/name/nm0814085/"
+        }
+    ],
+    "datePublished": "2001-05-04",
+    "description": "The mummified body of Imhotep is shipped to a museum in London, where he once again wakes and begins his campaign of rage and terror.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Stephen Sommers",
+            "url": "/name/nm0814085/"
+        }
+    ],
+    "duration": "PT2H10M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE2NzU1NTk2MV5BMl5BanBnXkFtZTgwMjIwMzcxMTE@._V1_.jpg",
+    "keywords": "good versus evil,mummy character,evil woman,villain,villainess",
+    "name": "The Mummy Returns",
+    "original_info": {
+        "id": "The Mummy Returns_2001",
+        "name": "The Mummy Returns",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "moviesleuth2"
+        },
+        "dateCreated": "2010-06-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0209163/"
+        },
+        "name": "Non-stop action",
+        "reviewBody": "The success of \"The Mummy\" in 1999 surprised everyone, and on the day that it opened, Universal Studios greenlit another sequel. The original (the 1999 one) was a lot of fun because it mixed creepy scares with awesome action and goofy humor. The sequel does more or less the same thing, except that the action sequences come pretty much one after another from beginning to end.\n\nRick (Brendan Fraser) has married his love from the first film, Evelyn (Rachel Weisz), and the have a son, Alex (Freddy Boath). After finding the bracelet of the mythical Scorpion King, they're attacked by villains who are intent on raising Imhotep from the dead (again) so he can kill the Scorpion King and take over the world. Of course, it's up to Rick and Evelyn to stop them.\n\nAll the characters from the first film in the franchise are back, and they slide into their parts easily. Arnold Vosloo gets to do more with his character, and Patricia Velasquez (who has about 10 times as much screen time as she did in the first film) has a lot of fun acting like Jennifer Lopez's alter-ego. There are a few new characters as well, including young Freddie Boath, who is excellent as Alex. His screen appeal rivals Macauley Culkin at his best. Shaun Parkes is a much better source of comic relief than Kevin J. O'Connor (he's consistently funny, and the dialogue between him and Rick or Jonathan is hilarious). Adewale Akinnuoye-Agbaje is suitably creepy as a new villain and Alun Armstrong is suitably kooky as the ringleader.\n\nStephen Sommers knows how to create an action movie. He creates real characters, not actors who are given different names, and sends them into action scene after action scene. It's a fun and exciting flick, and that's all it tries to be.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M46S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3930372889",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTEzOTZlODgtZjMyYi00YzU0LThlNDktNGJhMWYxMDc3ODI1XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTEzOTZlODgtZjMyYi00YzU0LThlNDktNGJhMWYxMDc3ODI1XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+        "uploadDate": "2018-09-17T22:21:01.630Z",
+        "url": "https://www.imdb.com/video/vi3930372889/"
+    },
+    "url": "/title/tt0209163/"
+}

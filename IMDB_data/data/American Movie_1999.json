@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mark Borchardt",
+            "url": "/name/nm0096013/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mike Schank",
+            "url": "/name/nm0770023/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tom Schimmels",
+            "url": "/name/nm0771794/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 18544,
+        "ratingValue": 7.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0073211/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0116515/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0011408/"
+        }
+    ],
+    "datePublished": "2000-04-13",
+    "description": "Documentary about an aspiring filmmaker's attempts to finance his dream project by finally completing the low-budget horror film he abandoned years before.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Chris Smith",
+            "url": "/name/nm0807687/"
+        }
+    ],
+    "duration": "PT1H47M",
+    "genre": [
+        "Documentary",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjMxMDFhYzQtZDZmZS00ZDBjLWIzY2QtNDBiMDQ5YjBlNTk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "keywords": "cringe comedy,columbia tristar,columbia tristar home video,filmmaker as protagonist,film director as protagonist",
+    "name": "American Movie",
+    "original_info": {
+        "id": "American Movie_1999",
+        "name": "American Movie",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "rooneyterence"
+        },
+        "dateCreated": "2006-04-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0181288/"
+        },
+        "name": "Life, but not as we know it...",
+        "reviewBody": "For me, the best & most memorable movies are often those which on first viewing I know nothing about. American Movie is a perfect example of just such a gem. Watching TV late one evening, I spotted the one & only good review among the dross - thankfully I settled in for a real treat. American Movie is a documentary following the unforgettable Mark Borchardt (pronounced \"orchard\", I believe), a highly articulate & charismatic Wisconson lad, as he struggles to write, direct and produce \"MidWestern\", a gritty, low-budget Horror movie on which he has been working for years. In Mark we discover a young man filled with contrast. His appearance is of the classic trailer-trash stereotype - skinny, bum-fluff mustache, '80s heavy metal styling, mullet hairdo, etc. To camera however, Mark reveals startling wit & insight as he philosophizes upon life, love, movies & the American way. As the movie unfolds, it sadly becomes clear that Mark's lack of discipline & heavy drinking are relentlessly sabotaging his creative efforts. American Movie is a charming watch, filled with hilarious moments & vivid characters. Chief among these is Mark's lovable buddy Mike Schank, a soft-spoken reformed stoner who, having conquered an addiction to scratch cards, is now dependent on soda pop. I absolutely loved American Movie. It generates real empathy between the viewer & principal characters, and provides hilarity without feeling exploitative. I would wholeheartedly recommend it to anyone.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT2M39S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2978660121",
+        "name": "American Movie",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMDU2ODM2Y2ItOWI2Yy00ZDJhLTk5Y2UtODRjMjk4YjRkMzA0XkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDU2ODM2Y2ItOWI2Yy00ZDJhLTk5Y2UtODRjMjk4YjRkMzA0XkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg",
+        "uploadDate": "2019-10-06T17:09:28.461Z",
+        "url": "https://www.imdb.com/video/vi2978660121/"
+    },
+    "url": "/title/tt0181288/"
+}

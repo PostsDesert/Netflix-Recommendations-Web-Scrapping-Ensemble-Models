@@ -1,0 +1,92 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Julie Andrews",
+            "url": "/name/nm0000267/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Fox",
+            "url": "/name/nm0289038/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mary Tyler Moore",
+            "url": "/name/nm0001546/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6702,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0119020/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Morris",
+            "url": "/name/nm0606886/"
+        }
+    ],
+    "datePublished": "1967-03-22",
+    "description": "In New York City during the Roaring Twenties, would-be flapper Millie Dillmount's self-appointed mission to marry her boss is complicated by white slavers and true love.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "George Roy Hill",
+            "url": "/name/nm0001351/"
+        }
+    ],
+    "duration": "PT2H18M",
+    "genre": [
+        "Comedy",
+        "Musical",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTlhYTc4MzEtZDNlYi00NjM2LTk2ZjQtZTUyZmRlMmYzODAyXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
+    "keywords": "stenographer,white slavery,1920s,character name in title,cocktail party",
+    "name": "Thoroughly Modern Millie",
+    "original_info": {
+        "id": "Thoroughly Modern Millie_1967",
+        "name": "Thoroughly Modern Millie",
+        "year": "1967"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dmorse"
+        },
+        "dateCreated": "2005-01-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0062362/"
+        },
+        "name": "Depiction of an era long gone!!",
+        "reviewBody": "I remember seeing this movie in college, and was impressed with it at the time; I bought the DVD recently and find it is a wonderful presentation; the colors are vibrant again and the music is well preserved and very listenable especially in surround sound....this version includes a musical intro. intermission music and exit music; unfortunately not any extras, other than the original trailer, but all in all a good package for the price....The twenties era is well portrayed, with the many fashions and fads brought into play and interwoven into the plot of the movie. The leads are all very good, with the exception of Mary Tyler Moore, whose acting is not very on key...Carol Channing is exceptional in the comic part of Muzzy, and there is a twist ending that involves her, which I won't give away to anyone who has not seen the movie....again the music and dancing make the movie with old standards such as Baby Face, Poor Butterfly, Do it again, and on and on with a few new ditties thrown in, by Elmer Bernstein and Andre Previn....this movie was nominated for several awards and one one for music...Enjoy!!"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M30S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3696410905",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjk5OGIwMDgtZDk4YS00MDBhLTlhODItNDBiYWMwNzlhZGNlXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjk5OGIwMDgtZDk4YS00MDBhLTlhODItNDBiYWMwNzlhZGNlXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-02-03T18:26:00.926Z",
+        "url": "https://www.imdb.com/video/vi3696410905/"
+    },
+    "url": "/title/tt0062362/"
+}

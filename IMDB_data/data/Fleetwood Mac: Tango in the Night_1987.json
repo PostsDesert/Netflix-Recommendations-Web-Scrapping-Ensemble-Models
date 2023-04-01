@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mick Fleetwood",
+            "url": "/name/nm0281450/"
+        },
+        {
+            "@type": "Person",
+            "name": "John McVie",
+            "url": "/name/nm0574732/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christine McVie",
+            "url": "/name/nm0574730/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 92,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "datePublished": "1989-07-25",
+    "description": "Fleetwood Mac, minus Lindsey Buckingham and plus Rick Vito and Billy Burnette, perform cuts from the Tango In The Night album, as well as classic Fleetwood Mac songs at the Cow Palace in San Francisco.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Wayne Isham",
+            "url": "/name/nm0410864/"
+        }
+    ],
+    "duration": "PT1H",
+    "genre": [
+        "Documentary",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODA4ODQyNzA4Ml5BMl5BanBnXkFtZTcwNTEzMjQyMQ@@._V1_.jpg",
+    "keywords": "tv special,rock,live performance,concert film",
+    "name": "Fleetwood Mac: Tango in the Night",
+    "original_info": {
+        "id": "Fleetwood Mac: Tango in the Night_1987",
+        "name": "Fleetwood Mac: Tango in the Night",
+        "year": "1987"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "fleetwoodmacrocks"
+        },
+        "dateCreated": "2001-01-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0255173/"
+        },
+        "name": "Great show, but lacking something...",
+        "reviewBody": "Although some prefer the post-1987 Fleetwood Mac shows, without the combined magic of the Buckingham-Nicks lineup, the tunes seem lacking. Rick Vito and Billy Burnette, while both amazing guitarists, seem emotionless while playing the classic Mac tunes. They seem a little too stiff and come across without much enthusiasm. Maybe that's due to the huge shoes they had to fill when Lindsey Buckingham walked away from the 1987 tour.\n\nRick Vito does a great job on \"Dreams\", and Christine's \"Isn't it Midnight\" is a great tune laced with guitar soloing. Again, the tunes seem a little less than punchy, but the crowd altogether seems to enjoy them. It's almost as if no one noticed the absence of Buckingham. Especially the lack of Buckingham & Nicks' stage melodrama; those dueling vocals and intense stares full of that hate/love thing.\n\nOverall, it's a pretty decent show. It isn't one that you'll be watching once a week, but it's worth a viewing.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0255173/"
+}

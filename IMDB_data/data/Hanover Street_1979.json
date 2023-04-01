@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Harrison Ford",
+            "url": "/name/nm0000148/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lesley-Anne Down",
+            "url": "/name/nm0001153/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christopher Plummer",
+            "url": "/name/nm0001626/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5584,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0103512/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Hyams",
+            "url": "/name/nm0001382/"
+        }
+    ],
+    "datePublished": "1979-09-13",
+    "description": "Margaret is a nurse in England during WW2, and married to a secret agent. Things get complicated when she falls for David, an American pilot.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Peter Hyams",
+            "url": "/name/nm0001382/"
+        }
+    ],
+    "duration": "PT1H49M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNGMyMGJjNTYtMDM0ZS00MTM0LWFlN2YtMzJmZTBiNzk4OTFjXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+    "keywords": "adultery,mother,espionage,bomber engine trouble,secret stolen",
+    "name": "Hanover Street",
+    "original_info": {
+        "id": "Hanover Street_1979",
+        "name": "Hanover Street",
+        "year": "1979"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "roghache"
+        },
+        "dateCreated": "2006-05-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0079268/"
+        },
+        "name": "Engaging wartime love triangle, notable for husband / lover dynamic",
+        "reviewBody": "While this movie is not the old fashioned wartime classic I had anticipated, it is certainly highly watchable. This is definitely more a romance than a war movie or suspense thriller. It's been awhile since I've seen it so forget all the plot intricacies, but enjoyed the film at the time for two reasons. First, the incredible cast and second, the World War II backdrop with all the drama of wartime and the hair, clothing, & automobile styles. For me, the movie is noteworthy for the dynamics between the sophisticated, steady husband and the virile, charismatic lover. Also its memorable ending, which I loved. \n\nThe movie portrays the story of Margaret Sellinger, a British nurse, and David Halloran, an American pilot (stationed in England) who meet in London during an air raid and fall in love. David doesn't realize that Margaret is married until he is assigned to transport a British secret agent into France and learns that this agent is none other than Margaret's husband. Of course this situation may be something of a coincidence, but it does make for a good story. \n\nThe three stars cast as the parties in this love triangle are all favourites of mine. The dashing and magnetic Harrison Ford plays the lover, David. That consummate gentleman, Christopher Plummer, is cast as the older, dependable, and consistent husband, Paul Sellinger. The lovely Leslie-Anne Down (of Upstairs, Downstairs fame) portrays Paul's wife, Margaret, the woman caught between these two very compelling men. Frankly, if I had to choose myself between Harrison Ford and Christopher Plummer, I'd be hard pressed to decide...though Plummer would have been quite captivating enough for me in the first place! \n\nThe movie doesn't delve much into the marital problems, other than that the husband, Paul, doesn't feel he is exciting enough for his wife. The film therefore provides no reason why we shouldn't favour the husband and view him as the injured victim of the piece. Not a whole lot of sympathy on my part for the bored Margaret, wartime or not and despite Harrison Ford's obvious appeal. Unfortunately, not much detail is shown developing Margaret and David's relationship, other than some emotional bonding as a result of shared danger during a V2 rocket bombing. Then before you know it, they're having an affair. Perhaps this contributes to my lack of interest in their romance. Frankly, my heart does not bleed for Margaret, much as I adore the actress portraying her. It was very unfair of her not warning David straight away that she's a married lady with a daughter, thus I had more compassion for her misled lover.\n\nLater in the film the husband and lover are placed in a dangerous situation where they must cope with enemy action and rely upon each other. Naturally this makes for some 'interesting' scenes, quite touchingly done, as they must work together to survive. They're both fantastic here, the macho younger Ford and the seasoned older Plummer. Their scenes are infinitely more compelling than those between the lovers in a relationship not very well drawn. No spoilers as to which gentleman prevails in the end. Do both or either of the two even survive the perils involved? Suffice it to say, the ending was unforgettable for me personally.\n\nWith these actors and this setting, it might have been a great movie if they'd only imparted a little more depth and vulnerability to Margaret, some relationship development and genuine chemistry to her affair with David, and a bit more understanding as to why she succumbed to temptation in the first place. However, in truth, I confess that I'm a real sucker for a wartime romance and would lap up just about any representative of the genre, especially one with this particular cast.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Margaret is a nurse in England during WW2, and married to a secret agent. Things get complicated when she falls for David, an American pilot.",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi435208985",
+        "name": "Teaser Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOGZkNDFiZGItMThiYy00NGZmLThiNTAtMTM0MmEzZWFhYjQwXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGZkNDFiZGItMThiYy00NGZmLThiNTAtMTM0MmEzZWFhYjQwXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-10-29T00:14:25.690Z",
+        "url": "https://www.imdb.com/video/vi435208985/"
+    },
+    "url": "/title/tt0079268/"
+}

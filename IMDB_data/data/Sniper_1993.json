@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tom Berenger",
+            "url": "/name/nm0000297/"
+        },
+        {
+            "@type": "Person",
+            "name": "Billy Zane",
+            "url": "/name/nm0000708/"
+        },
+        {
+            "@type": "Person",
+            "name": "J.T. Walsh",
+            "url": "/name/nm0000687/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 24741,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0038108/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0026438/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0207248/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Frost Beckner",
+            "url": "/name/nm0065847/"
+        },
+        {
+            "@type": "Person",
+            "name": "Crash Leyland",
+            "url": "/name/nm0508052/"
+        }
+    ],
+    "datePublished": "1993-01-29",
+    "description": "A veteran US Marine sniper is partnered with a rookie sniper as his spotter to take out a politician and a rebel leader in the jungles of Panama.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Luis Llosa",
+            "url": "/name/nm0515891/"
+        }
+    ],
+    "duration": "PT1H38M",
+    "genre": [
+        "Action",
+        "Thriller",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZWUzOGNjMzItZmM5MC00NTQzLTk3YjQtZWMwZmRhOGJhZDczXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "sniper,jungle,shot in the head,soldier,machine gun",
+    "name": "Sniper",
+    "original_info": {
+        "id": "Sniper_1993",
+        "name": "Sniper",
+        "year": "1993"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Headrock"
+        },
+        "dateCreated": "1998-09-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0108171/"
+        },
+        "name": "One shot, one kill, one great movie.",
+        "reviewBody": "Sniper gives a true new meaning to war movies. I remember movies about Vietnam or WWII, lots of firing, everybody dies, bam bam. \"Sniper\" takes war to a new level or refinement. The movie certainly conveys all of the emotions it aims for - The helplessness of humans in the jungle, the hatred and eventual trust between Beckett and Miller, and the rush of the moment when they pull the trigger. A seemingly low-budget film makes up for every flaw with action, suspense, and thrill, because when it comes down to it, it's just one shot, one kill.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Tristar",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1501823257",
+        "name": "Sniper",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOWI3MTc3OTUtOTIzZC00YzcyLWIzNWUtZDgyN2Q4Y2ZkMjMyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOWI3MTc3OTUtOTIzZC00YzcyLWIzNWUtZDgyN2Q4Y2ZkMjMyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:53:49Z",
+        "url": "https://www.imdb.com/video/vi1501823257/"
+    },
+    "url": "/title/tt0108171/"
+}

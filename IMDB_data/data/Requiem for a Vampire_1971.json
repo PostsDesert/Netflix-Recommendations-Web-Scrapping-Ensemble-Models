@@ -1,0 +1,110 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ellen Burstyn",
+            "url": "/name/nm0000995/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jared Leto",
+            "url": "/name/nm0001467/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jennifer Connelly",
+            "url": "/name/nm0000124/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 855272,
+        "ratingValue": 8.3,
+        "worstRating": 1
+    },
+    "contentRating": "Unrated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0014903/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0042682/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0067219/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hubert Selby Jr.",
+            "url": "/name/nm0782968/"
+        },
+        {
+            "@type": "Person",
+            "name": "Darren Aronofsky",
+            "url": "/name/nm0004716/"
+        }
+    ],
+    "datePublished": "2000-12-15",
+    "description": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Darren Aronofsky",
+            "url": "/name/nm0004716/"
+        }
+    ],
+    "duration": "PT1H42M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "keywords": "drug addiction,heroin,sex show,sex scene,addiction",
+    "name": "Requiem for a Dream",
+    "original_info": {
+        "id": "Requiem for a Vampire_1971",
+        "name": "Requiem for a Vampire",
+        "year": "1971"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "tdao360"
+        },
+        "dateCreated": "2001-07-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0180093/"
+        },
+        "name": "Brutal, honest, and a must see movie",
+        "reviewBody": "This ranks up there as one of the three most powerful movies I have ever seen in my lifetime (Full Metal Jacket and Grave of The Fireflies being the other two). This movie shows the brutal honest side of addiction and over-indulgence. Not just drugs, although it heavily shows drug addiction. Also shows how one addiction can lead to another and how damaging it can be for you. I watched this alone, and felt so stunned afterwards, I had to call a friend just to calm my nerves. Seriously, this is a brutal (one more time) BRUTAL film. The acting is wonderful - Ellyn Burnstyn and Jenniffer Connely are just wonderful in this movie, and Marlon Wayons was such a shocker in a serious role. Everyone must watch it, for it's entertainment value, and more importantly, it's educational value. But it leaves chills down your spine for it's honesty and unforgiving lessons.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Artisan",
+        "duration": "PT1M34S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2156069145",
+        "name": "Requiem for a Dream",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzFmMzRmMjQtOGNiZS00YjdjLThhNTUtM2M1YzI0NDQ1ZTcyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzFmMzRmMjQtOGNiZS00YjdjLThhNTUtM2M1YzI0NDQ1ZTcyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:51:51Z",
+        "url": "https://www.imdb.com/video/vi2156069145/"
+    },
+    "url": "/title/tt0180093/"
+}

@@ -1,0 +1,52 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Cinderella Adams",
+            "url": "/name/nm7434674/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dulicenea Caroll",
+            "url": "/name/nm7434675/"
+        },
+        {
+            "@type": "Person",
+            "name": "Annika Foo",
+            "url": "/name/nm2744708/"
+        }
+    ],
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0109027/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robin Clark",
+            "url": "/name/nm4852261/"
+        }
+    ],
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Sarah Young",
+            "url": "/name/nm7434678/"
+        }
+    ],
+    "duration": "PT22M",
+    "genre": [
+        "Animation",
+        "Short"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYjg5YTBjZjMtNjdjOS00NDJmLWI4OGEtNjc3NjdmMzk3ZDcyXkEyXkFqcGdeQXVyMjMzMzc0MjM@._V1_.jpg",
+    "name": "Dora the Explorer: Dance-Along Musical Adventure",
+    "original_info": {
+        "id": "Dora the Explorer: Pirate Adventure_2003",
+        "name": "Dora the Explorer: Pirate Adventure",
+        "year": "2003"
+    },
+    "url": "/title/tt2210573/"
+}

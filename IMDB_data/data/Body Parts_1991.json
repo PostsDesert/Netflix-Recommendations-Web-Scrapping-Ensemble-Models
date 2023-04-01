@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jeff Fahey",
+            "url": "/name/nm0001194/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lindsay Duncan",
+            "url": "/name/nm0242026/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kim Delaney",
+            "url": "/name/nm0001126/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4632,
+        "ratingValue": 5.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Person",
+            "name": "Pierre Boileau",
+            "url": "/name/nm0092267/"
+        },
+        {
+            "@type": "Person",
+            "name": "Thomas Narcejac",
+            "url": "/name/nm0092268/"
+        },
+        {
+            "@type": "Person",
+            "name": "Patricia Herskovic",
+            "url": "/name/nm0380977/"
+        }
+    ],
+    "datePublished": "1991-08-02",
+    "description": "After losing his arm in a car accident, a criminal psychologist has it replaced with a limb that belonged to a serial killer.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Eric Red",
+            "url": "/name/nm0714599/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTBiY2FhNzgtODI5NC00MTEzLTg1MzEtNmZhNzAyYWFlMGZkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "car accident,body horror,surgery,family relationships,title different than book",
+    "name": "Body Parts",
+    "original_info": {
+        "id": "Body Parts_1991",
+        "name": "Body Parts",
+        "year": "1991"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Wavehill24"
+        },
+        "dateCreated": "2005-06-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0101492/"
+        },
+        "name": "A good horrifying idea gone somewhat awry~~",
+        "reviewBody": "As bad and ridiculous as this movie was, i found the premise compelling and the questions it posed. Jeff Fahey started to look more and more demonic as the movie went on, and his hair changed too. I wouldn't recommend the film, but i think it was horrifying in a Frankensteinian way and fun in the way Blue Velvet was fun, in that dark, film noir kind of way,but Parts was without the aesthetics. I had to laugh because certain scenes reminded me of Robinson Crusoe on Mars, and then in other parts i actually wondered what was going on, like maybe there was a cohesive, tightly woven plot. I think i was mistaken on that. Too bad, the movie sort of had some kind of appeal. Anyone agree? I kind of thought the painter who received the other arm was a classic nut case in a way that was so over the top as to be humorous.\n\nI actually felt that his family relationships were kind of honest and touching, even though they saw their dad unraveling. Perhaps one of the highlights of the film.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Paramount Home Entertainment",
+        "duration": "PT2M40S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1628419097",
+        "name": "Body Parts",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTg2Y2RmYTgtMjdiOC00YWRhLThiMTMtNmRkOTY0M2FmM2Y4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTg2Y2RmYTgtMjdiOC00YWRhLThiMTMtNmRkOTY0M2FmM2Y4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2016-06-03T21:09:17Z",
+        "url": "https://www.imdb.com/video/vi1628419097/"
+    },
+    "url": "/title/tt0101492/"
+}

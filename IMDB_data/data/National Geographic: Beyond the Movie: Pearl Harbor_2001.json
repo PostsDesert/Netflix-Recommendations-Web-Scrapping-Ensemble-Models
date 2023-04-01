@@ -1,0 +1,65 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Phil Crowley",
+            "url": "/name/nm0970813/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Garth",
+            "url": "/name/nm1207966/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Howe",
+            "url": "/name/nm0397849/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 32,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0056555/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kathleen Phelan",
+            "url": "/name/nm0679741/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hank Putnam",
+            "url": "/name/nm3018341/"
+        }
+    ],
+    "datePublished": "2001-12-23",
+    "description": "This documentary explores through provoking questions for viewers who want to go beyond the richly fanciful film into the world that started it all.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Lisa Kors",
+            "url": "/name/nm1131495/"
+        }
+    ],
+    "duration": "PT1H",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMThhMGMwZTItYzc1Yy00YzgyLWIxMGMtNDFjZWVjMjM1MjMwXkEyXkFqcGdeQXVyODc5Mjc4Nzg@._V1_.jpg",
+    "name": "National Geographic: Beyond the Movie - The Lord of the Rings: The Fellowship of the Ring",
+    "original_info": {
+        "id": "National Geographic: Beyond the Movie: Pearl Harbor_2001",
+        "name": "National Geographic: Beyond the Movie: Pearl Harbor",
+        "year": "2001"
+    },
+    "url": "/title/tt10127200/"
+}

@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "William Marshall",
+            "url": "/name/nm0551234/"
+        },
+        {
+            "@type": "Person",
+            "name": "Vonetta McGee",
+            "url": "/name/nm0569144/"
+        },
+        {
+            "@type": "Person",
+            "name": "Denise Nicholas",
+            "url": "/name/nm0629370/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7213,
+        "ratingValue": 5.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0022781/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joan Torres",
+            "url": "/name/nm0868681/"
+        },
+        {
+            "@type": "Person",
+            "name": "Raymond Koenig",
+            "url": "/name/nm0462849/"
+        }
+    ],
+    "datePublished": "1972-08-25",
+    "description": "An ancient African prince, turned into a vampire by Dracula himself, finds himself in modern Los Angeles.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "William Crain",
+            "url": "/name/nm0186091/"
+        }
+    ],
+    "duration": "PT1H33M",
+    "genre": [
+        "Fantasy",
+        "Horror",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYWJkNjM2ZjktNjMzNi00N2Y4LTg1ZWEtOGU4NWIyZjE0Yzc2XkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+    "keywords": "18th century,20th century,1970s,year 1972,black horror",
+    "name": "Blacula",
+    "original_info": {
+        "id": "Blacula_1972",
+        "name": "Blacula",
+        "year": "1972"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Look_The_Other_Way"
+        },
+        "dateCreated": "2004-09-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0068284/"
+        },
+        "name": "William Marshall lifted this film...",
+        "reviewBody": "...from the standards of Blaxploitation movies of the time. The movie itself is more comical than scary (which is why I love it), but William Marshall brought a sense of dignity to his role of Mamawalde. In fact, it was his idea to change the main character from a jive-talking Black vampire to a tormented former king with a rich and tragic past. In the end, you actually feel sorry for him. This is an underrated film that is much better than it's avertizements would suggest. Though it may not be the best vampire/horror flick in the world, and it takes liberty with historical facts (a slave trade in Transylvania?!) it does contain a rather touching love story. With that being said, I have to admit that this movie also contains some of the most hilarious dialogue I've heard in a monster movie. \n\n\"Hey, man, that's a baaad cape!\"\n\n\"A bat! A BAT! A GIANT BAAAT!!\"\n\n\"Hey, where's that big dude with the cape?......AAAAH!\"\n\n\"Suddeny I find your Congnac to be as...distasteful as your manner!\"\n\nAnd a load of others that, for censorship reasons, I probably cannot repeat here. \n\nI recommend this movie to anyone who wants to have a spooky, retro good time.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer 1",
+        "duration": "PT1M59S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2981805849",
+        "name": "Blacula",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZmFiMzQyMTUtZjJlNC00NGFkLWEyZTQtZTZjYmY0M2JlNjhhXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZmFiMzQyMTUtZjJlNC00NGFkLWEyZTQtZTZjYmY0M2JlNjhhXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg",
+        "uploadDate": "2019-08-30T18:15:54.165Z",
+        "url": "https://www.imdb.com/video/vi2981805849/"
+    },
+    "url": "/title/tt0068284/"
+}

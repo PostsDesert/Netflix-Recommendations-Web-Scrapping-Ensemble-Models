@@ -1,0 +1,82 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ann B. Davis",
+            "url": "/name/nm0002036/"
+        },
+        {
+            "@type": "Person",
+            "name": "Florence Henderson",
+            "url": "/name/nm0001341/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christopher Knight",
+            "url": "/name/nm0460843/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 122,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0053559/"
+        },
+        {
+            "@type": "Person",
+            "name": "Daniel Helfgott",
+            "url": "/name/nm0375055/"
+        }
+    ],
+    "datePublished": "1995-05-24",
+    "description": "The cameras were given to the Brady Cast by Robert Reed.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Daniel Helfgott",
+            "url": "/name/nm0375055/"
+        }
+    ],
+    "duration": "PT1H",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI1NjM3NTg2Nl5BMl5BanBnXkFtZTcwNzEyNjMyMQ@@._V1_.jpg",
+    "keywords": "behind the scenes,making of,retrospective,reminiscence,clip show",
+    "name": "Brady Bunch Home Movies",
+    "original_info": {
+        "id": "Brady Bunch Home Movies_2000",
+        "name": "Brady Bunch Home Movies",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "slater999"
+        },
+        "dateCreated": "2010-03-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0282393/"
+        },
+        "name": "The Real Brady Kids",
+        "reviewBody": "Even if you've read all the books and watched the show multiple times in syndication, this movie really does give that extra bit of insight that one so rarely gets. Knowing the backdrop to some of the clips makes watching this even more enjoyable. For example, you can't help but see Barry Williams flirting with Florence Henderson as they relax in-between takes or see Barry looking moody in London, perhaps still sulking over being denied by Maureen. The revelation and footage to prove it (nothing but a bedsheet) that Eve Plumb was the wild one its completely surprising. This is probably the only thing that the actors might see some money from since they provided the footage so go out and buy it. The only real flaw is what is obviously a bargaining chip to get the likes of Maureen Mc Cormick to appear, that being, copious amounts of time given to promoting whatever it is they want promoted. In Maureen's case its a 5-minutes-too long clip of her singing country music. Its totally out of place. At least Eve Plumb had the class to simply put her paintings in shot rather than expect to be given a 10 minute slot extolling the virtues of still life art. Watch it, its great!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0282393/"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Harry Belafonte",
+            "url": "/name/nm0000896/"
+        },
+        {
+            "@type": "Person",
+            "name": "Desi Arnaz",
+            "url": "/name/nm0000789/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gloria Estefan",
+            "url": "/name/nm0002065/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 22,
+        "ratingValue": 8.1,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000436/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0070382/"
+        }
+    ],
+    "description": "A three-part historical survey of the African musical roots of Latin Jazz, Salsa, and popular genres. Featuring narration by Harry Belafonte, this documentary traces the evolution of Latin Music from Africa itself into the twentie...",
+    "genre": [
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAyMzEwNTM5OV5BMl5BanBnXkFtZTcwNTYxNTUxMQ@@._V1_.jpg",
+    "name": "Roots of Rhythm",
+    "original_info": {
+        "id": "Roots of Rhythm_1997",
+        "name": "Roots of Rhythm",
+        "year": "1997"
+    },
+    "url": "/title/tt0158164/"
+}

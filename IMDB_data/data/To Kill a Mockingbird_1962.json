@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Gregory Peck",
+            "url": "/name/nm0000060/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Megna",
+            "url": "/name/nm0576345/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frank Overton",
+            "url": "/name/nm0653942/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 320435,
+        "ratingValue": 8.3,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0110362/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0110361/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harper Lee",
+            "url": "/name/nm0497369/"
+        },
+        {
+            "@type": "Person",
+            "name": "Horton Foote",
+            "url": "/name/nm0285210/"
+        }
+    ],
+    "datePublished": "1963-03-16",
+    "description": "Atticus Finch, a widowed lawyer in Depression-era Alabama, defends a Black man against an undeserved rape charge, and tries to educate his young children against prejudice.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Mulligan",
+            "url": "/name/nm0612322/"
+        }
+    ],
+    "duration": "PT2H9M",
+    "genre": [
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "keywords": "trial,lawyer,small town,alabama,false accusation",
+    "name": "To Kill a Mockingbird",
+    "original_info": {
+        "id": "To Kill a Mockingbird_1962",
+        "name": "To Kill a Mockingbird",
+        "year": "1962"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "FilmOtaku"
+        },
+        "dateCreated": "2003-11-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0056592/"
+        },
+        "name": "One of the most important films of all time",
+        "reviewBody": "To Kill a Mockingbird is the movie based on the Harper Lee novel of the same name about Scout, Jem and their father, Atticus Finch who is an attorney in a small southern town. It is both a coming of age story about the children as well as a hard-hitting drama, as Atticus defends a black man who is on trial for the rape of a white woman. \n\nThis review is not an easy one to write, despite the fact that I have seen this film at least 10 times. The reason it does not come easily is that this is one of the most personally important films I have ever seen and is in my personal `Top Five of All Time'. I'm certain there is nothing that can be said about the film that has not already been repeated a multitude of times, so I guess the best thing to do is explain why the film is so important to me.\n\nI first saw this film several years ago and was so profoundly affected by it that I immediately watched it again. Of course, the defense of a man wrongly accused of a crime is a common story line, but To Kill a Mockingbird stands out as an exceptional example for several reasons. Among them, the date that the film was released: 1962, on the cusp of the civil rights movement in America, and the fact that it takes place in the south in the 1930's. It is also far from the first film to explore the experiences of children and their own personal growth, but To Kill a Mockingbird stands out because of its sheer honesty and natural performances by the child actors portraying these rich characters. \n\nBut most of all, this film is special because of Gregory Peck's portrayal of Atticus Finch, a true hero. At the risk of sounding histrionic, my heart aches when I watch him on screen because he is such an incredible man, and is so inherently good. No matter how many times I have seen this film, I smile when I see his interaction with his children, and I well with tears when I see his incredible strength of character. (No easy feat to break through the armor of this cynical film geek who, if given the chance would remake at least a few dozen films with tragic endings.) I was sitting in my car listening to National Public Radio recently the day Gregory Peck died, and I'm not ashamed to admit that I sat and cried hearing the retrospective they offered  mainly because the man who portrayed my own personal cinematic hero was gone, but also because Peck lived his life with the same conviction as his best known role; a fact that makes Atticus Finch all the more tangible. The American Film Institute recently named Atticus Finch the number one hero of all time, a choice I consider both brave and insightful in an age where our heroes generally either wield weapons or have super human physical strength. Atticus Finch fights evil as well, but with his strong moral fiber and his mind. \n\nTo Kill a Mockingbird is generally required reading during the course of one's education. If you have not read it, do so. If you have not seen the film, do so; and share it with others. It is an exceptional film that stands the test of time and will remain an important addition to film history for as long as the genre exists. \n\n--Shelly",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Watch the trailer for To Kill a Mockingbird, starring Oscar winner Gregory Peck. ",
+        "duration": "PT54S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1222941977",
+        "name": "To Kill a Mockingbird: Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODU2MTIxNTE0NF5BMl5BanBnXkFtZTcwMjI2NzM4NA@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODU2MTIxNTE0NF5BMl5BanBnXkFtZTcwMjI2NzM4NA@@._V1_.jpg",
+        "uploadDate": "2011-03-31T13:28:54Z",
+        "url": "https://www.imdb.com/video/vi1222941977/"
+    },
+    "url": "/title/tt0056592/"
+}

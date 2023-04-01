@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Woody Allen",
+            "url": "/name/nm0000095/"
+        },
+        {
+            "@type": "Person",
+            "name": "Goldie Hawn",
+            "url": "/name/nm0000443/"
+        },
+        {
+            "@type": "Person",
+            "name": "Julia Roberts",
+            "url": "/name/nm0000210/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 38001,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0022594/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0044279/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0093403/"
+        },
+        {
+            "@type": "Person",
+            "name": "Woody Allen",
+            "url": "/name/nm0000095/"
+        }
+    ],
+    "datePublished": "1997-01-17",
+    "description": "A New York girl sets her father up with a beautiful woman in a troubled marriage while her stepsister gets engaged.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Woody Allen",
+            "url": "/name/nm0000095/"
+        }
+    ],
+    "duration": "PT1H41M",
+    "genre": [
+        "Comedy",
+        "Musical",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTdmZDM0NWQtNTc1My00MGEyLWEzYzctY2E1NDY1ZjQwNzRhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "lingerie slip,portrait,museum,new york city,halloween costume",
+    "name": "Everyone Says I Love You",
+    "original_info": {
+        "id": "Everyone Says I Love You_1996",
+        "name": "Everyone Says I Love You",
+        "year": "1996"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "chicschiss"
+        },
+        "dateCreated": "2003-10-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0116242/"
+        },
+        "name": "Extremely funny and entertaining",
+        "reviewBody": "This is a wonderfully funny story, affectionately parodying old-time musicals, and evoking a nostalgic regret that they are not being made any more. Some of the vocalizations are amateurish (Alan Alda is an exception) but Dick Hyman's musical arrangements and the performances of the musicians are fine. Alda's rendition of the old Cole Porter song \"Thinking of You\", accompanied by the marvelous Dick Hyman on the piano, is first rate.\n\n Woody Allen provides many hilarious moments. He uses the great violinist Itzhak Perlman as the punch line to a carefully constructed gag. He uses the invasion of privacy of a session of psychoanalysis as an offbeat plot device. He satirizes the romantic young and the do-gooding impulses of the old. He takes us from Manhattan to Venice and Paris. He involves us in old tunes and comically elaborate dance routines. He gives us a good time.\n\nEveryone Says I Love You is one of the very few movies I have ever gone back to the theater to see another time. I even bought the tape.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT1M40S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi250584601",
+        "name": "Everyone Says I Love You",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BY2ViY2U5MzUtNWEyNS00NWI1LTk2MmUtYzk2M2IzNDI1MDZmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BY2ViY2U5MzUtNWEyNS00NWI1LTk2MmUtYzk2M2IzNDI1MDZmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-10-26T03:20:11Z",
+        "url": "https://www.imdb.com/video/vi250584601/"
+    },
+    "url": "/title/tt0116242/"
+}

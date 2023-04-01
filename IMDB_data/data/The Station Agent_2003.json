@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Peter Dinklage",
+            "url": "/name/nm0227759/"
+        },
+        {
+            "@type": "Person",
+            "name": "Patricia Clarkson",
+            "url": "/name/nm0165101/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bobby Cannavale",
+            "url": "/name/nm0134072/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 71563,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0081078/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0050147/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0187251/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tom McCarthy",
+            "url": "/name/nm0565336/"
+        }
+    ],
+    "datePublished": "2003-12-05",
+    "description": "When his only friend dies, a man born with dwarfism moves to rural New Jersey to live a life of solitude, only to meet a chatty hot dog vendor and a woman dealing with her own personal loss.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Tom McCarthy",
+            "url": "/name/nm0565336/"
+        }
+    ],
+    "duration": "PT1H29M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUzNDgyMzg3Ml5BMl5BanBnXkFtZTcwMzIxNTAwMQ@@._V1_.jpg",
+    "keywords": "fitting in,loner,new in town,unlikely friendship,railroad agent",
+    "name": "The Station Agent",
+    "original_info": {
+        "id": "The Station Agent_2003",
+        "name": "The Station Agent",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "lastliberal"
+        },
+        "dateCreated": "2007-08-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0340377/"
+        },
+        "name": "How can you not have a garlic press?",
+        "reviewBody": "The Station Agent is a movie about friendship and disability. I don't mean the obvious, but the the underlying fact that we all have a disability of some shape or fashion and that sometimes draws people together and can make for satisfying friendships when those disabilities are cast aside.\n\nPeter Dinklage is outstanding as Finbar McBride, who inherited a train station and just wanted to hide. Unfortunately, or fortunately, Joe (Bobby Cannavale) is the irritatingly persistent sort that is looking for friendship and cracks the shell that Fin is trying to use to protect himself. They hook up with Olivia (Patricia Clarkson), who is hiding after the death of her son.\n\nThe three become friends and help each other through life's difficulties. Three outstanding performances that will have you assessing your relationships in a new light.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "CT #1 HV",
+        "duration": "PT36S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2731580953",
+        "name": "The Station Agent",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTQyMjQzNWUtZmI3ZC00Yzg2LWE0NDEtNzAyODIwNjhiOWZjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTQyMjQzNWUtZmI3ZC00Yzg2LWE0NDEtNzAyODIwNjhiOWZjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-10-26T03:57:34Z",
+        "url": "https://www.imdb.com/video/vi2731580953/"
+    },
+    "url": "/title/tt0340377/"
+}

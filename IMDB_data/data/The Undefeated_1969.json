@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Wayne",
+            "url": "/name/nm0000078/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rock Hudson",
+            "url": "/name/nm0001369/"
+        },
+        {
+            "@type": "Person",
+            "name": "Antonio Aguilar",
+            "url": "/name/nm0013487/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7136,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "Passed",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Lee Barrett",
+            "url": "/name/nm0057157/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stan Hough",
+            "url": "/name/nm0396430/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lewis B. Patten",
+            "url": "/name/nm0666083/"
+        }
+    ],
+    "datePublished": "1969-11-27",
+    "description": "After the Civil War, ex-Confederate soldiers heading for a new life in Mexico run into ex-Union cavalrymen selling horses to the Mexican government but they must join forces to fight off Mexican bandits and revolutionaries.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Andrew V. McLaglen",
+            "url": "/name/nm0572132/"
+        }
+    ],
+    "duration": "PT1H59M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZDI3YWVjMWItN2M1NS00MzRiLTliODYtNjI2MGIwZjg5ODMwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "american civil war,revolution,mexican revolution,ex soldier,french",
+    "name": "The Undefeated",
+    "original_info": {
+        "id": "The Undefeated_1969",
+        "name": "The Undefeated",
+        "year": "1969"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Laitue_Gonflable"
+        },
+        "dateCreated": "2003-09-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0065150/"
+        },
+        "name": "Good enough to be likeable, likeable enough to be good",
+        "reviewBody": "The Undefeated is a pretty good Western flick. It's light-hearted (for the most part), solid entertainment. John Wayne plays a Yankee soldier who forms an unlikely friendship with a Confederate, played by Rock Hudson, very shortly after the end of the Civil War. The two are both leading men south of the border for various reasons, and as the film progresses, the two help each other, rescue each other, and share a few drinks a number of times.\n\nThat's why it's light-hearted, there's a lot of smiles from both lead actors, all the supporting cast and, I dare say, the majority of the audience. There are very few unlikeable parts to this movie. That's not to say it's outrageously good; some of the supporting cast look amateurish at times, and the music occasionally stifles the action on screen, but aside from that, it's fine. John Wayne and Rock Hudson were two of those rare actor types who can't put in a bad performance if they try, but I don't think I need to tell you that.\n\nIt's a good package. Perfect for evening viewing, I'd recommend, as I just spent a very profitable evening in front of it. Some short but sweet action scenes, some just plain sweet romance subplots and a good and happy ending makes for one satisfied viewer. Far from perfect but great all the same. *** / *****",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT3M3S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4082942233",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDdjNzVmN2UtZWEzYi00OGUyLWJmMTEtNjU4YjcyN2NhZjdjXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDdjNzVmN2UtZWEzYi00OGUyLWJmMTEtNjU4YjcyN2NhZjdjXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-02-10T14:46:14.637Z",
+        "url": "https://www.imdb.com/video/vi4082942233/"
+    },
+    "url": "/title/tt0065150/"
+}

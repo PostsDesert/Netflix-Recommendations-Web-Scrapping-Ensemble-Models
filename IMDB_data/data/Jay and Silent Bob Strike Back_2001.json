@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jason Mewes",
+            "url": "/name/nm0582939/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kevin Smith",
+            "url": "/name/nm0003620/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ben Affleck",
+            "url": "/name/nm0000255/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 157354,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0019626/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0007545/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0022594/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kevin Smith",
+            "url": "/name/nm0003620/"
+        }
+    ],
+    "datePublished": "2001-08-24",
+    "description": "The comic \"Bluntman and Chronic\" is based on real-life stoners Jay and Silent Bob, so when they get no profit from a big-screen adaptation, they set out to wreck the movie.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Kevin Smith",
+            "url": "/name/nm0003620/"
+        }
+    ],
+    "duration": "PT1H44M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BY2EyYWEwZmQtZWU0Yy00M2Y3LThiZTktOTQxZDUxY2ZjOTYwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "silent bob character,female gang,studio lot,timeframe 2000s,jay and silent bob",
+    "name": "Jay and Silent Bob Strike Back",
+    "original_info": {
+        "id": "Jay and Silent Bob Strike Back_2001",
+        "name": "Jay and Silent Bob Strike Back",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Hey_Sweden"
+        },
+        "dateCreated": "2018-10-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0261392/"
+        },
+        "name": "\"That's what the Internet is for! Slandering others anonymously!\"",
+        "reviewBody": "Writer / editor / director / co-star Kevin Smith gave his infamous title slacker characters this big feature vehicle, in which Jay (Jason Mewes) and Silent Bob (Smith himself) learn that a big screen adaptation of \"Bluntman and Chronic\" is happening. Since these comic book characters were based on Jay and Silent Bob, they realize that they SHOULD get a piece of the pie. They then set off on a cross-country odyssey from Jersey to Hollywood, to either get their share of the dough, or else stop the movie from being made.\n\nI will grant that this whole thing does play like one giant in-joke, with an impressive roster of cameo appearances (Carrie Fisher, Mark Hamill, George Carlin, Wes Craven, etc.) as well as encore appearances from characters from previous Smith films. It starts out extremely funny, with some hilarious and on-point dialogue, then starts to go flat as the story takes over and Smith works to get the movie to a substantial feature length. (It might have worked even better as a short.) That said, there are a reasonable amount of laughs to be had, especially as Jay and Silent Bob react to other individuals, or others react to them. Smiths' dialogue is amusingly profane, then begins falling back on the vulgarities a bit much, before calming down again.\n\nThere are some funny vignettes, particularly when Jay and Silent Bob are convinced to liberate an orang-utan (people keep referring to it as a \"monkey\") from an experimental lab, and the cute ape becomes a constant companion. The simian actor playing the role is quite endearing.\n\nSome of the brightest moments involve either the process of acting and filmmaking, or the breaking of the fourth wall. Characters don't necessarily *address* the audience, but they *do* acknowledge them.\n\nMewes is likeable, but Smith is generally funnier in this viewers' opinion due to never speaking unless he absolutely has to. Smiths' pantomime can be a real hoot. Shannon Elizabeth is adorable as the traveller who becomes the apple of Jays' eye. Eliza Dushku, Ali Larter, and Jennifer Schwalbach Smith (the directors' wife) are sexy and sultry fun as Elizabeths' conniving associates.\n\nOverall, \"Jay and Silent Bob Strike Back\" is fun stuff, especially for Smith devotees, finishing with a vibrant musical performance by Morris Day and The Time.\n\nSeven out of 10.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Miramax",
+        "duration": "PT1M38S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2045313305",
+        "name": "Jay and Silent Bob Strike Back",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNmJiNWExM2EtMjFiNS00ZDY2LWE3YjgtN2ViNzAwZjMzMmE4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNmJiNWExM2EtMjFiNS00ZDY2LWE3YjgtN2ViNzAwZjMzMmE4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-06-30T03:21:08Z",
+        "url": "https://www.imdb.com/video/vi2045313305/"
+    },
+    "url": "/title/tt0261392/"
+}

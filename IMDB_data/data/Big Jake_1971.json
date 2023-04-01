@@ -1,0 +1,110 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Wayne",
+            "url": "/name/nm0000078/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Boone",
+            "url": "/name/nm0095524/"
+        },
+        {
+            "@type": "Person",
+            "name": "Maureen O'Hara",
+            "url": "/name/nm0000058/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 13496,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0055958/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0114899/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harry Julian Fink",
+            "url": "/name/nm0277807/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rita M. Fink",
+            "url": "/name/nm0277849/"
+        }
+    ],
+    "datePublished": "1971-05-26",
+    "description": "In 1909, when John Fain's gang kidnaps Jacob McCandles' grandson and holds him for ransom, Big Jake sets out to rescue the boy.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "George Sherman",
+            "url": "/name/nm0792450/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Wayne",
+            "url": "/name/nm0000078/"
+        }
+    ],
+    "duration": "PT1H50M",
+    "genre": [
+        "Western"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzlhYjc5N2QtNzFmYy00YjFmLTk5ZDUtYmNhYzY2ZjRkZTMzXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "texas ranger,rifle,gunfighter,native american,year 1909",
+    "name": "Big Jake",
+    "original_info": {
+        "id": "Big Jake_1971",
+        "name": "Big Jake",
+        "year": "1971"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bkoganbing"
+        },
+        "dateCreated": "2006-01-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0066831/"
+        },
+        "name": "\"That'll Be the Day\"",
+        "reviewBody": "Though Big Jake doesn't go down with the greatest of John Wayne's films I put it in the class of The Comancheros which I also found entertaining. This film is the right mixture of chemistry and action. No doubt helped by the fact that John Wayne was surrounded with family literally.\n\nJohn Wayne is the estranged patriarch of a family who owns a big cattle spread just as he did in McLintock. A gang of kidnappers came on the place while most everyone was on roundup and killed several people and kidnapped Wayne's grandson. Grandmother Maureen O'Hara sends for her estranged husband to deal with the kidnappers as he sees fit. Being this is a John Wayne movie, you already know how that is.\n\nSon Michael Wayne is the producer and sons Patrick and Ethan play Wayne's son and grandson. This is a bit of a change for Patrick Wayne. From back in the days of The Searchers, Pat Wayne always played callow youths in his father's and in other films. Here he's a grown man and quite bitter at his father. The conflict between them crackles on the screen. Christopher Mitchum, the son of another Hollywood icon, plays another Wayne offspring as does Bobby Vinton.\n\nThe action flows pretty good here and the tension does not let up for a moment. There are some good comic moments, but they are well integrated into the plot of the story.\n\nOf the Duke's films post his Oscar from True Grit, Big Jake is one of his best and a personal favorite of mine.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT3M35S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4293902617",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjE2OTgxZWMtNjQyMC00NDA1LTg4NDAtZGM5MzJmNWFjMWU2XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjE2OTgxZWMtNjQyMC00NDA1LTg4NDAtZGM5MzJmNWFjMWU2XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-10-29T23:20:45.849Z",
+        "url": "https://www.imdb.com/video/vi4293902617/"
+    },
+    "url": "/title/tt0066831/"
+}

@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bob Hope",
+            "url": "/name/nm0001362/"
+        },
+        {
+            "@type": "Person",
+            "name": "Virginia Mayo",
+            "url": "/name/nm0562920/"
+        },
+        {
+            "@type": "Person",
+            "name": "Walter Brennan",
+            "url": "/name/nm0000974/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2270,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0016710/"
+        },
+        {
+            "@type": "Person",
+            "name": "Don Hartman",
+            "url": "/name/nm0366942/"
+        },
+        {
+            "@type": "Person",
+            "name": "Melville Shavelson",
+            "url": "/name/nm0789520/"
+        },
+        {
+            "@type": "Person",
+            "name": "Everett Freeman",
+            "url": "/name/nm0293388/"
+        }
+    ],
+    "description": "A cowardly actor and a runaway princess are voyaging on a ship that is captured by a notorious pirate who recently buried his treasure on a secretly mapped island.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David Butler",
+            "url": "/name/nm0124877/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sidney Lanfield",
+            "url": "/name/nm0485647/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Adventure",
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYmMzNTA1NTctOTdkYy00ZDI4LThjMDEtNGZmMzg3ZDM4MTNhXkEyXkFqcGdeQXVyNTc0MTc5NQ@@._V1_.jpg",
+    "keywords": "caribbean sea,caribbean island,hook for a hand,film starts with text,treasure map",
+    "name": "The Princess and the Pirate",
+    "original_info": {
+        "id": "The Princess and the Pirate_1944",
+        "name": "The Princess and the Pirate",
+        "year": "1944"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Coxer99"
+        },
+        "dateCreated": "1999-05-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0037193/"
+        },
+        "name": "The Princess and the Pirate",
+        "reviewBody": "Loads of wacky fun in this costume comedy that features Hope and Mayo who try to elude \"The Hook,\" played with devilish charm by Victor McLaglen. Great gags, rousing excitement and even a cameo by a crooner named Crosby."
+    },
+    "url": "/title/tt0037193/"
+}

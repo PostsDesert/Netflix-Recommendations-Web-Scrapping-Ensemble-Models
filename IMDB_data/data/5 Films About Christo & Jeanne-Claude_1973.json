@@ -1,0 +1,78 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Chloe Rose",
+            "url": "/name/nm0741302/"
+        },
+        {
+            "@type": "Person",
+            "name": "Aislinn Paul",
+            "url": "/name/nm1327832/"
+        },
+        {
+            "@type": "Person",
+            "name": "Supinder Wraich",
+            "url": "/name/nm3621766/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 165,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0451311/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Huang",
+            "url": "/name/nm2368613/"
+        }
+    ],
+    "datePublished": "2017-01-20",
+    "description": "A look at the dumber side of technology.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Peter Huang",
+            "url": "/name/nm2368613/"
+        }
+    ],
+    "duration": "PT5M",
+    "genre": [
+        "Short",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTYxZjE4ZDAtZmU3Zi00ZGRkLTlhZjQtNzlkNGI0NDQxN2NkL2ltYWdlXkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_.jpg",
+    "keywords": "anthology,technology,smartphone,cell phone",
+    "name": "5 Films About Technology",
+    "original_info": {
+        "id": "5 Films About Christo & Jeanne-Claude_1973",
+        "name": "5 Films About Christo & Jeanne-Claude",
+        "year": "1973"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Kirpianuscus"
+        },
+        "dateCreated": "2021-06-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt5561056/"
+        },
+        "name": "so familiar situations...",
+        "reviewBody": "The fair term to define it is ...creepy. Because it gives a too realistic perspective about ordinary, every day habits . So, it is just powerful , because the absurde situations, the bizarre relations, the addiction by technology are so familiar than the smile is not the fair reaction. A short film reminding the high need to live out of technology. Smart, ironic and, in some measure, high cruel."
+    },
+    "url": "/title/tt5561056/"
+}

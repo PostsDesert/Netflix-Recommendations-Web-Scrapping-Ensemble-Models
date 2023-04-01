@@ -1,0 +1,94 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Pierre Batcheff",
+            "url": "/name/nm0060715/"
+        },
+        {
+            "@type": "Person",
+            "name": "Simone Mareuil",
+            "url": "/name/nm0546540/"
+        },
+        {
+            "@type": "Person",
+            "name": "Luis Buñuel",
+            "url": "/name/nm0000320/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 51420,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Person",
+            "name": "Salvador Dalí",
+            "url": "/name/nm0198557/"
+        },
+        {
+            "@type": "Person",
+            "name": "Luis Buñuel",
+            "url": "/name/nm0000320/"
+        }
+    ],
+    "datePublished": "1929-06-06",
+    "description": "Luis Buñuel and Salvador Dalí present 16 minutes of bizarre, surreal imagery.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Luis Buñuel",
+            "url": "/name/nm0000320/"
+        }
+    ],
+    "duration": "PT16M",
+    "genre": [
+        "Short",
+        "Fantasy",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjZlY2RjM2ItZGEwOC00ODQwLWFhZDYtMjE3ODMyYWNiOWNlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+    "keywords": "surrealism,donkey,breast fondling,female nudity,eye injury",
+    "name": "Un chien andalou",
+    "original_info": {
+        "id": "Un Chien Andalou_1929",
+        "name": "Un Chien Andalou",
+        "year": "1929"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Wexler"
+        },
+        "dateCreated": "1999-01-22",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0020530/"
+        },
+        "name": "Holy Eyeball Slicing, Batman!",
+        "reviewBody": "\"Sitting comfortably in a dark room, dazzled by the light and the movement which exert a quasi-hypnotic power... fascinated by the interest of human faces and the rapid changes of place, [a] cultivated individual placidly accepts the most appalling themes...and all this naturally sanctioned by habitual morality, government, and international censorship, religion, dominated by good taste and enlivened by white humor and other prosaic imperatives of reality.\" - Luis Bunuel\n\nUn Chien Andalou exists to shock the viewer of this stupor that Bunuel elucidates above. Freudian dream imagery, amorphous space/time, and absurdist humor combine in this drawn out mating ritual between a confused cyclist and the female he pursues. May be the most inventive fifteen minutes of film anywhere."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Microcinema",
+        "duration": "PT42S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2380267801",
+        "name": "Un Chien Andalou",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNGU5MmM0ZWYtZTc1My00YzJjLWFkNjMtNzZkN2E5ZGIzOGRkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNGU5MmM0ZWYtZTc1My00YzJjLWFkNjMtNzZkN2E5ZGIzOGRkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:34:59Z",
+        "url": "https://www.imdb.com/video/vi2380267801/"
+    },
+    "url": "/title/tt0020530/"
+}

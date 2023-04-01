@@ -1,0 +1,32 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dave Thompson",
+            "url": "/name/nm0860027/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tim Whitnall",
+            "url": "/name/nm0926253/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 31,
+        "ratingValue": 3.8,
+        "worstRating": 1
+    },
+    "duration": "PT1H",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc4MjEwMzYwN15BMl5BanBnXkFtZTcwOTAwNTgxMQ@@._V1_.jpg",
+    "name": "Teletubbies: The Magic Pumpkin",
+    "original_info": {
+        "id": "Teletubbies: The Magic Pumpkin and Other Stories_2000",
+        "name": "Teletubbies: The Magic Pumpkin and Other Stories",
+        "year": "2000"
+    },
+    "url": "/title/tt0250039/"
+}

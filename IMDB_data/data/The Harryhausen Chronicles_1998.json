@@ -1,0 +1,86 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ray Harryhausen",
+            "url": "/name/nm0366063/"
+        },
+        {
+            "@type": "Person",
+            "name": "Leonard Nimoy",
+            "url": "/name/nm0000559/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ray Bradbury",
+            "url": "/name/nm0001969/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 322,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0038016/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0122248/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Schickel",
+            "url": "/name/nm0771349/"
+        }
+    ],
+    "datePublished": "1998-01-27",
+    "description": "Narrated by actor Leonard Nimoy and featuring appearances by George Lucas and Ray Bradbury, this film documents Ray Harryhausen's remarkable visual effects work, including his hand in Mighty Joe Young, 20 Million Miles to Earth an...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Richard Schickel",
+            "url": "/name/nm0771349/"
+        }
+    ],
+    "duration": "PT1H",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMwMzIyMTI1NF5BMl5BanBnXkFtZTcwMzQwNjMyMQ@@._V1_.jpg",
+    "keywords": "special effects,filmmaking,character name in title",
+    "name": "The Harryhausen Chronicles",
+    "original_info": {
+        "id": "The Harryhausen Chronicles_1998",
+        "name": "The Harryhausen Chronicles",
+        "year": "1998"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "planktonrules"
+        },
+        "dateCreated": "2010-07-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0325525/"
+        },
+        "name": "Even if you don't like the work of Ray Harryhausen or have never seen it, this documentary will keep your interest.",
+        "reviewBody": "This almost one hour documentary was included on the DVD for \"Earth Vs. the Flying Saucers\"--a great 1950s sci-fi film. The reason why it was included as an extra is that Harryhousen did the special effects for \"Earth\" and so it was logical to include the documentary as well.\n\nThis documentary was narrated by Leonard Nimoy and it was nice because it was NOT a superficial overview of Harryhousen's work. Instead, it started from his childhood and showed the progression of his talents as well as clips from his films. In addition to Nimoy, there are many interviews with Ray Bradbury as well as several other fans and friends. About the only thing I didn't like about this well-written and excellently constructed film were the quality of many of the film clips shown in the documentary. Many are very washed out or very green/red and SHOULD have been cleaned up first. Still, as this is the only serious negative and it's the best analysis of his work that I've seen, it's well worth seeing and will keep you riveted.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0325525/"
+}

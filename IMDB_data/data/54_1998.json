@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ryan Phillippe",
+            "url": "/name/nm0000202/"
+        },
+        {
+            "@type": "Person",
+            "name": "Salma Hayek",
+            "url": "/name/nm0000161/"
+        },
+        {
+            "@type": "Person",
+            "name": "Neve Campbell",
+            "url": "/name/nm0000117/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 33741,
+        "ratingValue": 5.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0057794/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0159642/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0022594/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Christopher",
+            "url": "/name/nm0160602/"
+        }
+    ],
+    "datePublished": "1998-08-28",
+    "description": "The famous 1970s New York City nightclub seen and told through the eyes of a young employee.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mark Christopher",
+            "url": "/name/nm0160602/"
+        }
+    ],
+    "duration": "PT1H33M",
+    "genre": [
+        "Drama",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTIzNzIxMjEtZDNiZS00Y2E1LTkwOTItZGJjOTMwYzU4YzVmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "keywords": "disco,new york city,studio 54 manhattan new york city,pantyhose,shiny pantyhose",
+    "name": "54",
+    "original_info": {
+        "id": "54_1998",
+        "name": "54",
+        "year": "1998"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "iliawarlock"
+        },
+        "dateCreated": "2001-01-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120577/"
+        },
+        "name": "Surprisingly well done.",
+        "reviewBody": "One does not usually expect a popular movie to be much good, namely because it caters to the tastes of a crowd, which are notoriously un-demanding. Rarely, however, one finds a film which delivers on its promises. This, fortunately, was one of these films. The acting was the high point of the film. Mike Myers wore his role like a skin, naturally and easily. Ryan Phillippe proved that despite occasional bursts of negative popular opinion he is more than a simple dime-a-dozen pretty boy, and possesses both skill and talent, both of which are put to good use. (And he is good looking, which despite all else, never hurts. But, let's not belabor the obvious). The filming was excellently done, with a good eye towards shock and an occasional shot of strangely unexpected beauty. The only real objection one could put to this film is that it was far too short. Several sub-plots came up which were either abandoned or underdeveloped, and the ending, while highly effective, had a slight air of \"deus ex machina\" about it. On the whole, though, a talented, unusually intelligent film with excellent actors and direction. Well worth watching."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for 54: The Director's Cut",
+        "duration": "PT1M30S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2619977753",
+        "name": "54: The Director's Cut",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMWIyYzk0MjctMDk3Yy00NWFjLTkxM2QtNjAxMzhjN2Q4OGIwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMWIyYzk0MjctMDk3Yy00NWFjLTkxM2QtNjAxMzhjN2Q4OGIwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2015-06-11T04:01:47Z",
+        "url": "https://www.imdb.com/video/vi2619977753/"
+    },
+    "url": "/title/tt0120577/"
+}

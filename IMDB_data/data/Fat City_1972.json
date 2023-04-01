@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Stacy Keach",
+            "url": "/name/nm0005078/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeff Bridges",
+            "url": "/name/nm0000313/"
+        },
+        {
+            "@type": "Person",
+            "name": "Susan Tyrrell",
+            "url": "/name/nm0879073/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9723,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0047780/"
+        },
+        {
+            "@type": "Person",
+            "name": "Leonard Gardner",
+            "url": "/name/nm0307024/"
+        }
+    ],
+    "datePublished": "1972-07-26",
+    "description": "Two men, working as professional boxers, come to blows when their careers each begin to take different directions.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Huston",
+            "url": "/name/nm0001379/"
+        }
+    ],
+    "duration": "PT1H36M",
+    "genre": [
+        "Drama",
+        "Sport"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNGU0ZDRlYjYtMjNhMS00ZjQzLTk4ZDMtZjM5OTRlZmQ0OGQyXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "boxer,white briefs,man wears briefs,screenplay adapted by author,skid row",
+    "name": "Fat City",
+    "original_info": {
+        "id": "Fat City_1972",
+        "name": "Fat City",
+        "year": "1972"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Pedro_H"
+        },
+        "dateCreated": "2005-11-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0068575/"
+        },
+        "name": "Requiem for losers and daydreamer believers.",
+        "reviewBody": "The down-to-earth tale of two small hall boxers -- at the opposite ends of their careers -- and the blows they take in and out of the ring.\n\nThis is one of the best American movies ever about normal working class lives where failure is common and the only thing you can do is pretend otherwise or drug it all away to nothing. I know why so many people prefer Rocky to this -- this is too real for them. Indeed it is almost too real for me! \n\nStacey Keach was given the role of lifetime in this. He really does look like a failing boxer turned to flab (although maybe that is nature -- not punches!) trying to find a life (of sorts) beyond the ring. Bridges really does look and sound like the daydreamer believer that makes the boxing game go round. Johnny No Talent who thinks he is Mike Tyson when his face finally clears up.\n\nThey don't make films like this anymore. The Europeans can, although they are rarely shown and end up too self indulgent. Everyone here gets what they deserve, which is sadly, very little. That is what sport is about in real life -- lots of people failing so that are very small few can succeed. The best the majority can hope for is some exercise and comradeship.\n\n(This contrasts with most sports movies -- which are about glory. Or at least glory through struggle.) \n\nThis is the best late John Huston film and every single frame is a frame of reality and believability. Maybe that is what leads so many people to say \"so what\", the world outside their window has many of the same elements and there are many times you feel you are -- indeed -- looking at real life.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Two men, working as professional boxers, come to blows when their careers each begin to take opposite momentum.",
+        "duration": "PT2M34S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi310428441",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTE2N2ExYzQtYmI5YS00N2E3LThiZDAtNzUxMDc5NmFlMDAwXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTE2N2ExYzQtYmI5YS00N2E3LThiZDAtNzUxMDc5NmFlMDAwXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-10-15T00:24:17.045Z",
+        "url": "https://www.imdb.com/video/vi310428441/"
+    },
+    "url": "/title/tt0068575/"
+}

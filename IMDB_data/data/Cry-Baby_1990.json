@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Johnny Depp",
+            "url": "/name/nm0000136/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ricki Lake",
+            "url": "/name/nm0001442/"
+        },
+        {
+            "@type": "Person",
+            "name": "Amy Locane",
+            "url": "/name/nm0000504/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 62081,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0003687/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Waters",
+            "url": "/name/nm0000691/"
+        }
+    ],
+    "datePublished": "1990-04-06",
+    "description": "In 1950s Baltimore, a bad boy with a heart of gold wins the love of a good girl, whose boyfriend sets out for revenge.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Waters",
+            "url": "/name/nm0000691/"
+        }
+    ],
+    "duration": "PT1H25M",
+    "genre": [
+        "Comedy",
+        "Musical"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOGY3MzAyZDQtYTYyMS00ODI1LWEwYTEtMjU5MGFjZTYxZmQ4XkEyXkFqcGdeQXVyMjA0MzYwMDY@._V1_.jpg",
+    "keywords": "1950s,forbidden love,dysfunctional family,greaser,teen movie",
+    "name": "Cry-Baby",
+    "original_info": {
+        "id": "Cry-Baby_1990",
+        "name": "Cry-Baby",
+        "year": "1990"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Idolprincess"
+        },
+        "dateCreated": "2004-06-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0099329/"
+        },
+        "name": "Don't expect Grease.",
+        "reviewBody": "If you're a fan of the rockabilly fashion of the 50's and of John Waters, you will like this movie. Personally, I was a big fan of it. It's one of my favorite movies.\n\nThis movie involves two groups: the \"squares\" and the \"greasers\". While most teen movies set in the 50's involve typical preppy high school students, this one was on the side of the greasers. This is what I found fun and interesting. The world in which the greasers live is fun and colorful. The characters are all social outcasts or \"delinquents\" as they call them in the movie. This is what is so particular. Maybe this isn't what life in the 50's was really about, but it gives the illusions that you're seeing an aspect of life during that time that you normally don't see. \n\nIt was a pleasant and fun to watch movie. It was also very cartoony, which is something I like in a movie very much. The imagery is very pleasant. However, it's not a movie for everyone. It can easily be seen as cheesy. And if you're expecting a typical 50's musical like Grease, there's a good chance you won't like this one, since it makes you root so much for the social outcasts. This movie doesn't show the typical \"clean\" 50's that people enjoy so much. \n\nThis movie also makes fun of the typical \"bad boy\" image of the 50's. But doesn't it also poke fun at the image that Johnny Depp had at the time? In several interviews done after the release of this movie, Depp mentioned that he enjoyed playing that role because it was a satire of the image he had and that he also disliked very much. \n\nI think this is the type of movie that can easily become someone's favorite but that can be hated by a lot of viewers. Maybe the dancing and the singing isn't as good as in Grease. But you have to remember that this is a light and fun movie that doesn't take itself seriously. It can also be seen as a satire of typical musicals. I would definitely recommend it.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0099329/"
+}

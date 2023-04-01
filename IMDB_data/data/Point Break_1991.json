@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Patrick Swayze",
+            "url": "/name/nm0000664/"
+        },
+        {
+            "@type": "Person",
+            "name": "Keanu Reeves",
+            "url": "/name/nm0000206/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gary Busey",
+            "url": "/name/nm0000997/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 189105,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0080130/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0002923/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rick King",
+            "url": "/name/nm0004488/"
+        },
+        {
+            "@type": "Person",
+            "name": "W. Peter Iliff",
+            "url": "/name/nm0407717/"
+        }
+    ],
+    "datePublished": "1991-07-12",
+    "description": "An F.B.I. Agent goes undercover to catch a gang of surfers who may be bank robbers.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Kathryn Bigelow",
+            "url": "/name/nm0000941/"
+        }
+    ],
+    "duration": "PT2H2M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNWVjZWFmYjItZGJlOC00YTllLWE4YjctMWY2ZTg5ZjE0MDIyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "keywords": "surfer,bank robbery,title directed by female,male bonding,robbery",
+    "name": "Point Break",
+    "original_info": {
+        "id": "Point Break_1991",
+        "name": "Point Break",
+        "year": "1991"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Mikew3001"
+        },
+        "dateCreated": "2003-01-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0102685/"
+        },
+        "name": "Great \"new age\" action thriller",
+        "reviewBody": "Katheryn Bigelow's 1991 action thriller \"Point Break\" is still a ground-breaking film of the early nineties. It tells the story of the cop John Utah (Keanu Reaves) hunting a bunch of bank robbers camouflaged with masks of the former U.S. presidents. His investigations leads to a group of surfers and extreme sports worshippers, and the cop becomes fascinated by the free-style philosophies and adrenaline rushes of the gang around the charismatic leader Bodhi (Patrick Swayze). Their close friendship changes to a hard-fought rivalry at the end when cop and gangsters face point blank.\n\nBigelow uses typically American surf beach settings for this unusual and very stylish action thriller with great stunts like parachuting scenes, bank robberies, a car chase, police raids, martial arts, breath-taking chases and brilliantly photographed surf sequences. Watch out for the Red Hot Chillie Peppers as a gang of brutal surf nazis beating up Keanu Reeves and being captured by him during a hard-fought police raid.\n\nBut \"Point Break\" is even more than that - it also shows the lifestyle of the nineties in many ways. Bodie and his gang are a group of New Age-like grunge guys reaching out for the most extreme adrenaline experiences. They stand for the new style of extreme/fun sport worshippers, ravers and new spiritualists of the post-yuppie era in the nineties who don't care about wealth and status symbols but for fun, action, breaking the limits and finding the sum of all senses. \"Point Break\" is not only a well-done example of modern action entertainment without computer-generated special effects but also a very philosophical and spiritual study of society in the nineties.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from 20th Century Fox",
+        "duration": "PT1M12S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3766485273",
+        "name": "Point Break (1991)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTE1NmE3NjYtZWIzNi00OWI3LTk3OGMtODAzNTFjYWU1ODVkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTE1NmE3NjYtZWIzNi00OWI3LTk3OGMtODAzNTFjYWU1ODVkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:41:50Z",
+        "url": "https://www.imdb.com/video/vi3766485273/"
+    },
+    "url": "/title/tt0102685/"
+}

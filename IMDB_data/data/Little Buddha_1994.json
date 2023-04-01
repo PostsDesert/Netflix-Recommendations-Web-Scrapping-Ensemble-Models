@@ -1,0 +1,115 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Keanu Reeves",
+            "url": "/name/nm0000206/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bridget Fonda",
+            "url": "/name/nm0000403/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ruocheng Ying",
+            "url": "/name/nm0948078/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 17298,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0008195/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0164812/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0029168/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bernardo Bertolucci",
+            "url": "/name/nm0000934/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rudy Wurlitzer",
+            "url": "/name/nm0943382/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Peploe",
+            "url": "/name/nm0672546/"
+        }
+    ],
+    "datePublished": "1994-05-25",
+    "description": "After the death of Lama Dorje, Tibetan Buddhist monks find three children - one American and two Nepalese - who may be the rebirth of their great teacher.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bernardo Bertolucci",
+            "url": "/name/nm0000934/"
+        }
+    ],
+    "duration": "PT2H3M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjU2MWM4NjctYTRlYi00MzBiLWI1NmItMmE4ODdlOGZmMTcyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "buddhist,seattle washington,buddhism,buddha,fighting shirtless",
+    "name": "Little Buddha",
+    "original_info": {
+        "id": "Little Buddha_1994",
+        "name": "Little Buddha",
+        "year": "1994"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "becarooh"
+        },
+        "dateCreated": "2000-02-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0107426/"
+        },
+        "name": "worth watching...",
+        "reviewBody": "This was a very enjoyable movie. If for nothing else, it is worth watching for the beautiful scenes. I was fascinated watching Keanu as Siddhartha. He really seemed to lose himself in the role. I would really recommend this movie when you are in the mood for something gentle, beautiful to look at and at the same time, providing an interesting insight into the Buddhist world.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT1M57S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2700058137",
+        "name": "Little Buddha",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjEyNzNmZjYtZjU4Ni00MGM1LTk4MTMtMTJmY2U1NGQ3NDkxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjEyNzNmZjYtZjU4Ni00MGM1LTk4MTMtMTJmY2U1NGQ3NDkxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-10-26T03:34:10Z",
+        "url": "https://www.imdb.com/video/vi2700058137/"
+    },
+    "url": "/title/tt0107426/"
+}

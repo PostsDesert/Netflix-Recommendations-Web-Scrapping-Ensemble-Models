@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Robert De Niro",
+            "url": "/name/nm0000134/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chazz Palminteri",
+            "url": "/name/nm0001590/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lillo Brancato",
+            "url": "/name/nm0000969/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 146827,
+        "ratingValue": 7.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0038243/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0278361/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0063961/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chazz Palminteri",
+            "url": "/name/nm0001590/"
+        }
+    ],
+    "datePublished": "1993-10-01",
+    "description": "A father becomes worried when a local gangster befriends his son in the Bronx in the 1960s.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert De Niro",
+            "url": "/name/nm0000134/"
+        }
+    ],
+    "duration": "PT2H1M",
+    "genre": [
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTY5OGI3ZWQtNzk3ZS00YTYxLWJhZWEtMjc5YTJkZmMzOWJhXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "mentor,coming of age,father son relationship,year 1960,father son conflict",
+    "name": "A Bronx Tale",
+    "original_info": {
+        "id": "A Bronx Tale_1993",
+        "name": "A Bronx Tale",
+        "year": "1993"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "StarCastle99"
+        },
+        "dateCreated": "2002-07-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0106489/"
+        },
+        "name": "De Niro - I Loved Your Film",
+        "reviewBody": "Like Marty this is a masterpiece, done on less than a stellar budget. The acting is miraculous. Chazz is a genius who can write for the theater, the film and play the starring role. He is the modern personification of charisma. De Niro plays one of his most engaging and lovable roles. This, my friends, is movie making. No blue screens, no CGI, nothing but a wonderful story, brought to life, as movies were meant to be. Oh yes, the ending is perfect. Being a fellow filmmaker, I can't help but be a little envious at De Niro's first directing job. Directing is hard work, acting is hard work, to act in your first directing effort is...incredible. Well, I shouldn't be surprised. Look at the kind of actor he is. Great film, don't miss it, but please don't wait for the special effects. This is one film that doesn't need them to captivate you. 10/10"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A father becomes worried when a local gangster befriends his son in the Bronx in the 1960s.",
+        "duration": "PT2M7S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2536620825",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDlkNjNlODgtOGZhNS00OTBkLTlkOWQtZjdhZjgzOTJhZjBlXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDlkNjNlODgtOGZhNS00OTBkLTlkOWQtZjdhZjgzOTJhZjBlXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+        "uploadDate": "2021-12-24T18:01:10.763Z",
+        "url": "https://www.imdb.com/video/vi2536620825/"
+    },
+    "url": "/title/tt0106489/"
+}

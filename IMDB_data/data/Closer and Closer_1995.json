@@ -1,0 +1,91 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kim Delaney",
+            "url": "/name/nm0001126/"
+        },
+        {
+            "@type": "Person",
+            "name": "Scott Kraft",
+            "url": "/name/nm0005605/"
+        },
+        {
+            "@type": "Person",
+            "name": "Henry Alessandroni",
+            "url": "/name/nm0018120/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 295,
+        "ratingValue": 5.3,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0071237/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0046031/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0029799/"
+        },
+        {
+            "@type": "Person",
+            "name": "Matt Dorff",
+            "url": "/name/nm0233548/"
+        }
+    ],
+    "datePublished": "1996-02-18",
+    "description": "Kim Delaney stars as a novelist who finds herself the target of a serial killer whose murderous acts were inspired by her novels.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Fred Gerber",
+            "url": "/name/nm0314104/"
+        }
+    ],
+    "duration": "PT1H36M",
+    "genre": [
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU3MjM2MjY2NV5BMl5BanBnXkFtZTcwMTU3NDUyMQ@@._V1_.jpg",
+    "keywords": "weightlifting,paraplegic,computer,pc,caucasian",
+    "name": "Closer and Closer",
+    "original_info": {
+        "id": "Closer and Closer_1995",
+        "name": "Closer and Closer",
+        "year": "1995"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bmovielover"
+        },
+        "dateCreated": "2002-01-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0112692/"
+        },
+        "name": "Pretty decent",
+        "reviewBody": "First of all, let me say that I would watch Kim Delaney even if she was in a polish art movie shot in shades of brown!\n\nI think she did a pretty good job in this one, portraying an author bound to a wheelchair. She seemed very natural in her movements, so perhaps she had been practicing? :)\n\nThere is genuine suspense at the end, and when we track the killer across the country.\n\nAll in all, a decent serial killer thriller",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0112692/"
+}

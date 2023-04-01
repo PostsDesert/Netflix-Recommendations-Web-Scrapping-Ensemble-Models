@@ -1,0 +1,89 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Anthony Asbury",
+            "url": "/name/nm0038424/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephanie D'Abruzzo",
+            "url": "/name/nm0194829/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Kennedy",
+            "url": "/name/nm0448114/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 186,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "TV-Y",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0194770/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0055122/"
+        }
+    ],
+    "datePublished": "1996-10-13",
+    "description": "An extravagant universe containing a variety of notable characters featured in classic stories by Dr. Seuss in the form of puppetry.",
+    "genre": [
+        "Animation",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZWQ3MTQ0MTctMTkzMi00OTczLWEwMTgtYjRlMmY1ZTgyNTVhXkEyXkFqcGdeQXVyODk1MjAxNzQ@._V1_.jpg",
+    "keywords": "puppet,the cat in the hat character,the grinch character,horton the elephant character,sam i am character",
+    "name": "The Wubbulous World of Dr. Seuss",
+    "original_info": {
+        "id": "The Best of Dr. Seuss_1989",
+        "name": "The Best of Dr. Seuss",
+        "year": "1989"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "thatgirlmyra-9946"
+        },
+        "dateCreated": "2019-11-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0166937/"
+        },
+        "name": "Fond Memories",
+        "reviewBody": "I have such fond memories of this show! While I don't remember much about it, I do know I searched for this for awhile, which should be enough to tell you how endearing this show was. If you can find a copy, I'd recommend showing it to your younger children for sure!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Tristar",
+        "duration": "PT1M14S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi217907481",
+        "name": "The Wubbulous World of Dr. Seuss Vol. 5",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzk5MDRjNWItNmU3Ny00YzdjLWI3NDAtY2EzMmUwNDA3MTgxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzk5MDRjNWItNmU3Ny00YzdjLWI3NDAtY2EzMmUwNDA3MTgxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:22:49Z",
+        "url": "https://www.imdb.com/video/vi217907481/"
+    },
+    "url": "/title/tt0166937/"
+}

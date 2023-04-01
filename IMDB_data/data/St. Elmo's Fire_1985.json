@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Demi Moore",
+            "url": "/name/nm0000193/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rob Lowe",
+            "url": "/name/nm0000507/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrew McCarthy",
+            "url": "/name/nm0000530/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 43823,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0082000/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joel Schumacher",
+            "url": "/name/nm0001708/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carl Kurlander",
+            "url": "/name/nm0475802/"
+        }
+    ],
+    "datePublished": "1985-06-28",
+    "description": "A group of friends, just out of college, struggle with adulthood.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Joel Schumacher",
+            "url": "/name/nm0001708/"
+        }
+    ],
+    "duration": "PT1H50M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTFlOTYyZjktZWRlZi00MjJmLTkzOTItNDg3NDVhNWE4ZjBiXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "lingerie,pantyhose,black pantyhose,female stockinged legs,democratic party",
+    "name": "St. Elmo's Fire",
+    "original_info": {
+        "id": "St. Elmo's Fire_1985",
+        "name": "St. Elmo's Fire",
+        "year": "1985"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Mr_Censored"
+        },
+        "dateCreated": "2009-07-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0090060/"
+        },
+        "name": "John Hughes for the big kids.",
+        "reviewBody": "Seven friends -- fresh out of college and in their mid-20's -- find themselves struggling with real-life issues such as breaking away from an over-bearing family, getting married, raising children, finding a career, finding love and creating an identity, all while trying to maintain a tight-knit friendship with one another as they booze it up at \"St. Elmo's,\" a bar that perhaps served as the grandfather to the coffee shop in \"Friends\" or even the pub in \"How I Met Your Mother.\" They laugh, they fight, they learn, and by the end of the flick, things have changed, but their \"fire\" has remained.\n\nYou might recognize three stars of \"The Breakfast Club\" -- Judd Nelson, Ally Sheedy and Emilio Estevez -- who have magically turned into college grads, and alongside Andrew McCarthy, Demi Moore, Rob Lowe and Mare Winningham, round out the solid cast of \"St. Elmo's Fire.\" A good decade before bringing a perfectly good \"Batman\" franchise to its knees, writer/director Joel Schumacher did what few films could do with the \"Brat Pack\" in tow. That is, he created a film that dared to be over-dramatic and dared to touch upon the ugliness of growing up long after the security of school and family has faded. While some characters and their stories are questionable (Emilio Estevez, I'm looking at you), the little stories that make up their day-to-day life are, for the most part, stuff that everyone goes through, and none of the actors seem ashamed to look ridiculous in portraying the selfish, the immature and the inexperienced. For the most part, the characters feel real, and that's why the film works as well as it does.\n\nPerhaps it's a little too over-dramatic and self-indulgent for its own good, but maybe that's the point. All seven characters are colorful, albeit, horribly flawed human beings, and it shows in the most awkward and endearing moments of the film. You may not understand their decisions or why they choose to bring so much drama down on themselves, but you'll at least relate to it in one way or another. How you interpret and appreciate the film rests both in your position in life and whether or not you can recognize the biggest flaws in yourself. It's a film that will speak volumes to anyone fresh out of college, in their 20's or with the hindsight to realize how silly and self-made much of the drama in their life has been.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for St. Elmo's Fire",
+        "duration": "PT1M31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3700725785",
+        "name": "St. Elmo's Fire",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOWU1NmJjOGMtN2Q2Mi00NzgyLWExZTUtMTljMjJlNDRkZTk4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOWU1NmJjOGMtN2Q2Mi00NzgyLWExZTUtMTljMjJlNDRkZTk4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-12-10T06:24:26Z",
+        "url": "https://www.imdb.com/video/vi3700725785/"
+    },
+    "url": "/title/tt0090060/"
+}

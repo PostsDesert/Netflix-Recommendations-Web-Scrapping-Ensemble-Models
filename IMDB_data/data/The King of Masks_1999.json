@@ -1,0 +1,117 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Elijah Wood",
+            "url": "/name/nm0000704/"
+        },
+        {
+            "@type": "Person",
+            "name": "Viggo Mortensen",
+            "url": "/name/nm0001557/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ian McKellen",
+            "url": "/name/nm0005212/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1872360,
+        "ratingValue": 9,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0046718/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0046203/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0061706/"
+        },
+        {
+            "@type": "Person",
+            "name": "J.R.R. Tolkien",
+            "url": "/name/nm0866058/"
+        },
+        {
+            "@type": "Person",
+            "name": "Fran Walsh",
+            "url": "/name/nm0909638/"
+        },
+        {
+            "@type": "Person",
+            "name": "Philippa Boyens",
+            "url": "/name/nm0101991/"
+        }
+    ],
+    "datePublished": "2003-12-17",
+    "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Peter Jackson",
+            "url": "/name/nm0001392/"
+        }
+    ],
+    "duration": "PT3H21M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "keywords": "journey,orc,middle earth,hobbit,ring",
+    "name": "The Lord of the Rings: The Return of the King",
+    "original_info": {
+        "id": "The King of Masks_1999",
+        "name": "The King of Masks",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "venividiamavi-v"
+        },
+        "dateCreated": "2019-08-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0167260/"
+        },
+        "name": "A Timeless Classic",
+        "reviewBody": "This movie, and trilogy in general, is a cinematic (and literary) masterpiece, and simply refuses to get old. I love this movie so much it's become a tradition to watch the Lord of the Rings series at least once a year! It's just as good as Christmas",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+        "duration": "PT1M41S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi718127897",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDRmNjQxOWItNTY3MS00M2ExLWJiYWYtNGQ2OTI5MWRkYWFlXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDRmNjQxOWItNTY3MS00M2ExLWJiYWYtNGQ2OTI5MWRkYWFlXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-12-20T13:30:40.728Z",
+        "url": "https://www.imdb.com/video/vi718127897/"
+    },
+    "url": "/title/tt0167260/"
+}

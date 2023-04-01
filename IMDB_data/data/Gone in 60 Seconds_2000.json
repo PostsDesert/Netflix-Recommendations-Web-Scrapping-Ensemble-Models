@@ -1,0 +1,49 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Nicolas Cage",
+            "url": "/name/nm0000115/"
+        },
+        {
+            "@type": "Person",
+            "name": "Angelina Jolie",
+            "url": "/name/nm0001401/"
+        },
+        {
+            "@type": "Person",
+            "name": "Giovanni Ribisi",
+            "url": "/name/nm0000610/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 11,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Person",
+            "name": "Tim Prokop",
+            "url": "/name/nm0698599/"
+        }
+    ],
+    "datePublished": "2000-12-05",
+    "description": "This program shows shots from the driving school they sent some of the actors to including Nick Cage as he did most of his own driving.",
+    "duration": "PT5M",
+    "genre": [
+        "Short"
+    ],
+    "keywords": "dvd extra",
+    "name": "Gone in 60 Seconds: Wild Rides",
+    "original_info": {
+        "id": "Gone in 60 Seconds_2000",
+        "name": "Gone in 60 Seconds",
+        "year": "2000"
+    },
+    "url": "/title/tt5285622/"
+}

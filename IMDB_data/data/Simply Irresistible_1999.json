@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sarah Michelle Gellar",
+            "url": "/name/nm0001264/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sean Patrick Flanery",
+            "url": "/name/nm0001218/"
+        },
+        {
+            "@type": "Person",
+            "name": "Patricia Clarkson",
+            "url": "/name/nm0165101/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 14391,
+        "ratingValue": 5.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007127/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0000020/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0043164/"
+        },
+        {
+            "@type": "Person",
+            "name": "Judith Roberts",
+            "url": "/name/nm0731287/"
+        }
+    ],
+    "datePublished": "1999-02-05",
+    "description": "A magical crab works wonders for a terrible chef's culinary skills, leading her towards the man of her dreams.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mark Tarlov",
+            "url": "/name/nm0850516/"
+        }
+    ],
+    "duration": "PT1H36M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BM2VlNTRiYzMtYmU3Yy00OTg5LTg5ZjYtOTNjZDFlZjU0MmVkXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_.jpg",
+    "keywords": "chef,restaurant,magic,female chef,female stockinged foot",
+    "name": "Simply Irresistible",
+    "original_info": {
+        "id": "Simply Irresistible_1999",
+        "name": "Simply Irresistible",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Hootie-2"
+        },
+        "dateCreated": "1999-10-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0145893/"
+        },
+        "name": "the best dressed cook in New York",
+        "reviewBody": "It's interesting to see Sarah Michelle Gellar play a character in a low-key fashion. I recently rented the campy (and hilarious) Cruel Intentions to see her give a performance so unbelievably over-the-top I couldn't stop laughing. Also, the less said about her role in I KNow What You Did Last Summer the better. Though impeccably shot sequences in and around New York give the film a glowing lusture, the script and the characters don't live up to the glow and seem to blend in with the scenery. It's supernatural themes seem to get left behind when there's a moment of pesky plot to spoil the visual pleasure, and I'm not convinced that anyone on screen wanted to be there at all. Also, why does a young woman on the verge of bankruptcy dress so well and have such impeccably styled hair? And why would she wear designer outfits whilst making sauces? It's odd. It seemed to be a Vogue photo essay in search of a Meg Ryan-esque romance.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 4,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from 20th Century Fox Home Entertainment",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3180462361",
+        "name": "Simply Irresistible",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNWU1YWEwYmItNTVjMy00YjU3LWE4NDMtN2NiMjEzZjdlMmUwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNWU1YWEwYmItNTVjMy00YjU3LWE4NDMtN2NiMjEzZjdlMmUwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:48:18Z",
+        "url": "https://www.imdb.com/video/vi3180462361/"
+    },
+    "url": "/title/tt0145893/"
+}

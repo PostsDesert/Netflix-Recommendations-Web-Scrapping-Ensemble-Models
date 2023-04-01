@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Spencer Tracy",
+            "url": "/name/nm0000075/"
+        },
+        {
+            "@type": "Person",
+            "name": "Milton Berle",
+            "url": "/name/nm0000926/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ethel Merman",
+            "url": "/name/nm0581062/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 43387,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0083899/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Rose",
+            "url": "/name/nm0741740/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tania Rose",
+            "url": "/name/nm0741704/"
+        }
+    ],
+    "datePublished": "1963-11-07",
+    "description": "A group of motorists witnesses a car crash in the California desert, and after the driver's dying words indicate the location of a hidden stash of loot, they turn against each in a race across the state to get to it.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Stanley Kramer",
+            "url": "/name/nm0006452/"
+        }
+    ],
+    "duration": "PT3H30M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BN2YyYjUzYmMtZDNmMy00ODRmLWExOTYtMzg5NzQ5NzZhNjA1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "keywords": "car,mountain road,limousine driver,vandalism,the letter w",
+    "name": "It's a Mad Mad Mad Mad World",
+    "original_info": {
+        "id": "It's a Mad_1963",
+        "name": "It's a Mad",
+        "year": "1963"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Ddey65"
+        },
+        "dateCreated": "2002-05-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0057193/"
+        },
+        "name": "Classic epic comedy with too much editing",
+        "reviewBody": "Having been born in 1965, it's safe to say that the first time I ever saw \"It's a Mad, Mad, Mad, Mad World\" was on network television. Every other user comment already reveals enough about the movie, so I'll just stick with my own experiences regarding the film. \n\nIf you must know, yes I do believe this film is a well-deserved comedy classic, but it's also loaded with breathtaking scenery (natural and contemporary) that's often overlooked by most critics. Many a fan wants to know where that mountain road is. Since I'm also a fan of big cars of the post-WW2 era I can easily spot every one. Mickey Rooney's Volkswagen must be worth a fortune if it's still around. And I don't care if this movie is over 3 hours long. As one commenter put it it has been edited to pieces. I envy those who saw the original 1963 version of this movie, but even they didn't see everything. The versions I've seen include the original television edit, the director's cut on 2 VHS tapes which contain some \"lost scenes\" and people I never even knew were in the movie, the DVD, and even a version on TV where some scenes were shown out of order. The director's cut VHS tapes is the best, partially because of those scenes such as additional police observations, as well as having the sense to keep the original overture, entr'acte, and exit music title cards. Unfortunately, the DVD removes those lost scenes and mixes them with a section of other deleted scenes, like a louder version of Buddy Hackett's \"17 ways of figuring it\" speech, and some riskier ordeals in Santa Rosita Park.\n\nI've come to the conclusion that there's only one solution to this problem -- unless all footage is found and re-installed into the original version, the screenplay must be released into a book and sold to the public.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT3M27S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3172843033",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYTM3Zjc3YmItYjI5MC00ODcwLWFlNTMtYzI3ZTExNjU0NTEwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTM3Zjc3YmItYjI5MC00ODcwLWFlNTMtYzI3ZTExNjU0NTEwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-07-02T18:21:36.852Z",
+        "url": "https://www.imdb.com/video/vi3172843033/"
+    },
+    "url": "/title/tt0057193/"
+}

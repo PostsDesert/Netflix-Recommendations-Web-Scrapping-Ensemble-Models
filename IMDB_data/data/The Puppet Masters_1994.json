@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Donald Sutherland",
+            "url": "/name/nm0000661/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eric Thal",
+            "url": "/name/nm0856908/"
+        },
+        {
+            "@type": "Person",
+            "name": "Julie Warner",
+            "url": "/name/nm0000689/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9370,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0076240/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert A. Heinlein",
+            "url": "/name/nm0374423/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ted Elliott",
+            "url": "/name/nm0254645/"
+        },
+        {
+            "@type": "Person",
+            "name": "Terry Rossio",
+            "url": "/name/nm0744429/"
+        }
+    ],
+    "datePublished": "1994-10-21",
+    "description": "The Earth is invaded by stingray-shaped alien \"slugs\" that ride on people's backs and control their minds.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Stuart Orme",
+            "url": "/name/nm0650233/"
+        }
+    ],
+    "duration": "PT1H49M",
+    "genre": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDcyMGRmMTMtZDhiYy00YmM4LTkwNDQtM2FlOGViYTgwZmRjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "alien,iowa,ambulance,fire truck,sheriff",
+    "name": "The Puppet Masters",
+    "original_info": {
+        "id": "The Puppet Masters_1994",
+        "name": "The Puppet Masters",
+        "year": "1994"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "TBJCSKCNRRQTreviews"
+        },
+        "dateCreated": "2004-07-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0111003/"
+        },
+        "name": "Not what it could have been, but worth a viewing",
+        "reviewBody": "Not having read any of the highly acclaimed writer Robert A. Heinlein's work, including the original novel \"Puppet Masters\", I can't really comment on whether or not this piece does him or his work any justice, but from a point of view that hasn't in any way been influenced by his work or others' opinions(...maybe scratch that last one), I must admit that it's not half bad. The plot is pretty good, and it keeps developing at an adequate rate, while keeping a fair pace, but it seems to drop a tad once this entered its last half or so. The acting is decent enough, with Donald Sutherland being the one to stand out and deliver a marvelous performance. The characters are well-written, well-casted, credible and believable. This is strangely similar to TV features, in the way it's shot and edited. The special effects are great, but short of spectacular. The creature design was reasonably interesting, and well thought out, and the related effects are actually relatively nicely done. The science fiction aspects of this, with the aliens and their actions are well-done. I liked the way the film utilizes mood and atmosphere rather than excessive gore to scare and thrill the audience. The atmosphere and mood are decent enough, just not as well-done as they could have been. The movie also fails to inspire the same paranoia and fear that, for example, John Carpenter's The Thing does. Finally, the climax was a bit overly Hollywood-like, but hey, this does provide about 110 minutes worth of sufficiently entertaining science fiction-horror about the always dreaded extra-terrestrial invasion. I recommend it to fans of the genre and/or Donald Sutherland(it should also be noted that Keith David rocks, as he has something of a tendency to do). 6/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "The Earth is invaded by stingray-shaped alien \"slugs\" that ride on people's backs and control their minds.",
+        "duration": "PT1M36S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi664716057",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDk5MThmYjYtNGFmMi00NWZkLWEyMTEtNDRkNzkyMjBmNDFlXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDk5MThmYjYtNGFmMi00NWZkLWEyMTEtNDRkNzkyMjBmNDFlXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-10-13T19:37:14.318Z",
+        "url": "https://www.imdb.com/video/vi664716057/"
+    },
+    "url": "/title/tt0111003/"
+}

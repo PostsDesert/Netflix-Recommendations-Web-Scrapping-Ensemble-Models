@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Yul Brynner",
+            "url": "/name/nm0000989/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Fuller",
+            "url": "/name/nm0298333/"
+        },
+        {
+            "@type": "Person",
+            "name": "Julián Mateos",
+            "url": "/name/nm0558290/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4438,
+        "ratingValue": 5.5,
+        "worstRating": 1
+    },
+    "contentRating": "Unrated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0054562/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0064766/"
+        },
+        {
+            "@type": "Person",
+            "name": "Larry Cohen",
+            "url": "/name/nm0169540/"
+        }
+    ],
+    "datePublished": "1966-10-19",
+    "description": "Two survivors of the original Magnificent Seven, Chris and Vin, recruit four new members to re-form the outfit and defend several Mexican villages from vicious bandits.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Burt Kennedy",
+            "url": "/name/nm0447944/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Action",
+        "Western"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BY2NlMjM5NDQtZWQwNC00NTI2LWIwMTYtYWFiN2RlM2ZlYjczXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_.jpg",
+    "keywords": "gun holster,gun,fireworks,rifle,mexico",
+    "name": "Return of the Seven",
+    "original_info": {
+        "id": "Return of the Magnificent Seven_1966",
+        "name": "Return of the Magnificent Seven",
+        "year": "1966"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "drelik"
+        },
+        "dateCreated": "2002-03-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0060897/"
+        },
+        "name": "A poor follow-up to a classic...",
+        "reviewBody": "Living up to expectations is hard, this movie was the sequel to John Sturges´ classic The Magnificent Seven, it stars the three living part of the original posse; Chris ( Yul Brynner ), Vin ( newly appointed Robert Fuller to original Steve McQueen ), Chico ( new Julian Mateos to original Horst Bucholz ).\n\nAlthough the story is very similar to the original ( seven guys fighting off a Mexican forajido ) the pacing is awful in comparison. As a stand-alone this movie would have been a decent one, but living in the shadow of its predecessor is devastating. Maybe this isn't fair but the hype of the first one was still buzzing and this sequel was but a poor copy of the original...",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M36S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1893122073",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZGZkYjQxNzAtMDBiMi00MzNkLTkxYzMtNGVmZWMyNjYzODE4XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZGZkYjQxNzAtMDBiMi00MzNkLTkxYzMtNGVmZWMyNjYzODE4XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-05-05T21:09:07.689Z",
+        "url": "https://www.imdb.com/video/vi1893122073/"
+    },
+    "url": "/title/tt0060897/"
+}

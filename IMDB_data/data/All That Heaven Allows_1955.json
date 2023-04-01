@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jane Wyman",
+            "url": "/name/nm0943837/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rock Hudson",
+            "url": "/name/nm0001369/"
+        },
+        {
+            "@type": "Person",
+            "name": "Agnes Moorehead",
+            "url": "/name/nm0001547/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 15600,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "contentRating": "Passed",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0021358/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peggy Thompson",
+            "url": "/name/nm0272128/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edna L. Lee",
+            "url": "/name/nm0497209/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harry Lee",
+            "url": "/name/nm0497374/"
+        }
+    ],
+    "datePublished": "1955-12-25",
+    "description": "An upper-class widow falls in love with a much younger, down-to-earth nurseryman, much to the disapproval of her children and criticism of her country club peers.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Douglas Sirk",
+            "url": "/name/nm0802862/"
+        }
+    ],
+    "duration": "PT1H29M",
+    "genre": [
+        "Drama",
+        "Music",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTAzZmI5ODgtYzYzZS00ZDQxLTk5NDItNzY3YjdhYjE3Nzk3XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "keywords": "widow,gossip,older woman younger man relationship,star crossed lovers,melodrama",
+    "name": "All That Heaven Allows",
+    "original_info": {
+        "id": "All That Heaven Allows_1955",
+        "name": "All That Heaven Allows",
+        "year": "1955"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "sabby"
+        },
+        "dateCreated": "1999-02-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0047811/"
+        },
+        "name": "Wyman and Hudson re-team for this classy melodrama",
+        "reviewBody": "Due to the success of 1954's \"Magnificent Obsession\", Universal once again called on Jane Wyman, Rock Hudson, Agnes Moorehead, and director Douglas Sirk for this passionate, heart-gripping look at the hypocrisy of small-town America. Wyman, a rich widow in this well-to-do New England town, falls in love with her gardener (Hudson) and all hell breaks loose. Her community ridicules her and her grown children are horrified by her. She finds herself having to choose love or the respect of those around her.\n\nThe cinematography is beyond extraordinary, the score by Frank Skinner is unbelievably moving, Wyman is exquisite, and Sirk gives some of the best direction of his career. A really classy melodrama and completely worthwhile.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "An upper-class widow falls in love with a much younger, down-to-earth nurseryman, much to the disapproval of her children and criticism of her country club peers.",
+        "duration": "PT2M31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi647938329",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYTkzZTllOWQtODE4ZC00NTM1LTk3NTMtZDk5NTI3NTliZTA5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTkzZTllOWQtODE4ZC00NTM1LTk3NTMtZDk5NTI3NTliZTA5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-10-02T13:43:10.968Z",
+        "url": "https://www.imdb.com/video/vi647938329/"
+    },
+    "url": "/title/tt0047811/"
+}

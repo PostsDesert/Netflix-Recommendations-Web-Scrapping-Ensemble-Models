@@ -1,0 +1,113 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mel Gibson",
+            "url": "/name/nm0000154/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Lee",
+            "url": "/name/nm0497826/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Kerr",
+            "url": "/name/nm0449652/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 40610,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0092549/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0002712/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Williamson",
+            "url": "/name/nm0932011/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Weir",
+            "url": "/name/nm0001837/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ernest Raymond",
+            "url": "/name/nm0713255/"
+        }
+    ],
+    "datePublished": "1981-08-28",
+    "description": "Two Australian sprinters face the brutal realities of war when they are sent to fight in the Gallipoli campaign in Turkey during World War I.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Peter Weir",
+            "url": "/name/nm0001837/"
+        }
+    ],
+    "duration": "PT1H50M",
+    "genre": [
+        "Adventure",
+        "Drama",
+        "History"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjQ2MDg4ZDUtNTA0Ny00Nzc3LWFmM2UtY2I0YWRjNjZkMTg0XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "world war one,british army,1910s,egypt,ottoman empire",
+    "name": "Gallipoli",
+    "original_info": {
+        "id": "Gallipoli_1981",
+        "name": "Gallipoli",
+        "year": "1981"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Boyo-2"
+        },
+        "dateCreated": "2001-07-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0082432/"
+        },
+        "name": "Nearly flawless",
+        "reviewBody": "There is not a lot wrong with this movie. The entire thing seems authentic - meaning you feel like you're in Australia in 1915. You are living on a farm, running in a race and ultimately in a war.\n\nWhat is also very extraordinary is that there is not really a lot that happens, there is barely a plot. But it doesn't matter, because Peter Weir is a master storyteller. The actors are all superb and your heart may hurt at the climax - mine did.\n\nUnforgettable, like all great movies.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Paramount",
+        "duration": "PT1M54S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3746562073",
+        "name": "Gallipoli",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjc5MGEzNjgtMzJkZi00ZTVjLWI4OGQtMTdlMmY1NzJhODAwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjc5MGEzNjgtMzJkZi00ZTVjLWI4OGQtMTdlMmY1NzJhODAwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-10-30T03:18:39Z",
+        "url": "https://www.imdb.com/video/vi3746562073/"
+    },
+    "url": "/title/tt0082432/"
+}

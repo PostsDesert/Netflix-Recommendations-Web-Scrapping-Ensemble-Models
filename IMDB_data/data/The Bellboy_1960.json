@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jerry Lewis",
+            "url": "/name/nm0001471/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alex Gerry",
+            "url": "/name/nm0314778/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bob Clayton",
+            "url": "/name/nm0165667/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4612,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0150391/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jerry Lewis",
+            "url": "/name/nm0001471/"
+        }
+    ],
+    "datePublished": "1960-07-21",
+    "description": "Mute bellboy Stanley works at the luxurious Fontainebleau Hotel in Miami Beach. In spite of being a serviceable and friendly employee, the clumsy Stanley gets successively into trouble with his mistakes.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jerry Lewis",
+            "url": "/name/nm0001471/"
+        }
+    ],
+    "duration": "PT1H12M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZGRmZWZiMWUtNzM3Mi00MDY2LWE5NTMtODJjMWQ0YzM2MWVjXkEyXkFqcGdeQXVyNTgzMzU5MDI@._V1_.jpg",
+    "keywords": "double,reference to the shadow,episodic,vignette,slapstick comedy",
+    "name": "The Bellboy",
+    "original_info": {
+        "id": "The Bellboy_1960",
+        "name": "The Bellboy",
+        "year": "1960"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "robeykr"
+        },
+        "dateCreated": "2002-09-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0053644/"
+        },
+        "name": "No Plot! Just Humor. ;)",
+        "reviewBody": "No Plot -- The film starts with this proclamation. This film is definitely one of Jerry Lewis' best of his carrier. Filmed during the height of his movie output in the 1960's, this film is comedy unto its own sake. The gags just don't stop -- you aren't given a moment to relax, because it's all so funny, you can't stop laughing. The NO PLOT aspect only helps, as the audience is free to concentrate on the moment. I still burst into laughter when the hotel manager is called by the airport to inform him 'HE WHAT!?' Yes, this film is dated by today's standard, but that should come as no surprise. This film was the product of a different era -- and a different society. The change in our society was what made him decide to briefly retire from film in the '70s. The standards of humor just changed. And performers had to change with it. But film is permanent. It is set in celluloid. It can be re-edited, but what would be the point? For anyone who can appreciate 'the artist' for his art, this film still can be enjoyed. For anyone who can look at past films for nostalgia, this film can be enjoyed. It's called comedy -- 'nuff said.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer 1",
+        "duration": "PT3M38S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4017995545",
+        "name": "The Bellboy",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTFmZjE2MmEtYjg1Ni00NzJhLWEyMWMtYzczOTljNTRiYTRkXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTFmZjE2MmEtYjg1Ni00NzJhLWEyMWMtYzczOTljNTRiYTRkXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-01-15T17:03:09.725Z",
+        "url": "https://www.imdb.com/video/vi4017995545/"
+    },
+    "url": "/title/tt0053644/"
+}

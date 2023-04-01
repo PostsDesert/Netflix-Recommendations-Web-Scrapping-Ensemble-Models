@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Julie Andrews",
+            "url": "/name/nm0000267/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rock Hudson",
+            "url": "/name/nm0001369/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeremy Kemp",
+            "url": "/name/nm0447305/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2275,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0155420/"
+        },
+        {
+            "@type": "Person",
+            "name": "Blake Edwards",
+            "url": "/name/nm0001175/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Peter Blatty",
+            "url": "/name/nm0087861/"
+        }
+    ],
+    "datePublished": "1970-06-24",
+    "description": "Set during World War I, this movie is a cute spin on the Mata Hari legend.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Blake Edwards",
+            "url": "/name/nm0001175/"
+        }
+    ],
+    "duration": "PT2H16M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Musical"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTY2ZDI2NDMtYTc0NC00ODY0LThiODktNzhlZWFjMzk5OWY0XkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+    "keywords": "louvre museum paris,attempted assassination,rain,woman in jeopardy,shower",
+    "name": "Darling Lili",
+    "original_info": {
+        "id": "Darling Lili_1970",
+        "name": "Darling Lili",
+        "year": "1970"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "KatMiss"
+        },
+        "dateCreated": "2001-05-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0065611/"
+        },
+        "name": "A FAIRLY GOOD FILM IN THE DIRECTOR'S CUT",
+        "reviewBody": "Blake Edwards' \"Darling Lili\" is not a great film, but it is better than most people give it credit for. One of the most maligned productions in history (the aerial sequences took 2 years to film, the budget swelled to 3 times the original budget, various cuts of the film only add to the muddle), my final analysis is this: an underrated film whose reputation should soar once it's more widely seen.\n\nThis film exists in three versions: the original roadshow version (190 minutes)which Edwards disowned, the general release version (136 minutes)and Edwards' personal director's cut (113 minutes). \n\nTones shift between versions. The roadshow version had more talky sequences and was a numbing bore. The general release version deleted these sequences and was an improvement, but was still missing something. Edwards' cut was a great improvement. It is more serious in tone than the previous cuts, but the story concucted by Edwards and William Peter Blatty benefits from that approach. Julie Andrews is simply great as Lili, the singer/spy and her singing is at an all time high. Rock Hudson is excellent as her American pilot lover. Only after his inclination was exposed, did people take him seriously as an actor. But he was great all along. The songs by Henry Mancini and Johnny Mercer are strong as is the cinematography (by Russell Harlan, in Panavision)\n\nSadly, \"Darling Lili\" is not available on tape or DVD. But luckily for us, AMC shows this very often. \n\nRoadshow version: 1/2* General Release: ** 1/2 Director's Cut: ***1/2"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Set during World War I, this movie is a cute spin on the Mata Hari legend.",
+        "duration": "PT1M14S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi461161241",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODhhODIxZDItOTAzNC00MzZmLTkxYzctMTE5Yzk3OTRkYmZkXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODhhODIxZDItOTAzNC00MzZmLTkxYzctMTE5Yzk3OTRkYmZkXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2022-02-18T20:19:03.003Z",
+        "url": "https://www.imdb.com/video/vi461161241/"
+    },
+    "url": "/title/tt0065611/"
+}

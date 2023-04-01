@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sarain Boylan",
+            "url": "/name/nm0102175/"
+        },
+        {
+            "@type": "Person",
+            "name": "Matt Craven",
+            "url": "/name/nm0002023/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brad Garrett",
+            "url": "/name/nm0004951/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 471,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0053559/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0052980/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mitch Paradise",
+            "url": "/name/nm0660865/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dennis Paoli",
+            "url": "/name/nm0660016/"
+        },
+        {
+            "@type": "Person",
+            "name": "Roberta Custer",
+            "url": "/name/nm0193799/"
+        }
+    ],
+    "datePublished": "2007-02-16",
+    "description": "A day in the life of a group of gambling buddies, as they sit in on their beloved baseball team game.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Saul Rubinek",
+            "url": "/name/nm0007210/"
+        }
+    ],
+    "duration": "PT1H55M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Sport"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTEwNTc5NTA4MjBeQTJeQWpwZ15BbWU3MDYyMjMyMjE@._V1_.jpg",
+    "keywords": "chicago cubs,baseball,game,baseball game,based on play",
+    "name": "Bleacher Bums",
+    "original_info": {
+        "id": "Bleacher Bums_2002",
+        "name": "Bleacher Bums",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bsl05"
+        },
+        "dateCreated": "2003-07-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0289092/"
+        },
+        "name": "no Oscars, but enjoyable",
+        "reviewBody": "I could see how someone may not like this movie at all, but I thought it was enjoyable. It was borderline, not quite good yet quirky enough to be \"good enough.\" As a big baseball fan I wish I could have this sort of life - just go to ballpark and hang out with people who I may or may not know and have a good time. 7/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0289092/"
+}

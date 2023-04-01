@@ -1,0 +1,54 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mark Bollinger",
+            "url": "/name/nm0093163/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 65,
+        "ratingValue": 5.6,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0450254/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0024337/"
+        },
+        {
+            "@type": "Person",
+            "name": "Phillip Dye",
+            "url": "/name/nm1415454/"
+        }
+    ],
+    "datePublished": "1997-09-19",
+    "description": "The art of cinematic comedy dates back to the earliest origins of filmmaking. Indulge in the side-splitting, gut-busting feats of the form as we take a look back at the last 100 Years of Comedy.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Phillip Dye",
+            "url": "/name/nm1415454/"
+        }
+    ],
+    "duration": "PT2H",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzk3NzIyOWItZjY5Zi00NTIzLWI5OTItNzFhYjBlYTY2MWI5L2ltYWdlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+    "name": "100 Years of Comedy",
+    "original_info": {
+        "id": "100 Years of Comedy_1997",
+        "name": "100 Years of Comedy",
+        "year": "1997"
+    },
+    "url": "/title/tt0465888/"
+}

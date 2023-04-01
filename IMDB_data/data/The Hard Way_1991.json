@@ -1,0 +1,113 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Michael J. Fox",
+            "url": "/name/nm0000150/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Woods",
+            "url": "/name/nm0000249/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen Lang",
+            "url": "/name/nm0002332/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 21448,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0048158/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lem Dobbs",
+            "url": "/name/nm0229644/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Kozoll",
+            "url": "/name/nm0468997/"
+        },
+        {
+            "@type": "Person",
+            "name": "Daniel Pyne",
+            "url": "/name/nm0002417/"
+        }
+    ],
+    "datePublished": "1991-03-08",
+    "description": "An action movie star researching a role is allowed to tag along with a hardboiled New York City policeman, who finds him superficial and irritating.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Badham",
+            "url": "/name/nm0000824/"
+        }
+    ],
+    "duration": "PT1H51M",
+    "genre": [
+        "Action",
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTQ0MGQ0MmQtOWVjMy00NTFkLWFlYjUtYTVmNmFjNmFmOWY4XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "movie star,actor,detective,film within a film,buddy cop",
+    "name": "The Hard Way",
+    "original_info": {
+        "id": "The Hard Way_1991",
+        "name": "The Hard Way",
+        "year": "1991"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "mhasheider"
+        },
+        "dateCreated": "2001-04-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0102004/"
+        },
+        "name": "It's \"The Odd Couple\" meets \"Dirty Harry\" head-on.",
+        "reviewBody": "Wildly violent, but hilarious comedy about a showboat-like Hollywood action star (Michael J. Fox) who in order to prepare for his next film, comes to the Big Apple and tags along with a hard-boiled police detective (James Woods) who is desperately determined to nab a notorious killer dubbed \"The Party Crasher\" (Stephen Lang) despite nearly getting himself killed in the process. Fox and Woods certainly make an interesting comedy team. There's no way that this movie could without the presence of a seriously funny actor like Woods to be included in the film. The film has a few great moments including one where the Woods character impolitely asks the captain (Delroy Lindo) to get the Fox character off his back and the film's climax is exciting and makes a great reference to \"North by Northwest\". It's the \"The Odd Couple\" meets \"Dirty Harry\" head-on.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Universal Studios Home Entertainment",
+        "duration": "PT2M19S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3347906841",
+        "name": "The Hard Way",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZGVkYzgxZDMtYWNlYS00NmQ5LWI4NzctMGRmYjk4YWZlMTQ3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZGVkYzgxZDMtYWNlYS00NmQ5LWI4NzctMGRmYjk4YWZlMTQ3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:26:50Z",
+        "url": "https://www.imdb.com/video/vi3347906841/"
+    },
+    "url": "/title/tt0102004/"
+}

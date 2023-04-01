@@ -1,0 +1,77 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jeremy Goldberg",
+            "url": "/name/nm0325232/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Kermizian",
+            "url": "/name/nm0003648/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jon Miller",
+            "url": "/name/nm0588659/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 137,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0047640/"
+        }
+    ],
+    "datePublished": "2004-04-21",
+    "description": "In June of 2002, five friends left New York City by minivan and set out across the United States to visit 38 breweries in 40 days.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Paul Kermizian",
+            "url": "/name/nm0003648/"
+        }
+    ],
+    "duration": "PT1H45M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjUwNzM1NjY0Nl5BMl5BanBnXkFtZTcwNjM1NTUyMQ@@._V1_.jpg",
+    "keywords": "brewery,beer",
+    "name": "American Beer",
+    "original_info": {
+        "id": "American Beer_2004",
+        "name": "American Beer",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "WildHockey"
+        },
+        "dateCreated": "2006-05-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0372140/"
+        },
+        "name": "The Best Beer Movie Ever",
+        "reviewBody": "If you like REAL Beer, not mass produced garbage called Miller, Coors and Bud, than this is your movie. I bought this DVD because I love craft and micro brewed beer and was not disappointed. I also learned a lot about brewing beer that has always been a mystery for me. Getting to see and hear the stories of guys who just left there normal everyday jobs to invest and start a brewery and then on top of it be successful is very interesting to say the least. I Wish there were more movies like this. The guys who made this movie were all average joe's and were not acting just for the camera, so it made it much more appealing and involving for me as I watched it. They toured 38 breweries only, so I am hoping that a sequel would be in order because there are about 1000 more in the US that I would love to see.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0372140/"
+}

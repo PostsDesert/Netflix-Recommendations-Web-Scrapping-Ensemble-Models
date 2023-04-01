@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Fred Astaire",
+            "url": "/name/nm0000001/"
+        },
+        {
+            "@type": "Person",
+            "name": "Leslie Caron",
+            "url": "/name/nm0001989/"
+        },
+        {
+            "@type": "Person",
+            "name": "Terry Moore",
+            "url": "/name/nm0601930/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4032,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Person",
+            "name": "Phoebe Ephron",
+            "url": "/name/nm0258290/"
+        },
+        {
+            "@type": "Person",
+            "name": "Henry Ephron",
+            "url": "/name/nm0258288/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jean Webster",
+            "url": "/name/nm0916914/"
+        }
+    ],
+    "datePublished": "1955-05-05",
+    "description": "A wealthy American has a chance encounter with a joyful young French woman, and anonymously pays for her education. She writes letters to her mysterious benefactor, nicknaming him from the description given by some of her fellow o...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jean Negulesco",
+            "url": "/name/nm0624535/"
+        }
+    ],
+    "duration": "PT2H6M",
+    "genre": [
+        "Musical",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZDgyNmJmMjktNGE4YS00NzQ3LTkyZjMtMjYzNmYwMTU0ODUyXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
+    "keywords": "remake,new york city,chest,woman wears a slit dress,woman wears a veil",
+    "name": "Daddy Long Legs",
+    "original_info": {
+        "id": "Daddy Long Legs_1919",
+        "name": "Daddy Long Legs",
+        "year": "1919"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "gregcouture"
+        },
+        "dateCreated": "2003-05-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0047969/"
+        },
+        "name": "Without CinemaScope, somethin's gotta give!",
+        "reviewBody": "Fred Astaire, that supremely talented perfectionist, had a graceful and utterly charming partner in Leslie Caron in this oft-told fairy tale, so handsomely mounted by Twentieth Century Fox. It's an artifact of its era, with elements such as Ray Anthony's dance band for the prom scene; New York before it became overwhelmingly crass and vulgar; scenes set in a studio version of France when it was still permissible to admit a liking for things Gallic (which is now tantamount to treason - How absurd!); Terry Moore before she began claiming that she'd been secretly married to Howard Hughes; and Thelma Ritter allowed once more to almost steal the whole show with her slightly cynical brand of warmth. Sure there are things to object to: Larry Keating's merciless depiction of a pompous old fogey, eager to deflect Cupid's arrows; the somewhat overblown dream sequence (which did not benefit from Fred Astaire's ability to make a production number flow so matchlessly, as in the \"Sluefoot\" dance with Fred and Leslie, in which she's allowed to outshine all of her American schoolmates); and a score with only a couple of memorable numbers (i.e., \"Dream\" and the unforgettable \"Somethin's Gotta Give!\")\n\nBut overall you have to be more than demanding to find this anything but a delightful way to forget the world's harsher realities. The VHS version, with a DVD version probably not on the immediate horizon, no doubt does not duplicate Leon Shamroy's elegant CinemaScope framing. So be forewarned - this was made at a time when the hierarchy at Twentieth virtually commanded that all A-list productions take full advantage of the widescreen ratio and if that's lost, then you won't be seeing anything like what we saw in theaters during the theatrical release of this charmer."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A wealthy American has a chance encounter with a joyful young French woman, and anonymously pays for her education. She writes letters to her mysterious benefactor, nicknaming him from the description given by some of her fellow orphans.",
+        "duration": "PT2M11S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi754303769",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYmMxODRmMmQtYTQxMC00MjRjLWJkMjItYjNjMjExMDZjMjZkXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYmMxODRmMmQtYTQxMC00MjRjLWJkMjItYjNjMjExMDZjMjZkXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-11-02T14:04:27.448Z",
+        "url": "https://www.imdb.com/video/vi754303769/"
+    },
+    "url": "/title/tt0047969/"
+}

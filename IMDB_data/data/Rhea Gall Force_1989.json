@@ -1,0 +1,91 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Eriko Hara",
+            "url": "/name/nm0361662/"
+        },
+        {
+            "@type": "Person",
+            "name": "Naoko Watanabe",
+            "url": "/name/nm0913844/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hiromi Tsuru",
+            "url": "/name/nm0875442/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 98,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0074495/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0097219/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0047735/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hideki Kakinuma",
+            "url": "/name/nm0435393/"
+        }
+    ],
+    "description": "The last remaining human soldiers of a devastated Earth fight against the machines for one last chance for their species to escape and survive.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Katsuhito Akiyama",
+            "url": "/name/nm0015425/"
+        }
+    ],
+    "duration": "PT1H",
+    "genre": [
+        "Animation",
+        "Action",
+        "Adventure"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc1MDgzMDkxMV5BMl5BanBnXkFtZTcwOTY3NjYxMQ@@._V1_.jpg",
+    "keywords": "ova,girls with guns,anime animation,surrealism,space war",
+    "name": "Rhea Gall Force",
+    "original_info": {
+        "id": "Rhea Gall Force_1989",
+        "name": "Rhea Gall Force",
+        "year": "1989"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "alexfromhorn"
+        },
+        "dateCreated": "2020-08-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0158895/"
+        },
+        "name": "Enjoyable 80's Sci-Fi cheese",
+        "reviewBody": "A very dark future is presented in Rhea Gall Force. Rightfully as thiis movie is set in a postapocalyptic setting. In 59min the story unfolds slowly and doesn't deliver great explanations on what, when and why the world is in the state that is, but it's also not like the viewer is being left with no answers. Since 59min are not much time, the plot mainly focuses on presenting the world a little bit and than executing a mission which is guided by hope for a better future. The enemies are cool, the political tensions are reasonably explained, the action is well done and brutal. The animation itself is also very good. I think everyone who likes postapocalyptical settings will more or less like this movie although it's plot could have been structured in a more interesting way. The English dubbing was as usual for Animes of that decade rather bad. Watch it if you like the Fallout games or simply like 80s Animes better than Animes that run nowadays.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0158895/"
+}

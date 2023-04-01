@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Rutger Hauer",
+            "url": "/name/nm0000442/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tara Fitzgerald",
+            "url": "/name/nm0001216/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrew McCarthy",
+            "url": "/name/nm0000530/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 965,
+        "ratingValue": 4.4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0265744/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0080257/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeffrey M. Smith",
+            "url": "/name/nm0808665/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ehren Kruger",
+            "url": "/name/nm0472567/"
+        }
+    ],
+    "datePublished": "1999-12-03",
+    "description": "A gang of four eyed crooks led by Kurt Bishop (Andrew McCarthy) are ripping off top dollar computer chips from a list of factories. The night they hit Dynaphase Systems, two dirty employees are staying late using company resources...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Richard Spence",
+            "url": "/name/nm0817811/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Action"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTgyMzM0Njc4N15BMl5BanBnXkFtZTcwMjI5MDU5MQ@@._V1_.jpg",
+    "keywords": "computer chip,e mail,partnership,fbi agent,detective",
+    "name": "New World Disorder",
+    "original_info": {
+        "id": "New World Disorder_1999",
+        "name": "New World Disorder",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "diktiomenos"
+        },
+        "dateCreated": "2002-01-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0174982/"
+        },
+        "name": "Nice, if you are for a comedy...",
+        "reviewBody": "I have seen New World Disorder twice but still remain unsure about the intention of its creators. Was that supposed to be a comedy? If yes, they surely succeeded. If not, well... it is sad to see Hauer falling into oblivion while advocating the merits of Iomega´s Zip drive.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 3,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Maverick Entertainment Group",
+        "duration": "PT2M7S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1368981785",
+        "name": "New World Disorder",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzRmNmY3MjktZjllYS00MWU0LWIyY2EtYjA2NDdhOWJiMTYxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzRmNmY3MjktZjllYS00MWU0LWIyY2EtYjA2NDdhOWJiMTYxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:13:35Z",
+        "url": "https://www.imdb.com/video/vi1368981785/"
+    },
+    "url": "/title/tt0174982/"
+}

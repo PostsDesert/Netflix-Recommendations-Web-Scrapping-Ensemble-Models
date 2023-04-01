@@ -1,0 +1,113 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ben Johnson",
+            "url": "/name/nm0424565/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jamie Lee Curtis",
+            "url": "/name/nm0000130/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hart Bochner",
+            "url": "/name/nm0000952/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 12957,
+        "ratingValue": 5.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0074790/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0210281/"
+        },
+        {
+            "@type": "Person",
+            "name": "T.Y. Drake",
+            "url": "/name/nm0237021/"
+        },
+        {
+            "@type": "Person",
+            "name": "Daniel Grodnik",
+            "url": "/name/nm0342841/"
+        },
+        {
+            "@type": "Person",
+            "name": "Judith Rascoe",
+            "url": "/name/nm0711083/"
+        }
+    ],
+    "datePublished": "1980-10-03",
+    "description": "Three years after a prank went terribly awry, the six college students responsible are targeted by a masked killer at a New Year's Eve party aboard a moving train.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Roger Spottiswoode",
+            "url": "/name/nm0006854/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYzEyMzVkOTUtNzhmZi00ZDZhLWE0YjUtNTNlNWNjMGU1OTE3XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "new year's eve,magician,medical student,serial killer,axe murderer",
+    "name": "Terror Train",
+    "original_info": {
+        "id": "Terror Train_1980",
+        "name": "Terror Train",
+        "year": "1980"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "juliamacon"
+        },
+        "dateCreated": "2020-09-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0081617/"
+        },
+        "name": "Decent Train-Set Slasher",
+        "reviewBody": "A mean spirited prank sends a coed into a mental hospital and he plans his sweet revenge on the classmates who sent him there while on a New Year's Eve train party.\n\nIt's a simple set up, but a lot of it is effective. There's a surprising lack of gore, but the killer's multiple disguises are downright eerie. A late in the game twist does genuinely surprise as well. Actors such as Ben Johnson, Jamie Lee Curtis, and Hart Bochner elevate the threadbare material throughout and the finale ends up being more intense than it probably should be as the masked madman terrorizes Curtis throughout the train.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Terror Train",
+        "duration": "PT2M25S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4185433113",
+        "name": "Terror Train",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjczN2U2MjktOGY3MC00MDJlLTljOGQtOTMxMzRhZTg0NWUxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjczN2U2MjktOGY3MC00MDJlLTljOGQtOTMxMzRhZTg0NWUxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2012-10-27T03:33:39Z",
+        "url": "https://www.imdb.com/video/vi4185433113/"
+    },
+    "url": "/title/tt0081617/"
+}

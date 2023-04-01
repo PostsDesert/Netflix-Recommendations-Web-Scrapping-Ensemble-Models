@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mark Harmon",
+            "url": "/name/nm0001319/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kirstie Alley",
+            "url": "/name/nm0000263/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robin Thomas",
+            "url": "/name/nm0859450/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 21000,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stuart Birnbaum",
+            "url": "/name/nm0083699/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Dashev",
+            "url": "/name/nm0201984/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeff Franklin",
+            "url": "/name/nm0291449/"
+        }
+    ],
+    "datePublished": "1987-07-22",
+    "description": "Freddy the gym teacher has to teach remedial English in summer (high) school, if he wants tenure. As he can only teach gym and his students want fun, emphasis is on \"field trips\" - until he's fired unless all his students pass the...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Carl Reiner",
+            "url": "/name/nm0005348/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTllNDllODAtOTVkOC00NGYzLWFkMTItZGY2YThlMWM3YWM2L2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "chainsaw,dog,teenage boy,teacher,high school",
+    "name": "Summer School",
+    "original_info": {
+        "id": "Summer School_1987",
+        "name": "Summer School",
+        "year": "1987"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "StreetAngel"
+        },
+        "dateCreated": "2000-03-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0094072/"
+        },
+        "name": "This teacher was kick ass",
+        "reviewBody": "When this movie came out, i was only 4, so i didn't see it when it came out in the theater. I happened to stumble upon it 3 years ago and i've watched it above 100 times since. The best part is when Dave and Chainsaw do everyones make-up and they do their rendition of the Texas Chainsaw Massacre. Classic!!"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT2M16S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi953007129",
+        "name": "Summer School",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMDBkYjhhYzMtMjU3Zi00OGYzLWJlOTMtYmYyNjE3MDMxMGVhXkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDBkYjhhYzMtMjU3Zi00OGYzLWJlOTMtYmYyNjE3MDMxMGVhXkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg",
+        "uploadDate": "2019-06-06T17:20:41.917Z",
+        "url": "https://www.imdb.com/video/vi953007129/"
+    },
+    "url": "/title/tt0094072/"
+}

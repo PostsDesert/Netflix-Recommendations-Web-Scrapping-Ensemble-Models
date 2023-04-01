@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Laura Dern",
+            "url": "/name/nm0000368/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Duvall",
+            "url": "/name/nm0000380/"
+        },
+        {
+            "@type": "Person",
+            "name": "Diane Ladd",
+            "url": "/name/nm0002663/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5224,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0094459/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0010693/"
+        },
+        {
+            "@type": "Person",
+            "name": "Calder Willingham",
+            "url": "/name/nm0932229/"
+        }
+    ],
+    "datePublished": "1991-09-20",
+    "description": "A young woman who exudes sexuality battles temptation.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Martha Coolidge",
+            "url": "/name/nm0004838/"
+        }
+    ],
+    "duration": "PT1H52M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYWU4MmNjYzktZDQ1Ni00MWM5LThlYjQtOTVmZWE4OTRlMTk2XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",
+    "keywords": "american south,sexuality,sexual awakening,coming of age,adolescent",
+    "name": "Rambling Rose",
+    "original_info": {
+        "id": "Rambling Rose_1991",
+        "name": "Rambling Rose",
+        "year": "1991"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "happymaryellen"
+        },
+        "dateCreated": "2006-02-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0102753/"
+        },
+        "name": "What an interesting movie!",
+        "reviewBody": "Robert Duvall was splendid in this movie. I do not want to ruin it for people watching, so I can not tell you much but his acting was great as well as Laura Dern. What a dynamic and thought provocative movie with so many interesting twists that are unexpected. The wife was really good too. The morals of it, the conflicts, the family. This movie had it all, love, conflict, compassion, passion and all great acting too! I would imagine if this movie is a book I should read it actually. The nuances were subtle and well done, it did address some touchy topics as well. The young boy actor really was well cast too. I guess all in all, the casting was super, the dialog was well done and the way they captured the south was excellent as well.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Clip: Daddy Hillyer chases a man off the yard",
+        "duration": "PT1M37S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3162636569",
+        "name": "Rambling Rose",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BY2M0NjFiYjktOTg3Zi00ZjAzLTllOWYtYTZiNTc1ZDBiZDY2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BY2M0NjFiYjktOTg3Zi00ZjAzLTllOWYtYTZiNTc1ZDBiZDY2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:48:52Z",
+        "url": "https://www.imdb.com/video/vi3162636569/"
+    },
+    "url": "/title/tt0102753/"
+}

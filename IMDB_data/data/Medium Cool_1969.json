@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Robert Forster",
+            "url": "/name/nm0001233/"
+        },
+        {
+            "@type": "Person",
+            "name": "Verna Bloom",
+            "url": "/name/nm0089244/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Bonerz",
+            "url": "/name/nm0094288/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4487,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0134107/"
+        },
+        {
+            "@type": "Person",
+            "name": "Haskell Wexler",
+            "url": "/name/nm0005549/"
+        }
+    ],
+    "datePublished": "1970-02-06",
+    "description": "A TV news reporter finds himself becoming personally involved in the violence that erupts around the 1968 Democratic National Convention.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Haskell Wexler",
+            "url": "/name/nm0005549/"
+        }
+    ],
+    "duration": "PT1H51M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMmVmYWJjZDYtNGYyMy00YTY1LWI5ZmItOTNmMTgxYzAwOTJjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "keywords": "1960s,year 1968,journalist,television reporter,political convention",
+    "name": "Medium Cool",
+    "original_info": {
+        "id": "Medium Cool_1969",
+        "name": "Medium Cool",
+        "year": "1969"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Bunuel1976"
+        },
+        "dateCreated": "2006-08-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0064652/"
+        },
+        "name": "MEDIUM COOL (Haskell Wexler, 1969) ***1/2",
+        "reviewBody": "A brilliant film and a seminal one - a product by a major Hollywood studio handled in cinema-verite' style; besides, the various issues it raises - social, political and media-related - have scarcely been treated with such directness and power. The lack of star names in the cast (Peter Boyle, who appears briefly, was not yet established and, even if he had debuted in John Huston's REFLECTIONS IN A GOLDEN EYE [1967], lead Robert Forster's role was originally intended for John Cassavetes) certainly helps sell its inherent documentary feel.\n\nThough, understandably, most meaningful to people who witnessed these turbulent times first-hand, and Americans in particular, despite its specific time-setting - Chicago 1968 (partly shot at the actual Democrats convention site, the film proved prophetic because the script involved riots breaking out...which is what actually happened!) - many of its concerns are still very much with us!! Fascinating therefore if slightly overlong - the subplot involving Verna Bloom and Harold Blankenship feels a bit like padding at first (and was actually what remained of a proposed film, with animal interest, about a poor country boy's adjustment to city life!)...but, ultimately, its point is made during the film's latter stages when Bloom goes to look for her missing son - creating an indelible image of a perplexed figure (incongruously dressed in a bright yellow outfit) getting embroiled in all the commotion hitting the streets at that same moment. This, however, results in a goof involving the unexplained presence very early on of Bloom (already wearing the yellow dress but whose introduction proper in the film takes place quite a bit later!) at a cocktail party for members of the press - a sequence intended to immediately precede the riots but which was then pushed forward during editing, so as to deal straight off with the film's major theme of media responsibility! The tragic yet ironic ending - presented as matter-of-factly as any of the news items covered by dispassionate TV cameraman Forster - is very effective.\n\nThis is certainly renowned cinematographer Wexler's most significant directorial effort; his camera-work (some of it hand-held) is simply incredible, as is Paul Golding's editing (which must have been quite a headache and, in fact, he mentions in the Audio Commentary that several scenes remained on the cutting-room floor; pity they weren't available for inclusion on the Paramount DVD - nor, apparently, were the rights to the 2001 documentary about the film, LOOK OUT HASKELL, IT'S REAL: THE MAKING OF 'MEDIUM COOL'!). Also essential to the unique texture of the film is the fantastic soundtrack (mostly by Mike Bloomfield but also featuring songs by Frank Zappa, among others).",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A TV news reporter finds himself becoming personally involved in the violence that erupts around the 1968 Democratic National Convention.",
+        "duration": "PT3M22S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2317665049",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDk4NGQzODQtZmRjNi00NzVjLTk5OTAtMmVjZTMyMDZmZTM4XkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDk4NGQzODQtZmRjNi00NzVjLTk5OTAtMmVjZTMyMDZmZTM4XkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+        "uploadDate": "2022-01-12T21:34:41.349Z",
+        "url": "https://www.imdb.com/video/vi2317665049/"
+    },
+    "url": "/title/tt0064652/"
+}

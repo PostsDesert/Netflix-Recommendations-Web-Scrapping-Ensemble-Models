@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tom Selleck",
+            "url": "/name/nm0000633/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paulina Porizkova",
+            "url": "/name/nm0005320/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Daniels",
+            "url": "/name/nm0200122/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7452,
+        "ratingValue": 5.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charlie Peters",
+            "url": "/name/nm0676361/"
+        }
+    ],
+    "datePublished": "1989-02-03",
+    "description": "Phil has writer's block after 30 detective novels. In court for inspiration, he sees a cute Romanian murder suspect. He provides her alibi. She stays with him. Will he live to write another novel?",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bruce Beresford",
+            "url": "/name/nm0000915/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTljODUxMDUtYzY5OC00ZDNhLWEwMTItZWYxMGQ3MGZhNzFjXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_.jpg",
+    "keywords": "kneed in the groin,detective,writer's block,romanian,hairy chest",
+    "name": "Her Alibi",
+    "original_info": {
+        "id": "Her Alibi_1989",
+        "name": "Her Alibi",
+        "year": "1989"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Mort-31"
+        },
+        "dateCreated": "2001-02-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0097500/"
+        },
+        "name": "Selleck's humour",
+        "reviewBody": "It's true that this film is rather undeep and not particularly demanding. But still, in my opinion, it's charmy. From this point of view, the film is stylistically correct because the books Philip Blackwood writes are also romantic thrillers with exaggerated characters and no attempt to be serious or even world class. We're in the world of trash. Of course, the movie can be understood as kind of a parody on the book that's being written during the film. But on the other hand, it corresponds to it.\n\nTom Selleck's humour or maybe only the humour around his role keeps the movie alive. Like in Folks!`, he is the poor guy, damned to passiveness, who desperately tries to cope with what is happening to him. But here the humour doesn't arise only from his mishaps but also from the way he falsifies them when transferring them into his novel. Paulina Porizkova is not a convincing actress but in this movie this doesn't matter because her inflexible face makes her character unfathomable, unpredictable, unlike Philip Blackwood's stories.\n\nIf you want to see a trashy little comedy about trashy little thrillers, this is the right one for you!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Phil has writer's block after 30 detective novels. In court for inspiration, he sees a cute Romanian murder suspect. He provides her alibi. She stays with him. Will he live to write another novel?",
+        "duration": "PT1M26S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi584434457",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDY0OWNjNDgtNDUwOC00NWZhLWI2ZGYtZjdmYzExZDkzZmNmXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDY0OWNjNDgtNDUwOC00NWZhLWI2ZGYtZjdmYzExZDkzZmNmXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+        "uploadDate": "2021-11-26T20:05:00.624Z",
+        "url": "https://www.imdb.com/video/vi584434457/"
+    },
+    "url": "/title/tt0097500/"
+}

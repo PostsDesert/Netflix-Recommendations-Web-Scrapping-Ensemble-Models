@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Yves Montand",
+            "url": "/name/nm0598971/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jane Fonda",
+            "url": "/name/nm0000404/"
+        },
+        {
+            "@type": "Person",
+            "name": "Vittorio Caprioli",
+            "url": "/name/nm0135671/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3718,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "alternateName": "Tout Va Bien",
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0128426/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0128427/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0012150/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jean-Luc Godard",
+            "url": "/name/nm0000419/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jean-Pierre Gorin",
+            "url": "/name/nm0330948/"
+        }
+    ],
+    "datePublished": "1973-02-16",
+    "description": "Godard examines the structure of movies, relationships and revolutions through the life of a couple in Paris.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jean-Luc Godard",
+            "url": "/name/nm0000419/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jean-Pierre Gorin",
+            "url": "/name/nm0330948/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE4MzA3NTc1MF5BMl5BanBnXkFtZTcwMDIxODcyMQ@@._V1_.jpg",
+    "keywords": "artistic creation,disillusionment,political demonstration,burning bus,france",
+    "name": "Tout va bien",
+    "original_info": {
+        "id": "Tout Va Bien_1973",
+        "name": "Tout Va Bien",
+        "year": "1973"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "rbloom333"
+        },
+        "dateCreated": "2008-11-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0069398/"
+        },
+        "name": "Good One",
+        "reviewBody": "Jean-Luc Godard's follow-up to the ultra-Maoist Weekend, featuring Yves Montand as a former New Wave filmmaker and his wife Jane Fonda, as they become active in a factory takeover. The film is of course very sympathetic to Marxism and perhaps Leninism, but it's certainly toned down from the blood fest that is Weekend, perhaps regrettably. Godard insists on reinterpreting and imposing entirely new ideas about what a film can and ought to be, in this case an intellectualized espousal of the working class struggle. A few moments of daring misce-en-scene are worth mentioning; fist, Godard includes an awesome cutaway of the factory to reveal the power-dynamics of the uprising within, and an elaborate tracking sequence in a supermarket to reveal the gross stupidity of capitalist consumerism. Tout Va Bien is clearly a step-down from Godard's brilliant features of the 60's, but it's still provocative and worth any cinephile's time.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0069398/"
+}

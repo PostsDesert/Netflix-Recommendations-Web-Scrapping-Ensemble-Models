@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jason Statham",
+            "url": "/name/nm0005458/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brad Pitt",
+            "url": "/name/nm0000093/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen Graham",
+            "url": "/name/nm0334318/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 867992,
+        "ratingValue": 8.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0000750/"
+        },
+        {
+            "@type": "Person",
+            "name": "Guy Ritchie",
+            "url": "/name/nm0005363/"
+        }
+    ],
+    "datePublished": "2001-01-19",
+    "description": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Guy Ritchie",
+            "url": "/name/nm0005363/"
+        }
+    ],
+    "duration": "PT1H42M",
+    "genre": [
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "keywords": "diamond,boxer,narrated by character,cockney accent,ensemble cast",
+    "name": "Snatch",
+    "original_info": {
+        "id": "Snatch_2000",
+        "name": "Snatch",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "SpudMons"
+        },
+        "dateCreated": "2000-09-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0208092/"
+        },
+        "name": "A Comedy Masterpiece",
+        "reviewBody": "\"Snatch\" is fantastic; and not least because it demonstrates emphatically that the British movie industry is capable of rivaling even the best of what Hollywood can offer.\n\n\"Lock, Stock and Two Smoking Barrels\" was one of the funniest movies released in recent years, and \"Snatch\" takes everything that \"Lock, Stock...\" did so well and does it even better.\n\nBack are the cleverly intertwined plotlines, the hilarious one-liners, and the simultaneously intimidating and comedic London villains. So is the skillful editing, and often original cinematographic style. This time however, it all looks somewhat slicker and better funded, and alongside the British regulars are the odd American celebrity (Brad Pitt, Benicio Del Toro).\n\nEveryone in the film puts in an excellent performance, but Pitt stands out as a charismatic and near-incomprehensible Gypsy boxer.\n\nLike Ritchie's earlier film, this one takes a little while to find its feet, but once it does the pace doesn't slacken until the finale. One scene featuring three guys and a squeaking dog in a stolen car stands out particularly, and left the audience at my local cinema almost weeping as punchline after punchline was uttered.\n\nWhen it comes to comedies, I cannot recommend this one highly enough. If you're after a good laugh, you won't find much to better \"Snatch\".",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Screen Gems",
+        "duration": "PT2M2S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1558577433",
+        "name": "Snatch",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOGU4YzdkNmQtMjJjMS00MDA4LTkwYWUtYjNiNDNhMDMzZDcwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGU4YzdkNmQtMjJjMS00MDA4LTkwYWUtYjNiNDNhMDMzZDcwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-05-30T02:10:57Z",
+        "url": "https://www.imdb.com/video/vi1558577433/"
+    },
+    "url": "/title/tt0208092/"
+}

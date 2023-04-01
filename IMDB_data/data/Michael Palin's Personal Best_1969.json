@@ -1,0 +1,43 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVEpisode",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Graham Chapman",
+            "url": "/name/nm0001037/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Cleese",
+            "url": "/name/nm0000092/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Palin",
+            "url": "/name/nm0001589/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 46,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "datePublished": "2006-03-08",
+    "description": "The very best of Michael Palin's Monty Python performances and sketches.",
+    "duration": "PT56M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTIwOTUyM2YtYzNhNS00NDg5LTgxZDEtZWFmOTRmY2Y0YmQ2XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+    "name": "Michael Palin's Personal Best",
+    "original_info": {
+        "id": "Michael Palin's Personal Best_1969",
+        "name": "Michael Palin's Personal Best",
+        "year": "1969"
+    },
+    "timeRequired": "PT56M",
+    "url": "/title/tt1228428/"
+}

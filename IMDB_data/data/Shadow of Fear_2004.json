@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Matthew Davis",
+            "url": "/name/nm0205127/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Spader",
+            "url": "/name/nm0000652/"
+        },
+        {
+            "@type": "Person",
+            "name": "Aidan Quinn",
+            "url": "/name/nm0001644/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1634,
+        "ratingValue": 5,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002572/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0005704/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0022821/"
+        },
+        {
+            "@type": "Person",
+            "name": "Matt Holloway",
+            "url": "/name/nm0391344/"
+        },
+        {
+            "@type": "Person",
+            "name": "Art Marcum",
+            "url": "/name/nm1436466/"
+        }
+    ],
+    "datePublished": "2005-01-11",
+    "description": "When a young man accidentally kills someone, he is plunged into a rich man's world of blackmail, betrayal, adultery and ...murder.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Rich Cowan",
+            "url": "/name/nm0184616/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTVlNzI2MjYtMjBlMi00YWNiLWEzMjUtOGE0ZDcwZTFhYjY0XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+    "keywords": "betrayal,murder,blackmail,radio news,listening to a radio",
+    "name": "Shadow of Fear",
+    "original_info": {
+        "id": "Shadow of Fear_2004",
+        "name": "Shadow of Fear",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Wizard-8"
+        },
+        "dateCreated": "2013-11-05",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0378306/"
+        },
+        "name": "Frequently incoherent",
+        "reviewBody": "\"Shadow of Fear\" has some pretty good production values for a low budget direct to DVD movie. It also has some decent acting by the various participants on the screen. Unfortunately, it's hard to build any enthusiasm for the rest of the movie. The story elements and the characters are often so murky that it's hard to understand what is going on at times. It's like starting a novel at chapter 3, since a lot of the elements in the movie movie go are never explained at all. Some elements are (eventually) explained, but much of the movie remains confusing. What went wrong here? Since I find it hard to believe that production would go ahead on an incoherent screenplay, I suspect that the original cut of the movie ran a lot longer, and when the movie was subsequently cut down to run at a more reasonable length, a lot of explanation was removed. It's too bad, because there are signs that the original cut would have been engaging despite its length. You'd be better off waiting for a director's cut instead of watching the movie as it is right now."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from DEJ",
+        "duration": "PT1M32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi160563481",
+        "name": "Shadow of Fear",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjY3MGY4MzYtZDc5NC00ZDI3LWE2N2YtYzUxNzI0OGU3ZmVlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjY3MGY4MzYtZDc5NC00ZDI3LWE2N2YtYzUxNzI0OGU3ZmVlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:45:35Z",
+        "url": "https://www.imdb.com/video/vi160563481/"
+    },
+    "url": "/title/tt0378306/"
+}

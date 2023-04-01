@@ -1,0 +1,90 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Joe Sears",
+            "url": "/name/nm0780769/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jaston Williams",
+            "url": "/name/nm0929588/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 143,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0003255/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ed Howard",
+            "url": "/name/nm0397265/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joe Sears",
+            "url": "/name/nm0780769/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jaston Williams",
+            "url": "/name/nm0929588/"
+        }
+    ],
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jim Borden",
+            "url": "/name/nm0096137/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ed Howard",
+            "url": "/name/nm0397265/"
+        }
+    ],
+    "duration": "PT1H42M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTgwNjY3MDkxN15BMl5BanBnXkFtZTcwMzgxNjUyMQ@@._V1_.jpg",
+    "keywords": "two man play,funeral,filmed stage play,dysfunctional family,bigotry",
+    "name": "Greater Tuna",
+    "original_info": {
+        "id": "Greater Tuna_1994",
+        "name": "Greater Tuna",
+        "year": "1994"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "tavm"
+        },
+        "dateCreated": "2008-01-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0190435/"
+        },
+        "name": "See Greater Tuna for the eccentric characters played by Jaston Williams and Joe Sears",
+        "reviewBody": "After seeing A Tuna Christmas on a VHS tape I checked from the library several weeks ago, I went back and found that play's predecessor, Greater Tuna, on DVD there. Once again, it was authored by Ed Howard and the show's stars (and only players), Joe Sears and Jaston Williams. And once again, some of the same characters they played there appeared here starting with the morning radio personalities who inform the small town of Tuna, Texas of the local happenings. We go on from there to a woman who has a depressed daughter who didn't make cheerleader tryouts (again) to a man who died in a bathing suit to another man who claimed to see a UFO to...Oh, just watch it. The humor is mostly gentle if a little outrageous as the play goes on. As I said before, this was the kind of thing that could have been a movie directed by Robert Altman. So on that note, Greater Tuna is highly recommended.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0190435/"
+}

@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kelsey Grammer",
+            "url": "/name/nm0001288/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cary Elwes",
+            "url": "/name/nm0000144/"
+        },
+        {
+            "@type": "Person",
+            "name": "Viola Davis",
+            "url": "/name/nm0205626/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4616,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0008693/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Burton",
+            "url": "/name/nm0123605/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jamie Malanowski",
+            "url": "/name/nm0538932/"
+        },
+        {
+            "@type": "Person",
+            "name": "Martyn Burke",
+            "url": "/name/nm0121789/"
+        }
+    ],
+    "datePublished": "1998-02-28",
+    "description": "Story of a cover up in the military.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Richard Benjamin",
+            "url": "/name/nm0000907/"
+        }
+    ],
+    "duration": "PT1H44M",
+    "genre": [
+        "Comedy",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTg5ZDc4ZTQtMzc5YS00NTJjLTkzY2QtNTMxYTUzMmUyMTJjXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",
+    "keywords": "cover up,army,military,u.s. air force,u.s. army",
+    "name": "The Pentagon Wars",
+    "original_info": {
+        "id": "The Pentagon Wars_1998",
+        "name": "The Pentagon Wars",
+        "year": "1998"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "NCYankee"
+        },
+        "dateCreated": "1999-01-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0144550/"
+        },
+        "name": "Comedy or horror?",
+        "reviewBody": "I thoroughly enjoyed this film, especially Kelsey Grammar as the unflappable general - always ready with a quick answer and so sincere you want to believe him, despite the utter absurdity of what he is saying. I am not sure whether to treat this movie as comedy or horror - it would be quite amusing as fiction , but I find it rather terrifying to think that it is based on a true story. Is this really how our tax dollars are wasted? As a former member of the military I find it all too easy to believe."
+    },
+    "url": "/title/tt0144550/"
+}

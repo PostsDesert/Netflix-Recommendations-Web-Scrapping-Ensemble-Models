@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tatyana Ali",
+            "url": "/name/nm0004700/"
+        },
+        {
+            "@type": "Person",
+            "name": "Boti Bliss",
+            "url": "/name/nm0088502/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gable Carr",
+            "url": "/name/nm1382330/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 8006,
+        "ratingValue": 4.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0102282/"
+        },
+        {
+            "@type": "Person",
+            "name": "Pat Casey",
+            "url": "/name/nm1352459/"
+        },
+        {
+            "@type": "Person",
+            "name": "Josh Miller",
+            "url": "/name/nm1351254/"
+        }
+    ],
+    "datePublished": "2004-08-20",
+    "description": "Set during a crazy afternoon in the lives of a dozen college students at a co-ed dorm that starts with the arrival of two very different women with the same name of Dominique.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David Hillenbrand",
+            "url": "/name/nm0384862/"
+        },
+        {
+            "@type": "Person",
+            "name": "Scott Hillenbrand",
+            "url": "/name/nm0384863/"
+        }
+    ],
+    "duration": "PT1H36M",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU1ODY0NjU5M15BMl5BanBnXkFtZTgwOTA0NzgwMzE@._V1_.jpg",
+    "keywords": "undressing,prostitute,mistaken identity,call girl,loss of virginity",
+    "name": "Dorm Daze",
+    "original_info": {
+        "id": "Dorm Daze_2003",
+        "name": "Dorm Daze",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "mdamicoinla"
+        },
+        "dateCreated": "2003-09-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0362511/"
+        },
+        "name": "I laughed from beginning to end",
+        "reviewBody": "I thought Dorm Daze was great fun. I recommend it highly. This is a National Lampoon gem. All their movies should be so good. David and Scott Hillenbrand have a knack for this genre of film. Get a bunch of your friends together and laugh your asses off!"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Set during a crazy afternoon in the lives of a dozen college students at a co-ed dorm that starts with the arrival of two very different women with the same name of Dominique.",
+        "duration": "PT1M55S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2626536217",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTc2NjU0MWEtYTA4NS00MmI5LWIzNWEtMTRjYmY4YjFkNmYzXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTc2NjU0MWEtYTA4NS00MmI5LWIzNWEtMTRjYmY4YjFkNmYzXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-10-26T23:18:51.750Z",
+        "url": "https://www.imdb.com/video/vi2626536217/"
+    },
+    "url": "/title/tt0362511/"
+}

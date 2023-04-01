@@ -1,0 +1,69 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kevin Clash",
+            "url": "/name/nm0165159/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 11,
+        "ratingValue": 5.7,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0058596/"
+        },
+        {
+            "@type": "Person",
+            "name": "Judy Freudberg",
+            "url": "/name/nm0294440/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tony Geiss",
+            "url": "/name/nm0312076/"
+        },
+        {
+            "@type": "Person",
+            "name": "Belinda Ward",
+            "url": "/name/nm1014209/"
+        }
+    ],
+    "datePublished": "2004-06-08",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ken Diego",
+            "url": "/name/nm0225924/"
+        },
+        {
+            "@type": "Person",
+            "name": "Victor DiNapoli",
+            "url": "/name/nm0227521/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve Feldman",
+            "url": "/name/nm1183878/"
+        }
+    ],
+    "duration": "PT53M",
+    "genre": [
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzU2M2ZiMzYtNzlhMS00OTdjLWIwODItZGYzYzdiNWU0M2NmXkEyXkFqcGdeQXVyNzkzMDc1MTc@._V1_.jpg",
+    "name": "Elmo's World: Families, Mail & Bath Time!",
+    "original_info": {
+        "id": "Elmo's World: Families_2003",
+        "name": "Elmo's World: Families",
+        "year": "2003"
+    },
+    "url": "/title/tt1640686/"
+}

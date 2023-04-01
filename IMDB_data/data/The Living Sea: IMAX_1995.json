@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Steven K. Katona",
+            "url": "/name/nm0457576/"
+        },
+        {
+            "@type": "Person",
+            "name": "Meryl Streep",
+            "url": "/name/nm0000658/"
+        },
+        {
+            "@type": "Person",
+            "name": "Judith Connor",
+            "url": "/name/nm1873051/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 597,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0144123/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0143772/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0098967/"
+        },
+        {
+            "@type": "Person",
+            "name": "Roger Holzberg",
+            "url": "/name/nm0392770/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tim Cahill",
+            "url": "/name/nm9204947/"
+        }
+    ],
+    "datePublished": "1995-02-09",
+    "description": "Filmmaker Greg MacGillivray examines the world's oceans and their importance to life on Earth.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Greg MacGillivray",
+            "url": "/name/nm0532263/"
+        }
+    ],
+    "duration": "PT40M",
+    "genre": [
+        "Documentary",
+        "Short"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMyNTE1NzQ2Nl5BMl5BanBnXkFtZTcwMTkzMDYyMQ@@._V1_.jpg",
+    "keywords": "underwater scene,underwater,marine biology,ecosystem,ocean",
+    "name": "The Living Sea",
+    "original_info": {
+        "id": "The Living Sea: IMAX_1995",
+        "name": "The Living Sea: IMAX",
+        "year": "1995"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "matt-81"
+        },
+        "dateCreated": "1999-07-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0113676/"
+        },
+        "name": "The best IMAX film I have seen...",
+        "reviewBody": "I am an avid fan of the IMAX format, but rarely have I ever been a fan of any IMAX film. This is the one IMAX film that I feel has used the advantages of the format in nearly every shot, and besides that, it is an elegantly produced little film. Extremely beautiful, with many highlights. It is a must-see for all those who've never been exactly impressed by anything at an IMAX show (although the 'industry' is working overtime in amping up this cinema-sideshow - they promise it will be the 'next big thing' in movies). DON'T WATCH IT AT HOME.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for The Living Sea",
+        "duration": "PT2M20S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2984313113",
+        "name": "The Living Sea",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODYxODIwNmUtYWQ4MC00ZmIzLTlkZjItNGZiMmE5ZTJlNmI5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODYxODIwNmUtYWQ4MC00ZmIzLTlkZjItNGZiMmE5ZTJlNmI5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-18T11:55:14Z",
+        "url": "https://www.imdb.com/video/vi2984313113/"
+    },
+    "url": "/title/tt0113676/"
+}

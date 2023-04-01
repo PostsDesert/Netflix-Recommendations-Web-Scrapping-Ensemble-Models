@@ -1,0 +1,117 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Hayden Christensen",
+            "url": "/name/nm0159789/"
+        },
+        {
+            "@type": "Person",
+            "name": "Natalie Portman",
+            "url": "/name/nm0000204/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ewan McGregor",
+            "url": "/name/nm0000191/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 723134,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0071326/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0156515/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0123767/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Lucas",
+            "url": "/name/nm0000184/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jonathan Hales",
+            "url": "/name/nm0355054/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Ostrander",
+            "url": "/name/nm1694619/"
+        }
+    ],
+    "datePublished": "2002-05-16",
+    "description": "Ten years after initially meeting, Anakin Skywalker shares a forbidden romance with Padmé Amidala, while Obi-Wan Kenobi discovers a secret clone army crafted for the Jedi.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "George Lucas",
+            "url": "/name/nm0000184/"
+        }
+    ],
+    "duration": "PT2H22M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDAzM2M0Y2UtZjRmZi00MzVlLTg4MjEtOTE3NzU5ZDVlMTU5XkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_.jpg",
+    "keywords": "clone wars,star wars,the force,part of trilogy,opening crawl",
+    "name": "Star Wars: Episode II - Attack of the Clones",
+    "original_info": {
+        "id": "Star Wars: Episode II: Attack of the Clones: Bonus Material_2002",
+        "name": "Star Wars: Episode II: Attack of the Clones: Bonus Material",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "sme_no_densetsu"
+        },
+        "dateCreated": "2015-12-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0121765/"
+        },
+        "name": "A definite improvement over \"The Phantom Menace\" but still not up to the level of the original trilogy",
+        "reviewBody": "Episode II of the Star Wars saga, \"Attack of the Clones\" had the misfortune of following the poorly received first instalment. The good news is that it corrected most of the problems that plagued the first movie. While still not in the same league as the original trilogy, it was nevertheless a step in the right direction.\n\nSeveral cast members from the first movie returned and, thankfully, stars Ewan McGregor & Natalie Portman fared much better this time around. Additionally, Christopher Lee provided a strong villainous presence that was sorely lacking from the first movie. Hayden Christensen stepped into the role of Anakin Skywalker and he at least did better than Jake Lloyd, though that's a case of damning with faint praise. Admittedly, though, his character wasn't written especially well, so it wasn't all his fault.\n\nSpeaking of writing, this time around George Lucas had the good sense to work with someone else on the screenplay. While the dialogue is still a bit stilted at times, the improvement is noticeable. Lucas also occupied the director's chair once again, with satisfactory results.\n\nFrom a technical standpoint, the movie is highly accomplished, even though some of the profuse CGI is overly ambitious. In any case, the visual effects ended up being the source of the film's sole Oscar nomination. As usual, John Williams's score was also a highlight.\n\nHowever, perhaps the most important difference this time around is that story is much more engaging as it really begins to set the stage for Anakin's inevitable transformation into Darth Vader. The movie's romantic elements may be awkward at times but, overall, the script does a pretty good job of balancing action and laying the foundation for the events to come.\n\nUltimately, I think that \"Attack of the Clones\" is underrated. It does have some problems but it managed to set the trilogy back on the right track. Thankfully, the concluding chapter would continue this upward trend.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT1M6S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1132511001",
+        "name": "Star Wars: Episode II - Attack of the Clones",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNmY5ZDM4ZGItNmQ0OC00YjU1LTkyZDYtNDRhMTM5NjljNWFlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNmY5ZDM4ZGItNmQ0OC00YjU1LTkyZDYtNDRhMTM5NjljNWFlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg",
+        "uploadDate": "2019-09-27T17:03:21.305Z",
+        "url": "https://www.imdb.com/video/vi1132511001/"
+    },
+    "url": "/title/tt0121765/"
+}

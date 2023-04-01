@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "James Hetfield",
+            "url": "/name/nm0381723/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kirk Hammett",
+            "url": "/name/nm0004987/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lars Ulrich",
+            "url": "/name/nm0005515/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 19658,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0029540/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0117755/"
+        }
+    ],
+    "description": "The iconic metal band struggles for two years to create their album St. Anger, dealing with alcoholism, the loss of their bass player, and the challenge of working with a psychotherapist.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Joe Berlinger",
+            "url": "/name/nm0075666/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bruce Sinofsky",
+            "url": "/name/nm0802501/"
+        }
+    ],
+    "duration": "PT1H24M",
+    "genre": [
+        "Documentary",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA4MzY1Nzc3NF5BMl5BanBnXkFtZTYwMzUxNTU3._V1_.jpg",
+    "keywords": "rock music,heavy metal,guitar,bassist,band",
+    "name": "Metallica: Some Kind of Monster",
+    "original_info": {
+        "id": "Metallica: Some Kind of Monster: Bonus Material_2004",
+        "name": "Metallica: Some Kind of Monster: Bonus Material",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "SnoopyStyle"
+        },
+        "dateCreated": "2015-09-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0387412/"
+        },
+        "name": "some kind of therapy",
+        "reviewBody": "It's 2001. Metallica is making a new album and rents out space in the Presidio. Bassist Jason Newsted had left the band in frustration and starts his own band. The group is in therapy to work out their dysfunctional relationship. They continue to fight as front man James Hetfield leaves to enter rehab. Former Metallica guitarist Dave Mustaine explains the effects of his ejection from the group to Lars Ulrich and Kirk Hammett even with his subsequent success with Megadeth. After a year, James finally returns with new focus on sobriety and less time on the music. They slowly try to rebuild the band with new bassist Robert Trujillo.\n\nThis is a brave documentary from Metallica. They're showing many of the ugly struggles behind the scenes. It is personal and messy. The most compelling scene is Dave Mustaine's breakdown reunion. James and Lars' complicated work marriage with each other fills most of the rest of the movie. It's not necessarily a fun watch but it is interesting. It's probably much more compelling for Metallica fans but it's also a human story for everybody else.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Preview",
+        "duration": "PT2M27S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1620443417",
+        "name": "Metallica: Some Kind of Monster",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTIyMDIyMzcyN15BMl5BanBnXkFtZTcwNzkwMTc2MQ@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTIyMDIyMzcyN15BMl5BanBnXkFtZTcwNzkwMTc2MQ@@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:01:10Z",
+        "url": "https://www.imdb.com/video/vi1620443417/"
+    },
+    "url": "/title/tt0387412/"
+}

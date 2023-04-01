@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jennifer Aniston",
+            "url": "/name/nm0000098/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jay Mohr",
+            "url": "/name/nm0001542/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kevin Bacon",
+            "url": "/name/nm0000102/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 20735,
+        "ratingValue": 5.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0070636/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Person",
+            "name": "Arleen Sorkin",
+            "url": "/name/nm0815071/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Slansky",
+            "url": "/name/nm0805284/"
+        },
+        {
+            "@type": "Person",
+            "name": "May Quigley",
+            "url": "/name/nm0703515/"
+        }
+    ],
+    "datePublished": "1997-08-01",
+    "description": "A young advertising executive's life becomes increasingly complicated when, in order to impress her boss, she pretends to be engaged to a man she has just met.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Glenn Gordon Caron",
+            "url": "/name/nm0139111/"
+        }
+    ],
+    "duration": "PT1H41M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BY2UwN2E0ZGItYmM3NC00ODVkLTkxOGItNGQ1NDMxMDdiMjQ0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+    "keywords": "female protagonist,working woman,guilt,revelation,new york city",
+    "name": "Picture Perfect",
+    "original_info": {
+        "id": "Picture Perfect_1997",
+        "name": "Picture Perfect",
+        "year": "1997"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "rachel-mary"
+        },
+        "dateCreated": "2004-05-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0119896/"
+        },
+        "name": "Sweet enough",
+        "reviewBody": "So this film made me cry - but when you consider that I cried when the villain died in 'Beauty & The Beast', this is no great feat.\n\nFor a 'romantic comedy', this film is almost dramatically unfunny. I barely even sniggered. But I still liked it - this is possibly due to the fact I'm a sucker for romance (and awwwww Jay Mohr's character is soooo sweet!) and I like Jennifer Aniston (but what is going on with her clothes and make-up in this film?!). The acting is pretty solid, with all the cast quite likable, but hmmmm... plot-wise - well, where was it really?! And as for the ending!\n\nAfter all that build-up, it is such an anti-climax!\n\nStill, it's one of those films that's hard to dislike with any real vigour because there's so little to it. Instantly forgettable, yet sweet all the same."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from 20th Century Fox Home Entertainment",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1753219353",
+        "name": "Picture Perfect",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMWFlYWFhNGEtNGQ4Ni00NGU3LWExYjItNTc0Yjk0MjNhNWM3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMWFlYWFhNGEtNGQ4Ni00NGU3LWExYjItNTc0Yjk0MjNhNWM3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:39:34Z",
+        "url": "https://www.imdb.com/video/vi1753219353/"
+    },
+    "url": "/title/tt0119896/"
+}

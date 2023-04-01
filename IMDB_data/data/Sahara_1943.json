@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Humphrey Bogart",
+            "url": "/name/nm0000007/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bruce Bennett",
+            "url": "/name/nm0071636/"
+        },
+        {
+            "@type": "Person",
+            "name": "J. Carrol Naish",
+            "url": "/name/nm0619798/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9176,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Howard Lawson",
+            "url": "/name/nm0493251/"
+        },
+        {
+            "@type": "Person",
+            "name": "Zoltan Korda",
+            "url": "/name/nm0466113/"
+        },
+        {
+            "@type": "Person",
+            "name": "James O'Hanlon",
+            "url": "/name/nm0641199/"
+        }
+    ],
+    "datePublished": "1943-11-11",
+    "description": "After the fall of Tobruk in 1942, during the Allied retreat in the Libyan desert, an American tank picks-up a motley group of survivors but they face advancing Germans and a lack of water.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Zoltan Korda",
+            "url": "/name/nm0466113/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Action",
+        "Drama",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAwMDk1NzE4MV5BMl5BanBnXkFtZTgwMzA3Mzc0MjE@._V1_.jpg",
+    "keywords": "world war two,tank,sahara,british soldier,reference to muhammad",
+    "name": "Sahara",
+    "original_info": {
+        "id": "Sahara_1943",
+        "name": "Sahara",
+        "year": "1943"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "blanche-2"
+        },
+        "dateCreated": "2009-03-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0036323/"
+        },
+        "name": "Very good war drama",
+        "reviewBody": "\"Sahara\" is a 1943 film starring Humphrey Bogart, directed by Zoltan Korda, and intended as a propaganda film during World War II. It succeeds.\n\nBogart is a Sgt. Joe Gunn, and after Tobruk falls in North Africa, he leads a tank unit into the desert. He's joined by French, South African, British, and Sudanese soldiers. They come up against a group of Germans that want the water well where the tanks are stationed.\n\nBesides Bogart, the great cast includes Bruce Bennett. Lloyd Bridges, Dan Duryea and J. Carrol Naish, and they all do an exemplary job. What I like best about this film is the atmosphere - the sun beating down, the dryness, the filth - you're thirsty just watching it.\n\nIt was films like this that probably kept people in the U.S. going during the war, I imagine. World War II has been highly romanticized, but despite the pretty songs, there wasn't anything romantic about it. Since there are no women in this film, there's nothing romantic about \"Sahara\" either. Very good work.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT1M41S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi476036889",
+        "name": "Sahara",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjA4YjViYTEtNzZhZS00MTc1LTg4MDQtMzc5ZjY3ZmIwOGM4XkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjA4YjViYTEtNzZhZS00MTc1LTg4MDQtMzc5ZjY3ZmIwOGM4XkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-02-07T23:27:45.930Z",
+        "url": "https://www.imdb.com/video/vi476036889/"
+    },
+    "url": "/title/tt0036323/"
+}

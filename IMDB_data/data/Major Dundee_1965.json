@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Charlton Heston",
+            "url": "/name/nm0000032/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Harris",
+            "url": "/name/nm0001321/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Hutton",
+            "url": "/name/nm0001380/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 8361,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0061327/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harry Julian Fink",
+            "url": "/name/nm0277807/"
+        },
+        {
+            "@type": "Person",
+            "name": "Oscar Saul",
+            "url": "/name/nm0766665/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sam Peckinpah",
+            "url": "/name/nm0001603/"
+        }
+    ],
+    "datePublished": "1965-03-15",
+    "description": "In 1864, due to frequent Apache raids from Mexico into the U.S., a Union officer decides to illegally cross the border and destroy the Apache, using a mixed army of Union troops, Confederate POWs, civilian mercenaries, and scouts.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Sam Peckinpah",
+            "url": "/name/nm0001603/"
+        }
+    ],
+    "duration": "PT2H3M",
+    "genre": [
+        "Adventure",
+        "War",
+        "Western"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZWM5MmNiZDYtZmVhNy00NjQzLTlmNTYtODMxMDZiZjkwMTg3XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "keywords": "reference to napoleon bonaparte,one armed man,sierra madre mountains,one armed gunfighter,frontier",
+    "name": "Major Dundee",
+    "original_info": {
+        "id": "Major Dundee_1965",
+        "name": "Major Dundee",
+        "year": "1965"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "BrianG"
+        },
+        "dateCreated": "2000-07-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0059418/"
+        },
+        "name": "It coulda been a contender . . .",
+        "reviewBody": "\"Major Dundee\" is Sam Peckinpah's rehearsal for \"The Wild Bunch.\" The stories for both films are basically the same (men whose time has come and gone and they know it, and who don't fit in either society they are forced to be in, and they know that, too). \"Dundee\" has a good story, excellent action scenes and a sterling supporting cast of first-rate character actors (R.G. Armstrong, John Davis Chandler, Warren Oates, among others), but as previously noted, the film tends to fall apart during the second half. Senta Berger, although ravishing to look at, is totally wasted in a superfluous part, and the entire second half of the film has a choppy, disjointed feel to it. The main problem with it, apparently, was some major interference by Columbia Pictures and especially producer Jerry Bresler. Peckinpah's vision of the story and Bresler's were reportedly miles apart, and after the picture was shot and edited, Bresler and Peckinpah had a major blow-up, the producer had Peckinpah barred from the Columbia lot and hired his own editor to help him recut the picture. When star Charlton Heston saw the version that Bresler and his editor came up with, he went to the executives at Columbia and told them that he would have his name taken off the picture and never work for Columbia again if Peckinpah was not allowed back on the lot to cut the picture the way he wanted. Eventually a compromise was reached and Peckinpah was allowed to work on the editing, but the film still wasn't the way he wanted it, and he basically disowned it. It's too bad, as it's still a very good picture, but it could have been a great one.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "In 1864, due to frequent Apache raids from Mexico into the U.S., a Union officer decides to illegally cross the border and destroy the Apache, using a mixed army of Union troops, Confederate POWs, civilian mercenaries, and scouts.",
+        "duration": "PT3M26S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3824927513",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZmNjM2VhMGYtZjM5OC00YTI0LTg5YTYtZGNmZmJlYjI3ZDhmXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZmNjM2VhMGYtZjM5OC00YTI0LTg5YTYtZGNmZmJlYjI3ZDhmXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-11-08T13:49:59.425Z",
+        "url": "https://www.imdb.com/video/vi3824927513/"
+    },
+    "url": "/title/tt0059418/"
+}

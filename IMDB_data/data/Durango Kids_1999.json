@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Larry Drake",
+            "url": "/name/nm0236952/"
+        },
+        {
+            "@type": "Person",
+            "name": "Curtis Williams",
+            "url": "/name/nm0930323/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brendon Ryan Barrett",
+            "url": "/name/nm0057075/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 408,
+        "ratingValue": 4.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0245730/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Martin Brennan",
+            "url": "/name/nm0006973/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ashton Root",
+            "url": "/name/nm0740503/"
+        }
+    ],
+    "datePublished": "1999-10-10",
+    "description": "Four kids journey back in time in search of lost gold.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ashton Root",
+            "url": "/name/nm0740503/"
+        }
+    ],
+    "duration": "PT1H42M",
+    "genre": [
+        "Family",
+        "Fantasy",
+        "Western"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA0ODg4NTIwOV5BMl5BanBnXkFtZTcwODUwNTQyMQ@@._V1_.jpg",
+    "keywords": "wild west,walkie talkie,sheriff,school,ghost",
+    "name": "Durango Kids",
+    "original_info": {
+        "id": "Durango Kids_1999",
+        "name": "Durango Kids",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "keeganv2005"
+        },
+        "dateCreated": "2003-07-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0267455/"
+        },
+        "name": "Awesome Film",
+        "reviewBody": "This movie is a wonderful fun film that showcases the talents of the young actors in the film. It has a wonderful script and the action sequences are chilling. Durango Kids reminds me of all my adventures as a child."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Lionsgate Home Entertainment",
+        "duration": "PT1M56S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4255252761",
+        "name": "Durango Kids",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZWVjZDEyY2QtYWNkYy00OTU3LWIyNTUtZWU5MWZlMzRiY2UwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZWVjZDEyY2QtYWNkYy00OTU3LWIyNTUtZWU5MWZlMzRiY2UwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:53:54Z",
+        "url": "https://www.imdb.com/video/vi4255252761/"
+    },
+    "url": "/title/tt0267455/"
+}

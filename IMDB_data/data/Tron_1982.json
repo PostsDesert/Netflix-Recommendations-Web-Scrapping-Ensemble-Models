@@ -1,0 +1,113 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jeff Bridges",
+            "url": "/name/nm0000313/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bruce Boxleitner",
+            "url": "/name/nm0000310/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Warner",
+            "url": "/name/nm0001831/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 124366,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0098836/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0021144/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steven Lisberger",
+            "url": "/name/nm0513974/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bonnie MacBird",
+            "url": "/name/nm0531381/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles S. Haas",
+            "url": "/name/nm0351919/"
+        }
+    ],
+    "datePublished": "1982-07-09",
+    "description": "A computer hacker is abducted into the digital world and forced to participate in gladiatorial games where his only chance of escape is with the help of a heroic security program.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Steven Lisberger",
+            "url": "/name/nm0513974/"
+        }
+    ],
+    "duration": "PT1H36M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjgxYzk3NjItNDliMC00YzE5LWEzZDQtZjJjZWUyNjE2MGFkXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "arcade,computer,computer hacker,cyberspace,computer program",
+    "name": "Tron",
+    "original_info": {
+        "id": "Tron_1982",
+        "name": "Tron",
+        "year": "1982"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "DrLex"
+        },
+        "dateCreated": "2005-04-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0084827/"
+        },
+        "name": "Groundbreaking and still entertaining today",
+        "reviewBody": "I still remember having seen parts of this movie when I was a very little kid and I thought it was incredibly cool, I hadn't seen anything like it. Now I have bought the 20th anniversary DVD and this was the first time I watched the movie in its entirety (and with a developed brain). And I still like it. Not in the same way as when I was young, because now I understand the story (I didn't understand English back then and I couldn't read the subtitles) so it's different from what I imagined back then, and now I have seen a truckload of modern movies with CGI effects.\n\nHowever, even though the effects in this movie are somewhat 'dated', they are still unique. While listening to the audio commentary (which is a must if you wonder how they managed to make a movie like this in 1982), I heard someone stating my thoughts exactly: the unique thing about this movie is that while modern movies use CGI in an attempt to simulate the real world, in Tron one tried to simulate a computer world with real world images. Because they did succeed in this, the movie will never become 'dated', while movies trying to use limited CGI effects will become dated as soon as CGI evolves. The limitations of computer graphics at that time forced the makers of the movie to be very creative. E.g. all camera motions in the CG scenes (including the swinging motions in the chase scenes) had to be calculated by hand, there simply was no software for it! Nowadays computer graphics are nearing perfection, and that's why a movie like this will never be made again.\n\nIf you haven't seen this movie yet, to fully appreciate how groundbreaking it is, you must be willing to imagine that you're back in a time where the most complex computer animation to be seen were the moving blocks in video arcades or the 5 seconds of wire-frame models in Star Wars. You might expect that the resolution of the images will be very low and the pictures will be blocky, but this is totally untrue. The images were created at film resolution, often using methods which don't even involve the rasterization of images, so they look perfectly smooth. Some might say too smooth, due to the lack of texture mapping (which hardly existed at that time), but IMHO this is what gives the depicted 'digital world' its unique appearance.\n\nThe story is not of great complexity, but it's original and entertaining enough. Of course it's a Disney movie, so there aren't many 'sharp edges' to it (a scene with a mildly erotic undertone was even removed), but don't expect 'Bambi' sweetness either. Grown-ups will probably be more amazed by the kind of effects they managed to pull off in 1982, while children will be enchanted by the strange world shown in this movie. If you want to entertain young kids during a hour and a half, this movie will be perfect. They will like every bit (pun intended) of it!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A computer hacker is abducted into the digital world and forced to participate in gladiatorial games where his only chance of escape is with the help of a heroic security program.",
+        "duration": "PT2M33S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4228627993",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BM2JkZWZkMmEtZTEwNS00MTc4LTg1NzEtNWJkZmY0ZGEwNWNhXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BM2JkZWZkMmEtZTEwNS00MTc4LTg1NzEtNWJkZmY0ZGEwNWNhXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-07-14T13:40:40.621Z",
+        "url": "https://www.imdb.com/video/vi4228627993/"
+    },
+    "url": "/title/tt0084827/"
+}

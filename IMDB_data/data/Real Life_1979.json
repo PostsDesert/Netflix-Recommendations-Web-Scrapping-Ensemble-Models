@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dick Haynes",
+            "url": "/name/nm0371441/"
+        },
+        {
+            "@type": "Person",
+            "name": "Albert Brooks",
+            "url": "/name/nm0000983/"
+        },
+        {
+            "@type": "Person",
+            "name": "Matthew Tobin",
+            "url": "/name/nm0864952/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3429,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Person",
+            "name": "Monica Mcgowan Johnson",
+            "url": "/name/nm0569606/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harry Shearer",
+            "url": "/name/nm0733427/"
+        },
+        {
+            "@type": "Person",
+            "name": "Albert Brooks",
+            "url": "/name/nm0000983/"
+        }
+    ],
+    "datePublished": "1979-03-23",
+    "description": "A film crew sets out to record a year in the life of an average family, but things quickly start going wrong.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Albert Brooks",
+            "url": "/name/nm0000983/"
+        }
+    ],
+    "duration": "PT1H39M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYWYxZTc5ZTMtMTM1Yy00NzgyLWJjMDYtYjMyMGY3YzVjOGMxXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "mockumentary,fictional reality show,horse operation,actor playing himself,veterinarian",
+    "name": "Real Life",
+    "original_info": {
+        "id": "Real Life_1979",
+        "name": "Real Life",
+        "year": "1979"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "epp678"
+        },
+        "dateCreated": "2000-02-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0079781/"
+        },
+        "name": "A Brilliant First Feature!",
+        "reviewBody": "Any Albert Brooks fan who has not seen his first glorious feature is truly missing out. As anyone can attest, Brooks has the rare gift of turning ordinary human moments into riotously funny scenes, and this film is full of such moments, plus much more subversive material, like the way Grodin's character repeatedly comes perilously close to committing a felony against his family.\n\nPerhaps the greatest joke of all is that while the character \"Albert Brooks\" continuously states how he is documenting real life, we all know that this is really a star vehicle for him. He is more concerned with how much everything costs, like the head-held cameras (for those who haven't seen it, imagine the result of torrid affair between Dave Bowman and the Hal-9000). This film, more that anything, is a satirical take on how Hollywood subverts what is really \"real life,\" all this coming from a director with as great a grasp on how humans relate to one another than anyone.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A film crew sets out to record a year in the life of an average family, but things quickly start going wrong.",
+        "duration": "PT3M18S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2324677401",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjliOGZmN2EtMzI0MC00Y2M5LWI0ZDctYzNiNGQ2Njg5ZWE5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjliOGZmN2EtMzI0MC00Y2M5LWI0ZDctYzNiNGQ2Njg5ZWE5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-10-28T19:37:04.069Z",
+        "url": "https://www.imdb.com/video/vi2324677401/"
+    },
+    "url": "/title/tt0079781/"
+}

@@ -1,0 +1,116 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Arnold Schwarzenegger",
+            "url": "/name/nm0000216/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nick Stahl",
+            "url": "/name/nm0001763/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kristanna Loken",
+            "url": "/name/nm0518085/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 405736,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0066021/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0010183/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0109128/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Brancato",
+            "url": "/name/nm0104335/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Ferris",
+            "url": "/name/nm0274905/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tedi Sarafian",
+            "url": "/name/nm0093328/"
+        }
+    ],
+    "datePublished": "2003-07-02",
+    "description": "A machine from a post-apocalyptic future travels back in time to protect a man and a woman from an advanced robotic assassin to ensure they both survive a nuclear attack.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jonathan Mostow",
+            "url": "/name/nm0609236/"
+        }
+    ],
+    "duration": "PT1H49M",
+    "genre": [
+        "Action",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk5NzM1ODgyN15BMl5BanBnXkFtZTcwMzA5MjAzMw@@._V1_.jpg",
+    "keywords": "time travel,skynet,humanoid cyborg,exploding truck,nuclear launch",
+    "name": "Terminator 3: Rise of the Machines",
+    "original_info": {
+        "id": "Terminator 3: Rise of the Machines_2003",
+        "name": "Terminator 3: Rise of the Machines",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "asgrrr"
+        },
+        "dateCreated": "2019-11-22",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0181852/"
+        },
+        "name": "Not a Bad Third Album",
+        "reviewBody": "I'm a Terminator fan. T2 is a high water mark in action film making that few will ever reach. This movie, Terminator 3:Rise of the machines, is worth some money seeing. It was never going to match T2, let's be realistic. But it's anything but terrible. There's female injection, but there had to be some to make up for Sarah Connor, it's not a problem. The first half is sufficiently interesting, and the action is sufficiently exciting, but not much more. The plot is well set up, regarding John Connor's situation. Now, I don't want to spoil, but the ending really - REALLY - hits home. Incredibly powerful.\n\nAll in all, this film moves along from the position of T2, and delivers everything sufficiently well, or even a lot better than that. A worthy third instalment.\n\nP.S. isn't it interesting that T3 and Dark Fate score about the same but T3 has mostly positive reviews but D.F. has mostly terrible reviews? Just a thought.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2056585497",
+        "name": "Terminator 3: Rise of the Machines",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTk1OGM3YTctZDhmYy00Y2IwLWExMDgtMDA2Mzg4MWM0YWFkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTk1OGM3YTctZDhmYy00Y2IwLWExMDgtMDA2Mzg4MWM0YWFkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:57:44Z",
+        "url": "https://www.imdb.com/video/vi2056585497/"
+    },
+    "url": "/title/tt0181852/"
+}

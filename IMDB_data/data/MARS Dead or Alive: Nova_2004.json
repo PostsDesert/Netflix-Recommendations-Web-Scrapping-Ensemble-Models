@@ -1,0 +1,58 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVEpisode",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mark Adler",
+            "url": "/name/nm2725486/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Colvin",
+            "url": "/name/nm1788114/"
+        },
+        {
+            "@type": "Person",
+            "name": "Juan R. Cruz",
+            "url": "/name/nm3258817/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 54,
+        "ratingValue": 7.8,
+        "worstRating": 1
+    },
+    "contentRating": "TV-G",
+    "creator": [
+        {
+            "@type": "Person",
+            "name": "Mark Davis",
+            "url": "/name/nm1776970/"
+        }
+    ],
+    "datePublished": "2004-01-04",
+    "description": "NOVA goes behind the scenes at the Jet Propulsion Laboratory to offer a look at the construction and launch of two Martian exploratory rovers: \"Spirit\" and \"Opportunity\".",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mark Davis",
+            "url": "/name/nm1776970/"
+        }
+    ],
+    "duration": "PT57M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjY4MjM5NTg3M15BMl5BanBnXkFtZTgwMDE1NjUyMjE@._V1_.jpg",
+    "name": "Mars Dead or Alive",
+    "original_info": {
+        "id": "MARS Dead or Alive: Nova_2004",
+        "name": "MARS Dead or Alive: Nova",
+        "year": "2004"
+    },
+    "timeRequired": "PT57M",
+    "url": "/title/tt0662638/"
+}

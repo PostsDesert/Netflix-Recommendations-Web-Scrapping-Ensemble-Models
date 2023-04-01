@@ -1,0 +1,51 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Guich Koock",
+            "url": "/name/nm0465515/"
+        },
+        {
+            "@type": "Person",
+            "name": "Scott Bishop",
+            "url": "/name/nm3463165/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lisa Hudson",
+            "url": "/name/nm2570107/"
+        }
+    ],
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0932193/"
+        },
+        {
+            "@type": "Person",
+            "name": "Primrose Fitzgerald",
+            "url": "/name/nm13798688/"
+        }
+    ],
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Gary Lingenfelter",
+            "url": "/name/nm13798663/"
+        }
+    ],
+    "duration": "PT29M",
+    "genre": [
+        "Short",
+        "Drama"
+    ],
+    "name": "Gone to Texas",
+    "original_info": {
+        "id": "Gone to Texas_1986",
+        "name": "Gone to Texas",
+        "year": "1986"
+    },
+    "url": "/title/tt21154138/"
+}

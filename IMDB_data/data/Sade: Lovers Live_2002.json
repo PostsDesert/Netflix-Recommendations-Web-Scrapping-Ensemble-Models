@@ -1,0 +1,52 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sade",
+            "url": "/name/nm0755442/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ryan Waters",
+            "url": "/name/nm10272024/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 109,
+        "ratingValue": 8.4,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0063801/"
+        }
+    ],
+    "datePublished": "2002-03-05",
+    "description": "Concert film of Sade's 2001 tour promoting their new album Lovers Rock. They perform new tracks from that album and many old favorites. Also features backstage footage, a music video of \"King of Sorrow,\" and other bonus features. ...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Sophie Muller",
+            "url": "/name/nm0612244/"
+        }
+    ],
+    "duration": "PT1H56M",
+    "genre": [
+        "Documentary",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzUyZGEyNTEtZmU3Zi00ZGJkLWFjYzctNmU4MjIyNzA2MTU5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "keywords": "concert film",
+    "name": "Sade: Lovers Live",
+    "original_info": {
+        "id": "Sade: Lovers Live_2002",
+        "name": "Sade: Lovers Live",
+        "year": "2002"
+    },
+    "url": "/title/tt0871443/"
+}
