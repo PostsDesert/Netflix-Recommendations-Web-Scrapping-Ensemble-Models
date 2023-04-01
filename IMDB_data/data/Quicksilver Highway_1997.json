@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Christopher Lloyd",
+            "url": "/name/nm0000502/"
+        },
+        {
+            "@type": "Person",
+            "name": "Matt Frewer",
+            "url": "/name/nm0001242/"
+        },
+        {
+            "@type": "Person",
+            "name": "Raphael Sbarge",
+            "url": "/name/nm0768620/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2631,
+        "ratingValue": 4.8,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000076/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0161074/"
+        },
+        {
+            "@type": "Person",
+            "name": "Clive Barker",
+            "url": "/name/nm0000850/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen King",
+            "url": "/name/nm0000175/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mick Garris",
+            "url": "/name/nm0308376/"
+        }
+    ],
+    "datePublished": "1997-05-13",
+    "description": "Traveling showman Aaron Quicksilver tells horror tales: a psychotic hitchhiker falls prey to a relentless dangerously-sharp set of chattering teeth, and a human hand that comes alive.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mick Garris",
+            "url": "/name/nm0308376/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Horror",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE0NjM3OTMwMV5BMl5BanBnXkFtZTcwNjMzODgyMQ@@._V1_.jpg",
+    "keywords": "chattering teeth,anthology,hitchhiker,supernatural power,highway",
+    "name": "Quicksilver Highway",
+    "original_info": {
+        "id": "Quicksilver Highway_1997",
+        "name": "Quicksilver Highway",
+        "year": "1997"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "TBJCSKCNRRQTreviews"
+        },
+        "dateCreated": "2004-07-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0119975/"
+        },
+        "name": "Pretty good, for a made-for-TV horror film",
+        "reviewBody": "I'll start this review by saying that I've read neither of the short stories that this movie is based on, neither Stephen King's Chattery Teeth, nor Cliver Barker's The Body Politic, so I can't comment on whether or not they're accurate conversions of the stories. I will say, however, that based on my limited knowledge of King's work(and my even more limited knowledge of Barker's) that I do believe that they did a pretty good job on bringing the stories to life in this movie. The plot for both stories is good(yes, even the King story, I have to admit, though I despise his works), and it's both involving and interesting, for both segments. The acting ranges from made-for-TV standard, and slightly better; all four of the leads did a good job, as far as I'm concerned: Christopher Lloyd, Matt Frewer, Raphael Sbarge and Missy Crider. I especially enjoyed Lloyd, and his character, the storyteller, who is in both the prologue and the epilogue for both segments, and gives a further chill down the spine with his afterthoughts for both stories. The characters are well-written, credible and easy to relate to, which, I guess, can be credited almost as much to the original authors(King and Barker) as the script writer and director(who, incidentally, is the same person). Both segments are about equally chilling and horrifying, though the first has more buildup and the second has more actual action, which shows the difference in the authors' styles. The direction is pretty good, especially for a TV movie. The special effects are about as good as they get for a TV movie budget. The horror in both segments is fairly chilling and disturbing. They also both give you a little something to think about, once the story is over; this is also pushed a little further in the epilogue for both segments, by the storyteller, Lloyd, which obviously proves that the director/scriptwriter Mick Garris certainly understood both stories, as well as their underlying themes. All in all, a pretty good way to spend 90 minutes if it's on TV and you've got nothing spectacular to do, but not something you'll be watching over and over again. Good for one or two viewings, if you're into this type of horror. I recommend it to fans of King, Barker and Lloyd, and possibly also Garris. Good for spending 90 minutes watching if it's on, and you've got nothing better to do. 6/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Anchor Bay Entertainment",
+        "duration": "PT2M7S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi429785369",
+        "name": "Quicksilver Highway",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOGFjZDM0ZjgtM2ViNy00NjgxLThhZDEtZTE1YjdiNWJlZWQ5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGFjZDM0ZjgtM2ViNy00NjgxLThhZDEtZTE1YjdiNWJlZWQ5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:29:18Z",
+        "url": "https://www.imdb.com/video/vi429785369/"
+    },
+    "url": "/title/tt0119975/"
+}

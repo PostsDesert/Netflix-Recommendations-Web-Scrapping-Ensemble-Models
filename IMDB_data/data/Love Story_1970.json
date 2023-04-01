@@ -1,0 +1,96 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ali MacGraw",
+            "url": "/name/nm0532298/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ryan O'Neal",
+            "url": "/name/nm0641939/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Marley",
+            "url": "/name/nm0549134/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 35464,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0070993/"
+        },
+        {
+            "@type": "Person",
+            "name": "Erich Segal",
+            "url": "/name/nm0781777/"
+        }
+    ],
+    "datePublished": "1970-12-16",
+    "description": "A boy and a girl from different backgrounds fall in love regardless of their upbringing - and then tragedy strikes.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Arthur Hiller",
+            "url": "/name/nm0002137/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZmFjYWU1MGQtM2FiMi00YjA3LWIwYjUtZDdhYWEyOWFhZGE0XkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
+    "keywords": "love,famous line,baker,young love,atheist",
+    "name": "Love Story",
+    "original_info": {
+        "id": "Love Story_1970",
+        "name": "Love Story",
+        "year": "1970"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "emst"
+        },
+        "dateCreated": "1999-10-15",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0066011/"
+        },
+        "name": "Love like it ought to be",
+        "reviewBody": "Superb acting, wonderful stars, a great story, very funny jokes and very real tears. If you're looking for a romantic yet soppy movie, this is the the best deal. Love Story is the finest in it's kind."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer 1",
+        "duration": "PT54S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1935655193",
+        "name": "Love Story",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMThjN2E1OTctMTk2MS00NWM4LWFlZTYtNWVlZmExZDNhNjU0XkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMThjN2E1OTctMTk2MS00NWM4LWFlZTYtNWVlZmExZDNhNjU0XkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-02-11T17:02:37.503Z",
+        "url": "https://www.imdb.com/video/vi1935655193/"
+    },
+    "url": "/title/tt0066011/"
+}

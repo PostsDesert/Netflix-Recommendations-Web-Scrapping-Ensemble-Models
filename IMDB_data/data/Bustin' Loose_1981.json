@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Richard Pryor",
+            "url": "/name/nm0001640/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cicely Tyson",
+            "url": "/name/nm0001807/"
+        },
+        {
+            "@type": "Person",
+            "name": "Angel Ramirez Jr.",
+            "url": "/name/nm0709337/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3528,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lonne Elder III",
+            "url": "/name/nm0253039/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Pryor",
+            "url": "/name/nm0001640/"
+        },
+        {
+            "@type": "Person",
+            "name": "Roger L. Simon",
+            "url": "/name/nm0800363/"
+        }
+    ],
+    "datePublished": "1981-05-22",
+    "description": "Failed parolee Joe Braxton has one last shot at redemption: by driving school kids to Philadelphia.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Oz Scott",
+            "url": "/name/nm0779641/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Schultz",
+            "url": "/name/nm0776317/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjMxNzhmNWUtMDJiNS00ODRjLWFlZmItZWVkNTc2NGE5YTE1XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "road movie,school,teacher,bus,on the road",
+    "name": "Bustin' Loose",
+    "original_info": {
+        "id": "Bustin' Loose_1981",
+        "name": "Bustin' Loose",
+        "year": "1981"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "lee_eisenberg"
+        },
+        "dateCreated": "2012-05-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0082121/"
+        },
+        "name": "Richard Pryor busts ya one",
+        "reviewBody": "I guess that \"Bustin' Loose\" is most famous because it was during the production of this movie that Richard Pryor had his near-death experience with freebasing. But there's more to the movie than that. Pryor plays an ex-con who gets a second chance by getting assigned to drive a bus load of special needs children from Philadelphia to Washington state.\n\nMuch of the humor derives from Richard Pryor's and Cicely Tyson's personalities bouncing off of each other: he's the irresponsible goof-off, she's the stern teacher. There's also a look at the children's stories: there's a blind boy, a pyromaniac, and a former child prostitute from Vietnam. And then of course, there's the scene with the Ku Klux Klan; I bet that Richard Pryor had wanted to do something like that for years! \n\nSo, it's a pretty silly movie, but still very enjoyable. It's too bad that Richard Pryor is no longer with us.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M30S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi743817497",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZmM4YTc0MTctYjMwOS00ODBjLWFjODAtODJlMTE4MzI2ZmNkXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZmM4YTc0MTctYjMwOS00ODBjLWFjODAtODJlMTE4MzI2ZmNkXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-02-04T21:10:47.957Z",
+        "url": "https://www.imdb.com/video/vi743817497/"
+    },
+    "url": "/title/tt0082121/"
+}

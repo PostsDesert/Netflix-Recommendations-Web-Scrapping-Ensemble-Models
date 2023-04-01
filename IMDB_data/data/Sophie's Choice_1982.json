@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Meryl Streep",
+            "url": "/name/nm0000658/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kevin Kline",
+            "url": "/name/nm0000177/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter MacNicol",
+            "url": "/name/nm0001493/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 49809,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103220/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0009677/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Styron",
+            "url": "/name/nm0836612/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alan J. Pakula",
+            "url": "/name/nm0001587/"
+        }
+    ],
+    "datePublished": "1983-03-04",
+    "description": "Sophie is the survivor of Nazi concentration camps, who has found a reason to live with Nathan, a sparkling if unsteady American Jew obsessed with the Holocaust.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Alan J. Pakula",
+            "url": "/name/nm0001587/"
+        }
+    ],
+    "duration": "PT2H30M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMmZjZTI0OTktNjVmMi00MzE5LWFkNjctNjZjODFjOWVjMGRmXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "writer,aspiring writer,concentration camp,holocaust,kiss",
+    "name": "Sophie's Choice",
+    "original_info": {
+        "id": "Sophie's Choice_1982",
+        "name": "Sophie's Choice",
+        "year": "1982"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Johnnee"
+        },
+        "dateCreated": "1998-11-03",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0084707/"
+        },
+        "name": "Probably the best Oscar-winning performance ever.",
+        "reviewBody": "If the Oscars were to take every Best Actress winner ever -- from Janet Gaynor to Helen Hunt -- Meryl Streep would definitely have a good shot at winning against them. She gives a spellbinding, totally believable performance as Sophie, a timid Polish woman who befriends Stingo (Peter MacNicol), while she tells him of her tortured past in a concentration camp. As always, she does her foreign accent without fault, and puts her all in her performance, better than she's ever done. The movie itself is very good, too -- it may drag at times (at 2 1/2 hours), but definitely worth a look."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Sophie's Choice",
+        "duration": "PT2M20S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3626020121",
+        "name": "Sophie's Choice",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZGY5NTljMjAtZmNhNi00ZTE3LTliNjctODQ3ODRhYTExM2M3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZGY5NTljMjAtZmNhNi00ZTE3LTliNjctODQ3ODRhYTExM2M3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2014-05-10T04:58:49Z",
+        "url": "https://www.imdb.com/video/vi3626020121/"
+    },
+    "url": "/title/tt0084707/"
+}

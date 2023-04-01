@@ -1,0 +1,56 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tim Allen",
+            "url": "/name/nm0000741/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Belzer",
+            "url": "/name/nm0001938/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kim Hopkins",
+            "url": "/name/nm0394218/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 11,
+        "ratingValue": 3.8,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000339/"
+        },
+        {
+            "@type": "Person",
+            "name": "John DeBellis",
+            "url": "/name/nm0213377/"
+        }
+    ],
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Andrew Solt",
+            "url": "/name/nm0813583/"
+        }
+    ],
+    "genre": [
+        "Documentary"
+    ],
+    "name": "Comedy Club Superstars",
+    "original_info": {
+        "id": "Comedy Club Superstars_2004",
+        "name": "Comedy Club Superstars",
+        "year": "2004"
+    },
+    "url": "/title/tt0486752/"
+}

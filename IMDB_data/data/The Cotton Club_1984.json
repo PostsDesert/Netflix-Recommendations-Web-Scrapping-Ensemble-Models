@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Richard Gere",
+            "url": "/name/nm0000152/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gregory Hines",
+            "url": "/name/nm0002138/"
+        },
+        {
+            "@type": "Person",
+            "name": "Diane Lane",
+            "url": "/name/nm0000178/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 18647,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0035894/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0035468/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0079883/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Kennedy",
+            "url": "/name/nm0448379/"
+        },
+        {
+            "@type": "Person",
+            "name": "Francis Ford Coppola",
+            "url": "/name/nm0000338/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mario Puzo",
+            "url": "/name/nm0701374/"
+        }
+    ],
+    "datePublished": "1984-12-14",
+    "description": "Meet the jazz musicians, dancers, owner, and guests (like gangster Dutch Schultz) of The Cotton Club in 1928-1930s Harlem.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Francis Ford Coppola",
+            "url": "/name/nm0000338/"
+        }
+    ],
+    "duration": "PT2H9M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMWU2NGMxNTctNDc4MC00ZTdkLTlhYjItMTRjMmMxZDBjZTMwXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_.jpg",
+    "keywords": "nudity,jazz score,jazz club,prohibition,mob hit",
+    "name": "The Cotton Club",
+    "original_info": {
+        "id": "The Cotton Club_1984",
+        "name": "The Cotton Club",
+        "year": "1984"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "el1sdf"
+        },
+        "dateCreated": "2003-07-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0087089/"
+        },
+        "name": "Companion to the pictoral history of The Cotton Club",
+        "reviewBody": "inspired by photographs of the legendary Cotton Club in Harlem, some shots appear exactly as they were (now in colour). I noticed Dutch Schultz's slumped pose when he is shot is exactly that of the police photograph, though he died several hours later (see William Burroughs \"The Last Words Of Dutch Schultz\"). The actors often play too broad (Diane Lane), and Richard Gere shows his lazy, grinning acting here too. However, many notable smaller roles for Gregory Hines (and his brother), Bob Hoskins, Laurence Fishburne and others who make it well worth watching. It is true that $40 million could have been used better, but when you consider both Bob Evans and Coppola's involvement it seems with hindsight that they were asking for trouble. The music deserves special credit, as do the tap sequences (which i gather were shortened and some cut - what a shame). Mostly Duke Ellington classics. As i've already suggested the look is a perfect recreation of the time, but sadly the plot is patchy, some dialogue weak and it has been said before - there is no chemistry between the romantic leads. 9/10"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer 1",
+        "duration": "PT2M16S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2722086681",
+        "name": "The Cotton Club Encore",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzkxNzNjOWQtNGJmOS00N2YxLWE4MWEtMzU2MzA3ODBlMTljXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzkxNzNjOWQtNGJmOS00N2YxLWE4MWEtMzU2MzA3ODBlMTljXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2019-12-06T17:04:35.707Z",
+        "url": "https://www.imdb.com/video/vi2722086681/"
+    },
+    "url": "/title/tt0087089/"
+}

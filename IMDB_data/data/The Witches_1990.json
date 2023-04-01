@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Anjelica Huston",
+            "url": "/name/nm0001378/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mai Zetterling",
+            "url": "/name/nm0955195/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jasen Fisher",
+            "url": "/name/nm0279557/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 51972,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0037360/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0055122/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0095015/"
+        },
+        {
+            "@type": "Person",
+            "name": "Roald Dahl",
+            "url": "/name/nm0001094/"
+        },
+        {
+            "@type": "Person",
+            "name": "Allan Scott",
+            "url": "/name/nm0778819/"
+        }
+    ],
+    "datePublished": "1990-08-24",
+    "description": "A young boy stumbles onto a witch convention and must stop them, even after he has been turned into a mouse.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Nicolas Roeg",
+            "url": "/name/nm0001676/"
+        }
+    ],
+    "duration": "PT1H31M",
+    "genre": [
+        "Adventure",
+        "Comedy",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjI1MDg5NzAyMV5BMl5BanBnXkFtZTgwNzU5Mzk4NjE@._V1_.jpg",
+    "keywords": "witch,hotel,mouse,child hater,transformation",
+    "name": "The Witches",
+    "original_info": {
+        "id": "The Witches_1990",
+        "name": "The Witches",
+        "year": "1990"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ryanmcirish"
+        },
+        "dateCreated": "2005-03-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0100944/"
+        },
+        "name": "i've always thought this was a great movie",
+        "reviewBody": "i've always thought this was a great movie since i was little, it was one of those movies that you'd go over to see at your grandma's on Halloween, just scary enough for a kid, where the'd be afraid, but not usually enough to give nightmares(although i can remember having a few from this- those with very small children be warned!) i felt that the tales that the grandmother spins are the tantalizing part of the movie, with them being treated as a joke in the beginning, but then going on to, not only back them up, but to show that they actually happened. i feel that this was a very well put together movie, and Anjelica Huston as the grand high witch gives the movie a special flavor, like she was meant to play the role. If i talk much more i'll end up giving the thing away, so i'll leave you with this- it's a wonderful movie for kids, and, for hose adults who haven't seen it, when watching, keep in mind that this is a children's movie:) enjoy!!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT1M9S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2020583193",
+        "name": "The Witches",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNWVhNjRiNjQtNDI5Zi00Nzk1LTlkYzAtMjFkMDMzZjU3Y2QzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNWVhNjRiNjQtNDI5Zi00Nzk1LTlkYzAtMjFkMDMzZjU3Y2QzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2013-02-19T06:37:27Z",
+        "url": "https://www.imdb.com/video/vi2020583193/"
+    },
+    "url": "/title/tt0100944/"
+}

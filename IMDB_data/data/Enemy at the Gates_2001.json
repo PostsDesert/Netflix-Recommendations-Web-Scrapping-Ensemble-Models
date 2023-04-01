@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jude Law",
+            "url": "/name/nm0000179/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ed Harris",
+            "url": "/name/nm0000438/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joseph Fiennes",
+            "url": "/name/nm0001212/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 267353,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0013922/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0076287/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jean-Jacques Annaud",
+            "url": "/name/nm0000269/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alain Godard",
+            "url": "/name/nm0323708/"
+        }
+    ],
+    "datePublished": "2001-03-16",
+    "description": "A Russian and a German sniper play a game of cat-and-mouse during the Battle of Stalingrad.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jean-Jacques Annaud",
+            "url": "/name/nm0000269/"
+        }
+    ],
+    "duration": "PT2H11M",
+    "genre": [
+        "Action",
+        "Drama",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYWFlY2E3ODQtZWNiNi00ZGU4LTkzNWEtZTQ2ZTViMWRhYjIzL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "keywords": "sniper,stalingrad,red army soldier,russian soldier,battle",
+    "name": "Enemy at the Gates",
+    "original_info": {
+        "id": "Enemy at the Gates_2001",
+        "name": "Enemy at the Gates",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "A_Different_Drummer"
+        },
+        "dateCreated": "2017-02-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0215750/"
+        },
+        "name": "brilliantly flawed ... is still brilliant",
+        "reviewBody": "In the grand tradition of Old Hollywood, this international co-production seeks to frame the key battle of WW2 (the REAL key battle, not the ones from the John Wayne movies) as a morality tale involving a love triangle.\n\nIt is a bold idea, and beautifully executed.\n\nIn fact an argument could be made -- and I will make it -- that any flaws in the execution (it lags a bit here and there) are the result of the film-makers' \"reach exceeding their grasp\" and they attempted too much, more than one film could ever accomplish.\n\nBut what a film it is! You viewer feel as though you are there, making history. The four stars involved have, each of them, never given a bad performance in their careers and they surely maintain their records here.\n\nEd Harris in particular -- although he has less screen time -- will always to this reviewer seem a vastly under-rated actor. (This review written in 2017 where an older Harris still uses his charisma in a defining role for HBOs Westworld .... and nails it.) Recommended? Absolutely! In the Metacritic data that IMDb so helpfully provides I could not help but notice one reviewer commenting that, well, it sure isn't in the same class as SAVING PRIVATE RYAN.\n\nWhich is the irony of doing film reviews. I have never not once thought of wanting to see SAVING PRIVATE RYAN again, but this film is one I like to revisit every few years. Magnificent.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Pre, \"Coming Soon\"",
+        "duration": "PT2M22S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1218773273",
+        "name": "Enemy at the Gates",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzQ4NzVlZGYtMDBkZS00OTJmLWExYzItZWM2Zjc0NTYwYTBiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzQ4NzVlZGYtMDBkZS00OTJmLWExYzItZWM2Zjc0NTYwYTBiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:00:59Z",
+        "url": "https://www.imdb.com/video/vi1218773273/"
+    },
+    "url": "/title/tt0215750/"
+}

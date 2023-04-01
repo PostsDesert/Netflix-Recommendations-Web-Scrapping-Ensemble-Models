@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ossie Davis",
+            "url": "/name/nm0001115/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles S. Dutton",
+            "url": "/name/nm0001165/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andre Braugher",
+            "url": "/name/nm0105672/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5836,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0027155/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0029134/"
+        },
+        {
+            "@type": "Person",
+            "name": "Reggie Rock Bythewood",
+            "url": "/name/nm0090066/"
+        }
+    ],
+    "datePublished": "1996-10-16",
+    "description": "A disparate group of African-American men travel by bus to Washington, DC for the Million Man March.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Spike Lee",
+            "url": "/name/nm0000490/"
+        }
+    ],
+    "duration": "PT2H",
+    "genre": [
+        "Adventure",
+        "Drama",
+        "History"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTliNjQ1MDYtZTQwNi00MzQzLTllZTgtZGYyZGExZDZlNGM5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "road movie,bus,march,million man march,religion",
+    "name": "Get on the Bus",
+    "original_info": {
+        "id": "Get on the Bus_1996",
+        "name": "Get on the Bus",
+        "year": "1996"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "CharltonBoy"
+        },
+        "dateCreated": "2000-01-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0116404/"
+        },
+        "name": "Buy your ticket and enjoy the ride!!",
+        "reviewBody": "Get on the bus is a superb film in every way. The acting , the story ,the photography and the sound track are a joy to behold. Spike Lee should be praised for his unbiased view on the struggle for black rights in America. You may not always agree with some of the sentements of the film but you cant help be captivated. Dont miss it! 8 out of 10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Pictures",
+        "duration": "PT2M24S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4171825433",
+        "name": "Get On the Bus",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjA2Mzk1ZTctNWZhZi00NGQ1LTk5ZWQtM2FlNzYxYTAzODllXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjA2Mzk1ZTctNWZhZi00NGQ1LTk5ZWQtM2FlNzYxYTAzODllXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:16:21Z",
+        "url": "https://www.imdb.com/video/vi4171825433/"
+    },
+    "url": "/title/tt0116404/"
+}

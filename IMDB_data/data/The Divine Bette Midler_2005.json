@@ -1,0 +1,58 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Danny DeVito",
+            "url": "/name/nm0000362/"
+        },
+        {
+            "@type": "Person",
+            "name": "Barbara Hershey",
+            "url": "/name/nm0001347/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bette Midler",
+            "url": "/name/nm0000541/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 30,
+        "ratingValue": 7.9,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0110208/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Scheinfeld",
+            "url": "/name/nm0770643/"
+        }
+    ],
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Scheinfeld",
+            "url": "/name/nm0770643/"
+        }
+    ],
+    "duration": "PT2H15M",
+    "genre": [
+        "Documentary"
+    ],
+    "name": "The Divine Bette Midler",
+    "original_info": {
+        "id": "The Divine Bette Midler_2005",
+        "name": "The Divine Bette Midler",
+        "year": "2005"
+    },
+    "url": "/title/tt0929743/"
+}

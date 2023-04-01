@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Judy Garland",
+            "url": "/name/nm0000023/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ray Bolger",
+            "url": "/name/nm0001961/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Hodiak",
+            "url": "/name/nm0388303/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4533,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007143/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edmund Beloin",
+            "url": "/name/nm0069410/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nathaniel Curtis",
+            "url": "/name/nm0193466/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harry Crane",
+            "url": "/name/nm0186355/"
+        }
+    ],
+    "datePublished": "1946-04-29",
+    "description": "On a train trip West to become a mail-order bride, Susan Bradley (Judy Garland) meets a cheery crew of young women travelling out to open a \"Harvey House\" restaurant at a remote whistle-stop.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "George Sidney",
+            "url": "/name/nm0796645/"
+        }
+    ],
+    "duration": "PT1H42M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "History"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMGZkMTg3YWQtZTMyOS00MDVjLTllOTQtYjczNjFkNjNlOTcyXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
+    "keywords": "mail order bride,atchison topeka and santa fe railway,scene during opening credits,classical western,new mexico",
+    "name": "The Harvey Girls",
+    "original_info": {
+        "id": "The Harvey Girls_1946",
+        "name": "The Harvey Girls",
+        "year": "1946"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "moonspinner55"
+        },
+        "dateCreated": "2005-10-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0038589/"
+        },
+        "name": "Judy Garland at full steam...",
+        "reviewBody": "Very appealing MGM musical with wonderful songs, colorful production, Judy Garland at the peak of her feisty charms. In the burgeoning days of train transportation, women are needed to work the eateries scattered throughout the Southwest; in a small New Mexico town, Judy decides to ditch her mail-order marriage for a waitressing job, but she soon finds love again. \"On The Atchinson, Topeka and The Santa Fe\" won a Best Song Oscar, and deservedly so; this grand number gets the full treatment, and is so exuberantly staged it becomes a classic by itself. The picture does runs short of ideas and inspiration near the end, leading to a poorly-staged romantic finale, yet the supporting cast is excellent, particularly Angela Lansbury as a jealous showgirl. *** from ****",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M50S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2785458969",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjk3YTA0MjAtMzljOC00MGY0LWE5OGMtYmNmYmNiYmRlY2EyXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjk3YTA0MjAtMzljOC00MGY0LWE5OGMtYmNmYmNiYmRlY2EyXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+        "uploadDate": "2018-08-28T16:51:08.594Z",
+        "url": "https://www.imdb.com/video/vi2785458969/"
+    },
+    "url": "/title/tt0038589/"
+}

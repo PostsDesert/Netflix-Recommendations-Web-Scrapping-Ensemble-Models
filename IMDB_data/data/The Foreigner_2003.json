@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Steven Seagal",
+            "url": "/name/nm0000219/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harry Van Gorkum",
+            "url": "/name/nm0002246/"
+        },
+        {
+            "@type": "Person",
+            "name": "Max Ryan",
+            "url": "/name/nm1043075/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7121,
+        "ratingValue": 3.4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0043393/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0112944/"
+        },
+        {
+            "@type": "Person",
+            "name": "Darren Campbell",
+            "url": "/name/nm0132363/"
+        }
+    ],
+    "datePublished": "2003-06-20",
+    "description": "A freelance agent must transport a package for a mysterious employer, leading him into a web of betrayal and deceit.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Oblowitz",
+            "url": "/name/nm0643422/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Action",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQyMjUzNzE4Nl5BMl5BanBnXkFtZTgwMTMxNzgwMzE@._V1_.jpg",
+    "keywords": "child gagged,cia central intelligence agency,motor vehicle,car,german car",
+    "name": "The Foreigner",
+    "original_info": {
+        "id": "The Foreigner_2003",
+        "name": "The Foreigner",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dunny"
+        },
+        "dateCreated": "2003-03-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0312700/"
+        },
+        "name": "Seagal I hope you needed the money!",
+        "reviewBody": "Im hoping this was made before Half Past Dead and Exit Wounds because it was rubbish, Seagal wasnt to blame it was down to the crap directing when the few action scenes took place. The plot was also confusing and basically just felt rushed out, maybe it was shelved and released to capitalise on Seagals newer films??\n\n3/10\n\nHe's not through yet, bring on Under Siege 3 and loose some weight!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 3,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0312700/"
+}

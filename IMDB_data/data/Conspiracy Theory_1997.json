@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mel Gibson",
+            "url": "/name/nm0000154/"
+        },
+        {
+            "@type": "Person",
+            "name": "Julia Roberts",
+            "url": "/name/nm0000210/"
+        },
+        {
+            "@type": "Person",
+            "name": "Patrick Stewart",
+            "url": "/name/nm0001772/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 102973,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0019968/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0116435/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brian Helgeland",
+            "url": "/name/nm0001338/"
+        }
+    ],
+    "datePublished": "1997-08-08",
+    "description": "A taxi driver with a penchant for conspiracy theories becomes a target after one of these theories turns out to be true. Unfortunately, to save himself, he has to figure out which theory it is.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Richard Donner",
+            "url": "/name/nm0001149/"
+        }
+    ],
+    "duration": "PT2H15M",
+    "genre": [
+        "Action",
+        "Mystery",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjQ1MTYxMzA4OF5BMl5BanBnXkFtZTgwNjg2NTM1MTI@._V1_.jpg",
+    "keywords": "biting someone's nose,surveillance,conspiracy theory,taxi driver,hospital",
+    "name": "Conspiracy Theory",
+    "original_info": {
+        "id": "Conspiracy Theory_1997",
+        "name": "Conspiracy Theory",
+        "year": "1997"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Klectron"
+        },
+        "dateCreated": "1999-10-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0118883/"
+        },
+        "name": "What an underrated movie!",
+        "reviewBody": "Mel Gibson gives a great performance here, as well as Julia Roberts! The story is really good, and the movie has some great plot twists. The only thing I disliked was the fact that Patrick Stewart didn't have a bigger role...\n\nThe movie also has quite some funny moments and lots of action. This definately is one of Richard Donner's best films to date, due especially to the outstanding performance of Mel Gibson! If you haven't seen it yet and if you're looking for an intelligent, well-acted movie, this is the one!"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT29S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2059338009",
+        "name": "Conspiracy Theory",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzdhMmUzNTctMTZlOC00Yjk5LWIyNjItODM5YThkMjc4MmY5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzdhMmUzNTctMTZlOC00Yjk5LWIyNjItODM5YThkMjc4MmY5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:32:30Z",
+        "url": "https://www.imdb.com/video/vi2059338009/"
+    },
+    "url": "/title/tt0118883/"
+}

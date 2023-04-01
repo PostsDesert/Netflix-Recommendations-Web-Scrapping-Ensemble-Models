@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ewan McGregor",
+            "url": "/name/nm0000191/"
+        },
+        {
+            "@type": "Person",
+            "name": "Greta Scacchi",
+            "url": "/name/nm0000627/"
+        },
+        {
+            "@type": "Person",
+            "name": "Pete Postlethwaite",
+            "url": "/name/nm0000592/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1790,
+        "ratingValue": 5.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0113595/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0277870/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0063026/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tim Rose Price",
+            "url": "/name/nm0741217/"
+        }
+    ],
+    "datePublished": "1997-05-15",
+    "description": "In England, during the 17th-century, a Dutch garden architect (Ewan McGregor, \"Moulin Rouge!\") is drawn into a web of passion and treachery after being hired by a wealthy merchant.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Philippe Rousselot",
+            "url": "/name/nm0003542/"
+        }
+    ],
+    "duration": "PT1H44M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMzMDIyODc1N15BMl5BanBnXkFtZTcwNzc5OTgxMQ@@._V1_.jpg",
+    "keywords": "cousin cousin relationship,horticulturist,impostor,deception,gardner",
+    "name": "The Serpent's Kiss",
+    "original_info": {
+        "id": "The Serpent's Kiss_1997",
+        "name": "The Serpent's Kiss",
+        "year": "1997"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "MummyPhan"
+        },
+        "dateCreated": "2002-07-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120100/"
+        },
+        "name": "Thoroughly Enjoyable",
+        "reviewBody": "Well, to say the least I \"thoroughly enjoyed\" this movie. Having only watched it on TV I may not have seen it in it's entirety but what I did see I liked. Ewan McGregor just can't be bad in anything I suppose, or at least I haven't seen a movie yet where he didn't steal the show with his dazzling ability to become his character. The movie itself had quite a beautiful look to it and the odd loveliness of the daughter in the movie really gave you a funny sense all throughout it. It's not your ordinary tale, but the writing was wonderful and the acting superb. If you like odd love stories with a twist, this is the perfect example. And it doesn't hurt if you like Ewan McGregor, he absolutely shines."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Studio Home Entertainment",
+        "duration": "PT1M25S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi972685593",
+        "name": "The Serpent's Kiss",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNGVjZGE5N2ItOTM3Zi00NzEyLWEwYTMtODgxYWQ1ZjAyZDA2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNGVjZGE5N2ItOTM3Zi00NzEyLWEwYTMtODgxYWQ1ZjAyZDA2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:11:08Z",
+        "url": "https://www.imdb.com/video/vi972685593/"
+    },
+    "url": "/title/tt0120100/"
+}

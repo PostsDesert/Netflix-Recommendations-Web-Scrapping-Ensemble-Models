@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Amitabh Bachchan",
+            "url": "/name/nm0000821/"
+        },
+        {
+            "@type": "Person",
+            "name": "Shashi Kapoor",
+            "url": "/name/nm0004434/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rakhee Gulzar",
+            "url": "/name/nm0347901/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2316,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "alternateName": "Kabhi Kabhie",
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0077190/"
+        },
+        {
+            "@type": "Person",
+            "name": "Pamela Chopra",
+            "url": "/name/nm0159158/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sagar Sarhadi",
+            "url": "/name/nm0765166/"
+        }
+    ],
+    "datePublished": "1976-02-27",
+    "description": "Kabhi Kabhie is a movie about the love story of generations and how a chain of events brings together old lovers as friends.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Yash Chopra",
+            "url": "/name/nm0007181/"
+        }
+    ],
+    "duration": "PT2H57M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkxNzhkNTgtY2E0NS00ZDUzLTliOTMtZDE5MWRhMDkxZTdlXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_.jpg",
+    "keywords": "love,poetry,poet,chase,motorcycle",
+    "name": "Kabhie Kabhie",
+    "original_info": {
+        "id": "Kabhi Kabhie_1976",
+        "name": "Kabhi Kabhie",
+        "year": "1976"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "krishnan357-33-782579"
+        },
+        "dateCreated": "2022-02-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0074730/"
+        },
+        "name": "Doesn't really hold up in my opinion",
+        "reviewBody": "I was very interested in seeing this movie for a long time. It was a huge hit when it came out and it was acclaimed by critics as well.\n\nAfter seeing it, I wondered if this movie would be a success if it came out today. The characters act in weird and sometimes nonsensical ways. Rishi Kapoor's character's actions really have no justification. I did like Shashi Kapoor's character, though.\n\nOverall, this makes me wonder if we see a lot of older movies through rose tinted glasses.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M22S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1716041497",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjAzMzU2OTQ0M15BMl5BanBnXkFtZTgwNjk1MDU3OTE@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjAzMzU2OTQ0M15BMl5BanBnXkFtZTgwNjk1MDU3OTE@._V1_.jpg",
+        "uploadDate": "2016-08-17T03:32:36Z",
+        "url": "https://www.imdb.com/video/vi1716041497/"
+    },
+    "url": "/title/tt0074730/"
+}

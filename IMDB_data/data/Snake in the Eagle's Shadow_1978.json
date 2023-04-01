@@ -1,0 +1,94 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jackie Chan",
+            "url": "/name/nm0000329/"
+        },
+        {
+            "@type": "Person",
+            "name": "Siu-Tin Yuen",
+            "url": "/name/nm0803298/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeong-lee Hwang",
+            "url": "/name/nm0399007/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 12246,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "alternateName": "Snake in the Eagle's Shadow",
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0006356/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chi Yuan Hsi",
+            "url": "/name/nm2359321/"
+        },
+        {
+            "@type": "Person",
+            "name": "Huo An Hsi",
+            "url": "/name/nm2362852/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lung Hsiao",
+            "url": "/name/nm0519731/"
+        }
+    ],
+    "description": "An orphan who has been raised at a kung fu school, where he is treated as little more than a dogsbody and practice target for the students, has a life-changing experience after helping an old peripatetic beggar.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Woo-Ping Yuen",
+            "url": "/name/nm0950759/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Action",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOThkNzA2MzEtMzUwZi00MTcxLThlMzQtNWJjYzBhNWY5OGMzXkEyXkFqcGdeQXVyNzIwNDA4NzI@._V1_.jpg",
+    "keywords": "cat,beggar,kung fu,fight,martial arts",
+    "name": "Se ying diu sau",
+    "original_info": {
+        "id": "Snake in the Eagle's Shadow_1978",
+        "name": "Snake in the Eagle's Shadow",
+        "year": "1978"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "no-skyline"
+        },
+        "dateCreated": "2005-08-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0078252/"
+        },
+        "name": "Jackie's First Success",
+        "reviewBody": "I believe this was Jackie Chan's first widely successful movie freed from the constraints of Lo Wei and working with a different director allowed Jackie to move into a different direction and stop trying to be the new Bruce Lee (as if anyone ever could be!).\n\nSurprisingly the humour translates pretty well and both Jackies cruel martial arts school employer and the kindly martial artist he meets and befriends are well drawn comedic characters. The sometimes bizarre fighting styles all named after animals are a joy to behold and Jackie and all the other martial artists involved show just how skillful they are with some truly memorable twists on the old school kung-fu style fighting. Many of those in this film came together again a year later to make the equally excellent Drunken Master.\n\nI would recommend this film to any martial arts fan as a must see, it's also an excellent entry point if your interested in looking into martial arts action films in general. 8/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0078252/"
+}

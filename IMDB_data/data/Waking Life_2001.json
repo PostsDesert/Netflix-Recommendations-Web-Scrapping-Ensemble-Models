@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ethan Hawke",
+            "url": "/name/nm0000160/"
+        },
+        {
+            "@type": "Person",
+            "name": "Trevor Jack Brooks",
+            "url": "/name/nm1085025/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lorelei Linklater",
+            "url": "/name/nm1085951/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 65291,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0028932/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0046530/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0042682/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Linklater",
+            "url": "/name/nm0000500/"
+        }
+    ],
+    "datePublished": "2002-03-07",
+    "description": "A man shuffles through a dream meeting various people and discussing the meanings and purposes of the universe.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Richard Linklater",
+            "url": "/name/nm0000500/"
+        }
+    ],
+    "duration": "PT1H39M",
+    "genre": [
+        "Animation",
+        "Drama",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMWM0ZjY5ZjctODNkZi00Nzk0LWE1ODUtNGM4ZDUyMzUwMGYwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "philosophy,dream,ukulele,watching tv,lucid dreaming",
+    "name": "Waking Life",
+    "original_info": {
+        "id": "Waking Life_2001",
+        "name": "Waking Life",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Nick_Dets"
+        },
+        "dateCreated": "2002-10-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0243017/"
+        },
+        "name": "Wonderful",
+        "reviewBody": "Waking Life is an amazing, visual, and completely original work of art from filmmaker Richard Linklater. It is not only one of the very best films to be released in 2001, but also one of the most thought provoking films I've ever seen. Watching it is an amazing experience in itself. \tIts visual style is stunning. Digital animation is put over live action actors in a style that every scene is like some kind of a post-modern painting that you would see in an art gallery. \tThe story follows a young man by the name of Wiley Wiggins and his encounters with many interesting people. He listens to their thoughts and theories, but doesn't really understand why. He is in an on-going lucid dream that takes him to odd, but fascinating encounters with people and places. \tI absolutely loved this film. It is one of those rare films that takes you away from your seat and into a world that you are placed right in the middle of and when it ends, the only thing you can say is, `Wow!'"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from 20th Century Fox Home Entertainment",
+        "duration": "PT1M3S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2734358809",
+        "name": "Waking Life",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTdlMmY2OTktMTJmMi00YjJiLWJkM2UtZWFmZTFhNmI2YzYxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTdlMmY2OTktMTJmMi00YjJiLWJkM2UtZWFmZTFhNmI2YzYxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:16:16Z",
+        "url": "https://www.imdb.com/video/vi2734358809/"
+    },
+    "url": "/title/tt0243017/"
+}

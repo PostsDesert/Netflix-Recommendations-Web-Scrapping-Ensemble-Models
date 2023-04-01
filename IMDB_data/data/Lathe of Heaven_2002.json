@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "James Caan",
+            "url": "/name/nm0001001/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lukas Haas",
+            "url": "/name/nm0001305/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lisa Bonet",
+            "url": "/name/nm0000956/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1021,
+        "ratingValue": 5.8,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0056790/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0054762/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0094885/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ursula K. Le Guin",
+            "url": "/name/nm0494372/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alan Sharp",
+            "url": "/name/nm0788991/"
+        }
+    ],
+    "datePublished": "2002-09-08",
+    "description": "In a near future society, a man claims that his dreams physically change reality. His therapist is confused at first, but soon decides to use him for his own gain.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Philip Haas",
+            "url": "/name/nm0351993/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMxNDY4MDU4Ml5BMl5BanBnXkFtZTcwMTQ2MzgxMQ@@._V1_.jpg",
+    "keywords": "therapist,dream,utopia quest,psychiatrist,central pontine myelinosis",
+    "name": "Lathe of Heaven",
+    "original_info": {
+        "id": "Lathe of Heaven_2002",
+        "name": "Lathe of Heaven",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "nyc_2qt2bstr8"
+        },
+        "dateCreated": "2002-09-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0290230/"
+        },
+        "name": "Emblematic of what's wrong with movies today",
+        "reviewBody": "I agree with the consensus. This film stinks. The true plot is brusquely steamrolled over in order to force the emphasis toward a badly cast romance between George and Heather.\n\nThis type of butchery is very common these days. Look at most of the `original series' on the Sci-fi (sic) channel. Get a bunch of young and beautiful people into spaceships, fill it with flashing lights, a crotchety alien with a bony forehead and the personality of your uncle Irving, derivative dialog about `shields failing' and `re-routing emergency power', don't EVER have an original or though provoking story-line and voila you get the distilled pap that passes these days as science fiction.\n\nIts unfortunate that style, special effects and sex-appeal are what now count instead of real dialog and story. The original Lathe of Heaven wasn't perfect, but everything about it, from the slow build-up of George's relation with Dr. Haber, to the philosophical discussions about righting the world's wrongs made for an engaging and genuine exercise in science fiction.\n\nBig budgets, merchandising tie-ins, vapid music and a bland dumbed-down appeal characterize far too many productions these days."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT2M1S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2190803225",
+        "name": "Lathe of Heaven",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMmRiZWVkNTQtZTNlOC00NDYwLTkwYWUtMTg1NzgyNTdiMzM4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMmRiZWVkNTQtZTNlOC00NDYwLTkwYWUtMTg1NzgyNTdiMzM4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:58:24Z",
+        "url": "https://www.imdb.com/video/vi2190803225/"
+    },
+    "url": "/title/tt0290230/"
+}

@@ -1,0 +1,65 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jimmy Chamberlin",
+            "url": "/name/nm0150250/"
+        },
+        {
+            "@type": "Person",
+            "name": "Billy Corgan",
+            "url": "/name/nm0004842/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Iha",
+            "url": "/name/nm0407286/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 435,
+        "ratingValue": 8.4,
+        "worstRating": 1
+    },
+    "description": "Vieuphoria is a long form music movie. It stars the smashing pumpkins as the main characters. It shows live shows, and skits including \"meet the frogs\".",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Modi",
+            "url": "/name/nm2147554/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Documentary",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM5NDc5NDIxNV5BMl5BanBnXkFtZTYwMjYyNTk4._V1_.jpg",
+    "keywords": "concert film,independent film",
+    "name": "Smashing Pumpkins: Vieuphoria",
+    "original_info": {
+        "id": "Smashing Pumpkins: Vieuphoria_1994",
+        "name": "Smashing Pumpkins: Vieuphoria",
+        "year": "1994"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "darkneox119"
+        },
+        "dateCreated": "2001-05-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0156171/"
+        },
+        "name": "excellent look at the band and it's members",
+        "reviewBody": "This is a rockumentary about the Smashing Pumpkins that takes you inside their world and lets you watch their wacky personalities. Cool concert footage is shown and many great songs are played. Check this out..I love this. ****"
+    },
+    "url": "/title/tt0156171/"
+}

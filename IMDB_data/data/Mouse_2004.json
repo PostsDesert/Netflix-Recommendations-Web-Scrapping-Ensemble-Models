@@ -1,0 +1,61 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 226,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Person",
+            "name": "Kenneth Anger",
+            "url": "/name/nm0001910/"
+        }
+    ],
+    "description": "A short film featuring various vintage Mickey Mouse toys.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Kenneth Anger",
+            "url": "/name/nm0001910/"
+        }
+    ],
+    "duration": "PT10M",
+    "genre": [
+        "Short",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYzg4NjY0ODktNGIzNS00YjY2LTgxNTktYzRmMTVmZWQzNTYyXkEyXkFqcGdeQXVyMDM1MzIyMQ@@._V1_.jpg",
+    "keywords": "toy,stop motion,puppet,no dialogue,reference to minnie mouse",
+    "name": "Mouse Heaven",
+    "original_info": {
+        "id": "Mouse_2004",
+        "name": "Mouse",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Quag7"
+        },
+        "dateCreated": "2008-09-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0489522/"
+        },
+        "name": "More cute than diabolical.",
+        "reviewBody": "I guess I can't blame Kenneth Anger fans for looking for something weird and menacing in here, or looking for a statement on consumerism or something like that, but aside from some disturbing old footage of what appears to be a merry go round out of control, this is more cute than anything else. Seriously, you can watch it with your kids. They'll love it.\n\nToy Mickey Mouses come walking across the screen, wink at the camera, and so on, while popular music through the ages plays. People are always looking for evil in Mickey Mouse, and I'm as sensitive to consumerism and jingoism and corporate excess as anyone else and try as I might, I simply cannot find anything *evil* about Mickey Mouse or any kind of statement in this film. I tried, I really did. I've seen Invocation of My Demon Brother. I've *seen* Lucifer Rising and I just can't connect that sensibility here. There are some things identifiably Kenneth Anger here - something about the way things are filmed that I can't put my finger on, as well as the music choices (which made me recall Rabbit's Moon for some reason). But nothing immediately psychedelic or, you know, um, Thelemic.\n\nAs far as I can tell, this is a filmmaker having a bit of fun with an icon familiar to just about everyone.\n\nIt's Mickey! Lots of them! In many forms! Dancing, singing, and so on. And that's about it. I liked the film, frankly. It was whimsical and fun. I guess if you have it in you to really hate Mickey Mouse, you'll see something else here. But man I just don't have any room left in my heart to hate Mickey. Or plastic representations of Mickey.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0489522/"
+}

@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jessalyn Gilsig",
+            "url": "/name/nm0319698/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cary Elwes",
+            "url": "/name/nm0000144/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrea Corr",
+            "url": "/name/nm0180639/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 17149,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0072876/"
+        },
+        {
+            "@type": "Person",
+            "name": "Vera Chapman",
+            "url": "/name/nm0152545/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kirk DeMicco",
+            "url": "/name/nm0210320/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Schifrin",
+            "url": "/name/nm0771547/"
+        }
+    ],
+    "datePublished": "1998-05-15",
+    "description": "An adventurous girl, a young blind hermit, and a goofy two-headed dragon race to find the lost sword Excalibur to save King Arthur and Camelot from disaster.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Frederik Du Chau",
+            "url": "/name/nm0238865/"
+        }
+    ],
+    "duration": "PT1H26M",
+    "genre": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNmE2ZjIxOTMtMDY2Ny00MjlhLTlkZGQtMjk3YTEwOTVjMjM4XkEyXkFqcGdeQXVyNjI1Mjk4MTg@._V1_.jpg",
+    "keywords": "ogre,king arthur character,merlin character,scene before opening credits,scene during opening credits",
+    "name": "Quest for Camelot",
+    "original_info": {
+        "id": "Quest for Camelot_1998",
+        "name": "Quest for Camelot",
+        "year": "1998"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Witch Hazel"
+        },
+        "dateCreated": "2001-01-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120800/"
+        },
+        "name": "A really good flick",
+        "reviewBody": "I, personally, really enjoy Quest for Camelot. I think it has a very good plot, I love the music, the animation is pretty good, and the characters are likeable. Admittedly, it does have its flaws, and it's no Sleeping Beauty, but then again, what is?\n\nI think many people don't give this and similar movies a chance because they're not Disney. But heck, Pocahontas was by Disney, and it sucked! So, don't judge a movie by its studio. You really should give this movie a try."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2139226393",
+        "name": "Quest for Camelot",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTdiODJjMzYtZDBjNS00MzhlLWJlN2MtMzBkZTAyOWEyYTA2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTdiODJjMzYtZDBjNS00MzhlLWJlN2MtMzBkZTAyOWEyYTA2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:47:36Z",
+        "url": "https://www.imdb.com/video/vi2139226393/"
+    },
+    "url": "/title/tt0120800/"
+}

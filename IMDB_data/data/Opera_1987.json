@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Cristina Marsillach",
+            "url": "/name/nm0551290/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ian Charleson",
+            "url": "/name/nm0153182/"
+        },
+        {
+            "@type": "Person",
+            "name": "Urbano Barberini",
+            "url": "/name/nm0053519/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 18101,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0071178/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0037028/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0035035/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dario Argento",
+            "url": "/name/nm0000783/"
+        },
+        {
+            "@type": "Person",
+            "name": "Franco Ferrini",
+            "url": "/name/nm0274853/"
+        }
+    ],
+    "datePublished": "1987-12-19",
+    "description": "A young opera singer is stalked by a deranged fan bent on killing the people associated with her to claim her for himself.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Dario Argento",
+            "url": "/name/nm0000783/"
+        }
+    ],
+    "duration": "PT1H47M",
+    "genre": [
+        "Crime",
+        "Horror",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjY3MjBhYTEtNmFjMi00ZGY2LWFjNDItMjJjNGIxZjc4NzFjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "giallo,psycho killer,italian cinema,bound and gagged,voyeur",
+    "name": "Opera",
+    "original_info": {
+        "id": "Opera_1987",
+        "name": "Opera",
+        "year": "1987"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Vartiainen"
+        },
+        "dateCreated": "2018-12-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0093677/"
+        },
+        "name": "Great effects, rather clichéd story",
+        "reviewBody": "Dario Argento's movie about a young opera star that gets stalked by an obsessive fan, who might have a link to her past and more specifically to her mother.\n\nWhat's great about Opera is its visual effects, its passion for the craft of making movies. The camera angles are inventive, as is the way the camera moves. The gory special effects are ahead of their time and the whole film has this feel of oppression to it. Like no one can be trusted and that there are ghosts hiding within the walls.\n\nNot to say the story is terrible. It's just that it's rather blatantly ripping off Phantom of the Opera. One might argue it's paying an homage to a giant of the genre, but it still leaves the film lacking in originality.\n\nBut still, this is supposed to be an exploitative horror film and in that regard it delivers beautifully. The acting is on the right side of corny, the special effects and the gore are beautifully realized and the film's mood is just about perfectly morbid. I especially like the theater as a setting, with ravens and all.\n\nIs it the best Dario Argento film there is? Nah, probably not, but it is a great find for all fans of old-time horror films.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A young opera singer is stalked by a deranged fan bent on killing the people associated with her to claim her for himself.",
+        "duration": "PT1M46S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi109822745",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzBjZWRjMTAtZjQ0Mi00NDRmLTk2NDEtZGIyNTg1ZjNkZjAxXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzBjZWRjMTAtZjQ0Mi00NDRmLTk2NDEtZGIyNTg1ZjNkZjAxXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-10-25T00:45:19.866Z",
+        "url": "https://www.imdb.com/video/vi109822745/"
+    },
+    "url": "/title/tt0093677/"
+}

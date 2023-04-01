@@ -1,0 +1,110 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Steve Martin",
+            "url": "/name/nm0000188/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bernadette Peters",
+            "url": "/name/nm0001613/"
+        },
+        {
+            "@type": "Person",
+            "name": "Catlin Adams",
+            "url": "/name/nm0010818/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 59935,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0019470/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve Martin",
+            "url": "/name/nm0000188/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carl Gottlieb",
+            "url": "/name/nm0331956/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Elias",
+            "url": "/name/nm0253498/"
+        }
+    ],
+    "datePublished": "1979-12-14",
+    "description": "A simpleminded, sheltered country boy suddenly decides to leave his family home to experience life in the big city, where his naivete is both his best friend and his worst enemy.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Carl Reiner",
+            "url": "/name/nm0005348/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZDNmNThjMTMtNzVlZC00MzgyLWE3M2UtNGQ3ZTZmNjM3YWI2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "fish out of water,eyeglasses,mississippi,told in flashback,cat juggling",
+    "name": "The Jerk",
+    "original_info": {
+        "id": "The Jerk_1979",
+        "name": "The Jerk",
+        "year": "1979"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "AudioFileZ"
+        },
+        "dateCreated": "2018-05-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0079367/"
+        },
+        "name": "Paved The Way For Stupid Comedy On Film For Decades To Come",
+        "reviewBody": "After watching the recent Martin & Short net released performance I felt it was time to revisit Martin's first foray into film, The Jerk. At the time The Jerk first dropped Martin was on a roll. The film continued that. A unique piece of celluloid humor whose audience was, shall we say, generous. It is somewhat hard to imagine the time now, but Martin plugged into it. This is a comedy that actually did well in the mainstream at the time and went on to become a bit of cultish type thing. That is to say it doesn't really age well in many ways, but there's Martin at the center. Then and now he makes it a movie to watch. He's completely unique and absolutely irreverent for any time. Watching him is like watching a one-off talent. He put many of his already successful stand-up gags plus delved deeper. The supporting cast was just as edgy with a nice fit. This is one stupid movie making absolutely no apologies. If you in for a cent, you're in for a pound...meaning if in the first ten minutes if you get it then you're going to be watching to the end with those little belly laughs that drop like rain. So, in the end, this many years later this is a film for those with the broadest sense of humor. Those who celebrate crazed stupidity as a form of brilliance. I'd say it was somewhat important as it paved the way for more modern comedies like the Farrrely Brothers later made. Not a film for the masses anymore, if you're a fan of obtuse comedy it definitely warrants another watch.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3965106969",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOWMyMmZlNGMtZjA5Zi00YjhhLWE5ZDItNmZmZGZlYjcyNmQzXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOWMyMmZlNGMtZjA5Zi00YjhhLWE5ZDItNmZmZGZlYjcyNmQzXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+        "uploadDate": "2018-09-13T18:10:45.926Z",
+        "url": "https://www.imdb.com/video/vi3965106969/"
+    },
+    "url": "/title/tt0079367/"
+}

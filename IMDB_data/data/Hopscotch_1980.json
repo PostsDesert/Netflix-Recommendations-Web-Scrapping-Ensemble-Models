@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Walter Matthau",
+            "url": "/name/nm0000527/"
+        },
+        {
+            "@type": "Person",
+            "name": "Glenda Jackson",
+            "url": "/name/nm0413559/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sam Waterston",
+            "url": "/name/nm0001832/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 8418,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0095235/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0681269/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0024716/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brian Garfield",
+            "url": "/name/nm0307257/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bryan Forbes",
+            "url": "/name/nm0285302/"
+        }
+    ],
+    "datePublished": "1980-10-10",
+    "description": "Grounded with a desk job by incompetent superiors, a clever CIA agent retires and writes a tell all memoir that will embarrass his bosses, prompting him to go on the run and elude them.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ronald Neame",
+            "url": "/name/nm0623768/"
+        }
+    ],
+    "duration": "PT1H46M",
+    "genre": [
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNmZhNWEyNmYtOWQyNy00OTY2LTk3MDQtMjM1YWVlOGRlMWMyXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "man tied up,tied to chair,bound and gagged,american abroad,espionage",
+    "name": "Hopscotch",
+    "original_info": {
+        "id": "Hopscotch_1980",
+        "name": "Hopscotch",
+        "year": "1980"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "hitchcockthelegend"
+        },
+        "dateCreated": "2008-09-04",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0080889/"
+        },
+        "name": "A simply delightful little film.",
+        "reviewBody": "After growing tired of the job, CIA agent Miles Kendig decides to get out of the business once and for all. Fearing that his peace, and maybe his life, could be threatened by the organisation, he tells them that unless he is left alone he will spill the beans on all the secrets that he knows about. They call his bluff, thinking he is full of bitter hot air, so he promptly starts sending out to them one chapter at a time. Realising that Kendig is serious, the CIA sets about putting a stop to him, by whatever means necessary!!. But with Kendig having been one of their own once, he is one shrewd customer, and stopping him is going to be one hell of a job.\n\nBased on the Brian Garfield novel, Hopscotch is a cheeky comedy paced with utter perfection from director Ronald Neame. Featuring a very accomplished cast, Walter Matthau, Glenda Jackson, Herbert Lom, Ned Beatty & Sam Waterston, Hopscotch relies on a sharp script and incredibly appealing dialogue to bring home the bacon, and it does, admirably so. It's the type of film that one knows is not about winning awards, the kind of film that is an actors film, where everyone is comfortable with the material and appears to be having a great time. The lead role of Kendig is tailor made for Matthau, ambling along at his own pace with a glint in his eye and a quip on his tongue, Matthau carries the film with charming ease. The others all contribute of course, but the comedy gold comes from Walter and that lived in face of his. So bits of drama here, bits of comedy there, Hopscotch is a very well made and hugely enjoyable picture, recommended. 7/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "An CIA agent threatens to publish an embarrassing, tell-all book",
+        "duration": "PT2M57S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4146135833",
+        "name": "Hopscotch",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTBmOGNlMWMtOGI1My00OWQ0LWI4NmMtNjZiZDFiYjNjMmFkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTBmOGNlMWMtOGI1My00OWQ0LWI4NmMtNjZiZDFiYjNjMmFkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-02-11T06:51:48Z",
+        "url": "https://www.imdb.com/video/vi4146135833/"
+    },
+    "url": "/title/tt0080889/"
+}

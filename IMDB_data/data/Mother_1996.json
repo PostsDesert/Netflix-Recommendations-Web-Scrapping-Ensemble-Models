@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Albert Brooks",
+            "url": "/name/nm0000983/"
+        },
+        {
+            "@type": "Person",
+            "name": "Debbie Reynolds",
+            "url": "/name/nm0001666/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Collins",
+            "url": "/name/nm0172598/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6437,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0093765/"
+        },
+        {
+            "@type": "Person",
+            "name": "Albert Brooks",
+            "url": "/name/nm0000983/"
+        },
+        {
+            "@type": "Person",
+            "name": "Monica Mcgowan Johnson",
+            "url": "/name/nm0569606/"
+        }
+    ],
+    "datePublished": "1997-01-24",
+    "description": "A neurotic, twice-divorced sci-fi writer moves back in with his mother to solve his personal problems.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Albert Brooks",
+            "url": "/name/nm0000983/"
+        }
+    ],
+    "duration": "PT1H44M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOGQxNjYwYTAtNmQzNi00NzQ4LWFhYzEtNTdjM2U3YjYyZDMzXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "triangulation,narcissism,blonde stereotype,reference to 2001 a space odyssey,gossip",
+    "name": "Mother",
+    "original_info": {
+        "id": "Mother_1996",
+        "name": "Mother",
+        "year": "1996"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "lasherxl"
+        },
+        "dateCreated": "2000-09-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0117091/"
+        },
+        "name": "Universal Problems...",
+        "reviewBody": "I think Albert Brooks did a wonderful job with this film. Portraying all the odd little things that happen in our relationships with our respective mothers. We all have those moments where we look at her and can't believe that we were spawned from her loins. The ways that at any age, she can reduce us to about 9 years old and completely humiliate and embarrass the hell out us at a moments notice.\n\nDebbie Reynolds is magnificent as the mother, she has that maniacal sense of motherly perfection that all of our mother's, at the very least, attempt to portray. \n\nRob Morrow is also hilarious as the jealous younger brother. Every scene between him and Brooks is a laugh riot, because they both seem to regress to their younger days when they would fight over toys and the remote control.\n\nAll in all, I think it is something everyone can relate to on some sense. We have all had one or two of these moments with our mothers and it is more than likely they will happen again.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M28S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2927671833",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTljZjdjYTQtODRkNy00YzQyLWIxZWMtNmM2MzJhNzZmZjBlXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTljZjdjYTQtODRkNy00YzQyLWIxZWMtNmM2MzJhNzZmZjBlXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+        "uploadDate": "2018-10-23T00:00:58.581Z",
+        "url": "https://www.imdb.com/video/vi2927671833/"
+    },
+    "url": "/title/tt0117091/"
+}

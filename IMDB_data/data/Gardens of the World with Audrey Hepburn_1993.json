@@ -1,0 +1,69 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Audrey Hepburn",
+            "url": "/name/nm0000030/"
+        },
+        {
+            "@type": "Person",
+            "name": "Penelope Hobhouse",
+            "url": "/name/nm0387692/"
+        },
+        {
+            "@type": "Person",
+            "name": "Graham Stuart Thomas",
+            "url": "/name/nm14120157/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 113,
+        "ratingValue": 8.4,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0198341/"
+        }
+    ],
+    "datePublished": "1993-01-21",
+    "description": "Audrey Hepburn takes viewers on a tour of the world's greatest gardens.",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTYzMzQyNjUyNF5BMl5BanBnXkFtZTcwMzcwMzYzMQ@@._V1_.jpg",
+    "keywords": "presenter name in title,tv mini series",
+    "name": "Gardens of the World with Audrey Hepburn",
+    "original_info": {
+        "id": "Gardens of the World with Audrey Hepburn_1993",
+        "name": "Gardens of the World with Audrey Hepburn",
+        "year": "1993"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "rogerferdinandwood"
+        },
+        "dateCreated": "2020-11-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0221199/"
+        },
+        "name": "For the love of gardening.",
+        "reviewBody": "Whether your a landscape architect or just love gardening, you won't find a classier guide through some of Europe's finest gardens. They don't make them like Audrey anymore.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0221199/"
+}

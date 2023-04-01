@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Pauline Murray",
+            "url": "/name/nm0615211/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sebastian Shaw",
+            "url": "/name/nm0789970/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bart Allison",
+            "url": "/name/nm0021410/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1204,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0141141/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kevin Brownlow",
+            "url": "/name/nm0002206/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrew Mollo",
+            "url": "/name/nm0597081/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dinah Brooke",
+            "url": "/name/nm0111619/"
+        }
+    ],
+    "datePublished": "1966-08-08",
+    "description": "In 1940, the Nazis invade Britain and transform it into a fascist state where some Britons collaborate and others resist. In 1944, an apolitical Irish nurse becomes a reluctant player in the fight between the two sides.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Kevin Brownlow",
+            "url": "/name/nm0002206/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrew Mollo",
+            "url": "/name/nm0597081/"
+        }
+    ],
+    "duration": "PT1H33M",
+    "genre": [
+        "Drama",
+        "Sci-Fi",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjdmMmE5OTctMjdmOC00ODc5LThlMjItNTczZDI4ZmI5YzdmXkEyXkFqcGdeQXVyNjE5NjI4NzI@._V1_.jpg",
+    "keywords": "year 1944,year 1945,year 1940,1910s,fake documentary",
+    "name": "It Happened Here",
+    "original_info": {
+        "id": "It Happened Here_1964",
+        "name": "It Happened Here",
+        "year": "1964"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "MOscarbradley"
+        },
+        "dateCreated": "2015-10-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0055024/"
+        },
+        "name": "The perfect companion piece to \"Went the Day Well\"",
+        "reviewBody": "Like Peter Watkin's \"The War Game\" which came out around the same time and which imagined life, or what was left of it, in Britain after a nuclear attack, Kevin Brownlow and Andrew Mollo's \"It Happened Here\" imagines a Britain under the jackboot as if Hitler had succeeded in invading after the retreat at Dunkirk and like \"The War Game\" is filmed as if it were a documentary. If it has a fault it's that the acting, by a largely non-professional cast, feels distinctly am-dram. Otherwise this is a chilling portrait of a country under occupation, superbly shot by the great Peter Suschitzky and Brownlow. Interestingly, it shows that the British resistance could be just as brutal as the Germans are usually shown in this kind of film, making this the perfect companion piece to Cavalcanti's masterpiece \"Went the Day Well\".",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0055024/"
+}

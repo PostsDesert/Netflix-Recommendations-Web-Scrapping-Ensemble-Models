@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Hugh Grant",
+            "url": "/name/nm0000424/"
+        },
+        {
+            "@type": "Person",
+            "name": "Martine McCutcheon",
+            "url": "/name/nm0567356/"
+        },
+        {
+            "@type": "Person",
+            "name": "Liam Neeson",
+            "url": "/name/nm0000553/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 501705,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0047476/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0057311/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Curtis",
+            "url": "/name/nm0193485/"
+        }
+    ],
+    "datePublished": "2003-11-14",
+    "description": "Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London, England.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Richard Curtis",
+            "url": "/name/nm0193485/"
+        }
+    ],
+    "duration": "PT2H15M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNThkNjgxNGQtOTIxMy00ZTFmLWIwMDItYzE5YzM3ZDMzNDE3XkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg",
+    "keywords": "christmas,adultery,unrequited love,love at first sight,prime minister",
+    "name": "Love Actually",
+    "original_info": {
+        "id": "Love_2003",
+        "name": "Love",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Michael101"
+        },
+        "dateCreated": "2004-01-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0314331/"
+        },
+        "name": "Bravo Richard Curtis",
+        "reviewBody": "Like most guys I would never have seen this movie on my own or with male friends. However my girlfriend was in town and I thought a romantic comedy would make an ideal movie for us to see together.\n\nI had heard about the reference to 9/11 made at the beginning of the movie and was dreading having to sit through that part. However I was pleasantly surprised to note that the reference was very minor and not particularly cringe worthy either so I am not quite sure why it annoyed some people so much.\n\nAs regards to the movie overall I quite enjoyed it and would definitely recommend it as an ideal date film. A lot of the reviews here have disparaged the movie because they thought it was too glib about love and very unrealistic. But I think you have to accept that the movie was made to make people laugh and bring the spirit of love into the Christmas holiday period. If you watch the film in that context then it does its job admirably well.\n\nHowever for me the best moment in the film was the press conference given (standing side by side) by the American president and the British Prime Minister. I actually felt like standing up and cheering when Hugh Grant (as the Prime Minister) finally tells the American president to his face and in front of the worlds press that Britain will no longer kowtow to American wishes but will have an independent view of its own.\n\nConsidering that America is the biggest market for movies it was extremely brave of Richard Curtis to write this scene and he deserves a lot of credit for portraying the American president as rather loathsome and putting into context what the `Special Relationship' really is all about.\n\nAs Richard Curtis must have known the movie had done okay but not great in the States. However it has cleaned up here in the UK and I'm sure will do very well in the rest of the world too.\n\nSo Bravo Richard Curtis for standing up for your principals; you are a hero!"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Love Actually",
+        "duration": "PT1M1S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3838289945",
+        "name": "Love Actually",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNWI2NTE4ZDUtMWQzZS00ZmEwLWJkNDMtNGQ0YzAzODljYzYwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNWI2NTE4ZDUtMWQzZS00ZmEwLWJkNDMtNGQ0YzAzODljYzYwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2013-11-10T07:43:43Z",
+        "url": "https://www.imdb.com/video/vi3838289945/"
+    },
+    "url": "/title/tt0314331/"
+}

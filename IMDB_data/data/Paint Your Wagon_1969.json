@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Lee Marvin",
+            "url": "/name/nm0001511/"
+        },
+        {
+            "@type": "Person",
+            "name": "Clint Eastwood",
+            "url": "/name/nm0000142/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jean Seberg",
+            "url": "/name/nm0781029/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 14157,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0341240/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0102264/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alan Jay Lerner",
+            "url": "/name/nm0503585/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paddy Chayefsky",
+            "url": "/name/nm0154665/"
+        }
+    ],
+    "datePublished": "1969-10-15",
+    "description": "Two unlikely prospector partners share the same wife in a California gold rush mining town.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Joshua Logan",
+            "url": "/name/nm0517597/"
+        }
+    ],
+    "duration": "PT2H44M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Musical"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzU4M2YwMjItZThhYi00NDA5LTljYmUtOGNkNjIxYjdiYjBlXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
+    "keywords": "polyamory,men's chorus,california gold rush,digging a grave,year 1849",
+    "name": "Paint Your Wagon",
+    "original_info": {
+        "id": "Paint Your Wagon_1969",
+        "name": "Paint Your Wagon",
+        "year": "1969"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "MOscarbradley"
+        },
+        "dateCreated": "2004-06-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0064782/"
+        },
+        "name": "A Nicely Naturalistic Musical",
+        "reviewBody": "Joshua Logan's screen version of \"Paint your wagon\" works a treat, perhaps because the original stage version is so little known and apparently has been given something of a make-over by screen writer Paddy Chayefsky. The fact that the leads (Lee Marvin, Clint Eastwood and Jean Seberg) can't sing matters not a jot; they perform with charisma, (even Seberg is less wan than usual) and bring a touch of realism to the proceedings, their songs seeming to evolve naturally from the action. Other singing duties are performed by the splendid Harve Presnell and a rousing, mostly male, chorus for this is a musical western of a more robust kind than \"Seven Brides for Seven Brothers\". It's plot, which concerns mining for gold, polygamy and the building of a town, fairly races along. Logan handles the whole thing with great aplomb and brings to it some nice, naturalistic touches sadly lacking from his earlier musicals, \"South Pacific\" and \"Camelot\". Most critics didn't warm to it, though and it remains largely under-valued."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "lbx",
+        "duration": "PT1M7S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi409403417",
+        "name": "Paint Your Wagon",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMmUxMDkxMjgtZmQ1Mi00MmIxLWE5NzUtZWY3MDhjMjY3NGE1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMmUxMDkxMjgtZmQ1Mi00MmIxLWE5NzUtZWY3MDhjMjY3NGE1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-10-22T03:35:59Z",
+        "url": "https://www.imdb.com/video/vi409403417/"
+    },
+    "url": "/title/tt0064782/"
+}

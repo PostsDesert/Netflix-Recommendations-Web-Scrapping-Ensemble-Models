@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mitsuo Iwata",
+            "url": "/name/nm0412628/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nozomu Sasaki",
+            "url": "/name/nm0765815/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mami Koyama",
+            "url": "/name/nm0468708/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 191580,
+        "ratingValue": 8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0016884/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0225274/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0064579/"
+        },
+        {
+            "@type": "Person",
+            "name": "Katsuhiro Ôtomo",
+            "url": "/name/nm0960028/"
+        },
+        {
+            "@type": "Person",
+            "name": "Izô Hashimoto",
+            "url": "/name/nm0368051/"
+        }
+    ],
+    "datePublished": "1991-06-28",
+    "description": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath who can only be stopped by a teenager, his gang of biker friends and a group of psychics.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Katsuhiro Ôtomo",
+            "url": "/name/nm0960028/"
+        }
+    ],
+    "duration": "PT2H4M",
+    "genre": [
+        "Animation",
+        "Action",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BM2ZiZTk1ODgtMTZkNS00NTYxLWIxZTUtNWExZGYwZTRjODViXkEyXkFqcGdeQXVyMTE2MzA3MDM@._V1_.jpg",
+    "keywords": "cyberpunk,biker gang,based on manga,post thermonuclear war,military",
+    "name": "Akira",
+    "original_info": {
+        "id": "Akira_1988",
+        "name": "Akira",
+        "year": "1988"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "kashtynandel"
+        },
+        "dateCreated": "2019-07-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0094625/"
+        },
+        "name": "It Is Violent",
+        "reviewBody": "So i love it! Not the usual. The story is complex and condensed for the sake of the movie and as such hard to understand. I recommend reading the source material first. Imagine how bad an American remake would be if they messed up Ghost In The Shell that much!!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Akira: 25th Anniversary Edition",
+        "duration": "PT1M3S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1854122009",
+        "name": "Akira: 25th Anniversary Edition",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYTk3YWVhZTQtN2Q5YS00NzQ2LTlmY2QtOTg3MjY3NDUzMzQ5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTk3YWVhZTQtN2Q5YS00NzQ2LTlmY2QtOTg3MjY3NDUzMzQ5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2013-10-10T04:04:44Z",
+        "url": "https://www.imdb.com/video/vi1854122009/"
+    },
+    "url": "/title/tt0094625/"
+}

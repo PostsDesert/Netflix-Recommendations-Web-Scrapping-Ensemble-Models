@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Frank Langella",
+            "url": "/name/nm0001449/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alan Arkin",
+            "url": "/name/nm0000273/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kevin Spacey",
+            "url": "/name/nm0000228/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1152,
+        "ratingValue": 6.1,
+        "worstRating": 1
+    },
+    "contentRating": "Unrated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0169860/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0273255/"
+        },
+        {
+            "@type": "Person",
+            "name": "Walter Bernstein",
+            "url": "/name/nm0077159/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lionel Chetwynd",
+            "url": "/name/nm0156417/"
+        }
+    ],
+    "datePublished": "1994-07-23",
+    "description": "How the brilliant Canadian munitions engineer, Dr. Gerald Bull, agreed to build a super-gun for Saddam Hussein in 1988, when the U.S. cut his funding for the experiment, and how it attracted the attention of several intelligence a...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Young",
+            "url": "/name/nm0950000/"
+        }
+    ],
+    "duration": "PT2H",
+    "genre": [
+        "Action",
+        "Drama",
+        "History"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzdhYjZmMjAtOTUwYi00MmM2LWE3MWItYWE3ZDc1ZjQ1ZGYwXkEyXkFqcGdeQXVyMTI1NTE2NjA@._V1_.jpg",
+    "keywords": "supergun,engineer,gun,project harp,project babylon",
+    "name": "Doomsday Gun",
+    "original_info": {
+        "id": "Doomsday Gun_1994",
+        "name": "Doomsday Gun",
+        "year": "1994"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Royalcourtier"
+        },
+        "dateCreated": "2014-05-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0109650/"
+        },
+        "name": "Flawed criticism",
+        "reviewBody": "One reviewer claimed that the idea of a Supergun was impractical due to the huge flame that could easily be observed from satellites, and that such a gun would take days to clean out and reload.\n\nThis is not correct.\n\nA supergun can work, and is no more impractical than a fixed airbase or missile launch site.\n\nThe German superguns did work, and many rounds were fired both in testing and operationally - at Luxembourg.\n\nIran would have had difficulty destroying a firing site. Its ground attack capability was not good, and the gun itself would be a small target. Flames could not be seen from space, even if Iran did have a satellite over Iraq at the time of firing.\n\nIt would also have been an ideal weapon with which to launch projectiles against the state of Israel."
+    },
+    "url": "/title/tt0109650/"
+}

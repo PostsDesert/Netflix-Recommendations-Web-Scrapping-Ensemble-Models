@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Marisa Tomei",
+            "url": "/name/nm0000673/"
+        },
+        {
+            "@type": "Person",
+            "name": "Vincent D'Onofrio",
+            "url": "/name/nm0000352/"
+        },
+        {
+            "@type": "Person",
+            "name": "Holland Taylor",
+            "url": "/name/nm0852466/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 10012,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0046530/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brad Anderson",
+            "url": "/name/nm0026442/"
+        }
+    ],
+    "datePublished": "2001-09-12",
+    "description": "New Yorker Ruby Weaver believes she has found the man of her dreams in Sam Deed, who is her best catch in some time--except that he assures her that he came from the future.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Brad Anderson",
+            "url": "/name/nm0026442/"
+        }
+    ],
+    "duration": "PT1H50M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTYyNDY2ODg3NF5BMl5BanBnXkFtZTcwMDQ0Mjk3OA@@._V1_.jpg",
+    "keywords": "time travel romance,the future,therapist,time travel,2000s",
+    "name": "Happy Accidents",
+    "original_info": {
+        "id": "Happy Accidents_2001",
+        "name": "Happy Accidents",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "chthon2"
+        },
+        "dateCreated": "2003-07-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0208196/"
+        },
+        "name": "A chick flick I actually liked.",
+        "reviewBody": "Ruby Weaver, a person who has made bad choices in the boyfriend department, thinks she's finally found a decent life partner in Sam. That is, until he claims he's a time traveler from the future. She plays along at first, but Sam's stories become increasingly weird, and Ruby questions his mental health.\n\nThis was such a cute little movie, I decided to by the DVD. The two lead characters were actually entertaining, unlike the cardboard cutouts in most romantic comedies i've seen in the last few years. Brad Anderson is a talented guy, and i'd like to see what else he's directed now.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from IFC",
+        "duration": "PT2M29S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3567649049",
+        "name": "Happy Accidents",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNThiMDc2N2UtMjc0NS00ZTFlLTk2MTMtNGNhODgxMzhmZGVhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNThiMDc2N2UtMjc0NS00ZTFlLTk2MTMtNGNhODgxMzhmZGVhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:05:40Z",
+        "url": "https://www.imdb.com/video/vi3567649049/"
+    },
+    "url": "/title/tt0208196/"
+}

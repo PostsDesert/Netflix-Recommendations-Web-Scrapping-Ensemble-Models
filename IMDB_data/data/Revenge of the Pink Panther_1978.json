@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Peter Sellers",
+            "url": "/name/nm0000634/"
+        },
+        {
+            "@type": "Person",
+            "name": "Herbert Lom",
+            "url": "/name/nm0007042/"
+        },
+        {
+            "@type": "Person",
+            "name": "Burt Kwouk",
+            "url": "/name/nm0477297/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 22302,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0124632/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0327588/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0006551/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frank Waldman",
+            "url": "/name/nm0907186/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ron Clark",
+            "url": "/name/nm0164444/"
+        },
+        {
+            "@type": "Person",
+            "name": "Blake Edwards",
+            "url": "/name/nm0001175/"
+        }
+    ],
+    "datePublished": "1978-07-19",
+    "description": "To prove that he still is strong and powerful, Philippe Douvier decides to kill Clouseau. Once news of his \"death\" has been announced, Clouseau tries to take advantage of it and goes undercover with Cato to find out who tried to k...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Blake Edwards",
+            "url": "/name/nm0001175/"
+        }
+    ],
+    "duration": "PT1H39M",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDI1ZTIxYjgtNWY1Ni00ODZlLTk1ZjQtZWZhNmM0ZmE4ZmNjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "damage,martial arts spoof,watching tv,chinese servant,hole in the floor",
+    "name": "Revenge of the Pink Panther",
+    "original_info": {
+        "id": "Revenge of the Pink Panther_1978",
+        "name": "Revenge of the Pink Panther",
+        "year": "1978"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "TheColt"
+        },
+        "dateCreated": "2000-08-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0078163/"
+        },
+        "name": "Got me Laughing",
+        "reviewBody": "I bought this one on DVD, and I read through the booklet that went behind the scenes for production. With only so much time given to write a script, get everyone signed, and make the movie plus the downtime suffered by a health problems (Peter Sellers and Blake Edwards) maybe the causes for a shorter possibly less that usual panther...NOT SO in my opinion...hilarity reigns in this one. I love seeing Clouseau in so many disguises, Dreyfus fainting every 3 seconds (though more interaction with him would have been nice), and CATO HAS A BIGGER ROLE!!!!!!!!!!!!!! Finally we get to see HOW inept he really was as Clouseau's assistant/manservant. Honeslty though, the funeral scene, the \"Remodeled\" Clouseau Apartment, and Hong Kong are the best parts of the movie...THis one is worth it"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "To prove that he still is strong and powerful, Philippe Douvier decides to kill Clouseau. Once news of his \"death\" has been announced, Clouseau tries to take advantage of it and goes undercover with Cato to find out who tried to kill him.",
+        "duration": "PT2M12S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1168425753",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjUzNzEyNGEtOTFmZC00ZGIyLWE3YzEtZjdhNGEyYmViMmU1XkEyXkFqcGdeQWFuaW5vc2M@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjUzNzEyNGEtOTFmZC00ZGIyLWE3YzEtZjdhNGEyYmViMmU1XkEyXkFqcGdeQWFuaW5vc2M@._V1_.jpg",
+        "uploadDate": "2021-09-22T05:18:42.847Z",
+        "url": "https://www.imdb.com/video/vi1168425753/"
+    },
+    "url": "/title/tt0078163/"
+}

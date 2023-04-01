@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Stefanie Martini",
+            "url": "/name/nm7607873/"
+        },
+        {
+            "@type": "Person",
+            "name": "Emma Appleton",
+            "url": "/name/nm8221626/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rory Fleck Byrne",
+            "url": "/name/nm1454097/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 201,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "alternateName": "Lola",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0759584/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0121295/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0493361/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrew Legge",
+            "url": "/name/nm1117075/"
+        },
+        {
+            "@type": "Person",
+            "name": "Angeli Macfarlane",
+            "url": "/name/nm2967675/"
+        }
+    ],
+    "datePublished": "2023-04-07",
+    "description": "1940, Thom and Mars have built a machine, LOLA, that can intercept radio and TV broadcasts from the future",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Andrew Legge",
+            "url": "/name/nm1117075/"
+        }
+    ],
+    "duration": "PT1H19M",
+    "genre": [
+        "Sci-Fi",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZDhiM2VjNzEtMzFkNC00ZWI2LThkZWYtYWFkNjMzYTczMjg4XkEyXkFqcGdeQXVyNDI3MjIxNjk@._V1_.jpg",
+    "keywords": "the future",
+    "name": "LOLA",
+    "original_info": {
+        "id": "Lola & Billy the Kid_1999",
+        "name": "Lola & Billy the Kid",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "lestatultraviolet"
+        },
+        "dateCreated": "2022-08-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt11366674/"
+        },
+        "name": "Lola at the Edinburgh International Film Festival",
+        "reviewBody": "Caught this at the 75th EIFF, very clever and inventive piece of micro-budget SF, presented almost as documentary using footage discovered in old movie reel tins in a deserted house in England, purporting to document a pair of eccentric sisters created Lola, a machine which can intercept. Broadcasts from the future. It starts as fun, but as the war comes to Britain, Lola's trajectory changes radically.\n\nSome of the film was shot on period cameras, developed in a rougher way to give the impression of damaged old film reels, while other footage uses newsreels, edited to include characters (a la Forrest Gump) or events, while the story also brings into play the nature of personal responsibility and the potential consequences of interfering with history. In many ways it reminded me of Primer, now a cult film, which I first saw at the same film festival years ago.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt11366674/"
+}

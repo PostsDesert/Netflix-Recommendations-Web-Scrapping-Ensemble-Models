@@ -1,0 +1,117 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Billy Campbell",
+            "url": "/name/nm0001004/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jennifer Connelly",
+            "url": "/name/nm0000124/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alan Arkin",
+            "url": "/name/nm0000273/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 59340,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0008970/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0049348/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0133018/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dave Stevens",
+            "url": "/name/nm0828349/"
+        },
+        {
+            "@type": "Person",
+            "name": "Danny Bilson",
+            "url": "/name/nm0082677/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul De Meo",
+            "url": "/name/nm0210290/"
+        }
+    ],
+    "datePublished": "1991-06-21",
+    "description": "A young pilot stumbles onto a prototype jetpack that allows him to become a high-flying masked hero.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Joe Johnston",
+            "url": "/name/nm0002653/"
+        }
+    ],
+    "duration": "PT1H48M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BN2ZiMjkwNWYtZWRjNy00YTYxLWI1ZWYtODI0NTA5YTg4ZDIxXkEyXkFqcGdeQXVyNDA5ODIzMDk@._V1_.jpg",
+    "keywords": "1930s,dieselpunk,jet pack,steampunk,nazi",
+    "name": "The Rocketeer",
+    "original_info": {
+        "id": "The Rocketeer_1991",
+        "name": "The Rocketeer",
+        "year": "1991"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "claudio_carvalho"
+        },
+        "dateCreated": "2008-04-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0102803/"
+        },
+        "name": "A Delightful Adventure Like in the Old Times",
+        "reviewBody": "In 1938, in Los Angeles, the pilot Cliff Secord (Bill Campbell) crashes his plane after being hit in the air in a shoot-out between gangsters and FBI agents in a car chase; completely broken, his best friend and mechanics A. 'Peevy' Peabody (Alan Arkin) tries to fix an old plane to raise some money in an exhibition show. However, Cliff finds a package hidden by one of the gangsters with a rocket with belts and they find that the device allows man to fly. Meanwhile, his beloved girlfriend and aspirant actress Jenny Blake (Jennifer Connelly) succeeds in an audition to make a small part in a movie of the great actor Neville Sinclair (Timothy Dalton) that is ranked the third in box-offices. During a flight exhibition, the mechanic Malcolm (Eddie Jones) has an accident, and Cliff uses the rocket to save him, being called Rocketeer by the public. With his picture in the front page of the newspaper, Cliff is chased by the FBI, the gangsters and German spies that abduct Jenny and forces Cliff to rescue her.\n\n\"Rocketeer\" is a delightful adventure that recalls those classics from the old times of Hollywood. There is a handsome hero, a gorgeous heroine, gangsters, Nazi spies, betrayals, in a pace of cartoons with a magnificent art decoration, cars and costumes recreating Hollywood in the late 30's. The story has great lines and uses real characters, like Clark Gable and Howard Hughes, in fictional situations. My vote is seven.\n\nTitle (Brazil): \"Rocketeer\"",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for The Rocketeer",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1794703641",
+        "name": "The Rocketeer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNmYyNTNjODAtYWY5Ni00YTQ5LWE2ZjMtMzFlMGNmNTkxNjcyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNmYyNTNjODAtYWY5Ni00YTQ5LWE2ZjMtMzFlMGNmNTkxNjcyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:08:24Z",
+        "url": "https://www.imdb.com/video/vi1794703641/"
+    },
+    "url": "/title/tt0102803/"
+}

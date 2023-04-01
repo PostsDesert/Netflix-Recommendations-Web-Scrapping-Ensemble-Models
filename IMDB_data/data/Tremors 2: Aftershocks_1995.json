@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Fred Ward",
+            "url": "/name/nm0911542/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chris Gartin",
+            "url": "/name/nm0308651/"
+        },
+        {
+            "@type": "Person",
+            "name": "Helen Shaver",
+            "url": "/name/nm0001726/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 31356,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0026044/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0079219/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brent Maddock",
+            "url": "/name/nm0534681/"
+        },
+        {
+            "@type": "Person",
+            "name": "S.S. Wilson",
+            "url": "/name/nm0934093/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ron Underwood",
+            "url": "/name/nm0881038/"
+        }
+    ],
+    "datePublished": "1996-04-09",
+    "description": "Earl Bassett, now a washed-up ex-celebrity, is hired by a Mexican oil company to eradicate a Graboid epidemic that's killing more people each day. However, the humans aren't the only one with a new battle plan.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "S.S. Wilson",
+            "url": "/name/nm0934093/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Action",
+        "Comedy",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNWI0MjY1NjgtYzI0MS00Yzg4LWIyNzgtZmY4YmJmOTNjYTg4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "oil refinery,man eaten by monster,man versus monster,second part,creature feature",
+    "name": "Tremors II: Aftershocks",
+    "original_info": {
+        "id": "Tremors 2: Aftershocks_1995",
+        "name": "Tremors 2: Aftershocks",
+        "year": "1995"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Op_Prime"
+        },
+        "dateCreated": "1999-12-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0114720/"
+        },
+        "name": "As far as sequels go, not bad",
+        "reviewBody": "Tremors 2 is not a bad movie. It simply lacks whatever made the first movie so special. The story is okay but it could of used more work. Having Fred Ward and Michael Gross back helped this movie a lot. I was disappointed to find out this was released direct to video. It has the potential to be a big screen release and could have made more. Overall, Tremors 2: Aftershocks is a okay movie. If you've seen the first movie, you might as well see this one."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for this follow up",
+        "duration": "PT1M52S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3061057305",
+        "name": "Tremors Two: Aftershocks",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjBhMDZmNGMtNzAyNS00YzdiLWI3NmItYjFmODFlMzM2NzA5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjBhMDZmNGMtNzAyNS00YzdiLWI3NmItYjFmODFlMzM2NzA5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-05-18T16:16:03Z",
+        "url": "https://www.imdb.com/video/vi3061057305/"
+    },
+    "url": "/title/tt0114720/"
+}

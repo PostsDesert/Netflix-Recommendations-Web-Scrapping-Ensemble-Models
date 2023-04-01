@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Anouk Aimée",
+            "url": "/name/nm0000733/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rachel Bailit",
+            "url": "/name/nm0047562/"
+        },
+        {
+            "@type": "Person",
+            "name": "Greta Scacchi",
+            "url": "/name/nm0000627/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 631,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0185360/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0061144/"
+        },
+        {
+            "@type": "Person",
+            "name": "Victoria Foyt",
+            "url": "/name/nm0289439/"
+        },
+        {
+            "@type": "Person",
+            "name": "Henry Jaglom",
+            "url": "/name/nm0415617/"
+        }
+    ],
+    "datePublished": "2002-07-25",
+    "description": "Cannes, 1999. Alice, an actress, wants to direct an indie picture. Kaz, a talkative (and maybe bogus) deal maker, promises $3 million if she'll use Millie, an aging French star. But, Rick, a big producer, needs Millie for a small ...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Henry Jaglom",
+            "url": "/name/nm0415617/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTYzMjE2NzE3Nl5BMl5BanBnXkFtZTcwNjAzNjkxMQ@@._V1_.jpg",
+    "keywords": "cannes,actress,improv,place name in title,city name in title",
+    "name": "Festival in Cannes",
+    "original_info": {
+        "id": "Festival in Cannes_2001",
+        "name": "Festival in Cannes",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "beatleboy-1"
+        },
+        "dateCreated": "2004-02-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0273607/"
+        },
+        "name": "A fun movie.",
+        "reviewBody": "This is a fun movie, and a good behind-the-scenes-look at moviemaking, both indie and \"big studio\" productions. The plot is very simple and all of the players move in and out of \"the deal\" at different times. The \"deal\" even begins to take on a life of its own with most of the characters compromising their interests to be a part of it. Very good character studies. I think this movie should have used all of the actors real names, as it seemed contrived to have a fictional name for Anouk Aimee."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Paramount Home Entertainment",
+        "duration": "PT2M23S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi110560025",
+        "name": "Festival in Cannes",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjg1YmZjMmYtM2RjNC00N2Y0LWJmMGEtMGFlOTc1NTgwYjhlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjg1YmZjMmYtM2RjNC00N2Y0LWJmMGEtMGFlOTc1NTgwYjhlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-12-04T06:19:39Z",
+        "url": "https://www.imdb.com/video/vi110560025/"
+    },
+    "url": "/title/tt0273607/"
+}

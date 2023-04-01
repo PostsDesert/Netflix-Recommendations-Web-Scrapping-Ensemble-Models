@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sandra Bullock",
+            "url": "/name/nm0000113/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeremy Northam",
+            "url": "/name/nm0000562/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dennis Miller",
+            "url": "/name/nm0588222/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 70207,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0049390/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Brancato",
+            "url": "/name/nm0104335/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Ferris",
+            "url": "/name/nm0274905/"
+        }
+    ],
+    "datePublished": "1995-07-28",
+    "description": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Irwin Winkler",
+            "url": "/name/nm0005563/"
+        }
+    ],
+    "duration": "PT1H54M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjE4MjQyNjUtZTNmYy00ZmNlLTk2ODUtN2YzODIwNDdkM2EwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "computer,identity,identity theft,computer hacker,chat room",
+    "name": "The Net",
+    "original_info": {
+        "id": "The Net_1995",
+        "name": "The Net",
+        "year": "1995"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "thermoj"
+        },
+        "dateCreated": "2002-07-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0113957/"
+        },
+        "name": "Not to be taken internally or seriously...",
+        "reviewBody": "In the dim, dead, dark days preceding my ownership of a PC, I was rather intrigued with the movie. Very Hitchcockian in its tone, and kind of a David-beats-Goliath theme that every one can relate to (Apple vs. Microsoft, employee vs. boss, ad infinitum). Seven years hence...I realize that many of the governmental entities supposedly \"hacked\" were, at the time of this movie, utilizing systems built when leisure suits were still the rage--and IBM was lord and master of the computer domain. Granted, hackers can be considered a real and acknowledged threat, but we should take this movie for what it is...Just some passably good entertainment and not too representative of R/T (Real Time for all you Netsurfing newbies). However, the plot remains fundamentally sound, and not too taxing on the mind.\n\n Sandra Bullock gave a reasonably credible performance as programmer/support tech/consultant Angela Bennett. I realize that sex appeal fuels Hollywood, and it IS possible to have beauty and brains. But the story seems to have some fundamental flaws. What are the odds that NO one would know who you really were...It's impossible to think that we really have become the so-called \"ghosts in the machine\". As long as we have receipts, hard copies,friends and loved ones, we won't be caught in \"The Net.\"\n\n Some good performances by the smooth but irreverent Dennis Miller, and by the suave but deadly Jeremy Northam make for a movie worth watching when there's nothing better on the boob tube...Or if you're a closet geek like yours truly, you call friends and laugh about all the inaccuracies."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Columbia Tristar",
+        "duration": "PT2M20S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2046230809",
+        "name": "The Net",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjlkNjAzMDctYTY2YS00NGJkLTkxNGUtNDEyMGFiNjkwYjk2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjlkNjAzMDctYTY2YS00NGJkLTkxNGUtNDEyMGFiNjkwYjk2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:59:07Z",
+        "url": "https://www.imdb.com/video/vi2046230809/"
+    },
+    "url": "/title/tt0113957/"
+}

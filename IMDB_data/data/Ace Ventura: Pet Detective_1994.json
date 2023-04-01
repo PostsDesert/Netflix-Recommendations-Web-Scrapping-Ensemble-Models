@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jim Carrey",
+            "url": "/name/nm0000120/"
+        },
+        {
+            "@type": "Person",
+            "name": "Courteney Cox",
+            "url": "/name/nm0001073/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sean Young",
+            "url": "/name/nm0000707/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 309279,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0033472/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jack Bernstein",
+            "url": "/name/nm0077062/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tom Shadyac",
+            "url": "/name/nm0001723/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Carrey",
+            "url": "/name/nm0000120/"
+        }
+    ],
+    "datePublished": "1994-02-04",
+    "description": "A goofy detective specializing in animals goes in search of the missing mascot of the Miami Dolphins.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Tom Shadyac",
+            "url": "/name/nm0001723/"
+        }
+    ],
+    "duration": "PT1H26M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYmVhNmFmOGYtZjgwNi00ZGQ0LThiMmQtOGZjMDUzNzJhMGIzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "keywords": "nudity,stupidity,detective,owner dog relationship,master dog relationship",
+    "name": "Ace Ventura: Pet Detective",
+    "original_info": {
+        "id": "Ace Ventura: Pet Detective_1994",
+        "name": "Ace Ventura: Pet Detective",
+        "year": "1994"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Special-K88"
+        },
+        "dateCreated": "2002-02-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0109040/"
+        },
+        "name": "star-making performance for Carrey",
+        "reviewBody": "Undeniably juvenile, but funny and entertaining comedy stars Carrey—in his breakthrough role—as a goofy, wildly eccentric pet detective hired to find the missing Miami Dolphins mascot. He's the right man for the job but his childish idiosyncrasies, uncanny bond with animals, and aberrant investigative techniques cause outsiders to question whether or not he can actually make good on his word. Aimed mostly at fans who really enjoy silly humor, others will quickly find it tiresome. There are some amusing cameos by real Dolphin football players (including an engaging Dan Marino) but this film belongs to Carrey and his constant outrageousness. Sure-fire entertainment for fans of this genre. **½"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A goofy detective specializing in animals goes in search of the missing mascot of the Miami Dolphins. ",
+        "duration": "PT2M2S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3562847001",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzAyMGUyOGMtNThjNC00ODM0LWI0M2ItNmI1NGExMmMyN2U0XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzAyMGUyOGMtNThjNC00ODM0LWI0M2ItNmI1NGExMmMyN2U0XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+        "uploadDate": "2018-09-14T22:35:46.145Z",
+        "url": "https://www.imdb.com/video/vi3562847001/"
+    },
+    "url": "/title/tt0109040/"
+}

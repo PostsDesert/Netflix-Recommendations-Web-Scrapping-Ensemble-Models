@@ -1,0 +1,116 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Robert Redford",
+            "url": "/name/nm0000602/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jane Fonda",
+            "url": "/name/nm0000404/"
+        },
+        {
+            "@type": "Person",
+            "name": "Valerie Perrine",
+            "url": "/name/nm0674781/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9698,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0034515/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Garland",
+            "url": "/name/nm0307561/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Gaer",
+            "url": "/name/nm0300646/"
+        },
+        {
+            "@type": "Person",
+            "name": "Shelly Burton",
+            "url": "/name/nm0123722/"
+        }
+    ],
+    "datePublished": "1979-12-21",
+    "description": "A rodeo star past his prime steals his company's horse and rides into the desert, accompanied by a feisty reporter.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Sydney Pollack",
+            "url": "/name/nm0001628/"
+        }
+    ],
+    "duration": "PT2H1M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYjcxZTUwOGItY2YzOC00NWYyLTgwMjctYTdkYTYyZGFmZTMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "las vegas nevada,horseback riding,riding a horse indoors,zion national park,horse movie",
+    "name": "The Electric Horseman",
+    "original_info": {
+        "id": "The Electric Horseman_1979",
+        "name": "The Electric Horseman",
+        "year": "1979"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ejb4501"
+        },
+        "dateCreated": "2004-12-15",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0079100/"
+        },
+        "name": "Seen this movie 100 times",
+        "reviewBody": "OK, first, to the reviewer that suggested \"too much Fonda\" and would have liked to see Susan St. James or Jennifer Warren in the role of Alice, you are forbidden from ever reviewing again. Fonda was perfect, and more on that later. \n\nSecond, this is not about a cowboy freeing a horse who is about to be drugged, as some reviewers have said. The horse was drugged from the beginning. Sonny noticed it, and that was a contributing factor to his subsequent actions.\n\nThis movie is about a man who strayed far from who he was, and who sought to find himself again. The horse is metaphoric: it is drugged, exploited, and broken, just like the man. So, the man attempts to find himself, as he helps the horse find itself again, so to speak. And, in the process of trying to report the story, the Fonda character attempts to find herself as well, for she has become neurotic, pill-popping, and uptight in her quest to become a star reporter. And, of course, as they travel the countryside, we find America.\n\nBack to Fonda. Fonda's casting has always been that of the strong but flawed \"career\" woman, from \"Barbarella\", to \"Klute\", to \"Electric Horseman\". She is independent, doesn't need a man. As the tough and aggressive reporter in personal crisis, she is cast perfectly. St. James has neither the strength nor the necessary equal dose of vulnerability that Fonda can muster. This is about chemistry as well. Redford and Fonda have teamed up before, and the chemistry is proved.\n\nSo this brilliant and simple story illustrates and creatively reinforces the the idea of straying from true nature, and the need to find it again.\n\nVERY good film.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3628384537",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYTcyZDlmMjgtNTU0OC00ZjljLWIxZDYtODg5ZGJmNzY0ZGE5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTcyZDlmMjgtNTU0OC00ZjljLWIxZDYtODg5ZGJmNzY0ZGE5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-02-15T17:25:33.887Z",
+        "url": "https://www.imdb.com/video/vi3628384537/"
+    },
+    "url": "/title/tt0079100/"
+}

@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kirstie Alley",
+            "url": "/name/nm0000263/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Pullman",
+            "url": "/name/nm0000597/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carrie Fisher",
+            "url": "/name/nm0000402/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2831,
+        "ratingValue": 5.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0040620/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0020346/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0020346/"
+        },
+        {
+            "@type": "Person",
+            "name": "Martha Goldhirsh",
+            "url": "/name/nm0325630/"
+        }
+    ],
+    "datePublished": "1990-10-26",
+    "description": "A frustrated woman's life gets even more frustrating once she gets into an affair with a man who suffers a fatal heart attack after their fling.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Carl Reiner",
+            "url": "/name/nm0005348/"
+        }
+    ],
+    "duration": "PT1H27M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjc3NDI5OWItYjk0Ny00ZDQwLWEyMTEtNjA5N2MyNDA1M2MwXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_.jpg",
+    "keywords": "adulterous wife,dysfunctional marriage,bored housewife,reconciliation,sex in a hotel room",
+    "name": "Sibling Rivalry",
+    "original_info": {
+        "id": "Sibling Rivalry_1990",
+        "name": "Sibling Rivalry",
+        "year": "1990"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "caspian1978"
+        },
+        "dateCreated": "2005-02-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0100611/"
+        },
+        "name": "A Carl Reiner Classic?",
+        "reviewBody": "Starring Kirstie Alley at her funniest, this comedy has what it takes to be a future classic. The cast alone makes this a perfect comedy which includes Scott Bakula, Ed O'Neill, Bill Pullman, Sam Elliott and Carrie Fisher. Not your typical female \"chick flick\" movie, Sibling Rivalry is the story about a housewife who has an unlikely affair with her husbands brother. Sounds like a Greek tragedy, but it is not. Sibling Rivalry plays on the coincidence factor and does it successfully. The cast of characters are as funny a the lines they say. Taking place in a small community, the events all take place in a number of days and in a small number of locations. With the feel of an independent, low budget movie, Sibling Rivalry is also a typical Carl Reiner film where everything blends together by the end. Not your typical romantic comedy like When Harry Met Sally, this is one of Carl's classic and it is just as good if not better.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A frustrated woman's life gets even more frustrating once she gets into an affair with a man who suffers a fatal heart attack after their fling.",
+        "duration": "PT1M36S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi270123801",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYTg1YzVjOTEtZGZmMC00Nzc5LTg1NmQtNzQ1ODgwN2ViNzcyXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTg1YzVjOTEtZGZmMC00Nzc5LTg1NmQtNzQ1ODgwN2ViNzcyXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2022-01-25T17:11:02.707Z",
+        "url": "https://www.imdb.com/video/vi270123801/"
+    },
+    "url": "/title/tt0100611/"
+}

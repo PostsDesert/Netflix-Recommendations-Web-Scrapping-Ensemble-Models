@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Krasinski",
+            "url": "/name/nm1024677/"
+        },
+        {
+            "@type": "Person",
+            "name": "Wendell Pierce",
+            "url": "/name/nm0682495/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Kelly",
+            "url": "/name/nm0446672/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 146818,
+        "ratingValue": 8,
+        "worstRating": 1
+    },
+    "alternateName": "Tom Clancy's Jack Ryan",
+    "contentRating": "TV-MA",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0712117/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0712118/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0071240/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carlton Cuse",
+            "url": "/name/nm0193681/"
+        },
+        {
+            "@type": "Person",
+            "name": "Graham Roland",
+            "url": "/name/nm3169366/"
+        }
+    ],
+    "datePublished": "2018-08-31",
+    "description": "Up-and-coming CIA analyst, Jack Ryan, is thrust into dangerous field assignments.",
+    "genre": [
+        "Action",
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDNmNGI2NzAtZjZhYi00YTc1LWJjOTctMTRlMDI0MzEzNjA2XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+    "keywords": "jack ryan character,spy,agent,terrorism,analyst",
+    "name": "Jack Ryan",
+    "original_info": {
+        "id": "Tom & Viv_1994",
+        "name": "Tom & Viv",
+        "year": "1994"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "david.sampson1"
+        },
+        "dateCreated": "2023-01-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt5057054/"
+        },
+        "name": "Superb stuff",
+        "reviewBody": "I absolutely love this show, intelligent complex plotting and scripts rather than just the usual fare of non stop car chases, explosions and gunfights. This is as good as the early seasons of 24 in my opinion whilst being very different in tone as well as structure, plus a much more global narrative, also slightly reminiscent of Bourne in a few places I think. Two hugely likeable and believable leads, quite a few hugely likeable supporting characters/actors, not all of who make it through to where we are now, and some fabulous location work. What's not to like? I will be gutted if season 4 really is the last.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Jack is on the run. John Krasinski returns as the unwavering hero in Season 3 of Tom Clancy's Jack Ryan. Watch the new season December 21, 2022 on Prime Video and stream the first two seasons now.",
+        "duration": "PT1M6S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi972408089",
+        "name": "Season 3 Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjM4NDViYjAtZWIyYi00YWMzLWJiY2YtYmFlZjEzOTVmZWFiXkEyXkFqcGdeQXZ3ZXNsZXk@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjM4NDViYjAtZWIyYi00YWMzLWJiY2YtYmFlZjEzOTVmZWFiXkEyXkFqcGdeQXZ3ZXNsZXk@._V1_.jpg",
+        "uploadDate": "2022-12-01T15:01:27.845Z",
+        "url": "https://www.imdb.com/video/vi972408089/"
+    },
+    "url": "/title/tt5057054/"
+}

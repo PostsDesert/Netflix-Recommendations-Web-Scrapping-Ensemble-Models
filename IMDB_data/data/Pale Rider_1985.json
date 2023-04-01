@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Clint Eastwood",
+            "url": "/name/nm0000142/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Moriarty",
+            "url": "/name/nm0605363/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carrie Snodgress",
+            "url": "/name/nm0811202/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 61368,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0102264/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Butler",
+            "url": "/name/nm0125060/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dennis Shryack",
+            "url": "/name/nm0795461/"
+        }
+    ],
+    "datePublished": "1985-06-28",
+    "description": "A mysterious preacher (Clint Eastwood) protects a humble prospector village from a greedy mining company trying to encroach on their land.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Clint Eastwood",
+            "url": "/name/nm0000142/"
+        }
+    ],
+    "duration": "PT1H55M",
+    "genre": [
+        "Drama",
+        "Western"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOGZjOWM3MWYtNTc5Yy00NGQ0LWFkMDQtOWUwYzhkNTZmNGI2XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",
+    "keywords": "preacher,gold,gold prospector,corrupt marshal,mysterious stranger",
+    "name": "Pale Rider",
+    "original_info": {
+        "id": "Pale Rider_1985",
+        "name": "Pale Rider",
+        "year": "1985"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "hitchcockthelegend"
+        },
+        "dateCreated": "2008-07-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0089767/"
+        },
+        "name": "You can't beat a good bit of Hickory.",
+        "reviewBody": "The opening to Pale Rider is just excellent, at first all is calm and serene, but then the peace is shattered by the thundering of hooves. A group of men employed by Coy LaHood, tear thru a small mining community, shooting guns and trampling over all in their way. During this callous act of bullying, one of the men shoots and kills young Megan's dog. When Megan buries her beloved pet, she calls to god to send someone to help them against the greedy LaHood, because LaHood is intent on stripping the locals of their claims, and he literally will stop at nothing to get them. Later on Megan is reading from the bible, she reads aloud to her mother about \"beholding a pale horse and that the man who sat on it was death\", we then see a lone horseman riding towards this under fire place...\n\nBehold the pale horse because the man that sat on him was Clint Eastwood! And that's all you really want to know as regards what drives the film on. It had been quite some time since the movie watching world had witnessed a damn good Western, so it is obvious that Eastwood, knowing the genre inside out, felt it time to remind all and sundry about this engrossing genre and all its little peccadilloes. Riffing on his own High Plains Drifter from 1973 and homaging Shane in the process, Eastwood again uses supernatural leanings to play out this intriguing tale. Pale Rider works well because Eastwood cares for the genre so much, no frame is wasted and the acting on show delivers the necessary amount of quality to enhance the picture's impact. From the thundering opening to the gorgeous final shot, Pale Rider is an expertly crafted Western that still holds up today as a great entry on Eastwoods CV. Pale Rider. 8/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer 1",
+        "duration": "PT1M10S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2996764953",
+        "name": "Pale Rider",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZmViMmFmOTAtODA5ZC00MmExLWI5ZTEtOTQ5Njg2MzQ3OGIwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZmViMmFmOTAtODA5ZC00MmExLWI5ZTEtOTQ5Njg2MzQ3OGIwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:36:36Z",
+        "url": "https://www.imdb.com/video/vi2996764953/"
+    },
+    "url": "/title/tt0089767/"
+}

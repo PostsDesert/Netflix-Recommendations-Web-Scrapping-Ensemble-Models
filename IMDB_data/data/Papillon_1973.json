@@ -1,0 +1,116 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Steve McQueen",
+            "url": "/name/nm0000537/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dustin Hoffman",
+            "url": "/name/nm0000163/"
+        },
+        {
+            "@type": "Person",
+            "name": "Victor Jory",
+            "url": "/name/nm0430460/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 133187,
+        "ratingValue": 8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0042129/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0067581/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0119024/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dalton Trumbo",
+            "url": "/name/nm0874308/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lorenzo Semple Jr.",
+            "url": "/name/nm0783913/"
+        },
+        {
+            "@type": "Person",
+            "name": "Henri Charrière",
+            "url": "/name/nm0153508/"
+        }
+    ],
+    "datePublished": "1973-12-19",
+    "description": "A French convict in the 1930s befriends a fellow criminal as the two of them begin serving their sentence in the South American penal colony on Devil's Island, which inspires the man to plot his escape.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Franklin J. Schaffner",
+            "url": "/name/nm0769874/"
+        }
+    ],
+    "duration": "PT2H31M",
+    "genre": [
+        "Biography",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZGRjZjQ0NzAtYmZlNS00Zjc1LTk1YWItMDY5YzQxMzA4MTAzXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
+    "keywords": "escape attempt,colonist,sweating,escape plan,man hunter",
+    "name": "Papillon",
+    "original_info": {
+        "id": "Papillon_1973",
+        "name": "Papillon",
+        "year": "1973"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ccthemovieman-1"
+        },
+        "dateCreated": "2009-05-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0070511/"
+        },
+        "name": "A Fine Film Which Does The Book Justice",
+        "reviewBody": "Usually, after reading a long book filled with many interesting adventures, watching a two-hour film later winds up being a big disappointment. There is no way a film can give you anywhere near the info you glean from a book, especially one over 500 pages as is the case with \"Papillion.\" Yet, despite most of Henri Charriere's incredible feats of survival, (\"Papillion\" was Charriere's nickname) this movie is above average and basically does the book justice. The movie runs about two-and-a-half hours and gives enough of a flavor to have the viewer appreciate - at least to some degree - the brutal trials and tribulations Papillion went through in real life.\n\nIf you enjoyed this film, the book is a \"must-read\" for you and very highly-recommend You won't believe all the things Charriere experienced: good and bad. In real life, the man escaped something like eight times and each time went through hell.\n\nSteve McQueen, playing \"Papillion,\" was excellent. He was particularly good at showing the physical effects of years of solitary confinement. By the way, in real life, Charriere was much younger went sent to jail than McQueen was at the time this movie was shot. Papillion should have been played by a younger actor, but who's going to complain when you get an actor of McQueen's caliber? \n\nDustin Hoffman also was great as Papillion's friend, \"Louis Dega,\" who had a bigger role in the movie than he did in the book. For the most part, Papillion had a number of friends, all helping him over the years. Hoffman also provided some good comic relief to the movie and, heaven knows, it needed it. Take it from someone who has read the book: this is a grim story, worse than what you saw on screen here.\n\nNevertheless, thanks to the two leading actors and the wonderful work by Director Franklin Schaffner and Cinematograher Fred Koenekamp, this long film entertained. No, it wasn't the caliber of the book, but it's didn't insult it, either, and is definitely worth a look.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT4M9S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1777580569",
+        "name": "Theatrical Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMWJjNDQyNTctOTEzMS00MTlhLTk1MTItN2YzNWU5MTJmYjAwXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMWJjNDQyNTctOTEzMS00MTlhLTk1MTItN2YzNWU5MTJmYjAwXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+        "uploadDate": "2018-11-05T18:19:56.427Z",
+        "url": "https://www.imdb.com/video/vi1777580569/"
+    },
+    "url": "/title/tt0070511/"
+}

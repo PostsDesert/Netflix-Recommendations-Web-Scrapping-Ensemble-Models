@@ -1,0 +1,79 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVEpisode",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Nick Lashley",
+            "url": "/name/nm1276300/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alanis Morissette",
+            "url": "/name/nm0001551/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gary Novak",
+            "url": "/name/nm1343127/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 12,
+        "ratingValue": 7.8,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0047820/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0047506/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0044454/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lewis Friedman",
+            "url": "/name/nm0295281/"
+        },
+        {
+            "@type": "Person",
+            "name": "Parvene Michaels",
+            "url": "/name/nm1172776/"
+        },
+        {
+            "@type": "Person",
+            "name": "Spencer Thornton",
+            "url": "/name/nm0861603/"
+        }
+    ],
+    "datePublished": "2002-08-27",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Alan Carter",
+            "url": "/name/nm0141448/"
+        }
+    ],
+    "duration": "PT53M",
+    "genre": [
+        "Documentary",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjEzMzMyMjcxOF5BMl5BanBnXkFtZTcwODMzOTIyMQ@@._V1_.jpg",
+    "name": "Alanis Morissette: Navajo Nation - Arizona, USA",
+    "original_info": {
+        "id": "Alanis Morissette: Live in the Navajo Nation_2002",
+        "name": "Alanis Morissette: Live in the Navajo Nation",
+        "year": "2002"
+    },
+    "timeRequired": "PT53M",
+    "url": "/title/tt0449740/"
+}

@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Anthony Michael Hall",
+            "url": "/name/nm0001309/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ilan Mitchell-Smith",
+            "url": "/name/nm0593819/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kelly LeBrock",
+            "url": "/name/nm0001456/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 92155,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Hughes",
+            "url": "/name/nm0000455/"
+        },
+        {
+            "@type": "Person",
+            "name": "Al Feldstein",
+            "url": "/name/nm0271167/"
+        },
+        {
+            "@type": "Person",
+            "name": "William M. Gaines",
+            "url": "/name/nm0301362/"
+        }
+    ],
+    "datePublished": "1985-08-02",
+    "description": "Two high-school nerds use a computer program to literally create the perfect woman, who promptly turns their lives upside-down.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Hughes",
+            "url": "/name/nm0000455/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Comedy",
+        "Romance",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTEwMTU1YjMtMjc0OS00NjZiLTk1MGMtNzhkODI0ZDFjNGI2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "keywords": "teen comedy,artificially created woman,nudity,teenage sexuality,erotic fantasy",
+    "name": "Weird Science",
+    "original_info": {
+        "id": "Weird Science_1985",
+        "name": "Weird Science",
+        "year": "1985"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "keneda-05512"
+        },
+        "dateCreated": "2019-01-05",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0090305/"
+        },
+        "name": "A cool movie that represents the 80s itself",
+        "reviewBody": "Weird science is a movie that takes you back to a time where more could be shown. It is a movie that really shows how the 80s was in its prime. The characters are litteraly high schoolers and it's perfect. It's about 2 nerdy teens that create a woman aka Lisa (Kelly Lebrock). And that is the plot and all you need to know. It's funny, Ruanchy, sexist, and it's perfect that way.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Universal Studios Home Entertainment",
+        "duration": "PT1M27S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2087649305",
+        "name": "Weird Science",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTQzMzNmYzQtYTYwMi00OTcxLWJiMzUtY2M3NTMwNDBiOGY3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTQzMzNmYzQtYTYwMi00OTcxLWJiMzUtY2M3NTMwNDBiOGY3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-10-29T04:06:45Z",
+        "url": "https://www.imdb.com/video/vi2087649305/"
+    },
+    "url": "/title/tt0090305/"
+}

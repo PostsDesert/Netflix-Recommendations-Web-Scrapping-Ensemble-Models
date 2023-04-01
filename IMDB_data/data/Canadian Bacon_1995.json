@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Candy",
+            "url": "/name/nm0001006/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alan Alda",
+            "url": "/name/nm0000257/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rhea Perlman",
+            "url": "/name/nm0674231/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 17423,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0017280/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0018555/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0037724/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Moore",
+            "url": "/name/nm0601619/"
+        }
+    ],
+    "datePublished": "1995-09-22",
+    "description": "The U.S. President, low in the opinion polls, gets talked into raising his popularity by trying to start a cold war against Canada.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Moore",
+            "url": "/name/nm0601619/"
+        }
+    ],
+    "duration": "PT1H31M",
+    "genre": [
+        "Action",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUwNDU0NzcwMl5BMl5BanBnXkFtZTcwNzk1NjAzNA@@._V1_.jpg",
+    "keywords": "international relations,fight,beer,president,canada",
+    "name": "Canadian Bacon",
+    "original_info": {
+        "id": "Canadian Bacon_1995",
+        "name": "Canadian Bacon",
+        "year": "1995"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bob the moo"
+        },
+        "dateCreated": "2002-08-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0109370/"
+        },
+        "name": "One trick pony that outstays it's welcome",
+        "reviewBody": "The President of America's ratings have dropped. What he really needs to do is get a war to get his popularity up. However the usual bad guys aren't interested so he decides to start a talking war against Canada. Using the media to stir up anti-Canadian feeling his popularity rises but a group of American citizens take it too far and prepare for invasion.\n\nMichael Moore is a rare talent and many of his programmes and films could be used as a model for anyone wanted to do satire and be both political and funny at the same time. When he's on form he puts our own Mark Thomas into the shade. However with this film he can't take a really good idea and make it last for 90 minutes. Most scenes with the President and his media war with Canada is really sharp and really funny  just like Moore at his best.\n\nHowever it's the rest of the film outside of this one point that fails. It is just a rambling comedy that doesn't have anything to say or do. Moore is a little lost and it lacks bite and, sadly, laughs. The cast try hard and Candy is watchable if not at his best. Alda is good but a bit too light and friendly to be the president. The rest of the cast are amusing in different ways  Torn, Pollack, Nunn, Spadlin, Wright, Belushi etc are all good.\n\nOverall Moore lacks his usual bite and this one good idea is lost in a film when really it could have been a good 15 minute sketch. The media war is funny and, post 9/11, is quite sharp even though it is a little too light, but outside of that the comments, ideas and laughs dry up."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from MGM Home Entertainment",
+        "duration": "PT2M3S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3602645273",
+        "name": "Canadian Bacon",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDQwMmM1MjUtNWE0Yi00ZmE1LWEyN2MtMTY4ZWI0NDYzZDU3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDQwMmM1MjUtNWE0Yi00ZmE1LWEyN2MtMTY4ZWI0NDYzZDU3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:00:02Z",
+        "url": "https://www.imdb.com/video/vi3602645273/"
+    },
+    "url": "/title/tt0109370/"
+}

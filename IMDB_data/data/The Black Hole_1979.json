@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Maximilian Schell",
+            "url": "/name/nm0001703/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anthony Perkins",
+            "url": "/name/nm0000578/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Forster",
+            "url": "/name/nm0001233/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 26578,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0098836/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0030827/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0024579/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeb Rosebrook",
+            "url": "/name/nm0741775/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bob Barbash",
+            "url": "/name/nm0053267/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard H. Landau",
+            "url": "/name/nm0484479/"
+        }
+    ],
+    "datePublished": "1979-12-21",
+    "description": "A research vessel finds a missing ship, commanded by a mysterious scientist, on the edge of a black hole.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Gary Nelson",
+            "url": "/name/nm0625379/"
+        }
+    ],
+    "duration": "PT1H38M",
+    "genre": [
+        "Action",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOGEzN2M5YTItZDRkZS00OWMxLTk3MTktZjZkNzExYWRjYjA5XkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
+    "keywords": "black hole,spaceship,zombie,attempted escape,robot",
+    "name": "The Black Hole",
+    "original_info": {
+        "id": "The Black Hole_1979",
+        "name": "The Black Hole",
+        "year": "1979"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Andrew-31"
+        },
+        "dateCreated": "1998-08-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0078869/"
+        },
+        "name": "A Forgotten Classic",
+        "reviewBody": "Not only is The Black Hole beautifully made from a technical aspect, it has marvelous performances. Robert Forester (Jackie Brown), Anthony Perkins (Psycho), Ernest Borgnine, Maximillian Schell. It does get a little campy but it is a Disney movie after all and it can be forgiven its attempts at comic relief. This is a very unlikely sort of film for Disney, were it made today it would have been made under the Miramax header rather than Disney, and like another unlikely Disney film, Tron, it is tragically underrated. The special effects and set design are breathtaking, but it is the script which is the best part. The ending is one of the most surreal and haunting in any science fiction film (and especially bold for a Disney film) The characterizations are wonderful and the robots, especially Maximillian (in my book the greatest cinematic robotic villain to date), are unforgettable."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT3M22S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi296861977",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BY2QxNmYxZmUtNzU5OS00ZTAyLThiNzgtNWJlMjQyN2RmZjMyXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BY2QxNmYxZmUtNzU5OS00ZTAyLThiNzgtNWJlMjQyN2RmZjMyXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-08-31T18:48:51.223Z",
+        "url": "https://www.imdb.com/video/vi296861977/"
+    },
+    "url": "/title/tt0078869/"
+}

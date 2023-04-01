@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dudley Moore",
+            "url": "/name/nm0001545/"
+        },
+        {
+            "@type": "Person",
+            "name": "Liza Minnelli",
+            "url": "/name/nm0591485/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Gielgud",
+            "url": "/name/nm0000024/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 29774,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0001995/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0008432/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve Gordon",
+            "url": "/name/nm0330619/"
+        }
+    ],
+    "datePublished": "1981-07-17",
+    "description": "Alcoholic billionaire playboy Arthur Bach must marry a woman he does not love, or he will be cut off from his $750,000,000 fortune. But when Arthur falls in love with a poor waitress, he must decide if he wants to choose love or m...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Steve Gordon",
+            "url": "/name/nm0330619/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjc4NGYwYmQtZDgyYi00OTQ1LWJmOTgtNWEwNmY1NjczMzVhXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_.jpg",
+    "keywords": "drunkenness,heir,love,character name as title,blockbuster",
+    "name": "Arthur",
+    "original_info": {
+        "id": "Arthur_1981",
+        "name": "Arthur",
+        "year": "1981"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "budmassey"
+        },
+        "dateCreated": "2002-02-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0082031/"
+        },
+        "name": "The laughs never get old.",
+        "reviewBody": "From the beginning of this movie it seems apparent that the role of Arthur was meant to be played by a much younger actor. By the end, it's clear that nobody other than Dudley Moore could have done it so well. Looking back, one remembers the sappy Christopher Cross theme song (does anyone remember Christopher Cross?) and oh-so-80's clothing and sets with an unavoidable nostalgia. But the triumvirate of Moore as Arthur, Liza Minnelli as Linda, and Sir Johnny G as the butler Hobson, dripping with sarcasm and at the pinnacle of his considerable talent, make this more than a throw-away farce.\n\nAll the best lines belong to Gielgud, and the Academy Award was hardly adequate for such a legendary performance. Moore's lovable drunk would wear thin in later years, but here it is a fresh and delightful tour de force in the most politically incorrect way. Liza is flawless, but one hates to see her in a non-musical role, for fear of squandering such an immense talent. But the chemistry, the synergy between these legends is palpable. \n\n The laughs never get old. It is, however, a tragedy that the DVD is not available in cinematic aspect.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT2M7S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3015115033",
+        "name": "Arthur",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNWQyZGY3NzUtZDFlYy00OTgyLWE3OGItMjdiYmM0NzZmOTg2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNWQyZGY3NzUtZDFlYy00OTgyLWE3OGItMjdiYmM0NzZmOTg2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:08:12Z",
+        "url": "https://www.imdb.com/video/vi3015115033/"
+    },
+    "url": "/title/tt0082031/"
+}

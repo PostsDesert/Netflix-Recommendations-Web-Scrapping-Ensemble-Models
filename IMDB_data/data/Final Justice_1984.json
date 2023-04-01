@@ -1,0 +1,96 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Joe Don Baker",
+            "url": "/name/nm0000833/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rossano Brazzi",
+            "url": "/name/nm0106387/"
+        },
+        {
+            "@type": "Person",
+            "name": "Venantino Venantini",
+            "url": "/name/nm0892891/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3436,
+        "ratingValue": 2.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0149498/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0756293/"
+        },
+        {
+            "@type": "Person",
+            "name": "Greydon Clark",
+            "url": "/name/nm0163990/"
+        }
+    ],
+    "description": "Homicidal sheriff Thomas Jefferson Geronimo is tasked with escorting a mobster to Malta. When the prisoner escapes, Geronimo goes to catch him.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Greydon Clark",
+            "url": "/name/nm0163990/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTVmMWVjNzMtODdhMy00M2MxLTkyODgtOTM4NDFkOWJmNDVmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "quick draw,female full frontal nudity,american abroad,gangster,action hero",
+    "name": "Final Justice",
+    "original_info": {
+        "id": "Final Justice_1984",
+        "name": "Final Justice",
+        "year": "1984"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Op_Prime"
+        },
+        "dateCreated": "2001-04-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0087258/"
+        },
+        "name": "Well this certainly sucked!",
+        "reviewBody": "I can describe what I think of this movie in simple terms: a terrible movie. But that doesn't go far enough for a review. Fortunately for myself, I saw the MST version thus saving myself from any pain. This movie so deserves to be on the bottom 100 list. The dialogue to this movie is awful, much like the acting. Don't bother getting me started on the plot. Never ever see this movie unless it's the Mystery Science Theater 3000 version."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Homicidal sheriff Thomas Jefferson Geronimo is tasked with escorting a mobster to Malta. When the prisoner escapes, Geronimo goes to catch him.",
+        "duration": "PT1M11S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1198834457",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNGEwODNkZWQtNmI5NS00ZTk2LWI1YTEtNjc4Y2E4NjE2Mzk2XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNGEwODNkZWQtNmI5NS00ZTk2LWI1YTEtNjc4Y2E4NjE2Mzk2XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2022-02-14T19:31:21.391Z",
+        "url": "https://www.imdb.com/video/vi1198834457/"
+    },
+    "url": "/title/tt0087258/"
+}

@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Marc 7",
+            "url": "/name/nm1431063/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ajmal",
+            "url": "/name/nm2988595/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kizzy Amos",
+            "url": "/name/nm1816883/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 86,
+        "ratingValue": 3.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0113605/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dale Stelly",
+            "url": "/name/nm1115341/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carl Washington",
+            "url": "/name/nm0913409/"
+        }
+    ],
+    "datePublished": "2004-07-11",
+    "description": "Taking its cue from the successful American Pie franchise, Dale Steely's sex comedy Sweet Potato Pie follows the exploits of three friends named Chuck, Perry, and Trey. The threesome set out on a road trip in order to try and shed...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Dale Stelly",
+            "url": "/name/nm1115341/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI1NDE5Nzc5NF5BMl5BanBnXkFtZTcwMTkxMzYyMQ@@._V1_.jpg",
+    "keywords": "sex comedy,african american",
+    "name": "Sweet Potato Pie",
+    "original_info": {
+        "id": "Sweet Potato Pie_2004",
+        "name": "Sweet Potato Pie",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "darksidelingua"
+        },
+        "dateCreated": "2004-12-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0377116/"
+        },
+        "name": "Simply the worst",
+        "reviewBody": "This film is very bad. Not bad enough to absolutely not continue watching, but that in itself is bad enough. The actors are pretty lame and try to compensate by being over the top and dramatic, but even so these grand dramatics do not add amusement or entertainment.\n\nOne of the main actors insists on taking of his clothes of at every opportunity much to my horror as he seems to have a half shaved chest or some kind of pigment discolouration which just made me feel ill at the mere sight of it.\n\nIn summary this is a lame rip off of American Pie, down to the sex scene with the pie. I would say don't do it, specially at the prices they are trying to charge for it on DVD!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 3,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT1M50S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3263627545",
+        "name": "Sweet Potato Pie",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTYwOTUzZGItOGI0MS00Mjk2LTg3YWItMDVjZmI1NDFlNmZlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTYwOTUzZGItOGI0MS00Mjk2LTg3YWItMDVjZmI1NDFlNmZlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:05:07Z",
+        "url": "https://www.imdb.com/video/vi3263627545/"
+    },
+    "url": "/title/tt0377116/"
+}

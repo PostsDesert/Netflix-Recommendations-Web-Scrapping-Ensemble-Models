@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bill Sage",
+            "url": "/name/nm0756083/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sabrina Lloyd",
+            "url": "/name/nm0005158/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tatiana Abracos",
+            "url": "/name/nm1505245/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1081,
+        "ratingValue": 5.3,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0102939/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0138134/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hal Hartley",
+            "url": "/name/nm0001325/"
+        }
+    ],
+    "datePublished": "2005-07-19",
+    "description": "A comic drama about a time in the near future when citizens are happy to be property traded on the stock exchange.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Hal Hartley",
+            "url": "/name/nm0001325/"
+        }
+    ],
+    "duration": "PT1H24M",
+    "genre": [
+        "Action",
+        "Comedy",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY4MzA2ODQzNl5BMl5BanBnXkFtZTcwNDgwMjkzMQ@@._V1_.jpg",
+    "keywords": "watching tv,soda,female full frontal nudity,female rear nudity,satire comedy",
+    "name": "The Girl from Monday",
+    "original_info": {
+        "id": "The Girl from Monday_2005",
+        "name": "The Girl from Monday",
+        "year": "2005"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dcold"
+        },
+        "dateCreated": "2005-01-31",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0388973/"
+        },
+        "name": "I Don't Know the Man...but his movie is bad",
+        "reviewBody": "So hopefully this was just a blip on the screen of an otherwise good career. Was the talk of the Sundance shuttle bus...but not in a good way.\n\nToo many amateurish techniques. Voice over narration in an attempt to get a noir feeling but most of the time was actually for exposition because the story wasn't getting told on the screen.\n\nBad camera technique that would be okay in small doses (ie: a dream sequence) but was tiring and distracting from the opening credits onward. Kept waiting for the \"real\" movie to start.\n\nThe girl from Monday doesn't make an appearance for quite awhile in the movie and then gets left in an apartment to learn to use her body (or course she swam out of the ocean quite well).\n\nAnyway...I had to leave about the time the boy was getting \"raped\" in the school bathroom. Time is too precious at Sundance and I went to \"Rory O'Shea was Here\" and the contrast couldn't have been higher between the two.\n\nIs probably a waste of time to anyone but his fans.\n\nD.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 2,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Possible Films",
+        "duration": "PT2M8S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3492259353",
+        "name": "The Girl from Monday",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTNjYzE3YzEtMGNiOS00M2RlLTgzMGItNzI1NjZmZTYyYjA2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTNjYzE3YzEtMGNiOS00M2RlLTgzMGItNzI1NjZmZTYyYjA2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2013-05-04T04:34:54Z",
+        "url": "https://www.imdb.com/video/vi3492259353/"
+    },
+    "url": "/title/tt0388973/"
+}

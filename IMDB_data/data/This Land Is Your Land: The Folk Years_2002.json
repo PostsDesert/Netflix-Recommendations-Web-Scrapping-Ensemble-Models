@@ -1,0 +1,51 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Arlo Guthrie",
+            "url": "/name/nm0349241/"
+        },
+        {
+            "@type": "Person",
+            "name": "Woody Guthrie",
+            "url": "/name/nm0349313/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 13,
+        "ratingValue": 8.3,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0141172/"
+        }
+    ],
+    "datePublished": "1997-03-25",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Tom Burton",
+            "url": "/name/nm0123746/"
+        }
+    ],
+    "duration": "PT28M",
+    "genre": [
+        "Short",
+        "Animation",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjdmOWUzZjAtYTExZi00MDQ5LTllNDAtYWJiNTA5OWQyMWU2XkEyXkFqcGdeQXVyMDgyNjA5MA@@._V1_.jpg",
+    "name": "This Land Is Your Land: The Animated Kids' Songs of Woody Guthrie",
+    "original_info": {
+        "id": "This Land Is Your Land: The Folk Years_2002",
+        "name": "This Land Is Your Land: The Folk Years",
+        "year": "2002"
+    },
+    "url": "/title/tt0290320/"
+}

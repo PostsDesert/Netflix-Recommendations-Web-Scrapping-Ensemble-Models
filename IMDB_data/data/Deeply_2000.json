@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kirsten Dunst",
+            "url": "/name/nm0000379/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lynn Redgrave",
+            "url": "/name/nm0001655/"
+        },
+        {
+            "@type": "Person",
+            "name": "Julia Brendler",
+            "url": "/name/nm0107175/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1775,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0011581/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0044755/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0060185/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sheri Elwood",
+            "url": "/name/nm0255910/"
+        }
+    ],
+    "datePublished": "2003-11-10",
+    "description": "A reclusive woman's unpublished story about a curse, told to a grieving girl, turns out to be something other than a fairy tale.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Sheri Elwood",
+            "url": "/name/nm0255910/"
+        }
+    ],
+    "duration": "PT1H41M",
+    "genre": [
+        "Drama",
+        "Fantasy",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTZjMGYzYjAtZmEwYS00NjcyLTg4YjItNjM4ZDU4OWQzZmVjXkEyXkFqcGdeQXVyMjA5MTIzMjQ@._V1_.jpg",
+    "keywords": "cigarette,island,curse,writer,viking",
+    "name": "Deeply",
+    "original_info": {
+        "id": "Deeply_2000",
+        "name": "Deeply",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "sailorrachelmoon"
+        },
+        "dateCreated": "2003-08-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0218141/"
+        },
+        "name": "Really Good",
+        "reviewBody": "I think the movie was really good. It was a good romance movie. It had a sad ending but I think that makes a better ending than a fariy tale ending. It may not have been one of Kirsten Dunst\"s is best movie, but not every movie can be the best. I liked the movie whether or not is was her best movie. I think if you like a little romance it would be a good movie for you."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Deeply",
+        "duration": "PT1M35S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1856045337",
+        "name": "Deeply",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzk0NTMxNjgtYTFlYy00YmY2LWFhNzYtYjVlMzQ4ZjQ3NTUyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzk0NTMxNjgtYTFlYy00YmY2LWFhNzYtYjVlMzQ4ZjQ3NTUyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:49:20Z",
+        "url": "https://www.imdb.com/video/vi1856045337/"
+    },
+    "url": "/title/tt0218141/"
+}

@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Lukas Haas",
+            "url": "/name/nm0001305/"
+        },
+        {
+            "@type": "Person",
+            "name": "Len Cariou",
+            "url": "/name/nm0137230/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alex Rocco",
+            "url": "/name/nm0733678/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7559,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0068587/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frank LaLoggia",
+            "url": "/name/nm0482486/"
+        }
+    ],
+    "datePublished": "1988-04-22",
+    "description": "An author tells the story of how, as a young boy growing up in a 1960s small town, he was haunted after witnessing the murder of a little girl.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Frank LaLoggia",
+            "url": "/name/nm0482486/"
+        }
+    ],
+    "duration": "PT1H53M",
+    "genre": [
+        "Fantasy",
+        "Horror",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZGNmODBhYzAtNTQ1ZS00OGU2LTk5ZjQtMWNiYjAwNWI5YjkyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "small town,ghost,1960s,year 1962,bullying",
+    "name": "Lady in White",
+    "original_info": {
+        "id": "Lady in White_1988",
+        "name": "Lady in White",
+        "year": "1988"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Hitchcoc"
+        },
+        "dateCreated": "2010-02-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0095484/"
+        },
+        "name": "A Decent Ghost Story",
+        "reviewBody": "This is a nicely done, embracing effort that has some visual elements mindful of ET. The young people are really quite believable. There are bullies, unpredictable brothers, secrets, and lots of love in a family missing a mother. This draws us into a small town which sits on the fringes of an unnamed city. A young boy sees a ghost after being locked in an elementary school cloakroom. He comes to realize it is the restless spirit of a little girl who longs to find her mother. This sets things up nicely. Unfortunately and tragically, the black janitor of the school is blamed for the assault and then charged with the murders of twelve other children. This is absurd because anyone with common sense could see that, while he could have committed the assault, he couldn't have been charged with a capital crime. The movie involves the young boy putting together the pieces, including a class ring found in a heating vent. This is a nice enough story. It's weakness is that it gets too sappy at times. I really got tired of the grandpa and his excuses to smoke. They were just overly cute. Still, it's pretty captivating and works pretty well.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer 1",
+        "duration": "PT2M14S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1905197337",
+        "name": "Lady in White",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjdkY2RlMjQtOTNhMC00YjIyLWE4NTQtZjQzZmNlMjhiNDZlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjdkY2RlMjQtOTNhMC00YjIyLWE4NTQtZjQzZmNlMjhiNDZlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:32:25Z",
+        "url": "https://www.imdb.com/video/vi1905197337/"
+    },
+    "url": "/title/tt0095484/"
+}

@@ -1,0 +1,69 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Johnny Carson",
+            "url": "/name/nm0001992/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sammy Davis Jr.",
+            "url": "/name/nm0002035/"
+        },
+        {
+            "@type": "Person",
+            "name": "Quincy Jones",
+            "url": "/name/nm0005065/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 77,
+        "ratingValue": 8.8,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0127553/"
+        }
+    ],
+    "datePublished": "2003-10-14",
+    "description": "Collection of songs performed at the \"Frank Sinatra Spectacular,\" a 1965 benefit by the various members of the Rat Pack.",
+    "genre": [
+        "Documentary",
+        "Music"
+    ],
+    "keywords": "concert film",
+    "name": "Live and Swingin': The Ultimate Rat Pack Collection",
+    "original_info": {
+        "id": "Live and Swingin': The Ultimate Rat Pack Collection_1965",
+        "name": "Live and Swingin': The Ultimate Rat Pack Collection",
+        "year": "1965"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "imdb-14721"
+        },
+        "dateCreated": "2007-02-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0404206/"
+        },
+        "name": "Good looking classic concert",
+        "reviewBody": "Great DVD transfer of a b/w kinescope of a fabulous concert. Very clean restoration of the audio. The benefit show was fed live to closed circuit viewings, probably projected in \"selected theatres\" in major markets. Classic swing arrangements of Frank's hits. Sammy commands the stage and everybody cuts up and cracks each other up. A rare chance to see these musical icons performing and cavorting in a mostly complete concert. This presentation is edited down from a longer version of the complete night which also featured Count Basie and other performers. The unedited version can be seen at the Museum of Television and Radio in New York & LA. Nonetheless, there is still 90 full minutes of performances on the DVD. Unfortunately, there are no additional features or other info about how this event came to happen.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0404206/"
+}

@@ -1,0 +1,116 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dustin Hoffman",
+            "url": "/name/nm0000163/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert De Niro",
+            "url": "/name/nm0000134/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anne Heche",
+            "url": "/name/nm0000162/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 85787,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0038108/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0046718/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0090684/"
+        },
+        {
+            "@type": "Person",
+            "name": "Larry Beinhart",
+            "url": "/name/nm0067248/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hilary Henkin",
+            "url": "/name/nm0377088/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Mamet",
+            "url": "/name/nm0000519/"
+        }
+    ],
+    "datePublished": "1998-01-09",
+    "description": "Shortly before an election, a spin-doctor and a Hollywood producer join efforts to fabricate a war in order to cover up a Presidential sex scandal.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Barry Levinson",
+            "url": "/name/nm0001469/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzRkZDVkMDItYjk3Mi00NDkyLThmODUtYzhkN2EwZmE2ZTljXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "black comedy,satire,scandal,bombs,telephone",
+    "name": "Wag the Dog",
+    "original_info": {
+        "id": "Wag the Dog_1997",
+        "name": "Wag the Dog",
+        "year": "1997"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "camachoborracho"
+        },
+        "dateCreated": "2004-11-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120885/"
+        },
+        "name": "The Best Political Satire Since Dr. Strangelove",
+        "reviewBody": "Rarely can film satire make you laugh and be worried about the future at the same time. Levinson's film does just that, with a great cast and great writing, this film succeeds.\n\nYou may have noticed that many of the posts and reviews argue that this is not plausible. Obviously these posters do not realize that satire is supposed to be over the top and show what can happen in extremes, and ironically, this came out just after Clinton's sex scandal, and is still relevant today with George W. and will continue to be regardless of the president. Also, some may think it oversimplifies the public as idiots, but this isn't true, especially if they are being deceived and information is withheld. There are some implausibilities, as in why no reporters went to Albania or how other countries didn't get involved other than denying the charges, but these are small and even addressed in scenes with the rival candidates, news reporters and even CIA head William H. Macy.\n\nReally I don't know how anyone can not like this film since it is smart, funny and scary all at once with fine performances and direction all around. This is an American political satire classic that is sadly becoming less satire as time goes on.\n\nOVERALL: 9/10. Buy or at least rent before the satire becomes reality.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi920715545",
+        "name": "Wag The Dog",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMWM1NzFlOTktZDk0YS00NjI5LTg4Y2QtMTVjNzE0OGE2ZTAyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMWM1NzFlOTktZDk0YS00NjI5LTg4Y2QtMTVjNzE0OGE2ZTAyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:41:47Z",
+        "url": "https://www.imdb.com/video/vi920715545/"
+    },
+    "url": "/title/tt0120885/"
+}

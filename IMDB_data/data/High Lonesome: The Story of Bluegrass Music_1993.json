@@ -1,0 +1,79 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sam Bush",
+            "url": "/name/nm1973793/"
+        },
+        {
+            "@type": "Person",
+            "name": "Curly Ray Cline",
+            "url": "/name/nm8460423/"
+        },
+        {
+            "@type": "Person",
+            "name": "Pat Enright",
+            "url": "/name/nm1003703/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 137,
+        "ratingValue": 7.8,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Person",
+            "name": "Rachel Liebling",
+            "url": "/name/nm0509489/"
+        }
+    ],
+    "description": "Traces the music and sounds from its Appalachian roots to the present. The rise, fall, and consistent revival of bluegrass chronicled through oral history and visual record.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Rachel Liebling",
+            "url": "/name/nm0509489/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Documentary",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU2MDE5OTkzNF5BMl5BanBnXkFtZTcwOTI5MzcxMQ@@._V1_.jpg",
+    "keywords": "f rated,country music,bluegrass,bluegrass music,narration",
+    "name": "High Lonesome: The Story of Bluegrass Music",
+    "original_info": {
+        "id": "High Lonesome: The Story of Bluegrass Music_1993",
+        "name": "High Lonesome: The Story of Bluegrass Music",
+        "year": "1993"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bezdecheck"
+        },
+        "dateCreated": "2012-01-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0107111/"
+        },
+        "name": "Style of film not to my taste",
+        "reviewBody": "Now another viewer said this documentary was one to love even if you didn't care for bluegrass. I love bluegrass but the way this film was edited left me cold. Throughout the entire picture voices are speaking and singing over video of people speaking and singing - but one has nothing to do with another. I actually wanted to know what was going on in the concerts and interviews I saw and I found the structure of this film very irritating. I restarted the film twice to see if that made a difference. I guess I would have rather have listened to this on the radio. Looks like IMDG is forcing me to stretch this into ten lines because that's their rule. Stupid rule.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0107111/"
+}

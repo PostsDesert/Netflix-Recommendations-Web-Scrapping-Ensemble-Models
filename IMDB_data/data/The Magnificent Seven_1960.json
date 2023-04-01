@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Yul Brynner",
+            "url": "/name/nm0000989/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve McQueen",
+            "url": "/name/nm0000537/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Bronson",
+            "url": "/name/nm0000314/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 97437,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0258862/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0045604/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Roberts",
+            "url": "/name/nm0731679/"
+        },
+        {
+            "@type": "Person",
+            "name": "Akira Kurosawa",
+            "url": "/name/nm0000041/"
+        },
+        {
+            "@type": "Person",
+            "name": "Walter Bernstein",
+            "url": "/name/nm0077159/"
+        }
+    ],
+    "datePublished": "1960-10-12",
+    "description": "Seven gunfighters are hired by Mexican peasants to liberate their village from oppressive bandits.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Sturges",
+            "url": "/name/nm0836328/"
+        }
+    ],
+    "duration": "PT2H8M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzYyNzU0MTM1OF5BMl5BanBnXkFtZTcwMzE1ODE1NA@@._V1_.jpg",
+    "keywords": "friendship,showdown,mercenary,gun for hire,mexico",
+    "name": "The Magnificent Seven",
+    "original_info": {
+        "id": "The Magnificent Seven_1960",
+        "name": "The Magnificent Seven",
+        "year": "1960"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Philby-3"
+        },
+        "dateCreated": "2004-07-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0054047/"
+        },
+        "name": "A classic all right",
+        "reviewBody": "Re-make are seldom as good as the original, but here Hollywood or rather John Sturges managed to capture some of the spirit of Kurosawa's 'Seven Samurai' which itself owes something to the 'Three Musketeers' and which Sturges duly acknowledged in the credits. Partly this is due to some inspired casting. With the exception of Yul Brynner, none of the actors was particularly well known at the time. Steve McQueen, Charles Bronson, James Coburn, Robert Vaughn, Eli Wallach and Horst Buchholz (an unlikely Mexican) all went on to successful acting careers. The format of this film was replicated in many later films. \n\nThe plot couldn't be simpler. Desperate Mexican villagers, bled white by local bandits, retain a group of almost equally desperate gunslingers from the other side of the Rio Grand to deal with the bandits. A lot of the fun arises early on as leader Cajun Chris seeks out half a dozen suitably deranged but deadly types for the job. Ostensibly they are doing it for the money but it becomes apparent early on that they are really on the team just for the hell of it. Once they are together things don't quite go to plan, but the camaraderie holds up, and their mission is accomplished, though at considerable cost.\n\nDespite all the action it is a character-driven piece in some ways. Eli Wallach's Calvera the bandit leader is more than a cardboard cut-out villain and Yul Brynner's enigmatic Chris keeps us guessing. The villagers, despite their matching white smocks, are not all lily-white and each of the Seven has at least one interesting weakness.\n\nA strong feature of the film is the music, penned by the ubiquitous Elmer Bernstein, and entirely appropriate, with a main theme which seems to be permanently welded into my brain.\n\n'The Magnificent Seven' was made at a time when the appetite for westerns was going into decline. Whereas westerns were staple film and TV fare in the 50's, the sixties saw a sharp decline, as spy dramas and sex farces burgeoned. One interesting theory I've heard about this is that it's not so much that the audience tired of westerns, but that TV executives discovered that they were being watched by the people too poor to buy their sponsor's fine products. Anyway this film holds up very well after 45 years, a true classic and satisfying to watch."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer B for The Magnificent Seven",
+        "duration": "PT2M44S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2036504857",
+        "name": "The Magnificent Seven (1960)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNmJiNDhlOWYtMmRiZC00YzMzLWI0NTUtYzY5MTYwNWZjMTg5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNmJiNDhlOWYtMmRiZC00YzMzLWI0NTUtYzY5MTYwNWZjMTg5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-11-05T03:33:40Z",
+        "url": "https://www.imdb.com/video/vi2036504857/"
+    },
+    "url": "/title/tt0054047/"
+}

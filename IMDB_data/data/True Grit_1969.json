@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Wayne",
+            "url": "/name/nm0000078/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kim Darby",
+            "url": "/name/nm0200981/"
+        },
+        {
+            "@type": "Person",
+            "name": "Glen Campbell",
+            "url": "/name/nm0004794/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 48947,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0197491/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Portis",
+            "url": "/name/nm0692427/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marguerite Roberts",
+            "url": "/name/nm0731387/"
+        }
+    ],
+    "datePublished": "1969-06-21",
+    "description": "A drunken, hard-nosed U.S. Marshal and a Texas Ranger help a stubborn teenager track down her father's murderer in Indian Territory.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Henry Hathaway",
+            "url": "/name/nm0368871/"
+        }
+    ],
+    "duration": "PT2H8M",
+    "genre": [
+        "Adventure",
+        "Drama",
+        "Western"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjEwNzRlMzUtODIwMS00N2IwLWE1ZTgtODYzNWY0MGJhODY3XkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
+    "keywords": "revenge,alcoholic,based on novel,arkansas,pursuit",
+    "name": "True Grit",
+    "original_info": {
+        "id": "True Grit_1969",
+        "name": "True Grit",
+        "year": "1969"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Darren-12"
+        },
+        "dateCreated": "1999-01-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0065126/"
+        },
+        "name": "Pure Western Delight",
+        "reviewBody": "Surely one of the purest westerns ever made, a simple tale of a lawman tracking down an outlaw. This film is raised way above the norm in almost all respects: The photography is superb, with the hills, mountains, valleys and forests being the real stars; the acting is first rate, with not a weak performance in sight from even the lowliest minor character; the direction is well paced as we ride along with the 3-person-posse through the landscape and experience the minor twists of the actual hunt, as well as the evolution of the relationships between the group. The episode in which they take over a cabin by a stream and then ambush the following villains is even better than the well known finale.\n\nWhy this film hasn't had more votes and a higher rating in imdb is a complete mystery to me. I'm English, and I always thought the Americans really loved their westerns and John Wayne in particular. Can anyone explain please?",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Paramount",
+        "duration": "PT3M39S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4043243801",
+        "name": "True Grit",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BY2FlYmYxZjMtY2YyZC00YzAwLWJjYTAtMGQ1ZTM4MmY1NGJkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BY2FlYmYxZjMtY2YyZC00YzAwLWJjYTAtMGQ1ZTM4MmY1NGJkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:31:49Z",
+        "url": "https://www.imdb.com/video/vi4043243801/"
+    },
+    "url": "/title/tt0065126/"
+}

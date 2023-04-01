@@ -1,0 +1,85 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Robert Conrad",
+            "url": "/name/nm0001066/"
+        },
+        {
+            "@type": "Person",
+            "name": "Karen Austin",
+            "url": "/name/nm0042438/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Young",
+            "url": "/name/nm0949985/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 363,
+        "ratingValue": 4.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0041192/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sandor Stern",
+            "url": "/name/nm0827839/"
+        }
+    ],
+    "datePublished": "1986-03-19",
+    "description": "A former government operative is called out of retirement to battle a new super weapon gone bad, a cyborg. Reluctantly, the retired operative trails the cyborg and tries to destroy it.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Sandor Stern",
+            "url": "/name/nm0827839/"
+        }
+    ],
+    "duration": "PT1H14M",
+    "genre": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTQ5MTI3MDgwNF5BMl5BanBnXkFtZTcwODU3MzYxMQ@@._V1_.jpg",
+    "keywords": "cyborg sci fi,cyborg,bionic man,robot,politics",
+    "name": "Assassin",
+    "original_info": {
+        "id": "Assassin_1986",
+        "name": "Assassin",
+        "year": "1986"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "rsoonsa"
+        },
+        "dateCreated": "2002-08-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0090666/"
+        },
+        "name": "Reunion of former agent with his agency is fraught with danger.",
+        "reviewBody": "This science-fiction film stars Robert Conrad as Henry Stanton, a retired C.I.A. operative who is persuaded by his former supervisor (Robert Webber) to accept another mission, one in which it is hoped that he may be able to address a problem of a rogue agent, Robert Golem (Richard Young), who is homicidal, with his victims being Agency and high government officials. Stanton is accompanied in his efforts to locate the vicious renegade by another former Agency employee, now one of Golem's targets, Mary Cassales (Karen Austin) who reveals to her new partner that the killer as an almost indestructible robot, designed for assassination purposes, and that she was instrumental in its production. The script, by director Sandor Stern, contains some interesting material, and neatly explains Asimov's three laws of robotics, but elements of romantic love between the two protagonists and between Golem and a smitten woman (Jessica Nelson) seem extraneous, and a point of view is difficult to find throughout. Conrad is most effective during the film's first half, when he is able to use his deceptively simple naturalistic skills, and Austin always contributes a developed interpretation, with only a lack of any sensual chemistry between Conrad and her serving to somewhat hamper the narrative's rhythm. Stern directs well and the work never becomes dull; however, his scenario is rather serried with story lines and he loses his way as the picture moves along, inevitably giving most emphasis to a series of frenetic action scenes, most of which demonstrate the android's superhuman physical talents. Although obviously derivative, the score by Anthony Guefen is effective, and particularly so in connection with scenes meant to generate feelings of suspense, while Chuck Arnold handles the cinematography nicely and there is crisp editing as always by James Calloway.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0090666/"
+}

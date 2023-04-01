@@ -1,0 +1,117 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Edward Norton",
+            "url": "/name/nm0001570/"
+        },
+        {
+            "@type": "Person",
+            "name": "Liv Tyler",
+            "url": "/name/nm0000239/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tim Roth",
+            "url": "/name/nm0000619/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 501477,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0095134/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0051941/"
+        },
+        {
+            "@type": "Person",
+            "name": "Zak Penn",
+            "url": "/name/nm0672015/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stan Lee",
+            "url": "/name/nm0498278/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jack Kirby",
+            "url": "/name/nm0456158/"
+        }
+    ],
+    "datePublished": "2008-06-13",
+    "description": "Bruce Banner, a scientist on the run from the U.S. Government, must find a cure for the monster he turns into whenever he loses his temper.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Louis Leterrier",
+            "url": "/name/nm0504642/"
+        }
+    ],
+    "duration": "PT1H52M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUyNzk3MjA1OF5BMl5BanBnXkFtZTcwMTE1Njg2MQ@@._V1_.jpg",
+    "keywords": "marvel cinematic universe,bruce banner character,the incredible hulk character,based on comic,hulk",
+    "name": "The Incredible Hulk",
+    "original_info": {
+        "id": "The Incredible Hulk_2003",
+        "name": "The Incredible Hulk",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "come2whereimfrom"
+        },
+        "dateCreated": "2008-06-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0800080/"
+        },
+        "name": "Hulk smash-hit!",
+        "reviewBody": "From that brilliant poster of Ed Norton dressed all in denim walking away from the huge frame of his alter ego the Hulk to the superb end fight that shows the makers of Spiderman 3 how it should be done this is a great film. Not by any means a brilliant film but a truly enjoyable superhero romp none the less. Gone is the emotion that Ang Lee tried to inject into Hulk (2003) and back is the smashing and shouting and smashing. Plagued by his demons and his uncontrollable green counterpart, Norton plays Dr. Bruce Banner a scientist with a secret, desperate to find a cure. Hot on his heels are the army lead by Emil Blonsky (Roth) under the command of General Thaddeus 'Thunderbolt' Ross, who just so happens to be the dad of Banners girlfriend Betty (Tyler), who wants to know how he gets all angry and use the technology to create 'super soldiers'. Plus Iron Man Tony Stark is in it. That then is about it, what you get is a chase movie with some great characters, some great effects and a couple of amazing set pieces including the end fight between the Hulk and the Abomination. All in all it's smashing stuff that should leave other superhero films green with envy.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "This is the second trailer for The Incredible Hulk, directed by Louis Leterrier.",
+        "duration": "PT2M34S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1726152985",
+        "name": "The Incredible Hulk: Trailer #2",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTYwMTQ4Mzk5NV5BMl5BanBnXkFtZTcwNDMyNjA3MQ@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTYwMTQ4Mzk5NV5BMl5BanBnXkFtZTcwNDMyNjA3MQ@@._V1_.jpg",
+        "uploadDate": "2008-05-03T15:39:07Z",
+        "url": "https://www.imdb.com/video/vi1726152985/"
+    },
+    "url": "/title/tt0800080/"
+}

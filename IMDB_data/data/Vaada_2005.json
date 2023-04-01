@@ -1,0 +1,85 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Arjun Rampal",
+            "url": "/name/nm0992000/"
+        },
+        {
+            "@type": "Person",
+            "name": "Zayed Khan",
+            "url": "/name/nm1300301/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ameesha Patel",
+            "url": "/name/nm0665349/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 893,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0028978/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rumi Jaffery",
+            "url": "/name/nm0415514/"
+        }
+    ],
+    "datePublished": "2005-01-07",
+    "description": "A blind husband. An obsessed lover. And the missing body of a murdered wife...?",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Satish Kaushik",
+            "url": "/name/nm0442479/"
+        }
+    ],
+    "duration": "PT2H2M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYjkzZmM5ZjAtMGZhOC00NDY3LWJlMjctZGM4YzQ1ODgzZjcxXkEyXkFqcGdeQXVyODY3NzQyNDk@._V1_.jpg",
+    "keywords": "murder",
+    "name": "Vaada",
+    "original_info": {
+        "id": "Vaada_2005",
+        "name": "Vaada",
+        "year": "2005"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "contactanywhere"
+        },
+        "dateCreated": "2005-09-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0442855/"
+        },
+        "name": "A game of cat and mouse",
+        "reviewBody": "A blind husband, a dead wife, and a somewhat psychotic ex-boyfriend, all thrown together in a story that I could not help feeling I have seen somewhere before, something not helped by an early scene clearly ripping off \"Love Actually\". Putting that aside, this was not a bad thriller; unusually for a Bollywood film, I found myself switching allegiances between the two main actors, even feeling pity for the psychotic. With a better script (or better subtitling, perhaps?), removal of the unnecessary dances, and a tenser courtroom scene, this film could have been very good. For me, the best performance was put in by Zayed Khan, I won't say more for fear of giving too much away. I saw this film on a long plane flight, and it entertained me perfectly well.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0442855/"
+}

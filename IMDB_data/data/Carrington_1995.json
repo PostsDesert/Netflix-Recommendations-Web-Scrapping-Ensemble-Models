@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Emma Thompson",
+            "url": "/name/nm0000668/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jonathan Pryce",
+            "url": "/name/nm0000596/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steven Waddington",
+            "url": "/name/nm0905357/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5600,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0106129/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0103482/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0005906/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christopher Hampton",
+            "url": "/name/nm0358960/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Holroyd",
+            "url": "/name/nm0392264/"
+        }
+    ],
+    "datePublished": "1995-11-10",
+    "description": "The platonic relationship between artist Dora Carrington (Dame Emma Thompson) and writer Lytton Strachey (Jonathan Pryce) in the early twentieth century.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Christopher Hampton",
+            "url": "/name/nm0358960/"
+        }
+    ],
+    "duration": "PT2H1M",
+    "genre": [
+        "Biography",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjQ3MTBkNDEtMGRlZS00OTY0LTkzYjktOWU2MzI3ZDRiMjY5XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",
+    "keywords": "writer,period drama,england,artist,world war one",
+    "name": "Carrington",
+    "original_info": {
+        "id": "Carrington_1995",
+        "name": "Carrington",
+        "year": "1995"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Tabarnouche"
+        },
+        "dateCreated": "2002-11-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0112637/"
+        },
+        "name": "Delicately portrayed amorous eccentricity as only the British can do",
+        "reviewBody": "If you require the overdone loudness, violence and aggressivity of an American film (Training Day comes to mind), you'll need to take an extra dose of Ritalin to get through this film. (That advice could have been useful to a few of the previous reviewers, in fact.) \n\nFor those who don't have to be hit over the head, though, this film is a riveting masterpiece about the varied forms human love can assume--and a reminder that subcultures, like the Bloomsbury Group, have always given social norms a wide berth. British society has long tolerated eccentricity, especially when discreetly indulged, of which the nuanced contours of relationships among the literate in early-20th-century Britain provide an excellent illustration. Combine this refreshing glimpse of consensual mores with outstanding interpretations by Thompson and Pryce, and with fidelity to historical fact, and you've got two delightful hours of first-rate cinema on your hands. \n\nAnd not an exploding car or a vengeance-driven, gadget-laden military operation against a demonized third-world country anywhere to be found. Amazing. And bravo. 9 out of 10."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from MGM Home Entertainment",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1462567705",
+        "name": "Carrington",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzU5N2M2MmUtMzc0Zi00ZTFhLWIzMTQtNTgxYjJiMWE3YzM3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzU5N2M2MmUtMzc0Zi00ZTFhLWIzMTQtNTgxYjJiMWE3YzM3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-02-21T06:17:03Z",
+        "url": "https://www.imdb.com/video/vi1462567705/"
+    },
+    "url": "/title/tt0112637/"
+}

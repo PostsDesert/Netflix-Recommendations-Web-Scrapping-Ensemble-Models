@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Elliott Gould",
+            "url": "/name/nm0001285/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Brolin",
+            "url": "/name/nm0000981/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brenda Vaccaro",
+            "url": "/name/nm0882853/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 23430,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103475/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0018373/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Hyams",
+            "url": "/name/nm0001382/"
+        }
+    ],
+    "datePublished": "1978-06-02",
+    "description": "When the first manned flight to Mars is deemed unsafe and scrubbed on the launch pad, anxious authorities must scramble to save face and retain their funding - and so an unthinkable plot to fake the mission is hatched.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Peter Hyams",
+            "url": "/name/nm0001382/"
+        }
+    ],
+    "duration": "PT2H3M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYzgyODk5YjQtNzM4Yy00NjM1LWJjNjAtYzM0MjZmNDgwYmNjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "astronaut,conspiracy,paranoia,on the run,survival",
+    "name": "Capricorn One",
+    "original_info": {
+        "id": "Capricorn One_1978",
+        "name": "Capricorn One",
+        "year": "1978"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "fitzvizion"
+        },
+        "dateCreated": "2005-09-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0077294/"
+        },
+        "name": "A guilty pleasure",
+        "reviewBody": "One of those movies I'm ashamed to admit that I love. The logic comes and goes in this roller-coaster ride of a film, but the emotional highs are most memorable. One of Elliot Gould's last starring roles. I particularly enjoyed Telly Savalas, who chews the scenery unmercifully but is fun to watch as he saves the day. Also James Brolin, who goes the extra mile and does things that some actors would balk at, such as eating a rattlesnake. When I saw this in the theatre, there were a couple of scenes that had the audience cheering, which is not something one sees very often. And how they ever got NASA to allow them to film has got to be a story in itself, one which I am eager to hear.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Artisan",
+        "duration": "PT3M8S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4189847833",
+        "name": "Capricorn One",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTU4MGUyNjgtMzgzYy00MTdiLWI3NjctZWZlYjk1OWM0YmU3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTU4MGUyNjgtMzgzYy00MTdiLWI3NjctZWZlYjk1OWM0YmU3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:01:24Z",
+        "url": "https://www.imdb.com/video/vi4189847833/"
+    },
+    "url": "/title/tt0077294/"
+}

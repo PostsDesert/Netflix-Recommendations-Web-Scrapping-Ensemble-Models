@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Christian Slater",
+            "url": "/name/nm0000225/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mary Stuart Masterson",
+            "url": "/name/nm0000524/"
+        },
+        {
+            "@type": "Person",
+            "name": "Pamela Adlon",
+            "url": "/name/nm0781899/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 8500,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0043545/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0046718/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Goldenberg",
+            "url": "/name/nm0325533/"
+        }
+    ],
+    "datePublished": "1996-01-26",
+    "description": "Romantic drama about a young career girl who is swept off her feet by a shy florist who fell in love with her after one glimpse through a shadowy window.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Goldenberg",
+            "url": "/name/nm0325533/"
+        }
+    ],
+    "duration": "PT1H27M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTUwOWM4YmUtMzdkMi00YjEwLWE0MmEtZTBmMGNhYWU4OGI3XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "florist,flower,widower,rooftop,painting",
+    "name": "Bed of Roses",
+    "original_info": {
+        "id": "Bed of Roses_1996",
+        "name": "Bed of Roses",
+        "year": "1996"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "gospelpicker"
+        },
+        "dateCreated": "2006-10-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0115644/"
+        },
+        "name": "Warm and Wonderful",
+        "reviewBody": "Bed of Roses is easily one of the best romance movies ever. Even if the movie wasn't as good as it is, the soundtrack alone would make it worth watching. But, the movie itself is wonderful and full of warmth. Bed of Roses has the kind of story you would like to live out for yourself. True, people don't usually meet and fall in love the way Lewis and Lisa do in this movie, but isn't that the purpose of movies and music? The story and characters are as unique as they are addictive. When the movie ended, I found myself wanting more. This is one movie that will stick with you. I dare you to watch it only once.\n\nIf you enjoyed Bed of Roses, you might also like At First Sight with Val Kilmer and Mira Sorvino.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from New Line Cinema",
+        "duration": "PT2M9S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2528706841",
+        "name": "Bed of Roses",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BY2M0NGRmNjgtMTQ4ZC00MjJmLWExODQtNTRjYzZjM2JjZTk0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BY2M0NGRmNjgtMTQ4ZC00MjJmLWExODQtNTRjYzZjM2JjZTk0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:27:44Z",
+        "url": "https://www.imdb.com/video/vi2528706841/"
+    },
+    "url": "/title/tt0115644/"
+}

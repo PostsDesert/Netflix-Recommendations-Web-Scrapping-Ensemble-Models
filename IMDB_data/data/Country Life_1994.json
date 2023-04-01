@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sam Neill",
+            "url": "/name/nm0000554/"
+        },
+        {
+            "@type": "Person",
+            "name": "Greta Scacchi",
+            "url": "/name/nm0000627/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Hargreaves",
+            "url": "/name/nm0362970/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 792,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023514/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0067434/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Blakemore",
+            "url": "/name/nm0086820/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anton Chekhov",
+            "url": "/name/nm0155009/"
+        }
+    ],
+    "datePublished": "1995-07-28",
+    "description": "Adaptation of Chekhov's \"Uncle Vanya\" set in rural Australia in the 1920's. Jack Dickens and his niece Sally run the family farm to support brother-in-law Alexander as a (supposedly brilliant) literary critic in London. Action beg...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Blakemore",
+            "url": "/name/nm0086820/"
+        }
+    ],
+    "duration": "PT1H58M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjEzNzM5MDM1Ml5BMl5BanBnXkFtZTcwMDMwMTYyMQ@@._V1_.jpg",
+    "keywords": "australia,cat,based on novel,independent film",
+    "name": "Country Life",
+    "original_info": {
+        "id": "Country Life_1994",
+        "name": "Country Life",
+        "year": "1994"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Wolfi-10"
+        },
+        "dateCreated": "2003-11-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0109491/"
+        },
+        "name": "A perfect \"10\" for the Australian Uncle Vanja.",
+        "reviewBody": "Uncle Vanja in the Australian outback with a perfect rendering of the characters; engrossing, entertaining, and the sad ending as well. I voted it a \"10\". It looks like Hollywood could learn a lot from Australia.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Country Life: Intro",
+        "duration": "PT2M30S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1497416985",
+        "name": "Country Life: Intro",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYWUxNzJiMTAtMDUzNi00NmQ0LThhYzgtMWZhMTc5Nzk4MzQ5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYWUxNzJiMTAtMDUzNi00NmQ0LThhYzgtMWZhMTc5Nzk4MzQ5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2023-02-14T21:11:20.565Z",
+        "url": "https://www.imdb.com/video/vi1497416985/"
+    },
+    "url": "/title/tt0109491/"
+}

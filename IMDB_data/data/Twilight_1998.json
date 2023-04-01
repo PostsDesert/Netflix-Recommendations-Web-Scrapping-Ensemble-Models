@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Paul Newman",
+            "url": "/name/nm0000056/"
+        },
+        {
+            "@type": "Person",
+            "name": "Susan Sarandon",
+            "url": "/name/nm0000215/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gene Hackman",
+            "url": "/name/nm0000432/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 13513,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0154628/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0093765/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Benton",
+            "url": "/name/nm0000914/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Russo",
+            "url": "/name/nm0751720/"
+        }
+    ],
+    "datePublished": "1998-03-06",
+    "description": "A retired detective accepts a simple task, unaware that it will tear open old, forgotten, but deadly wounds.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Benton",
+            "url": "/name/nm0000914/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZmJiMjBmMzYtYzIxNi00NjA2LWIxZmEtYzJlMWVkMDg1MTlmXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "breasts,female frontal nudity,female nudity,nudity,bikini",
+    "name": "Twilight",
+    "original_info": {
+        "id": "Twilight_1998",
+        "name": "Twilight",
+        "year": "1998"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "rupie"
+        },
+        "dateCreated": "1999-04-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0119594/"
+        },
+        "name": "a movie for grownups",
+        "reviewBody": "With all the action-schlock movies coming out of Hollywood, and all the obsession with special effects, it is nice to have a movie about real characters with some real acting. This is a great cast with Newman in his usual fine form, and Hackman, Sarandon, and Garner reminding us what real acting is all about. I don't know why this film reminded me of L.A.Confidential in the story line, but this film's characters have depth and texture, unlike the cardboard cutouts of that movie. The gritty plot, about past crime, betrayal, friendship, and loyalty, is not without its moments of sardonic humor, and Elmer Bernstein, who has been around forever, still churns out a great score. A grownup movie for grownups.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Paramount Home Entertainment",
+        "duration": "PT2M19S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1106837785",
+        "name": "Twilight (1998)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMWMzMmJhOWQtYzZhZS00MGI2LTg2MmItYTIxMzMzOTA5MTYyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMWMzMmJhOWQtYzZhZS00MGI2LTg2MmItYTIxMzMzOTA5MTYyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T17:08:05Z",
+        "url": "https://www.imdb.com/video/vi1106837785/"
+    },
+    "url": "/title/tt0119594/"
+}

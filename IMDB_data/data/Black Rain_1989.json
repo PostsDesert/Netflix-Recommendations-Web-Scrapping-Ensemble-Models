@@ -1,0 +1,92 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Michael Douglas",
+            "url": "/name/nm0000140/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andy Garcia",
+            "url": "/name/nm0000412/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ken Takakura",
+            "url": "/name/nm0847264/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 56703,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0035763/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0015234/"
+        },
+        {
+            "@type": "Person",
+            "name": "Craig Bolotin",
+            "url": "/name/nm0093271/"
+        },
+        {
+            "@type": "Person",
+            "name": "Warren Lewis",
+            "url": "/name/nm0507863/"
+        }
+    ],
+    "datePublished": "1989-09-22",
+    "description": "Two NYC cops arrest a Yakuza member and must escort him when he's extradited to Japan.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ridley Scott",
+            "url": "/name/nm0000631/"
+        }
+    ],
+    "duration": "PT2H5M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjk1N2ZjOWYtN2FiMi00YzE4LTg1ZTctOGVmMjBlNzllNmUzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "yakuza,new york city,american in japan,murder of a police officer,language barrier",
+    "name": "Black Rain",
+    "original_info": {
+        "id": "Black Rain_1989",
+        "name": "Black Rain",
+        "year": "1989"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ChrisC."
+        },
+        "dateCreated": "1999-08-24",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0096933/"
+        },
+        "name": "Good, but not that good.",
+        "reviewBody": "Black Rain is an absolutely gorgeous movie to look at. And for the most part it's highly entertaining and well acted - the guy playing Sato is brilliantly menacing. But occasionally, very occasionally, it descends into either complete predictability or downright cheesiness. A motorbike chase, well, that's a surprise! And that award ceremony right near the end - why? It's totally irrelevant, feel good factor nonsense - the sort of stuff you get with bog standard action movies. And this is not bog standard, and not really an action movie. Certainly underrated and deserving of a better audience than it has received, but ultimately let down by a few lapses in quality."
+    },
+    "url": "/title/tt0096933/"
+}

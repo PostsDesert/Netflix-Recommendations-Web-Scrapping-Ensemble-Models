@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Eddie Murphy",
+            "url": "/name/nm0000552/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jay Mohr",
+            "url": "/name/nm0001542/"
+        },
+        {
+            "@type": "Person",
+            "name": "Randy Quaid",
+            "url": "/name/nm0001642/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 26346,
+        "ratingValue": 3.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0040620/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0108864/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0024939/"
+        },
+        {
+            "@type": "Person",
+            "name": "Neil Cuthbert",
+            "url": "/name/nm0193854/"
+        }
+    ],
+    "datePublished": "2002-08-16",
+    "description": "In the future, a man struggles to keep his lunar nightclub out of the hands of the Mafia.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ron Underwood",
+            "url": "/name/nm0881038/"
+        }
+    ],
+    "duration": "PT1H35M",
+    "genre": [
+        "Action",
+        "Comedy",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ4NTMwODQwNV5BMl5BanBnXkFtZTYwNTg0Nzk2._V1_.jpg",
+    "keywords": "the future,african american hero,gangster,breasts growing,violence",
+    "name": "The Adventures of Pluto Nash",
+    "original_info": {
+        "id": "The Adventures of Ociee Nash_2002",
+        "name": "The Adventures of Ociee Nash",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "imdb-906"
+        },
+        "dateCreated": "2002-08-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0180052/"
+        },
+        "name": "laughed from start to finish",
+        "reviewBody": "I go to the movies to be entertained and this one certainly did that for me. The biggest source of fun was seeing the juxtaposition of old movie cliches - gangsters, seedy nightclubs, and hot wired cars - placed in the futuristic setting of a campy lunar colony. I laughed from start to finish and enjoyed the surprise ending. I found \"Pluto Nash\" to be a very entertaining diversion."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT1M18S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1133379865",
+        "name": "The Adventures of Pluto Nash",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOWVhYjIwNjYtNzJiNy00ZmE5LTk3NGQtM2E2YWMxNWNmNGNlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOWVhYjIwNjYtNzJiNy00ZmE5LTk3NGQtM2E2YWMxNWNmNGNlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:28:33Z",
+        "url": "https://www.imdb.com/video/vi1133379865/"
+    },
+    "url": "/title/tt0180052/"
+}

@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jodie Foster",
+            "url": "/name/nm0000149/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anthony Hopkins",
+            "url": "/name/nm0000164/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lawrence A. Bonney",
+            "url": "/name/nm0095029/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1454931,
+        "ratingValue": 8.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0165563/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0001995/"
+        },
+        {
+            "@type": "Person",
+            "name": "Thomas Harris",
+            "url": "/name/nm0365383/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ted Tally",
+            "url": "/name/nm0848217/"
+        }
+    ],
+    "datePublished": "1991-02-14",
+    "description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jonathan Demme",
+            "url": "/name/nm0001129/"
+        }
+    ],
+    "duration": "PT1H58M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "keywords": "serial killer,stuck in a well,psychopath,psycho thriller,bad guy wins",
+    "name": "The Silence of the Lambs",
+    "original_info": {
+        "id": "The Pact of Silence_2003",
+        "name": "The Pact of Silence",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "BaronBl00d"
+        },
+        "dateCreated": "2000-06-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0102926/"
+        },
+        "name": "Class Act",
+        "reviewBody": "With Silence of the Lambs comes some much needed recognition for the horror genre. It is a first-rate production all around. It boasts a witty and suspenseful script based on the Thomas Harris novel, full of great lines. It has marvelous direction from Demme. Demme creates suspense very well throughout and uses some great directorial shots such as the twin frames of Clarice ringing a doorbell and the FBI men breaking into a home. The two lead actors won oscars for their performances...each deserved. Foster is very good in her role, but it is Anthony Hopkins that literally lights up the screen with his complex portrayal of a complex serial killer. Hopkins does the seemingly impossible. He frightens you with his outrageousness and yet illicts some pity/compassion(albeit not a lot) for his situation. He says his lines with reservedness when needed and brashness when needed. The rest of the cast is also quite good with Anthony Heald a standout as a unethical, petty doctor in charge of Hopkins. Of course the story of the other killer is very very chilling as well. A quality film in all aspects!"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M49S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3377380121",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BN2ZiYzIyMWQtNDUyNy00YmExLWIwNmMtN2FhNzFiODgyYmU4XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BN2ZiYzIyMWQtNDUyNy00YmExLWIwNmMtN2FhNzFiODgyYmU4XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+        "uploadDate": "2018-09-20T20:00:19.950Z",
+        "url": "https://www.imdb.com/video/vi3377380121/"
+    },
+    "url": "/title/tt0102926/"
+}

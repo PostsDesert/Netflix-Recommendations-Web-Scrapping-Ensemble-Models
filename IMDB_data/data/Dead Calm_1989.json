@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Nicole Kidman",
+            "url": "/name/nm0000173/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sam Neill",
+            "url": "/name/nm0000554/"
+        },
+        {
+            "@type": "Person",
+            "name": "Billy Zane",
+            "url": "/name/nm0000708/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 41864,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0066464/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0655803/"
+        },
+        {
+            "@type": "Person",
+            "name": "Terry Hayes",
+            "url": "/name/nm0371249/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Williams",
+            "url": "/name/nm0930241/"
+        }
+    ],
+    "datePublished": "1989-04-07",
+    "description": "After a tragedy, John Ingram and his wife Rae are spending some time isolated at sea, when they come across a stranger who has abandoned a sinking ship.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Phillip Noyce",
+            "url": "/name/nm0637518/"
+        }
+    ],
+    "duration": "PT1H36M",
+    "genre": [
+        "Horror",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTYxYTE5NDMtYjRjYS00ZjE2LTg1YTktMTFjNjEwMTZlNjNjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "maniac,female nudity,psychological thriller,sea,sailboat",
+    "name": "Dead Calm",
+    "original_info": {
+        "id": "Dead Calm_1989",
+        "name": "Dead Calm",
+        "year": "1989"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dkonidis"
+        },
+        "dateCreated": "2004-01-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0097162/"
+        },
+        "name": "Ocean suspense thriller",
+        "reviewBody": "While flipping channels very late last night I couldn't help but get drawn in to \"Dead Calm\". Rae (a young Nicole Kidman) suffers a horrific car accident that kills her son. To recover from this incident she boards a yacht with her husband (played by a much older Sam Neil) and goes sailing on the Pacific. The tension builds when they pick up Hughie (a young Billy Zane). All in all, this is a good ocean suspense thriller. Zane delivers an emotional performance as the villain. His last appearance on the boat at the very end is pure classic. Kidman is great and very beautiful. In fact I almost didn't recognize her. This film substitutes the traditional car chase with a yacht chase too. However, it lacks a variety of scenes which makes it quite repetitive at some points. The bulk of the movie takes places on the yacht and as the title would suggest we go from the calming and soothing ocean to mounting tension and vice versa. Worth watching though. It will keep you awake."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT1M26S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4288676121",
+        "name": "Dead Calm",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDU0MDg1YWMtYTAwMC00NDM0LTk4ZjMtYmMwNDRiYTRhYzU3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDU0MDg1YWMtYTAwMC00NDM0LTk4ZjMtYmMwNDRiYTRhYzU3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:46:13Z",
+        "url": "https://www.imdb.com/video/vi4288676121/"
+    },
+    "url": "/title/tt0097162/"
+}

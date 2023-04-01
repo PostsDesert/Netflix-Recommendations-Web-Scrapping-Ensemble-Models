@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bruce Willis",
+            "url": "/name/nm0000246/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jai Courtney",
+            "url": "/name/nm2541974/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sebastian Koch",
+            "url": "/name/nm0462407/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 210138,
+        "ratingValue": 5.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0420822/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0129985/"
+        },
+        {
+            "@type": "Person",
+            "name": "Skip Woods",
+            "url": "/name/nm0940790/"
+        },
+        {
+            "@type": "Person",
+            "name": "Roderick Thorp",
+            "url": "/name/nm0861636/"
+        }
+    ],
+    "datePublished": "2013-02-14",
+    "description": "John McClane travels to Russia to help out his seemingly wayward son, Jack, only to discover that Jack is a CIA operative working undercover, causing the father and son to team up against underworld forces.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Moore",
+            "url": "/name/nm0601382/"
+        }
+    ],
+    "duration": "PT1H38M",
+    "genre": [
+        "Action",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTcwNzgyNzUzOV5BMl5BanBnXkFtZTcwMzAwOTA5OA@@._V1_.jpg",
+    "keywords": "traffic jam,car accident,american abroad,explosion,two man army",
+    "name": "A Good Day to Die Hard",
+    "original_info": {
+        "id": "A Good Day to Die_1995",
+        "name": "A Good Day to Die",
+        "year": "1995"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "michaelberneman"
+        },
+        "dateCreated": "2013-02-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt1606378/"
+        },
+        "name": "Great action but...",
+        "reviewBody": "Let me start off by saying that like everyone I had a feeling this could go wrong. You have a terrible writer, Skip Woods(even if I enjoyed The A-Team) and a terrible director, John Moore. The people at Fox must be idiots because John Moore has not made one good film, so to trust him with the Die Hard franchise seemed a bad idea. The film has a lot of action if not too much, there isn't any dialog!!!! At 97 minutes it's the shortest one in the series ans it sure feels that way. Every other film in the franchise were longer, they gave you more time to explore the rest of the film. But this one feels so rushed, like okay let's go there , and then here,... The film has no structure. It's like they said \"alright guys were gonna make this as fast as possible\" Bruce Willis is fine but it's like he doesn't even talk during the whole movie, his chemistry with Jai Courtney is fine. The plot is okay even if you can see the twist coming after 25 minutes. What makes this film still enjoyable is the action even though it's disturbed by shaky-cam, bad editing and bad CGI effects. If they are gonna make another one they should bring back John Mctiernan and make the movie on a smaller scale. Back to basics!! If they make it on a bigger scale than they should make it as good as With a Vengeance.And another thing: You can't drive from Moscow to Chernobyl in a couple of hours!!!!!!\n\nThis is by far the worst entry in the franchise",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "John McClane travels to Russia to help out his seemingly wayward son, Jack, only to discover that Jack is a CIA operative working to prevent a nuclear-weapons heist, causing the father and son to team up against underworld forces. ",
+        "duration": "PT2M30S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1541121817",
+        "name": "U.S. Version #2",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjE4OTExMjg4M15BMl5BanBnXkFtZTcwMzUyMzE5OA@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjE4OTExMjg4M15BMl5BanBnXkFtZTcwMzUyMzE5OA@@._V1_.jpg",
+        "uploadDate": "2013-01-05T10:38:18Z",
+        "url": "https://www.imdb.com/video/vi1541121817/"
+    },
+    "url": "/title/tt1606378/"
+}

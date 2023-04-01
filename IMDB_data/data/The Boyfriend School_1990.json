@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Steve Guttenberg",
+            "url": "/name/nm0000430/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jami Gertz",
+            "url": "/name/nm0000415/"
+        },
+        {
+            "@type": "Person",
+            "name": "Shelley Long",
+            "url": "/name/nm0001480/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3105,
+        "ratingValue": 5.7,
+        "worstRating": 1
+    },
+    "alternateName": "The Boyfriend School",
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0056805/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0087376/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sarah Bird",
+            "url": "/name/nm1250434/"
+        }
+    ],
+    "datePublished": "1990-09-21",
+    "description": "Cartoonist Gus has survived cancer treatment and now his romance novelist sister tries to find him a woman and guide him. Will they succeed?",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Malcolm Mowbray",
+            "url": "/name/nm0610261/"
+        }
+    ],
+    "duration": "PT1H41M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTViZTM2MzktYjllNi00NTIwLWE5MzQtYTZmODBjMzYwY2Q3XkEyXkFqcGdeQXVyNjkwNTg3NDY@._V1_.jpg",
+    "keywords": "cartoonist,cancer,revenge,harley davidson,motorcycle",
+    "name": "Don't Tell Her It's Me",
+    "original_info": {
+        "id": "The Boyfriend School_1990",
+        "name": "The Boyfriend School",
+        "year": "1990"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "xxballisticxx"
+        },
+        "dateCreated": "2020-08-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0099450/"
+        },
+        "name": "Don't Tell Her It's Me",
+        "reviewBody": "The Boyfriend School? This movie was originally titled Don't Tell Her It's Me. It was a better title and for the movie better, I don't know why they changed it."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from HBO Home Video",
+        "duration": "PT2M19S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi648151321",
+        "name": "Don't Tell Her It's Me",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjY5ZWY5OTEtMTgzZC00YTI4LThiMzgtMjhhMDE3MjJmZjdjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjY5ZWY5OTEtMTgzZC00YTI4LThiMzgtMjhhMDE3MjJmZjdjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:51:38Z",
+        "url": "https://www.imdb.com/video/vi648151321/"
+    },
+    "url": "/title/tt0099450/"
+}

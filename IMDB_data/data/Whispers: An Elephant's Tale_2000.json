@@ -1,0 +1,94 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Angela Bassett",
+            "url": "/name/nm0000291/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joanna Lumley",
+            "url": "/name/nm0525921/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anne Archer",
+            "url": "/name/nm0000271/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 391,
+        "ratingValue": 5,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0008970/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dereck Joubert",
+            "url": "/name/nm0431049/"
+        },
+        {
+            "@type": "Person",
+            "name": "Beverly Joubert",
+            "url": "/name/nm0431044/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jordan Moffet",
+            "url": "/name/nm0595623/"
+        }
+    ],
+    "datePublished": "2023-03-04",
+    "description": "A baby elephant named Whispers finds himself separated from his mother. On his search to find her, he pairs up with an outcast from another herd and together they brave the wilds of Africa.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Dereck Joubert",
+            "url": "/name/nm0431049/"
+        }
+    ],
+    "duration": "PT1H12M",
+    "genre": [
+        "Adventure",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYzZhN2FjM2MtYTYxMS00MjkyLWI4YWYtMjEzZjYxMzYwZjM1XkEyXkFqcGdeQXVyMTIwMjk5NTky._V1_.jpg",
+    "keywords": "animal character name as title,whispers the elephant character,four word title,elephant,botswana",
+    "name": "Whispers: An Elephant's Tale",
+    "original_info": {
+        "id": "Whispers: An Elephant's Tale_2000",
+        "name": "Whispers: An Elephant's Tale",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "tdwhitney"
+        },
+        "dateCreated": "2010-02-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0185007/"
+        },
+        "name": "my son loves this movie",
+        "reviewBody": "I have a three and a five year old. They both love this movie. I think adults that try to rate kids' movies need to take into account that they are not the intended audience. Kids don't care if the plot and theme have been overdone. They don't care if the voices and the animal movement done sync up perfectly, although I actually think they did a pretty good job with this movie. I am actually always impressed when anyone can pull off a movie like this with wild animals. In fact, although I've seen lots of movies with cats, dogs, cows, etc. I haven't seen many with what are essentially wild animals, even if they'r from a zoo. I don't know where or how they filmed this, but I thought they did a great job, and again, my kids love this movie. It's definitely oriented toward kids, it's not too scary and it's got just enough action in it. I totally disagree with the harsh reviews above, and I'm not an easy sell. It's perfect for young ones.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0185007/"
+}

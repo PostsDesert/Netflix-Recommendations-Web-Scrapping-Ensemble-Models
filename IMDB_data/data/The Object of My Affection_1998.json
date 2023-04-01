@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jennifer Aniston",
+            "url": "/name/nm0000098/"
+        },
+        {
+            "@type": "Person",
+            "name": "Paul Rudd",
+            "url": "/name/nm0748620/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kali Rocha",
+            "url": "/name/nm0733812/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 20721,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen McCauley",
+            "url": "/name/nm0565522/"
+        },
+        {
+            "@type": "Person",
+            "name": "Wendy Wasserstein",
+            "url": "/name/nm0913715/"
+        }
+    ],
+    "datePublished": "1998-04-17",
+    "description": "A pregnant New York City social worker begins to develop romantic feelings for her gay best friend, and decides she'd rather raise her child with him, much to the dismay of her overbearing boyfriend.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Nicholas Hytner",
+            "url": "/name/nm0405336/"
+        }
+    ],
+    "duration": "PT1H51M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYmNjODYxOTMtNTBhMS00MmVhLWFiODUtYzYxMDA1MzNmZTEyXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+    "keywords": "friendship,based on novel,new york city,gay man straight woman relationship,gay",
+    "name": "The Object of My Affection",
+    "original_info": {
+        "id": "The Object of My Affection_1998",
+        "name": "The Object of My Affection",
+        "year": "1998"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Dale-31"
+        },
+        "dateCreated": "1998-10-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120772/"
+        },
+        "name": "Touching, the best romance of 1998, so far.",
+        "reviewBody": "I was pleasantly surprised by this film. Jennifer Aniston proved herself to be a serious actress. Paul Rudd did a magnificent job. Despite critics and other audience members alike, this is one of my all-time favorite romances, particularly because it didn't have a Hollywood ending."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Pre, \"Coming Soon\"",
+        "duration": "PT2M6S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2985361689",
+        "name": "The Object of My Affection",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMDE0NjJkODAtZTcwNi00OTUyLTkzMjUtZGRiNjY0MzZlM2U1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDE0NjJkODAtZTcwNi00OTUyLTkzMjUtZGRiNjY0MzZlM2U1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:40:11Z",
+        "url": "https://www.imdb.com/video/vi2985361689/"
+    },
+    "url": "/title/tt0120772/"
+}

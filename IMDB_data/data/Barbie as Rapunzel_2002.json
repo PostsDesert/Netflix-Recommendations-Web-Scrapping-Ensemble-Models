@@ -1,0 +1,117 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kelly Sheridan",
+            "url": "/name/nm0792198/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anjelica Huston",
+            "url": "/name/nm0001378/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cree Summer",
+            "url": "/name/nm0838588/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7044,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "Unrated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0108311/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0035460/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0080248/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cliff Ruby",
+            "url": "/name/nm0748429/"
+        },
+        {
+            "@type": "Person",
+            "name": "Elana Lesser",
+            "url": "/name/nm0504327/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sarah Maizes",
+            "url": "/name/nm1020568/"
+        }
+    ],
+    "datePublished": "2002-10-01",
+    "description": "Barbie is an artist who paints her way out of a castle to save her prince.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Owen Hurley",
+            "url": "/name/nm0403481/"
+        }
+    ],
+    "duration": "PT1H24M",
+    "genre": [
+        "Animation",
+        "Family",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjViZmY0M2MtODUzNy00MjRiLTlhYjQtMjQ4ZDY3ZWFkYWE4XkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_.jpg",
+    "keywords": "nightmare,feud,king,witch,dragon",
+    "name": "Barbie as Rapunzel",
+    "original_info": {
+        "id": "Barbie as Rapunzel_2002",
+        "name": "Barbie as Rapunzel",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "donutpizza"
+        },
+        "dateCreated": "2008-07-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0313255/"
+        },
+        "name": "Surprisingly good",
+        "reviewBody": "I am in my 30s and am a father of 3 little girls so I have to watch movies like this. I was surprised that this movie was quite good, and the best of the Barbie movies (most of which are likewise good!). This is no Care Bears or My Little Ponies movie. I can actually watch this movie with my kids and not be bored or repulsed. It has an interesting plot, good character development, and good morals, and even a little exciting.\n\nThis is not Pixar stuff, but for a straight-to-video release I am pleased that they took some pride in their work and made a good product with what little budget they probably had.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Artisan",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3484942617",
+        "name": "Barbie As Rapunzel",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTc3ZjE2NWUtNzk5MC00ZTA1LTgyMjAtOTE0MWNiNDAwMDhiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTc3ZjE2NWUtNzk5MC00ZTA1LTgyMjAtOTE0MWNiNDAwMDhiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:21:38Z",
+        "url": "https://www.imdb.com/video/vi3484942617/"
+    },
+    "url": "/title/tt0313255/"
+}

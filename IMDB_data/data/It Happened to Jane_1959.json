@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Doris Day",
+            "url": "/name/nm0000013/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jack Lemmon",
+            "url": "/name/nm0000493/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ernie Kovacs",
+            "url": "/name/nm0468237/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2832,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0026936/"
+        },
+        {
+            "@type": "Person",
+            "name": "Norman Katkov",
+            "url": "/name/nm0441328/"
+        },
+        {
+            "@type": "Person",
+            "name": "Max Wilk",
+            "url": "/name/nm0929024/"
+        }
+    ],
+    "datePublished": "1959-05-24",
+    "description": "Jane Osgood runs a lobster business, which supports her two young children. Railroad staff inattention ruins her shipment, so with her lawyer George, Jane sues Harry Foster Malone, director of the line and the \"meanest man in the ...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Richard Quine",
+            "url": "/name/nm0703689/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzdiNTg1MzMtNDEwYy00NzY2LTg1MTgtOTVmOTI4NTNiYzZlXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
+    "keywords": "fire engine,small town,mother son relationship,lawyer,mother daughter relationship",
+    "name": "It Happened to Jane",
+    "original_info": {
+        "id": "It Happened to Jane_1959",
+        "name": "It Happened to Jane",
+        "year": "1959"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bgarry999"
+        },
+        "dateCreated": "2006-11-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0052933/"
+        },
+        "name": "A fun Family period Movie",
+        "reviewBody": "This is a fun period movie. It's a great snap shot of rural New England in the late 1950's. I remember watching this movie when I was a young boy growing up in the Hartford area of Connecticut. Thought the story is about the fictitious town, Cape Anne, Maine, the story was actually filmed in Connecticut. I remember everyone being excited about the movie because they had filmed scenes at the Hartford Railroad Station, one being where George kisses Jane. Back then we all had traveled someplace from the Hartford Station. The movie's vivid color gives us great views of the landscape, the old New England houses, stores, churches, and court house. The \"Town Meeting\" as it was, and still is, in some ways still in Maine, New Hampshire, and Vermont. The various types of cars of the time, and of course the different trains. It's a great story of the little guy (gal in this case) against the big corporation. Doris Day and Jack Lemmmon are at their best as well as the supporting cast. This is a movie the whole family can sit down to and have a great time, especially if you are from New England.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Jane Osgood runs a lobster business, which supports her two young children. Railroad staff inattention ruins her shipment, so with her lawyer George, Jane sues Harry Foster Malone, director of the line and the \"meanest man in the world\".",
+        "duration": "PT1M53S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3902849049",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZGNmZDVhZmQtNjc3MC00OWM3LTljZmYtM2VmNGU2NWViM2RhXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZGNmZDVhZmQtNjc3MC00OWM3LTljZmYtM2VmNGU2NWViM2RhXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-03-04T11:24:10.120Z",
+        "url": "https://www.imdb.com/video/vi3902849049/"
+    },
+    "url": "/title/tt0052933/"
+}

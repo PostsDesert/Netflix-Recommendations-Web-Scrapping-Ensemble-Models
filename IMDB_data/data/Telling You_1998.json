@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Peter Facinelli",
+            "url": "/name/nm0004906/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jennifer Love Hewitt",
+            "url": "/name/nm0001349/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dash Mihok",
+            "url": "/name/nm0005231/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 791,
+        "ratingValue": 4.4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0063872/"
+        },
+        {
+            "@type": "Person",
+            "name": "Denis Flood",
+            "url": "/name/nm0282540/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marc Palmieri",
+            "url": "/name/nm0658583/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rob DeFranco",
+            "url": "/name/nm0214584/"
+        }
+    ],
+    "datePublished": "1998-08-07",
+    "description": "Two college graduates who find themselves stuck behind the counter of a pizza parlor while their friends move on struggle to find a new direction for their lives.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Rob DeFranco",
+            "url": "/name/nm0214584/"
+        }
+    ],
+    "duration": "PT1H34M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTQ1YTQxMGQtZjVmOC00MTgzLTlmMTQtNmI3ZDNmZWI0MzY3XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+    "keywords": "college,friend,pizza,pizza parlor,college graduate",
+    "name": "Telling You",
+    "original_info": {
+        "id": "Telling You_1998",
+        "name": "Telling You",
+        "year": "1998"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "nevehater"
+        },
+        "dateCreated": "2000-11-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120859/"
+        },
+        "name": "What is the point of this movie?",
+        "reviewBody": "\"All money hangin' out like a big ol' pimp!\" If you've seen this movie, you'll probably remember this line. I love Matthew Lillard. But this movie was really bad! His parts were pretty funny, but the rest of the movie was just kinda thrown together. I didn't like it at all!"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT1M21S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2043715097",
+        "name": "Telling You",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTc4ODkxYTctNjAxYi00MGQwLTgxNTYtYzM1N2I2OTcwY2E0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTc4ODkxYTctNjAxYi00MGQwLTgxNTYtYzM1N2I2OTcwY2E0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-10-26T03:49:25Z",
+        "url": "https://www.imdb.com/video/vi2043715097/"
+    },
+    "url": "/title/tt0120859/"
+}

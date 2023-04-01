@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Wesley Singerman",
+            "url": "/name/nm1130617/"
+        },
+        {
+            "@type": "Person",
+            "name": "Serena Berman",
+            "url": "/name/nm0075846/"
+        },
+        {
+            "@type": "Person",
+            "name": "Corey Padnos",
+            "url": "/name/nm1130408/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 563,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0018417/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0007780/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0036697/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles M. Schulz",
+            "url": "/name/nm0776433/"
+        }
+    ],
+    "datePublished": "2003-08-29",
+    "description": "After all the time of being a jerk, Lucy is traded for Marcy for the baseball team. BIG MISTAKE!!!!",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Larry Leichliter",
+            "url": "/name/nm0500072/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Melendez",
+            "url": "/name/nm0006837/"
+        }
+    ],
+    "duration": "PT22M",
+    "genre": [
+        "Animation",
+        "Comedy",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjU3MmJiMWYtYTEzOC00OTBmLWE3YWQtODJlZDg3ZTZmZTU4XkEyXkFqcGdeQXVyNTMyNjU1NDk@._V1_.jpg",
+    "keywords": "baseball,surrealism,cartoon dog,dog,peanuts",
+    "name": "Lucy Must Be Traded, Charlie Brown",
+    "original_info": {
+        "id": "Lucy Must Be Traded_2003",
+        "name": "Lucy Must Be Traded",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "tavm"
+        },
+        "dateCreated": "2010-08-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0389128/"
+        },
+        "name": "Lucy Must Be Traded, Charlie Brown is one of several animated specials that should do the late Charles Schulz proud",
+        "reviewBody": "This \"Peanuts\" animated special was filmed after the strip's creator, Charles M. Schulz, had died in 2000. Despite that, there was no rewriting here, just taking the action and dialogue directly from the newspaper comic while veteran co-director Bill Melendez did the rest with as smooth a transition to film as possible. In this one, Charlie Brown's team faces another losing season in baseball to Peppermint Patty's unless some kind of trade is done. I'll stop there and just say that while nothing extraordinarily happens, the vintage punchlines and gags provided by the late Mr. Schulz do work to the point of always bringing a smile and chuckle to my face in pleasing memory of growing up with such iconic characters. So on that note, Lucy Must Be Traded, Charlie Brown should provide enough enjoyment to anyone who loves these characters as much as I do.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0389128/"
+}

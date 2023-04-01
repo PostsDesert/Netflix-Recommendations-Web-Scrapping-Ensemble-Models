@@ -1,0 +1,63 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Big Bill Broonzy",
+            "url": "/name/nm1410144/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Cotton",
+            "url": "/name/nm0183098/"
+        },
+        {
+            "@type": "Person",
+            "name": "Willie Dixon",
+            "url": "/name/nm0229006/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 11,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "duration": "PT47M",
+    "genre": [
+        "Documentary",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTIwNDM4ODcxNl5BMl5BanBnXkFtZTcwOTE1MjYxMQ@@._V1_.jpg",
+    "keywords": "blues music",
+    "name": "Blues Masters",
+    "original_info": {
+        "id": "Blues Masters_1966",
+        "name": "Blues Masters",
+        "year": "1966"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "blushingalso"
+        },
+        "dateCreated": "2011-01-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0194708/"
+        },
+        "name": "Excellent background to the blues",
+        "reviewBody": "Having grown up with rock bands playing Blues songs, I have recently passed through the DVDs for Lightning in a Bottle and It Might Get Loud. One is a tribute to the blues by current popular singers from the blues genre and many others. The latter has Jimmy Page, the Edge and Jack White providing their guitar roots and love for the blues.\n\nHaving seen the joy provided in those two DVDs it was great going back to see two original blues history DVDs, one solely about Robert Johnson and this one, Blues Masters, which covers much more. Setting the history surrounding the evolution of the Blues as well as performances captured in the film of the times, this production fills in all the knowledge that I had, the names and the songs, by seeing the actual people and their styles.\n\nI'd like to buy it to show friends who I know like the blues but also have never seen the originals, except as older folks who maybe were still playing when we were young.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0194708/"
+}

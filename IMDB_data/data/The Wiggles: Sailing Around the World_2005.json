@@ -1,0 +1,63 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Murray Cook",
+            "url": "/name/nm0177208/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeff Fatt",
+            "url": "/name/nm0268901/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anthony Field",
+            "url": "/name/nm0275888/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 12,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0120998/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0530354/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0152990/"
+        }
+    ],
+    "datePublished": "2005-07-19",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Paul Field",
+            "url": "/name/nm1415550/"
+        }
+    ],
+    "duration": "PT1H14M",
+    "genre": [
+        "Family",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNWY3M2IyNGUtNmYzZS00YWRkLWI1NTQtYTVjNWM4MjJmOGVjXkEyXkFqcGdeQXVyODY3Njg3NTQ@._V1_.jpg",
+    "name": "The Wiggles: Sailing Around the World",
+    "original_info": {
+        "id": "The Wiggles: Sailing Around the World_2005",
+        "name": "The Wiggles: Sailing Around the World",
+        "year": "2005"
+    },
+    "url": "/title/tt7780012/"
+}

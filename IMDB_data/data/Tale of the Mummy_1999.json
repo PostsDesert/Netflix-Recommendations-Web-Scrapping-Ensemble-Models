@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jason Scott Lee",
+            "url": "/name/nm0001462/"
+        },
+        {
+            "@type": "Person",
+            "name": "Louise Lombard",
+            "url": "/name/nm0518321/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sean Pertwee",
+            "url": "/name/nm0675730/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3369,
+        "ratingValue": 4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0051258/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0265744/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0020020/"
+        },
+        {
+            "@type": "Person",
+            "name": "Keith Williams",
+            "url": "/name/nm0931041/"
+        },
+        {
+            "@type": "Person",
+            "name": "Russell Mulcahy",
+            "url": "/name/nm0611683/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Esposito",
+            "url": "/name/nm0261176/"
+        }
+    ],
+    "datePublished": "1998-09-24",
+    "description": "Centuries ago, under the sands of ancient Egypt, a Prince was buried and his tomb eternally cursed so that no man would ever again suffer from his evil ways. But hundreds of years later on a greedy search for treasure, a group of ...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Russell Mulcahy",
+            "url": "/name/nm0611683/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Adventure",
+        "Fantasy",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMWZlYzUzMDctMGU5NS00ZThhLWJlNjktNzMyNTlmNDBlNGQ4XkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_.jpg",
+    "keywords": "mummy,flashback,falling to death,detective,insanity",
+    "name": "Tale of the Mummy",
+    "original_info": {
+        "id": "Tale of the Mummy_1999",
+        "name": "Tale of the Mummy",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "moviejay-2"
+        },
+        "dateCreated": "2000-10-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0127919/"
+        },
+        "name": "Not to be confused with an actual movie.",
+        "reviewBody": "\"Tale of the Mummy\" is one wickedly bad movie. It starts off okay, with the always impressive Christopher Lee, but then it just tails off a bit, wanders around lost for a while and just goes to pot from there. It's poorly conceived and written, so poorly that I was wondering if the screenplay was written by someone who had never heard English, let alone spoke it. The incredible thing about this mess is that it actually got released, usually when a company makes a movie this bad they hide it on the shelf for a few years and then melt it down to make ash trays. I suppose that they figured that some idiot (Like me) would watch it because it has a Mummy in the title. He's not actually a mummy, per se, he's more of a bandage delivery system. I saw the box, read the title, it was a rent one, get one free situation, and I thought to myself, \"How bad can it be?\" Well, that question was answered alright, and I will never subject myself to this kind of deep, deep pain again. If you do watch this film and it does cause you to feel great discomfort in your head, don't worry, it's just your brain leaving in disgust."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT1M2S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi835755545",
+        "name": "Russell Mulcahy's Tale of the Mummy",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDlkYmY1NjAtNjU5OC00MzI4LWJhYmQtODA2NGMwOTNiMGY5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDlkYmY1NjAtNjU5OC00MzI4LWJhYmQtODA2NGMwOTNiMGY5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2011-10-26T03:44:01Z",
+        "url": "https://www.imdb.com/video/vi835755545/"
+    },
+    "url": "/title/tt0127919/"
+}

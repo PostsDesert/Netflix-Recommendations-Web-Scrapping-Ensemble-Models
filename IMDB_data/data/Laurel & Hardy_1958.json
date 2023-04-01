@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Frances McDormand",
+            "url": "/name/nm0000531/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alessandro Nivola",
+            "url": "/name/nm0005273/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christian Bale",
+            "url": "/name/nm0000288/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 17120,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0014453/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0007554/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0011355/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lisa Cholodenko",
+            "url": "/name/nm0158966/"
+        }
+    ],
+    "datePublished": "2003-03-28",
+    "description": "When an uptight young man and his fiancée move into his libertine mother's house, the resulting clash of life attitudes shakes everyone up.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Lisa Cholodenko",
+            "url": "/name/nm0158966/"
+        }
+    ],
+    "duration": "PT1H43M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTgxMjMxMDA2Ml5BMl5BanBnXkFtZTYwMjE5MTI3._V1_.jpg",
+    "keywords": "boyfriend girlfriend relationship,united states of america,one male two females threesome,rock 'n' roll,f rated",
+    "name": "Laurel Canyon",
+    "original_info": {
+        "id": "Laurel & Hardy_1958",
+        "name": "Laurel & Hardy",
+        "year": "1958"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "nowrabase"
+        },
+        "dateCreated": "2010-11-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0298408/"
+        },
+        "name": "Very impressed; tight script and great character acting",
+        "reviewBody": "This is a really interesting movie; not quite sure why or how it hasn't received more kudos that it has. The plot is not for the faint hearted when it comes to issues of sexuality and nor is the language. But if one is of a mature age and attitude; this is well worth watching. This is an ensemble performance so I wont single out any single actor for particular comment; the sound track is integral to the film and while present, does not overwhelm. One of the interesting aspects of this film is how it deals with age. Ultimately this film is about reality and ambiguity of relationships and the importance of honest and as such it about life. Highly recommended.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Sony Pictures Classics",
+        "duration": "PT2M6S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2039611673",
+        "name": "Laurel Canyon",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZWU0OGViZDgtNmI3Yy00NjhhLWI1YzUtNWZjYmU3MzI2MjcwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZWU0OGViZDgtNmI3Yy00NjhhLWI1YzUtNWZjYmU3MzI2MjcwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:46:32Z",
+        "url": "https://www.imdb.com/video/vi2039611673/"
+    },
+    "url": "/title/tt0298408/"
+}

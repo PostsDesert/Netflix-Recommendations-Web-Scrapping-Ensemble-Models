@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Simon Baker",
+            "url": "/name/nm0048932/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anna Friel",
+            "url": "/name/nm0295484/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nick Stahl",
+            "url": "/name/nm0001763/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1725,
+        "ratingValue": 5.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0017497/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0079747/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0038102/"
+        },
+        {
+            "@type": "Person",
+            "name": "Randall Jahnson",
+            "url": "/name/nm0415745/"
+        },
+        {
+            "@type": "Person",
+            "name": "Russell DeGrazier",
+            "url": "/name/nm0214825/"
+        }
+    ],
+    "datePublished": "2000-08-18",
+    "description": "A comedy that takes place over twenty-four hours on the Sunset Strip, in 1972.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Adam Collis",
+            "url": "/name/nm0172781/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BM2MzMTM5NzEtOGY2NC00OGMxLWFhNTctNWU2NTgyN2I2YmUzXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_.jpg",
+    "keywords": "timeframe 1970s,hollywood,sunset strip,songwriter,sex",
+    "name": "Sunset Strip",
+    "original_info": {
+        "id": "Sunset Strip_2000",
+        "name": "Sunset Strip",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "attic_pub"
+        },
+        "dateCreated": "2001-11-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0178050/"
+        },
+        "name": "I got sucked in",
+        "reviewBody": "Well its like this, all I needed to read on the back of the box was \"if you like Boogie Nights, you will love this\"...NOT. What an excellent idea for a movie, 70's Hollywood club scene and the people trying to break into the biz....to bad it never delivered. Oh and by the way...it says it has a great 70's sound track playing through out? I think I recognized one song."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "HV-post",
+        "duration": "PT1M57S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3180593433",
+        "name": "Sunset Strip (2000)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTU4ZjY3NjMtZTIxNS00ZDdjLTkwZjEtZTJhNmNiMWQxZGNhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTU4ZjY3NjMtZTIxNS00ZDdjLTkwZjEtZTJhNmNiMWQxZGNhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:55:32Z",
+        "url": "https://www.imdb.com/video/vi3180593433/"
+    },
+    "url": "/title/tt0178050/"
+}

@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Susan Sarandon",
+            "url": "/name/nm0000215/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sam Shepard",
+            "url": "/name/nm0001731/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nick Stahl",
+            "url": "/name/nm0001763/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1316,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0046718/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0092551/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ellyn Bache",
+            "url": "/name/nm0045398/"
+        },
+        {
+            "@type": "Person",
+            "name": "Deena Goldstone",
+            "url": "/name/nm0326356/"
+        }
+    ],
+    "datePublished": "1995-01-06",
+    "description": "A mother with seven sons feels like she's losing control of her life and her family. But personal pain and a troubled marriage fade into the background as news comes that one of her sons might have died in an accident.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Allan Ackerman",
+            "url": "/name/nm0010012/"
+        }
+    ],
+    "duration": "PT1H38M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTI1ODdiYWYtYTI0MC00OWY3LTg3YjAtODYzYTJlZjQ0YmY0XkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_.jpg",
+    "keywords": "dysfunctional family,cartoon on tv,pain,marriage,worrying",
+    "name": "Safe Passage",
+    "original_info": {
+        "id": "Safe Passage_1994",
+        "name": "Safe Passage",
+        "year": "1994"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "nitedrive73"
+        },
+        "dateCreated": "2006-08-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0111054/"
+        },
+        "name": "An unusual family",
+        "reviewBody": "Being the mother of six children myself(so far)I feel it's great to find a movie where a mother,especially one of many kids,is made visible,as a person in her own right and not just as a bystander and comfort for the rest of the family.Usually it isn't such an attractive theme for a film maker(not being so glamorous and all),but here Susan Sarandon(grown up in a large family herself)portrays a mother of seven sons with great credibility. Maybe not one of those movies you watch for an hour or two of escapism and action,but well worth your time.Maybe I wouldn't have enjoyed it so much if a)it hadn't been a Sarandon movie b)I hadn't had many kids myself. But I can't help liking it.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from New Line Cinema",
+        "duration": "PT3M",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2038759705",
+        "name": "Safe Passage",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODdhNjQ1MTEtNzQyMi00ZjgxLTg2N2EtNDZmMGIwMTAwM2JjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODdhNjQ1MTEtNzQyMi00ZjgxLTg2N2EtNDZmMGIwMTAwM2JjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:57:18Z",
+        "url": "https://www.imdb.com/video/vi2038759705/"
+    },
+    "url": "/title/tt0111054/"
+}

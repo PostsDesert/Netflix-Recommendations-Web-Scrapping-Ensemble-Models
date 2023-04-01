@@ -1,0 +1,56 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Matthew Stanton",
+            "url": "/name/nm1285846/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Wilson",
+            "url": "/name/nm1369595/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marisabel Marratt",
+            "url": "/name/nm1371388/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 18,
+        "ratingValue": 4,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Person",
+            "name": "Kreg Thornley",
+            "url": "/name/nm1182619/"
+        }
+    ],
+    "datePublished": "2002-06-28",
+    "description": "A couch potato finds a movie on television he's been wanting to see for a long time. But a religious nut knocks on his door and refuses to leave him alone.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Kreg Thornley",
+            "url": "/name/nm1182619/"
+        }
+    ],
+    "duration": "PT8M",
+    "genre": [
+        "Comedy",
+        "Short"
+    ],
+    "name": "The Faith Healer's Manual for the Slightly Inebriated",
+    "original_info": {
+        "id": "The Healer_2002",
+        "name": "The Healer",
+        "year": "2002"
+    },
+    "url": "/title/tt0359247/"
+}

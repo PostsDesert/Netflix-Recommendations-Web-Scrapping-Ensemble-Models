@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tom Hanks",
+            "url": "/name/nm0000158/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bruce Dern",
+            "url": "/name/nm0001136/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carrie Fisher",
+            "url": "/name/nm0000402/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 78732,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0003687/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dana Olsen",
+            "url": "/name/nm0647615/"
+        }
+    ],
+    "datePublished": "1989-02-17",
+    "description": "An overstressed suburbanite and his neighbors are convinced that the new family on the block is part of a murderous Satanic cult.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Joe Dante",
+            "url": "/name/nm0001102/"
+        }
+    ],
+    "duration": "PT1H42M",
+    "genre": [
+        "Comedy",
+        "Mystery",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNWE1OGExYzQtYzRjOS00MmJhLWE3OTYtZjkzOTNlMjJlZTQ4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_.jpg",
+    "keywords": "neighborhood,suspicious neighbor,spying on neighbor,reference to banff canada,teenager",
+    "name": "The 'Burbs",
+    "original_info": {
+        "id": "The 'Burbs_1989",
+        "name": "The 'Burbs",
+        "year": "1989"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Aaron1375"
+        },
+        "dateCreated": "2009-07-09",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0096734/"
+        },
+        "name": "The burb's is a rarity...a black comedy I enjoyed.",
+        "reviewBody": "I generally do not like the movie format and category of the black comedy. Usually, they become so dark that they cease to be funny or entertaining to me...a good example of this is \"War of the Roses\". There have been some that I enjoyed though and this is one of them. I usually like the ones that only really edge towards the dark side a bit and I would say this one does that. It kind of goes into horror at times, but still remains funny unlike another black horror/comedy \"Parents\" with Randy Quaid. This film features a new family moving into a very old and not so attractive house. These newcomers are under immediate scrutiny and suspicion as they move in the middle of the night, do not do anything to really fix up the place, and are generally strange looking when some of the people in the neighborhood pay them a visit. Tom Hanks character is not really suspicious at first till his crazy neighbor and a paranoid one convince there is something up with the new family in the burbs. You get many funny scenes as these guys try to find proof that the new family is as strange as they look and are in fact up to something as the poodle a man who lives in the neighborhood shows up dirty and the neighbor ends up missing. The movie plays out rather good and is funny for the most part, at times it becomes a bit to dark as most black comedies tend to do. The cast is very funny and I think this is like the only movie I have seen Carrie Fisher in besides the Star Wars trilogy. Bruce Dern to me steals the show in terms of comedy followed by the neighbor who deduces the bone is human. Not sure of his name or any other movies he has done prior to or since this one. Even Corey Feldman does a rather good job. So all in all this is a nice trip to the burbs.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT1M37S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3296836121",
+        "name": "Theatrical Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjliOGJjNzQtMDk2Mi00NDNjLTlmYzctYzc3ZGUwMGQ4ODcwXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjliOGJjNzQtMDk2Mi00NDNjLTlmYzctYzc3ZGUwMGQ4ODcwXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+        "uploadDate": "2018-10-23T20:10:31.661Z",
+        "url": "https://www.imdb.com/video/vi3296836121/"
+    },
+    "url": "/title/tt0096734/"
+}

@@ -1,0 +1,89 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Forest Whitaker",
+            "url": "/name/nm0001845/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chris Britton",
+            "url": "/name/nm0110167/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jonathan Silverman",
+            "url": "/name/nm0001738/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 526,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Person",
+            "name": "Michael D'Antonio",
+            "url": "/name/nm1256877/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Wesley",
+            "url": "/name/nm0921759/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frank Military",
+            "url": "/name/nm0587494/"
+        }
+    ],
+    "datePublished": "2003-02-16",
+    "description": "In a Louisiana town in 1964, local African-Americans band together to protect themselves from violence - from the KKK as well as local police. Based on actual events.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bill Duke",
+            "url": "/name/nm0004886/"
+        }
+    ],
+    "duration": "PT1H18M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZDE0MmQ4ZTItNjcwNy00OWRhLTgyYTctMmU4Y2U3YjliZjYwXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+    "keywords": "ku klux klan,docudrama,civil rights movement,vigilante,based on true story",
+    "name": "Deacons for Defense",
+    "original_info": {
+        "id": "Deacons for Defense_2003",
+        "name": "Deacons for Defense",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "The Gryphon"
+        },
+        "dateCreated": "2005-08-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0335034/"
+        },
+        "name": "Accurate depiction of the events in my hometown",
+        "reviewBody": "I was born in Bogalusa, Louisiana (the lumber town depicted in \"Deacons for Defense\") and lived through the events depicted in this movie. I can attest to the fact that it is very factually recounted. The tension between the blacks and the whites during that time were very high and emotionally charged. As a child I was taught by my Klansman father that black people were to be hated. For whatever reason that never really rang true to me and I refused to hate. It's so strange to look back objectively on a movie like this that reopens those old wounds. It's about the black citizens of Bogalusa who form a group intending to protect themselves from the bigotry that envelops the city and the tough choices they had to make going into this situation with little or no backup from the city police or the elected politicians in the area. It's really a very good movie.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0335034/"
+}

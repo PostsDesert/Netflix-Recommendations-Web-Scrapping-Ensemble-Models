@@ -1,0 +1,110 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jack Nicholson",
+            "url": "/name/nm0000197/"
+        },
+        {
+            "@type": "Person",
+            "name": "Shelley Duvall",
+            "url": "/name/nm0001167/"
+        },
+        {
+            "@type": "Person",
+            "name": "Danny Lloyd",
+            "url": "/name/nm0515950/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1039456,
+        "ratingValue": 8.4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0113563/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0025454/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen King",
+            "url": "/name/nm0000175/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stanley Kubrick",
+            "url": "/name/nm0000040/"
+        },
+        {
+            "@type": "Person",
+            "name": "Diane Johnson",
+            "url": "/name/nm0424956/"
+        }
+    ],
+    "datePublished": "1980-06-13",
+    "description": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Stanley Kubrick",
+            "url": "/name/nm0000040/"
+        }
+    ],
+    "duration": "PT2H26M",
+    "genre": [
+        "Drama",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "haunted hotel,labyrinth,identical twins,hotel,typewriter",
+    "name": "The Shining",
+    "original_info": {
+        "id": "The Shining_1980",
+        "name": "The Shining",
+        "year": "1980"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "hanniballe11752"
+        },
+        "dateCreated": "2002-01-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0081505/"
+        },
+        "name": "A masterpiece of psychological horror",
+        "reviewBody": "Stephen King may have said the master director knew nothing about horror, but that simply is not true. That is a too biased opinion for anyone to go on given that he wrote the book, which Kubrick based his wonderful film ever so loosely on. And at any rate, faithful or not, KUBRICK's Shining-the BEST crafted genre film of the 80's- performs it's duty as a fright flick, and then some.\n\nThere are appropriately no words strong enough to convey the haunting beauty of the visuals showcased throughout the movie, from the drive to the Overlook to the final chase in the hedgemaze the movie is a feast for the eyes as it is for the mind. And it IS a feast for the mind as The Shining is as psychological as horror gets, toying relentlessly, and expertly with your emotions and expectations(some could even say SADISTICALLY), throwing something in that's completely out of left field and never, ever letting you catch your breath between the now classic shocks as the movie speeds toward it's memorable conclusion in the last half hour.\n\nKudos are in order for Kubrick, a director of the old school style, who builds an eerie atmosphere by exercising total control over the filmic environment, manipulating everything down to the tiniest detail to suit the needs of the picture, yet filming with a coldly detatched, objective eye, as though Kubrick were making a documentary about these events. This would account for the dialouge, which-thankfully-is not the typical phoney balloney Hollywood banter (Kubrick detractors/King purists usually bitch about this the most, having been weaned on the phony nature of 'Hollywood talk', which is usually nothing at all like real talk. Many of us speak 'on the nose', and do not try to convey subtext through use of carefully chosen words that articulate our state of being without being direct.) In this light, Shelley Duvall must be commended for her performance which is very naturalistic. It does not seem like acting at all. She is not concerned with glamour, nor does she clutter her performance with typical acting chops, but rather she is solely focussed on hitting the emotional highpoints of her character as 'Wendy' gradually comes to realize that her husband is a madman. And let's face it folks, how many of us would like a million bucks when placed in a situation like that? Who does NOT look like a blubbering idiot when they are hysterical? That's what I thought, so what did you expect? She was great. To say nothing of the rest of the cast."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer 1",
+        "duration": "PT54S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2689121305",
+        "name": "The Shining",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BN2NmM2ZlMmMtN2Q0MS00N2FkLWE4NzUtMzljNTIyNGJjNmE0XkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BN2NmM2ZlMmMtN2Q0MS00N2FkLWE4NzUtMzljNTIyNGJjNmE0XkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg",
+        "uploadDate": "2019-08-16T17:09:16.683Z",
+        "url": "https://www.imdb.com/video/vi2689121305/"
+    },
+    "url": "/title/tt0081505/"
+}

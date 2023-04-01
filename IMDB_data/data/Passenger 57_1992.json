@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Wesley Snipes",
+            "url": "/name/nm0000648/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bruce Payne",
+            "url": "/name/nm0668271/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tom Sizemore",
+            "url": "/name/nm0001744/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 49131,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stewart Raffill",
+            "url": "/name/nm0706296/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dan Gordon",
+            "url": "/name/nm0330108/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Loughery",
+            "url": "/name/nm0521739/"
+        }
+    ],
+    "datePublished": "1992-11-06",
+    "description": "An airline security expert must take action when he finds himself trapped on a passenger jet when terrorists seize control of it.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Kevin Hooks",
+            "url": "/name/nm0393661/"
+        }
+    ],
+    "duration": "PT1H24M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTIwYzBjZjctMDU4NS00MDUzLTk4MWUtNjdjZGNlMzVjZWFiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "murder of an innocent person,terrorist,courage,psychopath,race against time",
+    "name": "Passenger 57",
+    "original_info": {
+        "id": "Passenger 57_1992",
+        "name": "Passenger 57",
+        "year": "1992"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "sol-"
+        },
+        "dateCreated": "2017-09-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0105104/"
+        },
+        "name": "Fly Hard with a Vengeance",
+        "reviewBody": "When terrorists take over a passenger plane while he is in the bathroom, it is up to an airline security specialist to thwart them in this action thriller clearly modeled on 'Die Hard'. Given the familiarity of the basic scenario, 'Passenger 57' is a surprisingly entertaining affair with Bruce Payne making for a memorable charismatic chief villain, plus there are several well coordinated action scenes that take into account the inherent claustrophobia of being in a plane. With this in mind, it seems quite uncanny how much of the action takes place outside the plane with several minutes spent on a chase through a fairground before the characters find themselves in the air once again. The dialogue is also hardly first rate with the film sorely missing the wit that Bruce Willis brought to the 'Die Hard' movies. Something interesting though is that the film is set up to be a redemption movie with protagonist Wesley Snipes haunted by the death of his wife at the hands of a criminal, and yet the film avoids setting up a near-identical scene to give him a chance to act differently, with Snipes instead having to find an alternative path to redemption. The ending feels more than a little rushed though with limited time spent on Snipes and Payne going head to head. This is an extraordinary short movie too, clocking in at just over 80 minutes, but at least it never outstays its welcome.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4271833369",
+        "name": "Passenger 57",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BN2M1MTBlZGEtMzRjZS00NzNmLWEwNWItYjIwODQzNTJmNzU0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BN2M1MTBlZGEtMzRjZS00NzNmLWEwNWItYjIwODQzNTJmNzU0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:37:20Z",
+        "url": "https://www.imdb.com/video/vi4271833369/"
+    },
+    "url": "/title/tt0105104/"
+}

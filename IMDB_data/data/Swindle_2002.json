@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tom Sizemore",
+            "url": "/name/nm0001744/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sherilyn Fenn",
+            "url": "/name/nm0000145/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Foley",
+            "url": "/name/nm0004929/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1002,
+        "ratingValue": 5.4,
+        "worstRating": 1
+    },
+    "alternateName": "Swindle",
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0054668/"
+        },
+        {
+            "@type": "Person",
+            "name": "K.C. Bascombe",
+            "url": "/name/nm0059686/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nick Seferian",
+            "url": "/name/nm0781709/"
+        }
+    ],
+    "datePublished": "2004-04-12",
+    "description": "Four thieves attempt to make the richest score in history.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "K.C. Bascombe",
+            "url": "/name/nm0059686/"
+        }
+    ],
+    "duration": "PT1H33M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYzkxMzVjZjktYmZkMS00NDUxLThlMWEtMGM1N2YzZDE1ODI1XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+    "keywords": "elvis impersonator,bank robbery,voice over narration,flashback,diner",
+    "name": "$windle",
+    "original_info": {
+        "id": "Swindle_2002",
+        "name": "Swindle",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "emilyroberts600"
+        },
+        "dateCreated": "2010-03-31",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0190938/"
+        },
+        "name": "Funky precursor to CSI genre, TV B movie with cool music",
+        "reviewBody": "$windle is a cool, funky movie I landed on by accident watching TV, when I couldn't fall asleep. I was instantly captivated and entertained by the large number of clichés. I guess it was all tongue in cheek from the get go as far as cop shows roll. I love cop shows. For those of you who can read between the lines, and love CSI,loved Snatch, it would seem like this unpretentious flick could be one of the precursors to the CSI genre. A borderline cheesy cult B movie made in 2002, starring Tom Sizemore (Natural Born Killers) and an semi-serious performance by comedian Dave Foley (Kids In The Hall)I don't want to create anticipation or spoil the plot. It's light weight in a fun way.\n\nI wish there were more of those movies around in 2010, to pad those sleepless nights, zapping through infomercials. We love the cheese, so I can't wait to see another cop show by KC Bascombe. On a final note, I really loved the music score throughout, and had to go and find that El Camino song by E.P. Bergen that now plays on my I Pod all the time.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Swindle is a sexy action-packed caper film about four thieves attempting to pull off what could be the richest heist in world history: the printing plates of the new Euro currency. What they don't realize is that there is an undercover cop among the gang ",
+        "duration": "PT2M7S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2255946265",
+        "name": "Swindle",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjE1NzQwMjQyNl5BMl5BanBnXkFtZTcwNzU4MjU4Mg@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjE1NzQwMjQyNl5BMl5BanBnXkFtZTcwNzU4MjU4Mg@@._V1_.jpg",
+        "uploadDate": "2009-09-23T08:46:03Z",
+        "url": "https://www.imdb.com/video/vi2255946265/"
+    },
+    "url": "/title/tt0190938/"
+}

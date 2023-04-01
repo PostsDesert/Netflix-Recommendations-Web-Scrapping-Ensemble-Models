@@ -1,0 +1,117 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Goodman",
+            "url": "/name/nm0000422/"
+        },
+        {
+            "@type": "Person",
+            "name": "Haley Joel Osment",
+            "url": "/name/nm0005286/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tony Jay",
+            "url": "/name/nm0419645/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 16994,
+        "ratingValue": 5.3,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0139500/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0030830/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0092035/"
+        },
+        {
+            "@type": "Person",
+            "name": "Karl Geurs",
+            "url": "/name/nm0315324/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carter Crocker",
+            "url": "/name/nm0188349/"
+        },
+        {
+            "@type": "Person",
+            "name": "Evan Spiliotopoulos",
+            "url": "/name/nm0818746/"
+        }
+    ],
+    "datePublished": "2003-02-14",
+    "description": "Mowgli, missing the jungle and his old friends, runs away from the man village unaware of the danger he's in by going back to the wild.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Steve Trenbirth",
+            "url": "/name/nm0872045/"
+        }
+    ],
+    "duration": "PT1H12M",
+    "genre": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDk2NTk1NzQxN15BMl5BanBnXkFtZTYwMDMyMTg5._V1_.jpg",
+    "keywords": "torn between two worlds,altered version of studio logo,tomboy,shotgun,no opening credits",
+    "name": "The Jungle Book 2",
+    "original_info": {
+        "id": "The Jungle Book 2_2003",
+        "name": "The Jungle Book 2",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "disdressed12"
+        },
+        "dateCreated": "2010-04-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0283426/"
+        },
+        "name": "mildly entertaining",
+        "reviewBody": "this sequel pales in comparison to the classic and much loved original.the story(such as it is)is pretty lame,and doesn't really have a point,and most of the songs are lacklustre.still,the movie was mildly amusing and had a few funny moments.since it was released about thirty six years after the original,some of the original characters from the the first movie did not have the same voice talents,which is a shame.anyway,in my opinion,they should have just stuck with the original classic,instead of releasing a lacklustre sequel.though,to be fair,this sequel is not as bad as many of the direct to video sequels that Disney has and will continue to churn out.so i guess that's something.then again,this one should not have been released theatrically either.for me,The Jungle Book 2 is a 5/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Mowgli, missing the jungle and his old friends, runs away from the man village unaware of the danger he's in by going back to the wild.",
+        "duration": "PT1M30S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2446967577",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMGQ1YzU2NjUtOTA5Ni00OWVmLWI5MjAtMWI3MDQ5MDFlNDdjXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMGQ1YzU2NjUtOTA5Ni00OWVmLWI5MjAtMWI3MDQ5MDFlNDdjXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-12-01T15:51:59.765Z",
+        "url": "https://www.imdb.com/video/vi2446967577/"
+    },
+    "url": "/title/tt0283426/"
+}

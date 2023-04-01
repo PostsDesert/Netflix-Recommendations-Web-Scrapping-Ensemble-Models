@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Al Pacino",
+            "url": "/name/nm0000199/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Randolph",
+            "url": "/name/nm0709907/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jack Kehoe",
+            "url": "/name/nm0444955/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 126781,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0054778/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0001584/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Maas",
+            "url": "/name/nm0530995/"
+        },
+        {
+            "@type": "Person",
+            "name": "Waldo Salt",
+            "url": "/name/nm0759029/"
+        },
+        {
+            "@type": "Person",
+            "name": "Norman Wexler",
+            "url": "/name/nm0923319/"
+        }
+    ],
+    "datePublished": "1973-12-05",
+    "description": "An honest New York cop named Frank Serpico blows the whistle on rampant corruption in the force only to have his comrades turn against him.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Sidney Lumet",
+            "url": "/name/nm0001486/"
+        }
+    ],
+    "duration": "PT2H10M",
+    "genre": [
+        "Biography",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTRkNjg3YzQtNGE3NC00M2U1LTg1ODItNmM3ZjMyOTYzYjEwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "police corruption,police,corruption,new york city,undercover cop",
+    "name": "Serpico",
+    "original_info": {
+        "id": "Serpico_1973",
+        "name": "Serpico",
+        "year": "1973"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Derek237"
+        },
+        "dateCreated": "2003-06-05",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0070666/"
+        },
+        "name": "Sure, The Godfather made Al Pacino a star, but Serpico kept him one",
+        "reviewBody": "Al Pacino is one of the best actors around, and he has many definitive roles. His role as Frank Serpico is certainly one of them. He acts with such charm and smoothness in some scenes, while explosive and intense in others.\n\nThe movie gets into a big plot line about police corruption and Serpico blowing the whistle on the department. It's interesting and the whole point of the movie, but the reason this is such a good movie is because of the character, not the plot. The better scenes include Serpico's personal life and struggles. There's one great part where he explains to his girlfriend why he's always wanted to be a cop. It's scenes like those that make you sympathetic for him.\n\nSidney Lumet and Pacino made a great team for this movie, and proved to be a great team for Dog Day Afternoon a few years later. But as good as a director Lumet is, as good as everyone involved with this movie is, this is Pacino's movie. It's an essential viewing for his fans.\n\nMy rating: 9/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT4M14S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1619638809",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNmU0ZjE1NWQtMWE2Ny00OTc3LTkwMGItOGU4ZWRiNjE5NmYwXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNmU0ZjE1NWQtMWE2Ny00OTc3LTkwMGItOGU4ZWRiNjE5NmYwXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+        "uploadDate": "2018-10-29T19:06:56.434Z",
+        "url": "https://www.imdb.com/video/vi1619638809/"
+    },
+    "url": "/title/tt0070666/"
+}

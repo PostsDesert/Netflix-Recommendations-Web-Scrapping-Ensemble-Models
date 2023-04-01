@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Woody Allen",
+            "url": "/name/nm0000095/"
+        },
+        {
+            "@type": "Person",
+            "name": "Diane Keaton",
+            "url": "/name/nm0000473/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tony Roberts",
+            "url": "/name/nm0731634/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 269150,
+        "ratingValue": 8,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0008432/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0100349/"
+        },
+        {
+            "@type": "Person",
+            "name": "Woody Allen",
+            "url": "/name/nm0000095/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marshall Brickman",
+            "url": "/name/nm0108613/"
+        }
+    ],
+    "datePublished": "1977-04-20",
+    "description": "Alvy Singer, a divorced Jewish comedian, reflects on his relationship with ex-lover Annie Hall, an aspiring nightclub singer, which ended abruptly just like his previous marriages.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Woody Allen",
+            "url": "/name/nm0000095/"
+        }
+    ],
+    "duration": "PT1H33M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZDg1OGQ4YzgtM2Y2NS00NjA3LWFjYTctMDRlMDI3NWE1OTUyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "breaking the fourth wall,anhedonia,existential crisis,neurosis,character name in title",
+    "name": "Annie Hall",
+    "original_info": {
+        "id": "Annie Hall_1977",
+        "name": "Annie Hall",
+        "year": "1977"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "boycebrown-1"
+        },
+        "dateCreated": "2004-05-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0075686/"
+        },
+        "name": "Witty and Charming, one of Allen's greatest achievements.",
+        "reviewBody": "Annie Hall is a movie about life. In recent films, there are fairly predictable endings. (i.e. guy gets girl after chase scene in Manhattan). Annie Hall goes against the grain of movies. There is definite chemistry between Allen and Keaton. That is one of the main reasons this movie is successful. Alvy and Annie do not have high wage jobs, they do not go clubbing, nor are they incredibly attractive. Why does a movie character relationship have to be so extreme it's unconvincing? These days movie producers create plots that are unbelievable. They don't have any depth and usually have shallow intentions. You can sense that the two leads care for each other. The situations in this movie resemble real life and that is why it is so critically acclaimed and remembered. Sure Woody talked into the camera, but that, in a sense is real life as well. It reminds me of my usual thought process and how when I think; I feel as though I'm presenting my thoughts to myself. Only he is, presenting it to us. This movie is clever and thought provoking. If you're looking for the opposite of a yearly run of the mill movie, this is for you.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "'Emperor' star Kat Graham has seen this movie more than any other, would love to see this show's cast turn into vampires, and was inspired by this iconic Hollywood actress.",
+        "duration": "PT3M46S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2610150937",
+        "name": "'Emperor' Star Kat Graham Was Inspired by This Hollywood Icon",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMDlkZTM1MDktYzk1Yy00MjIxLWEwODctMzk2MWZkMjRiNjU0XkEyXkFqcGdeQWpnYW1i._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDlkZTM1MDktYzk1Yy00MjIxLWEwODctMzk2MWZkMjRiNjU0XkEyXkFqcGdeQWpnYW1i._V1_.jpg",
+        "uploadDate": "2020-03-19T23:05:49.352Z",
+        "url": "https://www.imdb.com/video/vi2610150937/"
+    },
+    "url": "/title/tt0075686/"
+}

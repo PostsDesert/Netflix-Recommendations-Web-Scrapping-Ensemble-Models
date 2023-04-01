@@ -1,0 +1,61 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jim Abbott",
+            "url": "/name/nm0007993/"
+        },
+        {
+            "@type": "Person",
+            "name": "Elaine Andrews",
+            "url": "/name/nm0028649/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrea Anthony",
+            "url": "/name/nm0030821/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 28,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0128893/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eric Cooper",
+            "url": "/name/nm0178022/"
+        }
+    ],
+    "datePublished": "1998-09-19",
+    "description": "What if Jesus came now, rather then when he did? We channel surf news reports surrounding the last week of Jesus' life, as seen through the eyes of the media. Rumors, facts, and half-truths fly around interchangeably on nightly ne...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Eric Cooper",
+            "url": "/name/nm0178022/"
+        }
+    ],
+    "duration": "PT30M",
+    "genre": [
+        "Short",
+        "Comedy"
+    ],
+    "keywords": "satire comedy,satire",
+    "name": "Jesus 2000",
+    "original_info": {
+        "id": "Jesus_2000",
+        "name": "Jesus",
+        "year": "2000"
+    },
+    "url": "/title/tt0170079/"
+}

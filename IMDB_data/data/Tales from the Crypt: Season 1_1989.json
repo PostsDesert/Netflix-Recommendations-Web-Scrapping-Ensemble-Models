@@ -1,0 +1,89 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Kassir",
+            "url": "/name/nm0440885/"
+        },
+        {
+            "@type": "Person",
+            "name": "Roy Brocksmith",
+            "url": "/name/nm0110735/"
+        },
+        {
+            "@type": "Person",
+            "name": "Miguel Ferrer",
+            "url": "/name/nm0001208/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 25367,
+        "ratingValue": 8,
+        "worstRating": 1
+    },
+    "contentRating": "TV-MA",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0008693/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0064598/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steven Dodd",
+            "url": "/name/nm9763733/"
+        }
+    ],
+    "datePublished": "1989-06-10",
+    "description": "Tales of horror based on the gruesome E.C. comic books of the 1950s presented by the legendary Crypt Keeper, a sinister ghoul obsessed with gallows humor and horrific puns.",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BM2M3YWRkN2MtZDg5OC00NmRmLTliNzctMTBkZjQzZTlkYmQ0XkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
+    "keywords": "anthology,irony,surprise ending,reference to tombstone arizona,reference to arizona",
+    "name": "Tales from the Crypt",
+    "original_info": {
+        "id": "Tales from the Crypt: Season 1_1989",
+        "name": "Tales from the Crypt: Season 1",
+        "year": "1989"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "lee_eisenberg"
+        },
+        "dateCreated": "2005-10-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0096708/"
+        },
+        "name": "Remember, kiddies: hee hee hee!",
+        "reviewBody": "There have been many shows that were never intended to be taken seriously, but \"Tales from the Crypt\" brings the idea to a whole new level. Each episode begins by descending into what appears to be a haunted house, where we get introduced to the delightfully creepy Crypt Keeper. He explains (as sardonically as possible) what we're about to watch. Then, each episode tells a story involving a really nasty situation; some involve monsters, others involve people doing really unpleasant things, but they all make one laugh. I really liked the episode where Don Rickles played a most unusual puppeteer, and also the episode where Christopher Reeve opened a restaurant...of sorts. Granted, this show was kind of ridiculous, but they never lost their timing, even with the Crypt Keeper's silly remarks. Just remember that, kiddies. Hee hee hee!"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT58S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi948437273",
+        "name": "Tales from the Crypt: The Complete Seasons 1&2",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNWI2YzM4MmQtOTlhOS00ZTUwLWE4ZjctMWIzMGNjZTk2MmFhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNWI2YzM4MmQtOTlhOS00ZTUwLWE4ZjctMWIzMGNjZTk2MmFhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:06:03Z",
+        "url": "https://www.imdb.com/video/vi948437273/"
+    },
+    "url": "/title/tt0096708/"
+}

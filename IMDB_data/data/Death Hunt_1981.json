@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Charles Bronson",
+            "url": "/name/nm0000314/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lee Marvin",
+            "url": "/name/nm0001511/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrew Stevens",
+            "url": "/name/nm0002989/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7874,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0015592/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0045837/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Grais",
+            "url": "/name/nm0334457/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Victor",
+            "url": "/name/nm0896131/"
+        }
+    ],
+    "datePublished": "1981-05-21",
+    "description": "In 1931 Canada, Yukon trapper Johnson has a feud with a dog owner who later retaliates by publicly accusing Johnson of murder and thus triggering a police manhunt in the wilderness.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Peter R. Hunt",
+            "url": "/name/nm0402597/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZmM3NmI4ODUtYWIzYy00NTdhLWI1NGQtMTUzN2NlMWVjM2UxXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
+    "keywords": "snow adventure,fur,landscape,executor,manslaughter",
+    "name": "Death Hunt",
+    "original_info": {
+        "id": "Death Hunt_1981",
+        "name": "Death Hunt",
+        "year": "1981"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Poseidon-3"
+        },
+        "dateCreated": "2002-04-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0082247/"
+        },
+        "name": "The Mounties get their man...or do they?",
+        "reviewBody": "This is an almost forgotten film, a status which is undeserved. Loosely based on a true story, it is the tale of a lone, mysterious trapper who irks some thugs in the Canadian wilderness, leading to a massive manhunt by the Mounties. Bronson (virtually silent throughout and thus quite effective) is a resourceful target, at once gentle and violent. Marvin is the grizzled head of the mounted police who has the task of tracking down and capturing a man with whom he can identify. Their unspoken understanding is fascinating to see. Marvin is aided by a wet-behind-the-ears, by-the-book officer played by Stevens. It would be hard to imagine a more adorable sight than fresh-scrubbed Stevens in his red uniform entering the grungy town where the police are stationed. He is gorgeous.....and quite a fine actor. It is a shame that he wasn't able to get to a better place with his acting career. The film is peppered with a ton of familiar (if dirty) faces from old westerns of TV and film. All of the lynch mob look like people who've been guest villain on \"Bonanza\" or \"The Big Valley\". One major drawback is Dickinson. It's hard to believe that someone can be miscast in a role as tiny as this one, but she is. Her anachronistic teased hair drains what little 1930's period flavor there is from the film and she is wooden in all her scenes. Apparently, she was stunt-cast because of her previous work with Marvin, but it failed miserably. There is a bit of a connection to \"Dances with Wolves\" in this film, Maury Chaykin and Tantoo Cardinal appear in both films and Bronson even develops a similar relationship with a vicious dog as Costner does with his wolf. The film is something like \"First Blood\" + \"The Fugitive\" x snow - 40 years. It is a great example of the \"Bronson versus the world\" type of film and offers a solid Marvin performance as well. There is more going on here than one might think. The final showdown is quite dramatic and suspenseful. The scenery is also great."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Anchor Bay Entertainment",
+        "duration": "PT2M32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi614531353",
+        "name": "Death Hunt",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BN2NkOTA3MjctZmU2NC00ODdlLTlmYWEtMDJhZGU3ZWEwZTk1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BN2NkOTA3MjctZmU2NC00ODdlLTlmYWEtMDJhZGU3ZWEwZTk1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T13:48:18Z",
+        "url": "https://www.imdb.com/video/vi614531353/"
+    },
+    "url": "/title/tt0082247/"
+}

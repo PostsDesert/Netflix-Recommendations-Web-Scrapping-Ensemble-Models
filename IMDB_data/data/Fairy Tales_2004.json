@@ -1,0 +1,33 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 12,
+        "ratingValue": 2.9,
+        "worstRating": 1
+    },
+    "datePublished": "2004-06-12",
+    "description": "Somehow things are never as Grimm when a gay uncle tells these girls their bedtime stories.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Goodwin",
+            "url": "/name/nm1401170/"
+        }
+    ],
+    "duration": "PT15M",
+    "genre": [
+        "Animation",
+        "Short"
+    ],
+    "keywords": "bedtime story,lesbian,gay kiss,based on fairy tale,gay interest",
+    "name": "Fairy Tales: Next Gen",
+    "original_info": {
+        "id": "Fairy Tales_2004",
+        "name": "Fairy Tales",
+        "year": "2004"
+    },
+    "url": "/title/tt0411373/"
+}

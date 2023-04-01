@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jake Gyllenhaal",
+            "url": "/name/nm0350453/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chris Cooper",
+            "url": "/name/nm0177933/"
+        },
+        {
+            "@type": "Person",
+            "name": "Laura Dern",
+            "url": "/name/nm0000368/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 93786,
+        "ratingValue": 7.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0005073/"
+        },
+        {
+            "@type": "Person",
+            "name": "Homer H. Hickam Jr.",
+            "url": "/name/nm0382573/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lewis Colick",
+            "url": "/name/nm0171474/"
+        }
+    ],
+    "datePublished": "1999-02-19",
+    "description": "The true story of Homer Hickam, a coal miner's son who was inspired by the first Sputnik launch to take up rocketry against his father's wishes.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Joe Johnston",
+            "url": "/name/nm0002653/"
+        }
+    ],
+    "duration": "PT1H48M",
+    "genre": [
+        "Biography",
+        "Drama",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODcwMGNhNGMtMTU4ZC00M2YxLWI4NTAtN2Q2OGU4NWJhNGViXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "alcohol,rocket,hope,competition,nerd",
+    "name": "October Sky",
+    "original_info": {
+        "id": "October Sky_1999",
+        "name": "October Sky",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "mrkabree"
+        },
+        "dateCreated": "2004-12-17",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0132477/"
+        },
+        "name": "A real piece of Americana, not for cynics!",
+        "reviewBody": "This is a gem, a real piece of Americana for all that this implies. If you are self programed to resist \"life-afirming\" stories, just stay away and leave the pleasure to the rest of us who still believe. And what makes the frosting on the cake truly delectable is that it is fact based on a real rags to riches story, no need to nit-pick what details were changed to make a compact story. Chris Cooper is one of the greatest living actors, and the complex, self-conflicted, bottom-line good at the core father he portrayed could only be pulled off successfully by someone with his skill and insight. The simple minded comments, refusing to accept a father who tries to lay down the law all the while sensing that he may possibly be off-track, expose the limitation of the commentator, not the writers or the acting. This is not for the cynical, or the simple minded.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "The true story of Homer Hickam, a coal miner's son who was inspired by the first Sputnik launch to take up rocketry against his father's wishes.",
+        "duration": "PT2M19S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi934920729",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjYzZmQ0OWUtYzczNC00OGEwLWI0MjMtYTAzMjUzYjQ0ODBjXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjYzZmQ0OWUtYzczNC00OGEwLWI0MjMtYTAzMjUzYjQ0ODBjXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2022-04-05T00:24:36.726Z",
+        "url": "https://www.imdb.com/video/vi934920729/"
+    },
+    "url": "/title/tt0132477/"
+}

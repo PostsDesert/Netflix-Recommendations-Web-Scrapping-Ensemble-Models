@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kurt Russell",
+            "url": "/name/nm0000621/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Baldwin",
+            "url": "/name/nm0000287/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert De Niro",
+            "url": "/name/nm0000134/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 83054,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0310123/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0078090/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gregory Widen",
+            "url": "/name/nm0927074/"
+        }
+    ],
+    "datePublished": "1991-05-24",
+    "description": "Two Chicago firefighter brothers, who don't get along, have to work together while a dangerous arsonist is on the loose.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ron Howard",
+            "url": "/name/nm0000165/"
+        }
+    ],
+    "duration": "PT2H17M",
+    "genre": [
+        "Action",
+        "Drama",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTFjOWVkNjUtYTdkOC00MGQ5LWI5OTQtMTIyYzQwN2UzMDgzXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "keywords": "firefighter,fire,arson,brother brother relationship,investigation",
+    "name": "Backdraft",
+    "original_info": {
+        "id": "Backdraft_1991",
+        "name": "Backdraft",
+        "year": "1991"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "wlmlbl"
+        },
+        "dateCreated": "2002-10-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0101393/"
+        },
+        "name": "Blockbuster Movie",
+        "reviewBody": "This is one of Ron Howard's better films. Much of the filming was done on location in Chicago. Acting was excellent. Especially by Kurt Russell and William Baldwin. I have heard a lot of negatives about this movie, but I still feel it is worth a 9 at least. Steven and Brian McCaffery's dad (also a fireman) was killed in a fire in 1971. Brian was just a youngster, and along for the ride with his dad when he was killed. Twenty years later, Brian has become a fireman after failing at other pursuits. Steven is a lieutenant with the Chicago Fire Department. Steven does not think Brian can cut the mustard as a fireman, and Brian is out to prove himself. It makes for a great sibling rivalry. On top of this, an arsonist is setting fires, and the arson investigator, Donald Rimgale (Robert DeNero) does not have a clue as to who it is. Rimgale is pressured by an egotistical alderman (J.T. Walsh) who wants to be mayor. Brian has his problems working with Steven, and finally gives up, and accepts a job working with Rimgale. They find the links between all the fires, but Brian finds out more. (who the arsonist is). The climactic scene in chemical warehouse is great! I was told by someone that the funeral scene was overdone. I don't think so...I have seen funerals for firemen and they look exactly like what you see in the movie...Universal Studios in Hollywood had a Backdraft set on their lot some years back (which I visited), and it gives you a chance to see what these actors really faced...This is without a doubt one of my favorite movies, and Ron Howard deserves his share of kudos for an excellent directing job",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for firemen drama",
+        "duration": "PT3M25S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi0722713",
+        "name": "Backdraft",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTc0Y2E2Y2ItM2NjNy00NGU2LThmZGItZWE1YWEyODc2ZjM1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTc0Y2E2Y2ItM2NjNy00NGU2LThmZGItZWE1YWEyODc2ZjM1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-05-18T14:54:18Z",
+        "url": "https://www.imdb.com/video/vi0722713/"
+    },
+    "url": "/title/tt0101393/"
+}

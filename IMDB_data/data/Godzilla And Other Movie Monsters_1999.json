@@ -1,0 +1,59 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 74,
+        "ratingValue": 6,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Person",
+            "name": "Robert Weaver",
+            "url": "/name/nm7467573/"
+        }
+    ],
+    "description": "A documentary about movie monsters.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Weaver",
+            "url": "/name/nm7467573/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODFkOThmZGUtNjM5MC00YWJhLTkyNDgtMTIxY2FlNzQ4ZTNiXkEyXkFqcGdeQXVyMTE1MTQ0NTI3._V1_.jpg",
+    "name": "Godzilla and Other Movie Monsters",
+    "original_info": {
+        "id": "Godzilla And Other Movie Monsters_1999",
+        "name": "Godzilla And Other Movie Monsters",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "wankerness"
+        },
+        "dateCreated": "2005-08-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0356649/"
+        },
+        "name": "Very amateurish and poorly researched",
+        "reviewBody": "This documentary seems like it was done under the table. Essentially it tries to be a history of giant monster movies focusing on Godzilla, but it leaves tons of gaps. For example, it claims that \"The Beginning of the End\" was the first giant bug and totally ignores \"Them.\" It pretends to be the end-all documentary on Godzilla, but seems unaware of the existence of half of those movies (it says Godzilla Vs Megalon came after the Smog Monster, and was the last Godzilla movie before 1985).\n\nIt features tons of footage from other movies, and while this is fun to watch sometimes, it is also often used when talking about history (for example, it mentions pearl harbor and then shows us about 5 minutes of the movie Tora, Tora, Tora without saying it's from a movie at all, much less that movie) or science (there are tons of clips from movies like \"The Quest for Fire\" when discussing cavemen that are also provided with no explanation or credit and go on way longer than necessary. Many of the clips from movies just go on too long...if it had been edited professionally it would have probably been about half as long. The most grievous offense in the padding department is the \"Godzilla Rap.\" Some absolutely hideous \"rap\" song about Godzilla was made for this DVD evidently, and they play THE ENTIRE THING (it's 2 or 3 minutes long) at the beginning, middle, AND end of the documentary even though it feels way too long and completely out of place the first time it's shown. It should have remained in the special features where it belongs.\n\nThere is some interest for casual genre fans, however, in that it contains footage of several movies that may never make it to English DVD (Siegfried, One Million BC, Valley of the Dragons, Frankenstein Conquers the World, Atragon, King Kong Escapes, Goliath Vs the Dragon, etc). The narration and documentary accompanying these clips is severely lacking, however, and if this had just been a compilation of the source material he got these from it would have been far more entertaining. Very amateurish and if you actually know anything about the genre it will frustrate you with the numerous inaccuracies, as well as the \"theories\" on the creation of Godzilla which manage to be incredibly obvious while being inaccurate.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 2,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0356649/"
+}

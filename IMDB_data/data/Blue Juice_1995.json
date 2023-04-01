@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sean Pertwee",
+            "url": "/name/nm0675730/"
+        },
+        {
+            "@type": "Person",
+            "name": "Catherine Zeta-Jones",
+            "url": "/name/nm0001876/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ewan McGregor",
+            "url": "/name/nm0000191/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2824,
+        "ratingValue": 5.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0065457/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Salmi",
+            "url": "/name/nm0758707/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carl Prechezer",
+            "url": "/name/nm0695693/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tim Veglio",
+            "url": "/name/nm0891972/"
+        }
+    ],
+    "datePublished": "1995-09-15",
+    "description": "JC thinks surfing is everything. His girlfriend Chloe wants him to settle down. When he decides to go surfing one night with friends from London, she throws JC out. Surfing or Chloe?",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Carl Prechezer",
+            "url": "/name/nm0695693/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTA0ZDk0ZWMtMTcxNC00NjY1LWFmNTMtNzM0MjkzMzY2ZTNjXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_.jpg",
+    "keywords": "chasing an animal,cow,nosebleed,cornwall england,disc jockey",
+    "name": "Blue Juice",
+    "original_info": {
+        "id": "Blue Juice_1995",
+        "name": "Blue Juice",
+        "year": "1995"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Kirpianuscus"
+        },
+        "dateCreated": "2022-07-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0112537/"
+        },
+        "name": "easy film",
+        "reviewBody": "The basic dilemma remains what can say about it. A film about surf, friends, love, life, aging sounds reasonable. But not so fair. It is a nice film, driven by actors, not by story, charming to silly, one of many films about nothing, attracting for name from cast and with very childish scenes ( sure, Peter Pan syndrome can be an excuse not so bad ).\n\nSo, the actors. And, with some indulgence, the story."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT1M51S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1505427737",
+        "name": "Blue Juice",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYmQ2MDljZDAtNGIxYy00OTlkLWE1NWQtZGVkM2IwOWY5Mzg1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYmQ2MDljZDAtNGIxYy00OTlkLWE1NWQtZGVkM2IwOWY5Mzg1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T12:42:42Z",
+        "url": "https://www.imdb.com/video/vi1505427737/"
+    },
+    "url": "/title/tt0112537/"
+}

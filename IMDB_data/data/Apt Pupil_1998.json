@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ian McKellen",
+            "url": "/name/nm0005212/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brad Renfro",
+            "url": "/name/nm0000605/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joshua Jackson",
+            "url": "/name/nm0005045/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 40059,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0029574/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0057712/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0023603/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen King",
+            "url": "/name/nm0000175/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brandon Boyce",
+            "url": "/name/nm0101625/"
+        }
+    ],
+    "datePublished": "1998-10-23",
+    "description": "A boy blackmails his neighbor after suspecting him to be a Nazi war criminal.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Bryan Singer",
+            "url": "/name/nm0001741/"
+        }
+    ],
+    "duration": "PT1H51M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzBhYzQxZDQtMDI2Yi00OGVlLTk2MzMtYTY5YzFmZDFhODFhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "nazi,blackmail,murder,war criminal,old man",
+    "name": "Apt Pupil",
+    "original_info": {
+        "id": "Apt Pupil_1998",
+        "name": "Apt Pupil",
+        "year": "1998"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "rpzowie"
+        },
+        "dateCreated": "2004-03-31",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0118636/"
+        },
+        "name": "Groan",
+        "reviewBody": "I sincerely hope Imdb is merely falsely reporting a rumor that Stephen King sold the film rights to Apt Pupil for $1, because Apt Pupil is one of the worst screen adaptations of a King novel. It ranks up there with Children of the Corn and, perhaps ironically worst of all, King's \"Maximum Overdrive.\"\n\nApt Pupil is one of the most chilling King works I've ever read with only Children of the Corn being scarier. It's a cat-and-mouse story of a cocky, smart American kid who discovers that man who lives near him is actually a fugitive NAZI--one of the evil high-ranking officers that has thwarted the authorities for decades. But instead of doing the obvious right thing and turning him in, the boy engages in a deadly quid-pro-quo game of blackmail: he tells \"Arthur Denker\"--real name Kurt Dussander--to tell him everything that is too explicit for the war books and magazines.\n\nThe novel has a very dark ending, which you'd expect when a person makes a critically terrible decision and then tries endlessly to cover it up. This movie almost completely sanitizes it. Further, Brad Renfro was a horrible miscast as Todd Bowden. He acts nothing like the Bowden in the book. The pacing for this film was all wrong and never allows any of the characters to sufficiently develop. Only Ian McKellan and the well-intentioned efforts of David Schwimmer save this film from being a total skunk."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Apt Pupil",
+        "duration": "PT2M32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2492962841",
+        "name": "Apt Pupil",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYmU5MjBkNjEtOGExNy00NDRkLWE3NzktMTc2OGU4NDZkY2Q1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYmU5MjBkNjEtOGExNy00NDRkLWE3NzktMTc2OGU4NDZkY2Q1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-12-11T06:05:57Z",
+        "url": "https://www.imdb.com/video/vi2492962841/"
+    },
+    "url": "/title/tt0118636/"
+}

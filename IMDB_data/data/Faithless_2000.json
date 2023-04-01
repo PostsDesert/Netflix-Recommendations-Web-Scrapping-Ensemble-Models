@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Lena Endre",
+            "url": "/name/nm0256890/"
+        },
+        {
+            "@type": "Person",
+            "name": "Erland Josephson",
+            "url": "/name/nm0430746/"
+        },
+        {
+            "@type": "Person",
+            "name": "Krister Henriksson",
+            "url": "/name/nm0377631/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 3608,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "alternateName": "Faithless",
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0001649/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0113606/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0025978/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ingmar Bergman",
+            "url": "/name/nm0000005/"
+        }
+    ],
+    "datePublished": "2000-09-15",
+    "description": "An imaginary woman recollects the painful experience of adultery to a storyteller.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Liv Ullmann",
+            "url": "/name/nm0880521/"
+        }
+    ],
+    "duration": "PT2H22M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjczYmJiNjItMDZjYS00NGY4LTg4OTMtOWYxZDM2ZjM1YzZjXkEyXkFqcGdeQXVyNzQxNDExNTU@._V1_.jpg",
+    "keywords": "female nudity,female frontal nudity,male frontal nudity,male nudity,female full frontal nudity",
+    "name": "Trolösa",
+    "original_info": {
+        "id": "Faithless_2000",
+        "name": "Faithless",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "hammy-3"
+        },
+        "dateCreated": "2000-10-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0157122/"
+        },
+        "name": "Bergman's beautiful melancholy lives",
+        "reviewBody": "Scripted by Ingmar Bergman and directed by his protege Liv Ullman, this film is much closer in spirit to Bergman realist dramas of the '70's than to his earlier expressionist work. Many of his characteristic themes are here: the responsibility of artists, and the hopelessness at the heart of modern relationships are prominent.\n\nIt's a deeply melancholy film, the only piece of comic relief is a scene where one of the protagonists is rehearsing a play which is hopelessly overwrought: if cinema is Bergman's mistress and theatre his wife, in this case, she's a wild, psychotic spouse. The movie as a whole is deeply theatrical, though, saved from being stagey by a few beautifully poetic cinematic touches. The acting is wonderful, bringing to a well-worn tale a deeply moving grandeur.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from First Look",
+        "duration": "PT1M56S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1151729945",
+        "name": "Faithless",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYWNhOWYyMWQtZTMyNC00MmY4LTk4YzctN2ZiMWRlYzM1MGE3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYWNhOWYyMWQtZTMyNC00MmY4LTk4YzctN2ZiMWRlYzM1MGE3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:04:20Z",
+        "url": "https://www.imdb.com/video/vi1151729945/"
+    },
+    "url": "/title/tt0157122/"
+}

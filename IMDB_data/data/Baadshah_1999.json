@@ -1,0 +1,94 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Shah Rukh Khan",
+            "url": "/name/nm0451321/"
+        },
+        {
+            "@type": "Person",
+            "name": "Twinkle Khanna",
+            "url": "/name/nm0007012/"
+        },
+        {
+            "@type": "Person",
+            "name": "Amrish Puri",
+            "url": "/name/nm0700869/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 19109,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0038817/"
+        },
+        {
+            "@type": "Person",
+            "name": "Shyam Goel",
+            "url": "/name/nm0333033/"
+        },
+        {
+            "@type": "Person",
+            "name": "Neeraj Vora",
+            "url": "/name/nm0903423/"
+        }
+    ],
+    "datePublished": "1999-08-27",
+    "description": "A small time detective is mistaken as a CBI agent and gets embroiled in a deadly mission to save the Chief Minister from an assassination attempt.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Abbas Alibhai Burmawalla",
+            "url": "/name/nm0122216/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mastan Alibhai Burmawalla",
+            "url": "/name/nm0122217/"
+        }
+    ],
+    "duration": "PT2H55M",
+    "genre": [
+        "Action",
+        "Comedy",
+        "Crime"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYWUxNzBhNTEtNzNmYi00NjE1LWI4ZTMtYThmZTQ4MWZjZGYwXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+    "keywords": "character name as title,nickname as title,one word title,tape over mouth,cbi",
+    "name": "Baadshah",
+    "original_info": {
+        "id": "Baadshah_1999",
+        "name": "Baadshah",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "homegnome1"
+        },
+        "dateCreated": "2004-08-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0211934/"
+        },
+        "name": "Seen it before...now see it new",
+        "reviewBody": "Okay, let's face it, we've all seen this before. Every single scene. But Shah Rukh Khan adds such a refreshing and believable twist to the story that you'll be seeing it again for the first time. I was roaring with laughter the whole movie. No one knows what anyone else is doing in this movie, everything is a case of mistaken identity. But the humor is it's strength. I absolutely recommend, it's not intended to be taken seriously, just enjoyed. Fun songs, cute dances. Wow, I liked it! Am I biased because I'm a Shah Rukhaholic? You bet! You will find yourself singing \"Baadshah\" in the supermarket the next day, remembering a scene and chuckling to yourself out loud.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0211934/"
+}

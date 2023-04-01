@@ -1,0 +1,38 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 63,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "description": "7 classic Hanna-Barbera Cartoons including \"The Flintstones\", \"The Jetsons\" and \"Scooby-Doo\". Also includes the very first Flintstones studio-pilot.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Joseph Barbera",
+            "url": "/name/nm0053484/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Hanna",
+            "url": "/name/nm0360253/"
+        }
+    ],
+    "genre": [
+        "Animation",
+        "Comedy",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM3MTI2NDYxN15BMl5BanBnXkFtZTcwMjc1NjAwMQ@@._V1_.jpg",
+    "keywords": "scooby doo character,huckleberry hound character,yogi bear character,top cat character,cat versus mouse",
+    "name": "Cartoon Crack-ups",
+    "original_info": {
+        "id": "Cartoon Crack-Ups_2001",
+        "name": "Cartoon Crack-Ups",
+        "year": "2001"
+    },
+    "url": "/title/tt0290507/"
+}

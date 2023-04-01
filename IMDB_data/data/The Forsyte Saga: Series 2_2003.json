@@ -1,0 +1,48 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bob Beamon",
+            "url": "/name/nm0063753/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sergey Bubka",
+            "url": "/name/nm2622396/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ernest Cadine",
+            "url": "/name/nm4188622/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 9,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0098497/"
+        }
+    ],
+    "duration": "PT6H30M",
+    "genre": [
+        "Documentary",
+        "Sport"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzk4MzBhZTEtMmVkYS00YjkwLTkxMjUtMGQ0Y2M2MjYyMjY1XkEyXkFqcGdeQXVyODQ0OTczOQ@@._V1_.jpg",
+    "keywords": "year in title,20th century,1920s,2000s,number in title",
+    "name": "The Olympic Series: Golden Moments 1920-2002",
+    "original_info": {
+        "id": "The Forsyte Saga: Series 2_2003",
+        "name": "The Forsyte Saga: Series 2",
+        "year": "2003"
+    },
+    "url": "/title/tt1469386/"
+}

@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Burt Reynolds",
+            "url": "/name/nm0000608/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jack Weston",
+            "url": "/name/nm0922967/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lauren Hutton",
+            "url": "/name/nm0001381/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4624,
+        "ratingValue": 5.8,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0035953/"
+        },
+        {
+            "@type": "Person",
+            "name": "William W. Norton",
+            "url": "/name/nm0636151/"
+        },
+        {
+            "@type": "Person",
+            "name": "Roderick Taylor",
+            "url": "/name/nm0266023/"
+        }
+    ],
+    "datePublished": "1976-08-20",
+    "description": "Agents force a former con man to help them nab a corrupt politician.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Burt Reynolds",
+            "url": "/name/nm0000608/"
+        }
+    ],
+    "duration": "PT1H55M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQzMzIzNjY2MV5BMl5BanBnXkFtZTcwNjk3MTE3NA@@._V1_.jpg",
+    "keywords": "corruption,second part,theft,chase,cat",
+    "name": "Gator",
+    "original_info": {
+        "id": "Gator_1976",
+        "name": "Gator",
+        "year": "1976"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dmirla"
+        },
+        "dateCreated": "2008-10-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0074564/"
+        },
+        "name": "Fine debut for Reynolds, Hutton, Reed",
+        "reviewBody": "Gator, As much as I respect Roger Ebert, I don't care what Ebert says. This is a good film. It is Funny at times, has action, and entertaining for Reynolds directorial debut. Sure there are some mistakes but Reynolds took some chances too, some subtle. Filming the chase scenes on water can prove to be difficult but it came off well.\n\nJerry Reed did a fine and convincing job as a corrupt antagonist without playing up to a false or cheesy southern stereotype. Lauren Hutton also did a fine job as a fresh face in this film without any clumsy or unnecessary over acting.\n\nThe ending is unexpected and without following movie formula as Ebert claims (See book titled, \"I hated, hated, HATED this film\"). Reed's song was a big number for him after the release of Gator and Bobby Goldsboro's music was beautiful and perfect for the films heart-breaking end. Pure entertainment."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Agents force a former con man to help them nab a corrupt politician.",
+        "duration": "PT2M26S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3129983257",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTY0ODMzNjktMDJkMi00YWFkLThjMjQtN2RjMDU4ZDM0OWY4XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTY0ODMzNjktMDJkMi00YWFkLThjMjQtN2RjMDU4ZDM0OWY4XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-10-13T10:49:28.958Z",
+        "url": "https://www.imdb.com/video/vi3129983257/"
+    },
+    "url": "/title/tt0074564/"
+}

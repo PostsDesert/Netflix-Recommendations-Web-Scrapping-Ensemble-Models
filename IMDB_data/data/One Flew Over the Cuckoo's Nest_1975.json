@@ -1,0 +1,115 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jack Nicholson",
+            "url": "/name/nm0000197/"
+        },
+        {
+            "@type": "Person",
+            "name": "Louise Fletcher",
+            "url": "/name/nm0001221/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Berryman",
+            "url": "/name/nm0077720/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1020993,
+        "ratingValue": 8.7,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0066949/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0068126/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0046377/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lawrence Hauben",
+            "url": "/name/nm0369142/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bo Goldman",
+            "url": "/name/nm0325743/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ken Kesey",
+            "url": "/name/nm0450181/"
+        }
+    ],
+    "datePublished": "1975-11-19",
+    "description": "In the Fall of 1963, a Korean War veteran and criminal pleads insanity and is admitted to a mental institution, where he rallies up the scared patients against the tyrannical nurse.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Milos Forman",
+            "url": "/name/nm0001232/"
+        }
+    ],
+    "duration": "PT2H13M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "mental institution,nurse,escape,native american,mental illness",
+    "name": "One Flew Over the Cuckoo's Nest",
+    "original_info": {
+        "id": "One Flew Over the Cuckoo's Nest_1975",
+        "name": "One Flew Over the Cuckoo's Nest",
+        "year": "1975"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "perica-43151"
+        },
+        "dateCreated": "2018-07-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0073486/"
+        },
+        "name": "A masterpiece",
+        "reviewBody": "The seventies produced some of the most interesting and worthy Hollywood movies. Before the era of blockbusters, and ever increasing dumbing down of the cinema art by the Hollywood power-brokers and greedy moneymakers, there was this short but truly amazing window of time that produced many of the timeless gems. A great portrayal of oppression, this gem should not be overlooked by anyone. Truly recommended.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A criminal pleads insanity after getting into trouble again and once in the mental institution rebels against the oppressive nurse and rallies up the scared patients.",
+        "duration": "PT2M35S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3943282969",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzcyYTlhYzgtOWY4Yi00NjZmLThhY2YtYWJjNjk2ODcyOWM2XkEyXkFqcGdeQXVyMjM4OTI2MTU@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzcyYTlhYzgtOWY4Yi00NjZmLThhY2YtYWJjNjk2ODcyOWM2XkEyXkFqcGdeQXVyMjM4OTI2MTU@._V1_.jpg",
+        "uploadDate": "2017-09-08T01:58:01Z",
+        "url": "https://www.imdb.com/video/vi3943282969/"
+    },
+    "url": "/title/tt0073486/"
+}

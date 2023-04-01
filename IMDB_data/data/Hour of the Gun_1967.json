@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "James Garner",
+            "url": "/name/nm0001258/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jason Robards",
+            "url": "/name/nm0001673/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Ryan",
+            "url": "/name/nm0752813/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4241,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0011112/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0168204/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edward Anhalt",
+            "url": "/name/nm0030019/"
+        }
+    ],
+    "datePublished": "1967-10-10",
+    "description": "Marshal Wyatt Earp kills a couple of men of the Clanton gang in a fight. In revenge, Clanton's thugs kill the Marshal's brother. Thus, Wyatt starts to chase the killers together with his friend Doc Holliday.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Sturges",
+            "url": "/name/nm0836328/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Western"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjY1NzFmZjYtYjcxMS00MGRiLTkzOWItMDYyNzE5MGFjNWQwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
+    "keywords": "arizona territory,arizona,ike clanton,curly bill brocius,frank stilwell",
+    "name": "Hour of the Gun",
+    "original_info": {
+        "id": "Hour of the Gun_1967",
+        "name": "Hour of the Gun",
+        "year": "1967"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "simonsayz-1"
+        },
+        "dateCreated": "2008-07-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0061787/"
+        },
+        "name": "Sturges gets it right the second time!",
+        "reviewBody": "This is the quasi-sequel to Sturges' \"Gunfight at the O.K. Corral\" and it improves on that film in every way. The Panavision widescreen gives it a more epic scope than \"O.K.\", and in the ten years between the two films Sturges has also much improved his mise-en-scene. Whereas \"O.K.\" was often unassuming at best and plain dull at worst in its framing (additionally hindered by some obvious studio shots presenting the outdoors), Sturges gets the most out of his shots here. The sequence in which Virgil Earp is gunned down in a dark street is one example. Thankfully enough the dreadful \"singing cowboy\" songs of \"O.K.\" are nowhere to be heard, instead we have one of Jerry Goldsmith's best scores...and that says something. Acting is also a touch better than in the predecessor. While the Lancaster-Douglas team of \"O.K.\" was indeed that - o.k. - it was bogged down by the repetitious dialogue they were given. Garner and Robards, both somewhat underestimated actors, give fine performances here. And while Robert Ryan as the villainous Ike Clanton is not given much to work with, he makes a reasonable impact as the scheming cattle baron and thief. Finally, and most importantly, the timing of the film is much better than \"O.K.\" which was simply a chore to go through and a bore when one got there. \"Hour of the Gun\" alternates politics (both sides of the conflict getting the law on their sides, in itself a truthful and interesting account of law and order in the Wild West) and action scenes with Wyatt and comrades pursuing the attackers of his brothers. The depiction of Earp's vigilantism is relatively realistic though the claim of the film to \"tell it as it happened\" is of course somewhat over-exaggerated, especially concerning the fate of Ike Clanton.\n\nAs far as westerns from the end of the golden age of that genre go, \"Hour of the Gun\" does not rank among the very best, but is a minor treasure nonetheless, a very worthwhile film that tells the events after the famous showdown at the O.K. Corral, and does a very good job of doing so.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M16S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3248341017",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZTRlNjI4ODItY2YxMy00MTUyLTg4OTItNWY2YmZhMjA1NDRlXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTRlNjI4ODItY2YxMy00MTUyLTg4OTItNWY2YmZhMjA1NDRlXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-03-26T04:35:41.537Z",
+        "url": "https://www.imdb.com/video/vi3248341017/"
+    },
+    "url": "/title/tt0061787/"
+}

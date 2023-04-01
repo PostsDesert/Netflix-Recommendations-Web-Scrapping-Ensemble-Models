@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kenan Thompson",
+            "url": "/name/nm0860380/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kyla Pratt",
+            "url": "/name/nm0695497/"
+        },
+        {
+            "@type": "Person",
+            "name": "Omarion",
+            "url": "/name/nm1217506/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 12459,
+        "ratingValue": 4.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0022730/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0014116/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Cosby",
+            "url": "/name/nm0001070/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Kipps",
+            "url": "/name/nm0456063/"
+        }
+    ],
+    "datePublished": "2004-12-25",
+    "description": "Fat Albert and the Cosby Kids come to life and step out of their animated, inner-city Philadelphia world.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Joel Zwick",
+            "url": "/name/nm0959034/"
+        }
+    ],
+    "duration": "PT1H33M",
+    "genre": [
+        "Comedy",
+        "Family",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg2MzYxMDI2M15BMl5BanBnXkFtZTYwNTAzNTM3._V1_.jpg",
+    "keywords": "slimehouse,live action and animation,part animated,cartoon world,2d animation",
+    "name": "Fat Albert",
+    "original_info": {
+        "id": "Fat Albert_2004",
+        "name": "Fat Albert",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Kshalene"
+        },
+        "dateCreated": "2005-05-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0396592/"
+        },
+        "name": "Floater",
+        "reviewBody": "Fat Albert is well enough intentioned... I do not think that the film makers set out to destroy one of the Saturday Morning Gods in such an atrocious manner. While this genre, like the more successful comic book genre, can be done somewhat successfully (i.e. Scooby Doo), there is a fine line to walk without making the characters look empty and embarrassing. Fat Albert unfortunately does this. It takes the two dimensionality of the original characters and focuses on it until they loose whatever vibrancy they had previously. The story is contrived and supremely predictable. Grandberry is his usual chewing-on-the-scenery self. Thompson is passable as Fat Albert, but should stay far far far away from rap music for the remainder of his days. The only really enjoyable scenes in the movie were the ones with Bill Cosby. All in all, this movie is a total floater. Don't look at it, just flush.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 2,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Fat Albert",
+        "duration": "PT1M41S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi830846489",
+        "name": "Fat Albert",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODM1Njk5MTYyNF5BMl5BanBnXkFtZTgwMDg0OTMyMDI@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODM1Njk5MTYyNF5BMl5BanBnXkFtZTgwMDg0OTMyMDI@._V1_.jpg",
+        "uploadDate": "2016-10-06T00:12:59Z",
+        "url": "https://www.imdb.com/video/vi830846489/"
+    },
+    "url": "/title/tt0396592/"
+}

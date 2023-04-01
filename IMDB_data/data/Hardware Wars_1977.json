@@ -1,0 +1,79 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Frank Robertson",
+            "url": "/name/nm0731838/"
+        },
+        {
+            "@type": "Person",
+            "name": "Scott Mathews",
+            "url": "/name/nm0558709/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeff Hale",
+            "url": "/name/nm0354934/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1960,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0048444/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ernie Fosselius",
+            "url": "/name/nm0287629/"
+        }
+    ],
+    "datePublished": "1978-01-20",
+    "description": "This is a short parody of the movie Star Wars.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ernie Fosselius",
+            "url": "/name/nm0287629/"
+        }
+    ],
+    "duration": "PT13M",
+    "genre": [
+        "Action",
+        "Comedy",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTIxMTg0MjEwNF5BMl5BanBnXkFtZTcwMzYxMzEyMQ@@._V1_.jpg",
+    "keywords": "parody comedy,farce,unintelligible,wise guy,wiping sweat from brow",
+    "name": "Hardware Wars",
+    "original_info": {
+        "id": "Hardware Wars_1977",
+        "name": "Hardware Wars",
+        "year": "1977"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "donf-1"
+        },
+        "dateCreated": "2003-02-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0077658/"
+        },
+        "name": "pretty cool parody, dude",
+        "reviewBody": "This is a ridiculously amateurish-looking parody of Star Wars, but it is so goofy that it is really entertaining. It sort of makes you feel, watching it, like you could make a movie, too. You can feel the fun that the people who made it had while they were doing it.\n\nA lot of the jokes are fun, and the idea is so funny that it alone is worth the price.\n\nSome of the other features on the DVD are good, too. There is an excellent \"antique road show\" parody, and listening to Michael Wiese gives you a sort of unusual insight into trying to break into the Hollywood world.\n\nAnyway, as the Star Wars saga drones endlessly on, periodically filling cineplexes with vapid storylines and bloated effects, it is a great antidote. They have become all skill and no heart. This little parody is the opposite."
+    },
+    "url": "/title/tt0077658/"
+}

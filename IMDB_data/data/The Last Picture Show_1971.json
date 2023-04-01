@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Timothy Bottoms",
+            "url": "/name/nm0000961/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeff Bridges",
+            "url": "/name/nm0000313/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cybill Shepherd",
+            "url": "/name/nm0001732/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 49615,
+        "ratingValue": 8,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0000949/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0632120/"
+        },
+        {
+            "@type": "Person",
+            "name": "Larry McMurtry",
+            "url": "/name/nm0573505/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter Bogdanovich",
+            "url": "/name/nm0000953/"
+        }
+    ],
+    "datePublished": "1971-10-22",
+    "description": "In 1951, a group of high schoolers come of age in a bleak, isolated, atrophied North Texas town that is slowly dying, both culturally and economically.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Peter Bogdanovich",
+            "url": "/name/nm0000953/"
+        }
+    ],
+    "duration": "PT1H58M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTQ2ZjgzMTItMjk1Mi00NjdlLThmYzQtMDg1MDBmNzFhYmJlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "1950s,older woman younger man relationship,texas,movie theater,nostalgia",
+    "name": "The Last Picture Show",
+    "original_info": {
+        "id": "The Last Picture Show_1971",
+        "name": "The Last Picture Show",
+        "year": "1971"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Lechuguilla"
+        },
+        "dateCreated": "2006-01-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0067328/"
+        },
+        "name": "A Sense Of Realism",
+        "reviewBody": "This is a character study wherein the main character is a small West Texas town, circa 1951. In the U.S., the early 1950s symbolized a transition from nineteenth century agrarian values to twentieth century urbanism. In the film, various people who live in the town must confront the reality that time moves on. Things change. Assumptions of previous generations give way to the untested assumptions of the future. The film's theme is thus American cultural change, and the personal disillusionment that such change can bring. It is a powerful theme, and the film imparts that theme with logical clarity and emotional frankness.\n\nIn the hands of lesser talents, the subject matter of unimportant people doing unimportant things might have yielded a tiresome soap opera. But the film's script is poetic, the direction is skillful, the B&W cinematography is artistic, the casting is perfect, and the performances are superlative.\n\nThe story draws heavily from early American individualism. Life here is mostly physical, not mental. Human relationships are direct, immediate, one-on-one. Except for schools, which are given some prominence, cultural institutions exist in the film only vaguely or not at all. For entertainment, people listen to radio, which features the mournful country-western music of Hank Williams. Or, they go to the town's decrepit picture show, where an elderly Miss Mosey kindly returns money to the kids who got there too late to see the cartoons.\n\nIf the film has a weakness it is in the presentation of a realism that is incomplete. We see mostly stifling bleakness, though that is ameliorated somewhat by humor. What we don't see are the uplifting influences and the optimism that sustained agrarian generations through hardships and rough times.\n\nNevertheless, within the film's story parameters, the film does convey an accurate account of what life was like for ordinary folks in West Texas in the early 1950s. I doubt that this film could be made today. Contemporary audiences have been conditioned to expect non-stop action, loudness, glitz, and overblown special effects, all of which are absent, mercifully, from this film.\n\nLow-key, perceptive, bleak, and melancholy, \"The Last Picture Show\" easily makes my list of Top Ten favorite films of all time.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "HV Trailer",
+        "duration": "PT1M27S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2180317465",
+        "name": "The Last Picture Show",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BY2JmOTU0NjYtYjk4Mi00YjkyLTkzNWItYjJmYjA3NjU4Mjg3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BY2JmOTU0NjYtYjk4Mi00YjkyLTkzNWItYjJmYjA3NjU4Mjg3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:53:08Z",
+        "url": "https://www.imdb.com/video/vi2180317465/"
+    },
+    "url": "/title/tt0067328/"
+}

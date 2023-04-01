@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Barrymore",
+            "url": "/name/nm0000858/"
+        },
+        {
+            "@type": "Person",
+            "name": "Carole Lombard",
+            "url": "/name/nm0001479/"
+        },
+        {
+            "@type": "Person",
+            "name": "Walter Connolly",
+            "url": "/name/nm0175369/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6893,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles Bruce Millholland",
+            "url": "/name/nm0589619/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ben Hecht",
+            "url": "/name/nm0372942/"
+        },
+        {
+            "@type": "Person",
+            "name": "Charles MacArthur",
+            "url": "/name/nm0531269/"
+        }
+    ],
+    "datePublished": "1934-05-11",
+    "description": "A flamboyant Broadway impresario who has fallen on hard times tries to get his former lover, now a Hollywood diva, to return and resurrect his failing career.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Howard Hawks",
+            "url": "/name/nm0001328/"
+        }
+    ],
+    "duration": "PT1H31M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMmQ2NjdhZjgtZTc4OC00NmIzLWFkOGYtZTJmODM5OTZmYmMxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "keywords": "national film registry,forger,acting contract,mentor protege relationship,hat pin",
+    "name": "Twentieth Century",
+    "original_info": {
+        "id": "Twentieth Century_1934",
+        "name": "Twentieth Century",
+        "year": "1934"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "theowinthrop"
+        },
+        "dateCreated": "2005-01-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0025919/"
+        },
+        "name": "One of the funniest sound movies ever made",
+        "reviewBody": "If \"The Lady With Red Hair\" (about Mrs. Leslie Carter) gave us a good portrait of theatrical producer/director David Belasco (in the capable hands of Claude Rains), this film shows the ham side. Oscar Jaffe (John Barrymore) is based on Belasco, with his less attractive sides. Here is not the man who simply helped create proper modern stage production and rehearsal technique, but the egotistical side of him (the side Rains showed when he released all contacts to Leslie Carter -Miriam Hopkins in that film - when she dared to marry without his consent). Here Jaffe has created the actress sensation \"Lily Garland\" from an ambitious shop girl named Mildred Plotka (Carole Lombard). Jaffe has played a caring, fatherly Svengali to her, prodding her by caring, sweet, regretful terms to do what he wants (except they are rehearsing). But although - eventually - Lily is willing to become his lover, he is so jealous that he drives her to flee from him. He decides he can do it again, but falls on his face. She goes on to screen immortality in Hollywood. So he is forced to pull out all stops to get her back to a signed contract, when he learns she and he are traveling back to New York on the Twentieth Century train.\n\nHoward Hawks would tackle farce several times in his career: \"His Gal Friday\", \"I Was A Male War Bride\", \"Man's Favorite Sport\" were all in the future. But this may have been the best of them. The other films have great choice moments, but this one is almost flawless from the start. Take the beginning when Jaffe brings the cast of his first play starring Lili. It is a piece of sentimental pap that Jaffe always produces (later on, before being dismissed by him, Charles Lane tells off Jaffe the truth that he produces hackwork and \"gets away with it\" because of Lili's talent). In fact, it is a spoof of a popular piece of melodrama from the late 1920s, \"Coquette\", which was turned into a film in 1929 (and netted Mary Pickford an Oscar, which she should have gotten for other films, such as \"Sparrows\"). The cast, including an African-American in a typical stereotype servant role of the period, have to go through several hours of rehearsing the first scene due to Mildred/Lily's failure to match Jaffe's exacting direction. What the overly controlling Jaffe does with stage blocking and a piece of chalk is a nightmare for anyone who has ever tried to produce or act in a play. He does, however, know about acting - he reminds Mildred/Lily that when she calls for \"Daddy\" in an old southern plantation house she is not to use a voice similar to calling \"Taxi\" in the street.\n\nI won't go into the rest of the film, but wait for \"the iron door\" whose hinges get dingier and more rusted with each closing, or Barrymore's commentary on \"the Passion Play\". Lombard has a more subtle, reacting part, but she is Barrymore's equal partner, having the moment of reality at the center of the film: on the train, when after screaming at each other she breaks down and cries, and makes Jaffe realize that they have built themselves into an unhealthy universe where they can't be real people anymore. It's a brief, and touching moment - fortunately not destroying the sheer lovely nuttiness of the rest of the film.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT53S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1383055129",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOWVhZTRlNzktMGE3Yi00OTE5LTg1YTYtZmY1ODhhNjRiOWI1XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOWVhZTRlNzktMGE3Yi00OTE5LTg1YTYtZmY1ODhhNjRiOWI1XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-01-28T17:14:04.074Z",
+        "url": "https://www.imdb.com/video/vi1383055129/"
+    },
+    "url": "/title/tt0025919/"
+}

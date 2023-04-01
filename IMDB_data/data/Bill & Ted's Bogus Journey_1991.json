@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Keanu Reeves",
+            "url": "/name/nm0000206/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alex Winter",
+            "url": "/name/nm0935664/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kristen Schaal",
+            "url": "/name/nm1102891/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 49583,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0687402/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0377284/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0328487/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chris Matheson",
+            "url": "/name/nm0558533/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ed Solomon",
+            "url": "/name/nm0004412/"
+        }
+    ],
+    "datePublished": "2020-08-28",
+    "description": "Once told they'd save the universe during a time-traveling adventure, two would-be rockers from San Dimas, California find themselves as middle-aged dads still trying to crank out a hit song and fulfill their destiny.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Dean Parisot",
+            "url": "/name/nm0661751/"
+        }
+    ],
+    "duration": "PT1H31M",
+    "genre": [
+        "Adventure",
+        "Comedy",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTRiNzFhNjAtNTdhMS00ZjViLWFhNTUtMWJlMTJkMGM1YzM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "keywords": "time travel,bill and ted,father daughter relationship,hologram,prison",
+    "name": "Bill & Ted Face the Music",
+    "original_info": {
+        "id": "Bill & Ted's Bogus Journey_1991",
+        "name": "Bill & Ted's Bogus Journey",
+        "year": "1991"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "davebartle"
+        },
+        "dateCreated": "2020-11-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt1086064/"
+        },
+        "name": "It's okay and better than I expected for a movie made in the dying days of Hollywood",
+        "reviewBody": "We have to face facts, the reason there are so many sequels and remakes of movies from the 80s and 90s is because Hollywood peaked then. The 2000's marked the beginning of the decline, which has been rapidly descending in the last few years. Despite this decline and despite the mediocre Force Awakens style influences in the script, the charm and humour... and of course the nostalgia saves this from being unwatchable, which is high praise. Zazz as the robot steals the show along with the woman from Flight of the Concordes but I mostly left feeling a little sad that this movie wasn't made in the 90s and sad that Keane Reeves may not actually be immortal.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "The stakes are higher than ever for the time-traveling exploits of William \"Bill\" S. Preston Esq. and Theodore \"Ted\" Logan. Yet to fulfill their rock and roll destiny, the now middle aged best friends set out on a new adventure when a visitor from the future warns them that only their song can save life as we know it. Along the way, they will be helped by their daughters, a new batch of historical figures, and a few music legends - to seek the song that will set their world right and bring harmony in the universe.",
+        "duration": "PT2M38S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi611761689",
+        "name": "Official Trailer #2",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODY5YWE0ZTYtNDU1MC00YmE1LWE1MjEtOTBiYWI5OTZkOGI1XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODY5YWE0ZTYtNDU1MC00YmE1LWE1MjEtOTBiYWI5OTZkOGI1XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-07-23T15:58:52.243Z",
+        "url": "https://www.imdb.com/video/vi611761689/"
+    },
+    "url": "/title/tt1086064/"
+}

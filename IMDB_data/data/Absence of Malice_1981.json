@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Paul Newman",
+            "url": "/name/nm0000056/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sally Field",
+            "url": "/name/nm0000398/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bob Balaban",
+            "url": "/name/nm0000837/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 13990,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0038270/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kurt Luedtke",
+            "url": "/name/nm0525104/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Rayfiel",
+            "url": "/name/nm0713128/"
+        }
+    ],
+    "datePublished": "1981-12-18",
+    "description": "When a prosecutor leaks to a Miami reporter that a liquor wholesaler is suspected in the murder of a union head, the man's life begins to unravel.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Sydney Pollack",
+            "url": "/name/nm0001628/"
+        }
+    ],
+    "duration": "PT1H56M",
+    "genre": [
+        "Drama",
+        "Romance",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjlmMTdhNDgtYWMwZi00ZWIxLThlYzEtODE0MjlhNjEzZjlhXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_.jpg",
+    "keywords": "reference to the john f. kennedy assassination,ends with freeze frame,scene during opening credits,printing press,drinking beer",
+    "name": "Absence of Malice",
+    "original_info": {
+        "id": "Absence of Malice_1981",
+        "name": "Absence of Malice",
+        "year": "1981"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dougdoepke"
+        },
+        "dateCreated": "2021-08-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0081974/"
+        },
+        "name": "Challenging, but Worthwhile",
+        "reviewBody": "No need to recap the storyline intrigues, which are complex to say the least.\n\nAce peformances by both Newman and Fields. However, if you're looking for the usual charming Newman smile, forget it- I stopped at zero. The actor's about as understated here as he comes, and certainly a big departure from Hud and his usual winning style. But then his stoical appearance is perfectly in keeping with Gallagher's (Newman) calculating motivations once he realizes he's been used. Fields, on the other hand, is all charming grins and girlish moves as her reporter Megan chases down stories to prove her professional worth. And that's regardless of whom she insensitively (absence of malice) harms in the process. Surprisingly, given the two big stars, there's really no one to root for in what amounts to a cynical albeit thought-provoking script. All in all, it's a flick that should be shown in jounalism schools everywhere. Anyway, here's my little salute to both performers for going against their professional images in pursuit of a worthy issue."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Tristar",
+        "duration": "PT2M3S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3853779225",
+        "name": "Absence of Malice",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDUzODhlMzQtOTE1OS00YWI5LWFmZDEtZGFkOTExZmJhNTcwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDUzODhlMzQtOTE1OS00YWI5LWFmZDEtZGFkOTExZmJhNTcwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T08:34:50Z",
+        "url": "https://www.imdb.com/video/vi3853779225/"
+    },
+    "url": "/title/tt0081974/"
+}

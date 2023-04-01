@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Eric Clapton",
+            "url": "/name/nm0002008/"
+        },
+        {
+            "@type": "Person",
+            "name": "Duane Allman",
+            "url": "/name/nm0021518/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ginger Baker",
+            "url": "/name/nm0048486/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2394,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "contentRating": "TV-MA",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103812/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0093750/"
+        },
+        {
+            "@type": "Person",
+            "name": "Stephen 'Scooter' Weintraub",
+            "url": "/name/nm0918550/"
+        },
+        {
+            "@type": "Person",
+            "name": "Larry Yelen",
+            "url": "/name/nm1208518/"
+        }
+    ],
+    "datePublished": "2017-11-24",
+    "description": "A look at the life and work of guitarist Eric Clapton, told by those who have known him best, including BB King, Jimi Hendrix, and George Harrison.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Lili Fini Zanuck",
+            "url": "/name/nm0005572/"
+        }
+    ],
+    "duration": "PT2H15M",
+    "genre": [
+        "Documentary",
+        "Biography",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTk0N2EyMDQtNzZiZi00NTcwLWJhM2YtYTM4YTIzYjYwN2E5XkEyXkFqcGdeQXVyNjM1NzYzMDk@._V1_.jpg",
+    "keywords": "real life",
+    "name": "Eric Clapton: Life in 12 Bars",
+    "original_info": {
+        "id": "Eric Clapton & Friends in Concert: The Crossroads Benefit_1999",
+        "name": "Eric Clapton & Friends in Concert: The Crossroads Benefit",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "vanessastonefox"
+        },
+        "dateCreated": "2018-02-15",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt6498644/"
+        },
+        "name": "Adequate, but nothing revelatory for long time fans.",
+        "reviewBody": "I didn't learn anything new from this documentary. It also seemed longer than it actually was, which is not a good thing.\n\nDelaney & Bonnie & Friends aren't even mentioned. This is criminal since Eric is supposedly telling his own story. The legendary Derek & the Dominos were all members of that band and that's how they met. Delaney Bramlett produced Clapton's first solo album which begat the Dominos and the All Things Must Pass sessions.\n\nDelaney & Bonnie opened for Blind Faith on their summer 1969 US Tour. Clapton liked what he saw. He was disgusted with the direction of both Cream and Blind Faith. He hopped on the more rootsy Delaney & Bonnie & Friends bandwagon for tours of Europe and the US in 1969-1970. Delaney & Bonnie were the frickin' catalyst to his new direction. Clapton and the film makers didn't even take the time to mention them once. That is an insult.\n\nI don't recall J.J. Cale mentioned in the documentary either. Weird since Clapton copped Cale's whole vibe in the 1970's.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M36S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3955472409",
+        "name": "Eric Clapton: Life in 12 Bars",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMDdiNWQ4ODQtNjg1Ni00MGRkLTg3NDYtYjI4NWM1NTI5YmU1XkEyXkFqcGdeQXVyNzkyNzc3NjU@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDdiNWQ4ODQtNjg1Ni00MGRkLTg3NDYtYjI4NWM1NTI5YmU1XkEyXkFqcGdeQXVyNzkyNzc3NjU@._V1_.jpg",
+        "uploadDate": "2018-02-12T23:50:56Z",
+        "url": "https://www.imdb.com/video/vi3955472409/"
+    },
+    "url": "/title/tt6498644/"
+}

@@ -1,0 +1,52 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 92,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0431362/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0017105/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0917995/"
+        },
+        {
+            "@type": "Person",
+            "name": "Winfried Georg Sebald",
+            "url": "/name/nm7739016/"
+        }
+    ],
+    "datePublished": "2023-03-16",
+    "description": "Based on the book by German writer W.G. Sebald, examines the perception and processing of the phenomenon of mass destruction of the German civilian population in European post-war literature.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Sergey Loznitsa",
+            "url": "/name/nm0523665/"
+        }
+    ],
+    "duration": "PT1H52M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BY2E2MGZhYTUtOTU0Ny00MWIyLWE5ODUtNjhmMzc5MTIxM2U3XkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1_.jpg",
+    "keywords": "literature",
+    "name": "The Natural History of Destruction",
+    "original_info": {
+        "id": "The Natural History of the Chicken_2001",
+        "name": "The Natural History of the Chicken",
+        "year": "2001"
+    },
+    "url": "/title/tt19725896/"
+}

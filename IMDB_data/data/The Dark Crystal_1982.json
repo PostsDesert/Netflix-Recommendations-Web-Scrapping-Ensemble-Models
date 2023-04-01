@@ -1,0 +1,117 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jim Henson",
+            "url": "/name/nm0001345/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kathryn Mullen",
+            "url": "/name/nm0612020/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frank Oz",
+            "url": "/name/nm0000568/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 68649,
+        "ratingValue": 7.1,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103220/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0055122/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0579288/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Odell",
+            "url": "/name/nm0643973/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jim Henson",
+            "url": "/name/nm0001345/"
+        }
+    ],
+    "datePublished": "1982-12-17",
+    "description": "On another planet in the distant past, a Gelfling embarks on a quest to find the missing shard of a magical crystal, and to restore order to his world.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jim Henson",
+            "url": "/name/nm0001345/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frank Oz",
+            "url": "/name/nm0000568/"
+        }
+    ],
+    "duration": "PT1H33M",
+    "genre": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDQyNDkzZGEtZjE2NC00M2I3LWI1YmItNTcxOTJkMTg3ZmNkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "puppetry,magical crystal,crystal shard,cult favorite,puppet",
+    "name": "The Dark Crystal",
+    "original_info": {
+        "id": "The Dark Crystal_1982",
+        "name": "The Dark Crystal",
+        "year": "1982"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Quinoa1984"
+        },
+        "dateCreated": "2000-09-15",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0083791/"
+        },
+        "name": "The beginning of the new and improved Muppets; one of Henson-and-company's best",
+        "reviewBody": "This sprawling, part-homage-part-totally original fantasy brings us Jen, the last of a group of near extinct creatures who is the only one who can save all existence by bringing a crystal shard back into the balance of the dark crystal, in order to save the world from the evil Skekses. This is quite an enthralling film, and like with the other full-on Muppet films this works on different levels for kids and for adults. Kids may be both scared and enthralled by the scope and details, not to mention the graphic nature of the darker elements portrayed (as a kid I cringed a bit when the 'vital essence' scenes came up). And for adults there's a lot of great craftsmanship that goes into the story, which is with all of the effects and over-the-top creations very well told by directors Henson and Oz. Without the massive usage of CGI or the more controlled visuals from the past fifteen or so years, the mix of the production design (maybe some of the best ever in any fantasy film) and the inventiveness put into the set-pieces and character-creations, is a knockout even by today's standards. It's almost a shame looking back on how a film like this that employs so many people and such time is now spent clicking away on a computer to get it all done. As it is, the Dark Crystal is one of those few examples in post-modern cinema that it does seem something like a sci-fi novel come to life.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "On another planet in the distant past, a Gelfling embarks on a quest to find the missing shard of a magical crystal, and to restore order to his world.",
+        "duration": "PT1M21S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2162803993",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOWUyMmZkNDMtZThkZi00YjA4LTgwNjUtMzYxMThiYTFiZmIyXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOWUyMmZkNDMtZThkZi00YjA4LTgwNjUtMzYxMThiYTFiZmIyXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+        "uploadDate": "2022-12-19T14:27:38.175Z",
+        "url": "https://www.imdb.com/video/vi2162803993/"
+    },
+    "url": "/title/tt0083791/"
+}

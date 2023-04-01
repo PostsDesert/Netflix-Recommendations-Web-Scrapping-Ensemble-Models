@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jennifer Aniston",
+            "url": "/name/nm0000098/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jake Gyllenhaal",
+            "url": "/name/nm0350453/"
+        },
+        {
+            "@type": "Person",
+            "name": "Deborah Rush",
+            "url": "/name/nm0750658/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 46061,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0020574/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0047469/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0071147/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mike White",
+            "url": "/name/nm0925234/"
+        }
+    ],
+    "datePublished": "2002-08-30",
+    "description": "A discount store clerk strikes up an affair with a stock boy who considers himself the incarnation of Holden Caulfield.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Miguel Arteta",
+            "url": "/name/nm0037708/"
+        }
+    ],
+    "duration": "PT1H33M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODA1NjA3MzAtNGYyYS00YThmLThkZDktNDk1ZTM4ZTJmNDgyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "dysfunctional marriage,small town,reference to holden caulfield,mental illness,husband wife relationship",
+    "name": "The Good Girl",
+    "original_info": {
+        "id": "The Good Girl_2002",
+        "name": "The Good Girl",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Quinoa1984"
+        },
+        "dateCreated": "2002-09-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0279113/"
+        },
+        "name": "One of the best written pictures of 2002",
+        "reviewBody": "Mike White, writer of The Good Girl, deserves the most credit here. While there is good direction and good performances all around, the writing tops the lot by getting the audience to feel for the characters and to understand their human nature from start to finish. Plus, there is a even handed amount of humor (sometimes from stoners and sometimes from quirks in the store) to go along with the drama.\n\nAnd the performances- Jennifer Anniston shows she can actually do something other than Friends and portrays small town Justine with her wants, desperation, disgust, and ultimitely fears. Gyllenhaal is as compelling as her passionately crazy co-worker, self based on The Catcher in the Rye if only to himself; Reilly and Nelson give the best performances of the picture (and should've gotten a little more screen time) as pot head painters with aimless destinies.\n\nThe Good Girl is a keen portrayal of small town angst at the never-ending, often monotonous and uninspired/unfortunate basis. One of the better dramedies of the year. A-",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT32S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi519242009",
+        "name": "The Good Girl",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYTY1OTFiNDUtM2VhMC00YmZiLTkwMTktZGI3OTMyOWMwMjQwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTY1OTFiNDUtM2VhMC00YmZiLTkwMTktZGI3OTMyOWMwMjQwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:44:33Z",
+        "url": "https://www.imdb.com/video/vi519242009/"
+    },
+    "url": "/title/tt0279113/"
+}

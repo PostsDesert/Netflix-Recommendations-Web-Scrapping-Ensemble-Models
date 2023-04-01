@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "James Stewart",
+            "url": "/name/nm0000071/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Dall",
+            "url": "/name/nm0197982/"
+        },
+        {
+            "@type": "Person",
+            "name": "Farley Granger",
+            "url": "/name/nm0335048/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 146824,
+        "ratingValue": 7.9,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0027171/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hume Cronyn",
+            "url": "/name/nm0002025/"
+        },
+        {
+            "@type": "Person",
+            "name": "Patrick Hamilton",
+            "url": "/name/nm0358096/"
+        },
+        {
+            "@type": "Person",
+            "name": "Arthur Laurents",
+            "url": "/name/nm0491306/"
+        }
+    ],
+    "datePublished": "1948-09-25",
+    "description": "Two men attempt to prove they committed the perfect crime by hosting a dinner party after strangling their former classmate to death.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Alfred Hitchcock",
+            "url": "/name/nm0000033/"
+        }
+    ],
+    "duration": "PT1H20M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYWFjMDNlYzItY2VlMS00ZTRkLWJjYTEtYjI5NmFlMGE3MzQ2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "keywords": "long take,gay subtext,rope,leopold loeb case,murder",
+    "name": "Rope",
+    "original_info": {
+        "id": "Rope_1948",
+        "name": "Rope",
+        "year": "1948"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dougdoepke"
+        },
+        "dateCreated": "2016-11-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0040746/"
+        },
+        "name": "Hitch On A Limb",
+        "reviewBody": "No need to recap the plot.\n\nLeave it to Hitch to venture into uncharted Hollywood territory. First, the movie's a \"real time\" screenplay that blends 80-mintes of character time into 80-minutes of screen time without a noticeable cut-away. It's the first time, I believe, this was tried. Practically speaking, the movie's almost a filmed stage play. The pitfalls here are many and obvious. Fortunately, the script is generally involving and avoids a chief pitfall by developing the storyline without much drag. At the same time, the characters are a generally colorful lot, especially caterer Wilson (Evanson) and dowager Collier (Atwater). Then too, Hitch's camera heightens developments in unobtrusive fashion, so that we get listener reactions at the same time the speaker is speaking. That way our interest is spread over a number of characters. Second is his use of gay actors (Dall & Granger) to portray scarcely veiled gay characters Brandon & Phillip, respectively. I guess the movie was banned in many locales because of that taboo, (IMDB). Nonetheless, the aspect makes for an interesting subtext, one that Hitch was later to use in Strangers On A Train (1951).\n\nActing-wise, Dall does well as the intellectual snob, while Granger plays a nervous second fiddle. The Nietzschean theme seems a little shopworn so soon after WWII, but works well enough here as dark motivation. However, I could have done without Rupert's (Stewart) reproofing lecture at movie's end. There should have been a subtler alternative. Plus, his character comes across as something of a stretch. But then convention required someone to put things right, even if Rupert has rather confusingly inspired the Nietzschean-type murder, in the first place\n\nAll in all, I can see why many balk at Hitch's experimental result. It is a noticeable departure from the norm. Still, I think the aspects come together well enough to remain an engaging hour-plus, even if not among his best suspense features. At the same time, I can see why the real-time single-set approach never caught on. In lesser hands, it's a time bomb."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M26S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1025293849",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYmQwOWRhZWMtZGNiOC00OGI5LThkYWUtMGFkOTJlYjQ5MTY0XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYmQwOWRhZWMtZGNiOC00OGI5LThkYWUtMGFkOTJlYjQ5MTY0XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-07-01T13:47:04.853Z",
+        "url": "https://www.imdb.com/video/vi1025293849/"
+    },
+    "url": "/title/tt0040746/"
+}

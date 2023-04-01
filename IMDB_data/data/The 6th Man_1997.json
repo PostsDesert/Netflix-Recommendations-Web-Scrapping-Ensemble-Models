@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Marlon Wayans",
+            "url": "/name/nm0005541/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kadeem Hardison",
+            "url": "/name/nm0362429/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Paymer",
+            "url": "/name/nm0001601/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6083,
+        "ratingValue": 5.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0049348/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0017321/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0064942/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christopher Reed",
+            "url": "/name/nm1226733/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cynthia Carle",
+            "url": "/name/nm0137342/"
+        }
+    ],
+    "datePublished": "1997-03-28",
+    "description": "A college athlete returns from the dead to help his brother's basketball team win the NCAA title.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Randall Miller",
+            "url": "/name/nm0589168/"
+        }
+    ],
+    "duration": "PT1H47M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOGI3YmE2YTktMmRmMy00NDE4LTgzZTctOGQ2MmE2MTk0MGRkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "keywords": "basketball sport,ncaa,college,college basketball,team",
+    "name": "The Sixth Man",
+    "original_info": {
+        "id": "The 6th Man_1997",
+        "name": "The 6th Man",
+        "year": "1997"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Waltdog"
+        },
+        "dateCreated": "2000-06-21",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120142/"
+        },
+        "name": "A Great Movie",
+        "reviewBody": "This movie is excellent. It is hilarious and has great drama. Kadeem Hardison and Marlon are just as convincing as brothers as Marlon is with his real life brother Shawn on \"The Wayans Bros.\" The acting was great, the comedy was great, and the writing was great. This is the film that made me look at Marlon Wayans as more than just a funny guy, but also as a very talented actor. I give this movie a 10."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A college athlete returns from the dead to help his brother's basketball team win the NCAA title.",
+        "duration": "PT2M3S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3722822425",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjhjZDUxNGUtMjU0MS00YmJkLThmNmEtYmNiYTQwNDZkZGRiXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjhjZDUxNGUtMjU0MS00YmJkLThmNmEtYmNiYTQwNDZkZGRiXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-11-16T20:44:53.894Z",
+        "url": "https://www.imdb.com/video/vi3722822425/"
+    },
+    "url": "/title/tt0120142/"
+}

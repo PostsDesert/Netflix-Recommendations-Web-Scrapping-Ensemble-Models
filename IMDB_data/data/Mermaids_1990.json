@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Cher",
+            "url": "/name/nm0000333/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bob Hoskins",
+            "url": "/name/nm0001364/"
+        },
+        {
+            "@type": "Person",
+            "name": "Winona Ryder",
+            "url": "/name/nm0000213/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 33556,
+        "ratingValue": 6.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0001995/"
+        },
+        {
+            "@type": "Person",
+            "name": "Patty Dann",
+            "url": "/name/nm0200351/"
+        },
+        {
+            "@type": "Person",
+            "name": "June Roberts",
+            "url": "/name/nm0731293/"
+        }
+    ],
+    "datePublished": "1990-12-14",
+    "description": "An unconventional single mother relocates with her two daughters to a small Massachusetts town in 1963, where a number of events and relationships both challenge and strengthen their familial bonds.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Richard Benjamin",
+            "url": "/name/nm0000907/"
+        }
+    ],
+    "duration": "PT1H50M",
+    "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTRiNjIwYjAtZWZmNC00Y2ZmLTk3ODgtMTBmNDRlYzNiOGQ2XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "keywords": "statutory rape,single mother,swimming pool,year 1964,female protagonist",
+    "name": "Mermaids",
+    "original_info": {
+        "id": "Mermaids_1990",
+        "name": "Mermaids",
+        "year": "1990"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "debterrill"
+        },
+        "dateCreated": "1998-10-01",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0100140/"
+        },
+        "name": "Delightful coming-of-age film",
+        "reviewBody": "I think this is a delightful movie. The period details are fun, Cher is GREAT, and the chemistry between Hoskins, Cher, Winona Ryder and Christina Ricci is excellent. Ryder is especially good at capturing that mixure of idealism, angst and embarrassment which is adolescence.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M20S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4065770265",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BY2I5MmM5YzAtOGYxZS00Y2YxLWIxZjUtMTliNjFkNGFlODNjXkEyXkFqcGdeQXJoYW5uYWg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BY2I5MmM5YzAtOGYxZS00Y2YxLWIxZjUtMTliNjFkNGFlODNjXkEyXkFqcGdeQXJoYW5uYWg@._V1_.jpg",
+        "uploadDate": "2018-09-13T18:00:34.379Z",
+        "url": "https://www.imdb.com/video/vi4065770265/"
+    },
+    "url": "/title/tt0100140/"
+}

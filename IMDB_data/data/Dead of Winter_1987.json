@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mary Steenburgen",
+            "url": "/name/nm0005460/"
+        },
+        {
+            "@type": "Person",
+            "name": "Roddy McDowall",
+            "url": "/name/nm0001522/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jan Rubes",
+            "url": "/name/nm0747962/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 4328,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0007143/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marc Shmuger",
+            "url": "/name/nm0794626/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Malone",
+            "url": "/name/nm0540468/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anthony Gilbert",
+            "url": "/name/nm0317954/"
+        }
+    ],
+    "datePublished": "1987-02-06",
+    "description": "A fledgling actress is lured to a remote mansion for a screen-test, soon discovering she is actually a prisoner in the middle of a blackmail plot.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Arthur Penn",
+            "url": "/name/nm0671957/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Drama",
+        "Horror",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMmFmNDk1NWItNTRiNC00ZDQ0LWI3NzQtYTYyYTU1NmExMTg5XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "actress,mansion,audition,female protagonist,country estate",
+    "name": "Dead of Winter",
+    "original_info": {
+        "id": "Dead of Winter_1987",
+        "name": "Dead of Winter",
+        "year": "1987"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "nexus-37"
+        },
+        "dateCreated": "2015-06-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0092842/"
+        },
+        "name": "Well done thriller of 80's",
+        "reviewBody": "I didn't know what to except, reviews didn't give a clue what I'm going to watch.\n\nWell first of all, big minus for the beginning, somewhere in 10 minutes or so you get the idea of whole movie. Don't get me wrong, this was very interesting and very well acted and all, nicely put together, and the ending was little twist that saved a lot.\n\nFew parts doesn't make any sense in the movie but that didn't bother me. It was lovely to watch the whole movie with huge interest for the ending.\n\nTruly worth of watch if you can handle thrillers and 80's style doesn't bother you.\n\nAnd for the last words, this was pretty original for a thriller.. legendary maybe. Now I got lost in nostalgic, enjoy!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer 1",
+        "duration": "PT2M6S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3366502169",
+        "name": "Dead of Winter",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzFkMTI0NjAtYmRjZi00NDhkLTk0OTAtYzRkNGQ2NTEzNjk4XkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzFkMTI0NjAtYmRjZi00NDhkLTk0OTAtYzRkNGQ2NTEzNjk4XkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg",
+        "uploadDate": "2019-09-10T17:20:38.409Z",
+        "url": "https://www.imdb.com/video/vi3366502169/"
+    },
+    "url": "/title/tt0092842/"
+}

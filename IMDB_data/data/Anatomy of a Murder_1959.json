@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "James Stewart",
+            "url": "/name/nm0000071/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lee Remick",
+            "url": "/name/nm0001665/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ben Gazzara",
+            "url": "/name/nm0001262/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 67951,
+        "ratingValue": 8,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0126913/"
+        },
+        {
+            "@type": "Person",
+            "name": "Wendell Mayes",
+            "url": "/name/nm0562606/"
+        },
+        {
+            "@type": "Person",
+            "name": "John D. Voelker",
+            "url": "/name/nm0871261/"
+        }
+    ],
+    "datePublished": "1959-07-13",
+    "description": "An upstate Michigan lawyer defends a soldier who claims he killed an innkeeper due to temporary insanity after the victim raped his wife. What is the truth, and will he win his case?",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Otto Preminger",
+            "url": "/name/nm0695937/"
+        }
+    ],
+    "duration": "PT2H41M",
+    "genre": [
+        "Drama",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzM0MzE2ZTAtZTBjZS00MTk5LTg5OTEtNjNmYmQ5NzU2OTUyXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_.jpg",
+    "keywords": "rape,murder trial,rape victim,revenge,courtroom drama",
+    "name": "Anatomy of a Murder",
+    "original_info": {
+        "id": "Anatomy of a Murder_1959",
+        "name": "Anatomy of a Murder",
+        "year": "1959"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "swamiger"
+        },
+        "dateCreated": "2005-05-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0052561/"
+        },
+        "name": "One of my favorites",
+        "reviewBody": "First of all be patient as the following information is getting to a point that might add to your appreciation of the movie. I became aware of the following information while attending Northern Michigan University in Marquette, MI over a few tall drinks with John D. Volker, the author, years ago.\n\nThis great courtroom drama is set in the Upper Peninsula of Michigan. To be more specific the cities of Marquette, Negaunee and Ishpeming and the village of Big Bay and is based on a true murder case that took place there. The names of the cities and people are changed in the movie but it is filmed on the same locations that the murder case took place. The screenplay was written by John D. Volker (who wrote his novels under the pen name Robert Travers) and was based on his first novel. He was from Ishpeming (Iron City in the movie) and a Michigan Supreme Court Justice when he reviewed the appeal of this case and turned it into a detailed novel and then screenplay. The movie is given an extra dose of authenticity by using the unique people of the Upper Peninsula as extras and in minor roles. \n\nThe point of all this historical information is that along with a hard hitting realistic style by director Otto Premenger, great score by Duke Ellington, plus top notch true to life performances by the excellent cast (Jimmy Stewart, Ben Gazara, Lee Remick, George C. Scott, et.al) this black and white film is more reality than fiction and being aware of this adds to impact of this psychological courtroom drama. This is a true human experience written by an author from the area directly from the original court transcripts, filmed where it happened in a style that fits the subject matter where it actually happened with a cast that really knows what they are doing. \n\nIf you like ripped from reality courtroom dramas, does it get better?",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "An upstate Michigan lawyer defends a soldier who claims he killed an innkeeper due to temporary insanity after the victim raped his wife. What is the truth, and will he win his case?",
+        "duration": "PT4M49S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi110543641",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYmMxNWYzYjctNGIyOS00NTAzLWExZDUtZDJiZjAyYTg4YmNiXkEyXkFqcGdeQWFuaW5vc2M@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYmMxNWYzYjctNGIyOS00NTAzLWExZDUtZDJiZjAyYTg4YmNiXkEyXkFqcGdeQWFuaW5vc2M@._V1_.jpg",
+        "uploadDate": "2021-10-07T02:55:25.844Z",
+        "url": "https://www.imdb.com/video/vi110543641/"
+    },
+    "url": "/title/tt0052561/"
+}

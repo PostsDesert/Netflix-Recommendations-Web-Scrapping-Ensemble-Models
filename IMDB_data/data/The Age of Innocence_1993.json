@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Daniel Day-Lewis",
+            "url": "/name/nm0000358/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michelle Pfeiffer",
+            "url": "/name/nm0000201/"
+        },
+        {
+            "@type": "Person",
+            "name": "Winona Ryder",
+            "url": "/name/nm0000213/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 62365,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0011179/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edith Wharton",
+            "url": "/name/nm0923585/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jay Cocks",
+            "url": "/name/nm0168379/"
+        },
+        {
+            "@type": "Person",
+            "name": "Martin Scorsese",
+            "url": "/name/nm0000217/"
+        }
+    ],
+    "datePublished": "1993-10-01",
+    "description": "A tale of nineteenth-century New York high society in which a young lawyer falls in love with a woman separated from her husband, while he is engaged to the woman's cousin.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Martin Scorsese",
+            "url": "/name/nm0000217/"
+        }
+    ],
+    "duration": "PT2H19M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMDhkN2FhYTktYWUwNy00NTE5LWJiYjYtMGNlODIyNDc5MWZhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "keywords": "husband wife relationship,infidelity,new york,high society,orchestral music score",
+    "name": "The Age of Innocence",
+    "original_info": {
+        "id": "The Age of Innocence_1993",
+        "name": "The Age of Innocence",
+        "year": "1993"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "sundog1"
+        },
+        "dateCreated": "2003-11-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0106226/"
+        },
+        "name": "Scorsese's Ignored Masterpiece",
+        "reviewBody": "I actually saw this movie when it was released in 1993, and honestly it was pretty dull then. Of course I was 22, and the workings of that late-1800's New York society really didn't make much sense or have much relevance.\n\nI think the film may have been ignored at its release because of the slew of other \"period pieces\" which were so popular (an eventually common) in the late 80's/early 90's... But watching it again 10 years later, this film is anything but common.\n\nThe true intensity is Scorcese's detached presentation of a hypocritical & hateful society which holds its members as prisoners.\n\nNot to mention impeccable art direction & beautiful cinematography by the legendary Michael Ballhaus. The film looks as impressionistic as the paintings that line the walls of the characters' homes.\n\nScorsese is always acute in his casting decisions, and this is one of the films many virtues:\n\nLewis is perfect as a man who's struggle between his passion & his duty are constantly on the verge of devouring him (yet somehow he thrives on his torture).\n\nRyder is the seemingly innocent & naive girl who is completely manipulative & cunning underneath her exterior (gee, who would have thought?!) -- notice the arching scene.\n\nIn a sense, this was one of Pfeiffer's defining roles. Pfeiffer herself (in a sense) is an \"outcast\" who has never truly been accepted as a \"serious\" actress by her peers in the acting community. Watching this film again, it amazes me how this role somehow reflects her personal position in the current social structure of Hollywood, similar to her character existing in 1800's New York society.\n\nWow...\n\nWhat an amazing pic. I completely \"missed it\" the first time around. Great observance of \"high society.\" Many of those codes are strangely applicable today.\n\nNot recommended for those who like fast paced movies, or those who are looking for the \"usual Scorcese.\" I would couple this with \"Last Temptation of Christ\" as Scorsese's most brave, artistic, demanding & abstract films to date.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for The Age Of Innocence",
+        "duration": "PT2M29S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3130497049",
+        "name": "The Age of Innocence",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTExNjkwODAtNzc3YS00NmVhLTg5ZDAtZGI0NmM2OTBiNTFkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTExNjkwODAtNzc3YS00NmVhLTg5ZDAtZGI0NmM2OTBiNTFkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-12-11T06:25:50Z",
+        "url": "https://www.imdb.com/video/vi3130497049/"
+    },
+    "url": "/title/tt0106226/"
+}

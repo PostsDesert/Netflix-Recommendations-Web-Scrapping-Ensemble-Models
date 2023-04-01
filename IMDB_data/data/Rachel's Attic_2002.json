@@ -1,0 +1,95 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Rachel Nord",
+            "url": "/name/nm1169967/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nancy Walters",
+            "url": "/name/nm1056727/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alicia Bewernitz",
+            "url": "/name/nm1256542/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 144,
+        "ratingValue": 3.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000294/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Skates",
+            "url": "/name/nm0803913/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Tybor",
+            "url": "/name/nm1168186/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrew Wilkins",
+            "url": "/name/nm1170823/"
+        }
+    ],
+    "datePublished": "2002-07-16",
+    "description": "After returning home from a two week trial in Chicago, Rachel Bishop finds her sister Emily Bishop missing. She then finds her sister in what appears to be a well done snuff film where she appears to be murdered. Disregarding the ...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David Tybor",
+            "url": "/name/nm1168186/"
+        }
+    ],
+    "duration": "PT1H52M",
+    "genre": [
+        "Drama",
+        "Action",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjkwNzAyY2EtOGI3ZS00MzZmLTkxOTYtNjkyOThlNGE0ODAwXkEyXkFqcGdeQXVyMTIxMDUyOTI@._V1_.jpg",
+    "keywords": "fbi federal bureau of investigation,sister,dominatrix,disappearance,snuff film",
+    "name": "Rachel's Attic",
+    "original_info": {
+        "id": "Rachel's Attic_2002",
+        "name": "Rachel's Attic",
+        "year": "2002"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "DetroitFilmMaker"
+        },
+        "dateCreated": "2003-03-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0318010/"
+        },
+        "name": "One Heart Pounding Thrill Ride in Detroit",
+        "reviewBody": "Rachel's Attic has to be one of the best times I have ever had making a film. The cast and crew were excellent! Look for Rachel's Attic 2 in the distant future. Come make movies in Michigan! - David Michael Waszak, Producer",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0318010/"
+}

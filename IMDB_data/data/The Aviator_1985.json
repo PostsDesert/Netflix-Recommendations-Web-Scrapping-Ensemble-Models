@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Christopher Reeve",
+            "url": "/name/nm0001659/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rosanna Arquette",
+            "url": "/name/nm0000275/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jack Warden",
+            "url": "/name/nm0912001/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1346,
+        "ratingValue": 5.5,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0026841/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0026101/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ernest K. Gann",
+            "url": "/name/nm0304418/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marc Norman",
+            "url": "/name/nm0635565/"
+        }
+    ],
+    "datePublished": "1985-03-15",
+    "description": "A 1920s mail pilot and a rich man's daughter crash-land on a mountain full of hungry wolves.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "George Miller",
+            "url": "/name/nm0004305/"
+        }
+    ],
+    "duration": "PT1H36M",
+    "genre": [
+        "Adventure",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk1Nzg5NDI5OF5BMl5BanBnXkFtZTcwNDgwMTMzMQ@@._V1_.jpg",
+    "keywords": "two word title,army,year 1918,u.s. mail pilot,texas",
+    "name": "The Aviator",
+    "original_info": {
+        "id": "The Aviator_1985",
+        "name": "The Aviator",
+        "year": "1985"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Chromium_5"
+        },
+        "dateCreated": "2005-03-26",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0088758/"
+        },
+        "name": "Enjoyable, with a really good performance by Reeves.",
+        "reviewBody": "Chris Reeves's legacy will always be Superman, but he proves here that he was a fine actor who could really nail his character. He does a great job as an introverted, bitter pilot. The other reviewer is correct that Rosanna Arquette is annoying; however, she's not at all the worst part of the movie. If anything is annoying, it's the painfully inaccurate portrayal of wolves. Look, filmmakers, wolves do not stalk people through the woods and attack them out of the blue. This is real life, not \"The Howling.\" Other than those small complaints, though, this simple survival story is fun and engaging, and definitely worth noting for Reeves. 8/10 stars.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A 1920s mail pilot and a rich man's daughter crash-land on a mountain full of hungry wolves.",
+        "duration": "PT2M31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi686080793",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZmY1OTY5NTMtODllNC00NWMxLWI1MTEtNjM2YjYyMzgwYjIxXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZmY1OTY5NTMtODllNC00NWMxLWI1MTEtNjM2YjYyMzgwYjIxXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-11-15T20:39:22.884Z",
+        "url": "https://www.imdb.com/video/vi686080793/"
+    },
+    "url": "/title/tt0088758/"
+}

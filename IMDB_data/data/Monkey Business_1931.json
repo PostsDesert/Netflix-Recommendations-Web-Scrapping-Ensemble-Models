@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Groucho Marx",
+            "url": "/name/nm0000050/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harpo Marx",
+            "url": "/name/nm0555617/"
+        },
+        {
+            "@type": "Person",
+            "name": "The Marx Brothers",
+            "url": "/name/nm2580347/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 13845,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Person",
+            "name": "S.J. Perelman",
+            "url": "/name/nm0673279/"
+        },
+        {
+            "@type": "Person",
+            "name": "Will B. Johnstone",
+            "url": "/name/nm0426953/"
+        },
+        {
+            "@type": "Person",
+            "name": "Arthur Sheekman",
+            "url": "/name/nm0790654/"
+        }
+    ],
+    "datePublished": "1931-09-19",
+    "description": "On a transatlantic crossing, The Marx Brothers get up to their usual antics and manage to annoy just about everyone on board the ship.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Norman Z. McLeod",
+            "url": "/name/nm0572851/"
+        }
+    ],
+    "duration": "PT1H17M",
+    "genre": [
+        "Comedy",
+        "Family",
+        "Musical"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjQ5NWJiNWItNmNjNy00ZjY1LWE2OTYtMjcwY2VmZTAzNGNiXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
+    "keywords": "marx brothers,barn,party,hiding in a closet,chase",
+    "name": "Monkey Business",
+    "original_info": {
+        "id": "Monkey Business_1931",
+        "name": "Monkey Business",
+        "year": "1931"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "km_dickson"
+        },
+        "dateCreated": "2005-08-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0022158/"
+        },
+        "name": "This is where the Marx Brothers hit their stride",
+        "reviewBody": "Much better than the first two Marx Brothers efforts. This is the first Marx Bros. movie written directly for the screen rather than adapted from one of their Vaudeville shows. The result is a faster pace, a bigger production and a wider variety of scenes. This was exactly what the brothers needed to become more effective on screen. The supporting cast is trimmed down, with Zeppo filling the romantic lead, thus combining two non-funny characters into one. This gives more screen time to Groucho, Harpo and Chico, who are on top of their game here. The comic bits don't drag on too long, and the musical numbers don't kill the momentum; both improvements from their earlier films. The storyline and the rest of the cast are just as bad as always, but what do you expect? The point is that the movie is hilarious and entertaining from beginning to end. Monkey Business is where the Marx Brothers really began to hit their stride.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "On a transatlantic crossing, The Marx Brothers get up to their usual antics and manage to annoy just about everyone on board the ship.",
+        "duration": "PT2M22S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi353485593",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOGY4Mjk0NTQtNDQwNy00MGRkLThmMTYtNjNmNjg5YWE0Yjk0XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGY4Mjk0NTQtNDQwNy00MGRkLThmMTYtNjNmNjg5YWE0Yjk0XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2022-01-20T16:48:23.249Z",
+        "url": "https://www.imdb.com/video/vi353485593/"
+    },
+    "url": "/title/tt0022158/"
+}

@@ -1,0 +1,78 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Aerosmith",
+            "url": "/name/nm0012613/"
+        },
+        {
+            "@type": "Person",
+            "name": "Catherine Epps",
+            "url": "/name/nm2397616/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bruce Fairbairn",
+            "url": "/name/nm1839095/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 142,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Person",
+            "name": "Martin Torgoff",
+            "url": "/name/nm2240285/"
+        }
+    ],
+    "datePublished": "1990-10-09",
+    "description": "A behind-the-scenes look at the making of Pump, the album that carried Boston band Aerosmith into the nineties. While this video doesn't include album versions of any of the songs from Pump (Columbia did not have control of the ri...",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Martin Torgoff",
+            "url": "/name/nm2240285/"
+        }
+    ],
+    "duration": "PT1H50M",
+    "genre": [
+        "Documentary",
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI4MDc1NDgxOF5BMl5BanBnXkFtZTcwNzUzMTMyMQ@@._V1_.jpg",
+    "name": "Aerosmith: The Making of Pump",
+    "original_info": {
+        "id": "Aerosmith: The Making of Pump_1990",
+        "name": "Aerosmith: The Making of Pump",
+        "year": "1990"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Classic Camp"
+        },
+        "dateCreated": "2000-08-16",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0166949/"
+        },
+        "name": "Anyone who's interested in the music business should see this video!",
+        "reviewBody": "This movie provides an interesting look into the recording process, from the creative process to the final album release. This video follows Aerosmith through every step of the recording of their famous \"PUMP\" album. It's sort of their answer to Madonna's \"Truth or Dare,\" but instead of following an artist on a tour, it follows them through the recording studios.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0166949/"
+}

@@ -1,0 +1,112 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tommy Lee Jones",
+            "url": "/name/nm0000169/"
+        },
+        {
+            "@type": "Person",
+            "name": "Will Smith",
+            "url": "/name/nm0000226/"
+        },
+        {
+            "@type": "Person",
+            "name": "Linda Fiorentino",
+            "url": "/name/nm0000400/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 579646,
+        "ratingValue": 7.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0009119/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0108321/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lowell Cunningham",
+            "url": "/name/nm0192384/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ed Solomon",
+            "url": "/name/nm0004412/"
+        }
+    ],
+    "datePublished": "1997-07-02",
+    "description": "A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Barry Sonnenfeld",
+            "url": "/name/nm0001756/"
+        }
+    ],
+    "duration": "PT1H38M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTlhYTVkMDktYzIyNC00NzlkLTlmN2ItOGEyMWQ4OTA2NDdmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "keywords": "alien,superhero,flying saucer,laser gun,wisecrack humor",
+    "name": "Men in Black",
+    "original_info": {
+        "id": "Men in Black_1997",
+        "name": "Men in Black",
+        "year": "1997"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Aaron1375"
+        },
+        "dateCreated": "2005-07-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0119654/"
+        },
+        "name": "Fast moving science fiction comedy.",
+        "reviewBody": "This movie was really fun to watch the first time I saw it in theaters, upon subsequent viewings, however, it loses its luster. Still though, it is still a fun movie to watch. Unlike the sequel which rushes us through the story, this one takes a bit more time developing the characters even though it is only about ten minutes longer. Both Tommy Lee Jones and Will Smith are very good and funny, especially Smith because he is the new guy so he is seeing all the weird aliens and such for the first time. This is also something missing from the sequel. In the end though the reason I probably like this one so much is that it sort of reminds me of a Ghostbuster movie, and seeing as how we will most likely never see another sequel to that movie it is nice to see a movie sort of like it in that they are keeping tabs and hunting aliens rather than ghosts. The pug dog scene is funny, and the dog is not over used as in the sequel, and there is also a funny scene where Will Smith must deliver an alien baby...their main objective in this one is to track down an alien insect that has hijacked the skin of a guy and is trying to find a universe. If he succeeds the Earth is destroyed, of course Tommy Lee's character is so calm about the whole situation that you feel you have nothing to worry about. So for a funny movie that has great scenes of Will Smith training and becoming a Man in Black watch this film and do yourself a favor and skip part two...not that it was entirely bad, I liked it okay, but it just seems like an unnecessary sequel.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.",
+        "duration": "PT2M25S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4224631321",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTlkZTQ2OTAtZjllNC00YTI2LTlkNzAtMjM2NGEyZGM4ZTQxXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTlkZTQ2OTAtZjllNC00YTI2LTlkNzAtMjM2NGEyZGM4ZTQxXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+        "uploadDate": "2022-07-02T16:50:29.851Z",
+        "url": "https://www.imdb.com/video/vi4224631321/"
+    },
+    "url": "/title/tt0119654/"
+}

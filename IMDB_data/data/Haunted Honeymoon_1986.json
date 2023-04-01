@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Gene Wilder",
+            "url": "/name/nm0000698/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gilda Radner",
+            "url": "/name/nm0705717/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dom DeLuise",
+            "url": "/name/nm0001123/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7616,
+        "ratingValue": 5.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0001995/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gene Wilder",
+            "url": "/name/nm0000698/"
+        },
+        {
+            "@type": "Person",
+            "name": "Terence Marsh",
+            "url": "/name/nm0550671/"
+        }
+    ],
+    "datePublished": "1986-07-25",
+    "description": "Two radio voice actors are getting married. Larry has fits of fear. A shrink needs 36 hours to scare him to death and cure him - during a family reunion at a scary family castle.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Gene Wilder",
+            "url": "/name/nm0000698/"
+        }
+    ],
+    "duration": "PT1H22M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BODRkM2UyNTktZTk4Ni00NTM5LThhZWYtZDUyY2NlYmRiZjc2XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",
+    "keywords": "honeymoon,haunted house,expensive vase,werewolf,sliding down a banister",
+    "name": "Haunted Honeymoon",
+    "original_info": {
+        "id": "Haunted Honeymoon_1986",
+        "name": "Haunted Honeymoon",
+        "year": "1986"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "bannonanthony"
+        },
+        "dateCreated": "2001-03-22",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0091178/"
+        },
+        "name": "Just brilliant!",
+        "reviewBody": "Another film which no-one else seems to like, but which I find enjoyable. I think some people should give this picture a second chance. Gene Wilder plays a neurotic radio star called Larry Abbott, and on the eve of his wedding to co-star Vicky Pearle (the late Mrs. Wilder, Gilda Radner) his memories of a childhood trauma cause him to experience bizarre mood swings. His psychiatrist uncle arranges for him to spend the weekend at his aunt's Gothic mansion. The whole bizarre family gathers and a series of madcap events occur as a mysterious killer tries to bump Wilder off to get the family fortune. Wilder is not as funny as he usually is. He only really shines with the 'legs' joke in the cellar, but his co-stars generate a lot of smiles, especially the dragged-up Dom DeLuise as Great Aunt Kate, Bryan Pringle as the alcoholic butler Pfister and Gilda Radner herself raises mucho smiles. A young Jonathan Pryce is suitably hissable as bad guy Charlie. John Morris' music score is as excellent as ever as are the sets by Terence Marsh (THE SHAWSHANK REDEMPTION) who also co-wrote the script with Wilder. Just give it a chance.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from MGM Home Entertainment",
+        "duration": "PT2M18S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2594963737",
+        "name": "Haunted Honeymoon",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMDI5OGNmMDAtZjNlNi00Mzk0LTgzZDEtYjExNTgyMmNkNTJjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDI5OGNmMDAtZjNlNi00Mzk0LTgzZDEtYjExNTgyMmNkNTJjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:24:01Z",
+        "url": "https://www.imdb.com/video/vi2594963737/"
+    },
+    "url": "/title/tt0091178/"
+}

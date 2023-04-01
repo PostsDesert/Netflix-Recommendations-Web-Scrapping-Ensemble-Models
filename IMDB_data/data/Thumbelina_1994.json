@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jodi Benson",
+            "url": "/name/nm0072533/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gary Imhoff",
+            "url": "/name/nm0408189/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gino Conforti",
+            "url": "/name/nm0174581/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 17723,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0074322/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hans Christian Andersen",
+            "url": "/name/nm0026153/"
+        },
+        {
+            "@type": "Person",
+            "name": "Don Bluth",
+            "url": "/name/nm0089940/"
+        }
+    ],
+    "datePublished": "1994-03-30",
+    "description": "This retelling of the Hans Christian Andersen classic fairy tale has the digit-sized heroine evading the clutches of various toads, moles, and beetles before she can proceed with her courtship with her dream lover, Prince Cornelius.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Don Bluth",
+            "url": "/name/nm0089940/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gary Goldman",
+            "url": "/name/nm0325776/"
+        }
+    ],
+    "duration": "PT1H26M",
+    "genre": [
+        "Animation",
+        "Adventure",
+        "Family"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNmE3MjdmMGMtOThhMS00OGRhLTllNDItMmJmN2QxMjA4ZTI2XkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_.jpg",
+    "keywords": "based on fairy tale,mouse,bird,paris france,adopted daughter",
+    "name": "Thumbelina",
+    "original_info": {
+        "id": "Thumbelina_1994",
+        "name": "Thumbelina",
+        "year": "1994"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Elizabeth_d13"
+        },
+        "dateCreated": "2004-10-28",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0111419/"
+        },
+        "name": "I love this movie!!",
+        "reviewBody": "Ever since I first saw this movie I have loved it. It grabbed hold of my imagination. It also follows very close to the original story which is more than I can say for several other books made to movies. It has also captivated the imagination of my children. They will sit through this movie and then talk about it all day. They even pretend to be the characters. This movie is one of the greatest children's movies ever made. It has comedy, beautiful music,a love story and it also teaches a valuable lesson....To always follow your heart and you will have your dreams realized. I recommend this movie to anyone who is in the mood for a feel good movie that leaves you with the feeling that you can do anything if you want it strong enough. I love the songs, I love the story, I love it all."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M7S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2188689689",
+        "name": "Trailer [EN]",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYWZkYTA3ZDQtNTMwMC00YmY1LTg0YWQtYzk1NDE0ODBiZjAzXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYWZkYTA3ZDQtNTMwMC00YmY1LTg0YWQtYzk1NDE0ODBiZjAzXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-01-14T21:36:23.120Z",
+        "url": "https://www.imdb.com/video/vi2188689689/"
+    },
+    "url": "/title/tt0111419/"
+}

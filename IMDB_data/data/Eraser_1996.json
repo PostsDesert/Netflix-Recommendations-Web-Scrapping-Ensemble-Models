@@ -1,0 +1,117 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Arnold Schwarzenegger",
+            "url": "/name/nm0000216/"
+        },
+        {
+            "@type": "Person",
+            "name": "Vanessa Williams",
+            "url": "/name/nm0001853/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Caan",
+            "url": "/name/nm0001001/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 114258,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0044240/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0195234/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tony Puryear",
+            "url": "/name/nm0701049/"
+        },
+        {
+            "@type": "Person",
+            "name": "Walon Green",
+            "url": "/name/nm0338396/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael S. Chernuchin",
+            "url": "/name/nm0155961/"
+        }
+    ],
+    "datePublished": "1996-06-21",
+    "description": "A Witness Protection specialist becomes suspicious of his co-workers when dealing with a case involving high-tech weapons.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Chuck Russell",
+            "url": "/name/nm0751080/"
+        }
+    ],
+    "duration": "PT1H55M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNDNlZGNkY2YtNjA1NS00NDZhLWFhZGEtMzlmMWIyMDI1M2ZiXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "witness protection program,rogue agent,treason,railgun,x ray vision",
+    "name": "Eraser",
+    "original_info": {
+        "id": "Eraser_1996",
+        "name": "Eraser",
+        "year": "1996"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "claudonio"
+        },
+        "dateCreated": "2000-11-05",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0116213/"
+        },
+        "name": "Better than I remember",
+        "reviewBody": "I just saw \"Eraser\" again, and I am suprised to find that I enjoyed it more than when I saw it before. It Delivers thrills, laughs and lot of action. Schwarzenegger is not Robert DeNiro, but he is likeable in his role here. The story is intriguing: A U.S. Marshall that erases peoples identities. This is not Schwarzengger's best movie but it is definitly worth a look.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Warner Home Video",
+        "duration": "PT2M10S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1839530265",
+        "name": "Eraser",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BY2M5NmZkMTYtMDQ4Yy00NGVhLWE3ZTItM2EzNjdmODM2NmUxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BY2M5NmZkMTYtMDQ4Yy00NGVhLWE3ZTItM2EzNjdmODM2NmUxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:01:26Z",
+        "url": "https://www.imdb.com/video/vi1839530265/"
+    },
+    "url": "/title/tt0116213/"
+}

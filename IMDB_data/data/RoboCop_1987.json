@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Peter Weller",
+            "url": "/name/nm0000693/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nancy Allen",
+            "url": "/name/nm0000262/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dan O'Herlihy",
+            "url": "/name/nm0641397/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 265371,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0001995/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edward Neumeier",
+            "url": "/name/nm0627159/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Miner",
+            "url": "/name/nm0591160/"
+        }
+    ],
+    "datePublished": "1987-07-17",
+    "description": "In a dystopic and crime-ridden Detroit, a terminally wounded cop returns to the force as a powerful cyborg haunted by submerged memories.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Paul Verhoeven",
+            "url": "/name/nm0000682/"
+        }
+    ],
+    "duration": "PT1H42M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZWVlYzU2ZjQtZmNkMi00OTc3LTkwZmYtZDVjNmY4OWFmZGJlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "robot,police,cyborg,graphic violence,robocop",
+    "name": "RoboCop",
+    "original_info": {
+        "id": "RoboCop_1987",
+        "name": "RoboCop",
+        "year": "1987"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "tavm"
+        },
+        "dateCreated": "2007-04-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0093870/"
+        },
+        "name": "RoboCop is Paul Verhoeven's classic sci-fi action picture",
+        "reviewBody": "Quick, what do Peter Weller, Ray Wise, and Paul McCrane have in common? If you say they were all in RoboCop, you're all halfway there. What they also have in common was they all were in Day 5 of \"24\" (with McCrane's role partly expanded to Day 6). Besides those names other familiar faces include Ronny Cox (Beverly Hills Cop series), Nancy Allen (ex-husband Brian De Palma movies, I Wanna Hold Your Hand), Miguel Ferrer (\"Twin Peaks\"), and, in the movie's best role, Kurtwood Smith (\"That '70s Show\") as the main villain, Clarence Boddicker. While partially predictable, RoboCop has some of the most badass action in movie history with wonderful humorous touches throughout. Director Paul Verhoeven really keeps a constant pace during the chase scenes. Check out Leeza Gibbons as one of the news anchors in the TV clip sequences. This movie is most highly recommended.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "In a dystopic and crime-ridden Detroit, a terminally wounded cop returns to the force as a powerful cyborg haunted by submerged memories. ",
+        "duration": "PT31S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2038694169",
+        "name": "Robocop (1987)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZWJhMWUzMTMtM2FlNy00NDFhLTk5OTctNWIwMDAzYmE0OWM4XkEyXkFqcGdeQW1yb3NzZXI@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZWJhMWUzMTMtM2FlNy00NDFhLTk5OTctNWIwMDAzYmE0OWM4XkEyXkFqcGdeQW1yb3NzZXI@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:54:12Z",
+        "url": "https://www.imdb.com/video/vi2038694169/"
+    },
+    "url": "/title/tt0093870/"
+}

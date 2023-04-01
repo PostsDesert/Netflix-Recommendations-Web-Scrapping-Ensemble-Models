@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Nicole Kidman",
+            "url": "/name/nm0000173/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ewan McGregor",
+            "url": "/name/nm0000191/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Leguizamo",
+            "url": "/name/nm0000491/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 289790,
+        "ratingValue": 7.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0062619/"
+        },
+        {
+            "@type": "Person",
+            "name": "Baz Luhrmann",
+            "url": "/name/nm0525303/"
+        },
+        {
+            "@type": "Person",
+            "name": "Craig Pearce",
+            "url": "/name/nm0668902/"
+        }
+    ],
+    "datePublished": "2001-06-01",
+    "description": "A poor Bohemian poet in 1890s Paris falls for a beautiful courtesan and nightclub star coveted by a jealous duke.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Baz Luhrmann",
+            "url": "/name/nm0525303/"
+        }
+    ],
+    "duration": "PT2H7M",
+    "genre": [
+        "Drama",
+        "Musical",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMWFhYjliNjYtYjNhNS00OGExLWFhMjQtNDgwOWYyNWJiYzhmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "keywords": "jealousy,heterosexuality,1890s,moulin rouge,writer",
+    "name": "Moulin Rouge!",
+    "original_info": {
+        "id": "Moulin Rouge_2001",
+        "name": "Moulin Rouge",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "TheLittleSongbird"
+        },
+        "dateCreated": "2009-06-05",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0203009/"
+        },
+        "name": "Beautiful Parisian Extravaganza!",
+        "reviewBody": "Moulin Rouge portrays a complicated, passionate and powerful love story, that is also incredibly moving. I am 17, and I thought the film was near-perfect, I mean I loved the overall look of the film with its gorgeous costumes, dazzling choreography and sumptuous cinematography. The script was very poetic, especially when Christian is comparing Satine, the beautiful courtesan to a \"sparkling diamond\", and when Toulouse exclaims \"I hope the piano is tuned\". The songs are wonderful, particularly \"Come What May\" and \"The Show Must Go On\", and everybody in the cast does their own singing, and I honestly didn't know Ewen MacGregor could sing, he has an amazing voice. I have heard too many complaints saying there are too many songs, but do bear in mind it is a musical, and to me, being an aspiring singer, music is like poetry, and very often is the best way to describe your mood. I thought the performances were brilliant. Ewen MacGregor is very earnest and likable as always as Christian, and Nicole Kidman is both fabulously sexy and wonderfully tragic as the consumptive Satine, and the character's death scene was quite heart-rending, and was very reminiscent of the Greta Garbo movie Camille(which I will admit I like more). I also liked the performances of Jim Broadbent as the sympathetic Ziegler and Richard Roxburgh as the wily duke. However there were one or two aspects that were extremely silly, like the hilarious Can Can scene as well as the duet between Ziegler and the Duke, and compared to Jose Ferrer's more poignant portrayal as Toulouse in the 1952 version, John Leguizamo as the character mayn't be to everyone's taste. Overall, a beautiful extravagant film with a 9/10. Bethany Cox",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer",
+        "duration": "PT1M35S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1821835545",
+        "name": "Moulin Rouge",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjNhNzIwNzQtN2UxMi00ZWZlLTk4NTMtNjY2YTM5NWUzNzRjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjNhNzIwNzQtN2UxMi00ZWZlLTk4NTMtNjY2YTM5NWUzNzRjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:06:17Z",
+        "url": "https://www.imdb.com/video/vi1821835545/"
+    },
+    "url": "/title/tt0203009/"
+}

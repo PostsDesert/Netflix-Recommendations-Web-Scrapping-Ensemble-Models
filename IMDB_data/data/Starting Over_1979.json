@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Burt Reynolds",
+            "url": "/name/nm0000608/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jill Clayburgh",
+            "url": "/name/nm0001049/"
+        },
+        {
+            "@type": "Person",
+            "name": "Candice Bergen",
+            "url": "/name/nm0000298/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2992,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0006081/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dan Wakefield",
+            "url": "/name/nm0906764/"
+        },
+        {
+            "@type": "Person",
+            "name": "James L. Brooks",
+            "url": "/name/nm0000985/"
+        }
+    ],
+    "datePublished": "1979-10-05",
+    "description": "A divorced man falls in love, but somehow he can't get over his ex-wife. This affects his love life in comic ways. Based on Dan Wakefield's novel.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Alan J. Pakula",
+            "url": "/name/nm0001587/"
+        }
+    ],
+    "duration": "PT1H45M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYjFkOWMxMTQtZGJkMS00ZTkwLTg4YTEtMTFmYjY1YTU0YjA0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "teacher,divorced man,ex husband ex wife relationship,neo screwball comedy,female songwriter",
+    "name": "Starting Over",
+    "original_info": {
+        "id": "Starting Over_1979",
+        "name": "Starting Over",
+        "year": "1979"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "lbinstock"
+        },
+        "dateCreated": "2009-04-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0079948/"
+        },
+        "name": "Starting Over, a Tribute to Pakula",
+        "reviewBody": "Starting Over is a great movie and another tribute to the late director, Alan Pakula, who could get the utmost out of his actors.In almost all his movies some cast member would win, or at least be nominated for, an Oscar -- Jane Fonda in Klute, Meryl Streep in Sophie's Choice, Jason Robards in All the President's Men, and the two female leads in Starting Over. Yet Pakula seemed to be always under the radar and, in my opinion, never got the glory he deserved. His name is never brought up in discussions about the great directors. What a shame. When you watch Starting Over, notice how every actor -- from the leads to the smallest walk-on -- does an outstanding job. That's the Pakula touch."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Starting Over: Why Didn't You Throw These Away?",
+        "duration": "PT1M13S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2277426201",
+        "name": "Starting Over: Why Didn't You Throw These Away?",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTYxY2VlY2EtMzJhYS00Njg4LTk2OTktNzNlN2MxNGFkZmY0XkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTYxY2VlY2EtMzJhYS00Njg4LTk2OTktNzNlN2MxNGFkZmY0XkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2023-02-17T21:31:21.547Z",
+        "url": "https://www.imdb.com/video/vi2277426201/"
+    },
+    "url": "/title/tt0079948/"
+}

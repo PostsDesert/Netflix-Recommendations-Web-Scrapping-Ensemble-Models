@@ -1,0 +1,106 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dudley Moore",
+            "url": "/name/nm0001545/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kirk Cameron",
+            "url": "/name/nm0131647/"
+        },
+        {
+            "@type": "Person",
+            "name": "Margaret Colin",
+            "url": "/name/nm0171513/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 6223,
+        "ratingValue": 5.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0310123/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0102264/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lorne Cameron",
+            "url": "/name/nm0131661/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve Bloom",
+            "url": "/name/nm0089237/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Hoselton",
+            "url": "/name/nm0395924/"
+        }
+    ],
+    "datePublished": "1987-10-02",
+    "description": "A mysterious potion switches the personalities of a buttoned-up doctor and his laid-back son.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Rod Daniel",
+            "url": "/name/nm0199722/"
+        }
+    ],
+    "duration": "PT1H40M",
+    "genre": [
+        "Comedy",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZGFmZDY3NzYtNjZkNy00MTg5LTgzOGItZDMyM2M2ZGNiZWY3XkEyXkFqcGdeQXVyMTUyOTc1NDYz._V1_.jpg",
+    "keywords": "body switching,body swap,adult as child,child as adult,serum",
+    "name": "Like Father Like Son",
+    "original_info": {
+        "id": "Like Father_1987",
+        "name": "Like Father",
+        "year": "1987"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Cal-16"
+        },
+        "dateCreated": "2001-04-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0093418/"
+        },
+        "name": "Closes the \"generation gap\"",
+        "reviewBody": "The way I see it, this story gave each of the two groups (teenaged students and middle-aged professional people) a better understanding of the trials and tribulations the other experiences on a daily basis. As kids, we think our parents' lives are easy, and as adults, we tend to forget the pressures experienced by highschoolers. I enjoyed this film, and hope others will, too."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Official Trailer",
+        "duration": "PT1M28S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4228759321",
+        "name": "Like Father Like Son",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMWExZjUwYWMtYzc0OC00MjE0LWFkOWYtYWJmMjFkODM3YTIyXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMWExZjUwYWMtYzc0OC00MjE0LWFkOWYtYWJmMjFkODM3YTIyXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2020-01-04T17:02:31.527Z",
+        "url": "https://www.imdb.com/video/vi4228759321/"
+    },
+    "url": "/title/tt0093418/"
+}

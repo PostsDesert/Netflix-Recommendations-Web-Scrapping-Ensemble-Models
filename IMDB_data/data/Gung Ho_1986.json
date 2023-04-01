@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Michael Keaton",
+            "url": "/name/nm0000474/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gedde Watanabe",
+            "url": "/name/nm0913797/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Wendt",
+            "url": "/name/nm0001841/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 13403,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Person",
+            "name": "Edwin Blum",
+            "url": "/name/nm0089637/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lowell Ganz",
+            "url": "/name/nm0304665/"
+        },
+        {
+            "@type": "Person",
+            "name": "Babaloo Mandel",
+            "url": "/name/nm0541632/"
+        }
+    ],
+    "datePublished": "1986-03-14",
+    "description": "When a Japanese car company buys an American plant, the American liaison must mediate the clash of work attitudes between the foreign management and native labor.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Ron Howard",
+            "url": "/name/nm0000165/"
+        }
+    ],
+    "duration": "PT1H51M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMGU5NWQ1MTYtNzVkMy00NDFhLThkZTctM2MxMTFiN2NlMmU3L2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "1980s,car factory,culture clash,foreman,automobile industry",
+    "name": "Gung Ho",
+    "original_info": {
+        "id": "Gung Ho_1986",
+        "name": "Gung Ho",
+        "year": "1986"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "honesty"
+        },
+        "dateCreated": "1998-12-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0091159/"
+        },
+        "name": "This is a typical Keaton comedy...excellent!",
+        "reviewBody": "This comedy is bound to be good from the get-go. East meets west and east doesn't want to lose...west doesn't know what losing is like. It starts a little slow but it grabs you very soon and it doesn't let go. This is definitely worth seeing.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "\",\"duration\":\"PT2M21S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1077067801",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjZlZmNlZWItZWYwOC00NjY4LTkxNmEtZWY0Y2ZhY2NkZGE1XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjZlZmNlZWItZWYwOC00NjY4LTkxNmEtZWY0Y2ZhY2NkZGE1XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2021-05-28T11:46:44.633Z",
+        "url": "https://www.imdb.com/video/vi1077067801/"
+    },
+    "url": "/title/tt0091159/"
+}

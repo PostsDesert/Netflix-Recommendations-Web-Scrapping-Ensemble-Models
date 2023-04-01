@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Julie Andrews",
+            "url": "/name/nm0000267/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Crenna",
+            "url": "/name/nm0001077/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Craig",
+            "url": "/name/nm0185954/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2183,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0024434/"
+        },
+        {
+            "@type": "Person",
+            "name": "William Fairchild",
+            "url": "/name/nm0265535/"
+        }
+    ],
+    "datePublished": "1968-10-22",
+    "description": "A musical biography of Gertrude Lawrence, who led a hustling and bustling life on the stage.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robert Wise",
+            "url": "/name/nm0936404/"
+        }
+    ],
+    "duration": "PT2H56M",
+    "genre": [
+        "Biography",
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMwMDg0MjctYWU0MS00YzdiLTg4NjMtNjJhMWM4ZTA2YThhXkEyXkFqcGdeQXVyMjA0MDQ0Mjc@._V1_.jpg",
+    "keywords": "timeframe 1910s,timeframe 1920s,timeframe 1930s,stage,singing",
+    "name": "Star!",
+    "original_info": {
+        "id": "Star!_1968",
+        "name": "Star!",
+        "year": "1968"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "crescenthts"
+        },
+        "dateCreated": "2001-07-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0063642/"
+        },
+        "name": "Julie Andrews At Her Best Ever!",
+        "reviewBody": "It is not often that one can find a film where the leading lady looks as chic or as elegant as Julie Andrews does in Robert Wise's misunderstood masterpiece STAR!. Much of the credit must go to Academy Award nominated designer Donald Brooks. The wardrobe Miss Andrews wears is both large in number (over 125 different changes) and incredibly beautiful. This is the only film that comes to mind where the costumes seen to actually turn in a performance. I cannot imagine what this film would be like without Donald Brooks' extraordinary contributuion. He along with the millions of dollars worth of Cartier jewels make this film a memorable experience. For real eye candy STAR! cannot be beat!!!"
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A musical biography of Gertrude Lawrence, who led a hustling and bustling life on the stage.",
+        "duration": "PT4M6S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1110295065",
+        "name": "Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMWIzYjRmZGUtZDU4Zi00NDUzLWJkN2UtZjcxODI5ZjgxOWM0XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMWIzYjRmZGUtZDU4Zi00NDUzLWJkN2UtZjcxODI5ZjgxOWM0XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": "2022-07-23T20:40:53.478Z",
+        "url": "https://www.imdb.com/video/vi1110295065/"
+    },
+    "url": "/title/tt0063642/"
+}

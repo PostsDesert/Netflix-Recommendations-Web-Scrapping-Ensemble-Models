@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Morgan Freeman",
+            "url": "/name/nm0000151/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christian Slater",
+            "url": "/name/nm0000225/"
+        },
+        {
+            "@type": "Person",
+            "name": "Randy Quaid",
+            "url": "/name/nm0001642/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 36201,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0272899/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0769935/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0044773/"
+        },
+        {
+            "@type": "Person",
+            "name": "Graham Yost",
+            "url": "/name/nm0003662/"
+        }
+    ],
+    "datePublished": "1998-01-16",
+    "description": "The partner and nephew of an armored-truck driver tries to prevent three million dollars from being taken by a gang during a catastrophic flooding caused by a severe storm.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Mikael Salomon",
+            "url": "/name/nm0004121/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTM5OGJkOGYtYWEyNy00MGI2LWI2NTctYTE0MTEyMTc3MmU5XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "keywords": "rogue cop,cop turns criminal,crooked cops,reference to belize,reference to penthouse letter",
+    "name": "Hard Rain",
+    "original_info": {
+        "id": "Hard Rain_1998",
+        "name": "Hard Rain",
+        "year": "1998"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "claudio_carvalho"
+        },
+        "dateCreated": "2015-11-15",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120696/"
+        },
+        "name": "Water and Greed",
+        "reviewBody": "In Huntingburg, the armored truck with three million dollars driven by Tom (Christian Slater) and his Uncle Charlie (Edward Asner) gets stuck in the flooding and realizes that the town has been evacuated since the dam does not have capacity to hold the storm. While waiting for the National Guard, they are attacked by Jim (Morgan Freeman) and his gang formed by Kenny (Michael Goorjian), Mr. Mehlor (Dann Florek) and Ray (Ricky Harris) and the clumsy Kenny kills Charlie. Tom flees with the bags of money and hides them in the cemetery. Then he is hunted down by Jim and his gang and he hides in a church. Out of the blue, he is knocked out and awakes locked in a cell. Soon he learns that the restorer Karen (Minnie Driver) believed he was a looter and hit him. Sheriff Mike Collins (Randy Quaid) and Deputy Wayne Bryce (Mark Rolston) go to investigate Tom' story while Officer Phil (Peter Murnik) takes Karen out of the town by boat. However she escapes with the boat and goes to the church. Meanwhile Tom is trapped in the cell full of water and Karen rescues him. He decides to return to the armored truck to retrieve a shotgun but he is captured by Jim and his men and learns that Charlie was part of the gang. He tries to retrieve the hidden money for the gang, but Sheriff Collins and his men have already taken it. Soon Tom learns that the Sheriff wants to keep the money for him and his men and Tom and Karen are witnesses and he teams up with Jim. \n\n\"Hard Rain\" is a combination of disaster genre with crime and action. Despite the negative reviews, the action scenes are spectacular, the cast is excellent and the plot has a great twist based on the ancient proverb \"the enemy of my enemy is my friend\". My vote is six.\n\nTitle (Brazil): \"Tempestade\" (\"Storm\")",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for Hard Rain",
+        "duration": "PT2M22S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4255514905",
+        "name": "Hard Rain",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDc5MzAxNTgtNGZlMy00YjFiLTg0ODMtODBkM2E5YzZkM2VmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDc5MzAxNTgtNGZlMy00YjFiLTg0ODMtODBkM2E5YzZkM2VmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:06:01Z",
+        "url": "https://www.imdb.com/video/vi4255514905/"
+    },
+    "url": "/title/tt0120696/"
+}

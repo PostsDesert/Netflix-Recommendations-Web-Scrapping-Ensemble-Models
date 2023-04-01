@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mel Gibson",
+            "url": "/name/nm0000154/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tina Turner",
+            "url": "/name/nm0877913/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bruce Spence",
+            "url": "/name/nm0817748/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 140274,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0066464/"
+        },
+        {
+            "@type": "Person",
+            "name": "Terry Hayes",
+            "url": "/name/nm0371249/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Miller",
+            "url": "/name/nm0004306/"
+        },
+        {
+            "@type": "Person",
+            "name": "Byron Kennedy",
+            "url": "/name/nm0447945/"
+        }
+    ],
+    "datePublished": "1985-07-10",
+    "description": "After being exiled from the most advanced town in post apocalyptic Australia, a drifter travels with a group of abandoned children to rebel against the town's queen.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "George Miller",
+            "url": "/name/nm0004306/"
+        },
+        {
+            "@type": "Person",
+            "name": "George Ogilvie",
+            "url": "/name/nm0644695/"
+        }
+    ],
+    "duration": "PT1H47M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMmI4YWEyNTItZTFiMS00YzY4LWE2ZjYtNGRlNmZhNjRmOWVkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "keywords": "post apocalypse,cage match,group of children,death match,actor reprises previous role",
+    "name": "Mad Max Beyond Thunderdome",
+    "original_info": {
+        "id": "Mad Max Beyond Thunderdome_1985",
+        "name": "Mad Max Beyond Thunderdome",
+        "year": "1985"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Mike-754"
+        },
+        "dateCreated": "1999-06-02",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0089530/"
+        },
+        "name": "Half and half",
+        "reviewBody": "The first half of this film -- the part with Bartertown, Thunderdome, etc -- is brilliant, not just a repeat of THE ROAD WARRIOR but a totally new concept, thoroughly fleshed out. The second half, with the lost children, isn't as good -- and, more to the point, doesn't quite mesh with the first half, despite Miller's attempts to tie it all together at the end. Still, it's well above average in a genre that has increasingly come to believe (wrongly) that special effects are more important than plot and character."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "After being exiled from the most advanced town in post apocalyptic Australia, a drifter travels with a group of abandoned children to rebel against the town's queen.",
+        "duration": "PT1M53S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi883737369",
+        "name": "4K Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzllZWVlNDItY2FmNi00ZDI1LWFiM2QtNjE5YjVhZmNiYjQxXkEyXkFqcGdeQWFuaW5vc2M@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzllZWVlNDItY2FmNi00ZDI1LWFiM2QtNjE5YjVhZmNiYjQxXkEyXkFqcGdeQWFuaW5vc2M@._V1_.jpg",
+        "uploadDate": "2021-09-29T03:01:44.333Z",
+        "url": "https://www.imdb.com/video/vi883737369/"
+    },
+    "url": "/title/tt0089530/"
+}

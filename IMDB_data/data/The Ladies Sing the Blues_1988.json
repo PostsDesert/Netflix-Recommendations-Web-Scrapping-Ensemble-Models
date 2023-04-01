@@ -1,0 +1,59 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dave Barbour",
+            "url": "/name/nm0053817/"
+        },
+        {
+            "@type": "Person",
+            "name": "Count Basie",
+            "url": "/name/nm0059831/"
+        },
+        {
+            "@type": "Person",
+            "name": "Connee Boswell",
+            "url": "/name/nm0098333/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 20,
+        "ratingValue": 7.9,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Person",
+            "name": "Bob DeFlores",
+            "url": "/name/nm13068429/"
+        },
+        {
+            "@type": "Person",
+            "name": "Leigh Kamman",
+            "url": "/name/nm13068427/"
+        },
+        {
+            "@type": "Person",
+            "name": "Bill Semans",
+            "url": "/name/nm0783717/"
+        }
+    ],
+    "datePublished": "2001-09-01",
+    "description": "See the \"Ladies\" who created an art form and sang their way into legend... Once in a lifetime, complete performances by the great American blues and jazz divas. Sixteen selections include Bessie Smith in her only film appearence, ...",
+    "duration": "PT1H",
+    "genre": [
+        "Music"
+    ],
+    "keywords": "jazz,blues,jazz diva,song,singing",
+    "name": "The Ladies Sing the Blues",
+    "original_info": {
+        "id": "The Ladies Sing the Blues_1988",
+        "name": "The Ladies Sing the Blues",
+        "year": "1988"
+    },
+    "url": "/title/tt0418817/"
+}

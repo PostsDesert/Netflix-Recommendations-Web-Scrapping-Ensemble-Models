@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mia Farrow",
+            "url": "/name/nm0001201/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeff Daniels",
+            "url": "/name/nm0001099/"
+        },
+        {
+            "@type": "Person",
+            "name": "Danny Aiello",
+            "url": "/name/nm0000732/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 52776,
+        "ratingValue": 7.7,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0008432/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0001995/"
+        },
+        {
+            "@type": "Person",
+            "name": "Woody Allen",
+            "url": "/name/nm0000095/"
+        }
+    ],
+    "datePublished": "1985-04-19",
+    "description": "In 1935 New Jersey, a movie character walks off the screen and into the real world.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Woody Allen",
+            "url": "/name/nm0000095/"
+        }
+    ],
+    "duration": "PT1H22M",
+    "genre": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BY2E1YWRlNzAtYzAwYy00MDg5LTlmYTUtYjdlZDI0NzFkNjNlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg",
+    "keywords": "film within a film,1930s,movie theater,tragedy,film industry",
+    "name": "The Purple Rose of Cairo",
+    "original_info": {
+        "id": "The Purple Rose of Cairo_1985",
+        "name": "The Purple Rose of Cairo",
+        "year": "1985"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ccthemovieman-1"
+        },
+        "dateCreated": "2007-04-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0089853/"
+        },
+        "name": "Nice Mix Makes This Inventive Film Appealing",
+        "reviewBody": "This was a unique storyline - a character comes right out of the movie screen to join the \"real\" world - at the time. I've seen several others copy this sort of thing, although it also was done in some silent comedies, too, if memory serves. Nonetheless, it was done well here and I got a kick out of watching it back in the '80s. It's part fantasy, romance, drama, comedy. Woody Allen, who made this movie, is not on screen. \n\nI have found (with one or two exceptions) that I like the best when he only narrated, such as in \"Radio Days\" and \"Sweet And Lowdown.\" I like it when he leaves the acting to others.\n\nMia Farrow as \"Cecilia\" Jeff Daniels does a terrific job in a dual role, playing Tom Baxter and Gil Shepherd. One an actor, the other a \"real-life\" guy. Mia Farrow is appealing, as she usually was, as \"Cecilia.\" Danny Aiello is another usually-interesting actor who gets your attention no matter who he is playing.\n\nAn inventive film that still holds up today.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Pre, \"Coming Soon\"",
+        "duration": "PT1M34S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3505520921",
+        "name": "The Purple Rose of Cairo",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTM2MmZhOTItMzc1YS00YjZhLWJjNGYtNDcyOWE2MTE3ZWQ5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTM2MmZhOTItMzc1YS00YjZhLWJjNGYtNDcyOWE2MTE3ZWQ5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:43:49Z",
+        "url": "https://www.imdb.com/video/vi3505520921/"
+    },
+    "url": "/title/tt0089853/"
+}

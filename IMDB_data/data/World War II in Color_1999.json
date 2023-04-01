@@ -1,0 +1,70 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Robert Powell",
+            "url": "/name/nm0694293/"
+        },
+        {
+            "@type": "Person",
+            "name": "Swaylee Loughnane",
+            "url": "/name/nm7263882/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7178,
+        "ratingValue": 8.7,
+        "worstRating": 1
+    },
+    "contentRating": "TV-MA",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0364618/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0191383/"
+        }
+    ],
+    "description": "Recounts the events of world War II in color.",
+    "genre": [
+        "Documentary",
+        "History",
+        "War"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZTE2MDlmYTUtYTQwOC00MzA4LTkwNzQtOTJmMjdhMTdlMTM4XkEyXkFqcGdeQXVyNjQ0MjU4NDM@._V1_.jpg",
+    "keywords": "dead soldier,world war two,warfare,war documentary,armed forces",
+    "name": "World War II in Colour",
+    "original_info": {
+        "id": "World War II in Color_1999",
+        "name": "World War II in Color",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "marlonius-01831"
+        },
+        "dateCreated": "2020-07-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt2069688/"
+        },
+        "name": "Poor subtitles",
+        "reviewBody": "As I do not know if these subtitles are written by Netflix themselves I feel the need to say that every episode of this series is full of very poor Dutch subtitles. Not only mistranslated words but even very simple spelling faults in a lot of words themself. From a platform as Netflix I expected more profesionality before they dare to launch a serie.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt2069688/"
+}

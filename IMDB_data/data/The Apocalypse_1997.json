@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sandra Bernhard",
+            "url": "/name/nm0000928/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cameron Dye",
+            "url": "/name/nm0245650/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frank Zagarino",
+            "url": "/name/nm0951828/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 517,
+        "ratingValue": 3.1,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0060876/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0048139/"
+        },
+        {
+            "@type": "Person",
+            "name": "J. Reifel",
+            "url": "/name/nm0000094/"
+        }
+    ],
+    "datePublished": "1997-05-17",
+    "description": "A salvage pilot and a bartender go up against a crazed computer programmer and the head of a criminal gang who have equipped a spaceship with nuclear warheads and plan to crash it into Earth.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Hubert de La Bouillerie",
+            "url": "/name/nm0209168/"
+        }
+    ],
+    "duration": "PT1H36M",
+    "genre": [
+        "Action",
+        "Sci-Fi"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg1NTczNzk0Ml5BMl5BanBnXkFtZTcwMTU2OTYxMQ@@._V1_.jpg",
+    "keywords": "woman murders a woman,murderess,murder,disaster film,woman's neck broken",
+    "name": "The Apocalypse",
+    "original_info": {
+        "id": "The Apocalypse_1997",
+        "name": "The Apocalypse",
+        "year": "1997"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "rjblaskiewicz"
+        },
+        "dateCreated": "2012-08-12",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0118631/"
+        },
+        "name": "In Space Nobody Can Hear You Throw Tomatoes",
+        "reviewBody": "I don't know what just happened to me. Sandra Bernhard was fighting David Crosby while the little hooker friend from Pretty Woman was performing \"Scenes From Shakespeare.\" You read that right. It's a good thing that the MPAA does not enact capital punishment, because everyone involved would have been strung up as examples to aspiring actors, writers and directors with more enthusiasm than talent. Painful. Pro tip: adding (AND ENDLESSLY REPEATING THE SAME) lines from Shakespeare does not make your movie good; it actually highlights how crummy the movie is. The writing was puerile, the acting was a visual Columbine, and the plot couldn't make it. Not all of the cats in the world could have made this movie enjoyable or even watchable. If faced with the dilemma of watching this movie or...doing anything else, I can strongly and authoritatively recommend anything else.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 1,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Ardustry Home Entertainment",
+        "duration": "PT2M18S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1149829401",
+        "name": "The Apocalypse (1997)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BODFhZTZhYzktNGU1NC00YjVkLTk3YmYtZTA2ODRjYjY4YzljXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODFhZTZhYzktNGU1NC00YjVkLTk3YmYtZTA2ODRjYjY4YzljXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:10:40Z",
+        "url": "https://www.imdb.com/video/vi1149829401/"
+    },
+    "url": "/title/tt0118631/"
+}

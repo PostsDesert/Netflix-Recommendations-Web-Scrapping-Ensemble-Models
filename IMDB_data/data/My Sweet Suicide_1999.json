@@ -1,0 +1,75 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Matthew Aldrich",
+            "url": "/name/nm0017690/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gavin Allen",
+            "url": "/name/nm4477530/"
+        },
+        {
+            "@type": "Person",
+            "name": "Tim Blakey",
+            "url": "/name/nm4477505/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 95,
+        "ratingValue": 5.4,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0014869/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Flanagan",
+            "url": "/name/nm0281017/"
+        }
+    ],
+    "description": "Kevin wants to end his life, but he just doesn't have the nerve.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David Flanagan",
+            "url": "/name/nm0281017/"
+        }
+    ],
+    "duration": "PT1H18M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYzIzODUxZTQtZjkwYi00YzlmLTk4YTItMTJmM2RhYTQ0ODg2XkEyXkFqcGdeQXVyODgwNDAyMjc@._V1_.jpg",
+    "keywords": "suicide,independent film",
+    "name": "My Sweet Suicide",
+    "original_info": {
+        "id": "My Sweet Suicide_1999",
+        "name": "My Sweet Suicide",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "incognegro69"
+        },
+        "dateCreated": "2000-08-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0170272/"
+        },
+        "name": "A film made GREAT by the superb star turn of Matthew Aldrich!!",
+        "reviewBody": "This is an altogether surprising, little picture. At turns delightfully touching and honest, it is a film made GREAT by the superb star turn of Matthew Aldrich. His bravura work as a young man straddling life and death, is one of the BEST film portrayals to grace independent cinema. Mr. Aldrich's uncanny ability to swing deftly through pathos and irony on a dime, ranks this among the classic performances of all time. This fine actor is reminiscent of a young Gary Cooper, by way of Yaphet Kohto, and is a must-see for ANYBODY who hungers for fierce intelligence and unabashed emotional honesty from their favorite actors. I look forward to seeing more of this actor's work in the future!"
+    },
+    "url": "/title/tt0170272/"
+}

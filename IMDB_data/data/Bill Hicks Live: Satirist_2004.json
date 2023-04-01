@@ -1,0 +1,61 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bill Hicks",
+            "url": "/name/nm0382805/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Belzer",
+            "url": "/name/nm0001938/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eric Bogosian",
+            "url": "/name/nm0091899/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 243,
+        "ratingValue": 8.4,
+        "worstRating": 1
+    },
+    "duration": "PT3H30M",
+    "genre": [
+        "Comedy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BN2VkOTBmMjItOGNjZi00MTM2LTk4ZWMtOWI5NjRjOGFjYTRiXkEyXkFqcGdeQXVyNjAyNzg2Mjc@._V1_.jpg",
+    "name": "Bill Hicks Live: Satirist, Social Critic, Stand-up Comedian",
+    "original_info": {
+        "id": "Bill Hicks Live: Satirist_2004",
+        "name": "Bill Hicks Live: Satirist",
+        "year": "2004"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "dpresley58"
+        },
+        "dateCreated": "2007-04-14",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0836636/"
+        },
+        "name": "Biting and Accurate Social Commentary",
+        "reviewBody": "Hicks was to our generation what Lennie Bruce was to a previous one - insight into the social phenomena of the elephant in the room and why we don't mention it. Some people who prefer lighter, more direct comedic offerings won't enjoy this. For example, if a lineup of comics making their entry on-stage with \"Yo, we in de house\" is more to your liking, don't bother with this title. But if you don't mind looking at yourself and those around you open to other views, you owe it to yourself to get acquainted with Bill Hicks. Because of the time it was filmed, there are references which will make it seem dated, but the underlying themes are as fresh today as they were when it was released.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0836636/"
+}

@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Patrick Swayze",
+            "url": "/name/nm0000664/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kim Myers",
+            "url": "/name/nm0616766/"
+        },
+        {
+            "@type": "Person",
+            "name": "Gia Carides",
+            "url": "/name/nm0137140/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2403,
+        "ratingValue": 5.4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0113554/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0113620/"
+        },
+        {
+            "@type": "Person",
+            "name": "Nicholas Hicks-Beach",
+            "url": "/name/nm0382985/"
+        },
+        {
+            "@type": "Person",
+            "name": "Shelley Miller",
+            "url": "/name/nm0589330/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Foster",
+            "url": "/name/nm0005591/"
+        }
+    ],
+    "datePublished": "1998-08-21",
+    "description": "A man is wrongfully convicted of killing his wife. After he is let out of prison, he is framed again.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "David Carson",
+            "url": "/name/nm0141222/"
+        }
+    ],
+    "duration": "PT1H44M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI5NDE0MDU3NV5BMl5BanBnXkFtZTcwMDcyNTMyMQ@@._V1_.jpg",
+    "keywords": "fbi federal bureau of investigation,framed,murder,prison,wrongful conviction",
+    "name": "Letters from a Killer",
+    "original_info": {
+        "id": "Letters From a Killer_1999",
+        "name": "Letters From a Killer",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "mkoskela"
+        },
+        "dateCreated": "2000-06-08",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0119522/"
+        },
+        "name": "well written, still not really exiting",
+        "reviewBody": "This film is pretty well written and plot is not usual stuff, A Mystery I would say. Swayze is ok and so on, But there's still something missing. Anyway, I would give it 3/5."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Sterling Home Entertainment",
+        "duration": "PT1M40S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3567911193",
+        "name": "Letters From A Killer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNmQxNGNlZTEtYjZiNC00Y2YwLWJhMTItZGM5NjBkYThiZjM4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNmQxNGNlZTEtYjZiNC00Y2YwLWJhMTItZGM5NjBkYThiZjM4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:19:02Z",
+        "url": "https://www.imdb.com/video/vi3567911193/"
+    },
+    "url": "/title/tt0119522/"
+}

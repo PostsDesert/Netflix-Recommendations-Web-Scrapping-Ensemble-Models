@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Kirsten Dunst",
+            "url": "/name/nm0000379/"
+        },
+        {
+            "@type": "Person",
+            "name": "Denise Richards",
+            "url": "/name/nm0000612/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ellen Barkin",
+            "url": "/name/nm0000289/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 38400,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0046718/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0009948/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0076287/"
+        },
+        {
+            "@type": "Person",
+            "name": "Lona Williams",
+            "url": "/name/nm0931185/"
+        }
+    ],
+    "datePublished": "1999-07-23",
+    "description": "A small-town beauty pageant turns deadly as it becomes clear that someone will go to any lengths to win.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Patrick Jann",
+            "url": "/name/nm0417794/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Comedy",
+        "Romance",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTBhYjRlYmYtNzQxZS00NmEwLTk3OTAtNjU4MDEwMmUyZDczXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "beauty pageant,minnesota,mockumentary,small town,murder",
+    "name": "Drop Dead Gorgeous",
+    "original_info": {
+        "id": "Drop Dead Gorgeous_1999",
+        "name": "Drop Dead Gorgeous",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "71vwsquareback"
+        },
+        "dateCreated": "2002-08-05",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0157503/"
+        },
+        "name": "yah, sure it's a goot movie",
+        "reviewBody": "Being from Minne-sohtah, I couldn't have asked for a better parody of the state, the people, and the whole beauty pageant thing. It's a great dark comedy with wonderful acting and accents(minus Denise Richards who can seemingly act only one way...badly). It's fun and light-hearted, taking even touchy subjects and making them goofy enough to laugh at. I recommend this movie as a 9 out of 10. And for anyone who hasn't ever eaten bars and hotdish in a church basement or community center in small town Minnesota, this movie makes you feel like you are really there... Lucky you."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "A small-town beauty pageant turns deadly as it becomes clear that someone will go to any lengths to win.",
+        "duration": "PT1M56S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3172580377",
+        "name": "Original Theatrical Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNzRiMzAxYzQtOGRjYy00ZmI3LTg0MmQtN2QyY2Y3YTYzYjUyXkEyXkFqcGdeQXN3aWZ0dw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzRiMzAxYzQtOGRjYy00ZmI3LTg0MmQtN2QyY2Y3YTYzYjUyXkEyXkFqcGdeQXN3aWZ0dw@@._V1_.jpg",
+        "uploadDate": "2019-07-08T14:35:22.295Z",
+        "url": "https://www.imdb.com/video/vi3172580377/"
+    },
+    "url": "/title/tt0157503/"
+}

@@ -1,0 +1,55 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Chloë Annett",
+            "url": "/name/nm0030361/"
+        },
+        {
+            "@type": "Person",
+            "name": "Chris Barrie",
+            "url": "/name/nm0057368/"
+        },
+        {
+            "@type": "Person",
+            "name": "Craig Charles",
+            "url": "/name/nm0153002/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 31,
+        "ratingValue": 8.3,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103629/"
+        }
+    ],
+    "datePublished": "2006-03-27",
+    "description": "A documentary about the eighth series of Red Dwarf (1988).",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Andrew Ellard",
+            "url": "/name/nm1497219/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjlhNTcwMGMtNWY4NC00ZTMwLTgyYWQtZGM3ZGYxZjM3MzRlXkEyXkFqcGdeQXVyMTQ4ODIzNzk2._V1_.jpg",
+    "name": "Red Dwarf: The Tank - Series VIII",
+    "original_info": {
+        "id": "Red Dwarf: Series 1_1988",
+        "name": "Red Dwarf: Series 1",
+        "year": "1988"
+    },
+    "url": "/title/tt0809530/"
+}

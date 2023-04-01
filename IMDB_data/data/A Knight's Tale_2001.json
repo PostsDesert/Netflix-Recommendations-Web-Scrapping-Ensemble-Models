@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Heath Ledger",
+            "url": "/name/nm0005132/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mark Addy",
+            "url": "/name/nm0004692/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rufus Sewell",
+            "url": "/name/nm0001722/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 191688,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0050868/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0035535/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0031304/"
+        },
+        {
+            "@type": "Person",
+            "name": "Brian Helgeland",
+            "url": "/name/nm0001338/"
+        }
+    ],
+    "datePublished": "2001-05-11",
+    "description": "After his master dies, a peasant squire, fueled by his desire for food and glory, creates a new identity for himself as a knight.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Brian Helgeland",
+            "url": "/name/nm0001338/"
+        }
+    ],
+    "duration": "PT2H12M",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTE5OTE4OTE2Nl5BMl5BanBnXkFtZTYwMDkzMTQ3._V1_.jpg",
+    "keywords": "medieval times,knight,jousting,london england,chaucer",
+    "name": "A Knight's Tale",
+    "original_info": {
+        "id": "A Knight's Tale_2001",
+        "name": "A Knight's Tale",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "lowercasegods"
+        },
+        "dateCreated": "2003-08-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0183790/"
+        },
+        "name": "The most heart and fun of 2001",
+        "reviewBody": "I'd read that Brian Helgeland had been soured by the movie industry due to his mistreatment on his film, \"Payback.\" I use \"his film\" in the most liberal sense here, as star Mel Gibson wrestled control of the film from Helgeland and imposed his own view on the final editing process. With this situation in mind, I fully expected \"A Knight's Tale\" to be a creative response to that negative filmmaking experience, a fun and free film that thumbed its nose at tradition and set style and which allowed the director's true vision to shine through with no outside interference. And my friends, that's exactly what I got when I first sat down to watch in back in 2001. \"A Knight's Tale\" celebrates the classic and vastly misused/underused genre of medieval movies, while at the same time knocking the genre on its ear by instilling the film with modern themes, attitudes and a classic rock score. Sadly, it was these elements which repelled most viewers and led to \"A Knight's Tale's\" lackluster performance at the box office. Were these people just a little more open minded, they would have allowed themselves a wonderful movie-going experience that celebrates individuality, love, and above all else, friendship. Though the music is crucial to the uniqueness of this film (and a brilliant addition, I might add), it's the relationships amongst the characters that gives this film its heart. William and Jocelyn are the perfect couple: bickering, floundering, and absolutely in love with one another. Wat, Roland, Kate and Geoff, wonderful characters unwilling to be fopped off as simple comic reliefs, show genuine love and loyalty to William, and do as much to contribute and carry the story along as William and the other two leads accomplish. Count Adamar, the film's villain, is a wonderful foil for William. He is cunning and cruel, and even in his moments of defeat, a character to respect. In many cases, such a villain would be made to seem wimpy or, at his moment of defeat, clumsy. Not so here, as Adamar is, throughout the film, a force to be reckoned with. I suppose part of why I love \"A Knight's Tale\" is my ability to relate to it so personally. I've certainly had my share of challenges, and aspired to be more than what I currently was. And I've also known friendships so loyal and loving that fiction could never invent. Most significantly, I've lived the pursuit of true love and, like William, have obtained it with no small amount of satisfaction. Everyone to some degree or another has also had these experiences in their lives, and its these experiences that built the foundation of \"A Knight's Tale,\" which is exactly what makes it such a wonderful film, more than worthy of a second chance by those who previously doubted it, and much more than worthy of a spot in any fan's movie collection."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Columbia Pictures",
+        "duration": "PT2M22S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2427715865",
+        "name": "A Knight's Tale",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDkxMzRmODYtOTRmMy00ZjQwLTk4MjAtNDQ5YjQ2NTZjZDgxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDkxMzRmODYtOTRmMy00ZjQwLTk4MjAtNDQ5YjQ2NTZjZDgxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T06:13:25Z",
+        "url": "https://www.imdb.com/video/vi2427715865/"
+    },
+    "url": "/title/tt0183790/"
+}

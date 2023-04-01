@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tony Jay",
+            "url": "/name/nm0419645/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harold Schechter",
+            "url": "/name/nm0770359/"
+        },
+        {
+            "@type": "Person",
+            "name": "Thomas Cronin",
+            "url": "/name/nm1795055/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 1871,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "Unrated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0095129/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0095482/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Borowski",
+            "url": "/name/nm1341944/"
+        }
+    ],
+    "datePublished": "2004-10-26",
+    "description": "Torture chambers, acid vats, greased chutes and gassing rooms were just some of the devices of death designed by the Torture Doctor, H.H. Holmes in his castle of horrors. Follows Holmes' entire life as a criminal mastermind.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "John Borowski",
+            "url": "/name/nm1341944/"
+        }
+    ],
+    "duration": "PT1H4M",
+    "genre": [
+        "Documentary",
+        "Crime",
+        "History"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkzOTIwODIwM15BMl5BanBnXkFtZTYwNDUxNzk5._V1_.jpg",
+    "keywords": "murder castle,serial killer,world's fair,1893 columbian exposition,1800s",
+    "name": "H.H. Holmes: America's First Serial Killer",
+    "original_info": {
+        "id": "H.H. Holmes: America's First Serial Killer_2003",
+        "name": "H.H. Holmes: America's First Serial Killer",
+        "year": "2003"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "mw_director"
+        },
+        "dateCreated": "2005-05-11",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0358500/"
+        },
+        "name": "A skillful indie documentary, full of atmosphere and class",
+        "reviewBody": "I came to this movie after seeing its rave review on Bloody-Disgusting.com. A fan of historical crime writer Harold Schechter's (who is interviewed in this film), I was surprised and delighted to see someone had attempted a documentary on H.H. Holmes, the subject of Schechter's book \"Depraved\". Then again, I suppose it wasn't too surprising, given the bestseller success of Erik Larsen's \"The Devil in the White City\", and the upcoming movie of same.\n\nJohn Borowski knows his way around the documentary form, inter-cutting vintage photos, interviews, and clever re-enactments with a strong sense of balance. HHH:AFSK succeeds in conveying a sense of time and place, and communicating Holmes's psychosis. The narrative is gripping, and there's never a dull moment here. Unlike a lot of indie documentary directors, Borowski knows that making a documentary is still all about Film-making, not merely filmed journalism.\n\nIf HHH:AFSK lacks in any department, it is in conveying the full, jaw-dropping magnitude of Holmes's most audacious crime: his systematic murder of the Pitezel family, carried out while manipulating them to travel in two separate groups halfway across the US and even into Canada. Borowski also leaves out the detail that, on this evil trek, Holmes was also dragging along one of his three clueless wives! Borowski surprisingly rushes through the journey, making it all seem like just another of Holmes's outrageous deeds. Compared to the way Schechter evoked the cruelty of Holmes's actions and the heartbreaking emotional trauma suffered by the Pitezel children's mother in his book \"Depraved\", Borowski misses a chance for some really strong emotional depth.\n\nBut some things are, I suppose, going to get left out in an hour-long production. The running time is kind of odd. Too long to sell to TV (this film is certainly worthy of the History Channel, on which I have seen considerably worse stuff), too short for feature length. And yet, by the time it's over, you feel that to go to 90 minutes might have been just a shade too much. At 64 minutes, HHH:AFSK is perhaps just right, artistically  though 70-75 would have been ideal, allowing Borowski to flesh out the story as I described above. Commercially, 64 minutes is problematic. Perhaps a direct-to-DVD release was all Borowski had in mind from the first.\n\nVeteran actor Tony Jay provides brilliant narration with his one-of-a-kind voice (why isn't this man more famous!?), and there's a swell orchestral, Bernard Hermann-esquire score that I'm surprised Borowski was able to get. If anything gave me an unintentional smile watching the DVD, it was perhaps Borowski's tireless self-promotion in the bonus materials. I'd have gladly sacrificed Borowski's efforts on his making-of featurette if he had channeled that work into just a bit more of his documentary.\n\nA worthy film for fans of true crime and American history rolled into one.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "At the height of his criminal career, the infamous Dr. H.H. Holmes designed his castle of horrors in Chicago, where he rented rooms to unsuspecting victims visiting the 1893 World's Fair. Further benefiting from his victims, Holmes sold their skeletons to local medical schools.",
+        "duration": "PT46S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1388231449",
+        "name": "Trailer HH Holmes",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzVkYjg0YWItYTVmZC00YWM2LThjYTQtMGZjODRhZGYxY2VjXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzVkYjg0YWItYTVmZC00YWM2LThjYTQtMGZjODRhZGYxY2VjXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+        "uploadDate": "2018-05-18T18:06:21Z",
+        "url": "https://www.imdb.com/video/vi1388231449/"
+    },
+    "url": "/title/tt0358500/"
+}

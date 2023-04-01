@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "William Powell",
+            "url": "/name/nm0001635/"
+        },
+        {
+            "@type": "Person",
+            "name": "Myrna Loy",
+            "url": "/name/nm0001485/"
+        },
+        {
+            "@type": "Person",
+            "name": "Maureen O'Sullivan",
+            "url": "/name/nm0001577/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 31033,
+        "ratingValue": 7.9,
+        "worstRating": 1
+    },
+    "contentRating": "TV-PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0073404/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0007143/"
+        },
+        {
+            "@type": "Person",
+            "name": "Albert Hackett",
+            "url": "/name/nm0352443/"
+        },
+        {
+            "@type": "Person",
+            "name": "Frances Goodrich",
+            "url": "/name/nm0329304/"
+        },
+        {
+            "@type": "Person",
+            "name": "Dashiell Hammett",
+            "url": "/name/nm0358591/"
+        }
+    ],
+    "datePublished": "1934-05-25",
+    "description": "Former detective Nick Charles and his wealthy wife Nora investigate a murder case, mostly for the fun of it.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "W.S. Van Dyke",
+            "url": "/name/nm0886754/"
+        }
+    ],
+    "duration": "PT1H31M",
+    "genre": [
+        "Comedy",
+        "Crime",
+        "Mystery"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BY2FlMDAxZjItNzFhNS00ZDJlLWE4ZjAtOTkyMTJlODZkYjUwXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+    "keywords": "based on novel,husband wife relationship,christmas party,police detective,shot in the back",
+    "name": "The Thin Man",
+    "original_info": {
+        "id": "The Thin Man_1934",
+        "name": "The Thin Man",
+        "year": "1934"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "AbeStreet"
+        },
+        "dateCreated": "2004-04-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0025878/"
+        },
+        "name": "Nora's best film.",
+        "reviewBody": "As other reviewers have indicated this is a cute romantic mystery. Nick & Nora Charles broke new ground with their love bickering. The film is a nice break from the more typical hardboiled detectives of the 20's, 30's and 40's. \n\nI think Nora (Myrna Loy) was at her best in this film. She is beautiful. Her cute nose, which as she aged grew less and less cute, and short dark hair came off as very sexy. This is the only film in which her desire to see Nick work as a detective came off as genuine. In the later films it seemed to be a little to scripted. I think my favorite scene is when Joe Morelli broke into Nick and Nora's bedroom. In order to keep Nora from getting shot Nick punches Nora in the jaw to knock her out of the line of fire. As a married man I can tell you Nick got to do what most men wish they could do at some point in time. (jk). Nora takes it like a champ. Instead being upset at Nick she's upset that she missed the action while she was dazed on the floor.\n\nWhile not my favorite THIN MAN movie overall I do think it has the best romantic sparring between Nick and Nora. The plot is pretty good and the story moves at a good pace. If you're not familiar with that many 1930's films you'll get a kick out of the 30's lingo, especially some of the womens lingo, in the film. I don't know if recreational drinking was ever as carefree as it is with Nick but it doesn't come off as hokey and is quite funny.\n\nThe best thing about the film is the relationship between Nick and Nora. I wish there were more directors like Van Dyke around today. He, without lengthy dialogue scenes, was able to capture the love Nick and Nora had for eachother. He also kept the pace moving. He was able to deliver in a hour and a half what most directors spend 2 to 3 hours trying to do and not succeeding as well as he does."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from MGM",
+        "duration": "PT3M16S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1336214809",
+        "name": "The Thin Man",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDkyNGNlZmUtN2M2My00MjkzLWEwMWItZTMyNDM4MWVhYTRkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDkyNGNlZmUtN2M2My00MjkzLWEwMWItZTMyNDM4MWVhYTRkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2009-10-31T06:28:49Z",
+        "url": "https://www.imdb.com/video/vi1336214809/"
+    },
+    "url": "/title/tt0025878/"
+}

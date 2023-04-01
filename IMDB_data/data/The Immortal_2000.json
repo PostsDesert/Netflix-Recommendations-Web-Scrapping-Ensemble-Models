@@ -1,0 +1,83 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Lorenzo Lamas",
+            "url": "/name/nm0001444/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve Braun",
+            "url": "/name/nm0105853/"
+        },
+        {
+            "@type": "Person",
+            "name": "April Telek",
+            "url": "/name/nm0854304/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 295,
+        "ratingValue": 4.5,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0047220/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0078130/"
+        }
+    ],
+    "datePublished": "2000-10-07",
+    "description": "An immortal warrior hunts down demons in the modern-day world.",
+    "genre": [
+        "Action",
+        "Drama",
+        "Fantasy"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMxMDk2ODM1MF5BMl5BanBnXkFtZTcwNzEwMTY0MQ@@._V1_.jpg",
+    "keywords": "female demon,love interest,sensei,flashback,team of demon hunters",
+    "name": "The Immortal",
+    "original_info": {
+        "id": "The Immortal_2000",
+        "name": "The Immortal",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "timawa"
+        },
+        "dateCreated": "2001-07-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0248644/"
+        },
+        "name": "Aw Man, This is so BAD.",
+        "reviewBody": "I watched this thing because I was in bed sick and I really had no other thing to watch, and boy did I regret it because I got sicker just watching it. Horrible effects, horrible acting, horrible dialogue. It rips off Highlander in so many respects that it's criminal. Even then, it doesn't even approach how good Highlander was."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "The Immortal",
+        "duration": "PT1M39S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2724379673",
+        "name": "The Immortal",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMmI4YTIzYWMtZTllYy00ZTVhLTgyNGQtYzMxNWE5NmI5ZDgyXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMmI4YTIzYWMtZTllYy00ZTVhLTgyNGQtYzMxNWE5NmI5ZDgyXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg",
+        "uploadDate": "2019-07-20T13:06:04.051Z",
+        "url": "https://www.imdb.com/video/vi2724379673/"
+    },
+    "url": "/title/tt0248644/"
+}

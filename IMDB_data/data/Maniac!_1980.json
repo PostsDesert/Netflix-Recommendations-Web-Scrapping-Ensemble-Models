@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Joe Spinell",
+            "url": "/name/nm0818874/"
+        },
+        {
+            "@type": "Person",
+            "name": "Caroline Munro",
+            "url": "/name/nm0613098/"
+        },
+        {
+            "@type": "Person",
+            "name": "Abigail Clayton",
+            "url": "/name/nm0492765/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 18746,
+        "ratingValue": 6.4,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0069605/"
+        },
+        {
+            "@type": "Person",
+            "name": "C.A. Rosenberg",
+            "url": "/name/nm0742186/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joe Spinell",
+            "url": "/name/nm0818874/"
+        }
+    ],
+    "datePublished": "1981-03-06",
+    "description": "A psychopathic man goes on a killing and mutilation spree in New York City.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "William Lustig",
+            "url": "/name/nm0527350/"
+        }
+    ],
+    "duration": "PT1H27M",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Horror"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzliZTJmOWYtNWIyYi00ZTY4LThjNDMtZGQyMTNlZDRhMjFhXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "keywords": "serial killer,extreme violence,grindhouse film,maniac,psychotronic film",
+    "name": "Maniac",
+    "original_info": {
+        "id": "Maniac!_1980",
+        "name": "Maniac!",
+        "year": "1980"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "capkronos"
+        },
+        "dateCreated": "2002-07-10",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0081114/"
+        },
+        "name": "Excellent make-up FX and claustrophobic atmosphere.",
+        "reviewBody": "I'd first like to applaud Tom Savini for his work here; MANIAC contains some of the most realistic and unrestrained gore fx I've seen; possibly THE best up until the time of its release. Anyone who says that horror film make-up men (and women) don't deserve to be called artists is an idiot. Here you get explicitly bloody murders and scalpings, plus a show-stopper head-being-blown-off-with-shotgun murder and a man being ripped apart nightmare and it all looks pretty damn convincing to me.\n\nAside from the effects, director William Lustig does an OK job with color schemes (especially considering the budget) and the grimy, sleazy underbelly of New York is brilliantly exploited to give this film a truly nihilistic and seedy feel. The film itself, I thought, was scary, disturbing, intense and even suspenseful in parts (the subway sequence was especially well handled), which is how it should be. Reliable character actor Joe Spinell (from TAXI DRIVER, THE GODFATHER, etc.) also offers an effective performance as the sweaty, overweight, emotionally- scarred killer.\n\nOn the down side, a plot would have been nice and it's unforgivable to waste British actress Caroline Munro on such a poorly scripted nothing role. Her beauty, charm and smile light up the screen and could have been better harnessed to counteract the ugliness on hand. Anyway, the film at least provokes some kind of reaction from its audience. Seeing a few of my squeamish female friends appalled and horrified by the film made it well worth the watch to me!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Anchor Bay Entertainment",
+        "duration": "PT1M34S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi613744921",
+        "name": "Maniac (1980)",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOWRmOTAwMzYtYjNhZi00MTJjLWE1MTgtNTZhZThmYjI0MTAxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOWRmOTAwMzYtYjNhZi00MTJjLWE1MTgtNTZhZThmYjI0MTAxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T14:57:19Z",
+        "url": "https://www.imdb.com/video/vi613744921/"
+    },
+    "url": "/title/tt0081114/"
+}

@@ -1,0 +1,57 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Jeremiah Hake",
+            "url": "/name/nm2343065/"
+        },
+        {
+            "@type": "Person",
+            "name": "E.J. Smith",
+            "url": "/name/nm1063436/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 151,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "description": "Documentary about the ship, Titanic.",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTYxMzUzNDEzN15BMl5BanBnXkFtZTcwMTE0NTMyMQ@@._V1_.jpg",
+    "keywords": "year 1912,1910s,titanic,independent film",
+    "name": "The Titanic",
+    "original_info": {
+        "id": "The Titanic_1996",
+        "name": "The Titanic",
+        "year": "1996"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ltlrags"
+        },
+        "dateCreated": "2002-08-29",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0211668/"
+        },
+        "name": "Sinks faster than the ship",
+        "reviewBody": "I love documentaries and have seen many. This was the worst -- ever! Not just low budget, this one was low concept and no vision. It was apparent from the first scenes, but I flipped through the DVD chapter by chapter to sample the rest. It was all bad. Anyone who shoots miniatures in a museum as a substitute for real research shouldn't be doing documentaries.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 1,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0211668/"
+}

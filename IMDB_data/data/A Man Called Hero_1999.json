@@ -1,0 +1,116 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Tom Hanks",
+            "url": "/name/nm0000158/"
+        },
+        {
+            "@type": "Person",
+            "name": "Mariana Treviño",
+            "url": "/name/nm3901455/"
+        },
+        {
+            "@type": "Person",
+            "name": "Rachel Keller",
+            "url": "/name/nm5043859/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 49536,
+        "ratingValue": 7.4,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0458133/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0202182/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0203259/"
+        },
+        {
+            "@type": "Person",
+            "name": "Fredrik Backman",
+            "url": "/name/nm7554519/"
+        },
+        {
+            "@type": "Person",
+            "name": "Hannes Holm",
+            "url": "/name/nm0391502/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Magee",
+            "url": "/name/nm1341735/"
+        }
+    ],
+    "datePublished": "2023-01-13",
+    "description": "Otto is a grump who's given up on life following the loss of his wife and wants to end it all. When a young family moves in nearby, he meets his match in quick-witted Marisol, leading to a friendship that will turn his world around.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Marc Forster",
+            "url": "/name/nm0286975/"
+        }
+    ],
+    "duration": "PT2H6M",
+    "genre": [
+        "Comedy",
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzg3OTEzMTgtYWU0OC00YTI0LWIxOTAtNmRkNTc0Nzg2YWU1XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+    "keywords": "remake,friendship,dramedy,neighbor,life",
+    "name": "A Man Called Otto",
+    "original_info": {
+        "id": "A Man Called Hero_1999",
+        "name": "A Man Called Hero",
+        "year": "1999"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "eleisha_is_fullysik"
+        },
+        "dateCreated": "2023-01-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt7405458/"
+        },
+        "name": "If you're thinking of watching, do it!",
+        "reviewBody": "I went into this movie with little expectations, and came out with this added to one of my favourite films of all time. I felt every emotion during this experience. I couldn't picture anyone else play the character of Otto, Tom hanks absolutely nailed it in this. Along with the female lead, she was hilarious and had the whole cinema laughing at times!\n\nI will recommend this film for a long time. I go to the cinema once a week atleast and this has been the best watch in a very long time.\n\nDon't forget to bring your tissues. It'll have you on an emotional roller coaster but you won't want to get off.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Otto is a grump who's given up on life following the loss of his wife and wants to end it all. When a young family moves in nearby, he meets his match in quick-witted Marisol, leading to a friendship that will turn his world around.",
+        "duration": "PT1M6S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi620086553",
+        "name": "Official Trailer 2",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYjMwZDc2NzktNDJiYS00YmEyLTljYjAtMTgzY2E2MWRkZjE3XkEyXkFqcGdeQWFybm8@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjMwZDc2NzktNDJiYS00YmEyLTljYjAtMTgzY2E2MWRkZjE3XkEyXkFqcGdeQWFybm8@._V1_.jpg",
+        "uploadDate": "2022-12-01T16:23:01.191Z",
+        "url": "https://www.imdb.com/video/vi620086553/"
+    },
+    "url": "/title/tt7405458/"
+}

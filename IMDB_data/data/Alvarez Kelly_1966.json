@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "William Holden",
+            "url": "/name/nm0000034/"
+        },
+        {
+            "@type": "Person",
+            "name": "Richard Widmark",
+            "url": "/name/nm0001847/"
+        },
+        {
+            "@type": "Person",
+            "name": "Janice Rule",
+            "url": "/name/nm0750023/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 2586,
+        "ratingValue": 6.3,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0235745/"
+        },
+        {
+            "@type": "Person",
+            "name": "Franklin Coen",
+            "url": "/name/nm0168759/"
+        },
+        {
+            "@type": "Person",
+            "name": "Elliott Arnold",
+            "url": "/name/nm0036433/"
+        },
+        {
+            "@type": "Person",
+            "name": "Daniel Taradash",
+            "url": "/name/nm0850168/"
+        }
+    ],
+    "description": "During the Civil War, Mexican cattleman Alvarez Kelly supplies the Union with cattle until Confederate Colonel Tom Rossiter's hungry men force Kelly to change his customers.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Edward Dmytryk",
+            "url": "/name/nm0229424/"
+        }
+    ],
+    "duration": "PT1H56M",
+    "genre": [
+        "Drama",
+        "Western"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTUzY2FhZjUtMjBmMi00NmE4LTllMjQtMWVkOTI5NThiMGVkXkEyXkFqcGdeQXVyMzU4Nzk4MDI@._V1_.jpg",
+    "keywords": "19th century,cattle rustling,confederate soldier,cattle drive,battlefield",
+    "name": "Alvarez Kelly",
+    "original_info": {
+        "id": "Alvarez Kelly_1966",
+        "name": "Alvarez Kelly",
+        "year": "1966"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "DKosty123"
+        },
+        "dateCreated": "2008-03-30",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0060095/"
+        },
+        "name": "Whose In The Know",
+        "reviewBody": "This is a movie dominated by Whitmark & Holden. To say anything other is to deny the facts of the films. The cast and acting keeps you here watching the movie. This film is for the cast's fans only.\n\nThe script is another matter. This movie appears to have started shooting with out a real script making up stuff along the way. William Holden was totally frustrated during filming. He took his copy of the script & tried to stick it in his horse where the sun don't shine, he had so little respect for it.\n\nThere is a bridge explosion sequence on this movie in which the bridge looks much like the bridge in the Horse Soldiers that Holden had done years earlier with John Wayne. I am not sure if they used the same set area or the same people to build the bridge as in both movies the bridge is blown up.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 5,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for this western",
+        "duration": "PT3M5S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi328467993",
+        "name": "Alvarez Kelly",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOTY0M2YyZjEtYTNhYS00NzAyLTg1MGEtYTFmMDUxNGZjOTdiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTY0M2YyZjEtYTNhYS00NzAyLTg1MGEtYTFmMDUxNGZjOTdiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-07-05T03:04:40Z",
+        "url": "https://www.imdb.com/video/vi328467993/"
+    },
+    "url": "/title/tt0060095/"
+}

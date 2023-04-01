@@ -1,0 +1,48 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bibi Andersson",
+            "url": "/name/nm0000761/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ingmar Bergman",
+            "url": "/name/nm0000005/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marc Gervais",
+            "url": "/name/nm0315035/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 36,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "datePublished": "2004-02-02",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Greg Carson",
+            "url": "/name/nm1144217/"
+        }
+    ],
+    "duration": "PT20M",
+    "genre": [
+        "Documentary",
+        "Short"
+    ],
+    "name": "Passion of Anna: Disintegration of Passion",
+    "original_info": {
+        "id": "Passion of Anna_1970",
+        "name": "Passion of Anna",
+        "year": "1970"
+    },
+    "url": "/title/tt0407102/"
+}

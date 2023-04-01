@@ -1,0 +1,42 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7,
+        "ratingValue": 6.9,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0895827/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0895826/"
+        }
+    ],
+    "datePublished": "2019-02-03",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Eric Harwood",
+            "url": "/name/nm12832260/"
+        }
+    ],
+    "duration": "PT1H29M",
+    "genre": [
+        "Documentary"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BY2IxMzRiYWEtOTUxYS00OGRmLTkzNjctMjQzNmE4OWRjODI1XkEyXkFqcGdeQXVyNjE1NDkwNQ@@._V1_.jpg",
+    "keywords": "great wall of china,china,aerial camera shot,golden mountains range,ancient north pass",
+    "name": "A Slow Odyssey: The Great Wall of China",
+    "original_info": {
+        "id": "A Great Wall_1986",
+        "name": "A Great Wall",
+        "year": "1986"
+    },
+    "url": "/title/tt15203002/"
+}

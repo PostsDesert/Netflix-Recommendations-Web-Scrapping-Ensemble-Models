@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Richard Egan",
+            "url": "/name/nm0250724/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ralph Richardson",
+            "url": "/name/nm0724732/"
+        },
+        {
+            "@type": "Person",
+            "name": "Diane Baker",
+            "url": "/name/nm0000832/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7393,
+        "ratingValue": 6.5,
+        "worstRating": 1
+    },
+    "contentRating": "Approved",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0000756/"
+        },
+        {
+            "@type": "Person",
+            "name": "George St. George",
+            "url": "/name/nm0820532/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ugo Liberatore",
+            "url": "/name/nm0508792/"
+        },
+        {
+            "@type": "Person",
+            "name": "Remigio Del Grosso",
+            "url": "/name/nm0215589/"
+        }
+    ],
+    "description": "A small Army of Greeks spearheaded by three hundred Spartans do battle with the whole invading Persian Army.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Rudolph Maté",
+            "url": "/name/nm0005789/"
+        }
+    ],
+    "duration": "PT1H54M",
+    "genre": [
+        "Adventure",
+        "Drama",
+        "History"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg0MmM4N2YtODExZi00ZDZmLWJiMjAtYTYzOGEwNWUxNGIxXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+    "keywords": "battle of thermopylae,achaemenid empire,sword and sandal history,epic history,army",
+    "name": "The 300 Spartans",
+    "original_info": {
+        "id": "The 300 Spartans_1962",
+        "name": "The 300 Spartans",
+        "year": "1962"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "ppeterson2-1"
+        },
+        "dateCreated": "2004-01-25",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0055719/"
+        },
+        "name": "My favorite all time movie",
+        "reviewBody": "I saw this movie when it first came out in 1962, I believe, when I was just a kid and it is still one of my favorite movies of all time. As I got older there were a few mistakes in it that I noticed. One was, someone in the movie said that the Spartans fight like Machines. I don't think that the word machines or machines in general were invented then. I could be wrong though. A few other flaws but in my judgement it is one the finest army action fighting movies.Reading history books about the Persian wars it seems quite accurate."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for this epic period drama",
+        "duration": "PT2M37S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi3572237337",
+        "name": "The 300 Spartans",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZThiYmE5NDQtNGM5Yi00YjZlLTlhY2MtMjhlYWY1MTM1OWU3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZThiYmE5NDQtNGM5Yi00YjZlLTlhY2MtMjhlYWY1MTM1OWU3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2010-01-16T16:31:01Z",
+        "url": "https://www.imdb.com/video/vi3572237337/"
+    },
+    "url": "/title/tt0055719/"
+}

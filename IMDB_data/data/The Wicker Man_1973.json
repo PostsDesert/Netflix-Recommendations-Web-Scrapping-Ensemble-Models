@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Edward Woodward",
+            "url": "/name/nm0940919/"
+        },
+        {
+            "@type": "Person",
+            "name": "Christopher Lee",
+            "url": "/name/nm0000489/"
+        },
+        {
+            "@type": "Person",
+            "name": "Diane Cilento",
+            "url": "/name/nm0162283/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 83852,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0103038/"
+        },
+        {
+            "@type": "Person",
+            "name": "Anthony Shaffer",
+            "url": "/name/nm0787289/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Pinner",
+            "url": "/name/nm0684432/"
+        }
+    ],
+    "datePublished": "1974-08-07",
+    "description": "A puritan Police Sergeant arrives in a Scottish island village in search of a missing girl, who the Pagan locals claim never existed.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Robin Hardy",
+            "url": "/name/nm0362736/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "genre": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOWIzY2QyNDQtOWI3Ni00MjEwLTlhYTgtZTgyMThiY2JkMTY4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "folk horror,paganism,island community,religious sacrifice,female frontal nudity",
+    "name": "The Wicker Man",
+    "original_info": {
+        "id": "The Wicker Man_1973",
+        "name": "The Wicker Man",
+        "year": "1973"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "united100"
+        },
+        "dateCreated": "2003-09-19",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0070917/"
+        },
+        "name": "A cult film about cult practices...",
+        "reviewBody": "The best British horror film ever made? Probably, yes. The best horror film ever made? No. The best occult thriller ever? Quite possibly.\n\nThe film was in part conceived as a vehicle for Christopher Lee to get away from his Hammer roles and give him a chance to demonstrate that, yes, he could actually act. Perversely, however, the film is in many ways homage to the films produced by the Hammer studio and is at the same time their antithesis.\n\nAlthough Lee's Lord Summerisle was certainly a stronger character than his Hammer caricatures, and was suitably sincere and sinister, it was left to Edward Woodward's bumbling, pious Highland Police Sergeant to carry the film.\n\nThe rest of the cast are not as strong as the two central characters. Famously, it was always suggested that Britt Ekland's voice was overdubbed for the entire film. Robin Hardy has now denied that, stating that only her singing was dubbed. Even if the other actors' performances fail to match those of Woodward and Lee, somehow, it doesn't detract from the film.\n\nAlmost as famous as The Wicker Man itself are the stories surrounding the film. The version first released was almost completely butchered from an original, almost grandiose cut of 102 minutes to a more concise 87. Christopher Lee has always maintained that this was a crime against the greatest piece of art with which he had ever been involved. The original negatives were then accidentally thrown out!\n\nWhen a fuller version finally surfaced in 2001, Lee's contentions were (at least in part) proved. The film was overall improved, and save for a couple of points of rather clumsy editing (the flashbacks Edward Woodward has as the penny drops spring to mind) and the pointless scenes before the flight to the island, it ran more smoothly and made more sense.\n\nThe film's greatest asset comes through in whichever version you actually see. The eerie sinister atmosphere never fails to be conveyed. Somehow, the fictitious Scottish island setting of Summerisle, which could so easily turn twee at any moment steers clear of the territory occupied by Brigadoon or the now happily deceased BBC TV drama 'Monarch of the Glen'.\n\nThe setting's remoteness, which could have been its worst enemy, is actually its greatest ally.\n\nPerhaps the most interesting thing about the film, however, is the way that it steadfastly refuses to fit precisely into any genre. It is all at once a horror, a thriller and even a musical! Unbelievably, these things come together and fit into the film.\n\nThe music in The Wicker Man is unique, always adding just the right tone of eeriness or bawdiness to proceedings. A strange mix of elements including traditional folk music, it's as innovative and interesting as the soundtracks to Blade Runner, or The Virgin Suicides. The opening title sequence to the tune of Corn Rigs succeeds in transporting you with the plane over the remote coastal peninsulas and out into the Irish Sea towards Summerisle.\n\nMy only criticism of the film (and I really am nitpicking here) is the way it goes about establishing Sergeant Howie's Christianity. I can't conceive of the Howie character adhering to any religion other than one of the obscure forms of Presbyterian Protestantism practised in parts of the Highlands of Scotland. These scenes contain an apparent reverence for the sacraments that appears more Catholic in nature. This distinction in religious backgrounds is important to understanding Howie's attitudes. Nevertheless, I am truly nitpicking when I make this criticism!\n\nBut what ultimately makes this film is its ending. Without giving the game away for those who have not yet seen the film, it is inevitable, and yet wholly unexpected when it finally comes.\n\nThe Wicker Man would be a classic of its genre - if it had a genre. Instead, it has to be ranked as a classic film.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 9,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for The Wicker Man: The Final Cut",
+        "duration": "PT1M30S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi695053849",
+        "name": "The Wicker Man: The Final Cut",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjJlZmZmOTEtYTc4YS00N2VlLWI2MjUtNGZiYjQzMDJjODNmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjJlZmZmOTEtYTc4YS00N2VlLWI2MjUtNGZiYjQzMDJjODNmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2015-02-28T08:14:23Z",
+        "url": "https://www.imdb.com/video/vi695053849/"
+    },
+    "url": "/title/tt0070917/"
+}

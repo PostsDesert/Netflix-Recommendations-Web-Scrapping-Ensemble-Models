@@ -1,0 +1,98 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Gene Barry",
+            "url": "/name/nm0058001/"
+        },
+        {
+            "@type": "Person",
+            "name": "Ann Robinson",
+            "url": "/name/nm0732378/"
+        },
+        {
+            "@type": "Person",
+            "name": "Les Tremayne",
+            "url": "/name/nm0871876/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 36888,
+        "ratingValue": 7,
+        "worstRating": 1
+    },
+    "contentRating": "G",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Person",
+            "name": "H.G. Wells",
+            "url": "/name/nm0920229/"
+        },
+        {
+            "@type": "Person",
+            "name": "Barré Lyndon",
+            "url": "/name/nm0528530/"
+        }
+    ],
+    "datePublished": "1953-08-26",
+    "description": "A small town in California is attacked by Martians, beginning a worldwide invasion.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Byron Haskin",
+            "url": "/name/nm0005738/"
+        }
+    ],
+    "duration": "PT1H25M",
+    "genre": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTViNjlmM2ItMmRhZC00ZDhkLWE2NTQtNzViMTgxNzY2MGY4XkEyXkFqcGdeQXVyNjEyNjA4ODg@._V1_.jpg",
+    "keywords": "alien,martian,invasion,atomic bomb,panic",
+    "name": "The War of the Worlds",
+    "original_info": {
+        "id": "The War of the Worlds_1953",
+        "name": "The War of the Worlds",
+        "year": "1953"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "didi-5"
+        },
+        "dateCreated": "2004-04-15",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0046534/"
+        },
+        "name": "the little men in lime green machines",
+        "reviewBody": "HG Wells' futuristic novel responds well to the Technicolor splashed on it in this 50s B classic. Gene Barry over emotes in the lead now and then but the martian invasion is handled very well and the tension rises to the final scenes where the surviving populace huddle in the church as the buildings crash and burn around them.\n\n'War of the Worlds' deserves its place as both a highly regarded novel and a well-remembered movie. Byron Haskin and George Pal did a great job in visualising the apocalyptic bits of Wells' text, while still making the end result enjoyable and interesting for the viewer.\n\nRecommended for fans of intellectualised science fiction."
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Theatrical Trailer from Paramount",
+        "duration": "PT2M19S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi4260692249",
+        "name": "The War of the Worlds",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNTlkNTVkMzAtNDVmZC00MTgyLTkyMDgtM2RhODAyZjExMzEyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTlkNTVkMzAtNDVmZC00MTgyLTkyMDgtM2RhODAyZjExMzEyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T16:54:11Z",
+        "url": "https://www.imdb.com/video/vi4260692249/"
+    },
+    "url": "/title/tt0046534/"
+}

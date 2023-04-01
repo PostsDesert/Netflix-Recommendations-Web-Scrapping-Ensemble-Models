@@ -1,0 +1,84 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Anouk Aimée",
+            "url": "/name/nm0000733/"
+        },
+        {
+            "@type": "Person",
+            "name": "Marc Michel",
+            "url": "/name/nm0584879/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jacques Harden",
+            "url": "/name/nm0362096/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 7038,
+        "ratingValue": 7.5,
+        "worstRating": 1
+    },
+    "contentRating": "Not Rated",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0025521/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jacques Demy",
+            "url": "/name/nm0218840/"
+        }
+    ],
+    "datePublished": "1962-10-14",
+    "description": "A bored young man meets with his former girlfriend, now a cabaret dancer and single mother, and soon finds himself falling back in love with her.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Jacques Demy",
+            "url": "/name/nm0218840/"
+        }
+    ],
+    "duration": "PT1H30M",
+    "genre": [
+        "Drama",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTg2NTUzOWItMWI1Mi00MzI0LTg4YjgtZDRjZWIzM2Q0YmY4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTc1NDM0NDU@._V1_.jpg",
+    "keywords": "character name as title,one word title,france,coastal town,cabaret dancer",
+    "name": "Lola",
+    "original_info": {
+        "id": "Lola_1961",
+        "name": "Lola",
+        "year": "1961"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Daniel Karlsson"
+        },
+        "dateCreated": "2003-10-06",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0055093/"
+        },
+        "name": "Love it",
+        "reviewBody": "The modern mainstream movie-goer will probably react negatively toward this wonderful little film, an early Demy masterpiece. Meetings and love, what I like most in life in this moment, are the most wonderful aspects of human life. It takes longer for some people to realize this. Maybe if they fall in love they will understand what surely brings happiness, and it is not about things or stuff. Simple meetings between people. Human interaction. I miss nothing in this film, it has the elements I want from a movie. The score is wonderful; Mozart, Legrande (who uses the same tune in Parapluies de Cherbourg) and especially Beethoven's 7th symphony that is well fit in the finale. Maybe what I like so much about movies is the combination of photo and music. And the photo by Raoul Coutard (my favorite cinematographer) is amazing. The beautiful and detailed outdoor scenes, the light, the compositions.\n\nThe little affair between the American sailor and the 14-year old French girl would probably be classed as soft pedophilia today, btw.\n\n5/5",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 10,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0055093/"
+}

@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dennis Quaid",
+            "url": "/name/nm0000598/"
+        },
+        {
+            "@type": "Person",
+            "name": "Meg Ryan",
+            "url": "/name/nm0000212/"
+        },
+        {
+            "@type": "Person",
+            "name": "James Caan",
+            "url": "/name/nm0001001/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 5952,
+        "ratingValue": 6.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0038270/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0114242/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steve Kloves",
+            "url": "/name/nm0460141/"
+        }
+    ],
+    "datePublished": "1993-11-05",
+    "description": "Decades later, a son of a killer falls in love with a girl, whose family's horrifying murder he saw in childhood.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Steve Kloves",
+            "url": "/name/nm0460141/"
+        }
+    ],
+    "duration": "PT2H6M",
+    "genre": [
+        "Drama",
+        "Mystery",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzEzNTA3N2MtNzEyNC00ZDA3LTkwNGMtYWEyODRlNjZhZDQ0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "murder of a child,witness to a murder,father son relationship,murder of a family,son of murderer falls in love with daughter of murder victim",
+    "name": "Flesh and Bone",
+    "original_info": {
+        "id": "Flesh and Bone_1993",
+        "name": "Flesh and Bone",
+        "year": "1993"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "lastliberal"
+        },
+        "dateCreated": "2007-05-27",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0106926/"
+        },
+        "name": "It ain't my face the boys want to see.",
+        "reviewBody": "This is not a film where everything appears obvious. It is dark and complicated. It is about how the past haunts you and affects your life in the present. It is the stuff that Freud would have fun dealing with.\n\nThe stars in this film give performances that are among the best in their careers.\n\nDennis Quaid (Frequency, Far From Heaven) is clearly the lead in this picture as the son of a soulless murderer and thief (James Caan). He carries the devil with him through his life and it affects his relationships with women. He runs into an abused housewife (Meg Ryan, in a non-romantic role), and they travel the back-roads of Texas together. Gwyneth Paltrow (Shakesphere in Love) is a thief that plays Caan's companion, even if he is old enough to be her grandfather.\n\nThis is written and directed by the Oscar nominated (Wonder Boys) writer of all of the Harry Potter movies, Steve Kloves. He does a fabulous job.\n\nDefinitely a movie to watch when you get a chance.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 7,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Decades later, a son of a killer falls in love with a girl, whose family's horrifying murder he saw in childhood.",
+        "duration": "PT1M48S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2358559513",
+        "name": "Official Trailer",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYTEyMWQyMzYtNjdiZC00YjY4LWE1MTgtMmJlNDZiZTU1YWI3XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTEyMWQyMzYtNjdiZC00YjY4LWE1MTgtMmJlNDZiZTU1YWI3XkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+        "uploadDate": "2021-10-06T00:46:07.712Z",
+        "url": "https://www.imdb.com/video/vi2358559513/"
+    },
+    "url": "/title/tt0106926/"
+}

@@ -1,0 +1,103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Sally Field",
+            "url": "/name/nm0000398/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kevin Kline",
+            "url": "/name/nm0000177/"
+        },
+        {
+            "@type": "Person",
+            "name": "Cathy Moriarty",
+            "url": "/name/nm0001550/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 16854,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Harling",
+            "url": "/name/nm0363326/"
+        },
+        {
+            "@type": "Person",
+            "name": "Andrew Bergman",
+            "url": "/name/nm0000921/"
+        }
+    ],
+    "datePublished": "1991-05-31",
+    "description": "An ambitious television soap actress connives with her producer to scuttle the career of the show's long-time star, but nothing works as they plan.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Michael Hoffman",
+            "url": "/name/nm0001355/"
+        }
+    ],
+    "duration": "PT1H37M",
+    "genre": [
+        "Comedy",
+        "Romance"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZjc1Y2ZlNDktNmQzOC00ZTA0LThlNTAtMjNlODVmMzA1MzQ4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "keywords": "casting couch,casting director,bare chested male,misunderstanding,voyeur",
+    "name": "Soapdish",
+    "original_info": {
+        "id": "Soapdish_1991",
+        "name": "Soapdish",
+        "year": "1991"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "vulture"
+        },
+        "dateCreated": "2000-05-18",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0102951/"
+        },
+        "name": "Genuinely funny movie",
+        "reviewBody": "Soapdish may go down as one of the single most under-rated movies ever made.\n\nA stellar, unselfish cast who understood exactly where the movie was going and the roles they played in it. While everyone hammed it up, there was no one-upmanship. Kline showed wit and great physical comedy, Goldberg and Downey knew how to carry on a funny conversation while someone else was talking, I could just go on.\n\nDo not pass this movie by!",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Home Video Trailer from Paramount Home Entertainment",
+        "duration": "PT2M29S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2307129625",
+        "name": "Soapdish",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYWRlYjQyOWQtMTljMS00NmZhLTlhN2ItZTc2OTAxNjVjZjdiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYWRlYjQyOWQtMTljMS00NmZhLTlhN2ItZTc2OTAxNjVjZjdiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T15:54:50Z",
+        "url": "https://www.imdb.com/video/vi2307129625/"
+    },
+    "url": "/title/tt0102951/"
+}

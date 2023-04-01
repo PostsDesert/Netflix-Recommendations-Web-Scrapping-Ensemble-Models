@@ -1,0 +1,110 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "John Travolta",
+            "url": "/name/nm0000237/"
+        },
+        {
+            "@type": "Person",
+            "name": "Robert Duvall",
+            "url": "/name/nm0000380/"
+        },
+        {
+            "@type": "Person",
+            "name": "Kathleen Quinlan",
+            "url": "/name/nm0000599/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 30069,
+        "ratingValue": 6.6,
+        "worstRating": 1
+    },
+    "contentRating": "PG-13",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0049348/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0023400/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0034515/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jonathan Harr",
+            "url": "/name/nm0364025/"
+        },
+        {
+            "@type": "Person",
+            "name": "Steven Zaillian",
+            "url": "/name/nm0001873/"
+        }
+    ],
+    "datePublished": "1999-01-08",
+    "description": "A tenacious lawyer takes on a case involving two companies responsible for causing several children to be diagnosed with leukemia due to the town's water supply being contaminated, at the risk of bankrupting his firm and career.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Steven Zaillian",
+            "url": "/name/nm0001873/"
+        }
+    ],
+    "duration": "PT1H55M",
+    "genre": [
+        "Drama"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BZmEzNjhiZWEtNTM5OS00ZmQyLThhYjEtNjY4ZDZhOGFkMzI4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "lawyer,law firm,lawsuit,toxic waste,1980s",
+    "name": "A Civil Action",
+    "original_info": {
+        "id": "A Civil Action_1998",
+        "name": "A Civil Action",
+        "year": "1998"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "moonspinner55"
+        },
+        "dateCreated": "2006-06-20",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0120633/"
+        },
+        "name": "Straightforward legal case with environmental overtures...",
+        "reviewBody": "John Travolta gives a dandy performance as a cocky Boston personal injury lawyer who heads up a small but burgeoning firm, almost passing up on headline-making case of a major food company subsidiary found to be dumping toxic chemicals into the water supply of a small-town Massachusettes town, causing many of the children there to get sick or die. Neatly directed and scripted film from Jonathan Harr's factual book allows for both legal statistics and some dry legal humor, and avoids exploiting an emotionally-wrenching theme (the death of children) for hug-tugging sentiment. The film is direct and compact, pausing only occasionally for a dramatic character turn, and is handsomely-made if not terrifically entertaining. Travolta and nemesis lawyer Robert Duvall (smiling like the Cheshire Cat) are wonderful to watch sparring with one another, and the specifics of the case are intriguing. **1/2 from ****",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 6,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer for A Civil Action",
+        "duration": "PT58S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1169424665",
+        "name": "A Civil Action",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BYTZmMWQ3ZDgtNDEwMi00YTc0LTlkYzItNTg3NDc3YzJjMDUzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTZmMWQ3ZDgtNDEwMi00YTc0LTlkYzItNTg3NDc3YzJjMDUzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2008-04-11T05:20:37Z",
+        "url": "https://www.imdb.com/video/vi1169424665/"
+    },
+    "url": "/title/tt0120633/"
+}

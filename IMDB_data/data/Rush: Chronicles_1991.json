@@ -1,0 +1,48 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Geddy Lee",
+            "url": "/name/nm1441958/"
+        },
+        {
+            "@type": "Person",
+            "name": "Alex Lifeson",
+            "url": "/name/nm0509820/"
+        },
+        {
+            "@type": "Person",
+            "name": "Neil Peart",
+            "url": "/name/nm1307637/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 81,
+        "ratingValue": 8.4,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0066987/"
+        }
+    ],
+    "description": "Rush's second collection of videos reminds us of why, perhaps, they are first and foremost an 'audible' experience. Studio footage is of course always welcomed, but their entry into the world of Music Video leaves much to be desired.",
+    "duration": "PT1H3M",
+    "genre": [
+        "Music"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BNWRjOTVlOWYtYzcwYi00MzZmLWFmMTMtOTQ1ZWRkOGU5ZWNlXkEyXkFqcGdeQXVyNzAyODYyMTE@._V1_.jpg",
+    "keywords": "music video collection",
+    "name": "Rush: Chronicles",
+    "original_info": {
+        "id": "Rush: Chronicles_1991",
+        "name": "Rush: Chronicles",
+        "year": "1991"
+    },
+    "url": "/title/tt1438502/"
+}

@@ -1,0 +1,113 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mel Gibson",
+            "url": "/name/nm0000154/"
+        },
+        {
+            "@type": "Person",
+            "name": "Danny Glover",
+            "url": "/name/nm0000418/"
+        },
+        {
+            "@type": "Person",
+            "name": "Joe Pesci",
+            "url": "/name/nm0000582/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 180593,
+        "ratingValue": 7.2,
+        "worstRating": 1
+    },
+    "contentRating": "R",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0002663/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0019968/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jeffrey Boam",
+            "url": "/name/nm0090151/"
+        },
+        {
+            "@type": "Person",
+            "name": "Shane Black",
+            "url": "/name/nm0000948/"
+        },
+        {
+            "@type": "Person",
+            "name": "Warren Murphy",
+            "url": "/name/nm0614775/"
+        }
+    ],
+    "datePublished": "1989-07-07",
+    "description": "Riggs and Murtaugh are on the trail of South African diplomats who are using their immunity to engage in criminal activities.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Richard Donner",
+            "url": "/name/nm0001149/"
+        }
+    ],
+    "duration": "PT1H54M",
+    "genre": [
+        "Action",
+        "Crime",
+        "Thriller"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYTg0YmE1M2ItNGM2OC00MmZjLTgwMTMtZjlmOGE4N2EyNTVhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "keywords": "krugerrand,two man army,shoulder,holster,squad car",
+    "name": "Lethal Weapon 2",
+    "original_info": {
+        "id": "Lethal Weapon 2_1989",
+        "name": "Lethal Weapon 2",
+        "year": "1989"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "mjw2305"
+        },
+        "dateCreated": "2005-01-23",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0097733/"
+        },
+        "name": "A fine Sequel",
+        "reviewBody": "Riggs and Murtaugh now face a bunch of south African criminals hiding behind their diplomatic immunity. The duo have to fight for their right to fight back, as the criminals declare war on the cops, and arouse the lethal weapon in Riggs.\n\nThe introdction of Joe Pesci's character is a little annoying at first but it soon grows on you and he adds a focus for the comedy element.\n\nRichard Donner again directs the cop duo and again we have a movie well worth watching.\n\nPlenty of action, a few more laughs and a lethal weapon that is still just as sharp, all combine to deliver another great outing for Riggs and Murtaugh.\n\n8/10",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "Trailer 2 for Lethal Weapon 2",
+        "duration": "PT1M28S",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi1963893785",
+        "name": "Lethal Weapon 2",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BOGY0NjYyNWItMTA0ZS00NTA2LWI2ZDctZmNiOGExYzYwOWZkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGY0NjYyNWItMTA0ZS00NTA2LWI2ZDctZmNiOGExYzYwOWZkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "2012-10-22T03:19:37Z",
+        "url": "https://www.imdb.com/video/vi1963893785/"
+    },
+    "url": "/title/tt0097733/"
+}
