@@ -1,0 +1,77 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Dana Kelly Jr.",
+            "url": "/name/nm0446296/"
+        },
+        {
+            "@type": "Person",
+            "name": "David Alan Graf",
+            "url": "/name/nm0333702/"
+        },
+        {
+            "@type": "Person",
+            "name": "Emmy Collins",
+            "url": "/name/nm0172301/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 21,
+        "ratingValue": 6.8,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0226705/"
+        },
+        {
+            "@type": "Person",
+            "name": "Peter M. Nelson",
+            "url": "/name/nm0625669/"
+        }
+    ],
+    "datePublished": "2000-11-01",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Peter M. Nelson",
+            "url": "/name/nm0625669/"
+        }
+    ],
+    "duration": "PT1H28M",
+    "keywords": "title based on the bible",
+    "name": "God Made Man",
+    "original_info": {
+        "id": "God_2000",
+        "name": "God",
+        "year": "2000"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Gorgar"
+        },
+        "dateCreated": "2003-05-13",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0269283/"
+        },
+        "name": "But Monkeys Supplied the Glue",
+        "reviewBody": "This flapper is unhinged! Very good performances throughout. Check out Gay Jesus(portrayed by Emmy Collins) and Gay Satan(beautifully played) hitting on the same dude!! Leave your mind at the coat check and revel in the gooey madness.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0269283/"
+}
