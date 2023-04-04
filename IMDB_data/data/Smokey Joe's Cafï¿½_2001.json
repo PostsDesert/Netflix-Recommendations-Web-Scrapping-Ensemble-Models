@@ -1,0 +1,91 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Ken Ard",
+            "url": "/name/nm0033907/"
+        },
+        {
+            "@type": "Person",
+            "name": "Adrian Bailey",
+            "url": "/name/nm1218483/"
+        },
+        {
+            "@type": "Person",
+            "name": "Matt Bogart",
+            "url": "/name/nm1408427/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 109,
+        "ratingValue": 8.1,
+        "worstRating": 1
+    },
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0741148/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0001294/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0054175/"
+        },
+        {
+            "@type": "Person",
+            "name": "Otis Sallid",
+            "url": "/name/nm0758590/"
+        }
+    ],
+    "datePublished": "2002-12-31",
+    "description": "A musical revue made up of legendary song-writing duo, Leiber and Stoller's best-known songs.",
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Don Roy King",
+            "url": "/name/nm0454660/"
+        }
+    ],
+    "duration": "PT1H45M",
+    "genre": [
+        "Musical"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU0Nzc0MDU2OF5BMl5BanBnXkFtZTcwNzE5MjA0MQ@@._V1_.jpg",
+    "keywords": "musical revue,new york city,manhattan new york city,filmed play,tv special",
+    "name": "Smokey Joe's Cafe: The Songs of Leiber and Stoller",
+    "original_info": {
+        "id": "Smokey Joe's Cafï¿½_2001",
+        "name": "Smokey Joe's Cafï¿½",
+        "year": "2001"
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "name": "Sylviastel"
+        },
+        "dateCreated": "2019-04-07",
+        "inLanguage": "English",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0369945/"
+        },
+        "name": "Yakety Yak Don't Talk Back!",
+        "reviewBody": "Jerry Leiber and Mike Stoller were a terrific songwriting team who wrote classic hits for several well-known singers for decades. The cast is the original who performed in 1995. They reunited to perform for a taped event. The songs are familiar and done well. The cast do a terrific job. If I have one complaint is that there is nothing to connect one song to each other. If you're a fan of the musical, this will be a dream come true to those who enjoyed the show live on stage. The cast and crew don't miss a beat with the music and dancing. It's an enjoyable light-hearted show overall.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": 10,
+            "ratingValue": 8,
+            "worstRating": 1
+        }
+    },
+    "url": "/title/tt0369945/"
+}
