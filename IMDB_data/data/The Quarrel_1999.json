@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Daniel Poliquin",
+            "url": "/name/nm8509445/"
+        },
+        {
+            "@type": "Person",
+            "name": "Catherine Colvey",
+            "url": "/name/nm0173413/"
+        },
+        {
+            "@type": "Person",
+            "name": "Louise Naubert",
+            "url": "/name/nm0622479/"
+        }
+    ],
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0006414/"
+        },
+        {
+            "@type": "Person",
+            "name": "Fadel Saleh",
+            "url": "/name/nm1874585/"
+        }
+    ],
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Fadel Saleh",
+            "url": "/name/nm1874585/"
+        }
+    ],
+    "duration": "PT58M",
+    "genre": [
+        "History"
+    ],
+    "name": "The Black Squirrel",
+    "original_info": {
+        "id": "The Quarrel_1999",
+        "name": "The Quarrel",
+        "year": "1999"
+    },
+    "url": "/title/tt14603680/"
+}
