@@ -1,0 +1,53 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Mark Calaway",
+            "url": "/name/nm0130587/"
+        },
+        {
+            "@type": "Person",
+            "name": "Sid Eudy",
+            "url": "/name/nm0262309/"
+        },
+        {
+            "@type": "Person",
+            "name": "Harry Fujiwara",
+            "url": "/name/nm0297866/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 11,
+        "ratingValue": 5.9,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0017569/"
+        },
+        {
+            "@type": "Person",
+            "name": "Vince McMahon",
+            "url": "/name/nm0573093/"
+        }
+    ],
+    "datePublished": "1992-11-05",
+    "duration": "PT1H",
+    "genre": [
+        "Sport"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BYzY0MmYzMmEtYWEwYy00MjYyLTkzYmMtNDYyOTQxZmQ4NDVkXkEyXkFqcGdeQXVyMTEyMDcwNw@@._V1_.jpg",
+    "keywords": "wrestling",
+    "name": "The Return of the Ultimate Warrior",
+    "original_info": {
+        "id": "The Return of Spinal Tap_1992",
+        "name": "The Return of Spinal Tap",
+        "year": "1992"
+    },
+    "url": "/title/tt7349858/"
+}
