@@ -7,4 +7,6 @@ Run the following commands in the terminal to install the required packages:
 !pip install requests-html
 pip install poetry
 poetry install
+poetry shell
+./download_data.sh
 ```
