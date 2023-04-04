@@ -1,0 +1,36 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Bruce Boxleitner",
+            "url": "/name/nm0000310/"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 10,
+        "ratingCount": 13,
+        "ratingValue": 8.5,
+        "worstRating": 1
+    },
+    "creator": [
+        {
+            "@type": "Person",
+            "name": "Noelle Wright",
+            "url": "/name/nm1303197/"
+        }
+    ],
+    "description": "Describes the inception and activities of the Flying Tigers, aka American Volunteer Group. How Claire Chennault implemented new tactics for air warfare for a clandestine group that fought in China during early WW2.",
+    "genre": [
+        "Documentary"
+    ],
+    "name": "The Real Flying Tigers",
+    "original_info": {
+        "id": "The Flying Tigers_1942",
+        "name": "The Flying Tigers",
+        "year": "1942"
+    },
+    "url": "/title/tt0281123/"
+}
