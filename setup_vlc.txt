@@ -1,0 +1,35 @@
+# install cuda (might not need to do this as torch comes with its own version of CUDA)
+sudo apt clean &&
+sudo apt update &&
+sudo apt purge nvidia-* &&
+sudo apt autoremove
+
+wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-keyring_1.0-1_all.deb
+sudo dpkg -i cuda-keyring_1.0-1_all.deb
+sudo apt-get update
+sudo apt-get -y install cuda
+
+
+# Attempt - 2
+sudo apt-get -o Dpkg::Options::="--force-overwrite" install --fix-broken
+
+
+# NGROX (Port Forwarding)
+snap install ngrok
+
+
+
+# setup repo
+## Do a git clone of the repo
+cd CSC-422-Netflix-Recommendations-Web-Scrapping-Ensemble-Models &&
+sudo add-apt-repository ppa:deadsnakes/ppa -y &&
+sudo apt-get update &&
+sudo apt-get install python3.10 -y &&
+curl -s0 https://bootstrap.pypa.io/get-pip.py | python3.10 &&
+python3.10 -m pip install poetry &&
+python3.10 -m pip install --upgrade requests &&
+python3.10 -m poetry config --local virtualenvs.in-project true &&
+export PYTHON_KEYRING_BACKEND=keyring.backends.null.Keyring &&
+python3.10 -m poetry install &&
+python3.10 -m poetry shell &&
+cd prize_dataset && chmod +x ./download_data.sh && ./download_data.sh
