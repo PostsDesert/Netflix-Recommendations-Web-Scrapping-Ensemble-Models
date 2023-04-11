@@ -33,3 +33,6 @@ export PYTHON_KEYRING_BACKEND=keyring.backends.null.Keyring &&
 python3.10 -m poetry install &&
 python3.10 -m poetry shell &&
 cd prize_dataset && chmod +x ./download_data.sh && ./download_data.sh
+
+#Windows
+python -m pip install torch --index-url https://download.pytorch.org/whl/cu118
