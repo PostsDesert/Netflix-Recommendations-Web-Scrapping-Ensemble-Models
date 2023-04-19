@@ -14,3 +14,7 @@ cd prize_dataset && chmod +x ./download_data.sh && ./download_data.sh
 
 #Windows
 python -m pip install torch --index-url https://download.pytorch.org/whl/cu118
+
+# Fix /usr/bin/nvidia-modprobe: unrecognized option: "-s"
+wget http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/nvidia-modprobe_455.45.01-0ubuntu1_amd64.deb
+sudo dpkg -i nvidia-modprobe_455.45.01-0ubuntu1_amd64.deb
