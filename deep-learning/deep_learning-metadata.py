@@ -430,8 +430,8 @@ class HybridRecommenderModel(nn.Module):
 # Training
 n_users = df_filtered['User'].nunique()
 n_movies = df_filtered['Movie'].nunique()
-embedding_size = 20
-batch_size = 1024
+embedding_size = 100
+batch_size = 2048
 # get the columns of the metadata
 n_features_metadata = movie_metadata.shape[1]
 
@@ -445,7 +445,7 @@ val_dataset = HybridMovieDataset(X_test['User'], X_test['Movie'], movie_metadata
 train_dataloader = DataLoader(train_dataset, batch_size=batch_size, shuffle=False)
 val_dataloader = DataLoader(val_dataset, batch_size=batch_size, shuffle=True)
 
-n_epochs = 50
+n_epochs = 300
 
 training_loop(n_epochs, optimizer, model, criterion, train_dataloader, val_dataloader, device, "nn-hybrid")
 
