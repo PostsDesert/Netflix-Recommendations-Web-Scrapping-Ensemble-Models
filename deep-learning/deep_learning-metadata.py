@@ -290,7 +290,11 @@ def train(model, dataloader, criterion, optimizer, device):
     model.train()
     running_loss = 0.0
     for user, movie, rating in dataloader:
-        user, movie, rating = user.to(device), movie.to(device), rating.to(device)
+        if type(movie) is dict:
+            movie = {key: value.to(device) for key, value in movie.items()}
+        else:
+            movie = movie.to(device)
+        user, rating = user.to(device), rating.to(device)
         optimizer.zero_grad()
         outputs = model(user, movie)
         loss = criterion(outputs, rating)
@@ -305,7 +309,11 @@ def validate(model, dataloader, criterion, device):
         running_loss = 0.0
         with torch.no_grad():
             for user, movie, rating in dataloader:
-                user, movie, rating = user.to(device), movie.to(device), rating.to(device)
+                if type(movie) is dict:
+                    movie = {key: value.to(device) for key, value in movie.items()}
+                else:
+                    movie = movie.to(device)
+                user, rating = user.to(device), rating.to(device)
                 outputs = model(user, movie)
                 loss = criterion(outputs, rating)
                 running_loss += loss.item() * user.size(0)
@@ -318,7 +326,11 @@ def evaluate(model, dataloader, device):
         ground_truth = []
         with torch.no_grad():
             for user, movie, rating in dataloader:
-                user, movie, rating = user.to(device), movie.to(device), rating.to(device)
+                if type(movie) is dict:
+                    movie = {key: value.to(device) for key, value in movie.items()}
+                else:
+                    movie = movie.to(device)
+                user, rating = user.to(device), rating.to(device)
                 outputs = model(user, movie)
                 predictions.extend(outputs.view(-1).cpu().numpy())
                 ground_truth.extend(rating.view(-1).cpu().numpy())
@@ -390,7 +402,7 @@ class HybridRecommenderModel(nn.Module):
         self.movie_embedding = nn.Embedding(n_movies, embedding_size)
         self.movie_metadata = nn.Linear(metadata_size, embedding_size)
         self.dropout = nn.Dropout(0.2)
-        self.fc1 = nn.Linear(2 * embedding_size + 1, 256)
+        self.fc1 = nn.Linear(3 * embedding_size + 1, 256)
         self.fc2 = nn.Linear(256, 128)
         self.fc3 = nn.Linear(128, 64)
         self.fc4 = nn.Linear(64, 32)
@@ -401,9 +413,7 @@ class HybridRecommenderModel(nn.Module):
     def forward(self, user, movie):
         user_vector = self.user_embedding(user).squeeze(1)
         movie_vector = self.movie_embedding(movie["id"]).squeeze(1)
-        metadata_vector = self.movie_metadata(movie["metadata"])
-
-        metadata_interaction = torch.mul(user_vector, metadata_vector)
+        metadata_vector = torch.relu(self.movie_metadata(movie["metadata"]))
 
         # metadata_vector = torch.relu(self.m0(metadata_vector))
         # metadata_vector = self.dropout(metadata_vector)
@@ -413,7 +423,7 @@ class HybridRecommenderModel(nn.Module):
         # metadata_vector_norm = nn.functional.normalize(metadata_vector, p=2, dim=1)
 
         # mul and sum are needed because dot only works with 1D tensors
-        metadata_interaction = torch.mul(user_vector, metadata_interaction)
+        metadata_interaction = torch.mul(user_vector, metadata_vector)
         x = torch.mul(user_vector, movie_vector).sum(1).unsqueeze(1)
         cat = torch.cat([user_vector, movie_vector, metadata_interaction, x], dim=1)
         dense = torch.relu(self.fc1(cat))
@@ -434,8 +444,8 @@ class HybridRecommenderModel(nn.Module):
 # Training
 n_users = df_filtered['User'].nunique()
 n_movies = df_filtered['Movie'].nunique()
-embedding_size = 100
-batch_size = 2048
+embedding_size = 20 #100
+batch_size = 1 #2048
 # get the columns of the metadata
 n_features_metadata = movie_metadata.shape[1]
 
