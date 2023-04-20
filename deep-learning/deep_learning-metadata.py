@@ -197,15 +197,14 @@ df_filtered.head(5)
 
 # In[75]:
 
-
-# Shuffle DataFrame
-df_filtered = df_filtered.sample(frac=1).reset_index()
-
-percent_test = .2
-
 # create random seed
 import random
 seed = random.seed(42)
+
+# Shuffle DataFrame
+df_filtered = df_filtered.sample(frac=1, random_state=seed).reset_index()
+
+percent_test = .2
 
 
 # Split train and set set based on percentage
@@ -444,8 +443,8 @@ class HybridRecommenderModel(nn.Module):
 # Training
 n_users = df_filtered['User'].nunique()
 n_movies = df_filtered['Movie'].nunique()
-embedding_size = 20 #100
-batch_size = 1 #2048
+embedding_size = 500
+batch_size = 4096
 # get the columns of the metadata
 n_features_metadata = movie_metadata.shape[1]
 
@@ -461,5 +460,5 @@ val_dataloader = DataLoader(val_dataset, batch_size=batch_size, shuffle=True)
 
 n_epochs = 300
 
-training_loop(n_epochs, optimizer, model, criterion, train_dataloader, val_dataloader, device, "nn-hybrid")
+training_loop(n_epochs, optimizer, model, criterion, train_dataloader, val_dataloader, device, "nn-hybrid-embed100-batch2048")
 

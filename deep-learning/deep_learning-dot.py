@@ -124,13 +124,15 @@ df_filtered.head(5)
 
 
 # Shuffle DataFrame
-df_filtered = df_filtered.sample(frac=1).reset_index()
-
-percent_test = .2
 
 # create random seed
 import random
 seed = random.seed(42)
+
+# Shuffle DataFrame
+df_filtered = df_filtered.sample(frac=1, random_state=seed).reset_index()
+
+percent_test = .2
 
 
 # Split train and set set based on percentage
