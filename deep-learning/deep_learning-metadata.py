@@ -381,7 +381,7 @@ class HybridMovieDataset(Dataset):
         return len(self.users)
 
     def __getitem__(self, idx):
-        return self.users[idx], self.movie_metadata[self.movie_ids[idx]], self.ratings[idx]
+        return self.users[idx], {"id": self.movie_ids[idx], "metadata": self.movie_metadata[self.movie_ids[idx]]}, self.ratings[idx]
 
 class HybridRecommenderModel(nn.Module):
     def __init__(self, n_users, n_movies, embedding_size, metadata_size):
@@ -398,20 +398,24 @@ class HybridRecommenderModel(nn.Module):
         self.m1 = nn.Linear(128, embedding_size)
         self.fc5 = nn.Linear(32, 1)
 
-    def forward(self, user, movie_metadata):
+    def forward(self, user, movie):
         user_vector = self.user_embedding(user).squeeze(1)
-        metadata_vector = self.movie_metadata(movie_metadata)
+        movie_vector = self.movie_embedding(movie["id"]).squeeze(1)
+        metadata_vector = self.movie_metadata(movie["metadata"])
 
-        metadata_vector = torch.relu(self.m0(metadata_vector))
-        metadata_vector = self.dropout(metadata_vector)
-        metadata_vector = torch.relu(self.fc2(metadata_vector))
-        metadata_vector = self.dropout(metadata_vector)
-        metadata_vector = self.m1(metadata_vector)
-        metadata_vector_norm = nn.functional.normalize(metadata_vector, p=2, dim=1)
+        metadata_interaction = torch.mul(user_vector, metadata_vector)
+
+        # metadata_vector = torch.relu(self.m0(metadata_vector))
+        # metadata_vector = self.dropout(metadata_vector)
+        # metadata_vector = torch.relu(self.fc2(metadata_vector))
+        # metadata_vector = self.dropout(metadata_vector)
+        # metadata_vector = self.m1(metadata_vector)
+        # metadata_vector_norm = nn.functional.normalize(metadata_vector, p=2, dim=1)
 
         # mul and sum are needed because dot only works with 1D tensors
-        x = torch.mul(user_vector, metadata_vector_norm).sum(1).unsqueeze(1)
-        cat = torch.cat([user_vector, metadata_vector_norm, x], dim=1)
+        metadata_interaction = torch.mul(user_vector, metadata_interaction)
+        x = torch.mul(user_vector, movie_vector).sum(1).unsqueeze(1)
+        cat = torch.cat([user_vector, movie_vector, metadata_interaction, x], dim=1)
         dense = torch.relu(self.fc1(cat))
         dense = self.dropout(dense)
         dense = torch.relu(self.fc2(dense))
