@@ -295,8 +295,8 @@ def training_loop(n_epochs, optimizer, model, criterion, train_dataloader, val_d
 # Training
 n_users = df_filtered['User'].nunique()
 n_movies = df_filtered['Movie'].nunique()
-embedding_size = 20
-batch_size = 1024
+embedding_size = 100
+batch_size = 2048
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model = RecommenderModel(n_users, n_movies, embedding_size).to(device)
@@ -308,6 +308,6 @@ val_dataset = MovieDataset(X_test['User'], X_test['Movie'], y_test)
 train_dataloader = DataLoader(train_dataset, batch_size=batch_size, shuffle=False)
 val_dataloader = DataLoader(val_dataset, batch_size=batch_size, shuffle=True)
 
-n_epochs = 50
+n_epochs = 300
 
-training_loop(n_epochs, optimizer, model, criterion, train_dataloader, val_dataloader, device, "nn-dot")
+training_loop(n_epochs, optimizer, model, criterion, train_dataloader, val_dataloader, device, "nn-dot-embed100-batch2048")
