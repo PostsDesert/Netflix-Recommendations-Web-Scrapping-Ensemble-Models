@@ -414,17 +414,10 @@ class HybridRecommenderModel(nn.Module):
         movie_vector = self.movie_embedding(movie["id"]).squeeze(1)
         metadata_vector = torch.relu(self.movie_metadata(movie["metadata"]))
 
-        # metadata_vector = torch.relu(self.m0(metadata_vector))
-        # metadata_vector = self.dropout(metadata_vector)
-        # metadata_vector = torch.relu(self.fc2(metadata_vector))
-        # metadata_vector = self.dropout(metadata_vector)
-        # metadata_vector = self.m1(metadata_vector)
-        # metadata_vector_norm = nn.functional.normalize(metadata_vector, p=2, dim=1)
-
         # mul and sum are needed because dot only works with 1D tensors
         metadata_interaction = torch.mul(user_vector, metadata_vector)
-        x = torch.mul(user_vector, movie_vector).sum(1).unsqueeze(1)
-        cat = torch.cat([user_vector, movie_vector, metadata_interaction, x], dim=1)
+        user_movie_vector = torch.mul(user_vector, movie_vector).sum(1).unsqueeze(1)
+        cat = torch.cat([user_vector, movie_vector, metadata_interaction, user_movie_vector], dim=1)
         dense = torch.relu(self.fc1(cat))
         dense = self.dropout(dense)
         dense = torch.relu(self.fc2(dense))

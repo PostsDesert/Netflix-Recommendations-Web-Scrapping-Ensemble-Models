@@ -204,8 +204,8 @@ class RecommenderModel(nn.Module):
         user_vector = self.user_embedding(user).squeeze(1)
         movie_vector = self.movie_embedding(movie).squeeze(1)
         # mul and sum are needed because dot only works with 1D tensors
-        x = torch.mul(user_vector, movie_vector).sum(1).unsqueeze(1)
-        cat = torch.cat([user_vector, movie_vector, x], dim=1)
+        user_movie_vector = torch.mul(user_vector, movie_vector).sum(1).unsqueeze(1)
+        cat = torch.cat([user_vector, movie_vector, user_movie_vector], dim=1)
         dense = torch.relu(self.fc1(cat))
         dense = self.dropout(dense)
         dense = torch.relu(self.fc2(dense))
@@ -297,8 +297,8 @@ def training_loop(n_epochs, optimizer, model, criterion, train_dataloader, val_d
 # Training
 n_users = df_filtered['User'].nunique()
 n_movies = df_filtered['Movie'].nunique()
-embedding_size = 100
-batch_size = 2048
+embedding_size = 500
+batch_size = 4096
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model = RecommenderModel(n_users, n_movies, embedding_size).to(device)
@@ -312,4 +312,4 @@ val_dataloader = DataLoader(val_dataset, batch_size=batch_size, shuffle=True)
 
 n_epochs = 300
 
-training_loop(n_epochs, optimizer, model, criterion, train_dataloader, val_dataloader, device, "nn-dot-embed100-batch2048")
+training_loop(n_epochs, optimizer, model, criterion, train_dataloader, val_dataloader, device, "nn-dot-embed500-batch4096")
